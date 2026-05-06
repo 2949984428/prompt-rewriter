@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ratio_lock",
+    "title": "比例必须显式锁定",
+    "enabled": true,
+    "trigger_keywords": [
+      "16:9",
+      "9:16",
+      "3:4",
+      "1080",
+      "1920",
+      "比例"
+    ],
+    "trigger_hint": "query 中出现明确比例参数",
+    "rule": "改写 prompt 末尾必须重复一次比例参数并声明【严格按此比例输出，不得自动调整】",
+    "source_case": "文档 2 优设 #3 / cherry #9"
+  },
+  {
+    "id": "celeb_replace",
+    "title": "名人词替换 / 规避",
+    "enabled": true,
+    "trigger_keywords": [],
+    "trigger_hint": "query 含真实名人姓名或 IP 角色全名（如 神仙姐姐 / 韦小宝 / 至尊宝）",
+    "rule": "在 final_prompt 中将名人姓名替换为对应特征描述，原词放进 [removed_term] 注释",
+    "source_case": "文档 2 cherry #2 / cherry #6"
+  },
+  {
+    "id": "info_preserve",
+    "title": "扩写不得丢失原文信息",
+    "enabled": true,
+    "trigger_keywords": [],
+    "trigger_hint": "query 长度 > 80 字 或 含明确标题/副标题/文案",
+    "rule": "extract 阶段先列出原 query 中所有 标题/文案/数字/品牌词；final_prompt 必须逐项保留，缺一项视为失败",
+    "source_case": "文档 2 公子龙 #6 / #9，cherry #5"
+  },
+  {
+    "id": "no_brand_logo_infringe",
+    "title": "禁止生成真实商业商标",
+    "enabled": false,
+    "trigger_keywords": [],
+    "trigger_hint": "query 含真实商业品牌商标",
+    "rule": "禁止生成可识别的真实商标，替换为通用风格描述",
+    "source_case": "通用合规"
+  },
+  {
+    "id": "augmentation_discipline",
+    "title": "扩写纪律（与 target_model profile 联动）",
+    "enabled": true,
+    "trigger_keywords": [],
+    "trigger_hint": "所有 query 默认命中，逐条判断具体度",
+    "rule": "先判断 query 具体度：已具体（含明确的主体/场景/风格/参数 ≥ 3 项）时，final_prompt 只做归一化与 target_model 结构对齐，禁止新增未 implied 的角色/物体/品牌/slogan/palette；粗略时允许补 composition / framing / polish / practical layout，但同样禁止加未 implied 的品牌与虚构事实。违反视为失败，需回退到原 query 语义。",
+    "source_case": "OpenAI gpt-image-2 best practices（augmentation discipline）"
+  }
+]

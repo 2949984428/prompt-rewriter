@@ -1,0 +1,292 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-sans);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --chart-1: oklch(0.87 0 0);
+  --chart-2: oklch(0.556 0 0);
+  --chart-3: oklch(0.439 0 0);
+  --chart-4: oklch(0.371 0 0);
+  --chart-5: oklch(0.269 0 0);
+  --radius: 0.625rem;
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+  --chart-1: oklch(0.87 0 0);
+  --chart-2: oklch(0.556 0 0);
+  --chart-3: oklch(0.439 0 0);
+  --chart-4: oklch(0.371 0 0);
+  --chart-5: oklch(0.269 0 0);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.556 0 0);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}
+
+/* ──────────────────────────────────────────────────────────── */
+/* ─────────── Anthropic 暖色 + 衬线体（追加层） ─────────── */
+/* ──────────────────────────────────────────────────────────── */
+
+@theme {
+  /* 颜色 */
+  --color-parchment: #f5f4ed;
+  --color-ivory: #faf9f5;
+  --color-warm-sand: #e8e6dc;
+  --color-border-cream: #f0eee6;
+  --color-border-warm: #e8e6dc;
+  --color-ring-warm: #d1cfc5;
+  --color-near-black: #141413;
+  --color-olive-gray: #5e5d59;
+  --color-stone-gray: #87867f;
+  --color-charcoal-warm: #4d4c48;
+  --color-dark-warm: #3d3d3a;
+  --color-warm-silver: #b0aea5;
+  --color-dark-surface: #30302e;
+  --color-terracotta: #c96442;
+  --color-coral: #d97757;
+  --color-error-crimson: #b53333;
+  --color-focus-blue: #3898ec;
+  --color-warm-gold-bg: #f5e8c9;
+  --color-warm-gold-fg: #a06b18;
+  --color-warm-tea-bg: #e6e1d2;
+  --color-warm-tea-deeper: #ede7d5;
+  --color-coral-soft-bg: #f7e3d8;
+  --color-coral-deep-bg: #f3d9cb;
+
+  /* 字体 */
+  --font-serif: "Anthropic Serif", Georgia, serif;
+  --font-mono-anth: "Anthropic Mono", Menlo, Consolas, monospace;
+
+  /* 自定义阴影 */
+  --shadow-ring: 0 0 0 1px #d1cfc5;
+  --shadow-ring-prom: 0 0 0 1px #c2c0b6;
+  --shadow-ring-cta: 0 0 0 1px #c96442;
+  --shadow-whisper: 0 4px 24px rgba(0, 0, 0, 0.05);
+
+  /* 自定义动画 */
+  --animate-fade-up: fade-up 260ms ease-out both;
+}
+
+@keyframes fade-up {
+  0% { opacity: 0; transform: translateY(8px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* 覆盖 shadcn 的 :root 关键 token —— 让 shadcn 组件视觉走暖色 */
+:root {
+  --background: #f5f4ed;
+  --foreground: #141413;
+  --card: #faf9f5;
+  --card-foreground: #141413;
+  --popover: #faf9f5;
+  --popover-foreground: #141413;
+  --primary: #c96442;
+  --primary-foreground: #faf9f5;
+  --secondary: #e8e6dc;
+  --secondary-foreground: #4d4c48;
+  --muted: #f0eee6;
+  --muted-foreground: #5e5d59;
+  --accent: #f7e3d8;
+  --accent-foreground: #c96442;
+  --destructive: #b53333;
+  --border: #f0eee6;
+  --input: #e8e6dc;
+  --ring: #d1cfc5;
+}
+
+/* 全局基础样式 */
+html {
+  font-family: var(--font-sans);
+  color: var(--color-near-black);
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background-color: var(--color-coral-soft-bg);
+  color: var(--color-terracotta);
+}
+
+*:focus-visible {
+  outline: 2px solid var(--color-focus-blue);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* ──────────────────────────────────────────────────────────── */
+/* ── Markdown 预览:@tailwindcss/typography 暖色变量覆写 (.prose-warm) */
+/* ──────────────────────────────────────────────────────────── */
+
+.prose-warm {
+  /* typography 的语义 token,全部走项目暖色 */
+  --tw-prose-body: var(--color-near-black);
+  --tw-prose-headings: var(--color-near-black);
+  --tw-prose-lead: var(--color-olive-gray);
+  --tw-prose-links: var(--color-terracotta);
+  --tw-prose-bold: var(--color-near-black);
+  --tw-prose-counters: var(--color-stone-gray);
+  --tw-prose-bullets: var(--color-warm-silver);
+  --tw-prose-hr: var(--color-border-cream);
+  --tw-prose-quotes: var(--color-olive-gray);
+  --tw-prose-quote-borders: var(--color-terracotta);
+  --tw-prose-captions: var(--color-stone-gray);
+  --tw-prose-code: var(--color-charcoal-warm);
+  --tw-prose-pre-code: var(--color-near-black);
+  --tw-prose-pre-bg: var(--color-warm-tea-deeper);
+  --tw-prose-th-borders: var(--color-border-cream);
+  --tw-prose-td-borders: var(--color-border-cream);
+}
+
+/* 在此作用域内把标题改用项目衬线字体、链接下划线柔化、内联 code 加暖背景 */
+.prose-warm :is(h1, h2, h3, h4) {
+  font-family: var(--font-serif);
+  font-weight: 500;
+}
+.prose-warm h2 {
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--color-border-cream);
+}
+.prose-warm a {
+  text-decoration-color: rgba(201, 100, 66, 0.35);
+  text-underline-offset: 2px;
+}
+.prose-warm :not(pre) > code {
+  background: var(--color-warm-tea-deeper);
+  padding: 1px 5px;
+  border-radius: 3px;
+  font-weight: 500;
+}
+/* typography 默认给 inline code 加反引号,这里去掉 */
+.prose-warm :not(pre) > code::before,
+.prose-warm :not(pre) > code::after {
+  content: none;
+}
+.prose-warm pre {
+  border: 1px solid var(--color-border-cream);
+}
+.prose-warm blockquote {
+  background: var(--color-coral-soft-bg);
+  border-radius: 0 4px 4px 0;
+  padding: 0.25rem 0.75rem;
+  font-style: normal;
+}
+.prose-warm blockquote p::before,
+.prose-warm blockquote p::after {
+  content: none;
+}
+.prose-warm table {
+  font-size: 0.85em;
+}
+.prose-warm thead {
+  background: var(--color-warm-tea-deeper);
+}

@@ -1,0 +1,20 @@
+{
+  "versions": [
+    { "id": "F1-long-comma", "label": "F1 Long Comma", "notes": "摄影术语 + 逗号长串 (200-400 词)", "createdAt": "2026-04-26" },
+    { "id": "F2-cinematic", "label": "F2 Cinematic Single", "notes": "单行 20-30 词风格关键词", "createdAt": "2026-04-26" },
+    { "id": "F3-paragraph-neg", "label": "F3 Paragraph + Neg + AR", "notes": "自然段 + Negative Prompts + Aspect Ratio", "createdAt": "2026-04-26" },
+    { "id": "F4-block-formula", "label": "F4 Block Formula", "notes": "[character][outfit][style][place] 块状公式", "createdAt": "2026-04-26" },
+    { "id": "F5-labeled-spec", "label": "F5 Labeled Spec", "notes": "Use case / Subject / Style / Avoid 字段化", "createdAt": "2026-04-26" },
+    { "id": "F6-json-spec", "label": "F6 JSON Spec", "notes": "JSON 结构化 prompt", "createdAt": "2026-04-26" },
+    { "id": "F7-minimal", "label": "F7 极简短句", "notes": "10-30 字单句", "createdAt": "2026-04-26" },
+    { "id": "F8-cn-task", "label": "F8 中文任务式", "notes": "任务描述 + 内容大纲 + 视觉要求", "createdAt": "2026-04-26" },
+    { "id": "F9-brief-and-fields", "label": "F9 任务句 + 字段表(中)", "notes": "任务句开场 + 10 字段表的双段中文产物。和 F8 同语种但结构不同(字段化 vs 整段任务式),和 F10 同结构但语种不同(中 vs 英)。", "createdAt": "2026-04-27" },
+    { "id": "F10-brief-and-fields-en", "label": "F10 Brief + Fields (EN)", "notes": "F9 全英文版 — skill 说明、推理、产物全英文,适合验证语言一致性是否提升 gpt-image-2 稳定性", "createdAt": "2026-04-27" },
+    { "id": "F11-direct-api", "label": "F11 API 直接生成", "notes": "原始 query 一字不动直传 gpt-image-2,size 启发式推断,不调用 LLM。半基线对照,衡量改写策略的实际增益。", "createdAt": "2026-04-27" },
+    { "id": "F12-spec-and-omit-en", "label": "F12 Spec & Omit (EN)", "notes": "F10 同 schema 但只填 query 显式提到的字段,其他字段保留名留空,把美学决策交还 gpt-image-2。F10 vs F12 对照可验证'编全字段 vs 留白发挥' 哪个出图更好。", "createdAt": "2026-04-28" },
+    { "id": "F13-purpose-vertical-en", "label": "F13 Purpose-Vertical & Omit (EN)", "notes": "在 spec & omit 之上加 pre-rewrite thinking:先想清楚用途链(国家/平台/调性/产物/受众) + 垂类下钻(大类→子类→最小颗粒→注意事项),再决定字段。长 query / 信息密度类 asset 上能正确激活 Conservation;短 query 上跟 spec & omit 无差别。", "createdAt": "2026-04-28" },
+    { "id": "F14-aesthetic-poetic-en", "label": "F14 Aesthetic Poetic (EN)", "notes": "在 purpose-vertical 之上加美学锚点层:5 维度感知(气质/节奏/质感/空间/温度) + 流派或已故经典艺术家锚(0-1 个,不堆叠)。美学敏感 asset 用诗化语言写字段,功能性 asset(UI/信息图)自动跳过美学层走平实语言。故意打破'concrete words beat poetic'的常规,验证诗化 prompt 对 gpt-image-2 是否有效。", "createdAt": "2026-04-28" },
+    { "id": "F15-art-direction-en", "label": "F15 Art Direction (EN)", "notes": "把 prompt 写成 creative brief:美学执行维度只给方向 + 显式 '— exact X is yours' 把执行权还给模型;信息内容维度用 'must include...' 锁紧不丢。用户给方向就方向,给具体就具体,不暗示就空。验证 '显式留权 brief 写法' 对 gpt-image-2 是否比 '替模型选具体词' 更好。", "createdAt": "2026-04-28" },
+    { "id": "F16-art-direction-anchored-en", "label": "F16 Art Direction + Aesthetic Anchoring (EN)", "notes": "在 F15 之上加美学锚定层:仅当 Style/medium 收到模糊美学词(如 '粉色少女风' / '酷' / '国风' / '侘寂')、且用户没 commit 具体值或 reference 时,注入 2-3 个 reference 锚点(运动/时代/作品/设计师混排,至少 1 个 movement,最多 1 个 living designer,跨 era/region/medium 防塌陷),并保留 'exact ... is yours' handover。其他 direction 字段(Lighting/Color/Materials)不注入。验证 '显式 brief + 美学锚定' 是否在模糊美学方向词上比纯 F15 出图更好,而具体提交时不退化。", "createdAt": "2026-04-28" }
+  ]
+}

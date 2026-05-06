@@ -1,0 +1,17 @@
+{
+  "default": "bedrock/claude-sonnet-4-6",
+  "available": [
+    {
+      "id": "bedrock/claude-sonnet-4-6",
+      "label": "Claude 4.6",
+      "provider": "anthropic",
+      "notes": "Anthropic Claude Sonnet 4.6 · 默认 · 中文 / 长上下文 / 工具调用稳定"
+    },
+    {
+      "id": "kimi/kimi-k2.5",
+      "label": "Kimi K2.5",
+      "provider": "moonshot",
+      "notes": "Moonshot Kimi K2.5 · 中文母语优化 · 长 context"
+    }
+  ]
+}

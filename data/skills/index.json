@@ -1,0 +1,29 @@
+{
+  "active": "v3-diagnose-then-design",
+  "versions": [
+    {
+      "id": "v1-original",
+      "label": "原始版 v1 · 并列 5 seed",
+      "notes": "初版。5 个 meta_seed 平铺 checklist 式思考:分类 / 品牌标杆 / 卖点 / 失败模式 / 缺失信息。工程化口吻,缺少视觉主张层,不调用镜头/光/材质本能。",
+      "createdAt": "2026-01-04T00:00:00.000Z"
+    },
+    {
+      "id": "v2-designer-monologue",
+      "label": "设计师独白 v2 · 递进 5 stage",
+      "notes": "改为递进 5 stage 设计师独白:读 brief → 立论 → 建参照系(含反面参照) → 翻译成画面(镜头/光/色关系/材质/构图五维) → 差异化自查。支持按命中垂类动态切换设计师视角。禁用 high quality / 4k / cinematic 等空话词。弱点:丢了 v1 的垂类下钻严谨 + 工种本质(additive/reductive)判定 + 受众关切层。",
+      "createdAt": "2026-04-26T09:20:00.000Z"
+    },
+    {
+      "id": "v3-diagnose-then-design",
+      "label": "先诊断后设计 v3 · 严谨 × 美学",
+      "notes": "v1 × v2 合体。6 stage 严格递进链:诊断(下钻+工种本质+共情+缺口)→ 切设计师视角 → 立论 → 建参照系(正/反/行业惯例)→ 翻译成画面 → 自查(差异化+cliché 规避合一)。吸收 v1 的下钻严谨 + additive/reductive 工种开关 + 受众关切 + cliché 避坑,吸收 v2 的视觉主张 + 反面参照 + 镜头/光/色/材质本能 + 差异化钩子。reductive 工种另走一套翻译维度(核心形/黑白/尺寸/负空间/几何)。",
+      "createdAt": "2026-04-26T17:35:00.000Z"
+    },
+    {
+      "id": "v4-brief-and-fields",
+      "label": "任务句 + 字段表 v4 · 产物结构导向",
+      "notes": "和 v1~v3 正交的新维度。v3 关注「怎么思考」,v4 关注「输出长什么样」。固定双段结构:段 1 任务句(use case + 品牌 verbatim,12-25 词)+ 段 2 字段表(Style/Composition/Subject/Scene/Lighting/Color/Materials/Text/Constraints/Avoid 10 槽)。规则锚定 OpenAI Cookbook + fal.ai 五槽 + 5 条通用约束(守恒 / verbatim / 不矛盾 / use case 锚定 / 反空词)。继承 v3 的 additive/reductive 工种开关决定字段必填项与 Avoid 数量。",
+      "createdAt": "2026-04-27T06:42:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+!.env.example
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# image bytes 落盘缓存,不进 git
+data/images/
+
+# 各 lab 运行记录,本地产出,不进 git
+data/labs/rewrite/runs/
+data/labs/format/runs/
+data/labs/batch/runs/
+data/labs/fusion/runs/
+data/history.json
+data/history-index.json
+data/labs/format/history.json
+
+# data 备份文件,不进 git
+*.bak
