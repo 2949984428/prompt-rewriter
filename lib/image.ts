@@ -5,6 +5,9 @@ const BASE = (
   process.env.IMAGE_GATEWAY_BASE_URL ?? "http://localhost:8000"
 ).replace(/\/+$/, "");
 const SERVICE_NAME = process.env.IMAGE_SERVICE_NAME ?? "prompt-rewriter";
+// 图像模型名(网关路径里 `/openai/<model>/text-to-image` 中的 <model> 段)
+// 通过 env 配置以便切换不同图像模型(gpt-image-2 / seedream / ...)
+const IMAGE_MODEL = process.env.IMAGE_MODEL ?? "gpt-image-2";
 const HEADERS = {
   "Content-Type": "application/json",
   baggage: `agent.service_name=${SERVICE_NAME}`,
@@ -143,7 +146,7 @@ export async function createImageTask(
     n: input.n ?? 1,
     output_format: input.output_format ?? "png",
   };
-  const resp = await fetch(`${BASE}/openai/gpt-image-2/text-to-image`, {
+  const resp = await fetch(`${BASE}/openai/${IMAGE_MODEL}/text-to-image`, {
     method: "POST",
     headers: HEADERS,
     body: JSON.stringify(body),
