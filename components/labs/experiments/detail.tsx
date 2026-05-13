@@ -65,6 +65,25 @@ export function ExperimentDetail({ id }: { id: string }) {
     };
   }, [id]);
 
+  // 2026-05-13:running 状态短轮询 —— 让 Experiments detail 跟 Pipeline lab 同源,
+  // 实时看到 step1 / planner / step2 / step3 各阶段产物。每 2s 重 fetch 直到 status
+  // 变 finished / failed,然后停止轮询(避免长期空转)。
+  // Pipeline POST 端已经做增量落盘 (debounce 200ms),所以每次 fetch 都能看到最新进度
+  useEffect(() => {
+    if (!record || record.status !== "running") return;
+    const interval = setInterval(async () => {
+      try {
+        const r = await fetch(`/api/experiments/${encodeURIComponent(id)}`);
+        if (!r.ok) return;
+        const fresh = (await r.json()) as ExperimentRecord;
+        setRecord(fresh);
+      } catch {
+        /* 网络错忽略,下个 tick 再试 */
+      }
+    }, 2000);
+    return () => clearInterval(interval);
+  }, [id, record?.status]);
+
   const patchRecord = useCallback(
     async (body: {
       tags?: string[];
@@ -198,6 +217,24 @@ export function ExperimentDetail({ id }: { id: string }) {
 
       {record && (
         <>
+          {/* 实时同步条:status=running 时显示,告诉用户页面在轮询 */}
+          {record.status === "running" && (
+            <div className="flex items-center gap-3 rounded-md border border-terracotta/40 bg-warm-sand/30 px-4 py-2.5 text-[13px] text-terracotta">
+              <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-terracotta" />
+              <span className="font-medium">跑批进行中 · 每 2s 自动同步</span>
+              <span className="ml-auto font-mono text-[11px] text-stone-gray">
+                跑批已用时 {Math.round((Date.now() - record.ts) / 1000)}s
+              </span>
+            </div>
+          )}
+          {record.status === "failed" && record.error && (
+            <div className="rounded-md border border-red-300 bg-red-50 px-4 py-3 text-[13px] text-red-700">
+              <div className="mb-1 font-medium">⚠ 跑批失败</div>
+              <div className="whitespace-pre-wrap break-words font-mono text-[12px]">
+                {record.error}
+              </div>
+            </div>
+          )}
           {/* 顶栏:标识 + chip 行 + tags / note 编辑 */}
           <section className="space-y-4 rounded-lg border border-border-cream bg-ivory px-6 py-5">
             <header className="flex items-start justify-between gap-4">
@@ -658,35 +695,39 @@ type TraceEntryLike = {
 function ReplayCards({ record }: { record: ExperimentRecord }) {
   // record.output 的 step1 / step2 / step3 来自 NDJSON 各 phase data,字段集跟 PipelineResponse 完全一致
   const out = record.output as Partial<PipelineResponse>;
-  // 老 record(2026-05-13 之前跑批)的 output 没存 creation_planner —— 显示占位卡
-  // 让 Step 1 → Step 2(占位)→ Step 3 → Step 4 编号不跳号,提示 PM 此阶段未存
-  const isLegacyNoPlanner = !out.creation_planner;
+  // running 状态下,缺失 step 不是"老 record 没存",而是"还没跑到"。占位 / 提示文案要区分
+  const isRunning = record.status === "running";
+  // 老 record(2026-05-13 之前)且非 running:缺 creation_planner = 真的没存,显示 legacy 占位
+  const isLegacyNoPlanner = !isRunning && !out.creation_planner;
   return (
     <section className="space-y-6">
-      <Step1Card running={false} step1={out.step1} />
+      <Step1Card running={isRunning} step1={out.step1} />
       {out.creation_planner ? (
-        <CreationPlannerCard running={false} planner={out.creation_planner} />
-      ) : (
+        <CreationPlannerCard
+          running={isRunning}
+          planner={out.creation_planner}
+        />
+      ) : isLegacyNoPlanner ? (
         <LegacyMissingStepPlaceholder
           stepNum={2}
           title="creation_planner"
           reason="2026-05-13 之前的 record 落盘时未存此阶段。重跑一次即可看到。"
         />
-      )}
+      ) : null /* running 中,空着等下一次轮询 Step1Card 之后这里会自动出 */}
       <Step2Card
-        running={false}
+        running={isRunning}
         step2={out.step2}
         strategyPack={out.strategy_pack}
       />
       <Step3Card
-        running={false}
+        running={isRunning}
         step3={out.step3}
         expectedCount={out.step2?.review_result?.reviewed.length}
         readOnly
       />
       {out.step3_direct && (
         <DirectCompareCard
-          running={false}
+          running={isRunning}
           step3={out.step3}
           step3Direct={out.step3_direct}
           planner={out.creation_planner}

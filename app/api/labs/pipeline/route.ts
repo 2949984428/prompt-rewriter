@@ -165,6 +165,64 @@ export async function POST(req: NextRequest) {
       // 优先用 emit 上来的完整 data 让 replay 卡片显示一致。
       let creationPlannerFullData: Record<string, unknown> | null = null;
       let strategyPackFullData: Record<string, unknown> | null = null;
+      // 2026-05-13:增量落盘需要 step1 / step2 的完整 data(emit 经过 send 时捕获)
+      let step1FullData: Record<string, unknown> | null = null;
+      let step2FullData: Record<string, unknown> | null = null;
+      // 防抖:每个关键 phase 触发 flushRecord(),但 step3_item / direct_item 会高频
+      // emit,叠 fs.rename 写盘容易把磁盘 IO 压满 → 用 timer 200ms debounce
+      let flushTimer: NodeJS.Timeout | null = null;
+      let flushPending = false;
+      const flushRecord = async () => {
+        flushPending = false;
+        try {
+          const running: ExperimentRecord = {
+            id: experimentId,
+            ts: startTotal,
+            pipeline_id: PIPELINE_ID,
+            source: { kind: "pipeline_lab", run_id: "" },
+            inputs: {
+              query: body.query,
+              function_call_count: body.function_call_count,
+            },
+            config_snapshot: {
+              strategy_versions: {},
+              models: {
+                search: initialCtx.searchModel ?? "",
+                review: initialCtx.reviewModel ?? "",
+                image: initialCtx.imageModel,
+              },
+            },
+            output: {
+              step1: step1FullData,
+              creation_planner: creationPlannerFullData,
+              strategy_pack: strategyPackFullData,
+              step2: step2FullData,
+              step3: { generations: step3Items },
+              ...(body.also_run_direct
+                ? { step3_direct: { generations: directItems } }
+                : {}),
+            },
+            trace: [],
+            tags: [],
+            metadata: { author: "", note: "" },
+            status: "running",
+          };
+          await writeExperimentRecord(running);
+        } catch (e) {
+          console.warn(
+            "[pipeline route] 增量落盘失败(不阻塞主流程):",
+            e instanceof Error ? e.message : String(e),
+          );
+        }
+      };
+      const scheduleFlush = () => {
+        flushPending = true;
+        if (flushTimer) return;
+        flushTimer = setTimeout(async () => {
+          flushTimer = null;
+          if (flushPending) await flushRecord();
+        }, 200);
+      };
 
       // P0 修复(2026-05-12):client 取消请求 / 关 tab 后,controller 状态变 closed,
       // 但 server 端 runPipeline 仍在跑(LLM retry + 生图 10×fib 重试可能 90s+),
@@ -176,15 +234,30 @@ export async function POST(req: NextRequest) {
       // 传到 callLLM / image gateway 里。短期 fix 只解 throw 链路,资源浪费先观察。
       let streamClosed = false;
       const send = (event: { phase: string; data: Record<string, unknown> }) => {
+        // 捕获关键 phase 的完整 data + 调度增量落盘
+        // (step3_item / direct_item / direct_done / step3_done 也触发,让 Experiments
+        //  detail 短轮询能看到生图实时进度)
+        let shouldFlush = false;
         if (event.phase === "step3_item") {
           step3Items.push(event.data);
+          shouldFlush = true;
         } else if (event.phase === "direct_item") {
           directItems.push(event.data);
+          shouldFlush = true;
         } else if (event.phase === "creation_planner") {
           creationPlannerFullData = event.data;
+          shouldFlush = true;
         } else if (event.phase === "strategy_pack") {
           strategyPackFullData = event.data;
+          shouldFlush = true;
+        } else if (event.phase === "step1") {
+          step1FullData = event.data;
+          shouldFlush = true;
+        } else if (event.phase === "step2") {
+          step2FullData = event.data;
+          shouldFlush = true;
         }
+        if (shouldFlush) scheduleFlush();
         if (streamClosed) return;
         try {
           controller.enqueue(encoder.encode(JSON.stringify(event) + "\n"));
