@@ -1,0 +1,108 @@
+{
+  "id": "07cc6883-d4d3-49aa-b147-5f5ba394f720",
+  "ts": 1777284120946,
+  "query": "9:16的图片比例，生成一张抖音直播的截图，里面是神仙姐姐在直播\n神仙姐姐手里掌着牌子，牌子里写着今晚直播，欢迎来参亦菲畅聊！",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F11-direct-api",
+      "format_label": "F11 API 直接生成",
+      "final_prompt": {
+        "prompt": "9:16的图片比例，生成一张抖音直播的截图，里面是神仙姐姐在直播\n神仙姐姐手里掌着牌子，牌子里写着今晚直播，欢迎来参亦菲畅聊！",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "2bd831da-04e0-4170-8a1c-cd61dee57009",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/02dddb1d-a270-4f9f-af1d-e1ed21bf27b5.png"
+        ],
+        "local_paths": [],
+        "cost": 0.053,
+        "latency_ms": 93314,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create a photorealistic editorial screenshot of a Douyin (TikTok China) live stream featuring the actress known as 神仙姐姐 (Liu Yifei), holding a handwritten sign during the broadcast.\n\nStyle/medium: photorealistic mobile screenshot, simulating a real Douyin live stream UI with on-screen overlays, viewer comments scrolling, and live badge\nComposition: vertical 9:16 portrait framing, subject centered in frame, slight medium close-up showing face and upper body including the sign she holds\nSubject: 神仙姐姐 — a graceful young Chinese woman with delicate features, long dark hair, natural makeup, warm smile, holding a rectangular sign with both hands at chest level\nScene/backdrop: softly lit indoor live-stream setup, blurred background suggesting a cozy home or studio environment\nLighting/mood: soft, flattering ring-light or diffused LED panel from the front, warm and inviting tone\nColor palette: warm skin tones as anchor, soft neutral background, Douyin UI elements in white and red accent\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\" written clearly on the sign she holds; Douyin live stream UI overlay text including \"直播中\" badge\nConstraints: sign text must be fully legible and centered on the placard; Douyin-style UI chrome (comment bar, like animations, follower count) must be visible as screen overlay\nAvoid: blurry or illegible text on sign, distorted hands or fingers, generic streamer setup without Douyin UI, over-saturated skin tones",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "4b512569-1d3b-40c9-aa7d-0f4d562a4f74",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/9a078a96-209b-402a-8844-2946ce7c9875.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0386,
+        "latency_ms": 102075,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为\"神仙姐姐\"抖音直播生成一张 9:16 竖版直播截图，模拟真实抖音 App 直播界面风格。\n\n风格/介质:手机截图风格，模拟抖音 App 直播界面，带有直播 UI 元素叠加（弹幕、点赞、礼物、关注按钮、直播间人数等），photorealistic 人物质感\n构图:9:16 竖构图，人物居中偏下，上方留出直播间标题栏与弹幕区域，下方留出互动按钮栏，镜头正面平视\n主体:神仙姐姐（刘亦菲）形象，长发飘逸，妆容精致自然，双手捧举一块白色手写牌子，牌子朝向镜头，表情亲切微笑\n场景/背景:室内直播间背景，柔和灯光，背景略虚化，营造温馨直播氛围\n光线/氛围:正面柔光补光灯，色温偏暖，皮肤通透，整体氛围亲切、活泼\n色彩搭配:抖音界面黑色顶栏与红色点赞图标作为 UI 点缀，人物区域以暖肤色与柔白背景为主\n文字(原文保留):\"今晚直播，欢迎来参亦菲畅聊！\"（写在人物手持的牌子上，黑色手写体，清晰可读）\n约束:牌子上文字必须完整呈现\"今晚直播，欢迎来参亦菲畅聊！\"；界面需有抖音直播 UI 元素（弹幕条、点赞动画、直播间人数角标）以增强截图真实感\n避免:文字模糊或错字、人物五官变形、背景过于杂乱、UI 元素遮挡人物面部",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "91ccad18-30f2-4bb6-8785-97cd9fbd2506",
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 7234,
+        "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_2a00c394eb2248ae9f14d8c5465821bc.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: photorealistic-natural\nAsset type: vertical screenshot mockup, 9:16 phone screen, TikTok / Douyin live stream interface\nPrimary request: a realistic Douyin (TikTok) live-stream screenshot featuring a young beautiful Chinese actress resembling \"神仙姐姐\" (Liu Yifei-type appearance) holding a handwritten sign during her live broadcast\nScene/backdrop: indoor live-stream setup, soft studio lighting, blurred background with ring light glow\nSubject: elegant young Chinese woman with delicate features, long black hair, bright eyes, warm smile, holding a sign with both hands facing the camera\nStyle/medium: photorealistic screenshot, mobile UI overlay, candid live-stream capture\nComposition/framing: portrait vertical 9:16, medium close-up, front-facing, slight eye contact with camera\nLighting/mood: soft warm ring-light illumination, intimate and welcoming live-stream atmosphere\nColor palette: warm skin tones, soft pink/white background glow, Douyin red/black UI accents\nMaterials/textures: realistic skin texture, natural hair strands, cardboard or white paper sign held in hands\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\" written clearly on the sign in black marker; Douyin live-stream UI overlay including viewer count, comment feed, red heart animations, and top bar with 直播 label\nConstraints: sign text must be fully legible and centered on the sign; UI elements must resemble authentic Douyin live interface; subject must be the clear focal point\nAvoid: blurry or distorted Chinese characters on the sign, deformed hands, unrealistic skin, generic stock-photo look, watermark",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "7b6da1a5-9932-42f1-baeb-196f43485df1",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/4e88548e-4720-4cc8-b9b1-a3c428fb0454.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0387,
+        "latency_ms": 65489,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

@@ -13,6 +13,7 @@ import {
   currentBatchRunAtom,
 } from "@/lib/atoms-batch";
 import { copyImageToClipboard } from "@/lib/copy-image";
+import { ImageLightbox } from "@/components/ui/image-lightbox";
 
 const PATCH_DEBOUNCE_MS = 600;
 
@@ -26,22 +27,29 @@ export function BatchScoreDrawer() {
   const [copyState, setCopyState] = useState<"idle" | "copied" | "error">(
     "idle"
   );
+  // lightbox 受控:大图 / 参考图点击后弹全屏预览,null = 关
+  const [lightboxSrc, setLightboxSrc] = useState<string | null>(null);
 
   const cell = useMemo(() => {
     if (!record || !active) return null;
-    return record.cells.find(
-      (c) =>
-        c.query_idx === active.query_idx && c.skill_id === active.skill_id
-    );
+    const targetModel = active.image_model ?? "";
+    // Phase 2:pipeline 模式按 pipeline_id 匹配(active.pipeline_id 非空时)
+    const targetPipeline = active.pipeline_id ?? "";
+    return record.cells.find((c) => {
+      if (c.query_idx !== active.query_idx) return false;
+      if ((c.image_model ?? "") !== targetModel) return false;
+      if (targetPipeline) return (c.pipeline_id ?? "") === targetPipeline;
+      return c.skill_id === active.skill_id;
+    });
   }, [record, active]);
 
-  // 切换 cell 时同步草稿
+  // 切换 cell 时同步草稿(也带 image_model 维度,避免同 (q,s) 跨 model 切换不重置)
   useEffect(() => {
     if (!cell) return;
     setDraftScores(cell.scores);
     setDraftNote(cell.note);
     setCopyState("idle");
-  }, [active?.query_idx, active?.skill_id]); // eslint-disable-line react-hooks/exhaustive-deps
+  }, [active?.query_idx, active?.skill_id, active?.image_model]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // 防抖 PATCH
   const patchTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
@@ -49,6 +57,7 @@ export function BatchScoreDrawer() {
     runId: string,
     qi: number,
     sid: string,
+    mid: string,
     patch: { scores?: Record<string, number>; note?: string }
   ) => {
     if (patchTimer.current) clearTimeout(patchTimer.current);
@@ -58,7 +67,7 @@ export function BatchScoreDrawer() {
           method: "PATCH",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
-            cell_patches: [{ query_idx: qi, skill_id: sid, ...patch }],
+            cell_patches: [{ query_idx: qi, skill_id: sid, image_model: mid, ...patch }],
           }),
         });
         if (!r.ok) return;
@@ -84,6 +93,7 @@ export function BatchScoreDrawer() {
             {
               query_idx: cell.query_idx,
               skill_id: cell.skill_id,
+              image_model: cell.image_model ?? "",
               status: next,
             },
           ],
@@ -100,14 +110,23 @@ export function BatchScoreDrawer() {
 
   if (!active || !record || !cell) return null;
 
+  // 该 query 的参考图(从题目集 image block 提取的 URL,方案 C per_query_reference_images)
+  const refImages = record.per_query_reference_images?.[cell.query_idx] ?? [];
+
+  // 显示 query 时剥掉 [@image:#N:hash] 占位符 —— 参考图已独立渲染,占位符只是噪音
+  const queryDisplay = record.queries[cell.query_idx]
+    .replace(/\[@image:#\d+:[a-zA-Z0-9_-]+\]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+
   const onScoreChange = (dimId: string, v: number) => {
     const next = { ...draftScores, [dimId]: v };
     setDraftScores(next);
-    schedulePatch(record.id, cell.query_idx, cell.skill_id, { scores: next });
+    schedulePatch(record.id, cell.query_idx, cell.skill_id, cell.image_model ?? "", { scores: next });
   };
   const onNoteChange = (v: string) => {
     setDraftNote(v);
-    schedulePatch(record.id, cell.query_idx, cell.skill_id, { note: v });
+    schedulePatch(record.id, cell.query_idx, cell.skill_id, cell.image_model ?? "", { note: v });
   };
 
   const close = () => setActive(null);
@@ -135,13 +154,13 @@ export function BatchScoreDrawer() {
       {/* 抽屉:右侧滑入,固定宽 720px */}
       <aside className="fixed inset-y-0 right-0 z-50 flex w-[720px] flex-col bg-ivory shadow-2xl">
         {/* header */}
-        <header className="flex items-center justify-between border-b border-border-cream bg-parchment/50 px-5 py-3">
-          <div className="min-w-0">
+        <header className="flex items-start justify-between gap-3 border-b border-border-cream bg-parchment/50 px-5 py-3">
+          <div className="min-w-0 flex-1">
             <div className="font-mono text-[12px] text-stone-gray">
-              Q{cell.query_idx + 1} · {cell.skill_id}
+              Q{cell.query_idx + 1} · {cell.pipeline_id || cell.skill_id}
             </div>
-            <div className="mt-0.5 truncate text-[14px] font-medium text-near-black">
-              {record.queries[cell.query_idx]}
+            <div className="mt-0.5 max-h-[120px] overflow-y-auto whitespace-pre-wrap break-words text-[14px] font-medium leading-[1.5] text-near-black">
+              {queryDisplay}
             </div>
           </div>
           <button
@@ -154,13 +173,42 @@ export function BatchScoreDrawer() {
 
         {/* body:可滚动 */}
         <div className="flex-1 overflow-y-auto px-5 py-4">
+          {/* 题目参考图(若题目集 query 含 [@image:#N:xxx] 则显示) */}
+          {refImages.length > 0 && (
+            <section className="mb-4 rounded-md border border-border-cream bg-parchment/30 p-3">
+              <div className="mb-2 font-mono text-[10.5px] uppercase tracking-wider text-stone-gray">
+                题目参考图 ({refImages.length})
+              </div>
+              <div className="flex flex-wrap gap-2">
+                {refImages.map((u, i) => (
+                  <button
+                    key={i}
+                    type="button"
+                    onClick={() => setLightboxSrc(u)}
+                    className="block cursor-zoom-in"
+                    title="点击放大预览"
+                  >
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={u}
+                      alt=""
+                      className="h-20 w-20 rounded border border-border-cream object-cover transition hover:border-terracotta"
+                    />
+                  </button>
+                ))}
+              </div>
+            </section>
+          )}
+
           {/* 大图 */}
           {url ? (
             <div className="overflow-hidden rounded-md border border-border-cream bg-parchment/30">
               <img
                 src={url}
                 alt=""
-                className="block max-h-[420px] w-full object-contain"
+                onClick={() => setLightboxSrc(url)}
+                title="点击放大预览"
+                className="block max-h-[420px] w-full cursor-zoom-in object-contain"
               />
               <div className="flex items-center justify-end gap-2 border-t border-border-cream bg-ivory/60 px-3 py-2">
                 <button
@@ -313,6 +361,8 @@ export function BatchScoreDrawer() {
           </span>
         </footer>
       </aside>
+      {/* Lightbox:大图 / 参考图点击后弹全屏预览(z 比抽屉高) */}
+      <ImageLightbox src={lightboxSrc} onClose={() => setLightboxSrc(null)} />
     </>
   );
 }

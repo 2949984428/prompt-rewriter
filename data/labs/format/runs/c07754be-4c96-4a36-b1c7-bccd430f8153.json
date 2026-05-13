@@ -1,0 +1,38 @@
+{
+  "id": "c07754be-4c96-4a36-b1c7-bccd430f8153",
+  "ts": 1778478080009,
+  "query": "巧克力",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F15-art-direction-en",
+      "format_label": "F15 Art Direction (EN)",
+      "final_prompt": {
+        "prompt": "Create a product photograph of chocolate.\n\nStyle/medium: needs a rich, indulgent aesthetic — exact stylistic execution is yours\nComposition: \nSubject: chocolate\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "lovart:d4cf4f59-e09b-4619-92dd-a708c74a2cce",
+        "urls": [
+          "https://a.lovart.ai/artifacts/generator/I9qOI6hQKIINgJEv.png"
+        ],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 16466,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

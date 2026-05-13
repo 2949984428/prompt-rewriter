@@ -12,6 +12,42 @@
       "label": "Kimi K2.5",
       "provider": "moonshot",
       "notes": "Moonshot Kimi K2.5 · 中文母语优化 · 长 context"
+    },
+    {
+      "id": "gemini/gemini-3-flash-preview",
+      "label": "Gemini 3 Flash (preview)",
+      "provider": "google",
+      "notes": "Google Gemini 3 Flash preview · 含 reasoning 模式 · 低延迟改写适合 Step 2"
+    },
+    {
+      "id": "gemini/gemini-2.5-flash",
+      "label": "Gemini 2.5 Flash",
+      "provider": "google",
+      "notes": "Google Gemini 2.5 Flash · 稳定低延迟版"
+    },
+    {
+      "id": "gemini/gemini-2.5-pro",
+      "label": "Gemini 2.5 Pro",
+      "provider": "google",
+      "notes": "Google Gemini 2.5 Pro · 推理能力强 / 适合复杂意图识别"
+    },
+    {
+      "id": "openai/gpt-4o",
+      "label": "GPT-4o",
+      "provider": "openai",
+      "notes": "OpenAI GPT-4o · 工具调用 / JSON 输出稳定"
+    },
+    {
+      "id": "openai/gpt-4o-mini",
+      "label": "GPT-4o mini",
+      "provider": "openai",
+      "notes": "OpenAI GPT-4o mini · 极低成本 · 适合 Step 1 高频意图分流"
+    },
+    {
+      "id": "doubao/seed-2-0-pro-260215",
+      "label": "Doubao Seed 2.0 Pro",
+      "provider": "doubao",
+      "notes": "字节豆包 Seed 2.0 Pro (260215) · 含 thinking 模式 (reasoning_tokens) · 中文母语 · 网关直通可用"
     }
   ]
 }

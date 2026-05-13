@@ -1,0 +1,110 @@
+{
+  "id": "40cad4a3-9c07-4f77-b10b-f8e226e2fd3b",
+  "ts": 1777281522827,
+  "query": "制作一个公众号文章封面。\n标题：染秋 - 秋意染染 时光留香\n主题：染秋香氛新品发布\n构图方法：中心构图。\n风格：高级质感风。\n要求：突出标题。\n比例：900x500",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F11-direct-api",
+      "format_label": "F11 API 直接生成",
+      "final_prompt": {
+        "prompt": "制作一个公众号文章封面。\n标题：染秋 - 秋意染染 时光留香\n主题：染秋香氛新品发布\n构图方法：中心构图。\n风格：高级质感风。\n要求：突出标题。\n比例：900x500",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "40a9ec53-7137-4ea8-acb4-b47846229d9d",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/31b8ff89-b621-49af-8ec0-990e6d9c9f7c.png"
+        ],
+        "local_paths": [],
+        "cost": 0.053,
+        "latency_ms": 134264,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create a marketing poster (WeChat Official Account article cover) for a fragrance new product launch titled \"染秋 - 秋意染染 时光留香\".\n\nStyle/medium: high-end editorial flat design, refined and luxurious texture aesthetic, muted autumn tones with subtle material depth\nComposition: centered composition, title text as the dominant visual anchor, generous negative space framing the center, balanced symmetry\nSubject: fragrance product launch visual for \"染秋\", with the headline \"染秋 - 秋意染染 时光留香\" as the primary typographic element, supported by minimal decorative motifs evoking autumn — fallen leaves, soft mist, or amber botanicals\nScene/backdrop: abstract or softly textured background suggesting autumn atmosphere — warm amber, deep ochre, or dusty rose gradients with subtle organic texture\nLighting/mood: soft diffused warm light, gentle and nostalgic, evoking the slow passage of autumn afternoons\nColor palette: warm amber and ochre as dominant tones, muted dusty rose or sage as secondary, off-white or cream for text contrast\nMaterials/textures: fine paper grain or silk-like surface texture on background, delicate translucent botanical overlays\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title text must be prominently legible and visually dominant; layout must work as a 900×500 horizontal article cover; no busy background competing with headline\nAvoid: overly saturated colors, generic stock photo autumn leaves, cluttered layout, drop shadows that cheapen the luxury feel, watermark",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "e92e50be-64e1-4ff5-aeb9-aef518d5c1c8",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/1791216e-a6e6-4f3c-b4b3-d203ee031670.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0386,
+        "latency_ms": 134298,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: editorial-cover\nAsset type: WeChat Official Account article cover banner, 9:5 horizontal crop\nPrimary request: autumn-themed fragrance new product launch cover with prominent title text\nScene/backdrop: soft autumnal atmosphere — fallen leaves, warm amber haze, subtle bokeh depth\nSubject: elegant fragrance bottle or abstract autumn elements as supporting visual; title text as hero element\nStyle/medium: high-end editorial illustration / luxury brand visual, refined and atmospheric\nComposition/framing: centered composition, title text anchored at visual center, balanced negative space on both sides\nLighting/mood: warm golden-hour diffused light, soft and luxurious, gentle glow around text\nColor palette: deep amber, burnt sienna, champagne gold, soft ivory — rich autumnal tones\nMaterials/textures: silky smooth gradients, delicate leaf textures, subtle matte paper feel\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title text must be the dominant focal point; layout must suit 900×500 banner format; no human figures\nAvoid: cluttered background, overly saturated colors, generic stock-photo look, watermark",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "91c75a85-e55c-4410-8c4a-34a4d61cff57",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/80b1b8cd-e7c2-4405-9336-169c5aa6c935.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0382,
+        "latency_ms": 134633,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为「染秋香氛新品发布」生成一张公众号文章封面，比例 900×500（横版）。\n\n风格/介质:高级质感平面设计，克制而精致的品牌视觉语言，哑光纸质感，秋日氛围\n构图:中心构图，标题文字置于画面正中，四周留出均匀留白，视觉重心稳定\n主体:标题文字\"染秋 - 秋意染染 时光留香\"作为核心视觉元素，字体大而醒目，搭配香氛瓶或秋叶等极简装饰图形作为点缀\n场景/背景:抽象秋意背景，可用渐变色块或模糊落叶纹理，营造温暖静谧的秋日氛围\n光线/氛围:柔和漫射光，无强烈阴影，整体氛围温润、高级、留白感强\n色彩搭配:以暖金色、深琥珀色、米白色为主色调，深色文字与浅色背景形成清晰对比，突出标题可读性\n材质/纹理:哑光纸感背景，轻微颗粒纹理，局部可有烫金或压纹质感暗示\n文字(原文保留):\"染秋 - 秋意染染 时光留香\"\n约束:标题文字必须是画面最突出的视觉元素，清晰易读；整体构图适配 900×500 横版封面比例\n避免:过度装饰、杂乱元素堆砌、低对比度导致文字难以辨认、廉价渐变、卡通风格",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "fa5f0357-59d6-460d-b778-8e07951acb86",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/f66a025c-bd73-4998-9dea-20cf2c4fab2e.png"
+        ],
+        "local_paths": [],
+        "cost": 0.039,
+        "latency_ms": 134649,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

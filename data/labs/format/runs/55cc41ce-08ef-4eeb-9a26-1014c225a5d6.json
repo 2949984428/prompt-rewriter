@@ -1,0 +1,134 @@
+{
+  "id": "55cc41ce-08ef-4eeb-9a26-1014c225a5d6",
+  "ts": 1777275782605,
+  "query": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create a marketing poster for bubble tea in pink girly summer aesthetic for Xiaohongshu social media.\n\nStyle/medium: lifestyle product photography, soft feminine aesthetic inspired by Korean beauty brand campaigns, clean and aspirational\nComposition: top-down flat lay at 45-degree angle, centered bubble tea cup as hero, negative space for text overlay, 3:4 portrait ratio optimized for mobile feed\nSubject: iced bubble tea with visible tapioca pearls, condensation droplets on cup, pastel pink straw, decorative elements like flower petals or fruit slices\nScene/backdrop: marble or light wood surface, soft pink fabric or paper props, minimal summer accessories (sunglasses, flowers)\nLighting/mood: bright natural daylight from window, soft diffused shadows, fresh and breezy summer atmosphere\nColor palette: soft pastel pink as dominant, creamy white milk tea tones, warm brown pearls as accent, high-key bright overall\nMaterials/textures: glossy plastic cup with condensation, chewy tapioca texture visible, soft fabric draping\nConstraints: must work as Xiaohongshu cover image with space for headline text overlay; vertical 3:4 crop friendly\nAvoid: dark moody lighting, cluttered composition, realistic 8K stuffer labels, generic stock photo aesthetic, oversaturated neon colors",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "6240d205-ad56-4b1a-aaf1-4840404d88b9",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/ae48dbd8-8b84-477c-a6c0-07ba16a0cb2c.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0425,
+        "latency_ms": 53294,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为珍珠奶茶生成一张小红书种草封面图，夏日清凉感。\n\n风格/介质:小红书风格产品摄影，粉色少女风，清新甜美，ins 风生活美学\n构图:俯拍 45 度角，主体偏中心，周围留白充足，适合加文字贴纸\n主体:一杯珍珠奶茶，透明杯身可见琥珀色奶茶与黑糖珍珠分层，杯壁有水珠凝结\n场景/背景:浅粉色或白色桌面，散落几片粉色花瓣或冰块道具，背景虚化\n光线/氛围:明亮自然光，柔光箱漫射，通透清新，夏日清凉感\n色彩搭配:粉色为主色调，奶茶琥珀色与珍珠深棕色形成对比，整体柔和不刺眼\n材质/纹理:杯壁水珠的晶莹感，珍珠的 Q 弹光泽，奶茶的丝滑质感\n避免:过度饱和、廉价塑料感、杂乱背景、暗调光线、秋冬暖色调",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "85ebd5b6-8cca-4c3a-a7d8-1de491d6e385",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/0cd96b5e-1659-4ea7-90ab-d052dc555752.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0426,
+        "latency_ms": 51420,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"bubble milk tea\",\"description\":\"creamy milk tea with tapioca pearls, condensation droplets on cup surface\",\"pose\":\"held at slight angle showing layers of tea and milk\",\"expression\":\"refreshing and inviting\"},\"scene\":{\"location\":\"clean minimal surface with soft props\",\"time_of_day\":\"bright daylight\",\"ambience\":\"fresh, summery, youthful\"},\"lighting\":{\"primary\":\"soft natural daylight\",\"secondary\":\"gentle fill light\",\"mood\":\"bright, airy, clean\"},\"color_grading\":{\"palette\":[\"soft pink\",\"cream white\",\"warm beige\",\"pastel accents\"],\"tone\":\"light and airy\",\"contrast\":\"low to medium\"},\"composition\":{\"shot_type\":\"close-up product shot\",\"angle\":\"slightly above eye level\",\"lens\":\"standard portrait\"},\"style\":{\"medium\":\"lifestyle product photography\",\"reference\":\"Xiaohongshu aesthetic, Korean cafe style\",\"texture\":\"smooth, glossy, clean\"},\"constraints\":[\"dominant pink color scheme\",\"cute and feminine vibe\",\"summer freshness feeling\"],\"negative\":[\"dark shadows\",\"cluttered background\",\"masculine elements\",\"winter tones\"]}",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "a2733ab8-92a7-4127-8cb2-677177e26e61",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/6f162564-3925-4ff3-bd80-4ad95645e0f8.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0423,
+        "latency_ms": 91441,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: social-media-cover\nAsset type: Xiaohongshu (Little Red Book) cover post, 2:3 vertical\nPrimary request: aesthetic lifestyle flat-lay of bubble milk tea for summer refreshment vibe\nScene/backdrop: clean marble or light wood surface, scattered ice cubes, soft shadows\nSubject: tall glass of pearl milk tea with tapioca pearls visible, condensation droplets on glass, pastel pink straw\nStyle/medium: lifestyle product photography, soft editorial aesthetic\nComposition/framing: top-down flat-lay, centered composition, shallow depth of field\nLighting/mood: bright natural daylight, soft and airy, fresh summer mood\nColor palette: soft pink + cream white + warm brown tea + translucent ice tones\nMaterials/textures: glossy glass surface, chewy tapioca pearls, frosty condensation, smooth marble\nText (verbatim): \"小红书种草封面\"\nConstraints: maintain soft pink feminine aesthetic, emphasize refreshing summer feeling\nAvoid: harsh shadows, cluttered background, artificial neon colors, dark moody tones",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "aa3eba80-c148-4945-91c5-9d2f63eb8269",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/d357e315-5167-4115-85e4-18df8e7d680e.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0423,
+        "latency_ms": 75432,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Xiaohongshu lifestyle product photography, a tall clear plastic cup of bubble tea with creamy milk tea layer and tapioca pearls visible at bottom, pastel pink packaging sleeve with cute minimalist graphics, soft editorial product photography with shallow depth of field, placed on marble surface with scattered flower petals and soft bokeh background, bright diffused natural daylight with cool summer tone and airy pastel color palette.",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "5186f7b4-f1b3-489e-bd0c-c097c07cb22d",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/9c02ed71-f1fb-48df-84f2-e831de9dc137.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0416,
+        "latency_ms": 75421,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "kimi/kimi-k2.5"
+  }
+}

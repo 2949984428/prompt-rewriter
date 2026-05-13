@@ -35,6 +35,10 @@ export interface CreateImageInput {
   quality?: ImageQuality;
   n?: number;
   output_format?: ImageFormat;
+  // 可选参考图（公开 URL 或 base64 data URL）。
+  // 非空时走 image-edit endpoint（图生图），否则走 text-to-image（文生图）。
+  // gpt-image-2 image-edit 支持 1-N 张图作为输入条件。
+  reference_images?: string[];
 }
 
 export interface CreateImageResp {
@@ -137,7 +141,12 @@ export function ratioToSize(ratio?: string | null): ImageSize {
 export async function createImageTask(
   input: CreateImageInput
 ): Promise<CreateImageResp> {
-  const body = {
+  // 有参考图 → 走 image-edit（图生图）；否则走 text-to-image（文生图）。
+  // 两个 endpoint 共享相同的 task 创建语义，下游 getImageResult 不区分。
+  const hasRef =
+    Array.isArray(input.reference_images) && input.reference_images.length > 0;
+  const endpoint = hasRef ? "image-edit" : "text-to-image";
+  const body: Record<string, unknown> = {
     prompt: input.prompt,
     size: input.size ?? "auto",
     // demo 默认用 medium,兼顾质量与出图时间(10-40s)。
@@ -146,7 +155,12 @@ export async function createImageTask(
     n: input.n ?? 1,
     output_format: input.output_format ?? "png",
   };
-  const resp = await fetch(`${BASE}/openai/${IMAGE_MODEL}/text-to-image`, {
+  if (hasRef) {
+    // gpt-image-2 image-edit 把参考图列表放在 image 字段（接受 URL / data URL）。
+    // 目前只支持 1 张时也用数组形式（网关侧若强制单张需要再调）。
+    body.image = input.reference_images;
+  }
+  const resp = await fetch(`${BASE}/openai/${IMAGE_MODEL}/${endpoint}`, {
     method: "POST",
     headers: HEADERS,
     body: JSON.stringify(body),

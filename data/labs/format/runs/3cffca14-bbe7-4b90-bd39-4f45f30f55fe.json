@@ -1,0 +1,36 @@
+{
+  "id": "3cffca14-bbe7-4b90-bd39-4f45f30f55fe",
+  "ts": 1778480985429,
+  "query": "转成高级杂志风",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F15-art-direction-en",
+      "format_label": "F15 Art Direction (EN)",
+      "final_prompt": {
+        "prompt": "Create an editorial photo with a high-end magazine aesthetic.\n\nStyle/medium: needs a luxury editorial magazine aesthetic — exact stylistic execution is yours\nComposition: \nSubject: \nScene/backdrop: \nLighting/mood: needs an elevated, editorial atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 2727,
+        "error": "创建任务失败 (413)"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

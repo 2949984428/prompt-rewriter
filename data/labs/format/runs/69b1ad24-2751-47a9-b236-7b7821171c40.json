@@ -1,0 +1,134 @@
+{
+  "id": "69b1ad24-2751-47a9-b236-7b7821171c40",
+  "ts": 1777277048369,
+  "query": "生成一个解释如下概念的定义和概念之间关系的信息图，手绘风格，图文并茂，浅显易懂，概念有：AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Hand-drawn infographic illustration style with sketch textures and doodle aesthetics, an educational concept map featuring seven labeled nodes: \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", and \"CLI\", each node accompanied by a short definition in a mix of handwritten-style text and small icons, arrows and connecting lines drawn in pencil-sketch style showing relationships between concepts, laid out on a light cream paper-textured background with warm ink tones, balanced composition with central hub-and-spoke layout and clear visual hierarchy, soft natural light with no harsh shadows, friendly and approachable mood suitable for beginner learners.",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "38e24ac7-25f4-4448-a524-c3d8a3bd1332",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/35b41d8e-e17e-4256-acf8-c448bceb800b.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0377,
+        "latency_ms": 113479,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: infographic-diagram\nAsset type: educational infographic, landscape layout\nPrimary request: hand-drawn style infographic explaining definitions of and relationships between 7 concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\nScene/backdrop: clean off-white paper texture background, like a sketchbook page\nSubject: seven labeled concept nodes — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — each with a short definition snippet and a small illustrative icon; connected by hand-drawn arrows and lines showing their relationships\nStyle/medium: hand-drawn illustration, ink sketch with light watercolor fills, doodle infographic style\nComposition/framing: wide landscape layout, nodes arranged in a web/mind-map structure with clear visual hierarchy, central concept (AI) at center, others radiating outward\nLighting/mood: bright, approachable, educational tone; light and airy\nColor palette: soft pastel accents — sky blue, mint green, warm yellow, coral — on off-white background; ink outlines in dark charcoal\nMaterials/textures: rough paper grain texture, hand-inked outlines with slight wobble, watercolor wash fills\nText (verbatim): \"AI\" / \"MCP\" / \"AI Agent\" / \"OpenClaw\" / \"AI Skill\" / \"蒸馏\" / \"CLI\"\nConstraints: all seven concept labels must appear legibly; relationship arrows must be visible and labeled or annotated; each node must include a small icon or doodle; text and visuals must be balanced (图文并茂)\nAvoid: sterile corporate flat design, overly complex cluttered layout, missing any of the seven concept labels, photorealistic rendering",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "e0f88032-30ff-4116-9b6a-bbce4389c60f",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/d09940ec-072e-4c2d-ae6f-f12d54ca0d57.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0388,
+        "latency_ms": 119457,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create an infographic explaining the definitions of and relationships between AI-related concepts, in a hand-drawn sketch style, visually rich and easy to understand.\n\nStyle/medium: hand-drawn sketch infographic, loose ink linework with light watercolor fills, whiteboard explainer aesthetic, approachable and educational\nComposition: multi-panel layout with concept nodes connected by labeled arrows and relationship lines, balanced across the canvas, generous white space between sections\nSubject: seven interconnected concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — each with a short definition callout box and a small illustrative doodle icon; relationship lines between nodes labeled with how concepts connect\nScene/backdrop: clean off-white paper texture background, no photographic environment\nLighting/mood: flat even lighting, friendly and approachable tone, no dramatic shadows\nColor palette: soft pastel accent colors (sky blue, warm yellow, mint green, coral) on an off-white base, black ink for linework and text, each concept node tinted a distinct pastel to aid differentiation\nMaterials/textures: visible pencil sketch underdrawing, rough ink outlines, subtle paper grain\nText (verbatim): \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: all seven concept labels must appear verbatim; relationship arrows must be clearly labeled; definition callouts must be legible at infographic scale; layout must read left-to-right or top-to-bottom in logical hierarchy\nAvoid: photorealistic rendering, corporate flat vector clipart, gradient mesh backgrounds, overcrowded overlapping text, 3D perspective distortion",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "98203edc-cc3f-4c72-9fe5-66afe3f34e4c",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/8063ecd0-cf93-4b42-8e9f-966acfb443e1.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0387,
+        "latency_ms": 79467,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为 AI 技术概念体系生成一张信息图，用于解释 AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI 这七个概念的定义及其相互关系。\n\n风格/介质:手绘风格信息图，类似白板草图或手账笔记风，线条略带抖动感，字体混合印刷体与手写体，整体轻松易读，不追求精密工程图感\n构图:中心发散式布局，以\"AI\"为核心节点居中，其余六个概念围绕展开，概念之间用带箭头的手绘连线标注关系说明，每个概念节点附带 1-2 行简短中文定义，图文并茂\n主体:七个概念节点——AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI，每个节点含概念名称（原文保留）+ 简短定义文字 + 一个小插图图标（如机器人、管道、技能徽章、蒸馏烧瓶、命令行终端等）\n场景/背景:米白色或浅黄色纸张质感背景，模拟草稿纸或笔记本页面\n光线/氛围:无光影，平面手绘氛围，轻松、浅显、亲切\n色彩搭配:以黑色/深灰手绘线条为主，每个概念节点用不同的低饱和马卡龙色块做区分，整体色调柔和不刺眼\n材质/纹理:轻微纸张纹理，线条带手绘粗细变化，局部可见铅笔或钢笔质感\n文字(原文保留):\"AI\" \"MCP\" \"AI Agent\" \"OpenClaw\" \"AI Skill\" \"蒸馏\" \"CLI\"\n约束:所有概念名称必须原文出现在画面中，不得翻译或替换；关系连线必须有文字标注；定义文字需简短（每条不超过 15 字）；整体布局清晰，不拥挤\n避免:科技感过强的深色背景、霓虹配色、复杂 3D 渲染、密密麻麻的小字、无标注的纯装饰线条、企业 PPT 风格",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "c422edcb-8bce-4912-8fb5-17a4809ce61a",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/5ed0046d-e91d-413d-9588-d052bfa5514f.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0397,
+        "latency_ms": 67340,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"infographic\",\"description\":\"hand-drawn style educational infographic explaining 7 concepts and their relationships: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏 (Distillation), CLI\",\"pose\":\"flat layout with concept nodes connected by illustrated arrows and relationship lines\",\"expression\":\"friendly, approachable, easy to understand\"},\"scene\":{\"location\":\"white or light cream paper background\",\"time_of_day\":\"N/A\",\"ambience\":\"clean, educational, sketchbook feel\"},\"lighting\":{\"primary\":\"flat even lighting\",\"secondary\":\"none\",\"mood\":\"bright and clear, no shadows\"},\"color_grading\":{\"palette\":[\"warm cream background\",\"ink black sketch lines\",\"soft pastel accent fills — sky blue, mint green, warm yellow, coral pink\"],\"tone\":\"warm and light\",\"contrast\":\"low to medium\"},\"composition\":{\"shot_type\":\"full infographic layout\",\"angle\":\"top-down flat view\",\"lens\":\"orthographic / flat design\"},\"style\":{\"medium\":\"hand-drawn sketch illustration, pen-and-ink with light watercolor fills\",\"reference\":\"sketchnote / visual thinking style, similar to RSA Animate or hand-drawn explainer diagrams\",\"texture\":\"light paper grain, visible pencil/pen strokes\"},\"constraints\":[\"each concept node must include its verbatim label: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\",\"relationship lines between nodes must be labeled with short descriptive phrases\",\"include small illustrative icons or doodles next to each concept to aid comprehension\",\"text must be legible and in a hand-lettering style\",\"layout should feel like a mind-map or concept web, not a list\"],\"negative\":[\"photorealistic rendering\",\"dark background\",\"3D effects\",\"drop shadows\",\"clipart style\",\"sterile corporate design\",\"blurry text\",\"missing any of the 7 concept labels\"]}",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "9c4b83b3-730f-401c-8d89-0e10dc93c922",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/d8c3e5fe-243d-4ce7-ae02-43410bf9cd41.png"
+        ],
+        "local_paths": [],
+        "cost": 0.039,
+        "latency_ms": 65450,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

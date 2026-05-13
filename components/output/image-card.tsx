@@ -28,6 +28,7 @@ import {
   type ImageJobState,
 } from "@/lib/atoms";
 import { type StartImageJobInput } from "@/lib/image-job";
+import { imageModelAtom } from "@/lib/atoms-shared";
 import { useImageRetry } from "@/lib/use-image-retry";
 import type { ImageJobRecord } from "@/lib/schema";
 import { writeHistoryRunDebounced } from "@/lib/history-write";
@@ -76,13 +77,14 @@ function JobColumn({
 }) {
   const query = useAtomValue(queryAtom);
   const rewrite = useAtomValue(rewriteResultAtom);
+  const imageModel = useAtomValue(imageModelAtom);
 
   // 重试要回溯"本路应该打什么":baseline 用当前 query,optimized 用当前 final_prompt
   const buildRetryInput = (): StartImageJobInput | null => {
     if (variant === "baseline") {
       const q = query.trim();
       if (!q) return null;
-      return { prompt: q };
+      return { prompt: q, model: imageModel || undefined };
     }
     const fp = rewrite?.final_prompt;
     if (!fp?.prompt?.trim()) return null;
@@ -92,6 +94,7 @@ function JobColumn({
       quality: fp.quality,
       n: fp.n,
       output_format: fp.output_format,
+      model: imageModel || undefined,
     };
   };
 

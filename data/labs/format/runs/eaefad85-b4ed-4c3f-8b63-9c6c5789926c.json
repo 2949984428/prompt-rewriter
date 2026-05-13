@@ -1,0 +1,134 @@
+{
+  "id": "eaefad85-b4ed-4c3f-8b63-9c6c5789926c",
+  "ts": 1777276091752,
+  "query": "生成一张适合小红书发布的 3:4 竖版九宫格海报，整体为 3列 × 3行 排版，九个宫格边界清晰，方便后期直接切割成 9 张单图发布。整体风格干净、高级、统一，适合女性向健康生活方式内容，具有小红书爆款封面气质。画面要求 信息排版清晰、文字大、可读性强、留白舒服、配色温柔治愈。\n\n整体视觉风格：\n奶油白、浅米色、淡燕麦色、浅焦糖色为主色调，搭配少量深棕色文字，ins风、治愈感、睡眠疗愈主题，简约排版，轻拟物插画点缀，可加入枕头、月亮、星星、热牛奶、香薰、书本、眼罩、窗帘、床铺等元素。整体像专业新媒体设计图，字体工整，适合做知识科普类小红书九宫格。\n排版要求：\n\n整张图必须是标准九宫格构图，切分后每一格都能独立成图\n\n每个宫格内容完整居中，不要把标题或正文压在分割线附近\n每个格子之间保留明显间隔或细边框，保证裁切后不影响阅读\n所有文字使用中文，清晰易读，不要乱码，不要英文\n每个宫格都像独立的小红书图文卡片，但视觉风格保持统一\n画面精致、真实、自然，不要廉价营销感，不要过度花哨\n九宫格具体内容：\n\n第1格（封面）\n大标题：让你倒头就睡的8个 tips\n副标题：失眠党、熬夜党一定要收藏\n封面视觉最吸睛，适合做首图，加入柔软床铺、月亮、枕头、眼罩等治愈睡眠元素，标题突出，排版高级。\n\n第2格\n标题：1. 睡前1小时别玩手机\n正文：蓝光会让大脑更清醒，越刷越睡不着。\n配图元素：手机、月亮、困倦表情的小插画\n第3格\n标题：2. 睡前把灯光调暗\n正文：暖光环境能帮助身体进入“准备睡觉”的状态。\n配图元素：床头灯、暖黄色灯光、窗帘\n第4格\n标题：3. 房间温度别太高\n正文：稍微凉一点，更容易快速入睡。\n配图元素：空调、温度计、被子\n第5格\n标题：4. 晚上别喝浓茶咖啡\n正文：咖啡因会延迟困意，让你躺很久还睡不着。\n配图元素：咖啡杯、茶杯、禁止符号\n\n第6格\n标题：5. 睡前洗个热水澡\n正文：能让身体放松下来，入睡速度更快。\n配图元素：浴室蒸汽、毛巾、热水\n第7格\n标题：6. 脑子停不下来就写下来\n正文：把烦心事和待办清单写下，大脑会更容易放松。\n配图元素：笔记本、钢笔、小台灯\n第8格\n标题：7. 固定上床时间\n正文：每天差不多时间睡，生物钟会越来越稳定。\n配图元素：时钟、月亮、床\n第9格\n标题：8. 试试深呼吸放松法\n正文：吸气4秒，停4秒，呼气6秒，慢慢就有困意了。\n底部小字：收藏这组，今晚试试看\n配图元素：呼吸线条、闭眼人物、星星\n\n画质要求：\n高清，高级排版，杂志感，真实可发布，新媒体运营审美，小红书爆款图文风格，文字布局规整，适合直接切图。",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing 3x3 grid poster for Xiaohongshu (Little Red Book) lifestyle content, featuring 9 individual cards with clear boundaries for easy slicing.\n\nStyle/medium: clean editorial infographic, soft ins-style aesthetic, light skeuomorphic illustrations, magazine-quality layout, professional social media design\nComposition: 3-column by 3-row grid layout (3:4 vertical aspect ratio), each cell centered with generous padding, clear borders between cells, no text crossing grid lines\nSubject: 9 sleep tips cards with soft bedding, moon, pillow, eye mask, warm lamp, curtains, hot milk, aromatherapy, books, stars as decorative elements\nScene/backdrop: cream white, light beige, pale oatmeal, soft caramel background tones with warm brown text, cozy bedroom atmosphere\nLighting/mood: soft diffused warm light, gentle and healing mood, peaceful nighttime ambiance\nColor palette: warm neutrals (cream, beige, oatmeal, caramel) as base with deep brown for text, minimal accent colors, monochromatic harmony\nMaterials/textures: matte paper texture, soft fabric feel, subtle grain for warmth\nText (verbatim): \"让你倒头就睡的8个 tips\" \"失眠党、熬夜党一定要收藏\" \"1. 睡前1小时别玩手机\" \"蓝光会让大脑更清醒，越刷越睡不着。\" \"2. 睡前把灯光调暗\" \"暖光环境能帮助身体进入\"准备睡觉\"的状态。\" \"3. 房间温度别太高\" \"稍微凉一点，更容易快速入睡。\" \"4. 晚上别喝浓茶咖啡\" \"咖啡因会延迟困意，让你躺很久还睡不着。\" \"5. 睡前洗个热水澡\" \"能让身体放松下来，入睡速度更快。\" \"6. 脑子停不下来就写下来\" \"把烦心事和待办清单写下，大脑会更容易放松。\" \"7. 固定上床时间\" \"每天差不多时间睡，生物钟会越来越稳定。\" \"8. 试试深呼吸放松法\" \"吸气4秒，停4秒，呼气6秒，慢慢就有困意了。\" \"收藏这组，今晚试试看\"\nConstraints: all text must be in Chinese characters, no English, no garbled text, each cell must work as standalone image after cropping, text must be large and highly readable, generous whitespace\nAvoid: cheap marketing aesthetic, over-decoration, cluttered layout, watermark, 8K stuffer words, deformed Chinese characters, text too small to read",
+        "size": "1152x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "1c899a76-43f6-47bf-b31a-69048b7baded",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/b7f373bb-cb9f-47cc-8420-be7d18ca8774.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0518,
+        "latency_ms": 79331,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为小红书健康生活方式账号生成一张九宫格信息图海报，可切割为 9 张独立图文卡片发布。\n\n风格/介质:小红书爆款图文设计，ins 风治愈系，轻拟物插画，杂志感排版，奶油白/浅米色/淡燕麦色/浅焦糖色为主，深棕色文字，睡眠疗愈主题\n构图:3×3 标准九宫格布局，宫格边界清晰带细边框，每格内容完整居中，标题与正文避开分割线，整体比例 3:4 竖版\n主体:九宫格信息图，第1格为封面，第2-9格为睡眠 tips 卡片\n场景/背景:纯色奶油白/浅米色背景，每格独立小场景配轻拟物插画元素\n光线/氛围:柔和漫射光，温暖治愈，无硬阴影，整体氛围宁静助眠\n色彩搭配:奶油白底色，浅米色/淡燕麦色区块，浅焦糖色点缀，深棕色文字，温柔治愈不刺眼\n材质/纹理:纸张质感，轻微肌理，轻拟物插画带柔和阴影\n文字(原文保留):\"让你倒头就睡的8个 tips\"\"失眠党、熬夜党一定要收藏\"\"1. 睡前1小时别玩手机\"\"蓝光会让大脑更清醒，越刷越睡不着。\"\"2. 睡前把灯光调暗\"\"暖光环境能帮助身体进入\"准备睡觉\"的状态。\"\"3. 房间温度别太高\"\"稍微凉一点，更容易快速入睡。\"\"4. 晚上别喝浓茶咖啡\"\"咖啡因会延迟困意，让你躺很久还睡不着。\"\"5. 睡前洗个热水澡\"\"能让身体放松下来，入睡速度更快。\"\"6. 脑子停不下来就写下来\"\"把烦心事和待办清单写下，大脑会更容易放松。\"\"7. 固定上床时间\"\"每天差不多时间睡，生物钟会越来越稳定。\"\"8. 试试深呼吸放松法\"\"吸气4秒，停4秒，呼气6秒，慢慢就有困意了。\"\"收藏这组，今晚试试看\"\n约束:九宫格必须标准 3×3 排版，切分后每格独立成图可读；所有文字中文，清晰无乱码；适合小红书 3:4 竖版发布\n避免:廉价营销感、过度花哨装饰、英文文字、乱码、分割线压文字、渐变滥用、塑料质感",
+        "size": "1152x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "c037611c-790a-4455-b237-f0751536956b",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/84fe8efe-1a01-4c60-a117-f7de941698ab.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0522,
+        "latency_ms": 102180,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: infographic-diagram\nAsset type: social media carousel grid (9-panel layout for Xiaohongshu), 3:4 vertical format, ready-to-cut into 9 individual posts\nPrimary request: clean 3x3 grid layout with clear cell boundaries, high-end editorial design for female wellness lifestyle content, sleep therapy theme\nScene/backdrop: cream white and oatmeal beige background, soft minimalist aesthetic with gentle shadows\nSubject: 9-panel infographic grid with Chinese text content about sleep tips, each cell containing title, body text, and soft illustration elements\nStyle/medium: editorial graphic design, light skeuomorphic illustration, ins-style wellness aesthetic, magazine-quality layout\nComposition/framing: 3 columns × 3 rows grid, clear spacing between cells, each cell self-contained and centered, generous white space, no text near grid lines\nLighting/mood: soft diffused lighting, warm and healing atmosphere, cozy bedtime feeling\nColor palette: cream white, light beige, pale oatmeal, soft caramel as primary; dark brown for text; warm yellow accents for lighting elements\nMaterials/textures: matte paper texture, soft fabric textures for bedding elements, gentle gradients\nText (verbatim): \"让你倒头就睡的8个 tips\", \"失眠党、熬夜党一定要收藏\", \"1. 睡前1小时别玩手机\", \"蓝光会让大脑更清醒，越刷越睡不着。\", \"2. 睡前把灯光调暗\", \"暖光环境能帮助身体进入\"准备睡觉\"的状态。\", \"3. 房间温度别太高\", \"稍微凉一点，更容易快速入睡。\", \"4. 晚上别喝浓茶咖啡\", \"咖啡因会延迟困意，让你躺很久还睡不着。\", \"5. 睡前洗个热水澡\", \"能让身体放松下来，入睡速度更快。\", \"6. 脑子停不下来就写下来\", \"把烦心事和待办清单写下，大脑会更容易放松。\", \"7. 固定上床时间\", \"每天差不多时间睡，生物钟会越来越稳定。\", \"8. 试试深呼吸放松法\", \"吸气4秒，停4秒，呼气6秒，慢慢就有困意了。\", \"收藏这组，今晚试试看\"\nConstraints: must be exact 3x3 grid with clear cell borders for clean cutting; all text must be Chinese, large and readable; each cell must work as standalone image; consistent visual style across all 9 panels; include soft illustrations of pillows, moon, stars, warm milk, aromatherapy, books, eye masks, curtains, bed, phone, lamps, AC, coffee cups, bathtub, notebooks, clocks, breathing visualization\nAvoid: cheap marketing aesthetic, cluttered design, small unreadable text, text overlapping grid lines, mismatched colors, plastic-looking illustrations, watermark, deformed text characters",
+        "size": "1152x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "4136c1eb-a1ac-48e1-bff4-36369f9e8a0f",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/d66b3a81-bebf-4b20-a021-7f3647d6a769.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0521,
+        "latency_ms": 90178,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Clean editorial social media design for Xiaohongshu, a 9-grid layout (3 columns × 3 rows) with clear boundaries between each cell for easy cutting into 9 separate posts, minimalist wellness aesthetic for female lifestyle content, cream white and soft beige color palette with light oat and pale caramel tones, gentle healing sleep therapy theme, ins-style soft illustration accents, featuring pillows, moon, stars, warm milk, aromatherapy, books, eye masks, curtains, and cozy bedding elements, professional new media graphic design with neat typography and generous white space, warm and soothing color scheme with dark brown text for readability, each cell functions as an independent Xiaohongshu card while maintaining visual unity across the grid, sophisticated and authentic without cheap marketing feel, photorealistic magazine-quality layout ready for direct publishing and cutting",
+        "size": "1152x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "c0b03b3f-680e-4ffc-9dcc-db86a2aa426e",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/7dabf876-6d41-492b-9e72-d7f14a3bd4bf.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0497,
+        "latency_ms": 90164,
+        "error": null
+      },
+      "pm_score": 9,
+      "pm_notes": "",
+      "rated_at": 1777276380188
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"social media carousel grid poster\",\"description\":\"9-square grid layout (3 columns × 3 rows) for Xiaohongshu, clean borders between each cell, ready for cutting into 9 individual posts\",\"pose\":\"static grid composition, each cell self-contained and centered\",\"expression\":\"calming, healing, premium lifestyle aesthetic\"},\"scene\":{\"location\":\"digital design canvas\",\"time_of_day\":\"evening/nighttime theme\",\"ambience\":\"cozy bedroom atmosphere, sleep sanctuary mood\"},\"lighting\":{\"primary\":\"soft warm ambient light\",\"secondary\":\"gentle moonlight glow, bedside lamp warmth\",\"mood\":\"peaceful, relaxing, inviting rest\"},\"color_grading\":{\"palette\":[\"cream white #F5F1E8\",\"oatmeal beige #E8DCC4\",\"light caramel #D4C4A8\",\"warm ivory #FAF7F0\",\"deep brown text #3D3229\"],\"tone\":\"soft pastel, muted warm tones\",\"contrast\":\"low to medium, gentle gradients\"},\"composition\":{\"shot_type\":\"3:4 vertical grid poster\",\"angle\":\"flat lay / top-down view of grid\",\"lens\":\"clean graphic design layout\"},\"style\":{\"medium\":\"digital illustration with light skeuomorphic elements\",\"reference\":\"Xiaohongshu viral content aesthetic, premium lifestyle editorial\",\"texture\":\"soft shadows, subtle paper texture, clean vector graphics\"},\"constraints\":[\"9 distinct cells with clear borders/gutters\",\"each cell must work as standalone image\",\"all text in Chinese only, no English\",\"large readable fonts, generous whitespace\",\"no text near grid lines or borders\",\"professional graphic design quality\",\"no cheap marketing look\"],\"negative\":[\"cluttered layout\",\"small unreadable text\",\"English text\",\"glossy plastic look\",\"overly decorative elements\",\"text crossing grid boundaries\",\"low resolution\",\"chaotic colors\"]}\n\nCell 1 (Cover): 让你倒头就睡的8个 tips | 失眠党、熬夜党一定要收藏 | Visual: soft bed, moon, pillow, sleep mask, premium typography\nCell 2: 1. 睡前1小时别玩手机 | 蓝光会让大脑更清醒，越刷越睡不着。 | phone, moon, sleepy face illustration\nCell 3: 2. 睡前把灯光调暗 | 暖光环境能帮助身体进入\"准备睡觉\"的状态。 | bedside lamp, warm yellow light, curtains\nCell 4: 3. 房间温度别太高 | 稍微凉一点，更容易快速入睡。 | AC, thermometer, blanket\nCell 5: 4. 晚上别喝浓茶咖啡 | 咖啡因会延迟困意，让你躺很久还睡不着。 | coffee cup, tea cup, no symbol\nCell 6: 5. 睡前洗个热水澡 | 能让身体放松下来，入睡速度更快。 | bathroom steam, towel, hot water\nCell 7: 6. 脑子停不下来就写下来 | 把烦心事和待办清单写下，大脑会更容易放松。 | notebook, pen, small desk lamp\nCell 8: 7. 固定上床时间 | 每天差不多时间睡，生物钟会越来越稳定。 | clock, moon, bed\nCell 9: 8. 试试深呼吸放松法 | 吸气4秒，停4秒，呼气6秒，慢慢就有困意了。 | 收藏这组，今晚试试看 | breathing lines, closed eyes figure, stars",
+        "size": "1152x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "7b88e279-52fa-423d-b4d3-e1707118dd7a",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/cfc054ea-779c-4796-ac6d-24289690a609.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0527,
+        "latency_ms": 124133,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": "F4-block-formula",
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "kimi/kimi-k2.5"
+  }
+}

@@ -11,6 +11,8 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 import { runFormatOne, loadAllLabels } from "@/lib/format-runner";
+import { buildFromFormatRun } from "@/lib/experiments/build";
+import { writeExperimentRecord } from "@/lib/experiments/store";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -20,6 +22,8 @@ const RequestSchema = z.object({
   skill_ids: z.array(z.string().min(1)).min(1, "至少选一个格式"),
   // 前端"改写模型"下拉值,空 / undefined → 由 lib/llm.ts 用 env LLM_MODEL 兜底
   llm_model: z.string().optional(),
+  // 是否在每条 skill 前注入 _universal.md 通用规则。与 batch lab 同语义,默认 true 兼容旧客户端。
+  include_universal: z.boolean().default(true),
 });
 
 export async function POST(req: Request) {
@@ -31,7 +35,7 @@ export async function POST(req: Request) {
       { status: 400 }
     );
   }
-  const { query, skill_ids, llm_model } = parsed.data;
+  const { query, skill_ids, llm_model, include_universal } = parsed.data;
   const labelMap = await loadAllLabels();
 
   // 实际生效的 llm_model:前端传空时落到 env 默认,这里要算出真值才能 echo 给前端
@@ -43,11 +47,37 @@ export async function POST(req: Request) {
 
   // 并发跑所有格式(同一 llm_model 透传给每路)
   const runs = await Promise.all(
-    skill_ids.map((id) => runFormatOne(query, id, labelMap, llm_model))
+    skill_ids.map((id) => runFormatOne(query, id, labelMap, llm_model, include_universal))
   );
 
   // 兼容老的对外契约:不返回 ms 字段(原 route 没暴露),其他字段保持
   const compatRuns = runs.map(({ ms: _ms, ...rest }) => rest);
+
+  // 2026-05-13:落 ExperimentRecord 到 Experiments 平台(异步,失败不影响主流程)
+  void (async () => {
+    try {
+      const exp = buildFromFormatRun({
+        query,
+        skill_ids,
+        llm_model: usedLlmModel,
+        include_universal,
+        runs: runs.map(({ format_id, format_label, final_prompt, error, raw, ms }) => ({
+          format_id,
+          format_label,
+          final_prompt,
+          error,
+          raw,
+          ms,
+        })),
+      });
+      await writeExperimentRecord(exp);
+    } catch (e) {
+      console.warn(
+        "[api/labs/format/run] 落 Experiment 失败:",
+        e instanceof Error ? e.message : String(e),
+      );
+    }
+  })();
 
   return NextResponse.json({ runs: compatRuns, used_llm_model: usedLlmModel });
 }

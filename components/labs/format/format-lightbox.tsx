@@ -26,10 +26,13 @@ export function FormatLabLightbox() {
   const run = useAtomValue(currentFormatRunAtom);
 
   // 有图的子集(没图的格被跳过,不进入翻页序列)
+  // 多 model 模式下同 format_id 可能有多条,用复合 key 区分。activeId 也走复合 key。
   const items = (run?.format_runs ?? [])
     .map((r) => ({
-      id: r.format_id,
-      label: r.format_label,
+      id: `${r.format_id}::${r.image_model ?? ""}`,
+      label: r.image_model
+        ? `${r.format_label} · ${r.image_model}`
+        : r.format_label,
       url: r.image_job?.urls?.[0],
     }))
     .filter((x): x is { id: string; label: string; url: string } => !!x.url);

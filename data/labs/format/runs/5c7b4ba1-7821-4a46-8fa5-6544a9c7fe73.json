@@ -1,0 +1,134 @@
+{
+  "id": "5c7b4ba1-7821-4a46-8fa5-6544a9c7fe73",
+  "ts": 1777277601967,
+  "query": "Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Detailed technical exploded-view illustration of a camera, Sony A7 mirrorless camera fully disassembled in a clean exploded diagram, all individual components separated and floating in organized layout — body shell, sensor unit, shutter mechanism, mount ring, battery compartment, viewfinder module, LCD screen, dials, buttons, circuit boards, lens contacts, grip rubber, card slot tray, all labeled with their exact part names in clear typography, technical product illustration style with precise line art and flat neutral background, overhead symmetrical composition with each part evenly spaced and connected by thin guide lines, bright even studio lighting with no shadows, clean and instructional technical mood.",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "49be4035-e675-4b6c-97ba-1ad5685bc935",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/660b2395-09b1-4faf-ad89-43051984f251.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0418,
+        "latency_ms": 74331,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: infographic-diagram\nAsset type: detailed exploded-view technical illustration, square format\nPrimary request: fully exploded diagram of a Sony A7 mirrorless camera showing all individual components with their labeled names\nScene/backdrop: clean white background, no environment\nSubject: Sony A7 mirrorless camera, fully disassembled in an exploded-view layout — all parts separated and floating in organized positions around the central body; components include sensor, shutter unit, mirror box, lens mount, body shell (front and rear), grip, circuit boards (main PCB, sub-board), battery compartment, memory card slot, viewfinder (EVF) unit, LCD screen, dials, buttons, hot shoe, tripod socket, rubber grips, screws, cables, and all internal mechanical parts\nStyle/medium: technical illustration, engineering exploded-view diagram, flat vector with subtle shading\nComposition/framing: isometric or slightly angled top-front view, all parts evenly spaced with leader lines pointing to each component label\nLighting/mood: flat, neutral, technical — no dramatic shadows\nColor palette: neutral grays and blacks for camera parts, white background, dark navy or black label text, thin red or gray leader lines\nMaterials/textures: matte plastic, metal chassis, glass elements subtly indicated\nText (verbatim): \"Sony A7\"\nConstraints: every visible part must have a label with its component name in Spanish; layout must be legible and well-organized; brand name \"Sony A7\" must appear as a title\nAvoid: blurry labels, missing part names, decorative backgrounds, photorealistic rendering that obscures part separation",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "bd48d862-5b62-4368-a50b-afde127816c3",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/6cd49a39-b3fa-4e86-8d2f-49fd6c5f7c60.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0544,
+        "latency_ms": 153159,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create a detailed technical exploded-view infographic of a Sony A7 camera showing all its components with labeled part names.\n\nStyle/medium: clean technical illustration, exploded-view diagram in the style of a precision engineering manual, flat vector with subtle shading\nComposition: centered exploded-view layout, isometric or slight 3/4 perspective, all parts spread outward from the camera body with leader lines pointing to labels\nSubject: Sony A7 mirrorless camera fully disassembled into all major and minor components — body shell, sensor unit, shutter mechanism, mount ring, grip, battery compartment, card slot, dials, buttons, viewfinder module, LCD screen, circuit boards, lens mount contacts\nScene/backdrop: clean white or very light neutral background, no environment\nLighting/mood: flat even lighting, no shadows, technical clarity over mood\nColor palette: neutral grays and blacks for camera parts, red or dark blue leader lines, black sans-serif label text on white\nText (verbatim): \"Sony A7\"\nConstraints: every visible part must have a labeled name in English; leader lines must not overlap; layout must remain legible at A3 print size\nAvoid: photorealistic rendering, lens attached, decorative backgrounds, missing labels, overlapping text, blurry part names",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "49ef2cc8-cb57-44cd-b10e-cb68df72095c",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/ac385c10-f7c9-4572-8bf6-c4681fbe761e.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0383,
+        "latency_ms": 69542,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为 Sony A7 相机生成一张详细分解图（爆炸视图），标注所有零部件及其名称。\n\n风格/介质:技术插画风格，精密工程爆炸视图，参考 iFixit 拆解图与工业设计手册的制图规范，线条清晰，白底或浅灰底\n构图:等轴测视角（isometric），各零部件沿爆炸轴向均匀散开，整体居中，留出足够空间放置标注引线\n主体:Sony A7 全画幅无反相机完整机身，拆解为所有主要零部件：机身外壳（前盖/后盖）、传感器（全画幅 CMOS）、快门组件、反光板腔体、主板/电路板、电池仓、SD 卡槽、EVF 取景器模块、LCD 屏幕、镜头卡口环、拨轮与按键组、热靴、手柄橡胶件、底部三脚架螺口等\n场景/背景:纯白或浅灰渐变背景，无环境干扰\n光线/氛围:均匀漫射光，无强烈阴影，保证每个零件轮廓清晰可读\n色彩搭配:机身主色保留 Sony A7 原色（黑色/深灰），各零部件用细引线连接对应的中文或双语（中英）标注文字，引线颜色统一用浅蓝或深灰\n文字(原文保留):\"Sony A7\"\n约束:每个零部件必须有清晰的标注名称；爆炸方向逻辑合理，符合实际拆解顺序；标注文字不遮挡零件主体\n避免:卡通化、模糊零件边界、标注文字重叠、随意堆砌零件、与 Sony A7 实际结构明显不符的臆造部件",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "229b7416-9e41-4466-8f8f-0abd07ced2b0",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/cc6c5694-6ac9-42a6-854e-d15e906a7fab.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0393,
+        "latency_ms": 83937,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"Sony A7 mirrorless camera\",\"description\":\"full mechanical and optical exploded-view diagram of a Sony Alpha A7 camera, all internal and external components separated and floating in space, every part clearly visible\",\"pose\":\"exploded isometric layout, parts spread outward from center body\"},\"scene\":{\"location\":\"clean white studio background\",\"ambience\":\"technical, precise, educational\"},\"lighting\":{\"primary\":\"soft diffused overhead light\",\"mood\":\"neutral, flat, no harsh shadows to preserve label readability\"},\"color_grading\":{\"palette\":[\"white background\",\"metallic silver\",\"matte black\",\"translucent glass elements\",\"accent red for labels\"],\"tone\":\"clean and neutral\",\"contrast\":\"low-medium\"},\"composition\":{\"shot_type\":\"full diagram / exploded view\",\"angle\":\"slight isometric 3/4 angle\",\"lens\":\"technical illustration perspective, no distortion\"},\"style\":{\"medium\":\"detailed technical illustration / engineering exploded-view diagram\",\"reference\":\"Sony official service manual exploded parts diagram\",\"texture\":\"precise line art with subtle shading and material differentiation\"},\"constraints\":[\"label every visible component with its official name in English\",\"include: image sensor (Exmor R CMOS), shutter mechanism, mirror box (mirrorless open cavity), lens mount (E-mount), body shell (front and rear), grip rubber, main PCB, battery compartment, SD card slot, EVF unit, OLED viewfinder, hot shoe, mode dial, control wheel, shutter button, USB/HDMI ports, tripod socket, strap lugs\",\"brand name 'Sony' and model 'A7' must be visible on the body\",\"all labels connected to parts with thin leader lines\"],\"negative\":[\"blurry labels\",\"missing part names\",\"assembled camera only\",\"watermark\",\"decorative background\",\"lens attached\"]}",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "4918eff4-59ff-49ba-a806-f80945d76923",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/9aafbd34-c05b-41e8-a01d-74eda566e9f8.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0389,
+        "latency_ms": 97898,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

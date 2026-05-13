@@ -1,0 +1,679 @@
+{
+  "id": "d243641e-587f-4164-a765-2a32673a4d8f",
+  "created_at": "2026-04-27T09:44:43.796Z",
+  "name": "badcase-2",
+  "query_mode": "manual",
+  "purpose": "",
+  "queries": [
+    "使用单张大知识卡片的样式，面向儿童群体，进清楚三国赤壁之战的故\n事。标题清晰，要点在旁边列好并标点，知识卡片以卡通画故事的形式\n展开。",
+    "使用详细的步骤图，解说一下如何在docker容器里部署hermes，并\n且接入glmcodingplan，标注为清晰的1234步骤",
+    "以小书素人媒体为主体，做一个九高格的小书封面直图，造素人\n风格。透出产品为大疆pocket4，中央标题文字：大强pocket4初体\n验。字体要可爱、差异化",
+    "gpt5.5发布，写一个国内融资宣发的ppt封面，演讲人为奥特曼，必\n须符合中国国内的路演特色，符合gp的调性",
+    "📋 品牌资产清单\n1. 标志系统（3个）\n \n主标志：Evergreen   完整 logo（图标+文字）\n叶子图标：独立的品牌图标元素\n文字标识：纯文字版本的品牌名称\n2. 字体系统\n \n标题字体：Poppins（用于标题和重点文字）\n正文字体：Montserrat（用于正文和说明文字）\n3. 品牌理念\n \n品牌使命：Evergreen   是一个生活方式补水品牌，通过设计精美的产品，旨在日常生活中提升平衡、健康和可持续性\n核心价值：平衡、目的、健康、冒险、可持续性\n4. 色彩系统\n \n🔵 天空蓝 #A3CEF1（主色）\n💗 粉紫色 #F1B2DC（辅助色）\n⚪ 银色金属   #C0C0C0（点缀色）\n5. 视觉参考（4张）\n \n户外生活方式摄影\n工作室产品摄影\n水纹理素材\n叶子纹理素材\n \n画一个该品牌水杯产品的亚马逊产品套图",
+    "参考图放到一个家庭电视背景墙下的柜子上，要求聚焦产品，不突儿",
+    "唐代长安城元宵灯会全景，万盏花灯照亮夜空，\n工笔重彩长卷",
+    "设计一张字节期动的员】】牌，要求真实感。正反两面都要。"
+  ],
+  "skill_ids": [
+    "F11-direct-api",
+    "F10-brief-and-fields-en",
+    "F9-brief-and-fields",
+    "F5-labeled-spec"
+  ],
+  "scoring_dimensions": [
+    {
+      "id": "overall",
+      "label": "总体观感",
+      "description": ""
+    },
+    {
+      "id": "intent",
+      "label": "意图还原度",
+      "description": "prompt 是否抓住了用户原意"
+    }
+  ],
+  "cells": [
+    {
+      "query_idx": 0,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "使用单张大知识卡片的样式，面向儿童群体，进清楚三国赤壁之战的故\n事。标题清晰，要点在旁边列好并标点，知识卡片以卡通画故事的形式\n展开。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/959ec9b3-74f3-4b3e-ab30-8374735040c2/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an educational infographic knowledge card for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era, in a single-card cartoon illustration style.\n\nStyle/medium: flat cartoon illustration infographic, colorful storybook panel art in the style of a Chinese children's educational poster, warm and playful linework\nComposition: single large vertical card layout, bold title at the top, key bullet points listed along the side with clear numbering/punctuation, main visual area filled with a cartoon narrative scene\nSubject: the Battle of Red Cliffs — key figures include Cao Cao's navy, Zhou Yu, Zhuge Liang, and the fire attack on the fleet; depicted as friendly cartoon characters suitable for young children\nScene/backdrop: the Yangtze River at night with fire engulfing Cao Cao's warships, dramatic but child-friendly atmosphere\nLighting/mood: warm orange and red firelight glow over the river, exciting and adventurous mood without being scary\nColor palette: vivid primary colors as base — red, orange, blue — with yellow accents; high contrast between fire and dark river water to guide children's eyes\nText (verbatim): \"赤壁之战\"\nConstraints: title \"赤壁之战\" must be prominently displayed at the top; key story points must be listed as numbered bullet points with punctuation along the side of the card; all visual elements must be age-appropriate cartoon style for children; single card, no multi-panel grid\nAvoid: realistic gore or violence, overly complex linework, adult-oriented ink painting style, cluttered layout, small unreadable text",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/c6c0f215-274d-4333-9b0d-3dc12e37b73d/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an educational infographic knowledge card for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era, in a single-card cartoon illustration style.\\n\\nStyle/medium: flat cartoon illustration infographic, colorful storybook panel art in the style of a Chinese children's educational poster, warm and playful linework\\nComposition: single large vertical card layout, bold title at the top, key bullet points listed along the side with clear numbering/punctuation, main visual area filled with a cartoon narrative scene\\nSubject: the Battle of Red Cliffs — key figures include Cao Cao's navy, Zhou Yu, Zhuge Liang, and the fire attack on the fleet; depicted as friendly cartoon characters suitable for young children\\nScene/backdrop: the Yangtze River at night with fire engulfing Cao Cao's warships, dramatic but child-friendly atmosphere\\nLighting/mood: warm orange and red firelight glow over the river, exciting and adventurous mood without being scary\\nColor palette: vivid primary colors as base — red, orange, blue — with yellow accents; high contrast between fire and dark river water to guide children's eyes\\nText (verbatim): \\\"赤壁之战\\\"\\nConstraints: title \\\"赤壁之战\\\" must be prominently displayed at the top; key story points must be listed as numbered bullet points with punctuation along the side of the card; all visual elements must be age-appropriate cartoon style for children; single card, no multi-panel grid\\nAvoid: realistic gore or violence, overly complex linework, adult-oriented ink painting style, cluttered layout, small unreadable text\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13493
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为儿童群体生成一张关于「三国赤壁之战」的大知识卡片，用于科普教育场景。\n\n风格/介质:卡通插画风格，色彩鲜艳饱满，线条圆润可爱，类似儿童绘本或小学教辅插图的视觉调性\n构图:单张横版大卡片布局，左侧或中部为卡通故事场景主插画，右侧或下方为要点列表区域，顶部居中放置标题，整体分区清晰、层次分明\n主体:卡片标题文字「赤壁之战」醒目置顶；主插画描绘赤壁之战核心场景——江面上熊熊燃烧的曹操战船、东吴与刘备联军的士兵欢呼、诸葛亮借东风的卡通形象；右侧要点区列出带序号标点的关键知识点，例如：①曹操率大军南下 ②孙刘联合抗曹 ③黄盖献苦肉计 ④火烧赤壁，曹军大败\n场景/背景:长江江面，夜晚火光映红天空，远处山影隐约，战船密布水面\n光线/氛围:火焰橙红光为主光源，映照江面与人物，氛围紧张热烈但卡通化处理使整体感觉生动有趣而不恐怖\n色彩搭配:以暖橙红（火焰/战船）为视觉中心，搭配深蓝江水与夜空做对比，要点文字区用米白或淡黄底色与主画面区隔，整体色调明快\n文字(原文保留):\"赤壁之战\"\n约束:知识要点必须以列表形式呈现并带序号标点；标题、要点文字均为中文；卡通人物造型圆润无攻击性，适合儿童阅读；单张完整卡片，不分页\n避免:写实战争血腥场面、恐怖表情、过于复杂的历史细节堆砌、文字与插画区域互相遮挡、成人向水墨写实风格",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/71eb7045-e01d-470f-b6bb-e962ee408774/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为儿童群体生成一张关于「三国赤壁之战」的大知识卡片，用于科普教育场景。\\n\\n风格/介质:卡通插画风格，色彩鲜艳饱满，线条圆润可爱，类似儿童绘本或小学教辅插图的视觉调性\\n构图:单张横版大卡片布局，左侧或中部为卡通故事场景主插画，右侧或下方为要点列表区域，顶部居中放置标题，整体分区清晰、层次分明\\n主体:卡片标题文字「赤壁之战」醒目置顶；主插画描绘赤壁之战核心场景——江面上熊熊燃烧的曹操战船、东吴与刘备联军的士兵欢呼、诸葛亮借东风的卡通形象；右侧要点区列出带序号标点的关键知识点，例如：①曹操率大军南下 ②孙刘联合抗曹 ③黄盖献苦肉计 ④火烧赤壁，曹军大败\\n场景/背景:长江江面，夜晚火光映红天空，远处山影隐约，战船密布水面\\n光线/氛围:火焰橙红光为主光源，映照江面与人物，氛围紧张热烈但卡通化处理使整体感觉生动有趣而不恐怖\\n色彩搭配:以暖橙红（火焰/战船）为视觉中心，搭配深蓝江水与夜空做对比，要点文字区用米白或淡黄底色与主画面区隔，整体色调明快\\n文字(原文保留):\\\"赤壁之战\\\"\\n约束:知识要点必须以列表形式呈现并带序号标点；标题、要点文字均为中文；卡通人物造型圆润无攻击性，适合儿童阅读；单张完整卡片，不分页\\n避免:写实战争血腥场面、恐怖表情、过于复杂的历史细节堆砌、文字与插画区域互相遮挡、成人向水墨写实风格\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 17617
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: infographic-diagram\nAsset type: single large knowledge card for children, educational illustration\nPrimary request: a single large illustrated knowledge card explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era, designed for children\nScene/backdrop: warm parchment-style card background with decorative ancient Chinese border motifs, river and fire elements as ambient scenery\nSubject: cartoon-style story scenes of the Battle of Red Cliffs — featuring Zhuge Liang, Zhou Yu, Cao Cao, fire ships on the Yangtze River; characters drawn in cute, friendly chibi/cartoon style suitable for kids\nStyle/medium: flat cartoon illustration, children's educational infographic, storybook art style\nComposition/framing: full-card vertical layout — large bold title at top, central cartoon story illustration in the middle, bullet-point key facts panel arranged neatly on the side or below with numbered labels\nLighting/mood: bright, cheerful, warm and inviting; friendly and engaging for young readers\nColor palette: vibrant warm reds and oranges (fire/battle), deep river blues, golden yellows, soft greens; high contrast for readability\nMaterials/textures: flat vector-style with soft cel-shading, clean linework, no photorealistic textures\nText (verbatim): \"赤壁之战\"\nConstraints: title \"赤壁之战\" must be prominent and clearly legible at the top; key story points must be listed with bullet points or numbered labels alongside the illustration; all visual elements must be child-friendly and non-violent\nAvoid: realistic gore or violence, dark or scary imagery, cluttered illegible layout, adult-style painting realism",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/43ace8b0-77b2-4dc9-ae0a-7070cac53638/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: single large knowledge card for children, educational illustration\\nPrimary request: a single large illustrated knowledge card explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era, designed for children\\nScene/backdrop: warm parchment-style card background with decorative ancient Chinese border motifs, river and fire elements as ambient scenery\\nSubject: cartoon-style story scenes of the Battle of Red Cliffs — featuring Zhuge Liang, Zhou Yu, Cao Cao, fire ships on the Yangtze River; characters drawn in cute, friendly chibi/cartoon style suitable for kids\\nStyle/medium: flat cartoon illustration, children's educational infographic, storybook art style\\nComposition/framing: full-card vertical layout — large bold title at top, central cartoon story illustration in the middle, bullet-point key facts panel arranged neatly on the side or below with numbered labels\\nLighting/mood: bright, cheerful, warm and inviting; friendly and engaging for young readers\\nColor palette: vibrant warm reds and oranges (fire/battle), deep river blues, golden yellows, soft greens; high contrast for readability\\nMaterials/textures: flat vector-style with soft cel-shading, clean linework, no photorealistic textures\\nText (verbatim): \\\"赤壁之战\\\"\\nConstraints: title \\\"赤壁之战\\\" must be prominent and clearly legible at the top; key story points must be listed with bullet points or numbered labels alongside the illustration; all visual elements must be child-friendly and non-violent\\nAvoid: realistic gore or violence, dark or scary imagery, cluttered illegible layout, adult-style painting realism\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13187
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "使用详细的步骤图，解说一下如何在docker容器里部署hermes，并\n且接入glmcodingplan，标注为清晰的1234步骤",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/c7ad5510-a527-49f2-bbee-980d6a6d6582/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an infographic poster illustrating step-by-step instructions for deploying Hermes inside a Docker container and integrating it with GLMCodingPlan.\n\nStyle/medium: clean flat vector infographic, technical documentation style, structured layout with numbered steps\nComposition: vertical single-column layout, top-to-bottom flow with connecting arrows between steps, each step in its own clearly bordered card\nSubject: four numbered steps (1→2→3→4) showing: 1) pulling/building the Docker image for Hermes, 2) running the Docker container with configuration flags, 3) connecting Hermes service to GLMCodingPlan endpoint, 4) verifying the integration is live; each step card contains a small icon, a bold step number, a short command or diagram snippet\nScene/backdrop: plain light gray or white background, no decorative environment\nLighting/mood: flat, no shadows, neutral and technical\nColor palette: deep navy blue for step headers and numbering, teal/cyan accent for arrows and connectors, white card backgrounds, monospace code snippets in a dark code-block style\nText (verbatim): \"1\" \"2\" \"3\" \"4\" \"Docker\" \"Hermes\" \"GLMCodingPlan\"\nConstraints: step numbers 1 2 3 4 must be visually prominent and unambiguous; arrows must clearly indicate sequential flow downward; code snippets must be legible at poster size; layout must be scannable at a glance\nAvoid: photorealistic textures, gradients, decorative illustrations unrelated to the technical flow, cluttered backgrounds, overlapping text",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f398cdfe-ddbb-42d8-8d00-ed86b3e93cd6/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an infographic poster illustrating step-by-step instructions for deploying Hermes inside a Docker container and integrating it with GLMCodingPlan.\\n\\nStyle/medium: clean flat vector infographic, technical documentation style, structured layout with numbered steps\\nComposition: vertical single-column layout, top-to-bottom flow with connecting arrows between steps, each step in its own clearly bordered card\\nSubject: four numbered steps (1→2→3→4) showing: 1) pulling/building the Docker image for Hermes, 2) running the Docker container with configuration flags, 3) connecting Hermes service to GLMCodingPlan endpoint, 4) verifying the integration is live; each step card contains a small icon, a bold step number, a short command or diagram snippet\\nScene/backdrop: plain light gray or white background, no decorative environment\\nLighting/mood: flat, no shadows, neutral and technical\\nColor palette: deep navy blue for step headers and numbering, teal/cyan accent for arrows and connectors, white card backgrounds, monospace code snippets in a dark code-block style\\nText (verbatim): \\\"1\\\" \\\"2\\\" \\\"3\\\" \\\"4\\\" \\\"Docker\\\" \\\"Hermes\\\" \\\"GLMCodingPlan\\\"\\nConstraints: step numbers 1 2 3 4 must be visually prominent and unambiguous; arrows must clearly indicate sequential flow downward; code snippets must be legible at poster size; layout must be scannable at a glance\\nAvoid: photorealistic textures, gradients, decorative illustrations unrelated to the technical flow, cluttered backgrounds, overlapping text\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 16203
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为\"在 docker 容器里部署 hermes 并接入 glmcodingplan\"这一技术流程生成一张信息图，用于技术文档或教程配图。\n\n风格/介质:扁平矢量信息图，科技感配色，类似 Docker 官方文档插图风格，线条清晰，图标简洁\n构图:纵向流程图布局，从上到下依次排列 4 个步骤模块，每个模块左侧标注大号数字序号（1、2、3、4），步骤之间用箭头连接\n主体:四步骤流程图，内容分别为：① 拉取 Docker 镜像并创建容器；② 在容器内安装并配置 hermes；③ 配置 glmcodingplan 接入参数；④ 启动服务并验证连接\n场景/背景:纯深色背景（深海军蓝或深灰），模拟终端/IDE 风格\n光线/氛围:无光照模拟，扁平风格，整体氛围清晰、专业、技术感\n色彩搭配:Docker 蓝（#2496ED）作为主色，步骤序号用高亮青绿色强调，箭头和连接线用浅灰，背景深色衬托文字可读性\n文字(原文保留):\"docker\" \"hermes\" \"glmcodingplan\" \"1\" \"2\" \"3\" \"4\"\n约束:步骤序号 1234 必须清晰可见；每个步骤模块需有图标或示意小图；箭头方向明确表示流程顺序\n避免:手绘风格、照片素材、渐变过度堆砌、文字密集无图示、步骤顺序混乱、装饰性噪点",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/9722e9e1-677e-4d97-b3b2-d411398f9469/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为\\\"在 docker 容器里部署 hermes 并接入 glmcodingplan\\\"这一技术流程生成一张信息图，用于技术文档或教程配图。\\n\\n风格/介质:扁平矢量信息图，科技感配色，类似 Docker 官方文档插图风格，线条清晰，图标简洁\\n构图:纵向流程图布局，从上到下依次排列 4 个步骤模块，每个模块左侧标注大号数字序号（1、2、3、4），步骤之间用箭头连接\\n主体:四步骤流程图，内容分别为：① 拉取 Docker 镜像并创建容器；② 在容器内安装并配置 hermes；③ 配置 glmcodingplan 接入参数；④ 启动服务并验证连接\\n场景/背景:纯深色背景（深海军蓝或深灰），模拟终端/IDE 风格\\n光线/氛围:无光照模拟，扁平风格，整体氛围清晰、专业、技术感\\n色彩搭配:Docker 蓝（#2496ED）作为主色，步骤序号用高亮青绿色强调，箭头和连接线用浅灰，背景深色衬托文字可读性\\n文字(原文保留):\\\"docker\\\" \\\"hermes\\\" \\\"glmcodingplan\\\" \\\"1\\\" \\\"2\\\" \\\"3\\\" \\\"4\\\"\\n约束:步骤序号 1234 必须清晰可见；每个步骤模块需有图标或示意小图；箭头方向明确表示流程顺序\\n避免:手绘风格、照片素材、渐变过度堆砌、文字密集无图示、步骤顺序混乱、装饰性噪点\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 18129
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: infographic-diagram\nAsset type: step-by-step technical tutorial infographic, horizontal or vertical layout\nPrimary request: illustrated guide showing how to deploy Hermes inside a Docker container and integrate GLMCodingPlan, with clearly labeled steps 1-2-3-4\nScene/backdrop: clean white or light gray background with subtle grid or tech-pattern texture\nSubject: four sequential steps depicting: 1) pulling/building a Docker image for Hermes, 2) running the Docker container with configuration flags, 3) connecting/integrating GLMCodingPlan API or service, 4) verifying the deployment and testing the connection; each step shown with a diagram panel, terminal command snippet, and small icon\nStyle/medium: flat vector illustration with code block elements, technical diagram style\nComposition/framing: top-down vertical flow or left-to-right horizontal flow, each step in a clearly bordered card/panel\nLighting/mood: clean, modern, instructional — no shadows, flat and readable\nColor palette: deep navy blue for step headers, teal/cyan accent for Docker elements, green for GLMCodingPlan elements, white card backgrounds, dark gray monospace text for code snippets\nMaterials/textures: flat vector, no gradients except subtle card shadows for depth\nText (verbatim): step labels \"1\", \"2\", \"3\", \"4\" prominently displayed; section titles such as \"Pull Docker Image\", \"Run Hermes Container\", \"接入 GLMCodingPlan\", \"Verify & Test\"\nConstraints: all four steps must be visible and clearly numbered 1 through 4; code snippets must appear in monospace font blocks; Docker whale logo style icon and GLMCodingPlan label must be present\nAvoid: blurry text, overlapping panels, decorative clutter unrelated to the technical content, photorealistic rendering",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/5827514e-1361-41a2-afc3-da2973fee385/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: step-by-step technical tutorial infographic, horizontal or vertical layout\\nPrimary request: illustrated guide showing how to deploy Hermes inside a Docker container and integrate GLMCodingPlan, with clearly labeled steps 1-2-3-4\\nScene/backdrop: clean white or light gray background with subtle grid or tech-pattern texture\\nSubject: four sequential steps depicting: 1) pulling/building a Docker image for Hermes, 2) running the Docker container with configuration flags, 3) connecting/integrating GLMCodingPlan API or service, 4) verifying the deployment and testing the connection; each step shown with a diagram panel, terminal command snippet, and small icon\\nStyle/medium: flat vector illustration with code block elements, technical diagram style\\nComposition/framing: top-down vertical flow or left-to-right horizontal flow, each step in a clearly bordered card/panel\\nLighting/mood: clean, modern, instructional — no shadows, flat and readable\\nColor palette: deep navy blue for step headers, teal/cyan accent for Docker elements, green for GLMCodingPlan elements, white card backgrounds, dark gray monospace text for code snippets\\nMaterials/textures: flat vector, no gradients except subtle card shadows for depth\\nText (verbatim): step labels \\\"1\\\", \\\"2\\\", \\\"3\\\", \\\"4\\\" prominently displayed; section titles such as \\\"Pull Docker Image\\\", \\\"Run Hermes Container\\\", \\\"接入 GLMCodingPlan\\\", \\\"Verify & Test\\\"\\nConstraints: all four steps must be visible and clearly numbered 1 through 4; code snippets must appear in monospace font blocks; Docker whale logo style icon and GLMCodingPlan label must be present\\nAvoid: blurry text, overlapping panels, decorative clutter unrelated to the technical content, photorealistic rendering\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13843
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "以小书素人媒体为主体，做一个九高格的小书封面直图，造素人\n风格。透出产品为大疆pocket4，中央标题文字：大强pocket4初体\n验。字体要可爱、差异化",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e399103e-a47e-4c13-b844-bacfbc4152c0/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing Xiaohongshu (小红书) style 9-grid book cover vertical image for a grassroots/amateur media creator account, featuring the DJI Pocket 4 as the featured product.\n\nStyle/medium: Xiaohongshu (小红书) \"素人\" amateur creator aesthetic — warm, casual, slightly over-exposed lifestyle flat-lay or handheld feel, soft grain, approachable and unpolished on purpose, reminiscent of popular 小红书 cover templates\nComposition: 9-grid (九宫格) layout structure implied in the cover design, vertical portrait orientation, central title text prominently placed in the middle zone, product DJI Pocket 4 naturally integrated into the visual\nSubject: DJI Pocket 4 camera as hero product, held or displayed casually by an amateur creator hand or resting on a lifestyle surface; overall vibe is \"real person, real review\"\nScene/backdrop: cozy lifestyle backdrop — soft neutral tones, pastel or warm white surface, minimal clutter, feels like a real person's desk or café table\nLighting/mood: soft diffused natural window light, warm and inviting, low contrast, approachable mood\nColor palette: warm neutrals (cream, warm white, soft beige) as base; one accent color (dusty rose or sage green) to differentiate; product's dark body as visual anchor\nText (verbatim): \"大强pocket4初体验\"\nConstraints: title text \"大强pocket4初体验\" must be centered, large, and rendered in a cute, playful, differentiated font style (rounded bubbly or hand-lettered feel, not generic system font); 9-grid cover proportion must be respected; text must be legible at thumbnail size\nAvoid: overly polished commercial advertising look; studio lighting; dark dramatic shadows; generic tech review aesthetic; stiff symmetry; watermark; stuffer quality words",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/80431dce-6277-48fc-89e2-fe37625df155/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing Xiaohongshu (小红书) style 9-grid book cover vertical image for a grassroots/amateur media creator account, featuring the DJI Pocket 4 as the featured product.\\n\\nStyle/medium: Xiaohongshu (小红书) \\\"素人\\\" amateur creator aesthetic — warm, casual, slightly over-exposed lifestyle flat-lay or handheld feel, soft grain, approachable and unpolished on purpose, reminiscent of popular 小红书 cover templates\\nComposition: 9-grid (九宫格) layout structure implied in the cover design, vertical portrait orientation, central title text prominently placed in the middle zone, product DJI Pocket 4 naturally integrated into the visual\\nSubject: DJI Pocket 4 camera as hero product, held or displayed casually by an amateur creator hand or resting on a lifestyle surface; overall vibe is \\\"real person, real review\\\"\\nScene/backdrop: cozy lifestyle backdrop — soft neutral tones, pastel or warm white surface, minimal clutter, feels like a real person's desk or café table\\nLighting/mood: soft diffused natural window light, warm and inviting, low contrast, approachable mood\\nColor palette: warm neutrals (cream, warm white, soft beige) as base; one accent color (dusty rose or sage green) to differentiate; product's dark body as visual anchor\\nText (verbatim): \\\"大强pocket4初体验\\\"\\nConstraints: title text \\\"大强pocket4初体验\\\" must be centered, large, and rendered in a cute, playful, differentiated font style (rounded bubbly or hand-lettered feel, not generic system font); 9-grid cover proportion must be respected; text must be legible at thumbnail size\\nAvoid: overly polished commercial advertising look; studio lighting; dark dramatic shadows; generic tech review aesthetic; stiff symmetry; watermark; stuffer quality words\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14464
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为「小书素人媒体」生成一张小红书风格封面竖图，产物类型为九宫格拼图式封面海报，素人 UGC 风格。\n\n风格/介质:小红书素人博主风格封面，手机随拍质感，非商业广告感，生活化、真实感强，轻微颗粒感，色调清新自然\n构图:竖版封面构图（9:16），九宫格布局，中央区域突出标题文字，产品大疆 Pocket 4 作为视觉焦点置于画面中心或前景，四周格子填充生活场景细节、拍摄花絮、产品特写等碎片化内容\n主体:大疆 Pocket 4 相机，小巧机身清晰可辨，搭配素人博主日常使用场景，手持或桌面摆放\n场景/背景:日常生活场景，咖啡桌 / 户外街头 / 室内随手拍氛围，背景虚化或浅色系\n光线/氛围:自然光或窗边柔光，温暖明亮，轻松随性，素人出行 vlog 氛围\n色彩搭配:以米白、浅暖灰为底色，搭配大疆 Pocket 4 机身深色作为视觉锚点，标题文字用活泼对比色（珊瑚橙或柠檬黄）跳出背景\n材质/纹理:轻微手机拍摄质感，非精修棚拍感，保留生活气息\n文字(原文保留):\"大强pocket4初体验\"\n约束:标题文字\"大强pocket4初体验\"必须居中显著展示，字体风格可爱、差异化，如圆体手写混搭或气泡字体，字号大到在手机缩略图下清晰可读；九宫格线条轻描或隐约可见，不要过于工整\n避免:商业广告大片感、精修棚拍光、过度滤镜、字体使用严肃黑体或宋体、背景过于复杂凌乱、文字与背景撞色导致不可读",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/733ab1b6-683e-4138-bc34-60fbc05ecdbc/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为「小书素人媒体」生成一张小红书风格封面竖图，产物类型为九宫格拼图式封面海报，素人 UGC 风格。\\n\\n风格/介质:小红书素人博主风格封面，手机随拍质感，非商业广告感，生活化、真实感强，轻微颗粒感，色调清新自然\\n构图:竖版封面构图（9:16），九宫格布局，中央区域突出标题文字，产品大疆 Pocket 4 作为视觉焦点置于画面中心或前景，四周格子填充生活场景细节、拍摄花絮、产品特写等碎片化内容\\n主体:大疆 Pocket 4 相机，小巧机身清晰可辨，搭配素人博主日常使用场景，手持或桌面摆放\\n场景/背景:日常生活场景，咖啡桌 / 户外街头 / 室内随手拍氛围，背景虚化或浅色系\\n光线/氛围:自然光或窗边柔光，温暖明亮，轻松随性，素人出行 vlog 氛围\\n色彩搭配:以米白、浅暖灰为底色，搭配大疆 Pocket 4 机身深色作为视觉锚点，标题文字用活泼对比色（珊瑚橙或柠檬黄）跳出背景\\n材质/纹理:轻微手机拍摄质感，非精修棚拍感，保留生活气息\\n文字(原文保留):\\\"大强pocket4初体验\\\"\\n约束:标题文字\\\"大强pocket4初体验\\\"必须居中显著展示，字体风格可爱、差异化，如圆体手写混搭或气泡字体，字号大到在手机缩略图下清晰可读；九宫格线条轻描或隐约可见，不要过于工整\\n避免:商业广告大片感、精修棚拍光、过度滤镜、字体使用严肃黑体或宋体、背景过于复杂凌乱、文字与背景撞色导致不可读\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 19341
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: social-media-cover-design\nAsset type: Xiaohongshu (小红书) style vertical cover image, 9-grid layout (九宫格), single-tile portrait crop\nPrimary request: design a Xiaohongshu amateur/素人 influencer-style book/post cover featuring DJI Pocket 4 as the hero product, with cute differentiated title typography\nScene/backdrop: bright, clean lifestyle backdrop typical of 小红书 素人 aesthetic — soft pastel tones, minimal clutter, slightly warm ambient light\nSubject: DJI Pocket 4 camera prominently displayed at center-foreground; overall composition styled as a 素人 (everyday amateur creator) Xiaohongshu post cover\nStyle/medium: flat digital illustration mixed with photo-collage aesthetic, 小红书 素人 style — soft, approachable, youthful, slightly handcrafted feel\nComposition/framing: vertical portrait (2:3), nine-grid (九宫格) single-panel layout, DJI Pocket 4 centered in lower-middle zone, title text occupying upper-center area\nLighting/mood: soft diffused natural light, warm and cheerful, approachable and casual mood\nColor palette: pastel pink, cream white, warm beige, light mint accents — typical 小红书 素人 palette\nMaterials/textures: smooth matte background with subtle paper or linen texture, soft drop shadow under product\nText (verbatim): \"大疆pocket4初体验\"\nTypography: cute, playful, differentiated font style — mix of rounded bubble letterforms and hand-lettering feel; title text large and bold at center-top; Chinese characters styled with kawaii/cute personality\nConstraints: DJI Pocket 4 must be clearly recognizable; text \"大疆pocket4初体验\" must appear verbatim and be the dominant headline; layout must feel like an authentic 小红书 素人 cover\nAvoid: overly polished commercial ad look, dark or moody lighting, serif formal fonts, cluttered background",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/32f3d2e8-05c8-42e6-b6de-a140eaca5e9e/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: social-media-cover-design\\nAsset type: Xiaohongshu (小红书) style vertical cover image, 9-grid layout (九宫格), single-tile portrait crop\\nPrimary request: design a Xiaohongshu amateur/素人 influencer-style book/post cover featuring DJI Pocket 4 as the hero product, with cute differentiated title typography\\nScene/backdrop: bright, clean lifestyle backdrop typical of 小红书 素人 aesthetic — soft pastel tones, minimal clutter, slightly warm ambient light\\nSubject: DJI Pocket 4 camera prominently displayed at center-foreground; overall composition styled as a 素人 (everyday amateur creator) Xiaohongshu post cover\\nStyle/medium: flat digital illustration mixed with photo-collage aesthetic, 小红书 素人 style — soft, approachable, youthful, slightly handcrafted feel\\nComposition/framing: vertical portrait (2:3), nine-grid (九宫格) single-panel layout, DJI Pocket 4 centered in lower-middle zone, title text occupying upper-center area\\nLighting/mood: soft diffused natural light, warm and cheerful, approachable and casual mood\\nColor palette: pastel pink, cream white, warm beige, light mint accents — typical 小红书 素人 palette\\nMaterials/textures: smooth matte background with subtle paper or linen texture, soft drop shadow under product\\nText (verbatim): \\\"大疆pocket4初体验\\\"\\nTypography: cute, playful, differentiated font style — mix of rounded bubble letterforms and hand-lettering feel; title text large and bold at center-top; Chinese characters styled with kawaii/cute personality\\nConstraints: DJI Pocket 4 must be clearly recognizable; text \\\"大疆pocket4初体验\\\" must appear verbatim and be the dominant headline; layout must feel like an authentic 小红书 素人 cover\\nAvoid: overly polished commercial ad look, dark or moody lighting, serif formal fonts, cluttered background\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 16008
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "gpt5.5发布，写一个国内融资宣发的ppt封面，演讲人为奥特曼，必\n须符合中国国内的路演特色，符合gp的调性",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/670d033f-0cbf-4cd2-b4d7-b72dbfbd3c68/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a marketing poster / PPT cover slide for a domestic China roadshow fundraising event announcing \"GPT5.5发布\", with presenter Sam Altman, styled to match Chinese GP (General Partner) investor pitch aesthetics.\n\nStyle/medium: clean editorial presentation slide design, flat vector layout with photorealistic portrait inset, inspired by top-tier Chinese PE/VC roadshow decks (think Sequoia China / Hillhouse pitch deck visual language)\nComposition: centered landscape layout, bold headline at top third, presenter portrait (Sam Altman) anchored bottom-right or lower-left, logo/badge element top-left, generous white or dark navy space for hierarchy\nSubject: PPT cover slide announcing \"GPT5.5发布\" launch, featuring Sam Altman as keynote speaker, positioned as a landmark AI financing roadshow event targeting Chinese LPs and GPs\nScene/backdrop: abstract deep navy or ink-black background with subtle circuit-node or data-flow texture, conveying technological authority and institutional gravitas\nLighting/mood: cool blue and gold accent lighting, authoritative and forward-looking, institutional confidence without flashiness\nColor palette: deep navy or charcoal as base, gold or electric blue as primary accent, white for headline text — palette signals premium Chinese financial institution taste\nMaterials/textures: matte flat background with subtle geometric line-art overlay, photorealistic portrait of Sam Altman with clean edge treatment\nText (verbatim): \"GPT5.5发布\" as hero headline; \"演讲人：奥特曼\" as speaker credit line\nConstraints: must read clearly as a projected slide at 16:9 ratio; all Chinese text must be legible at presentation scale; layout must follow Chinese roadshow convention — event title dominant, speaker name and title clearly labeled, institutional logo placeholder top-left\nAvoid: Western startup pitch aesthetic; neon cyberpunk colors; cluttered infographic elements; cartoon or illustrated portrait style; generic Canva template look",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/d9057e7e-0d17-4d07-a374-28c4809dba5e/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a marketing poster / PPT cover slide for a domestic China roadshow fundraising event announcing \\\"GPT5.5发布\\\", with presenter Sam Altman, styled to match Chinese GP (General Partner) investor pitch aesthetics.\\n\\nStyle/medium: clean editorial presentation slide design, flat vector layout with photorealistic portrait inset, inspired by top-tier Chinese PE/VC roadshow decks (think Sequoia China / Hillhouse pitch deck visual language)\\nComposition: centered landscape layout, bold headline at top third, presenter portrait (Sam Altman) anchored bottom-right or lower-left, logo/badge element top-left, generous white or dark navy space for hierarchy\\nSubject: PPT cover slide announcing \\\"GPT5.5发布\\\" launch, featuring Sam Altman as keynote speaker, positioned as a landmark AI financing roadshow event targeting Chinese LPs and GPs\\nScene/backdrop: abstract deep navy or ink-black background with subtle circuit-node or data-flow texture, conveying technological authority and institutional gravitas\\nLighting/mood: cool blue and gold accent lighting, authoritative and forward-looking, institutional confidence without flashiness\\nColor palette: deep navy or charcoal as base, gold or electric blue as primary accent, white for headline text — palette signals premium Chinese financial institution taste\\nMaterials/textures: matte flat background with subtle geometric line-art overlay, photorealistic portrait of Sam Altman with clean edge treatment\\nText (verbatim): \\\"GPT5.5发布\\\" as hero headline; \\\"演讲人：奥特曼\\\" as speaker credit line\\nConstraints: must read clearly as a projected slide at 16:9 ratio; all Chinese text must be legible at presentation scale; layout must follow Chinese roadshow convention — event title dominant, speaker name and title clearly labeled, institutional logo placeholder top-left\\nAvoid: Western startup pitch aesthetic; neon cyberpunk colors; cluttered infographic elements; cartoon or illustrated portrait style; generic Canva template look\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 16806
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为 GPT-5.5 发布融资路演活动生成一张 PPT 封面海报，符合中国国内 GP 路演调性。\n\n风格/介质:商务演示封面设计，融合科技感与中国本土融资路演美学，整体气质沉稳、权威、略带未来感，类似头部 VC/PE 机构路演 deck 封面风格\n构图:横版构图，左侧为主视觉区（演讲人信息 + 标题），右侧为科技感装饰图形，层次分明，留白克制\n主体:封面标题区域突出显示 \"GPT-5.5 发布\" 与 \"融资路演\" 字样；演讲人署名 \"Sam Altman（奥特曼）\" 置于封面下方；配有机构 logo 占位区与日期占位区\n场景/背景:深海军蓝或深碳黑渐变背景，叠加低透明度科技网格线或光粒子流动纹理，营造 AI 前沿感\n光线/氛围:冷白色高光从右上角斜切入画面，整体氛围严肃、专业、具有说服力，符合国内 GP 对\"靠谱、有格局\"的视觉期待\n色彩搭配:深蓝/碳黑底色为主，金色或亮白色作为标题强调色，点缀少量品牌蓝（#0066FF 色系），三色以内\n文字(原文保留):\"GPT-5.5 发布\" / \"融资路演\" / \"Sam Altman（奥特曼）\"\n约束:横版 16:9 比例；文字层级清晰，主标题最大，演讲人名次之，副信息最小；整体不超过 4 个视觉元素区块\n避免:过度卡通化、消费级 PPT 模板感、彩虹渐变、英文为主的硅谷风格、杂乱图标堆砌、水印",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/21f38ca1-35df-4ca7-8ec4-a1fc296f5757/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为 GPT-5.5 发布融资路演活动生成一张 PPT 封面海报，符合中国国内 GP 路演调性。\\n\\n风格/介质:商务演示封面设计，融合科技感与中国本土融资路演美学，整体气质沉稳、权威、略带未来感，类似头部 VC/PE 机构路演 deck 封面风格\\n构图:横版构图，左侧为主视觉区（演讲人信息 + 标题），右侧为科技感装饰图形，层次分明，留白克制\\n主体:封面标题区域突出显示 \\\"GPT-5.5 发布\\\" 与 \\\"融资路演\\\" 字样；演讲人署名 \\\"Sam Altman（奥特曼）\\\" 置于封面下方；配有机构 logo 占位区与日期占位区\\n场景/背景:深海军蓝或深碳黑渐变背景，叠加低透明度科技网格线或光粒子流动纹理，营造 AI 前沿感\\n光线/氛围:冷白色高光从右上角斜切入画面，整体氛围严肃、专业、具有说服力，符合国内 GP 对\\\"靠谱、有格局\\\"的视觉期待\\n色彩搭配:深蓝/碳黑底色为主，金色或亮白色作为标题强调色，点缀少量品牌蓝（#0066FF 色系），三色以内\\n文字(原文保留):\\\"GPT-5.5 发布\\\" / \\\"融资路演\\\" / \\\"Sam Altman（奥特曼）\\\"\\n约束:横版 16:9 比例；文字层级清晰，主标题最大，演讲人名次之，副信息最小；整体不超过 4 个视觉元素区块\\n避免:过度卡通化、消费级 PPT 模板感、彩虹渐变、英文为主的硅谷风格、杂乱图标堆砌、水印\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 16792
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: infographic-diagram\nAsset type: PPT cover slide, presentation deck cover for Chinese domestic roadshow / fundraising pitch\nPrimary request: A polished Chinese-style VC roadshow PPT cover slide announcing the launch of GPT-5.5, with speaker credit for Sam Altman\nScene/backdrop: Clean dark navy or deep ink-blue gradient background with subtle Chinese-style geometric or circuit-pattern texture, suggesting technology and prestige\nSubject: Bold headline announcement of \"GPT-5.5 发布\" as the central visual focus; speaker name \"奥特曼\" displayed prominently as presenter; OpenAI logo or GPT-5.5 wordmark as secondary element\nStyle/medium: Flat corporate slide design, Chinese domestic GP/VC pitch deck aesthetic — authoritative, data-forward, slightly patriotic-tech color palette, clean sans-serif typography\nComposition/framing: Landscape slide layout (16:9), title centered or left-aligned in upper half, speaker info in lower-left, decorative accent lines or light rays emanating from center\nLighting/mood: Sleek, confident, forward-looking; subtle glow or gradient highlight on the headline text; serious and institutional tone matching Chinese LP/GP expectations\nColor palette: Deep navy blue + electric blue accent + gold or champagne highlight + white text — classic Chinese roadshow prestige palette\nMaterials/textures: Smooth gradient background, thin geometric grid lines, subtle glowing circuit or data-flow motifs\nText (verbatim): \"GPT-5.5 发布\" \"奥特曼\" \"演讲人：奥特曼\"\nConstraints: Must feel like a genuine Chinese domestic VC/GP roadshow deck cover; layout must be 16:9 landscape; text must be legible and prominent\nAvoid: Cartoonish illustration style, overly Western minimalism, cluttered background, watermark",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/86b6bf8c-e383-4119-9863-a8afba2bbdb9/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: PPT cover slide, presentation deck cover for Chinese domestic roadshow / fundraising pitch\\nPrimary request: A polished Chinese-style VC roadshow PPT cover slide announcing the launch of GPT-5.5, with speaker credit for Sam Altman\\nScene/backdrop: Clean dark navy or deep ink-blue gradient background with subtle Chinese-style geometric or circuit-pattern texture, suggesting technology and prestige\\nSubject: Bold headline announcement of \\\"GPT-5.5 发布\\\" as the central visual focus; speaker name \\\"奥特曼\\\" displayed prominently as presenter; OpenAI logo or GPT-5.5 wordmark as secondary element\\nStyle/medium: Flat corporate slide design, Chinese domestic GP/VC pitch deck aesthetic — authoritative, data-forward, slightly patriotic-tech color palette, clean sans-serif typography\\nComposition/framing: Landscape slide layout (16:9), title centered or left-aligned in upper half, speaker info in lower-left, decorative accent lines or light rays emanating from center\\nLighting/mood: Sleek, confident, forward-looking; subtle glow or gradient highlight on the headline text; serious and institutional tone matching Chinese LP/GP expectations\\nColor palette: Deep navy blue + electric blue accent + gold or champagne highlight + white text — classic Chinese roadshow prestige palette\\nMaterials/textures: Smooth gradient background, thin geometric grid lines, subtle glowing circuit or data-flow motifs\\nText (verbatim): \\\"GPT-5.5 发布\\\" \\\"奥特曼\\\" \\\"演讲人：奥特曼\\\"\\nConstraints: Must feel like a genuine Chinese domestic VC/GP roadshow deck cover; layout must be 16:9 landscape; text must be legible and prominent\\nAvoid: Cartoonish illustration style, overly Western minimalism, cluttered background, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14368
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "📋 品牌资产清单\n1. 标志系统（3个）\n \n主标志：Evergreen   完整 logo（图标+文字）\n叶子图标：独立的品牌图标元素\n文字标识：纯文字版本的品牌名称\n2. 字体系统\n \n标题字体：Poppins（用于标题和重点文字）\n正文字体：Montserrat（用于正文和说明文字）\n3. 品牌理念\n \n品牌使命：Evergreen   是一个生活方式补水品牌，通过设计精美的产品，旨在日常生活中提升平衡、健康和可持续性\n核心价值：平衡、目的、健康、冒险、可持续性\n4. 色彩系统\n \n🔵 天空蓝 #A3CEF1（主色）\n💗 粉紫色 #F1B2DC（辅助色）\n⚪ 银色金属   #C0C0C0（点缀色）\n5. 视觉参考（4张）\n \n户外生活方式摄影\n工作室产品摄影\n水纹理素材\n叶子纹理素材\n \n画一个该品牌水杯产品的亚马逊产品套图",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ae17cc4c-fc83-4cf5-ad15-6b91ab24034f/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a set of Amazon product listing photos for a hydration tumbler/water bottle by the lifestyle brand \"Evergreen\".\n\nStyle/medium: clean studio product photography with lifestyle inserts, photorealistic, inspired by premium DTC hydration brand visual identity (think Hydro Flask / Stanley editorial tone)\nComposition: multi-shot layout — hero shot centered on white/light backdrop, one lifestyle context shot (outdoor/nature), one detail/texture close-up, one flat-lay or overhead arrangement; each frame with generous negative space and balanced padding\nSubject: sleek hydration tumbler/water bottle branded \"Evergreen\", smooth matte or metallic-silver finish, minimal label design featuring a leaf icon motif, proportions consistent across all frames\nScene/backdrop: primary shots on clean white or very pale sky-blue studio sweep; lifestyle insert shows soft natural outdoor light with foliage or water texture in background\nLighting/mood: soft diffused studio lighting for product shots — no harsh shadows; lifestyle frame uses warm natural daylight, airy and calm mood evoking balance and wellness\nColor palette: sky blue #A3CEF1 as dominant accent (background wash or prop color), pink-violet #F1B2DC as secondary highlight, silver metallic #C0C0C0 on product surface; white as neutral base\nMaterials/textures: smooth matte polymer or brushed metallic body, subtle leaf-vein texture on label area, water droplet condensation on one frame for freshness cue\nText (verbatim): \"Evergreen\"\nConstraints: all four frames must feel visually cohesive as an Amazon listing set; brand colors #A3CEF1 / #F1B2DC / #C0C0C0 must appear consistently; leaf icon must be visible on product; no busy backgrounds that compete with product\nAvoid: dark moody backgrounds, over-saturated colors, cluttered props, generic stock-photo aesthetic, watermarks, distorted bottle proportions",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/63495328-2242-4ecc-8790-21533ca76314/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a set of Amazon product listing photos for a hydration tumbler/water bottle by the lifestyle brand \\\"Evergreen\\\".\\n\\nStyle/medium: clean studio product photography with lifestyle inserts, photorealistic, inspired by premium DTC hydration brand visual identity (think Hydro Flask / Stanley editorial tone)\\nComposition: multi-shot layout — hero shot centered on white/light backdrop, one lifestyle context shot (outdoor/nature), one detail/texture close-up, one flat-lay or overhead arrangement; each frame with generous negative space and balanced padding\\nSubject: sleek hydration tumbler/water bottle branded \\\"Evergreen\\\", smooth matte or metallic-silver finish, minimal label design featuring a leaf icon motif, proportions consistent across all frames\\nScene/backdrop: primary shots on clean white or very pale sky-blue studio sweep; lifestyle insert shows soft natural outdoor light with foliage or water texture in background\\nLighting/mood: soft diffused studio lighting for product shots — no harsh shadows; lifestyle frame uses warm natural daylight, airy and calm mood evoking balance and wellness\\nColor palette: sky blue #A3CEF1 as dominant accent (background wash or prop color), pink-violet #F1B2DC as secondary highlight, silver metallic #C0C0C0 on product surface; white as neutral base\\nMaterials/textures: smooth matte polymer or brushed metallic body, subtle leaf-vein texture on label area, water droplet condensation on one frame for freshness cue\\nText (verbatim): \\\"Evergreen\\\"\\nConstraints: all four frames must feel visually cohesive as an Amazon listing set; brand colors #A3CEF1 / #F1B2DC / #C0C0C0 must appear consistently; leaf icon must be visible on product; no busy backgrounds that compete with product\\nAvoid: dark moody backgrounds, over-saturated colors, cluttered props, generic stock-photo aesthetic, watermarks, distorted bottle proportions\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 16907
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为 Evergreen 生活方式补水品牌生成一张亚马逊产品套图，展示品牌水杯产品的工作室级别产品摄影。\n\n风格/介质:工作室产品摄影，干净的商业棚拍质感，兼顾户外生活方式氛围，参考高端 DTC 水杯品牌（如 Hydro Flask / Yeti）的亚马逊主图风格\n构图:多角度产品展示构图，主图居中正面，辅图含 45° 侧面与俯拍细节，留出充分留白，镜头等效 85mm 产品摄影焦段\n主体:设计精美的不锈钢保温水杯，瓶身印有品牌图标（极简叶子图形）与文字标识 \"Evergreen\"，表面哑光金属质感，银色金属瓶盖与细节点缀\n场景/背景:纯净浅色背景（接近白色或极浅天空蓝），局部点缀真实叶子纹理道具与水纹理元素，暗示自然与可持续性\n光线/氛围:柔和漫射光，顶侧光方向，色温偏冷白，整体氛围清爽、平衡、健康\n色彩搭配:天空蓝 #A3CEF1 作为主色调贯穿背景与水杯配色，粉紫色 #F1B2DC 作为辅助色出现在道具或局部点缀，银色金属 #C0C0C0 体现在瓶盖与金属细节上，三色形成层次而不互相竞争\n材质/纹理:哑光不锈钢瓶身，可见细腻金属拉丝纹理，银色瓶盖带轻微光泽，背景干净无噪点\n文字(原文保留):\"Evergreen\"\n约束:产品比例准确，瓶身文字清晰可读，整体符合亚马逊产品主图规范（主图背景接近纯白，产品占画面 85% 以上）\n避免:过度 HDR 光效、廉价塑料感、背景杂乱、多余道具喧宾夺主、渐变晕染背景、水印",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/157f3d5e-a67e-495a-8f01-87882b36e322/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为 Evergreen 生活方式补水品牌生成一张亚马逊产品套图，展示品牌水杯产品的工作室级别产品摄影。\\n\\n风格/介质:工作室产品摄影，干净的商业棚拍质感，兼顾户外生活方式氛围，参考高端 DTC 水杯品牌（如 Hydro Flask / Yeti）的亚马逊主图风格\\n构图:多角度产品展示构图，主图居中正面，辅图含 45° 侧面与俯拍细节，留出充分留白，镜头等效 85mm 产品摄影焦段\\n主体:设计精美的不锈钢保温水杯，瓶身印有品牌图标（极简叶子图形）与文字标识 \\\"Evergreen\\\"，表面哑光金属质感，银色金属瓶盖与细节点缀\\n场景/背景:纯净浅色背景（接近白色或极浅天空蓝），局部点缀真实叶子纹理道具与水纹理元素，暗示自然与可持续性\\n光线/氛围:柔和漫射光，顶侧光方向，色温偏冷白，整体氛围清爽、平衡、健康\\n色彩搭配:天空蓝 #A3CEF1 作为主色调贯穿背景与水杯配色，粉紫色 #F1B2DC 作为辅助色出现在道具或局部点缀，银色金属 #C0C0C0 体现在瓶盖与金属细节上，三色形成层次而不互相竞争\\n材质/纹理:哑光不锈钢瓶身，可见细腻金属拉丝纹理，银色瓶盖带轻微光泽，背景干净无噪点\\n文字(原文保留):\\\"Evergreen\\\"\\n约束:产品比例准确，瓶身文字清晰可读，整体符合亚马逊产品主图规范（主图背景接近纯白，产品占画面 85% 以上）\\n避免:过度 HDR 光效、廉价塑料感、背景杂乱、多余道具喧宾夺主、渐变晕染背景、水印\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 18130
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: Amazon product listing image set (hero shot + lifestyle + detail), square crop\nPrimary request: Amazon product image suite for Evergreen branded hydration water bottle/cup — hero studio shot, lifestyle outdoor shot, and close-up detail shot\nScene/backdrop: clean white studio backdrop for hero; soft outdoor natural environment (greenery, daylight) for lifestyle shot; macro texture detail for close-up\nSubject: premium hydration water bottle / tumbler cup with Evergreen branding — leaf icon embossed or printed on body, clean modern silhouette, metallic silver accents, smooth matte or semi-gloss surface\nStyle/medium: photorealistic product photography, studio-grade lighting, commercial e-commerce aesthetic\nComposition/framing: hero shot centered on white background, 3/4 angle view; lifestyle shot with natural context, shallow depth of field; detail close-up of leaf icon and brand text on bottle surface\nLighting/mood: soft diffused studio light for hero (no harsh shadows); warm natural daylight for lifestyle; macro ring light for detail — mood: clean, fresh, balanced, premium\nColor palette: sky blue #A3CEF1 (dominant brand color on product), pink-violet #F1B2DC (accent elements / background wash), silver metallic #C0C0C0 (cap, ring, hardware details), white negative space\nMaterials/textures: smooth matte hydration bottle body, brushed silver metallic lid and band, subtle leaf texture emboss, water droplet condensation on surface\nText (verbatim): \"Evergreen\"\nConstraints: leaf icon must appear as standalone brand mark on bottle; brand name \"Evergreen\" visible on product; color palette must reflect #A3CEF1 / #F1B2DC / #C0C0C0; images must look like real Amazon listing photos\nAvoid: cartoon or illustrated style, cluttered background on hero shot, oversaturated colors, watermark, deformed bottle shape",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/826049bc-d7ac-4e7c-9af6-d5436105e95f/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: Amazon product listing image set (hero shot + lifestyle + detail), square crop\\nPrimary request: Amazon product image suite for Evergreen branded hydration water bottle/cup — hero studio shot, lifestyle outdoor shot, and close-up detail shot\\nScene/backdrop: clean white studio backdrop for hero; soft outdoor natural environment (greenery, daylight) for lifestyle shot; macro texture detail for close-up\\nSubject: premium hydration water bottle / tumbler cup with Evergreen branding — leaf icon embossed or printed on body, clean modern silhouette, metallic silver accents, smooth matte or semi-gloss surface\\nStyle/medium: photorealistic product photography, studio-grade lighting, commercial e-commerce aesthetic\\nComposition/framing: hero shot centered on white background, 3/4 angle view; lifestyle shot with natural context, shallow depth of field; detail close-up of leaf icon and brand text on bottle surface\\nLighting/mood: soft diffused studio light for hero (no harsh shadows); warm natural daylight for lifestyle; macro ring light for detail — mood: clean, fresh, balanced, premium\\nColor palette: sky blue #A3CEF1 (dominant brand color on product), pink-violet #F1B2DC (accent elements / background wash), silver metallic #C0C0C0 (cap, ring, hardware details), white negative space\\nMaterials/textures: smooth matte hydration bottle body, brushed silver metallic lid and band, subtle leaf texture emboss, water droplet condensation on surface\\nText (verbatim): \\\"Evergreen\\\"\\nConstraints: leaf icon must appear as standalone brand mark on bottle; brand name \\\"Evergreen\\\" visible on product; color palette must reflect #A3CEF1 / #F1B2DC / #C0C0C0; images must look like real Amazon listing photos\\nAvoid: cartoon or illustrated style, cluttered background on hero shot, oversaturated colors, watermark, deformed bottle shape\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 19136
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "参考图放到一个家庭电视背景墙下的柜子上，要求聚焦产品，不突儿",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/cc7ff959-0fba-4fba-9336-bb7ba2d1b02c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a product shot of a decorative item placed on a cabinet beneath a home TV feature wall, with focus on the product.\n\nStyle/medium: photorealistic lifestyle product photography, clean and understated home décor editorial style\nComposition: close-up shot centered on the product, shallow depth of field to isolate subject, eye-level angle, moderate telephoto lens to compress background naturally\nSubject: the product sitting on a low cabinet surface, naturally integrated into the scene, visually prominent without being jarring\nScene/backdrop: home living room TV feature wall as soft background, cabinet surface in foreground, warm and tidy domestic interior\nLighting/mood: soft diffused ambient light, gentle and even, warm neutral color temperature, calm and inviting mood\nColor palette: neutral warm tones dominating — off-white, warm grey, light wood — product as the visual anchor\nMaterials/textures: smooth cabinet surface, subtle wall texture softly out of focus in background\nConstraints: product must be the clear focal point; background elements (TV wall, cabinet) serve as context only, not competing visually; no cluttered props\nAvoid: harsh shadows, over-styled staging, busy background details in sharp focus, floating or unnatural product placement, wide-angle distortion",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_urls": [
+        "/api/image-file/57f0ae9e-9b80-4e31-8200-fba7bdf21a37/0.jpg"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a product shot of a decorative item placed on a cabinet beneath a home TV feature wall, with focus on the product.\\n\\nStyle/medium: photorealistic lifestyle product photography, clean and understated home décor editorial style\\nComposition: close-up shot centered on the product, shallow depth of field to isolate subject, eye-level angle, moderate telephoto lens to compress background naturally\\nSubject: the product sitting on a low cabinet surface, naturally integrated into the scene, visually prominent without being jarring\\nScene/backdrop: home living room TV feature wall as soft background, cabinet surface in foreground, warm and tidy domestic interior\\nLighting/mood: soft diffused ambient light, gentle and even, warm neutral color temperature, calm and inviting mood\\nColor palette: neutral warm tones dominating — off-white, warm grey, light wood — product as the visual anchor\\nMaterials/textures: smooth cabinet surface, subtle wall texture softly out of focus in background\\nConstraints: product must be the clear focal point; background elements (TV wall, cabinet) serve as context only, not competing visually; no cluttered props\\nAvoid: harsh shadows, over-styled staging, busy background details in sharp focus, floating or unnatural product placement, wide-angle distortion\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+      "ms": 11397
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为参考图中的产品生成一张产品摄影，场景为家庭客厅电视背景墙下的柜子上，风格自然融入、不突兀。\n\n风格/介质:产品摄影，photorealistic，生活场景植入风格，光线自然，整体氛围温馨居家\n构图:正面或略带角度的平视构图，聚焦产品，产品占画面主体，背景适度虚化\n主体:参考图中的产品，外观细节清晰，摆放在柜面上，姿态自然稳定\n场景/背景:家庭客厅，电视背景墙下方的矮柜或电视柜柜面，背景可见电视背景墙与柜体，整体干净整洁，不凌乱\n光线/氛围:室内自然漫射光为主，可辅以暖色调灯带或落地灯补光，氛围温馨、生活化，无强烈阴影\n色彩搭配:产品本色为视觉中心，背景以中性色调（米白、浅灰、木色）衬托，不抢主体\n材质/纹理:柜面木质或哑光质感，背景墙面肌理隐约可见，产品表面细节真实还原\n约束:产品必须是画面绝对主体；场景元素（电视、装饰品等）仅作背景，不喧宾夺主；整体融合自然，不显刻意摆拍\n避免:背景过于杂乱、产品被遮挡、过曝或欠曝、人工感强的棚拍白底、场景道具抢镜、产品变形失真",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f2e1d4ce-aa2e-4e77-ac9e-86f6ea6e4e87/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为参考图中的产品生成一张产品摄影，场景为家庭客厅电视背景墙下的柜子上，风格自然融入、不突兀。\\n\\n风格/介质:产品摄影，photorealistic，生活场景植入风格，光线自然，整体氛围温馨居家\\n构图:正面或略带角度的平视构图，聚焦产品，产品占画面主体，背景适度虚化\\n主体:参考图中的产品，外观细节清晰，摆放在柜面上，姿态自然稳定\\n场景/背景:家庭客厅，电视背景墙下方的矮柜或电视柜柜面，背景可见电视背景墙与柜体，整体干净整洁，不凌乱\\n光线/氛围:室内自然漫射光为主，可辅以暖色调灯带或落地灯补光，氛围温馨、生活化，无强烈阴影\\n色彩搭配:产品本色为视觉中心，背景以中性色调（米白、浅灰、木色）衬托，不抢主体\\n材质/纹理:柜面木质或哑光质感，背景墙面肌理隐约可见，产品表面细节真实还原\\n约束:产品必须是画面绝对主体；场景元素（电视、装饰品等）仅作背景，不喧宾夺主；整体融合自然，不显刻意摆拍\\n避免:背景过于杂乱、产品被遮挡、过曝或欠曝、人工感强的棚拍白底、场景道具抢镜、产品变形失真\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 17199
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: lifestyle product shot, placed on a TV console cabinet in a living room\nPrimary request: place the reference product on a cabinet beneath a home TV feature wall, with focus on the product, blending naturally into the scene without standing out awkwardly\nScene/backdrop: modern home living room, TV accent wall background, low TV console cabinet surface, softly blurred background\nSubject: the reference product sitting on the TV cabinet surface, centered and prominent\nStyle/medium: photorealistic lifestyle photography\nComposition/framing: eye-level medium close-up, shallow depth of field, product as focal point\nLighting/mood: warm ambient indoor lighting, soft and natural, calm domestic atmosphere\nColor palette: neutral warm tones — off-white, wood grain, muted greys consistent with a modern living room\nMaterials/textures: smooth cabinet surface, subtle wood grain texture, soft background bokeh\nConstraints: product must remain the clear focal point; background elements (TV wall, cabinet) serve only as context and must not compete visually; product placement must look natural and unforced\nAvoid: overly staged or artificial placement, harsh shadows, cluttered background, product looking \"pasted on\"",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/28481379-c239-4753-9c01-d038bb077822/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: lifestyle product shot, placed on a TV console cabinet in a living room\\nPrimary request: place the reference product on a cabinet beneath a home TV feature wall, with focus on the product, blending naturally into the scene without standing out awkwardly\\nScene/backdrop: modern home living room, TV accent wall background, low TV console cabinet surface, softly blurred background\\nSubject: the reference product sitting on the TV cabinet surface, centered and prominent\\nStyle/medium: photorealistic lifestyle photography\\nComposition/framing: eye-level medium close-up, shallow depth of field, product as focal point\\nLighting/mood: warm ambient indoor lighting, soft and natural, calm domestic atmosphere\\nColor palette: neutral warm tones — off-white, wood grain, muted greys consistent with a modern living room\\nMaterials/textures: smooth cabinet surface, subtle wood grain texture, soft background bokeh\\nConstraints: product must remain the clear focal point; background elements (TV wall, cabinet) serve only as context and must not compete visually; product placement must look natural and unforced\\nAvoid: overly staged or artificial placement, harsh shadows, cluttered background, product looking \\\"pasted on\\\"\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 25430
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "唐代长安城元宵灯会全景，万盏花灯照亮夜空，\n工笔重彩长卷",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/073f6bbe-0c99-46b6-8fb2-ef463aa66be1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original illustration of the Lantern Festival night panorama in Tang Dynasty Chang'an city, ten thousand flower lanterns illuminating the night sky, rendered as a gongbi heavy-color handscroll painting.\n\nStyle/medium: gongbi (工笔) heavy-color (重彩) Chinese handscroll (长卷) painting, meticulous brushwork in the tradition of Tang court painters, rich mineral pigments on silk\nComposition: sweeping horizontal panoramic composition befitting a handscroll format, wide establishing view of the full cityscape, multiple focal clusters of lantern-lit crowds and pavilions receding into depth\nSubject: tens of thousands of flower lanterns (花灯) of varied shapes — lotus, fish, dragon, palace-lantern forms — suspended on poles, strung across streets, and carried by revelers; dense festive crowds in Tang-dynasty robes filling the grand avenues of Chang'an\nScene/backdrop: Tang Dynasty Chang'an city at night during the Lantern Festival (元宵灯会); grand vermilion gate towers, tiled rooftops, and wide imperial boulevards stretching to the horizon\nLighting/mood: warm amber and golden glow radiating from ten thousand lanterns, illuminating the night sky from below; deep indigo night sky as contrast; festive, luminous, and magnificent atmosphere\nColor palette: deep indigo and ink-black night sky as ground; warm gold, amber, and vermilion lantern light as dominant; accents of malachite green, azurite blue, and cinnabar red in costumes and architecture\nMaterials/textures: fine silk ground with visible weave texture, layered mineral pigment with subtle sheen, precise ink outlines with no bleeding\nConstraints: handscroll horizontal format; gongbi line quality must be crisp and deliberate; no Western perspective foreshortening — use traditional Chinese elevated-oblique spatial recession\nAvoid: impressionistic brushwork, ink-wash (水墨) wash style, Western oil-painting chiaroscuro, modern cartoon simplification, blurry edges, anachronistic elements",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/afce2883-3947-4387-831b-c2f1e012f8ec/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original illustration of the Lantern Festival night panorama in Tang Dynasty Chang'an city, ten thousand flower lanterns illuminating the night sky, rendered as a gongbi heavy-color handscroll painting.\\n\\nStyle/medium: gongbi (工笔) heavy-color (重彩) Chinese handscroll (长卷) painting, meticulous brushwork in the tradition of Tang court painters, rich mineral pigments on silk\\nComposition: sweeping horizontal panoramic composition befitting a handscroll format, wide establishing view of the full cityscape, multiple focal clusters of lantern-lit crowds and pavilions receding into depth\\nSubject: tens of thousands of flower lanterns (花灯) of varied shapes — lotus, fish, dragon, palace-lantern forms — suspended on poles, strung across streets, and carried by revelers; dense festive crowds in Tang-dynasty robes filling the grand avenues of Chang'an\\nScene/backdrop: Tang Dynasty Chang'an city at night during the Lantern Festival (元宵灯会); grand vermilion gate towers, tiled rooftops, and wide imperial boulevards stretching to the horizon\\nLighting/mood: warm amber and golden glow radiating from ten thousand lanterns, illuminating the night sky from below; deep indigo night sky as contrast; festive, luminous, and magnificent atmosphere\\nColor palette: deep indigo and ink-black night sky as ground; warm gold, amber, and vermilion lantern light as dominant; accents of malachite green, azurite blue, and cinnabar red in costumes and architecture\\nMaterials/textures: fine silk ground with visible weave texture, layered mineral pigment with subtle sheen, precise ink outlines with no bleeding\\nConstraints: handscroll horizontal format; gongbi line quality must be crisp and deliberate; no Western perspective foreshortening — use traditional Chinese elevated-oblique spatial recession\\nAvoid: impressionistic brushwork, ink-wash (水墨) wash style, Western oil-painting chiaroscuro, modern cartoon simplification, blurry edges, anachronistic elements\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 18161
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为唐代长安城元宵灯会生成一张工笔重彩长卷，呈现万盏花灯照亮夜空的全景盛况。\n\n风格/介质:工笔重彩长卷，参照《韩熙载夜宴图》与《清明上河图》的叙事铺陈方式，线条遒劲细腻，设色浓丽而不俗，绢本质感\n构图:全景横构图，视角略高俯瞰，从左至右展开长安城主街与坊市，人群、楼阁、灯树层层递进，纵深感强\n主体:万盏花灯——莲花灯、走马灯、宫灯、鳌山灯错落悬挂，灯光将夜空染成暖金色；街道上盛装仕女、文人、商贩、儿童熙攘往来，衣袂飘动\n场景/背景:唐代长安城主街正月十五夜，朱红城楼与坊墙在灯火中隐现，远处宫阙轮廓沉入深蓝夜色\n光线/氛围:万盏花灯为唯一光源，暖金橙光从灯笼向四周晕散，与深蓝夜空形成强烈冷暖对比，气氛热烈而华美\n色彩搭配:暖金橙灯光为主色，朱红建筑为结构色，深蓝夜空为底色，仕女衣裙点缀石青、胭脂、石绿等矿物色\n材质/纹理:绢本肌理隐约可见，矿物颜料堆叠的厚重感，金线勾勒灯笼轮廓，衣物丝绸光泽细腻\n约束:保持工笔重彩的线描骨法，人物造型符合唐代审美（丰腴、宽袖），建筑结构符合唐代木构特征\n避免:水墨写意风格、现代卡通变形、透视失真、西式光影渲染、过度饱和的数字插画感",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/5d416dad-30f8-48f5-8c91-ca6716d18e0b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为唐代长安城元宵灯会生成一张工笔重彩长卷，呈现万盏花灯照亮夜空的全景盛况。\\n\\n风格/介质:工笔重彩长卷，参照《韩熙载夜宴图》与《清明上河图》的叙事铺陈方式，线条遒劲细腻，设色浓丽而不俗，绢本质感\\n构图:全景横构图，视角略高俯瞰，从左至右展开长安城主街与坊市，人群、楼阁、灯树层层递进，纵深感强\\n主体:万盏花灯——莲花灯、走马灯、宫灯、鳌山灯错落悬挂，灯光将夜空染成暖金色；街道上盛装仕女、文人、商贩、儿童熙攘往来，衣袂飘动\\n场景/背景:唐代长安城主街正月十五夜，朱红城楼与坊墙在灯火中隐现，远处宫阙轮廓沉入深蓝夜色\\n光线/氛围:万盏花灯为唯一光源，暖金橙光从灯笼向四周晕散，与深蓝夜空形成强烈冷暖对比，气氛热烈而华美\\n色彩搭配:暖金橙灯光为主色，朱红建筑为结构色，深蓝夜空为底色，仕女衣裙点缀石青、胭脂、石绿等矿物色\\n材质/纹理:绢本肌理隐约可见，矿物颜料堆叠的厚重感，金线勾勒灯笼轮廓，衣物丝绸光泽细腻\\n约束:保持工笔重彩的线描骨法，人物造型符合唐代审美（丰腴、宽袖），建筑结构符合唐代木构特征\\n避免:水墨写意风格、现代卡通变形、透视失真、西式光影渲染、过度饱和的数字插画感\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 22825
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: illustration-historical\nAsset type: long horizontal scroll painting (工笔重彩长卷), panoramic scene\nPrimary request: panoramic view of the Lantern Festival night in Tang Dynasty Chang'an city, ten thousand flower lanterns illuminating the night sky\nScene/backdrop: Tang Dynasty Chang'an city streets at night, grand city gates, traditional timber-frame architecture, bustling crowds celebrating the Lantern Festival\nSubject: thousands of ornate flower lanterns (花灯) in varied shapes — lotus, fish, dragon, phoenix — hanging from eaves, poles, and carried by revelers; dense festive crowd in Tang-dynasty attire filling the wide avenues\nStyle/medium: 工笔重彩 (gongbi meticulous brushwork with rich mineral pigments), traditional Chinese painting, horizontal hand-scroll format\nComposition/framing: wide panoramic horizontal composition, bird's-eye to eye-level sweep across the full cityscape, long-scroll layout\nLighting/mood: warm golden and amber glow from ten thousand lanterns, deep indigo night sky, festive and magnificent atmosphere\nColor palette: deep indigo and black night sky, warm gold and vermillion lantern light, malachite green and azurite blue architectural details, rich mineral pigment tones\nMaterials/textures: silk scroll texture, fine ink linework with layered mineral pigment washes, delicate brushstroke detail on costumes and lanterns\nConstraints: maintain 工笔重彩 meticulous line-and-fill style throughout; no Western perspective distortion; keep Tang architectural silhouettes accurate\nAvoid: modern elements, impressionistic blur, flat cartoon style, watermark",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/dc039a23-8db8-4d27-a9aa-0ba664565b7f/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: illustration-historical\\nAsset type: long horizontal scroll painting (工笔重彩长卷), panoramic scene\\nPrimary request: panoramic view of the Lantern Festival night in Tang Dynasty Chang'an city, ten thousand flower lanterns illuminating the night sky\\nScene/backdrop: Tang Dynasty Chang'an city streets at night, grand city gates, traditional timber-frame architecture, bustling crowds celebrating the Lantern Festival\\nSubject: thousands of ornate flower lanterns (花灯) in varied shapes — lotus, fish, dragon, phoenix — hanging from eaves, poles, and carried by revelers; dense festive crowd in Tang-dynasty attire filling the wide avenues\\nStyle/medium: 工笔重彩 (gongbi meticulous brushwork with rich mineral pigments), traditional Chinese painting, horizontal hand-scroll format\\nComposition/framing: wide panoramic horizontal composition, bird's-eye to eye-level sweep across the full cityscape, long-scroll layout\\nLighting/mood: warm golden and amber glow from ten thousand lanterns, deep indigo night sky, festive and magnificent atmosphere\\nColor palette: deep indigo and black night sky, warm gold and vermillion lantern light, malachite green and azurite blue architectural details, rich mineral pigment tones\\nMaterials/textures: silk scroll texture, fine ink linework with layered mineral pigment washes, delicate brushstroke detail on costumes and lanterns\\nConstraints: maintain 工笔重彩 meticulous line-and-fill style throughout; no Western perspective distortion; keep Tang architectural silhouettes accurate\\nAvoid: modern elements, impressionistic blur, flat cartoon style, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14259
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "设计一张字节期动的员】】牌，要求真实感。正反两面都要。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f99849ce-4734-4f57-b185-582b36755bf1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a photorealistic product shot of a ByteDance employee ID badge, showing both front and back sides.\n\nStyle/medium: photorealistic studio product photography, clean white or light grey background, sharp focus throughout\nComposition: two badges laid flat or slightly angled side by side — front face on the left, back face on the right — top-down or slight 15° overhead angle, 50mm macro lens\nSubject: corporate employee ID badge for ByteDance; front side features the ByteDance logo, a placeholder employee photo portrait, employee name, department, and employee ID number printed in clean sans-serif type; back side features a magnetic stripe or barcode/QR code, company address or policy text, and a clip or lanyard hole at the top\nScene/backdrop: neutral light grey seamless surface, minimal shadow beneath each badge\nLighting/mood: soft diffused overhead studio light, subtle shadow on one side to convey depth and physicality, clean and corporate\nColor palette: white badge base with ByteDance brand colors (black and orange accent) as primary; muted grey background to keep focus on the badge\nMaterials/textures: glossy PVC card surface with slight specular highlight, visible edge thickness, lanyard slot detail\nAvoid: cartoon style, illustrated look, floating badges without surface, distorted text, blurry details, generic placeholder badge design unrelated to ByteDance",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ce1327df-703a-489c-abd4-255e8a3d9678/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a photorealistic product shot of a ByteDance employee ID badge, showing both front and back sides.\\n\\nStyle/medium: photorealistic studio product photography, clean white or light grey background, sharp focus throughout\\nComposition: two badges laid flat or slightly angled side by side — front face on the left, back face on the right — top-down or slight 15° overhead angle, 50mm macro lens\\nSubject: corporate employee ID badge for ByteDance; front side features the ByteDance logo, a placeholder employee photo portrait, employee name, department, and employee ID number printed in clean sans-serif type; back side features a magnetic stripe or barcode/QR code, company address or policy text, and a clip or lanyard hole at the top\\nScene/backdrop: neutral light grey seamless surface, minimal shadow beneath each badge\\nLighting/mood: soft diffused overhead studio light, subtle shadow on one side to convey depth and physicality, clean and corporate\\nColor palette: white badge base with ByteDance brand colors (black and orange accent) as primary; muted grey background to keep focus on the badge\\nMaterials/textures: glossy PVC card surface with slight specular highlight, visible edge thickness, lanyard slot detail\\nAvoid: cartoon style, illustrated look, floating badges without surface, distorted text, blurry details, generic placeholder badge design unrelated to ByteDance\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 11594
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为字节跳动生成一张员工工牌产品摄影图，展示正反两面，要求高度真实感。\n\n风格/介质:photorealistic 产品摄影，桌面平铺或悬挂展示，细节精准还原真实工牌质感\n构图:正反两面工牌并排或前后错位摆放，俯拍或略带透视的 3/4 角度，50mm 定焦，浅景深聚焦在工牌表面\n主体:字节跳动员工工牌，正面：白色或浅灰色 PVC 卡面，印有\"字节跳动 ByteDance\"公司 logo（黑白或彩色）、员工姓名占位区、职位占位区、工号条形码或二维码、员工照片区域；反面：磁条或 IC 芯片、公司地址或防伪信息、条形码\n场景/背景:简洁中性背景（浅灰或米白），可见轻微阴影与卡绳（黑色或白色挂绳）\n光线/氛围:柔和漫射光，来自正上方略偏一侧，无强烈高光，整体干净、商务、真实\n色彩搭配:卡面以白/浅灰为底，字节跳动品牌色（黑色 + 白色为主）作为主视觉，背景保持低饱和中性色\n材质/纹理:PVC 卡面的微光泽反射，印刷文字的轻微凹凸感，挂绳织物纹理\n文字(原文保留):\"字节跳动\" \"ByteDance\"\n约束:正反两面必须同时出现在画面中；工牌尺寸比例符合标准 CR80（85.6mm × 54mm）\n避免:卡通化、过度美化、模糊文字、变形 logo、塑料廉价感、无关背景元素",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/d62bc672-5c76-4983-8311-95f7790307cd/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为字节跳动生成一张员工工牌产品摄影图，展示正反两面，要求高度真实感。\\n\\n风格/介质:photorealistic 产品摄影，桌面平铺或悬挂展示，细节精准还原真实工牌质感\\n构图:正反两面工牌并排或前后错位摆放，俯拍或略带透视的 3/4 角度，50mm 定焦，浅景深聚焦在工牌表面\\n主体:字节跳动员工工牌，正面：白色或浅灰色 PVC 卡面，印有\\\"字节跳动 ByteDance\\\"公司 logo（黑白或彩色）、员工姓名占位区、职位占位区、工号条形码或二维码、员工照片区域；反面：磁条或 IC 芯片、公司地址或防伪信息、条形码\\n场景/背景:简洁中性背景（浅灰或米白），可见轻微阴影与卡绳（黑色或白色挂绳）\\n光线/氛围:柔和漫射光，来自正上方略偏一侧，无强烈高光，整体干净、商务、真实\\n色彩搭配:卡面以白/浅灰为底，字节跳动品牌色（黑色 + 白色为主）作为主视觉，背景保持低饱和中性色\\n材质/纹理:PVC 卡面的微光泽反射，印刷文字的轻微凹凸感，挂绳织物纹理\\n文字(原文保留):\\\"字节跳动\\\" \\\"ByteDance\\\"\\n约束:正反两面必须同时出现在画面中；工牌尺寸比例符合标准 CR80（85.6mm × 54mm）\\n避免:卡通化、过度美化、模糊文字、变形 logo、塑料廉价感、无关背景元素\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 17110
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: corporate employee ID badge mockup, both front and back sides shown\nPrimary request: photorealistic design of a ByteDance (字节跳动) employee ID badge, displaying front and back faces side by side\nScene/backdrop: clean light gray studio surface, subtle soft shadow beneath each card\nSubject: two ID badge cards laid flat or slightly angled — front face showing company logo \"字节跳动 / ByteDance\", employee photo placeholder, name, department, employee ID number; back face showing barcode/QR code, company address, card policy text\nStyle/medium: photorealistic product photography\nComposition/framing: top-down or slight 15° overhead angle, both cards arranged side by side with small gap, centered composition\nLighting/mood: soft diffused studio light, clean and corporate, no harsh shadows\nColor palette: white card base, ByteDance signature orange-red accent (#FF4500 range), black text, subtle gray secondary text\nMaterials/textures: glossy PVC card surface with slight specular highlight, printed ink texture, lanyard hole at top\nText (verbatim): \"字节跳动\" \"ByteDance\"\nConstraints: both front and back must be fully visible; badge proportions must follow standard CR80 card ratio (85.6mm × 54mm); logo placement top-center on front\nAvoid: cartoon style, floating elements with no shadow, illegible micro-text rendered as noise",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/5edbb8c4-68f1-47b2-bcc0-91b85c2fb417/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: corporate employee ID badge mockup, both front and back sides shown\\nPrimary request: photorealistic design of a ByteDance (字节跳动) employee ID badge, displaying front and back faces side by side\\nScene/backdrop: clean light gray studio surface, subtle soft shadow beneath each card\\nSubject: two ID badge cards laid flat or slightly angled — front face showing company logo \\\"字节跳动 / ByteDance\\\", employee photo placeholder, name, department, employee ID number; back face showing barcode/QR code, company address, card policy text\\nStyle/medium: photorealistic product photography\\nComposition/framing: top-down or slight 15° overhead angle, both cards arranged side by side with small gap, centered composition\\nLighting/mood: soft diffused studio light, clean and corporate, no harsh shadows\\nColor palette: white card base, ByteDance signature orange-red accent (#FF4500 range), black text, subtle gray secondary text\\nMaterials/textures: glossy PVC card surface with slight specular highlight, printed ink texture, lanyard hole at top\\nText (verbatim): \\\"字节跳动\\\" \\\"ByteDance\\\"\\nConstraints: both front and back must be fully visible; badge proportions must follow standard CR80 card ratio (85.6mm × 54mm); logo placement top-center on front\\nAvoid: cartoon style, floating elements with no shadow, illegible micro-text rendered as noise\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14430
+    }
+  ],
+  "rewrite_llm": "bedrock/claude-sonnet-4-6",
+  "status": "finished"
+}

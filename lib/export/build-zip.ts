@@ -22,19 +22,37 @@ import type { BatchRunRecord, BatchCell } from "@/lib/schema";
 export type BuildZipOptions = {
   includeExcluded?: boolean;
   includeRaw?: boolean; // 默认 true
+  // 同 BuildHtmlOptions,id → display name 映射;不传则在 HTML 里只显示 id
+  skillLabels?: Record<string, string>;
+  modelLabels?: Record<string, string>;
 };
 
-// zip 内的图片相对路径:images/q{XX}_{skill_id}.{ext}
+// zip 内的图片相对路径:images/q{XX}_{skill_id}[__{model}].{ext}
+// 多 model 模式下必须把 image_model 加到文件名,否则同 (q, skill) 不同 model 的图会重名覆盖。
+// 单 model 模式(cell.image_model === "")退化成老命名 q{XX}_{skill}.{ext}。
 function imagePathInZip(cell: BatchCell, hit: LocalImageHit): string {
   const qi = String(cell.query_idx + 1).padStart(2, "0");
-  return `images/q${qi}_${cell.skill_id}.${hit.ext}`;
+  const modelTag = cell.image_model
+    ? `__${cell.image_model.replace(/[^\w.-]+/g, "_")}`
+    : "";
+  return `images/q${qi}_${cell.skill_id}${modelTag}.${hit.ext}`;
+}
+
+// (query_idx, skill_id, image_model) 三元组的 cellToZipPath map key
+function cellKey(cell: BatchCell): string {
+  return `${cell.query_idx}::${cell.skill_id}::${cell.image_model ?? ""}`;
 }
 
 export async function buildZip(
   record: BatchRunRecord,
   opts: BuildZipOptions = {}
 ): Promise<Buffer> {
-  const { includeExcluded = false, includeRaw = true } = opts;
+  const {
+    includeExcluded = false,
+    includeRaw = true,
+    skillLabels,
+    modelLabels,
+  } = opts;
 
   // 第一步:扫一遍要打进 zip 的图,建立 cell -> zip 内路径 的映射。
   // 这个映射要交给 buildHtml 让 <img src=> 用同样的相对路径。
@@ -47,14 +65,16 @@ export async function buildZip(
     const hit = resolveLocalImage(url);
     if (!hit) continue;
     const zipPath = imagePathInZip(c, hit);
-    cellToZipPath.set(`${c.query_idx}::${c.skill_id}`, { hit, zipPath });
+    cellToZipPath.set(cellKey(c), { hit, zipPath });
   }
 
   // 第二步:渲染 HTML(图片 src 用相对路径)
   const html = await buildHtml(record, {
     includeExcluded,
+    skillLabels,
+    modelLabels,
     resolveImageSrc: async (cell) => {
-      const m = cellToZipPath.get(`${cell.query_idx}::${cell.skill_id}`);
+      const m = cellToZipPath.get(cellKey(cell));
       return m ? m.zipPath : null;
     },
   });
@@ -107,13 +127,17 @@ function buildReadme(record: BatchRunRecord): string {
 
 ## 文件清单
 - \`index.html\`:HTML 报告,自包含 CSS,无外部依赖
-- \`images/\`:本次跑批的产物图,文件名 \`q{N}_{skill_id}.{ext}\`
+- \`images/\`:本次跑批的产物图,文件名 \`q{N}_{skill_id}[__{model}].{ext}\`(多 model 模式下带 model 后缀)
 - \`raw.json\`:完整原始数据(BatchRunRecord schema),供脚本分析
 
 ## 元信息
 - 跑批 ID:${record.id}
 - 创建时间:${record.created_at}
-- 规模:${record.queries.length} query × ${record.skill_ids.length} skill = ${record.cells.length} cell
+- 规模:${record.queries.length} query × ${record.skill_ids.length} skill${
+    record.image_model_ids && record.image_model_ids.length > 1
+      ? ` × ${record.image_model_ids.length} model`
+      : ""
+  } = ${record.cells.length} cell
 - 改写模型:${record.rewrite_llm || "(默认)"}
 - 状态:${record.status}
 `;

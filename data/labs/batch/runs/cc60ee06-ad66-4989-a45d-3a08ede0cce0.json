@@ -1,0 +1,155 @@
+{
+  "id": "cc60ee06-ad66-4989-a45d-3a08ede0cce0",
+  "created_at": "2026-04-27T08:31:34.821Z",
+  "name": "",
+  "query_mode": "repeat",
+  "purpose": "",
+  "queries": [
+    "染秋 (RAN QIU) 秋季品牌。\n 品牌理念：染秋以东方哲学观照自然更迭，意在捕捉秋日流转中的诗意瞬间。品牌从中国传统\"染\"的工艺美学出发，将秋天的色彩、气息、情绪凝练成可感知的香氛艺术。精选秋季时令植物——桂花、柿子、枫叶、乌龙茶，融合东方香料如肉桂、檀香、琥珀，创造温暖而隽永的秋日记忆。\n核心系列：    以\"染秋\"为题，推出桂花乌龙、琥珀枫叶、柿霜暮色等香调，营造温暖治愈的秋日氛围。\n制作品牌染秋的主色 + 辅色 + 字体规范展示图",
+    "染秋 (RAN QIU) 秋季品牌。\n 品牌理念：染秋以东方哲学观照自然更迭，意在捕捉秋日流转中的诗意瞬间。品牌从中国传统\"染\"的工艺美学出发，将秋天的色彩、气息、情绪凝练成可感知的香氛艺术。精选秋季时令植物——桂花、柿子、枫叶、乌龙茶，融合东方香料如肉桂、檀香、琥珀，创造温暖而隽永的秋日记忆。\n核心系列：    以\"染秋\"为题，推出桂花乌龙、琥珀枫叶、柿霜暮色等香调，营造温暖治愈的秋日氛围。\n制作品牌染秋的主色 + 辅色 + 字体规范展示图"
+  ],
+  "skill_ids": [
+    "F5-labeled-spec",
+    "F9-brief-and-fields",
+    "F10-brief-and-fields-en"
+  ],
+  "scoring_dimensions": [
+    {
+      "id": "overall",
+      "label": "总体观感",
+      "description": ""
+    },
+    {
+      "id": "intent",
+      "label": "意图还原度",
+      "description": "prompt 是否抓住了用户原意"
+    }
+  ],
+  "cells": [
+    {
+      "query_idx": 0,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: logo-brand\nAsset type: brand style guide / color & typography specification sheet\nPrimary request: create a brand color palette (primary + secondary colors) and typography specification display for the fragrance brand 染秋 (RAN QIU)\nScene/backdrop: clean flat layout on off-white rice paper texture, minimal negative space, editorial design\nSubject: brand identity spec sheet showing primary color swatches, secondary color swatches, and Chinese/Latin typeface pairings — all themed around an autumnal East Asian aesthetic\nStyle/medium: flat graphic design, editorial brand guideline illustration, ink-wash accent details\nComposition/framing: portrait layout, top-down flat lay, structured grid with labeled color blocks and font specimen rows\nLighting/mood: soft diffused natural light feel, warm and serene, poetic autumn atmosphere\nColor palette:\n  Primary — osmanthus amber (#C8762A), persimmon orange (#D95F2B), deep maple red (#8B2E16)\n  Secondary — oolong brown (#6B4226), misty celadon (#A8B89A), ink black (#1C1C1C), pale rice white (#F5EFE4)\nMaterials/textures: subtle rice paper grain on background, thin ink-brush divider lines between sections\nText (verbatim): \"染秋\", \"RAN QIU\", \"桂花乌龙\", \"琥珀枫叶\", \"柿霜暮色\", \"Primary Colors\", \"Secondary Colors\", \"Typography\"\nConstraints: all color swatches must display hex codes and Chinese color names; typography section must show both a Chinese serif/brush-style typeface and a Latin serif typeface specimen; overall layout must feel like a premium East Asian fragrance brand guideline\nAvoid: neon or overly saturated tones, Western floral clichés, cluttered layout, drop shadows",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/2eb739a9-39a7-4d2b-9269-2659c8de1b9f/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: logo-brand\\nAsset type: brand style guide / color & typography specification sheet\\nPrimary request: create a brand color palette (primary + secondary colors) and typography specification display for the fragrance brand 染秋 (RAN QIU)\\nScene/backdrop: clean flat layout on off-white rice paper texture, minimal negative space, editorial design\\nSubject: brand identity spec sheet showing primary color swatches, secondary color swatches, and Chinese/Latin typeface pairings — all themed around an autumnal East Asian aesthetic\\nStyle/medium: flat graphic design, editorial brand guideline illustration, ink-wash accent details\\nComposition/framing: portrait layout, top-down flat lay, structured grid with labeled color blocks and font specimen rows\\nLighting/mood: soft diffused natural light feel, warm and serene, poetic autumn atmosphere\\nColor palette:\\n  Primary — osmanthus amber (#C8762A), persimmon orange (#D95F2B), deep maple red (#8B2E16)\\n  Secondary — oolong brown (#6B4226), misty celadon (#A8B89A), ink black (#1C1C1C), pale rice white (#F5EFE4)\\nMaterials/textures: subtle rice paper grain on background, thin ink-brush divider lines between sections\\nText (verbatim): \\\"染秋\\\", \\\"RAN QIU\\\", \\\"桂花乌龙\\\", \\\"琥珀枫叶\\\", \\\"柿霜暮色\\\", \\\"Primary Colors\\\", \\\"Secondary Colors\\\", \\\"Typography\\\"\\nConstraints: all color swatches must display hex codes and Chinese color names; typography section must show both a Chinese serif/brush-style typeface and a Latin serif typeface specimen; overall layout must feel like a premium East Asian fragrance brand guideline\\nAvoid: neon or overly saturated tones, Western floral clichés, cluttered layout, drop shadows\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14437
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为品牌「染秋 (RAN QIU)」生成一张品牌视觉规范展示图，涵盖主色、辅色与字体规范，用于品牌识别系统呈现。\n\n风格/介质:扁平设计风格的品牌规范展示页（Brand Style Guide），融合东方美学与现代排版，气质温润隽永，参考日本品牌手册的克制与中国传统染色工艺的色彩诗意\n构图:横向分区布局，从左至右依次呈现：品牌名称区、主色板区、辅色板区、字体规范区；各区域之间留有充分留白，整体版面干净有序\n主体:品牌名称「染秋」与「RAN QIU」并排或上下排列，作为视觉锚点；色板以圆形或方形色块呈现，每块色下方标注色名与色值；字体规范区展示中英文字重层级\n场景/背景:纯净的米白色或浅暖灰背景，营造宣纸质感的东方留白氛围\n光线/氛围:无光影，平面设计，整体氛围温暖、静谧、诗意，如秋日午后的漫射光感\n色彩搭配:主色以秋日植物为灵感——桂花金（暖黄）、柿橙（深橙红）、枫叶赤（砖红）；辅色以东方香料为灵感——琥珀棕、檀香米、乌龙深褐；以米白或浅暖灰作为底色，色彩之间形成温暖渐进的秋日色谱关系\n材质/纹理:轻微宣纸纹理叠加在背景，色块表面哑光无反光，整体质感如染布工艺的沉稳\n文字(原文保留):\"染秋\" \"RAN QIU\" \"主色\" \"辅色\" \"字体规范\"\n约束:色板必须清晰可辨，字体规范区需展示至少两种字重对比；品牌名「染秋 (RAN QIU)」须完整出现在画面中\n避免:霓虹色、高饱和撞色、西式极简冷淡风、渐变光晕、复杂插画背景、水印、多余装饰元素",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/afae3087-bfcb-4c54-b221-b8fe22f8afd3/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为品牌「染秋 (RAN QIU)」生成一张品牌视觉规范展示图，涵盖主色、辅色与字体规范，用于品牌识别系统呈现。\\n\\n风格/介质:扁平设计风格的品牌规范展示页（Brand Style Guide），融合东方美学与现代排版，气质温润隽永，参考日本品牌手册的克制与中国传统染色工艺的色彩诗意\\n构图:横向分区布局，从左至右依次呈现：品牌名称区、主色板区、辅色板区、字体规范区；各区域之间留有充分留白，整体版面干净有序\\n主体:品牌名称「染秋」与「RAN QIU」并排或上下排列，作为视觉锚点；色板以圆形或方形色块呈现，每块色下方标注色名与色值；字体规范区展示中英文字重层级\\n场景/背景:纯净的米白色或浅暖灰背景，营造宣纸质感的东方留白氛围\\n光线/氛围:无光影，平面设计，整体氛围温暖、静谧、诗意，如秋日午后的漫射光感\\n色彩搭配:主色以秋日植物为灵感——桂花金（暖黄）、柿橙（深橙红）、枫叶赤（砖红）；辅色以东方香料为灵感——琥珀棕、檀香米、乌龙深褐；以米白或浅暖灰作为底色，色彩之间形成温暖渐进的秋日色谱关系\\n材质/纹理:轻微宣纸纹理叠加在背景，色块表面哑光无反光，整体质感如染布工艺的沉稳\\n文字(原文保留):\\\"染秋\\\" \\\"RAN QIU\\\" \\\"主色\\\" \\\"辅色\\\" \\\"字体规范\\\"\\n约束:色板必须清晰可辨，字体规范区需展示至少两种字重对比；品牌名「染秋 (RAN QIU)」须完整出现在画面中\\n避免:霓虹色、高饱和撞色、西式极简冷淡风、渐变光晕、复杂插画背景、水印、多余装饰元素\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 19195
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing brand style guide sheet for 染秋 (RAN QIU), an autumn-themed Oriental fragrance brand.\n\nStyle/medium: clean flat editorial design, brand identity reference sheet, refined East-Asian typographic sensibility in the spirit of Nendo or Muji branding\nSubject: brand color palette swatch block (primary + secondary colors), typography specimen showing Chinese and Latin typefaces, minimal decorative motifs drawn from osmanthus, persimmon, maple leaf, and oolong tea\nComposition: portrait-oriented style guide layout, organized in clearly labeled sections — color swatches at top, typography specimen in middle, accent motif strip at bottom, generous white space\nScene/backdrop: clean off-white or warm cream background, no photographic environment\nLighting/mood: flat, even, no shadows — brand sheet aesthetic\nColor palette: primary colors anchored in warm autumnal tones — deep osmanthus amber (#C8732A range), persimmon orange-red, aged oolong brown; secondary colors in muted sage, frost white, and ink black; all swatches labeled with hex codes and CMYK values\nMaterials/textures: subtle paper grain on background, ink-wash micro-texture on typographic headers only\nText (verbatim): \"染秋\" \"RAN QIU\" \"桂花乌龙\" \"琥珀枫叶\" \"柿霜暮色\"\nConstraints: each color swatch must show color block + name label + hex code; typography section must show at least one Chinese serif and one Latin serif specimen; layout must read clearly at A4 print size\nAvoid: photographic backgrounds, gradients as main fills, neon or cool-toned colors, generic Behance mockup chrome, drop shadows, clutter",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/12eaa652-0971-4c92-9622-ede112db50c7/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing brand style guide sheet for 染秋 (RAN QIU), an autumn-themed Oriental fragrance brand.\\n\\nStyle/medium: clean flat editorial design, brand identity reference sheet, refined East-Asian typographic sensibility in the spirit of Nendo or Muji branding\\nSubject: brand color palette swatch block (primary + secondary colors), typography specimen showing Chinese and Latin typefaces, minimal decorative motifs drawn from osmanthus, persimmon, maple leaf, and oolong tea\\nComposition: portrait-oriented style guide layout, organized in clearly labeled sections — color swatches at top, typography specimen in middle, accent motif strip at bottom, generous white space\\nScene/backdrop: clean off-white or warm cream background, no photographic environment\\nLighting/mood: flat, even, no shadows — brand sheet aesthetic\\nColor palette: primary colors anchored in warm autumnal tones — deep osmanthus amber (#C8732A range), persimmon orange-red, aged oolong brown; secondary colors in muted sage, frost white, and ink black; all swatches labeled with hex codes and CMYK values\\nMaterials/textures: subtle paper grain on background, ink-wash micro-texture on typographic headers only\\nText (verbatim): \\\"染秋\\\" \\\"RAN QIU\\\" \\\"桂花乌龙\\\" \\\"琥珀枫叶\\\" \\\"柿霜暮色\\\"\\nConstraints: each color swatch must show color block + name label + hex code; typography section must show at least one Chinese serif and one Latin serif specimen; layout must read clearly at A4 print size\\nAvoid: photographic backgrounds, gradients as main fills, neon or cool-toned colors, generic Behance mockup chrome, drop shadows, clutter\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+      "ms": 13962
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: logo-brand\nAsset type: brand style guide / color & typography specification sheet\nPrimary request: create a brand color palette (primary + secondary colors) and typography specification display for the fragrance brand 染秋 (RAN QIU)\nScene/backdrop: clean off-white rice paper texture background, subtle ink-wash grain\nSubject: brand identity system — color swatches with hex codes and names, paired with Chinese/Latin typeface specimens; brand name 染秋 (RAN QIU) displayed prominently\nStyle/medium: editorial flat-lay design, East Asian aesthetic, refined minimalist layout\nComposition/framing: portrait layout, structured grid — top section: brand name lockup; middle section: color swatch row with labels; bottom section: typeface specimen lines\nLighting/mood: soft diffused natural light, calm and poetic, warm autumnal mood\nColor palette:\n  Primary — deep persimmon orange (#C0622A), osmanthus gold (#D4A843), amber brown (#7B4A2D)\n  Secondary — misty celadon (#A8B8A0), ink grey (#4A4A4A), pale rice white (#F5EFE4), maple crimson (#8B2E1A)\nMaterials/textures: matte rice paper surface, subtle ink-bleed edges on type, no gloss\nText (verbatim): \"染秋\", \"RAN QIU\", \"桂花乌龙\", \"琥珀枫叶\", \"柿霜暮色\"\nConstraints: all color swatches must display hex value and Chinese name label; typography must feel rooted in East Asian brush/serif tradition while remaining legible; no photographic imagery, purely graphic/typographic\nAvoid: neon or synthetic colors, Western-only sans-serif coldness, cluttered layout, drop shadows",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/4ae36ca9-290a-4712-b37f-25566512faa2/0.png"
+      ],
+      "scores": {
+        "overall": 4.5,
+        "intent": 4.5
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: logo-brand\\nAsset type: brand style guide / color & typography specification sheet\\nPrimary request: create a brand color palette (primary + secondary colors) and typography specification display for the fragrance brand 染秋 (RAN QIU)\\nScene/backdrop: clean off-white rice paper texture background, subtle ink-wash grain\\nSubject: brand identity system — color swatches with hex codes and names, paired with Chinese/Latin typeface specimens; brand name 染秋 (RAN QIU) displayed prominently\\nStyle/medium: editorial flat-lay design, East Asian aesthetic, refined minimalist layout\\nComposition/framing: portrait layout, structured grid — top section: brand name lockup; middle section: color swatch row with labels; bottom section: typeface specimen lines\\nLighting/mood: soft diffused natural light, calm and poetic, warm autumnal mood\\nColor palette:\\n  Primary — deep persimmon orange (#C0622A), osmanthus gold (#D4A843), amber brown (#7B4A2D)\\n  Secondary — misty celadon (#A8B8A0), ink grey (#4A4A4A), pale rice white (#F5EFE4), maple crimson (#8B2E1A)\\nMaterials/textures: matte rice paper surface, subtle ink-bleed edges on type, no gloss\\nText (verbatim): \\\"染秋\\\", \\\"RAN QIU\\\", \\\"桂花乌龙\\\", \\\"琥珀枫叶\\\", \\\"柿霜暮色\\\"\\nConstraints: all color swatches must display hex value and Chinese name label; typography must feel rooted in East Asian brush/serif tradition while remaining legible; no photographic imagery, purely graphic/typographic\\nAvoid: neon or synthetic colors, Western-only sans-serif coldness, cluttered layout, drop shadows\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14223
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为「染秋 (RAN QIU)」秋季香氛品牌生成一张品牌色彩与字体规范展示图（Brand Style Guide / Color & Typography Sheet）。\n\n风格/介质:扁平设计规范图，东方极简美学，参考日本品牌手册的克制排版与中国传统染色工艺的色彩感知，整体气质温暖、隽永、诗意\n构图:横向分区布局，左侧为主色+辅色色块展示区（含色号标注），右侧为字体规范区（中英文字体样本），顶部留品牌名标题栏，底部留品牌理念短句，充分留白\n主体:主色区展示 3-4 个秋日核心色——桂花金（暖黄）、柿霜橙（砖橙）、枫叶赤（深红）、乌龙棕（深褐）；辅色区展示 2-3 个调和色——琥珀米（浅米）、檀香灰（暖灰）、墨绿（点缀）；每个色块下方标注色名（中文）+ HEX 色号；字体规范区展示中文主字体（宋体/明朝系）与英文辅助字体（衬线），含大标题、副标题、正文三级示例\n场景/背景:纯净暖白或浅米色背景，模拟品牌手册印刷页面质感\n光线/氛围:无光影，平面印刷感，整体氛围温暖克制，带东方秋日诗意\n色彩搭配:以桂花金与柿霜橙为视觉主轴，枫叶赤作为强调色，乌龙棕与檀香灰作为中性底色，整体色调统一在秋日暖色系内\n材质/纹理:轻微纸张纹理或无纹理，印刷规范图质感，不加胶片颗粒\n文字(原文保留):\"染秋\" \"RAN QIU\" \"桂花乌龙\" \"琥珀枫叶\" \"柿霜暮色\" \"染秋以东方哲学观照自然更迭，意在捕捉秋日流转中的诗意瞬间\"\n约束:色块必须清晰可辨，色名与色号标注完整；字体层级分明；品牌名「染秋 (RAN QIU)」在顶部标题栏逐字呈现\n避免:渐变滥用、霓虹色、西方波西米亚秋色风格（南瓜橙+黑色万圣节调）、复杂插画背景、多焦点堆砌、水印",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/a9c9ee79-8b00-4353-bf6c-a9c62386f18c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为「染秋 (RAN QIU)」秋季香氛品牌生成一张品牌色彩与字体规范展示图（Brand Style Guide / Color & Typography Sheet）。\\n\\n风格/介质:扁平设计规范图，东方极简美学，参考日本品牌手册的克制排版与中国传统染色工艺的色彩感知，整体气质温暖、隽永、诗意\\n构图:横向分区布局，左侧为主色+辅色色块展示区（含色号标注），右侧为字体规范区（中英文字体样本），顶部留品牌名标题栏，底部留品牌理念短句，充分留白\\n主体:主色区展示 3-4 个秋日核心色——桂花金（暖黄）、柿霜橙（砖橙）、枫叶赤（深红）、乌龙棕（深褐）；辅色区展示 2-3 个调和色——琥珀米（浅米）、檀香灰（暖灰）、墨绿（点缀）；每个色块下方标注色名（中文）+ HEX 色号；字体规范区展示中文主字体（宋体/明朝系）与英文辅助字体（衬线），含大标题、副标题、正文三级示例\\n场景/背景:纯净暖白或浅米色背景，模拟品牌手册印刷页面质感\\n光线/氛围:无光影，平面印刷感，整体氛围温暖克制，带东方秋日诗意\\n色彩搭配:以桂花金与柿霜橙为视觉主轴，枫叶赤作为强调色，乌龙棕与檀香灰作为中性底色，整体色调统一在秋日暖色系内\\n材质/纹理:轻微纸张纹理或无纹理，印刷规范图质感，不加胶片颗粒\\n文字(原文保留):\\\"染秋\\\" \\\"RAN QIU\\\" \\\"桂花乌龙\\\" \\\"琥珀枫叶\\\" \\\"柿霜暮色\\\" \\\"染秋以东方哲学观照自然更迭，意在捕捉秋日流转中的诗意瞬间\\\"\\n约束:色块必须清晰可辨，色名与色号标注完整；字体层级分明；品牌名「染秋 (RAN QIU)」在顶部标题栏逐字呈现\\n避免:渐变滥用、霓虹色、西方波西米亚秋色风格（南瓜橙+黑色万圣节调）、复杂插画背景、多焦点堆砌、水印\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 19119
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing brand style guide visual for 染秋 (RAN QIU), an autumn fragrance brand rooted in Eastern philosophy and traditional Chinese dyeing aesthetics.\n\nStyle/medium: clean editorial brand identity sheet, flat design with ink-wash texture accents, inspired by Japanese and Chinese minimalist graphic design studios\nComposition: portrait layout, structured into three horizontal zones — primary color swatches (top), secondary/accent color swatches (middle), typography specimen (bottom); generous white space between zones\nSubject: brand color system and typeface specification display for 染秋 (RAN QIU); primary palette drawn from osmanthus gold, persimmon amber, maple crimson, and oolong brown; secondary palette featuring sandalwood beige, amber resin, misty celadon, and deep ink; typeface specimens showing brand name in both Chinese and Latin scripts with size hierarchy\nScene/backdrop: off-white or warm rice-paper textured background, no photographic scene\nLighting/mood: flat, even, print-ready — no shadows or dramatic lighting; mood is quiet, poetic, autumnal warmth\nColor palette: primary colors anchor around deep persimmon orange (#C0562A range), osmanthus gold (#D4A843 range), maple crimson (#8B2E2E range), oolong dark brown (#3E2A1E range); secondary colors include sandalwood beige, pale celadon mist, amber resin translucent tone; all colors evoke the \"染 (dyeing)\" craft — layered, saturated yet refined\nMaterials/textures: subtle rice-paper grain on background; ink-wash brushstroke dividers between sections; no gradients except soft watercolor wash on color chip edges\nText (verbatim): \"染秋\" \"RAN QIU\" \"主色\" \"辅色\" \"字体规范\"\nConstraints: all color chips must be clearly labeled with name and hex-style swatch block; typeface zone must show at least two weight variants; layout must remain legible at A4 print size; brand name 染秋 and RAN QIU must appear as the header lockup\nAvoid: photographic elements, 3D rendering, gradients as main design device, generic Behance flat-color grids without cultural texture, neon tones, cold blue or grey dominance",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e23a4583-4083-4c79-b4dd-8ff165592cc0/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing brand style guide visual for 染秋 (RAN QIU), an autumn fragrance brand rooted in Eastern philosophy and traditional Chinese dyeing aesthetics.\\n\\nStyle/medium: clean editorial brand identity sheet, flat design with ink-wash texture accents, inspired by Japanese and Chinese minimalist graphic design studios\\nComposition: portrait layout, structured into three horizontal zones — primary color swatches (top), secondary/accent color swatches (middle), typography specimen (bottom); generous white space between zones\\nSubject: brand color system and typeface specification display for 染秋 (RAN QIU); primary palette drawn from osmanthus gold, persimmon amber, maple crimson, and oolong brown; secondary palette featuring sandalwood beige, amber resin, misty celadon, and deep ink; typeface specimens showing brand name in both Chinese and Latin scripts with size hierarchy\\nScene/backdrop: off-white or warm rice-paper textured background, no photographic scene\\nLighting/mood: flat, even, print-ready — no shadows or dramatic lighting; mood is quiet, poetic, autumnal warmth\\nColor palette: primary colors anchor around deep persimmon orange (#C0562A range), osmanthus gold (#D4A843 range), maple crimson (#8B2E2E range), oolong dark brown (#3E2A1E range); secondary colors include sandalwood beige, pale celadon mist, amber resin translucent tone; all colors evoke the \\\"染 (dyeing)\\\" craft — layered, saturated yet refined\\nMaterials/textures: subtle rice-paper grain on background; ink-wash brushstroke dividers between sections; no gradients except soft watercolor wash on color chip edges\\nText (verbatim): \\\"染秋\\\" \\\"RAN QIU\\\" \\\"主色\\\" \\\"辅色\\\" \\\"字体规范\\\"\\nConstraints: all color chips must be clearly labeled with name and hex-style swatch block; typeface zone must show at least two weight variants; layout must remain legible at A4 print size; brand name 染秋 and RAN QIU must appear as the header lockup\\nAvoid: photographic elements, 3D rendering, gradients as main design device, generic Behance flat-color grids without cultural texture, neon tones, cold blue or grey dominance\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 18430
+    }
+  ],
+  "rewrite_llm": "bedrock/claude-sonnet-4-6",
+  "status": "finished"
+}

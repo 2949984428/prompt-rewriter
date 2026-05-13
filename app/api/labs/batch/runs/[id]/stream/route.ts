@@ -42,9 +42,32 @@ export async function GET(
 
   const stream = new ReadableStream<Uint8Array>({
     async start(controller) {
-      // 1. 入口 snapshot:把当前进度推一次,让前端立刻有数(不依赖后续 cell 事件)
+      // 1. 入口 snapshot:推 progress + 把所有非 pending cells 的最新状态推一遍。
+      //    cells snapshot 的存在意义:SSE 重连(浏览器 retry / dev hot-reload / 之前 SSE
+      //    被污染的 state)时,前端 record state 一次性被纠正,不需要刷页面。
+      //    pending cell 不推(等价 server-side 默认状态,推它浪费带宽)。
       const p = progressOf(record);
       controller.enqueue(sseFrame("progress", p));
+      for (const c of record.cells) {
+        if (c.status === "pending") continue;
+        controller.enqueue(
+          sseFrame("cell", {
+            query_idx: c.query_idx,
+            skill_id: c.skill_id,
+            image_model: c.image_model ?? "",
+            patch: {
+              status: c.status,
+              final_prompt: c.final_prompt,
+              image_urls: c.image_urls,
+              scores: c.scores,
+              note: c.note,
+              error: c.error,
+              raw: c.raw,
+              ms: c.ms,
+            },
+          })
+        );
+      }
       // 已经 terminal 的 run(finished 或用户取消):推一次 finished 后让前端关连接
       if (record.status === "finished" || record.status === "cancelled") {
         controller.enqueue(sseFrame("finished", { id }));
@@ -58,6 +81,9 @@ export async function GET(
               sseFrame("cell", {
                 query_idx: ev.query_idx,
                 skill_id: ev.skill_id,
+                // 多 model 改造后必须透传:同 (q, s) 可能有多 cell(不同 model),
+                // 客户端没这个字段就会退化成"按 (q, s) 匹第一条",GPT-2/NB2 永远不更新。
+                image_model: ev.image_model,
                 patch: ev.patch,
               })
             );

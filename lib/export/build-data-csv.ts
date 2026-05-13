@@ -127,7 +127,12 @@ export async function buildDataCsv(
   let skipped = 0;
 
   for (const cell of record.cells) {
-    if (cell.status !== "done") continue;
+    // B1 fix:failed / excluded / pending 状态的 cell 计入 skipped,
+    // 前端 dialog 才能告诉用户"为什么 csv 行数比预期少"。
+    if (cell.status !== "done") {
+      skipped++;
+      continue;
+    }
     const qi = String(cell.query_idx + 1).padStart(2, "0");
     const sampleId = `q${qi}_${cell.skill_id}`;
     const query = record.queries[cell.query_idx] ?? "";

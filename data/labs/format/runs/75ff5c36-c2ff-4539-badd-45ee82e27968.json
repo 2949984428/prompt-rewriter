@@ -1,0 +1,134 @@
+{
+  "id": "75ff5c36-c2ff-4539-badd-45ee82e27968",
+  "ts": 1777275098989,
+  "query": "跨境电商促销海报，目的是宣传，要求：1.有艺术字，2.有字体堆叠，3.画面较为复杂但不能杂乱，4.有产品或者主体挡住一些字体，4.画面比例16:9",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Design an original, non-infringing marketing poster for cross-border e-commerce promotion.\n\nStyle/medium: bold typographic poster with layered text, contemporary graphic design, editorial poster aesthetic\nComposition: 16:9 landscape format, dynamic text layering with overlapping type elements, product/subject partially obscuring text for depth\nSubject: promotional message with artistic typography, text stacked in layers at varying sizes and opacities, product or main subject positioned to block portions of the text\nScene/backdrop: clean but visually rich promotional environment, structured yet energetic layout\nLighting/mood: even studio lighting, vibrant commercial energy without chaos\nColor palette: high-contrast brand colors, one dominant hue with complementary accents, clear visual hierarchy\nText (verbatim): \"跨境电商促销\"\nConstraints: complex composition that remains legible and organized; text must be readable despite layering; product placement must enhance not obscure key message\nAvoid: cluttered disorganized layout, unreadable text, generic stock photo aesthetic, watermark, 8K stuffer words",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "d75e1f6c-a95d-4e57-811d-ffd15829e6d7",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/37ad4b0d-b67f-4808-a5b5-8702b08b2c0c.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0381,
+        "latency_ms": 70010,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为跨境电商促销活动生成一张促销海报，用于宣传。\n\n风格/介质:商业海报设计，现代电商视觉风格，字体堆叠艺术字设计，层次分明\n构图:16:9 横构图，主体与字体交错遮挡，视觉层次丰富但不杂乱，产品元素与文字形成前后景关系\n主体:跨境电商产品（如耳机/手表/美妆/服饰等）作为视觉焦点，部分遮挡艺术字，形成立体空间感\n场景/背景:简洁渐变或纯色背景，不抢主体风头，保持画面呼吸感\n光线/氛围:柔和商业光感，轻微投影增加层次，现代电商氛围\n色彩搭配:主色调 2-3 种，对比鲜明但不刺眼，促销感强（可选红/橙/蓝等电商常用色）\n文字(原文保留):\"促销信息\"（艺术字处理，字体堆叠设计）\n约束:画面必须包含艺术字且有字体堆叠效果；产品或主体必须遮挡部分字体；整体复杂但不杂乱；16:9 比例\n避免:画面杂乱无重点、文字完全可读无遮挡、纯文字无产品主体、超过4种主色、廉价促销感",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "81180c54-822f-4c20-892a-484155dec437",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/bc07514b-15df-4935-b83b-e37c9bdb7380.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0387,
+        "latency_ms": 57951,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"cross-border e-commerce promotional poster\",\"description\":\"dynamic typography art with layered fonts, product or main subject partially overlapping text elements\",\"pose\":\"hero product or character positioned to create depth by blocking portions of text\",\"expression\":\"bold and energetic\"},\"scene\":{\"location\":\"abstract commercial backdrop with geometric patterns and gradient elements\",\"time_of_day\":\"vibrant studio lighting\",\"ambience\":\"high-energy sales atmosphere\"},\"lighting\":{\"primary\":\"dramatic studio spotlight from upper left\",\"secondary\":\"soft fill light from right\",\"mood\":\"bold contrasts, commercial vibrancy\"},\"color_grading\":{\"palette\":[\"electric blue\",\"hot pink\",\"gold accents\",\"deep purple shadows\"],\"tone\":\"modern commercial\",\"contrast\":\"high\"},\"composition\":{\"shot_type\":\"wide promotional layout\",\"angle\":\"straight-on with slight dynamic tilt\",\"lens\":\"wide-angle commercial photography\"},\"style\":{\"medium\":\"digital graphic design with 3D typography elements\",\"reference\":\"contemporary e-commerce advertising\",\"texture\":\"smooth gradients with subtle metallic finishes\"},\"constraints\":[\"artistic typography must be prominent\",\"fonts must be layered/stacked creating depth\",\"complex composition but visually organized hierarchy\",\"product or main subject must overlap and partially obscure text\",\"16:9 aspect ratio\"],\"negative\":[\"cluttered mess without hierarchy\",\"flat 2D appearance\",\"text fully readable without overlap\",\"boring single-layer typography\",\"watermark\",\"low contrast\"]}",
+        "size": "1792x1008",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "a684dfa4-6682-4721-af9a-dc1063cfcbfa",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/54577f64-672d-458b-b1d0-f140926b08f4.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0385,
+        "latency_ms": 64443,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: promotional-poster\nAsset type: cross-border e-commerce sale poster, 16:9 landscape\nPrimary request: artistic typography with layered/stacked fonts, complex but organized composition, product or subject partially overlapping text\nScene/backdrop: modern e-commerce promotional backdrop with depth layers\nSubject: featured product or central figure positioned to partially obscure text elements\nStyle/medium: graphic design poster, mixed media illustration with bold typography\nComposition/framing: wide 16:9 landscape, layered depth with foreground product, midground text, background elements\nLighting/mood: dynamic commercial lighting, energetic and eye-catching mood\nColor palette: vibrant promotional colors with high contrast for readability\nMaterials/textures: clean vector text with subtle texture overlays, product photography integration\nText (verbatim): \"跨境电商促销\"\nConstraints: must include artistic typography with font stacking, product must partially block some text, complex but not cluttered layout, 16:9 aspect ratio\nAvoid: chaotic cluttered composition, flat single-layer design, text fully isolated from product, low contrast text, generic stock photo look",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "33269a17-0aec-4104-b500-a6737b7a1433",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/47107d68-494c-4be2-8555-5d46fd9bd0e8.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0382,
+        "latency_ms": 88032,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Bold promotional e-commerce poster design, layered artistic typography spelling \"MEGA SALE\" with dynamic overlapping letters and depth, glossy product boxes and shopping bags partially obscuring text elements, modern graphic design with clean hierarchy, dense but organized composition on 16:9 canvas, vibrant gradient background with subtle texture, dramatic spotlight highlighting key text and products creating visual depth.",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "d5d6db92-91bd-4c3c-81e0-e0d70b3ab5bc",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/8585d762-4d97-4391-a49b-ea1766dad454.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0374,
+        "latency_ms": 70034,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "kimi/kimi-k2.5"
+  }
+}

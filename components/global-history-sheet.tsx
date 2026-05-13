@@ -26,11 +26,30 @@ const FILTERS: { id: GlobalHistoryFilter; label: string }[] = [
   { id: "all", label: "全部" },
   { id: "rewrite", label: "垂类实验台" },
   { id: "format", label: "格式实验台" },
+  { id: "batch", label: "批量测试台" },
+  { id: "fusion", label: "融合实验台" },
 ];
 
 const LAB_LABEL: Record<string, string> = {
   rewrite: "垂类",
   format: "格式",
+  batch: "批量",
+  fusion: "融合",
+};
+
+// 4 种 lab 各分一种暖色，与项目 Anthropic 暖色系一致。
+const LAB_CHIP_CLS: Record<string, string> = {
+  rewrite: "bg-warm-sand text-charcoal-warm",
+  format: "bg-coral-soft-bg text-terracotta",
+  batch: "bg-parchment text-olive-gray border border-border-warm",
+  fusion: "bg-ivory text-near-black border border-border-cream",
+};
+
+const STATUS_CN: Record<string, string> = {
+  completed: "已完成",
+  failed: "失败",
+  partial: "部分完成",
+  running: "进行中",
 };
 
 function fmtTs(ts: number) {
@@ -106,9 +125,7 @@ export function GlobalHistorySheet() {
                   <div className="mb-1 flex items-baseline justify-between gap-2">
                     <span
                       className={`rounded-full px-2 py-0.5 font-mono text-[10px] font-medium ${
-                        e.lab_id === "rewrite"
-                          ? "bg-warm-sand text-charcoal-warm"
-                          : "bg-coral-soft-bg text-terracotta"
+                        LAB_CHIP_CLS[e.lab_id] ?? LAB_CHIP_CLS.fusion
                       }`}
                     >
                       {LAB_LABEL[e.lab_id] ?? e.lab_id}
@@ -129,11 +146,17 @@ export function GlobalHistorySheet() {
                     <span className="font-mono text-[11px] text-stone-gray">
                       {e.pm_score_count > 0
                         ? `评分 ${e.pm_score_count} 项 · 平均 ${e.pm_score_avg?.toFixed(1) ?? "—"}`
-                        : `状态 ${e.status}`}
+                        : `状态 ${STATUS_CN[e.status] ?? e.status}`}
                     </span>
                     <button
                       onClick={() => {
-                        setLab(e.lab_id === "format" ? "format" : "rewrite");
+                        // 跳到该条目所在 lab。未识别的 lab 兜底到 rewrite，避免类型错误。
+                        const known = ["rewrite", "format", "batch", "fusion"] as const;
+                        type KnownLab = (typeof known)[number];
+                        const target: KnownLab = (known as readonly string[]).includes(e.lab_id)
+                          ? (e.lab_id as KnownLab)
+                          : "rewrite";
+                        setLab(target);
                         setOpen(false);
                       }}
                       className="flex items-center gap-1 font-mono text-[11px] text-olive-gray hover:text-terracotta"

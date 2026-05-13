@@ -1,0 +1,19 @@
+{
+  "active": "v2",
+  "versions": [
+    {
+      "id": "v1",
+      "label": "初版(迁移自单文件)",
+      "notes": "Phase 2 迁移基线",
+      "createdAt": "2026-05-12T13:07:37.665Z",
+      "author": "system-migration"
+    },
+    {
+      "id": "v2",
+      "label": "ecommerce 6 条 v3 写法(流畅段落)",
+      "notes": "ecommerce 全面重写,从 5 条抽象原则 → 6 条 prompt-actionable 流畅段落。引用业界资料(Superfiles/Claid/Shopify)+ 飞书 GSB 5 维度,补:产品保真度/场景服务/转化构图/材质质感/物理合理性(新)/单图焦点唯一(新)。AI 塑料感单独成条已移除。规则 5 不引外部 GSB 标记,规则 6 改名+重写围绕单图(原『信息完整性』把多图齐全责任退给 CreationPlanner)。brand/social/other 未动。",
+      "createdAt": "2026-05-12T21:50:00.000Z",
+      "author": "巧克力"
+    }
+  ]
+}

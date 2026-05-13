@@ -36,8 +36,9 @@ export function FormatResultGrid() {
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {run.format_runs.map((r) => (
           <FormatCell
-            key={r.format_id}
+            key={`${r.format_id}::${r.image_model ?? ""}`}
             formatId={r.format_id}
+            imageModel={r.image_model ?? ""}
             isWinner={r.format_id === run.winner_format_id}
           />
         ))}

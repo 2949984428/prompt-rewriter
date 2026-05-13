@@ -1,0 +1,134 @@
+{
+  "id": "826045b5-4286-4e40-8117-fc658d34d881",
+  "ts": 1777276842325,
+  "query": "设计一个PPT封面，通透震撼的背景图片配合符合品牌调性的标题和副标题。主题是：长安起源Q06将于9月上市",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "PPT cover slide editorial design with dramatic translucent automotive brand visual, Changan Q06 SUV as hero subject in sleek dynamic silhouette, deep navy-to-black gradient body with chrome trim and glowing LED headlights, photorealistic automotive CGI rendering with bold Chinese brand typography overlay reading \"长安起源Q06\" as main title and \"9月正式上市\" as subtitle in clean sans-serif, wide-angle front three-quarter perspective on dark stage with ground reflection and subtle fog depth, cinematic backlit rim lighting with electric blue accent glow and volumetric light rays creating a powerful launch atmosphere",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "02f82d0d-ef76-40ce-bb21-acd3fee4aa14",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/e9a83318-cd38-4814-8f60-135e99d8a12a.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0376,
+        "latency_ms": 75404,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: PPT cover slide / presentation title page, 16:9 landscape\nPrimary request: design a striking, immersive PPT cover for the launch announcement of Changan Origin Q06 arriving in September\nScene/backdrop: dramatic deep-space or abstract fluid dark backdrop with volumetric light rays and translucent layered depth — conveying transparency, power, and premium automotive brand tone\nSubject: bold headline and subtitle text overlaid on the background; no car illustration required — the visual impact comes from the background and typography\nStyle/medium: modern digital graphic design, sleek and premium, semi-transparent glass-morphism accents, dark-mode aesthetic\nComposition/framing: wide 16:9 landscape layout, title centered or lower-third anchored, generous negative space at top\nLighting/mood: deep navy-to-black gradient base with electric blue and silver luminous streaks, awe-inspiring and forward-looking\nColor palette: deep navy black + electric blue + metallic silver + subtle gold accent\nMaterials/textures: translucent frosted glass panels, soft light bloom, smooth gradient overlays\nText (verbatim): 标题：\"长安起源Q06\" 副标题：\"9月，即将上市\"\nConstraints: text must be legible against the background; maintain premium automotive brand identity; keep layout clean and uncluttered\nAvoid: cluttered stock-photo backgrounds, generic blue tech grid clichés, watermark, low-contrast text",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "618ff647-b699-463b-ae34-70b161ab8f86",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/f08ea98f-e99c-44ce-9f97-c39ea933e979.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0385,
+        "latency_ms": 58465,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create a marketing poster / PPT cover slide for 长安起源Q06, an automotive launch announcement for September market release.\n\nStyle/medium: photorealistic automotive marketing visual, sleek and bold editorial style with cinematic depth\nComposition: centered title layout, wide-format hero composition, dramatic foreground-to-background depth, text anchored in lower third\nSubject: 长安起源Q06 as the hero vehicle — implied through brand energy and visual language; title \"长安起源Q06\" and subtitle \"9月正式上市\" as primary typographic elements\nScene/backdrop: vast, luminous abstract environment — deep space or atmospheric light tunnel, conveying a sense of breakthrough and arrival; translucent volumetric light rays piercing through a dark gradient background\nLighting/mood: high-contrast volumetric lighting, cool electric blue and silver tones with warm golden accent highlights, powerful and aspirational mood\nColor palette: deep midnight blue and near-black as base, electric blue and cyan as brand accent, gold or amber as highlight for title text, white for subtitle\nText (verbatim): \"长安起源Q06\" as main title, \"9月正式上市\" as subtitle\nConstraints: layout must work as a 16:9 PPT cover; title and subtitle must be legible against the background; brand tone must feel premium and forward-looking\nAvoid: generic stock photo backgrounds, cluttered layout, low-contrast text, cartoon or illustrative style, watermark",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "c678cc3e-c982-4f67-b675-e4145ee45206",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/292f877a-74f9-4790-b97b-1659d66556e6.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0385,
+        "latency_ms": 110253,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为长安起源 Q06 上市发布会生成一张 PPT 封面海报，用于汽车品牌发布主视觉。\n\n风格/介质:汽车品牌发布会级别的数字合成海报，科技感与力量感并重，画面通透震撼，带有高端汽车广告的视觉张力\n构图:横版宽幅构图，中心偏下放置车辆主体，标题文字区域位于画面上方或中央，留出充分的视觉呼吸空间\n主体:长安起源 Q06 SUV 车型正面或四分之三侧前方视角，车身线条硬朗流畅，大灯点亮呈锐利光刃造型，车漆质感细腻\n场景/背景:通透深邃的科技感背景，深蓝至黑色渐变星空或光粒子流动效果，带有隐约的光束与体积光，营造震撼的发布会舞台氛围\n光线/氛围:舞台追光从正前方打亮车头，边缘轮廓光勾勒车身，整体氛围冷峻、磅礴、充满期待感\n色彩搭配:深空蓝黑作为底色，车身银灰或深色为主体，品牌红或冰蓝作为点缀强调色，标题文字用白色或金属白\n文字(原文保留):\"长安起源Q06\" 作为主标题，\"9月，即将上市\" 作为副标题\n约束:文字排版简洁有力，主副标题层级清晰，整体构图适配 16:9 PPT 封面比例\n避免:廉价渐变、杂乱背景元素堆砌、过度特效导致车辆主体模糊、通用汽车广告 cliché（如爆炸火焰、彩虹光晕）、水印",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "e6533d73-46ff-4a63-81d1-2c0f129da79f",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/0ed1e1f3-dd5f-499d-a3f5-fbbc5d551973.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0392,
+        "latency_ms": 67575,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"PPT cover slide design\",\"description\":\"bold title text '长安起源Q06将于9月上市' as headline, with a complementary subtitle below, integrated into a dramatic automotive brand visual\",\"pose\":\"centered typographic layout with title in upper-center or center zone\",\"expression\":\"powerful, premium, forward-looking brand tone\"},\"scene\":{\"location\":\"abstract futuristic space — deep dark background with volumetric light rays and translucent glass-like geometric layers\",\"time_of_day\":\"unspecified, timeless\",\"ambience\":\"awe-inspiring, immersive, crystal-clear depth — 通透震撼\"},\"lighting\":{\"primary\":\"dramatic volumetric god rays from center-top, cool blue-white\",\"secondary\":\"subtle warm amber accent glow at horizon line suggesting automotive launch energy\",\"mood\":\"high contrast, cinematic depth, premium brand atmosphere\"},\"color_grading\":{\"palette\":[\"deep midnight blue\",\"electric cyan\",\"pure white\",\"subtle gold accent\"],\"tone\":\"cool with warm highlight\",\"contrast\":\"high\"},\"composition\":{\"shot_type\":\"full-frame widescreen cover layout\",\"angle\":\"straight-on, slight downward tilt for depth\",\"lens\":\"wide-angle perspective to enhance spatial depth\"},\"style\":{\"medium\":\"digital graphic design / PPT cover illustration\",\"reference\":\"premium automotive brand launch visual — Changan / Genesis / Audi brand aesthetic\",\"texture\":\"smooth glass-like layers, soft bokeh particles, translucent overlapping planes\"},\"constraints\":[\"title text '长安起源Q06将于9月上市' must appear clearly and legibly\",\"layout must follow 16:9 widescreen PPT cover proportion\",\"no humans or car photography — abstract brand visual only\",\"text hierarchy: main title prominent, subtitle smaller below\"],\"negative\":[\"cluttered layout\",\"low contrast text\",\"cartoon style\",\"watermark\",\"lens flare overload\",\"overly busy background that obscures text\"]}",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "d27da24b-00ca-4dc9-ad2c-4b4ff52e6f70",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/71c26888-3eb9-4774-8897-c27d65940328.png"
+        ],
+        "local_paths": [],
+        "cost": 0.039,
+        "latency_ms": 95506,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

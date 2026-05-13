@@ -1,0 +1,61 @@
+{
+  "id": "661c37ca-efb6-47e8-9d2c-f07bd1a1e68e",
+  "ts": 1777207758471,
+  "query": "一个中式摄影女性纪实图像",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F1-long-comma",
+      "format_label": "F1 Long Comma",
+      "final_prompt": {
+        "prompt": "35mm film photography documentary style, authentic Chinese female portrait, candid real-life moment, young to middle-aged Chinese woman with natural unretouched skin texture, subtle fine lines and pores visible, dark straight black hair loosely tied or naturally falling, minimal or no makeup, wearing simple everyday clothing such as a cotton blouse or traditional-inspired casual garment in muted earth tones or faded blues, relaxed natural posture suggesting genuine unposed moment, soft contemplative expression with deep dark eyes carrying quiet resilience and inner life, gentle directional natural window light from one side creating soft shadows and warm skin tones, authentic film grain texture throughout, slightly desaturated color palette with warm amber and cool shadow tones reminiscent of classic Chinese documentary photography, background suggesting everyday Chinese life such as a modest home interior, narrow alleyway, market stall, or rural courtyard, blurred environmental context with subtle cultural details, overcast or diffused natural daylight, mood of quiet dignity, solitude, and everyday beauty, humanistic photography aesthetic inspired by masters like Lu Nan or Fan Shiyuan, honest raw emotional resonance, no glamour retouching, no studio lighting, no over-sharpening, no plastic skin, no watermark, 8K film grain detail, sharp focus on eyes and face",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "7ad46cdf-c66a-4163-99fe-3d3a749e30e9",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/ab0c4a94-1629-4a7e-a9ea-ade3eff22b0c.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0424,
+        "latency_ms": 57766,
+        "error": null
+      },
+      "pm_score": 9,
+      "pm_notes": "",
+      "rated_at": 1777207841803
+    },
+    {
+      "format_id": "F2-cinematic",
+      "format_label": "F2 Cinematic Single",
+      "final_prompt": {
+        "prompt": "Cinematic editorial portrait of a Chinese woman in documentary style, soft natural light, intimate framing, muted earthy tones, quiet dignity.",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "fcc4da62-0362-4111-ba77-a2bcd59567b2",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/818aa6b8-d37a-4b3a-9165-fa746b645b31.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0413,
+        "latency_ms": 67703,
+        "error": null
+      },
+      "pm_score": 5,
+      "pm_notes": "不好看",
+      "rated_at": 1777207843708
+    }
+  ],
+  "winner_format_id": "F1-long-comma",
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "ecdaaba6"
+  }
+}

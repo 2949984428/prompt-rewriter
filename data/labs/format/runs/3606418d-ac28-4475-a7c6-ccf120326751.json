@@ -1,0 +1,197 @@
+{
+  "id": "3606418d-ac28-4475-a7c6-ccf120326751",
+  "ts": 1777260905561,
+  "query": "橘猫守在日落",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F1-long-comma",
+      "format_label": "F1 Long Comma",
+      "final_prompt": {
+        "prompt": "35mm film photography with warm golden hour natural light, cinematic still, medium shot of a fluffy orange tabby cat sitting quietly on a weathered wooden fence or rooftop ledge, silhouetted and partially lit by the setting sun, ultra-realistic fur texture with individual hairs glowing amber and gold in the backlight, calm serene expression with half-closed eyes gazing toward the horizon, tail curled neatly around paws, relaxed composed posture, rim lighting outlining the cat's fur with brilliant warm orange and deep amber tones, soft bokeh background of a breathtaking sunset sky filled with layers of deep orange, crimson, violet, and soft pink clouds, sun low on the horizon casting long warm shadows, golden light spilling across the scene, dust particles visible in the air catching the last rays of sunlight, rich warm color grading with deep shadows and luminous highlights, cinematic film grain, nostalgic atmospheric mood, peaceful solitary feeling, vast open sky, 8K detail, sharp focus on fur and silhouette, photorealistic rendering, no plastic textures, no over-sharpening, no watermark",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "d4ecec22-ca41-46ce-969c-3bb1613bcec1",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/4775bf73-3021-4248-a5fe-a56140bcb5b9.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0423,
+        "latency_ms": 44121,
+        "error": null
+      },
+      "pm_score": 5,
+      "pm_notes": "",
+      "rated_at": 1777261081284
+    },
+    {
+      "format_id": "F2-cinematic",
+      "format_label": "F2 Cinematic Single",
+      "final_prompt": {
+        "prompt": "Cinematic minimal shot of an orange tabby cat silhouetted against a blazing sunset, warm golden backlight, long dramatic shadow, shallow depth.",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "0235b124-90a7-4df6-8f51-c81be03d6979",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/2e0d415f-bcbe-4eb3-9f68-2f4889a7cd73.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0413,
+        "latency_ms": 48153,
+        "error": null
+      },
+      "pm_score": 6,
+      "pm_notes": "",
+      "rated_at": 1777261078554
+    },
+    {
+      "format_id": "F3-paragraph-neg",
+      "format_label": "F3 Paragraph + Neg + AR",
+      "final_prompt": {
+        "prompt": "A photorealistic orange tabby cat sitting quietly on a weathered wooden fence at the edge of a countryside field, bathed in the warm golden light of a setting sun. The sky behind the cat is painted in rich layers of amber, coral, and deep violet, with soft clouds catching the last rays of daylight. The cat's thick fur glows with a fiery orange hue, its eyes half-closed in peaceful contentment as it gazes toward the horizon. Long shadows stretch across the dry grass below, and a gentle breeze seems to ripple through the scene. The silhouette of distant trees frames the composition, adding depth and a sense of solitude. Shot from a slightly low angle to emphasize the cat against the vast, colorful sky. Photorealistic, golden hour lighting, 35mm lens, 8K, high resolution, cinematic color grading, masterpiece.\nNegative Prompts: no deformed limbs, no blurry fur, no overexposed sky, no unnatural colors, no watermark, no text, no extra tails, no plastic texture.\nAspect Ratio: 3:2.",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "1308d80d-deb6-469a-8434-649139bcd332",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/da6b7a64-bd21-4c62-9337-faa0c0f6687e.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0423,
+        "latency_ms": 44108,
+        "error": null
+      },
+      "pm_score": 8,
+      "pm_notes": "",
+      "rated_at": 1777261071054
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Golden hour editorial nature snapshot, a plump orange tabby cat with half-closed amber eyes and relaxed confident posture, thick glossy fur glowing warm amber and copper tones, Elliot Erwitt style intimate animal photography on 35mm film, sitting silhouetted on a hilltop or rooftop ledge facing the horizon with wide symmetrical composition and sky filling upper frame, rich golden and deep orange sunset light casting long warm shadows with soft hazy atmospheric mood.",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "35208e35-cef5-415f-985b-a3cbabe4f91e",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/49f66280-160c-47f7-a644-e51011470667.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0416,
+        "latency_ms": 44084,
+        "error": null
+      },
+      "pm_score": 5,
+      "pm_notes": "",
+      "rated_at": 1777261085304
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"orange tabby cat\",\"description\":\"fluffy short fur, warm amber eyes, relaxed and serene posture\",\"pose\":\"sitting still, facing the horizon, tail curled around paws\",\"expression\":\"calm, contemplative, gazing into the distance\"},\"scene\":{\"location\":\"open hilltop or rooftop edge overlooking the horizon\",\"time_of_day\":\"golden hour sunset\",\"ambience\":\"peaceful, nostalgic, slightly melancholic\"},\"lighting\":{\"primary\":\"warm golden sunlight from low horizon\",\"secondary\":\"soft diffused sky glow in orange and pink\",\"mood\":\"warm, glowing, cinematic\"},\"color_grading\":{\"palette\":[\"deep amber\",\"burnt orange\",\"rose gold\",\"soft lavender shadow\",\"warm white highlight\"],\"tone\":\"warm analog film\",\"contrast\":\"medium-high\"},\"composition\":{\"shot_type\":\"medium silhouette shot\",\"angle\":\"slightly low angle, eye level with cat\",\"lens\":\"85mm prime\"},\"style\":{\"medium\":\"35mm film photography\",\"reference\":\"Studio Ghibli golden hour mood, Miyazaki landscape aesthetics\",\"texture\":\"soft film grain, slight lens flare\"},\"constraints\":[\"cat silhouette clearly defined against sunset sky\",\"no humans in frame\",\"horizon line at lower third\"],\"negative\":[\"overexposed sky\",\"plastic fur texture\",\"deformed anatomy\",\"harsh shadows\",\"watermark\",\"blurry subject\"]}",
+        "size": "1024x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "751f38e6-f468-48f7-a5f1-3039353a2cde",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/fafedc3a-a146-4451-9ff1-43f198feedca.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0426,
+        "latency_ms": 40030,
+        "error": null
+      },
+      "pm_score": 5,
+      "pm_notes": "",
+      "rated_at": 1777261088482
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: photorealistic-natural\nAsset type: atmospheric nature photo, square crop\nPrimary request: an orange tabby cat sitting quietly and watching a sunset\nScene/backdrop: open outdoor setting — grassy hilltop or rooftop ledge — with a vast golden horizon and dramatic sky\nSubject: orange tabby cat, fluffy short fur, silhouetted or softly rim-lit, calm and contemplative posture facing the setting sun\nStyle/medium: 35mm film photography, cinematic golden-hour editorial\nComposition/framing: medium shot from slightly behind and to the side, 50mm lens, shallow depth of field, cat occupying lower-center third\nLighting/mood: warm golden sunset backlight creating a soft rim glow on the cat's fur, long shadows, serene and nostalgic mood\nColor palette: deep amber, burnt orange, soft rose, warm gold, dusky purple horizon\nMaterials/textures: realistic individual fur strands catching backlight, soft bokeh sky gradient\nConstraints: keep the cat as the sole subject; preserve the emotional stillness of the scene; no humans in frame\nAvoid: cartoon style, oversaturated HDR look, deformed cat anatomy, watermark, lens flare overload",
+        "size": "1024x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "272fd3a3-a596-4e3f-8bd9-3c662e731193",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/ca3435bf-a7c3-4dfa-850d-735c1cf13cb7.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0539,
+        "latency_ms": 60047,
+        "error": null
+      },
+      "pm_score": 5,
+      "pm_notes": "",
+      "rated_at": 1777261095926
+    },
+    {
+      "format_id": "F8-cn-task",
+      "format_label": "F8 中文任务式",
+      "final_prompt": {},
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": "LLM 返回不是合法 JSON"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F7-minimal",
+      "format_label": "F7 极简短句",
+      "final_prompt": {
+        "prompt": "橘猫守望日落，暖光剪影，胶片质感",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "01789de7-9b2f-4b2a-8a33-34ae2449d996",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/a8698bd3-6f7f-4204-b0da-48ba2b90b3ae.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0413,
+        "latency_ms": 38575,
+        "error": null
+      },
+      "pm_score": 6,
+      "pm_notes": "",
+      "rated_at": 1777261106006
+    }
+  ],
+  "winner_format_id": "F3-paragraph-neg",
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "ecdaaba6"
+  }
+}

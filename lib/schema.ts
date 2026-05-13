@@ -267,7 +267,11 @@ export type BatchCellStatus = z.infer<typeof BatchCellStatusSchema>;
 // 用 record 而不是数组,因为维度集合是 record 级别配置,cell 级别只关心键值。
 export const BatchCellSchema = z.object({
   query_idx: z.number().int().min(0),
-  skill_id: z.string().min(1),
+  // skill_id:Skill 批量测试台 cell 用;Pipeline 测试台 cell 此字段为空字符串
+  skill_id: z.string().default(""),
+  // 该 cell 的生图模型 name。多 model 改造后是 (query_idx, skill_id|pipeline_id, image_model) 三维元组。
+  // 老 record 没此字段 → default(""),与 BatchRunRecord.image_model(单 model 模式)对齐。
+  image_model: z.string().default(""),
   status: BatchCellStatusSchema,
   final_prompt: FinalPromptSchema.nullable().default(null),
   image_urls: z.array(z.string()).nullable().default(null),
@@ -276,6 +280,12 @@ export const BatchCellSchema = z.object({
   error: z.string().nullable().default(null),
   raw: z.string().default(""),
   ms: z.number().default(0),
+  // 2026-05-13 Phase 2:Pipeline 测试台 cell 字段
+  //   pipeline_id —— 此 cell 跑的 pipeline(Skill cell 此处为空)
+  //   pipeline_outputs —— pipeline 跑完的产物(N 张图 + reviewed prompts + trace + composed_system)
+  //                       结构跟 ExperimentRecord.output 同形,用 z.unknown() 不强约束(后续 schema 演进)
+  pipeline_id: z.string().default(""),
+  pipeline_outputs: z.unknown().nullable().default(null),
 });
 export type BatchCell = z.infer<typeof BatchCellSchema>;
 
@@ -283,8 +293,15 @@ export const BatchQueryModeSchema = z.enum([
   "derive", // LLM 从 purpose 派生 N 个 query
   "manual", // 用户自填 N 行 query
   "repeat", // 用户给 1 个 query,跑 N 次取方差
+  "set",    // 2026-05-13:从题目集导入(题目库 lab 的 set 作为 query 源)
 ]);
 export type BatchQueryMode = z.infer<typeof BatchQueryModeSchema>;
+
+// 2026-05-13 Phase 2:批量测试种类。决定 cell 跑批走哪条 runner 路径。
+//   "skill"    —— 现 Skill 批量测试台(选 skill_ids)
+//   "pipeline" —— 新 Pipeline 测试台(选 pipeline_ids,内部走 pipelineDefinition.run)
+export const BatchTestKindSchema = z.enum(["skill", "pipeline"]);
+export type BatchTestKind = z.infer<typeof BatchTestKindSchema>;
 
 export const BatchRunStatusSchema = z.enum([
   "draft",
@@ -317,7 +334,8 @@ export const BatchRunRecordSchema = z.object({
   purpose: z.string().default(""),
   // 三种模式最终都收敛成 queries[]:不论原始输入,server 端跑的就是这 N 行
   queries: z.array(z.string()).min(1),
-  skill_ids: z.array(z.string()).min(1),
+  // Phase 2:test_kind=pipeline 时 skill_ids 为 [],test_kind=skill 时至少 1 项(校验在 POST route 做)
+  skill_ids: z.array(z.string()).default([]),
   scoring_dimensions: z.array(ScoringDimensionSchema).default([]),
   cells: z.array(BatchCellSchema),
   rewrite_llm: z.string().default(""),
@@ -326,6 +344,30 @@ export const BatchRunRecordSchema = z.object({
   // 默认 true:跟历史行为一致;新建跑批时 PM 可以勾掉验证"无通用规则" 时的输出表现。
   // 旧 record(没有这个字段)被 default(true) 兜底,行为不变。
   include_universal: z.boolean().default(true),
+  // 参考图(base64 data URL 数组)。空 → 文生图;非空 → 所有 cell 走 image-edit(图生图)。
+  // 默认空数组兼容旧 record。上限 4 张,server 端跑批时透传给生图网关。
+  reference_images: z.array(z.string()).default([]),
+  // 2026-05-13 方案 C:per-query 参考图覆盖(set 模式专属,主要服务"题目集每题自带图")。
+  //   长度可以 <= queries.length,索引 i 对应 query[i];越界 / undefined → fallback record.reference_images
+  //   元素 [] → 跟越界等价(没图,走文生图 / 或 fallback record level)
+  //   非空数组 → 该 query 下所有 cell(笛卡尔积里同 query_idx 的 N×M 个 cell)都用这组图
+  // 老 record 没此字段 → default([]) 兜底,跑批时所有 cell 走 record.reference_images。
+  per_query_reference_images: z.array(z.array(z.string())).default([]),
+  // 生图模型 name:""(默认) → 内部 image gateway(env IMAGE_MODEL,默认 gpt-image-2);
+  // "vendor/name" → 走 Lovart Agent。由 lib/image-router 分发。
+  // 老 record 没此字段 → default("") 兜底,行为不变。
+  // 多 model 改造后:此字段保留作"默认 model"语义;实际跑的模型集合见 image_model_ids。
+  image_model: z.string().default(""),
+  // 多 model 模式:跑批选了哪些生图模型。空 [] → 单 model 模式(用 image_model 那一个)。
+  // 非空 → cells 是 (query_idx × skill_id × image_model) 三维笛卡尔积。
+  // 老 record 没此字段 → default([]) 兜底,行为不变(走 image_model 单 model 路径)。
+  image_model_ids: z.array(z.string()).default([]),
+  // 2026-05-13 Phase 2:批量测试种类。
+  //   "skill"(默认,老 record 兼容)→ Skill 批量测试台,cells 用 skill_ids 笛卡尔积
+  //   "pipeline" → Pipeline 测试台,cells 用 pipeline_ids 笛卡尔积
+  test_kind: BatchTestKindSchema.default("skill"),
+  // Pipeline 测试台跑批选的 pipeline 列表。test_kind="pipeline" 时用,"skill" 时为 []。
+  pipeline_ids: z.array(z.string()).default([]),
   // 外部盲评结果(可选,通过导出 → 评分 → 导入流程获得)。
   // 不放在 cell 上是因为 picks 是 query 级别决策(每 query 一个 winner),不是 cell 级别评分。
   external_picks: ExternalPicksSchema.optional(),
@@ -343,6 +385,8 @@ export const BatchRunSummarySchema = z.object({
   n_skills: z.number().int(),
   done_cells: z.number().int(),
   total_cells: z.number().int(),
+  // Phase 2:test_kind(默认 "skill",老 record 兼容)
+  test_kind: BatchTestKindSchema.default("skill"),
 });
 export type BatchRunSummary = z.infer<typeof BatchRunSummarySchema>;
 
@@ -459,3 +503,117 @@ export const FusionRunSummarySchema = z.object({
   attempt_count: z.number().int(),
 });
 export type FusionRunSummary = z.infer<typeof FusionRunSummarySchema>;
+
+// ───────────── Experiment Harness (Phase 3a · ExperimentRecord) ─────────────
+// 把每次 Pipeline 跑批落成"可检索 / 可复跑 / 可对照"的实验单元。
+// 落盘:data/experiments/<id>.json + history-index.json 同步一条瘦索引。
+//
+// 设计原则(改 schema 前必读):
+//   - inputs / config_snapshot / output / trace 这些"结构化大字段"严格存
+//   - inputs.passthrough() 让未来其他 pipeline 的 inputs 字段不破历史
+//   - metadata / tags 用 default({}) / default([]) 兜底,加新字段时旧 record 不报错
+//   - output.step3.generations 用 z.array(z.any()):接 NDJSON 终态原样存,不强约束(各 step 形态可能演进)
+//   - trace 同理 z.array(z.any()),不收编 ctx.trace schema(Phase 1 范围,不在这里定)
+//
+// 落盘前后的约定(walker 注意):
+//   - image_urls[] 必须存 /api/image-file/... 本地缓存路径(image-store 已落盘的路径)
+//     ❌ 不存 R2 直链(7d expire)❌ 不存 base64(会让单 record 涨到 MB 级)
+//   - id 用 crypto.randomUUID(),prefix `exp_`(便于跨 lab id 一眼区分)
+//   - 单 record 写盘前 store 模块会 JSON.stringify 算一次大小,> 5 MB 仅 warn 不拒
+//
+// PATCH 边界:
+//   - 只允许改 tags / metadata,其它字段视为 immutable(api route + store 双重把关)
+//
+// 2026-05-13:实验来源(让 Experiments lab 区分不同测试台产物的渲染方式)
+//   pipeline_lab     —— PipelineLab 单 query 跑批(原 Phase 3a 实现)
+//   batch_skill      —— Skill 批量测试台整个 run(每条 record 对应 1 个 batch run)
+//   batch_pipeline   —— Pipeline 测试台整个 run
+//   format           —— API 测试台一次 query × M skill 跑批
+export const ExperimentSourceKindSchema = z.enum([
+  "pipeline_lab",
+  "batch_skill",
+  "batch_pipeline",
+  "format",
+]);
+export type ExperimentSourceKind = z.infer<typeof ExperimentSourceKindSchema>;
+
+export const ExperimentRecordSchema = z.object({
+  id: z.string(),                              // exp_<uuid>
+  ts: z.number(),                              // 跑批时间戳(ms)
+  pipeline_id: z.string(),                     // "vertical_prompt_rewrite_v1" / batch_run_id / format_run / etc
+  // 2026-05-13:来源标识(老 record 没此字段,default "pipeline_lab" 保持兼容)
+  source: z
+    .object({
+      kind: ExperimentSourceKindSchema,
+      // 来源 run 的 id(batch run uuid / format 跑批 ts 等),让用户能跳回原 lab 看详情
+      run_id: z.string().default(""),
+      // batch / format 跑批的"汇总元信息"(给详情页渲染用),不强 schema(passthrough 接 batch record 简略形态)
+      run_meta: z.unknown().optional(),
+    })
+    .default({ kind: "pipeline_lab", run_id: "" }),
+  inputs: z
+    .object({
+      query: z.string(),
+      function_call_count: z.number().int().min(1).max(8).default(4),
+      // 未来其他 pipeline 的 inputs 字段往这里加(passthrough)
+    })
+    .passthrough(),
+  config_snapshot: z.object({
+    // Phase 2 完成后这里才有意义:跑那一刻 Registry 解出来的版本
+    // 例:{ vertical: "v3", platform: "v1", classification_sp: "v2" }
+    strategy_versions: z.record(z.string(), z.string()).default({}),
+    models: z.object({
+      search: z.string().default(""),
+      review: z.string().default(""),
+      image: z.string().default(""),
+    }),
+  }),
+  // 2026-05-13 改:output 改成 z.any() 接多种 source kind 的不同形态。
+  //   - pipeline_lab / batch_pipeline:{ step1, step2, step3, creation_planner, strategy_pack } 形态
+  //   - batch_skill:{ cells: [{query_idx, skill_id, image_model, final_prompt, image_urls}], queries }
+  //   - format:{ runs: [{ skill_id, final_prompt, query }] }
+  // 详情页按 source.kind 分流渲染
+  output: z.any(),
+  trace: z.array(z.any()).default([]),         // Phase 1 加的 ctx.trace
+  tags: z.array(z.string()).default([]),       // ["case:T1", "iteration:2026-05-12"]
+  metadata: z
+    .object({
+      author: z.string().default(""),
+      replay_of: z.string().optional(),        // 如果是复跑,记原 record id
+      note: z.string().default(""),
+    })
+    .default({ author: "", note: "" }),
+  // 2026-05-13:跑批状态。POST 入口立刻写 "running",跑完改 "finished",
+  // fatal 改 "failed"。老 record 没此字段 → default("finished") 兼容
+  status: z
+    .enum(["running", "finished", "failed"])
+    .default("finished"),
+  // 失败时的错误信息,running / finished 时空
+  error: z.string().optional(),
+});
+export type ExperimentRecord = z.infer<typeof ExperimentRecordSchema>;
+
+// 列表瘦视图:去掉 output / trace 这两个大字段,只留检索 + chip 展示需要的元数据
+export const ExperimentRecordHeadSchema = z.object({
+  id: z.string(),
+  ts: z.number(),
+  pipeline_id: z.string(),
+  query: z.string(),                           // = inputs.query(冗余存一份,索引用)
+  strategy_versions: z.record(z.string(), z.string()).default({}),
+  models: z.object({
+    search: z.string().default(""),
+    review: z.string().default(""),
+    image: z.string().default(""),
+  }),
+  tags: z.array(z.string()).default([]),
+  metadata: z
+    .object({
+      author: z.string().default(""),
+      replay_of: z.string().optional(),
+      note: z.string().default(""),
+    })
+    .default({ author: "", note: "" }),
+  // 2026-05-13:来源 kind(给列表 chip + 跳转用)
+  source_kind: ExperimentSourceKindSchema.default("pipeline_lab"),
+});
+export type ExperimentRecordHead = z.infer<typeof ExperimentRecordHeadSchema>;

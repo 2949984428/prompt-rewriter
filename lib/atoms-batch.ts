@@ -34,8 +34,28 @@ export type BatchProgress = {
 export const batchProgressAtom = atom<BatchProgress | null>(null);
 
 // 评分抽屉:打开时存"哪一格"(query_idx + skill_id),null = 关
-export type BatchActiveCell = { query_idx: number; skill_id: string };
+// 多 model 改造后增加 image_model 维度:同 (query_idx, skill_id) 可能有多 cell。
+// image_model 默认 "" 兼容老 record(单 model 模式时所有 cell.image_model="")。
+export type BatchActiveCell = {
+  query_idx: number;
+  skill_id: string;
+  // Phase 2:Pipeline 测试台 cell 用 pipeline_id 定位(skill_id 此时为空)
+  pipeline_id?: string;
+  image_model?: string;
+};
 export const batchActiveCellAtom = atom<BatchActiveCell | null>(null);
+
+// 多 model 模式下当前矩阵视图聚焦在哪个 model(""/单 model 模式留空)
+export const batchActiveModelAtom = atom<string>("");
+
+// 矩阵横轴:"skill" = 列是 skill / "model" = 列是 model。
+// 默认 "auto":1 skill + 多 model 时自动用 model;其它情况用 skill。
+// 用户在 grid-view 顶部可手动切换。
+export type GridAxisMode = "auto" | "skill" | "model";
+export const batchGridAxisAtom = atom<GridAxisMode>("auto");
+
+// 当横轴是 model 时,tab 切的是 skill;此 atom 记当前选中 skill_id
+export const batchActiveSkillAtom = atom<string>("");
 
 // 新建表单的预填载荷(从 detail-view "复制重跑" 触发):
 //   - 进 create 视图前 set,create-form 启动期消费一次后清掉
@@ -52,6 +72,10 @@ export type BatchCreatePrefill = {
   purpose: string;
   // 是否注入通用规则(从源 record 继承)
   include_universal: boolean;
+  // 参考图(从源 record 继承,base64 data URL)
+  reference_images: string[];
+  // 生图模型(从源 record 继承)
+  image_model: string;
   // 来源 run id,只显示用,不写到新 record
   source_run_id: string;
   source_run_name: string;

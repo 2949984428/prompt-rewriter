@@ -25,17 +25,28 @@ function aspectRatio(size?: FinalPrompt["size"]): number {
 export function BatchCellCard({
   query_idx,
   skill_id,
+  pipeline_id = "",
+  image_model = "",
 }: {
   query_idx: number;
   skill_id: string;
+  // Phase 2:Pipeline 测试台 cell 用 pipeline_id 定位(skill_id 此时为空)
+  pipeline_id?: string;
+  // 多 model 改造后的精确定位字段;空 = 单 model 模式(老 record 兼容)
+  image_model?: string;
 }) {
   const [record, setRecord] = useAtom(currentBatchRunAtom);
   const [, setActive] = useAtom(batchActiveCellAtom);
 
   if (!record) return null;
-  const cell = record.cells.find(
-    (c) => c.query_idx === query_idx && c.skill_id === skill_id
-  );
+  // Pipeline 模式按 pipeline_id 匹配;Skill 模式按 skill_id 匹配
+  const matchCell = (c: typeof record.cells[number]) => {
+    if (c.query_idx !== query_idx) return false;
+    if ((c.image_model ?? "") !== image_model) return false;
+    if (pipeline_id) return (c.pipeline_id ?? "") === pipeline_id;
+    return c.skill_id === skill_id;
+  };
+  const cell = record.cells.find(matchCell);
   if (!cell) return null;
 
   const onRetry = async (e: React.MouseEvent) => {
@@ -44,9 +55,7 @@ export function BatchCellCard({
     // 拉回 running —— 这是触发 detail-view SSE useEffect 重新订阅的关键。
     setRecord((prev) => {
       if (!prev) return prev;
-      const idx = prev.cells.findIndex(
-        (c) => c.query_idx === query_idx && c.skill_id === skill_id
-      );
+      const idx = prev.cells.findIndex(matchCell);
       if (idx < 0) return prev;
       const cells = [...prev.cells];
       cells[idx] = {
@@ -73,7 +82,7 @@ export function BatchCellCard({
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ query_idx, skill_id }),
+          body: JSON.stringify({ query_idx, skill_id, pipeline_id, image_model }),
         }
       );
       if (!r.ok) {
@@ -116,7 +125,7 @@ export function BatchCellCard({
 
   return (
     <button
-      onClick={() => setActive({ query_idx, skill_id })}
+      onClick={() => setActive({ query_idx, skill_id, image_model, pipeline_id })}
       className={`${baseFrame} ${frameClass} w-full text-left`}
       disabled={cell.status === "pending" || cell.status === "running"}
     >
@@ -159,6 +168,37 @@ export function BatchCellCard({
               className="absolute inset-0 h-full w-full object-contain"
             />
           )}
+        {/* 路由 chip:从 image_urls[0] 前缀推真实 provider,跟 cell.image_model 对账。
+           历史 mismatch (老 batch-runner 全走 IGW) 在这里会显眼地暴露 */}
+        {(cell.status === "done" || cell.status === "excluded") &&
+          cell.image_urls?.[0] && (() => {
+            const url = cell.image_urls[0];
+            const isLovart = url.includes("lovart%3A") || url.includes("lovart:");
+            const isIgw = url.includes("igw%3A") || url.includes("igw:");
+            const provider = isLovart ? "lovart" : isIgw ? "igw" : null;
+            if (!provider) return null;
+            const expectedProvider = cell.image_model.includes("/") ? "lovart" : "igw";
+            const mismatch = provider !== expectedProvider;
+            const label = provider === "lovart" ? "Lovart" : "IGW";
+            const tone = mismatch
+              ? "bg-error-crimson/90 text-ivory"
+              : provider === "lovart"
+                ? "bg-coral-soft-bg/95 text-terracotta"
+                : "bg-warm-sand/95 text-charcoal-warm";
+            return (
+              <span
+                title={
+                  mismatch
+                    ? `路由错位!cell.image_model=${cell.image_model || "(空)"},但实际跑了 ${label}`
+                    : `生图由 ${label} 出图`
+                }
+                className={`absolute right-1 top-1 z-[1] rounded-sm px-1.5 py-0.5 font-mono text-[10px] font-medium ${tone}`}
+              >
+                {mismatch ? "⚠ " : ""}
+                {label}
+              </span>
+            );
+          })()}
       </div>
 
       {/* 底栏:scores 摘要 + 操作 */}

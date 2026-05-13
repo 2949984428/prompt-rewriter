@@ -1,0 +1,547 @@
+{
+  "id": "469947dd-847c-47dc-8c9a-f877218c59b9",
+  "created_at": "2026-04-27T08:58:33.458Z",
+  "name": "电商视觉横屏",
+  "query_mode": "derive",
+  "purpose": "skill在电商主视觉(美妆／数码/服饰)场景下哪个最稳",
+  "queries": [
+    "生成一张高端美妆品牌的电商主视觉图，展示一瓶精华液悬浮在粉色花瓣与水滴之间，背景是柔和的渐变粉紫色，整体氛围奢华梦幻，适合天猫首页Banner",
+    "制作一张数码产品电商主图，MacBook Pro置于极简白色大理石桌面上，屏幕显示创意软件界面，旁边摆放着无线耳机和咖啡杯，自然光从左窗洒入，干净利落的科技美学风格",
+    "设计一张秋冬服饰电商主视觉，模特身穿驼色羊毛大衣走在落叶铺满的街道上，暖色调夕阳逆光拍摄，营造温暖高级的氛围感，适合品牌旗舰店首屏展示",
+    "创作一张护肤套装电商主图，产品整齐排列在磨砂玻璃台面上，背景是朦胧的绿植与晨雾，采用柔光箱打光，突出产品质感与天然成分概念",
+    "生成一张游戏手机电商主视觉，手机以45度角悬浮展示RGB灯效，背景是赛博朋克风格的霓虹城市夜景，充满速度感与科技张力，适合京东数码频道",
+    "制作一张夏季女装电商主图，白色连衣裙在海边微风中飘动，蓝天碧海为背景，采用明亮清新的日系胶片色调，传递度假休闲的轻松感",
+    "设计一张高端香水电商主视觉，香水瓶置于黑色丝绒布上，一束聚光灯从顶部打下来形成戏剧性光影，周围散落着金色闪粉，营造神秘奢华的暗夜氛围",
+    "创作一张智能手表电商主图，产品佩戴在运动场景中的手腕上，背景是模糊的健身房环境，动态模糊效果表现活力，配合冷色调科技感打光"
+  ],
+  "skill_ids": [
+    "F5-labeled-spec",
+    "F10-brief-and-fields-en",
+    "F9-brief-and-fields"
+  ],
+  "scoring_dimensions": [
+    {
+      "id": "overall",
+      "label": "总体观感",
+      "description": ""
+    },
+    {
+      "id": "intent",
+      "label": "意图还原度",
+      "description": "prompt 是否抓住了用户原意"
+    }
+  ],
+  "cells": [
+    {
+      "query_idx": 0,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: e-commerce hero banner for Tmall homepage\nPrimary request: luxury serum bottle floating among pink petals and water droplets\nScene/backdrop: soft gradient pink-to-purple background, dreamy ethereal atmosphere\nSubject: premium glass serum bottle with gold cap, elegant minimalist design, suspended in mid-air\nStyle/medium: high-end commercial photography with 3D rendering aesthetic\nComposition/framing: centered hero shot, ample negative space for text overlay, wide banner format\nLighting/mood: soft diffused studio lighting, glowing highlights on glass and droplets, luxurious and dreamy mood\nColor palette: soft pink, lavender purple, rose gold accents, pearlescent whites\nMaterials/textures: transparent glass with liquid refraction, silky smooth petals, crystal-clear water droplets with caustic light effects\nConstraints: maintain luxury brand aesthetic suitable for premium beauty campaign, keep bottle as clear focal point\nAvoid: harsh shadows, cluttered composition, plastic-looking materials, watermark, text overlay",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/dfdc6c63-a9ff-4437-ae6b-916bd24de035/0.png"
+      ],
+      "scores": {
+        "overall": 4,
+        "intent": 4
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero banner for Tmall homepage\\nPrimary request: luxury serum bottle floating among pink petals and water droplets\\nScene/backdrop: soft gradient pink-to-purple background, dreamy ethereal atmosphere\\nSubject: premium glass serum bottle with gold cap, elegant minimalist design, suspended in mid-air\\nStyle/medium: high-end commercial photography with 3D rendering aesthetic\\nComposition/framing: centered hero shot, ample negative space for text overlay, wide banner format\\nLighting/mood: soft diffused studio lighting, glowing highlights on glass and droplets, luxurious and dreamy mood\\nColor palette: soft pink, lavender purple, rose gold accents, pearlescent whites\\nMaterials/textures: transparent glass with liquid refraction, silky smooth petals, crystal-clear water droplets with caustic light effects\\nConstraints: maintain luxury brand aesthetic suitable for premium beauty campaign, keep bottle as clear focal point\\nAvoid: harsh shadows, cluttered composition, plastic-looking materials, watermark, text overlay\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14816
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original product shot for a premium skincare serum, suitable for Tmall homepage banner use.\n\nStyle/medium: high-end beauty product photography, editorial cosmetic campaign aesthetic, photorealistic\nComposition: centered floating serum bottle, macro product shot with surrounding elements, shallow depth of field\nSubject: glass serum bottle with dropper cap, elegant minimalist packaging, suspended mid-air\nScene/backdrop: soft gradient background transitioning from blush pink to lavender purple, floating pink petals and water droplets scattered around the bottle\nLighting/mood: soft diffused studio lighting, gentle rim light on bottle edges, ethereal and luxurious atmosphere\nColor palette: blush pink as primary, lavender purple as secondary, clear water droplets as accent, rose gold or silver packaging highlights\nMaterials/textures: smooth glass bottle surface with subtle reflections, delicate silk-like petals, crystal-clear water droplets with caustics\nConstraints: must read clearly at banner scale (Tmall homepage), product must remain focal point, text-safe area on left or right third\nAvoid: harsh shadows, cluttered composition, plastic-looking textures, over-saturated colors, generic stock photo aesthetic, watermark",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/a8d5bee0-413d-4b92-8d01-5bd4abef1bd4/0.png"
+      ],
+      "scores": {
+        "overall": 4.5,
+        "intent": 4.5
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original product shot for a premium skincare serum, suitable for Tmall homepage banner use.\\n\\nStyle/medium: high-end beauty product photography, editorial cosmetic campaign aesthetic, photorealistic\\nComposition: centered floating serum bottle, macro product shot with surrounding elements, shallow depth of field\\nSubject: glass serum bottle with dropper cap, elegant minimalist packaging, suspended mid-air\\nScene/backdrop: soft gradient background transitioning from blush pink to lavender purple, floating pink petals and water droplets scattered around the bottle\\nLighting/mood: soft diffused studio lighting, gentle rim light on bottle edges, ethereal and luxurious atmosphere\\nColor palette: blush pink as primary, lavender purple as secondary, clear water droplets as accent, rose gold or silver packaging highlights\\nMaterials/textures: smooth glass bottle surface with subtle reflections, delicate silk-like petals, crystal-clear water droplets with caustics\\nConstraints: must read clearly at banner scale (Tmall homepage), product must remain focal point, text-safe area on left or right third\\nAvoid: harsh shadows, cluttered composition, plastic-looking textures, over-saturated colors, generic stock photo aesthetic, watermark\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 14806
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为高端美妆品牌生成一张电商主视觉图，用于天猫首页Banner。\n\n风格/介质:高端产品摄影，奢华美妆广告风格，类似Chanel或Dior美妆大片的精致感\n构图:居中构图，精华液悬浮于画面中心，花瓣与水滴环绕四周，浅景深突出主体\n主体:一瓶精华液，瓶身通透玻璃质感，金色或银色瓶盖，液体呈淡金色或透明，瓶身带有品牌字标\n场景/背景:柔和的渐变粉紫色背景，从浅粉过渡到薰衣草紫，无具体环境元素，纯氛围背景\n光线/氛围:柔光箱漫射光，高光点在瓶身形成优雅反光，整体光感通透梦幻，无硬阴影\n色彩搭配:粉紫色渐变做底色，精华液瓶身做视觉焦点，花瓣的淡粉与水滴的透明折射形成点缀\n材质/纹理:玻璃折射与反射，液体通透感，花瓣的丝绒质感，水滴的表面张力与折射\n约束:画面需适配Banner横版裁切，主体居中，四周留白充足，文字区域预留\n避免:过度锐化、塑料廉价感、花瓣过于密集遮挡主体、背景渐变出现色带、水印",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/7defebd2-8b7e-4d37-ab40-201e444b69e8/0.png"
+      ],
+      "scores": {
+        "overall": 3,
+        "intent": 3
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为高端美妆品牌生成一张电商主视觉图，用于天猫首页Banner。\\n\\n风格/介质:高端产品摄影，奢华美妆广告风格，类似Chanel或Dior美妆大片的精致感\\n构图:居中构图，精华液悬浮于画面中心，花瓣与水滴环绕四周，浅景深突出主体\\n主体:一瓶精华液，瓶身通透玻璃质感，金色或银色瓶盖，液体呈淡金色或透明，瓶身带有品牌字标\\n场景/背景:柔和的渐变粉紫色背景，从浅粉过渡到薰衣草紫，无具体环境元素，纯氛围背景\\n光线/氛围:柔光箱漫射光，高光点在瓶身形成优雅反光，整体光感通透梦幻，无硬阴影\\n色彩搭配:粉紫色渐变做底色，精华液瓶身做视觉焦点，花瓣的淡粉与水滴的透明折射形成点缀\\n材质/纹理:玻璃折射与反射，液体通透感，花瓣的丝绒质感，水滴的表面张力与折射\\n约束:画面需适配Banner横版裁切，主体居中，四周留白充足，文字区域预留\\n避免:过度锐化、塑料廉价感、花瓣过于密集遮挡主体、背景渐变出现色带、水印\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 17014
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: e-commerce hero image, square crop\nPrimary request: MacBook Pro on minimalist white marble desk with creative software on screen, wireless earbuds and coffee cup nearby\nScene/backdrop: clean studio desk setup, pure white marble surface, subtle window reflection\nSubject: MacBook Pro laptop with screen showing creative software interface, sleek wireless earbuds case, ceramic coffee cup with latte art\nStyle/medium: product photography, tech aesthetic, editorial commercial\nComposition/framing: top-down angled shot, wide composition showing full desk arrangement, soft depth of field\nLighting/mood: natural soft light from left window, bright and airy, clean shadows\nColor palette: pure white marble, silver MacBook, warm wood accents, neutral cream coffee tones\nMaterials/textures: polished marble veins, brushed aluminum laptop, matte ceramic cup, glossy earbud case\nConstraints: keep MacBook Pro as central hero product, maintain clean uncluttered composition\nAvoid: cluttered background, harsh artificial lighting, color cast, fingerprints on screen",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "https://assets-persist.lovart.ai/agent_images/8f946857-3138-4ff0-ae6b-551792792d38.png"
+      ],
+      "scores": {
+        "overall": 0
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero image, square crop\\nPrimary request: MacBook Pro on minimalist white marble desk with creative software on screen, wireless earbuds and coffee cup nearby\\nScene/backdrop: clean studio desk setup, pure white marble surface, subtle window reflection\\nSubject: MacBook Pro laptop with screen showing creative software interface, sleek wireless earbuds case, ceramic coffee cup with latte art\\nStyle/medium: product photography, tech aesthetic, editorial commercial\\nComposition/framing: top-down angled shot, wide composition showing full desk arrangement, soft depth of field\\nLighting/mood: natural soft light from left window, bright and airy, clean shadows\\nColor palette: pure white marble, silver MacBook, warm wood accents, neutral cream coffee tones\\nMaterials/textures: polished marble veins, brushed aluminum laptop, matte ceramic cup, glossy earbud case\\nConstraints: keep MacBook Pro as central hero product, maintain clean uncluttered composition\\nAvoid: cluttered background, harsh artificial lighting, color cast, fingerprints on screen\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 19869
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing product shot for a MacBook Pro e-commerce hero image.\n\nStyle/medium: photorealistic product photography, clean tech aesthetic, Apple-style product imagery\nComposition: eye-level product shot, centered MacBook Pro at slight angle, 50mm equivalent lens, shallow depth of field\nSubject: MacBook Pro with screen displaying creative software interface, wireless earbuds case and ceramic coffee cup placed beside\nScene/backdrop: minimal white marble desk surface, soft window light from left, clean uncluttered environment\nLighting/mood: natural daylight streaming from left window, soft diffused light, bright and airy atmosphere\nColor palette: neutral white and gray base, warm wood or metal accents from accessories, screen glow as subtle highlight\nMaterials/textures: smooth cold-pressed marble with subtle veining, brushed aluminum laptop finish, matte ceramic cup, soft fabric or plastic earbud case\nAvoid: cluttered background, harsh shadows, oversaturated colors, watermark, generic stock photo look, 8K stuffer words",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ecf2f970-fdf7-40b4-9297-0fefc4a70b72/0.png"
+      ],
+      "scores": {
+        "overall": 4.5,
+        "intent": 4.5
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing product shot for a MacBook Pro e-commerce hero image.\\n\\nStyle/medium: photorealistic product photography, clean tech aesthetic, Apple-style product imagery\\nComposition: eye-level product shot, centered MacBook Pro at slight angle, 50mm equivalent lens, shallow depth of field\\nSubject: MacBook Pro with screen displaying creative software interface, wireless earbuds case and ceramic coffee cup placed beside\\nScene/backdrop: minimal white marble desk surface, soft window light from left, clean uncluttered environment\\nLighting/mood: natural daylight streaming from left window, soft diffused light, bright and airy atmosphere\\nColor palette: neutral white and gray base, warm wood or metal accents from accessories, screen glow as subtle highlight\\nMaterials/textures: smooth cold-pressed marble with subtle veining, brushed aluminum laptop finish, matte ceramic cup, soft fabric or plastic earbud case\\nAvoid: cluttered background, harsh shadows, oversaturated colors, watermark, generic stock photo look, 8K stuffer words\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 22447
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为 MacBook Pro 生成一张数码产品电商主图，场景是极简白色大理石桌面。\n\n风格/介质:产品摄影，干净利落科技美学，Apple 官网式极简主义，高完成度商业主图\n构图:平视略俯角度，镜头 50mm，主体 MacBook Pro 置于画面黄金分割点，耳机与咖啡杯呈三角形构图点缀\n主体:MacBook Pro 笔记本电脑，屏幕亮着显示创意软件界面，铝合金机身光泽细腻\n场景/背景:极简白色大理石桌面，背景留白或极浅灰色纯色，无杂物干扰\n光线/氛围:自然光从左窗柔和洒入，侧光打出产品轮廓光，阴影柔和过渡，干净通透\n色彩搭配:白色大理石为底色，MacBook 银灰金属色为主角，屏幕界面色彩点缀，整体克制不跳\n材质/纹理:大理石细腻纹理与微反光，MacBook 阳极氧化铝磨砂质感，咖啡杯陶瓷哑光\n避免:杂乱背景、过强硬阴影、塑料感、廉价电商水印、过度后期锐化、暖黄偏色",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/1ca0b8f4-8606-47a9-8cc4-b9e9d069ffbd/0.png"
+      ],
+      "scores": {
+        "overall": 3.5,
+        "intent": 3.5
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"为 MacBook Pro 生成一张数码产品电商主图，场景是极简白色大理石桌面。\\n\\n风格/介质:产品摄影，干净利落科技美学，Apple 官网式极简主义，高完成度商业主图\\n构图:平视略俯角度，镜头 50mm，主体 MacBook Pro 置于画面黄金分割点，耳机与咖啡杯呈三角形构图点缀\\n主体:MacBook Pro 笔记本电脑，屏幕亮着显示创意软件界面，铝合金机身光泽细腻\\n场景/背景:极简白色大理石桌面，背景留白或极浅灰色纯色，无杂物干扰\\n光线/氛围:自然光从左窗柔和洒入，侧光打出产品轮廓光，阴影柔和过渡，干净通透\\n色彩搭配:白色大理石为底色，MacBook 银灰金属色为主角，屏幕界面色彩点缀，整体克制不跳\\n材质/纹理:大理石细腻纹理与微反光，MacBook 阳极氧化铝磨砂质感，咖啡杯陶瓷哑光\\n避免:杂乱背景、过强硬阴影、塑料感、廉价电商水印、过度后期锐化、暖黄偏色\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 26381
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: e-commerce hero banner, brand flagship store homepage\nPrimary request: fashion editorial shot of a model in a camel wool coat walking on a leaf-covered street at sunset\nScene/backdrop: autumn street covered with fallen golden and brown leaves, soft bokeh city background\nSubject: elegant model wearing oversized camel wool coat, relaxed confident stride, hair gently blown by breeze\nStyle/medium: fashion photography, editorial campaign aesthetic\nComposition/framing: medium full-body shot, walking pose with natural movement, 85mm portrait lens\nLighting/mood: warm golden hour backlight, soft rim light on silhouette, cozy and sophisticated atmosphere\nColor palette: warm camel, burnt orange, golden yellow, soft cream, muted browns\nMaterials/textures: thick woven wool texture, crisp fallen leaves, soft natural fabric drape\nConstraints: maintain warm premium brand feel suitable for luxury autumn/winter collection\nAvoid: harsh flash, cold blue tones, cluttered background, plastic-looking fabric, oversaturated colors",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/4bf5c658-0887-4eed-afff-567d4e0045b6/0.png"
+      ],
+      "scores": {
+        "overall": 4.5,
+        "intent": 4.5
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero banner, brand flagship store homepage\\nPrimary request: fashion editorial shot of a model in a camel wool coat walking on a leaf-covered street at sunset\\nScene/backdrop: autumn street covered with fallen golden and brown leaves, soft bokeh city background\\nSubject: elegant model wearing oversized camel wool coat, relaxed confident stride, hair gently blown by breeze\\nStyle/medium: fashion photography, editorial campaign aesthetic\\nComposition/framing: medium full-body shot, walking pose with natural movement, 85mm portrait lens\\nLighting/mood: warm golden hour backlight, soft rim light on silhouette, cozy and sophisticated atmosphere\\nColor palette: warm camel, burnt orange, golden yellow, soft cream, muted browns\\nMaterials/textures: thick woven wool texture, crisp fallen leaves, soft natural fabric drape\\nConstraints: maintain warm premium brand feel suitable for luxury autumn/winter collection\\nAvoid: harsh flash, cold blue tones, cluttered background, plastic-looking fabric, oversaturated colors\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 24987
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial photo for an autumn/winter fashion e-commerce hero banner, featuring a model in a camel wool coat.\n\nStyle/medium: fashion editorial photography, premium brand campaign aesthetic\nComposition: full-body shot with model walking toward camera, slight low angle, medium telephoto lens for flattering proportions\nSubject: model wearing camel-colored wool overcoat, relaxed confident stride, natural movement in fabric\nScene/backdrop: urban street covered with fallen autumn leaves, late afternoon setting\nLighting/mood: warm golden hour backlight, sun flare from behind, soft rim light on coat edges, cozy and elevated atmosphere\nColor palette: warm amber and honey tones as base, camel coat as anchor, golden highlights, muted browns and oranges from leaves\nMaterials/textures: visible wool texture with natural weave, crisp fallen leaves with dry edges, soft bokeh in background\nAvoid: oversaturated colors, harsh flash, plastic-looking fabric, generic stock photo feel, watermark, text overlay",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/91fff54f-a290-49f3-90ae-284bc7f5d4e3/0.png"
+      ],
+      "scores": {
+        "intent": 4.5,
+        "overall": 4
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an editorial photo for an autumn/winter fashion e-commerce hero banner, featuring a model in a camel wool coat.\\n\\nStyle/medium: fashion editorial photography, premium brand campaign aesthetic\\nComposition: full-body shot with model walking toward camera, slight low angle, medium telephoto lens for flattering proportions\\nSubject: model wearing camel-colored wool overcoat, relaxed confident stride, natural movement in fabric\\nScene/backdrop: urban street covered with fallen autumn leaves, late afternoon setting\\nLighting/mood: warm golden hour backlight, sun flare from behind, soft rim light on coat edges, cozy and elevated atmosphere\\nColor palette: warm amber and honey tones as base, camel coat as anchor, golden highlights, muted browns and oranges from leaves\\nMaterials/textures: visible wool texture with natural weave, crisp fallen leaves with dry edges, soft bokeh in background\\nAvoid: oversaturated colors, harsh flash, plastic-looking fabric, generic stock photo feel, watermark, text overlay\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 14084
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为秋冬服饰品牌生成一张电商主视觉，用于旗舰店首屏展示。\n\n风格/介质:高端时尚编辑摄影，参考《Harper's Bazaar》秋冬大片质感，温暖高级的商业氛围\n构图:中景全身人像，镜头与模特视线齐平略低，85mm 定焦，浅景深虚化背景街道\n主体:亚洲女性模特，身穿驼色羊毛大衣，衣摆随步伐自然摆动，姿态从容自信，侧脸轮廓柔和\n场景/背景:秋季城市街道，地面铺满金黄落叶，远处模糊的欧式建筑与行道树\n光线/氛围:夕阳逆光拍摄，暖橙色侧逆光勾勒人物轮廓，形成柔和光晕，氛围温暖而高级\n色彩搭配:驼色大衣作为主色调，金黄落叶与暖橙夕阳形成同色系渐变，深棕与米白做层次过渡\n材质/纹理:羊毛大衣的自然毛流感与垂坠感，干燥落叶的脆薄质感，夕阳下的柔和光晕\n避免:过度锐化、塑料感面料、廉价滤镜感、模特表情僵硬、背景杂乱分散注意力、冷色调干扰",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "https://assets-persist.lovart.ai/agent_images/ad3dbe5a-de9f-4252-b4f2-d108c2ea0713.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"为秋冬服饰品牌生成一张电商主视觉，用于旗舰店首屏展示。\\n\\n风格/介质:高端时尚编辑摄影，参考《Harper's Bazaar》秋冬大片质感，温暖高级的商业氛围\\n构图:中景全身人像，镜头与模特视线齐平略低，85mm 定焦，浅景深虚化背景街道\\n主体:亚洲女性模特，身穿驼色羊毛大衣，衣摆随步伐自然摆动，姿态从容自信，侧脸轮廓柔和\\n场景/背景:秋季城市街道，地面铺满金黄落叶，远处模糊的欧式建筑与行道树\\n光线/氛围:夕阳逆光拍摄，暖橙色侧逆光勾勒人物轮廓，形成柔和光晕，氛围温暖而高级\\n色彩搭配:驼色大衣作为主色调，金黄落叶与暖橙夕阳形成同色系渐变，深棕与米白做层次过渡\\n材质/纹理:羊毛大衣的自然毛流感与垂坠感，干燥落叶的脆薄质感，夕阳下的柔和光晕\\n避免:过度锐化、塑料感面料、廉价滤镜感、模特表情僵硬、背景杂乱分散注意力、冷色调干扰\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 22131
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: e-commerce hero image, square crop\nPrimary request: skincare set product shot with natural ingredients concept, emphasizing texture and premium quality\nScene/backdrop: frosted glass tabletop, soft-focus green plants and morning mist in background\nSubject: skincare set products arranged neatly in a row, minimalist packaging, clean lines\nStyle/medium: commercial product photography, high-end cosmetic advertising\nComposition/framing: eye-level straight-on shot, centered arrangement, shallow depth of field\nLighting/mood: softbox lighting, soft diffused light, gentle shadows, serene and natural atmosphere\nColor palette: muted greens, soft whites, translucent glass tones, natural skin tones\nMaterials/textures: frosted glass surface with subtle reflections, matte product packaging, delicate mist texture\nConstraints: keep products as focal point with visible branding area, maintain clean and premium aesthetic\nAvoid: harsh shadows, oversaturated colors, cluttered background, plastic-looking materials, watermark",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/1e5fc149-bcc6-4aa5-b7e7-6836e60ccebd/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero image, square crop\\nPrimary request: skincare set product shot with natural ingredients concept, emphasizing texture and premium quality\\nScene/backdrop: frosted glass tabletop, soft-focus green plants and morning mist in background\\nSubject: skincare set products arranged neatly in a row, minimalist packaging, clean lines\\nStyle/medium: commercial product photography, high-end cosmetic advertising\\nComposition/framing: eye-level straight-on shot, centered arrangement, shallow depth of field\\nLighting/mood: softbox lighting, soft diffused light, gentle shadows, serene and natural atmosphere\\nColor palette: muted greens, soft whites, translucent glass tones, natural skin tones\\nMaterials/textures: frosted glass surface with subtle reflections, matte product packaging, delicate mist texture\\nConstraints: keep products as focal point with visible branding area, maintain clean and premium aesthetic\\nAvoid: harsh shadows, oversaturated colors, cluttered background, plastic-looking materials, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 20367
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing product shot for a skincare set e-commerce hero image.\n\nStyle/medium: commercial product photography, clean beauty aesthetic, photorealistic\nComposition: eye-level straight-on shot, products arranged in orderly alignment on surface, medium aperture for sharp product focus with soft background falloff\nSubject: skincare set (bottles, jars, tubes) with elegant minimalist packaging, clean lines, premium finishes\nScene/backdrop: frosted glass surface as base, soft-focus green foliage behind hazy morning mist, shallow depth of field\nLighting/mood: softbox diffused lighting from 45-degree angle, gentle highlights on product surfaces, no harsh shadows, calm and fresh morning atmosphere\nColor palette: muted greens from foliage, soft whites and creams from products, frosted glass translucency, natural earth tones\nMaterials/textures: frosted glass matte surface with subtle light diffusion, smooth skincare packaging, delicate mist particles, soft leaf textures in background\nAvoid: harsh shadows, over-saturated colors, cluttered composition, plastic-looking textures, watermark, 8K stuffer aesthetic",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/2357ae27-61d3-420b-a71d-26a31abc3c21/0.png"
+      ],
+      "scores": {
+        "overall": 4.5,
+        "intent": 4
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing product shot for a skincare set e-commerce hero image.\\n\\nStyle/medium: commercial product photography, clean beauty aesthetic, photorealistic\\nComposition: eye-level straight-on shot, products arranged in orderly alignment on surface, medium aperture for sharp product focus with soft background falloff\\nSubject: skincare set (bottles, jars, tubes) with elegant minimalist packaging, clean lines, premium finishes\\nScene/backdrop: frosted glass surface as base, soft-focus green foliage behind hazy morning mist, shallow depth of field\\nLighting/mood: softbox diffused lighting from 45-degree angle, gentle highlights on product surfaces, no harsh shadows, calm and fresh morning atmosphere\\nColor palette: muted greens from foliage, soft whites and creams from products, frosted glass translucency, natural earth tones\\nMaterials/textures: frosted glass matte surface with subtle light diffusion, smooth skincare packaging, delicate mist particles, soft leaf textures in background\\nAvoid: harsh shadows, over-saturated colors, cluttered composition, plastic-looking textures, watermark, 8K stuffer aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 23793
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为护肤套装生成一张电商主图，用于电商平台产品展示。\n\n风格/介质:商业产品摄影，电商主图风格，干净通透，突出产品质感与天然成分概念\n构图:俯视微仰角度，产品整齐排列于画面中央，中等景深确保全套产品清晰\n主体:护肤套装（瓶罐组合），瓶身设计简约现代，标签清晰，液体或膏体色泽自然\n场景/背景:磨砂玻璃台面作为承托面，背景是朦胧的绿植与晨雾，营造天然有机氛围\n光线/氛围:柔光箱打光，漫射光均匀包裹产品，无硬阴影，整体明亮通透\n色彩搭配:自然绿色系与雾白色为主调，产品包装色作为视觉焦点\n材质/纹理:磨砂玻璃的细腻颗粒感，绿植叶片的自然纹理，产品瓶身的光滑质感\n避免:过度锐化、塑料廉价感、背景杂乱、色偏严重、水印、生硬的合成痕迹",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/1276850e-721a-4e0a-a8f4-aba9973ccde3/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"为护肤套装生成一张电商主图，用于电商平台产品展示。\\n\\n风格/介质:商业产品摄影，电商主图风格，干净通透，突出产品质感与天然成分概念\\n构图:俯视微仰角度，产品整齐排列于画面中央，中等景深确保全套产品清晰\\n主体:护肤套装（瓶罐组合），瓶身设计简约现代，标签清晰，液体或膏体色泽自然\\n场景/背景:磨砂玻璃台面作为承托面，背景是朦胧的绿植与晨雾，营造天然有机氛围\\n光线/氛围:柔光箱打光，漫射光均匀包裹产品，无硬阴影，整体明亮通透\\n色彩搭配:自然绿色系与雾白色为主调，产品包装色作为视觉焦点\\n材质/纹理:磨砂玻璃的细腻颗粒感，绿植叶片的自然纹理，产品瓶身的光滑质感\\n避免:过度锐化、塑料廉价感、背景杂乱、色偏严重、水印、生硬的合成痕迹\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9668
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: e-commerce hero banner, JD Digital channel\nPrimary request: gaming smartphone floating at 45-degree angle with dynamic RGB lighting effects\nScene/backdrop: cyberpunk neon cityscape at night, towering skyscrapers with holographic ads, rain-slicked streets, dense urban sprawl\nSubject: sleek gaming smartphone with aggressive angular design, illuminated RGB strips along edges, reflective glass back panel, screen showing game UI\nStyle/medium: 3D product render with photorealistic materials, cinematic cyberpunk aesthetic\nComposition/framing: dynamic 45-degree floating angle, wide hero shot, shallow depth of field with bokeh city lights\nLighting/mood: dramatic neon lighting with cyan and magenta glow, volumetric fog, high contrast, energetic and futuristic mood\nColor palette: electric cyan + hot magenta + deep purple + neon orange accents against dark blue night sky\nMaterials/textures: brushed metal frame, glossy RGB strips, matte glass back, rain droplets, wet asphalt reflections\nConstraints: phone must be the clear focal point, RGB lighting must be visible and vibrant, maintain 45-degree angle\nAvoid: flat lighting, plastic-looking materials, cluttered composition, washed-out colors, watermark",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/77291e3d-1327-4925-a89f-3b6aaff022cd/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero banner, JD Digital channel\\nPrimary request: gaming smartphone floating at 45-degree angle with dynamic RGB lighting effects\\nScene/backdrop: cyberpunk neon cityscape at night, towering skyscrapers with holographic ads, rain-slicked streets, dense urban sprawl\\nSubject: sleek gaming smartphone with aggressive angular design, illuminated RGB strips along edges, reflective glass back panel, screen showing game UI\\nStyle/medium: 3D product render with photorealistic materials, cinematic cyberpunk aesthetic\\nComposition/framing: dynamic 45-degree floating angle, wide hero shot, shallow depth of field with bokeh city lights\\nLighting/mood: dramatic neon lighting with cyan and magenta glow, volumetric fog, high contrast, energetic and futuristic mood\\nColor palette: electric cyan + hot magenta + deep purple + neon orange accents against dark blue night sky\\nMaterials/textures: brushed metal frame, glossy RGB strips, matte glass back, rain droplets, wet asphalt reflections\\nConstraints: phone must be the clear focal point, RGB lighting must be visible and vibrant, maintain 45-degree angle\\nAvoid: flat lighting, plastic-looking materials, cluttered composition, washed-out colors, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 10834
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original marketing hero image for a gaming smartphone e-commerce campaign on JD.com digital channel.\n\nStyle/medium: photorealistic product photography with cyberpunk aesthetic, gaming hardware editorial in the spirit of Razer product launches\nComposition: 45-degree floating angle, dynamic three-quarter view showing front and side, wide-angle lens with slight perspective distortion for speed sensation\nSubject: gaming smartphone with aggressive angular design, visible RGB lighting strips along edges, reflective glass back panel, screen displaying game UI\nScene/backdrop: cyberpunk neon cityscape at night, blurred skyscrapers with holographic billboards, light trails suggesting motion, atmospheric haze\nLighting/mood: dramatic rim lighting from below with cyan and magenta neon glow, high contrast, futuristic and energetic mood\nColor palette: deep black base, electric cyan and hot magenta as primary accents, subtle purple gradients, white highlights\nMaterials/textures: brushed aluminum frame, glossy tempered glass, matte rubberized grip zones, visible heat dissipation vents\nAvoid: generic stock phone renders, washed-out colors, cluttered background, 8K stuffer text, plastic-looking materials, static flat presentation",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/48c7758a-4421-48b2-bb8b-35b55da29460/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original marketing hero image for a gaming smartphone e-commerce campaign on JD.com digital channel.\\n\\nStyle/medium: photorealistic product photography with cyberpunk aesthetic, gaming hardware editorial in the spirit of Razer product launches\\nComposition: 45-degree floating angle, dynamic three-quarter view showing front and side, wide-angle lens with slight perspective distortion for speed sensation\\nSubject: gaming smartphone with aggressive angular design, visible RGB lighting strips along edges, reflective glass back panel, screen displaying game UI\\nScene/backdrop: cyberpunk neon cityscape at night, blurred skyscrapers with holographic billboards, light trails suggesting motion, atmospheric haze\\nLighting/mood: dramatic rim lighting from below with cyan and magenta neon glow, high contrast, futuristic and energetic mood\\nColor palette: deep black base, electric cyan and hot magenta as primary accents, subtle purple gradients, white highlights\\nMaterials/textures: brushed aluminum frame, glossy tempered glass, matte rubberized grip zones, visible heat dissipation vents\\nAvoid: generic stock phone renders, washed-out colors, cluttered background, 8K stuffer text, plastic-looking materials, static flat presentation\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11406
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为这款RGB游戏手机生成一张电商主视觉，用于京东数码频道。\n\n风格/介质:产品摄影+CG合成，赛博朋克美学，速度感与科技张力，适合电商数码品类\n构图:45度角悬浮展示，手机正面朝向镜头略偏右，低角度仰拍增强气势，浅景深聚焦产品\n主体:游戏手机，机身RGB灯效全亮，屏幕显示游戏画面或待机光效，金属边框带散热纹理\n场景/背景:赛博朋克霓虹城市夜景，模糊的高楼剪影与霓虹招牌，远景有速度线或光轨暗示\n光线/氛围:多色霓虹光污染，冷蓝与洋红为主，手机RGB灯效自发光，整体氛围未来感与张力并存\n色彩搭配:冷蓝与洋红霓虹做环境色，手机RGB灯效做视觉焦点，黑色/深灰做底色压稳画面\n材质/纹理:金属磨砂机身，玻璃背板透光，RGB灯带平滑发光，背景城市带轻微噪点颗粒\n约束:产品主体清晰可辨，适合电商详情页首图，文字区域预留空间在上方或下方\n避免:过度曝光导致灯效细节丢失、背景喧宾夺主、塑料廉价感、杂乱元素干扰主体",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/bf96e837-8679-48d6-af6d-334d0c22e74b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"为这款RGB游戏手机生成一张电商主视觉，用于京东数码频道。\\n\\n风格/介质:产品摄影+CG合成，赛博朋克美学，速度感与科技张力，适合电商数码品类\\n构图:45度角悬浮展示，手机正面朝向镜头略偏右，低角度仰拍增强气势，浅景深聚焦产品\\n主体:游戏手机，机身RGB灯效全亮，屏幕显示游戏画面或待机光效，金属边框带散热纹理\\n场景/背景:赛博朋克霓虹城市夜景，模糊的高楼剪影与霓虹招牌，远景有速度线或光轨暗示\\n光线/氛围:多色霓虹光污染，冷蓝与洋红为主，手机RGB灯效自发光，整体氛围未来感与张力并存\\n色彩搭配:冷蓝与洋红霓虹做环境色，手机RGB灯效做视觉焦点，黑色/深灰做底色压稳画面\\n材质/纹理:金属磨砂机身，玻璃背板透光，RGB灯带平滑发光，背景城市带轻微噪点颗粒\\n约束:产品主体清晰可辨，适合电商详情页首图，文字区域预留空间在上方或下方\\n避免:过度曝光导致灯效细节丢失、背景喧宾夺主、塑料廉价感、杂乱元素干扰主体\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 15777
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: e-commerce hero banner, summer fashion\nPrimary request: white summer dress flowing gently in sea breeze on beach\nScene/backdrop: tropical beach with clear blue sky and turquoise ocean, soft sand, distant horizon\nSubject: elegant white sleeveless summer dress with lightweight fabric, natural flowing movement, no model visible or mannequin-style presentation\nStyle/medium: Japanese film photography aesthetic, editorial fashion photography\nComposition/framing: medium shot with dress as central focus, negative space for text overlay, 3:2 landscape orientation\nLighting/mood: bright natural daylight, soft diffused sunlight, fresh and airy vacation mood\nColor palette: crisp white dress + azure blue sky + turquoise sea + warm beige sand, clean pastel tones\nMaterials/textures: airy chiffon or cotton fabric with visible texture, soft fabric folds, subtle grain from film emulation\nConstraints: dress must appear to be floating/moving in wind, background must show both sky and sea\nAvoid: harsh shadows, oversaturated colors, cluttered composition, visible mannequin parts, plastic-looking fabric",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/395ca559-a221-432b-bb55-3e2f0ed0e786/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Use case: product-mockup\\nAsset type: e-commerce hero banner, summer fashion\\nPrimary request: white summer dress flowing gently in sea breeze on beach\\nScene/backdrop: tropical beach with clear blue sky and turquoise ocean, soft sand, distant horizon\\nSubject: elegant white sleeveless summer dress with lightweight fabric, natural flowing movement, no model visible or mannequin-style presentation\\nStyle/medium: Japanese film photography aesthetic, editorial fashion photography\\nComposition/framing: medium shot with dress as central focus, negative space for text overlay, 3:2 landscape orientation\\nLighting/mood: bright natural daylight, soft diffused sunlight, fresh and airy vacation mood\\nColor palette: crisp white dress + azure blue sky + turquoise sea + warm beige sand, clean pastel tones\\nMaterials/textures: airy chiffon or cotton fabric with visible texture, soft fabric folds, subtle grain from film emulation\\nConstraints: dress must appear to be floating/moving in wind, background must show both sky and sea\\nAvoid: harsh shadows, oversaturated colors, cluttered composition, visible mannequin parts, plastic-looking fabric\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11724
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial product shot for a summer women's fashion e-commerce hero image featuring a white dress.\n\nStyle/medium: Japanese film photography aesthetic, bright and airy editorial fashion, Kodak Portra-inspired color science\nComposition: mid-shot framing the dress at 3/4 angle, 50mm lens, dress hem captured mid-sway to show movement\nSubject: flowing white summer dress with lightweight fabric catching the sea breeze, natural fabric drape and motion\nScene/backdrop: coastal beach setting with clear blue sky meeting turquoise ocean horizon, minimal sand visible\nLighting/mood: soft natural daylight, diffused sunlight creating gentle highlights on fabric, relaxed vacation atmosphere\nColor palette: clean white dress as anchor, bright cyan-blue ocean and sky as dominant backdrop, subtle warm skin tones as accent\nMaterials/textures: breathable cotton/linen blend fabric with visible weave, soft translucent layers catching wind\nAvoid: harsh shadows, oversaturated colors, plastic-looking fabric, cluttered backgrounds, generic stock photo aesthetic",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/86f53255-52c1-4d4b-aabb-040de8832dec/0.png"
+      ],
+      "scores": {
+        "overall": 4.5,
+        "intent": 4
+      },
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an editorial product shot for a summer women's fashion e-commerce hero image featuring a white dress.\\n\\nStyle/medium: Japanese film photography aesthetic, bright and airy editorial fashion, Kodak Portra-inspired color science\\nComposition: mid-shot framing the dress at 3/4 angle, 50mm lens, dress hem captured mid-sway to show movement\\nSubject: flowing white summer dress with lightweight fabric catching the sea breeze, natural fabric drape and motion\\nScene/backdrop: coastal beach setting with clear blue sky meeting turquoise ocean horizon, minimal sand visible\\nLighting/mood: soft natural daylight, diffused sunlight creating gentle highlights on fabric, relaxed vacation atmosphere\\nColor palette: clean white dress as anchor, bright cyan-blue ocean and sky as dominant backdrop, subtle warm skin tones as accent\\nMaterials/textures: breathable cotton/linen blend fabric with visible weave, soft translucent layers catching wind\\nAvoid: harsh shadows, oversaturated colors, plastic-looking fabric, cluttered backgrounds, generic stock photo aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 16449
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为夏季女装电商生成一张产品摄影主图，展示白色连衣裙的度假场景。\n\n风格/介质:日系胶片摄影，明亮清新色调，滨田英明式通透感，电商产品图规格\n构图:中景半身构图，模特位于画面黄金分割点，微仰视角展现裙摆动态，85mm 定焦柔和虚化\n主体:白色连衣裙，轻薄棉麻材质，裙摆在海风中自然飘动，褶皱自然不僵硬\n场景/背景:海边沙滩场景，蓝天碧海作为背景，远处海平面略带虚化，留白充足便于叠加文字\n光线/氛围:自然日光，上午10点左右柔和侧光，明亮通透，传递度假休闲的轻松氛围\n色彩搭配:白色连衣裙作为主体，天蓝与海蓝构成冷色背景，肤色作为暖色点缀，整体高明亮低饱和\n材质/纹理:可见棉麻织物的自然纹理，海风拂动的裙摆动态感，胶片颗粒细腻\n约束:画面右侧或上方预留电商文案空间；模特面部可虚化或裁切，重点突出服装\n避免:过度磨皮、塑料质感面料、阴郁色调、杂乱前景、水印、过度锐化、廉价滤镜感",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e6e676a6-cfe5-4967-8218-97b9f16a1b9b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"为夏季女装电商生成一张产品摄影主图，展示白色连衣裙的度假场景。\\n\\n风格/介质:日系胶片摄影，明亮清新色调，滨田英明式通透感，电商产品图规格\\n构图:中景半身构图，模特位于画面黄金分割点，微仰视角展现裙摆动态，85mm 定焦柔和虚化\\n主体:白色连衣裙，轻薄棉麻材质，裙摆在海风中自然飘动，褶皱自然不僵硬\\n场景/背景:海边沙滩场景，蓝天碧海作为背景，远处海平面略带虚化，留白充足便于叠加文字\\n光线/氛围:自然日光，上午10点左右柔和侧光，明亮通透，传递度假休闲的轻松氛围\\n色彩搭配:白色连衣裙作为主体，天蓝与海蓝构成冷色背景，肤色作为暖色点缀，整体高明亮低饱和\\n材质/纹理:可见棉麻织物的自然纹理，海风拂动的裙摆动态感，胶片颗粒细腻\\n约束:画面右侧或上方预留电商文案空间；模特面部可虚化或裁切，重点突出服装\\n避免:过度磨皮、塑料质感面料、阴郁色调、杂乱前景、水印、过度锐化、廉价滤镜感\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 14092
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: e-commerce hero banner, luxury fragrance campaign\nPrimary request: premium perfume bottle on black velvet with dramatic spotlight and scattered gold glitter, creating mysterious luxurious night atmosphere\nScene/backdrop: deep black velvet fabric surface, minimalist dark void background\nSubject: elegant glass perfume bottle with refined silhouette, reflective surface catching light\nStyle/medium: high-end product photography, commercial beauty campaign\nComposition/framing: centered product shot, top-down spotlight angle, shallow depth of field\nLighting/mood: single focused spotlight from above creating dramatic chiaroscuro, deep shadows and bright highlights, mysterious and opulent\nColor palette: deep blacks, warm gold glitter accents, subtle reflections on glass\nMaterials/textures: soft black velvet pile, shimmering gold dust particles, smooth glass surface, liquid perfume inside\nConstraints: keep perfume bottle as hero element with velvet texture clearly visible\nAvoid: flat lighting, cluttered background, plastic-looking bottle, over-saturated colors, watermark",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/2f540901-d21c-4653-b84d-2a7cde6241d6/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero banner, luxury fragrance campaign\\nPrimary request: premium perfume bottle on black velvet with dramatic spotlight and scattered gold glitter, creating mysterious luxurious night atmosphere\\nScene/backdrop: deep black velvet fabric surface, minimalist dark void background\\nSubject: elegant glass perfume bottle with refined silhouette, reflective surface catching light\\nStyle/medium: high-end product photography, commercial beauty campaign\\nComposition/framing: centered product shot, top-down spotlight angle, shallow depth of field\\nLighting/mood: single focused spotlight from above creating dramatic chiaroscuro, deep shadows and bright highlights, mysterious and opulent\\nColor palette: deep blacks, warm gold glitter accents, subtle reflections on glass\\nMaterials/textures: soft black velvet pile, shimmering gold dust particles, smooth glass surface, liquid perfume inside\\nConstraints: keep perfume bottle as hero element with velvet texture clearly visible\\nAvoid: flat lighting, cluttered background, plastic-looking bottle, over-saturated colors, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 12668
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing product shot for a luxury perfume e-commerce hero visual.\n\nStyle/medium: high-end product photography, editorial fragrance campaign aesthetic\nComposition: centered product shot, slightly elevated camera angle, medium focal length, shallow depth of field isolating the bottle\nSubject: elegant perfume bottle with clean glass surface and refined silhouette\nScene/backdrop: black velvet fabric surface, scattered golden glitter particles around the bottle, dark void background\nLighting/mood: single spotlight from above creating dramatic chiaroscuro, strong contrast between highlight and deep shadow, mysterious and luxurious nocturnal atmosphere\nColor palette: deep black as dominant base, warm gold accents from glitter, subtle reflections on glass\nMaterials/textures: soft plush velvet pile, fine golden shimmer particles, smooth glass surface with light refraction\nAvoid: flat lighting, overexposed highlights, cluttered composition, generic stock photo aesthetic, watermark",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/bc3f3275-57ce-4ccf-a9fe-49e0aa8bc36d/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing product shot for a luxury perfume e-commerce hero visual.\\n\\nStyle/medium: high-end product photography, editorial fragrance campaign aesthetic\\nComposition: centered product shot, slightly elevated camera angle, medium focal length, shallow depth of field isolating the bottle\\nSubject: elegant perfume bottle with clean glass surface and refined silhouette\\nScene/backdrop: black velvet fabric surface, scattered golden glitter particles around the bottle, dark void background\\nLighting/mood: single spotlight from above creating dramatic chiaroscuro, strong contrast between highlight and deep shadow, mysterious and luxurious nocturnal atmosphere\\nColor palette: deep black as dominant base, warm gold accents from glitter, subtle reflections on glass\\nMaterials/textures: soft plush velvet pile, fine golden shimmer particles, smooth glass surface with light refraction\\nAvoid: flat lighting, overexposed highlights, cluttered composition, generic stock photo aesthetic, watermark\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 20283
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为高端香水品牌生成一张电商主视觉产品摄影。\n\n风格/介质:高端产品摄影，商业广告质感，Tom Ford 式暗黑奢华美学，适合电商首屏展示\n构图:俯拍略倾斜角度，香水瓶位于画面黄金分割点，周围留白控制得当，85mm 镜头模拟\n主体:高端香水瓶，玻璃切面折射光线，瓶身标签精致，黑色丝绒布上的视觉焦点\n场景/背景:纯黑背景，黑色丝绒布料铺陈，表面有细微绒毛质感\n光线/氛围:顶部单一聚光灯直射，形成戏剧性高光与深邃阴影，明暗对比强烈，神秘而奢华的暗夜氛围\n色彩搭配:深黑底色，金色闪粉作为点缀高光，香水瓶透明或琥珀色液体透出暖调光泽\n材质/纹理:黑色丝绒的柔软绒毛质感，玻璃的光滑与折射，金色闪粉的颗粒感与微光反射\n避免:多光源杂乱阴影、过度后期塑料感、廉价闪粉堆砌、画面过亮失去神秘氛围、水印文字",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/a4846137-0a4e-4165-a17a-d5897c650d6c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"为高端香水品牌生成一张电商主视觉产品摄影。\\n\\n风格/介质:高端产品摄影，商业广告质感，Tom Ford 式暗黑奢华美学，适合电商首屏展示\\n构图:俯拍略倾斜角度，香水瓶位于画面黄金分割点，周围留白控制得当，85mm 镜头模拟\\n主体:高端香水瓶，玻璃切面折射光线，瓶身标签精致，黑色丝绒布上的视觉焦点\\n场景/背景:纯黑背景，黑色丝绒布料铺陈，表面有细微绒毛质感\\n光线/氛围:顶部单一聚光灯直射，形成戏剧性高光与深邃阴影，明暗对比强烈，神秘而奢华的暗夜氛围\\n色彩搭配:深黑底色，金色闪粉作为点缀高光，香水瓶透明或琥珀色液体透出暖调光泽\\n材质/纹理:黑色丝绒的柔软绒毛质感，玻璃的光滑与折射，金色闪粉的颗粒感与微光反射\\n避免:多光源杂乱阴影、过度后期塑料感、廉价闪粉堆砌、画面过亮失去神秘氛围、水印文字\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9471
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: e-commerce hero image, square crop\nPrimary request: smartwatch worn on wrist in active sports context, dynamic motion blur conveying energy and vitality\nScene/backdrop: blurred gym environment with exercise equipment, shallow depth of field background\nSubject: modern smartwatch on athletic wrist, sleek wearable device with clean digital display, active pose suggesting movement\nStyle/medium: commercial product photography, high-end tech editorial\nComposition/framing: close-up on wrist and watch, macro product shot with motion blur on background elements\nLighting/mood: cool-toned tech lighting, cyan and blue accent lights, dramatic rim lighting, energetic and futuristic mood\nColor palette: cool tech blues + cyan + silver metal + deep shadows\nMaterials/textures: brushed aluminum or matte black watch case, smooth silicone or metal band, sweat-glistening skin\nConstraints: keep smartwatch as sharp focal point while background has intentional motion blur, maintain readable watch face\nAvoid: warm yellow lighting, cluttered sharp background, plastic toy-like watch appearance, watermark",
+        "size": "auto",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "https://assets-persist.lovart.ai/agent_images/46d2de20-8292-4c9f-ba80-6337e3b82180.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Use case: product-mockup\\nAsset type: e-commerce hero image, square crop\\nPrimary request: smartwatch worn on wrist in active sports context, dynamic motion blur conveying energy and vitality\\nScene/backdrop: blurred gym environment with exercise equipment, shallow depth of field background\\nSubject: modern smartwatch on athletic wrist, sleek wearable device with clean digital display, active pose suggesting movement\\nStyle/medium: commercial product photography, high-end tech editorial\\nComposition/framing: close-up on wrist and watch, macro product shot with motion blur on background elements\\nLighting/mood: cool-toned tech lighting, cyan and blue accent lights, dramatic rim lighting, energetic and futuristic mood\\nColor palette: cool tech blues + cyan + silver metal + deep shadows\\nMaterials/textures: brushed aluminum or matte black watch case, smooth silicone or metal band, sweat-glistening skin\\nConstraints: keep smartwatch as sharp focal point while background has intentional motion blur, maintain readable watch face\\nAvoid: warm yellow lighting, cluttered sharp background, plastic toy-like watch appearance, watermark\"}",
+      "ms": 12312
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original e-commerce hero image for a smartwatch worn on a wrist in an active fitness scenario.\n\nStyle/medium: product photography with dynamic motion blur, tech-forward aesthetic, fitness lifestyle editorial\nComposition: close-up wrist shot, smartwatch face clearly visible, shallow depth of field isolating the product\nSubject: modern smartwatch with digital display, worn on an athletic wrist, showing workout metrics or time\nScene/backdrop: blurred gym environment with indistinct exercise equipment, shallow depth of field\nLighting/mood: cool-toned tech lighting with blue and cyan accents, high-contrast highlights, energetic and futuristic atmosphere\nColor palette: cool blues and cyans as dominant tones, neutral grays from gym equipment, subtle warm skin tone accents\nMaterials/textures: brushed metal smartwatch case, smooth silicone band, sweat droplets on skin, matte gym floor texture\nAvoid: warm golden hour lighting, over-sharpening, watermark, generic stock photo feel, cluttered background details",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b48f5261-7b5c-4822-b0ff-c9abe63d1cc3/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original e-commerce hero image for a smartwatch worn on a wrist in an active fitness scenario.\\n\\nStyle/medium: product photography with dynamic motion blur, tech-forward aesthetic, fitness lifestyle editorial\\nComposition: close-up wrist shot, smartwatch face clearly visible, shallow depth of field isolating the product\\nSubject: modern smartwatch with digital display, worn on an athletic wrist, showing workout metrics or time\\nScene/backdrop: blurred gym environment with indistinct exercise equipment, shallow depth of field\\nLighting/mood: cool-toned tech lighting with blue and cyan accents, high-contrast highlights, energetic and futuristic atmosphere\\nColor palette: cool blues and cyans as dominant tones, neutral grays from gym equipment, subtle warm skin tone accents\\nMaterials/textures: brushed metal smartwatch case, smooth silicone band, sweat droplets on skin, matte gym floor texture\\nAvoid: warm golden hour lighting, over-sharpening, watermark, generic stock photo feel, cluttered background details\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 10956
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为智能手表生成一张产品摄影主图，用于电商展示。\n\n风格/介质:电商产品摄影，运动生活方式风格，Apple Watch 广告式科技感，活力动感\n构图:特写镜头，聚焦佩戴在手腕上的智能手表，中景构图，85mm 镜头，浅景深\n主体:智能手表，表盘显示运动数据界面，表带紧贴手腕，皮肤纹理自然可见\n场景/背景:健身房室内环境，器械与镜面模糊在背景中，动态模糊效果表现运动活力\n光线/氛围:冷色调科技打光，侧向硬光突出产品轮廓，冷白与冰蓝混合，未来感与活力并存\n色彩搭配:冷色系主导(冰蓝/银灰/冷白)，手表屏幕提供高对比度数字显示\n材质/纹理:金属表壳的细腻拉丝质感，硅胶表带的哑光触感，皮肤毛孔与汗珠细节\n避免:过度锐化、塑料廉价感、暖色偏色、静态呆板、水印文字、畸形手部",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/7f73341e-82fe-4fba-bd06-609276b6e6a5/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"为智能手表生成一张产品摄影主图，用于电商展示。\\n\\n风格/介质:电商产品摄影，运动生活方式风格，Apple Watch 广告式科技感，活力动感\\n构图:特写镜头，聚焦佩戴在手腕上的智能手表，中景构图，85mm 镜头，浅景深\\n主体:智能手表，表盘显示运动数据界面，表带紧贴手腕，皮肤纹理自然可见\\n场景/背景:健身房室内环境，器械与镜面模糊在背景中，动态模糊效果表现运动活力\\n光线/氛围:冷色调科技打光，侧向硬光突出产品轮廓，冷白与冰蓝混合，未来感与活力并存\\n色彩搭配:冷色系主导(冰蓝/银灰/冷白)，手表屏幕提供高对比度数字显示\\n材质/纹理:金属表壳的细腻拉丝质感，硅胶表带的哑光触感，皮肤毛孔与汗珠细节\\n避免:过度锐化、塑料廉价感、暖色偏色、静态呆板、水印文字、畸形手部\", \"size\":\"1536x1024\", \"quality\":\"medium\", \"n\":1, \"output_format\":\"png\"}",
+      "ms": 9775
+    }
+  ],
+  "rewrite_llm": "kimi/kimi-k2.5",
+  "status": "finished"
+}

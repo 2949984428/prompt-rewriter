@@ -111,3 +111,31 @@ export async function r2EnsureUploaded(
   }
   return { url: r2PublicUrl(key), uploaded: !exists };
 }
+
+// 把 data URL(base64)上传到 R2,返回公网 URL。
+// key = ref/<sha1>.<ext>,同一张图 sha1 一致 → r2EnsureUploaded 幂等,只上传一次。
+//
+// 用途:image gateway image-edit endpoint 对 base64 字符串长度有限制 + 部分 Lovart
+// generator 只接 URL,**统一上传到 R2 拿公网 URL 是最稳路径**。
+//
+// 如果传入的本来就是 https:// 开头(非 data URL),直接原样返回,不重复上传。
+export async function uploadDataUrlToR2(
+  dataUrl: string,
+  prefix = "ref"
+): Promise<string> {
+  if (!dataUrl.startsWith("data:")) return dataUrl;
+  const m = dataUrl.match(/^data:([^;]+);base64,(.+)$/);
+  if (!m) {
+    throw new Error("invalid data URL format (expected data:<mime>;base64,...)");
+  }
+  const contentType = m[1];
+  const base64 = m[2];
+  const body = Buffer.from(base64, "base64");
+  // sha-1 hash 作 dedup key —— 同张图重复上传等价 noop
+  const crypto = await import("node:crypto");
+  const hash = crypto.createHash("sha1").update(body).digest("hex");
+  const ext = contentType.split("/")[1]?.split("+")[0] ?? "bin"; // image/png → png
+  const key = `${prefix}/${hash}.${ext}`;
+  const { url } = await r2EnsureUploaded(key, body, contentType);
+  return url;
+}

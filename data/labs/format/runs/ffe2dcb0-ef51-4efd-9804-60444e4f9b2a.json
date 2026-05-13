@@ -1,0 +1,110 @@
+{
+  "id": "ffe2dcb0-ef51-4efd-9804-60444e4f9b2a",
+  "ts": 1777281358065,
+  "query": "制作一个小红书的封面。\n主题：GPT-image-2 也已经在 Lovart 平台上线了。\n审美：高级杂志感。\n要求：\n1.有主题文字，GPT-image-2   和 Lovart。\n2.使用对角线构图\n3.高对比强调色",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F11-direct-api",
+      "format_label": "F11 API 直接生成",
+      "final_prompt": {
+        "prompt": "制作一个小红书的封面。\n主题：GPT-image-2 也已经在 Lovart 平台上线了。\n审美：高级杂志感。\n要求：\n1.有主题文字，GPT-image-2   和 Lovart。\n2.使用对角线构图\n3.高对比强调色",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "a40dff50-08ce-489c-8c0e-bdcddc518e11",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/82740770-4377-44d1-8d34-3cbd59cc6769.png"
+        ],
+        "local_paths": [],
+        "cost": 0.053,
+        "latency_ms": 86823,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create a marketing poster (小红书 cover, 9:16) announcing that GPT-image-2 is now live on the Lovart platform, with a high-end editorial magazine aesthetic.\n\nStyle/medium: high-end editorial magazine cover, flat graphic design with bold typographic hierarchy, inspired by Vogue or Wired cover layouts\nComposition: diagonal composition — key visual elements and text blocks arranged along a strong diagonal axis from bottom-left to top-right, dynamic tension, asymmetric balance\nSubject: bold typographic lockup featuring \"GPT-image-2\" as the dominant headline and \"Lovart\" as the secondary brand name, with a supporting tagline about the platform launch\nScene/backdrop: clean, minimal abstract background that supports the diagonal layout — geometric shapes or color-block planes along the diagonal\nLighting/mood: flat graphic lighting, sharp edges, no soft shadows — editorial confidence and modernity\nColor palette: high-contrast accent color (electric blue or vivid magenta) punching against a near-black or off-white base; accent color used selectively to create visual hierarchy, not scattered\nText (verbatim): \"GPT-image-2\" and \"Lovart\"\nConstraints: text must be legible at mobile thumbnail size; diagonal layout must be visually intentional, not accidental; overall feel must read as premium magazine, not social media generic\nAvoid: gradients that muddy contrast, drop shadows, stock-photo backgrounds, cluttered layouts, neon glow overuse, generic tech circuit textures",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "60b9555d-716e-463d-9578-240b38ae19a4",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/72b929ad-5e3a-49eb-8bda-858e7298993a.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0385,
+        "latency_ms": 65111,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: editorial-cover\nAsset type: Xiaohongshu (小红书) cover image, 3:4 portrait\nPrimary request: high-end magazine-style cover announcing GPT-image-2 launch on Lovart platform, with diagonal composition and high-contrast accent colors\nScene/backdrop: abstract dark studio backdrop with bold diagonal graphic elements cutting across the frame\nSubject: typographic-led layout featuring \"GPT-image-2\" as the hero headline and \"Lovart\" as secondary brand name, arranged along a strong diagonal axis\nStyle/medium: editorial graphic design, luxury magazine cover aesthetic, flat meets photographic texture\nComposition/framing: diagonal composition — key text and visual elements aligned along a top-left to bottom-right diagonal axis, portrait orientation\nLighting/mood: dramatic, high-contrast lighting; deep shadows with sharp accent highlights; bold and commanding\nColor palette: near-black background with one high-contrast accent color (electric cobalt blue or vivid crimson), white typography\nMaterials/textures: matte dark surface with subtle grain, glossy accent strokes along diagonal lines\nText (verbatim): \"GPT-image-2\" \"Lovart\"\nConstraints: both brand names must be legible and prominently placed; diagonal layout must be visually dominant; maintain luxury editorial feel\nAvoid: cluttered layout, pastel tones, drop shadows that look cheap, generic tech stock-photo clichés",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "88b06128-b109-453e-95fe-6a0d90b705b3",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/c64dffaf-0644-4b12-ae4b-d561249c3cfb.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0503,
+        "latency_ms": 86836,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为「GPT-image-2 已上线 Lovart」这一主题生成一张小红书封面海报，高级杂志感，科技与设计媒体调性。\n\n风格/介质:高级时尚科技杂志封面，平面设计感强，参考 Wired 或 Wallpaper* 的排版美学，冷峻克制\n构图:对角线构图，主视觉元素与文字沿左下至右上对角线分布，形成视觉张力，留白区域干净有呼吸感\n主体:以「GPT-image-2」与「Lovart」为核心文字锚点，字体粗细对比强烈，大号无衬线主标题配细体副标题，文字本身即为视觉主体\n场景/背景:纯色或极简几何背景，深色打底（深墨绿或哑光黑），配合对角线切割的色块分区\n光线/氛围:无自然光源，依靠色彩对比与排版节奏营造张力，整体氛围冷峻、前沿、高饱和强调色点睛\n色彩搭配:深色底色（深墨绿 / 哑光黑）作为主场，一个高饱和强调色（荧光黄绿或电光蓝）沿对角线做切割或描边，白色文字保证可读性，三色以内\n文字(原文保留):\"GPT-image-2\" 与 \"Lovart\"\n约束:文字「GPT-image-2」和「Lovart」必须在画面中清晰可读，不可变形或被遮挡；对角线构图必须明确可辨；强调色不超过一种\n避免:渐变滥用、低对比度文字、居中对称平庸构图、过度装饰元素、网红滤镜感、廉价科技蓝紫渐变",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "5ef9ae1e-1a4d-46eb-8463-12d3b8bab179",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/0e38e522-316d-486a-9532-fdb60fe35a5f.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0433,
+        "latency_ms": 67310,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

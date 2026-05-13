@@ -11,7 +11,7 @@
 
 "use client";
 
-import { useAtom, useAtomValue } from "jotai";
+import { useAtom, useAtomValue, useSetAtom } from "jotai";
 import { useEffect, useRef, useState } from "react";
 import { ArrowLeft, Plus, Sparkles, Loader2, Trash2, X, Copy } from "lucide-react";
 import {
@@ -23,10 +23,19 @@ import { formatSkillsAtom } from "@/lib/atoms-format";
 import type {
   BatchQueryMode,
   BatchRunRecord,
+  BatchTestKind,
   ScoringDimension,
 } from "@/lib/schema";
 import { LlmModelSwitcher } from "@/components/llm-model-switcher";
+import { ImageModelSwitcher } from "@/components/image-model-switcher";
 import { llmModelAtom } from "@/lib/atoms";
+import { includeUniversalDefaultAtom, imageModelAtom } from "@/lib/atoms-shared";
+import { SkillSelector } from "@/components/skill-selector";
+import { UniversalToggle } from "@/components/universal-toggle";
+import { ImageUploader } from "@/components/image-uploader";
+import { ImageModelGrid } from "@/components/image-model-grid";
+import { writeHistoryRun } from "@/lib/history-write";
+import { historyIndexAtom } from "@/lib/atoms-history-index";
 
 const MODES: { id: BatchQueryMode; label: string; hint: string }[] = [
   {
@@ -44,6 +53,11 @@ const MODES: { id: BatchQueryMode; label: string; hint: string }[] = [
     label: "重复",
     hint: "1 个 query 跑 N 次(测稳定性 / 方差)",
   },
+  {
+    id: "set",
+    label: "题目集",
+    hint: "从题目库挑一个题目集,按 L1 / L2 / tag 筛选导入 query(题面 text 部分)",
+  },
 ];
 
 const DEFAULT_DIMS: ScoringDimension[] = [
@@ -51,12 +65,46 @@ const DEFAULT_DIMS: ScoringDimension[] = [
   { id: "intent", label: "意图还原度", description: "prompt 是否抓住了用户原意" },
 ];
 
-export function BatchCreateForm() {
+// Phase 2 Pipeline 测试台:平台上的 pipeline 列表(短期 hardcode,后续接 pipeline registry)
+//
+// "api_direct" 是特殊伪 pipeline,跳过 SP1/Planner/SP2,直接 query + 参考图出图。
+// 语义跟 Skill 测试台的 F11-direct-api 一致,但被包成 Pipeline 测试台的一个选项,
+// 让用户能在同一个矩阵里把"什么都不改的 baseline" vs "走完整 pipeline"做横评对比。
+export const AVAILABLE_PIPELINES: {
+  id: string;
+  name: string;
+  description: string;
+}[] = [
+  {
+    id: "vertical_prompt_rewrite_v1",
+    name: "垂类差异化实验",
+    description: "SP1 意图分类 → 策略包 → CreationPlanner → SP2 改写 → 生图",
+  },
+  {
+    id: "api_direct",
+    name: "API 直出(baseline)",
+    description:
+      "跳过整条 pipeline,用 query + 参考图直接出图。等价于 Skill 测试台 F11-direct-api,包成一个 pipeline 选项便于矩阵对比",
+  },
+];
+
+export interface BatchCreateFormProps {
+  /**
+   * 锁定 test_kind:由父级 lab 传入。
+   *   Skill 批量测试台 不传(用户可自由切换 skill/pipeline,默认 skill)
+   *   Pipeline 测试台 传 "pipeline"(锁定 pipeline 模式,顶部 toggle 隐藏)
+   */
+  forceTestKind?: BatchTestKind;
+}
+
+export function BatchCreateForm({ forceTestKind }: BatchCreateFormProps = {}) {
   const [, setView] = useAtom(batchViewAtom);
   const [summaries, setSummaries] = useAtom(batchSummariesAtom);
   const [prefill, setPrefill] = useAtom(batchCreatePrefillAtom);
   const skills = useAtomValue(formatSkillsAtom);
   const llmModel = useAtomValue(llmModelAtom);
+  const [imageModel, setImageModel] = useAtom(imageModelAtom);
+  const setHistoryIndex = useSetAtom(historyIndexAtom);
 
   const [name, setName] = useState("");
   // 复制重跑场景:queries 已确定,默认走 manual。否则保持 derive 当首选
@@ -102,12 +150,169 @@ export function BatchCreateForm() {
   const [repeatQuery, setRepeatQuery] = useState("");
   const [repeatN, setRepeatN] = useState(3);
 
+  // set 模式 ─── 从题目库导入 query
+  // 流程:mount 拉 sets 列表 → 用户选 setId → 拉该 set 完整内容 → client 过滤 + 预览 + 提交时拼 query[]
+  const [setOptions, setSetOptions] = useState<
+    { set_id: string; name: string; count: number }[]
+  >([]);
+  const [selectedSetId, setSelectedSetId] = useState<string>("");
+  // 选 set 后拉到的完整题目(client 端做 filter 避免每次切 filter 都打一次 server)
+  const [setQuestions, setSetQuestions] = useState<
+    {
+      qid: string;
+      input_content: { content: string; type: "text" | "image" }[];
+      categories: string[];
+      tags: string[];
+    }[]
+  >([]);
+  const [setLoadingQuestions, setSetLoadingQuestions] = useState(false);
+  const [setLoadError, setSetLoadError] = useState<string | null>(null);
+  // 4 个筛选条件
+  const [setFilterL1, setSetFilterL1] = useState<string>("");
+  const [setFilterL2, setSetFilterL2] = useState<string>("");
+  const [setFilterTag, setSetFilterTag] = useState<string>("");
+  const [setHasImagesFilter, setSetHasImagesFilter] = useState<
+    "all" | "yes" | "no"
+  >("all");
+
+  // 选 set 时进入 / 切到 set 模式时,拉一次 sets 列表
+  useEffect(() => {
+    if (mode !== "set") return;
+    if (setOptions.length > 0) return;
+    (async () => {
+      try {
+        const r = await fetch("/api/questions/sets");
+        if (!r.ok) return;
+        const json = (await r.json()) as {
+          sets: { set_id: string; name: string; count: number }[];
+        };
+        setSetOptions(json.sets);
+        // 自动选第一个 set(如果只有一个 / 用户还没选)
+        if (!selectedSetId && json.sets.length > 0) {
+          setSelectedSetId(json.sets[0].set_id);
+        }
+      } catch {
+        /* 静默,UI 会显示无可选 */
+      }
+    })();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [mode]);
+
+  // 选了 setId → 拉完整 set 内容(一次 GET 拿全部题目,client 过滤)
+  useEffect(() => {
+    if (mode !== "set" || !selectedSetId) return;
+    setSetLoadingQuestions(true);
+    setSetLoadError(null);
+    (async () => {
+      try {
+        const r = await fetch(
+          `/api/questions/sets/${encodeURIComponent(selectedSetId)}`,
+        );
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        const set = (await r.json()) as {
+          questions: typeof setQuestions;
+        };
+        setSetQuestions(set.questions);
+      } catch (e) {
+        setSetLoadError(e instanceof Error ? e.message : String(e));
+        setSetQuestions([]);
+      } finally {
+        setSetLoadingQuestions(false);
+      }
+    })();
+    // 切 set 时重置筛选
+    setSetFilterL1("");
+    setSetFilterL2("");
+    setSetFilterTag("");
+    setSetHasImagesFilter("all");
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [mode, selectedSetId]);
+
+  // 根据筛选过滤当前 set 的题目(client 计算 + 拼 query string)
+  const setFilteredQuestions = (() => {
+    if (mode !== "set") return [] as typeof setQuestions;
+    return setQuestions.filter((q) => {
+      if (setFilterL1 && q.categories[0] !== setFilterL1) return false;
+      if (setFilterL2 && q.categories[1] !== setFilterL2) return false;
+      if (setFilterTag && !q.tags.includes(setFilterTag)) return false;
+      const hasImg = q.input_content.some((b) => b.type === "image");
+      if (setHasImagesFilter === "yes" && !hasImg) return false;
+      if (setHasImagesFilter === "no" && hasImg) return false;
+      return true;
+    });
+  })();
+
+  // 当前 set 的 L1 / L2 / tag 字典(给筛选下拉用,从 setQuestions 算)
+  const setCategoriesL1 = (() => {
+    const m = new Map<string, number>();
+    for (const q of setQuestions) {
+      const c1 = q.categories[0];
+      if (c1) m.set(c1, (m.get(c1) ?? 0) + 1);
+    }
+    return Array.from(m.entries())
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) => b.count - a.count);
+  })();
+  const setCategoriesL2 = (() => {
+    if (!setFilterL1) return [] as { name: string; count: number }[];
+    const m = new Map<string, number>();
+    for (const q of setQuestions) {
+      if (q.categories[0] !== setFilterL1) continue;
+      const c2 = q.categories[1];
+      if (c2) m.set(c2, (m.get(c2) ?? 0) + 1);
+    }
+    return Array.from(m.entries())
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) => b.count - a.count);
+  })();
+  const setAvailableTags = (() => {
+    const m = new Map<string, number>();
+    for (const q of setQuestions) {
+      for (const t of q.tags) m.set(t, (m.get(t) ?? 0) + 1);
+    }
+    return Array.from(m.entries())
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) => b.count - a.count);
+  })();
+
+  // 把题目 text 拼成 query string(多个 text block 用 \n\n 分隔,image 暂忽略)
+  const questionToQuery = (q: (typeof setQuestions)[number]): string => {
+    return q.input_content
+      .filter((b) => b.type === "text")
+      .map((b) => b.content.trim())
+      .filter((s) => s.length > 0)
+      .join("\n\n");
+  };
+
   // skill 选择
   const [skillIds, setSkillIds] = useState<string[]>([]);
 
-  // 是否在每条 skill 前注入通用规则(_universal.md)。默认勾上跟历史行为一致;
-  // 测试"无通用规则的纯 skill 表现"时勾掉。
-  const [includeUniversal, setIncludeUniversal] = useState(true);
+  // Phase 2:test_kind + pipeline 选择
+  //   forceTestKind 非空(来自 Pipeline 测试台 lab)→ 直接锁定,顶部 toggle 隐藏
+  //   forceTestKind 空(Skill 测试台)→ 默认 skill,顶部 toggle 可切
+  const [testKind, setTestKind] = useState<BatchTestKind>(forceTestKind ?? "skill");
+  const [pipelineIds, setPipelineIds] = useState<string[]>(
+    forceTestKind === "pipeline" ? [AVAILABLE_PIPELINES[0].id] : [],
+  );
+
+  // 是否在每条 skill 前注入通用规则(_universal.md)。
+  // 初始值从跨 lab 共享 atom（持久化到 localStorage）读，用户改动同步回去 → format lab 下次也跟着走。
+  // per-run 的真实值仍 per-record 落盘，prefill 历史时只动本地 state、不动 global 默认。
+  const [globalIncludeUniversal, setGlobalIncludeUniversal] = useAtom(
+    includeUniversalDefaultAtom
+  );
+  const [includeUniversal, setIncludeUniversalLocal] = useState(globalIncludeUniversal);
+  const setIncludeUniversal = (v: boolean) => {
+    setIncludeUniversalLocal(v);
+    setGlobalIncludeUniversal(v);
+  };
+
+  // 参考图(record 级别;非空时所有 cell 走 image-edit)
+  const [referenceImages, setReferenceImages] = useState<string[]>([]);
+
+  // 多 model 模式:可选多个生图模型,创建时按 (query × skill × model) 三维笛卡尔积展开 cells。
+  // 空 → 走单 model 模式(用顶部 ImageModelSwitcher 那一个)。
+  const [imageModels, setImageModels] = useState<string[]>([]);
 
   // 评分维度
   const [dims, setDims] = useState<ScoringDimension[]>(DEFAULT_DIMS);
@@ -135,7 +340,15 @@ export function BatchCreateForm() {
     }
     // purpose 留作参考,即使 mode=manual 也保留;切到 derive 时可见
     if (prefill.purpose) setPurpose(prefill.purpose);
-    setIncludeUniversal(prefill.include_universal);
+    setIncludeUniversalLocal(prefill.include_universal);  // prefill 只动本地，不污染全局默认
+    if (Array.isArray(prefill.reference_images)) {
+      setReferenceImages(prefill.reference_images);
+    }
+    // 生图模型是全局 atom(跨 lab 共享),复制重跑时复用源 run 的选择。
+    // 写回 atomWithStorage 后 ImageModelSwitcher 显示也会跟着变。
+    if (typeof prefill.image_model === "string") {
+      setImageModel(prefill.image_model);
+    }
     setSource({ runId: prefill.source_run_id, runName: prefill.source_run_name });
 
     // 清掉 atom,避免下次进 create 时还有残留
@@ -229,13 +442,23 @@ export function BatchCreateForm() {
       if (!q) return [];
       return Array(Math.max(1, repeatN)).fill(q);
     }
+    if (mode === "set") {
+      // 把当前 set 过滤后的题目 text 拼成 query
+      // image block 此处忽略(batch lab 的 reference_images 走顶部 ImageUploader,不用题面图)
+      return setFilteredQuestions
+        .map(questionToQuery)
+        .filter((s) => s.length > 0);
+    }
     return [];
   };
 
   const validate = (): string | null => {
     const queries = computeQueries();
     if (queries.length === 0) return "至少要有 1 条 query";
-    if (skillIds.length === 0) return "至少选 1 个 skill";
+    if (testKind === "skill" && skillIds.length === 0)
+      return "至少选 1 个 skill";
+    if (testKind === "pipeline" && pipelineIds.length === 0)
+      return "至少选 1 个 pipeline";
     // 维度 id 校验
     const dimIds = new Set<string>();
     for (const d of dims) {
@@ -255,7 +478,30 @@ export function BatchCreateForm() {
     setCreateError(null);
     setCreating(true);
     try {
-      const queries = computeQueries();
+      // 方案 C:set 模式特殊处理,同时抽 query 和 per-query 参考图(顺序严格对齐)
+      let queries: string[];
+      let perQueryRefImages: string[][] = [];
+      if (mode === "set") {
+        const pairs = setFilteredQuestions
+          .map((q) => ({
+            query: questionToQuery(q),
+            // 只取真 URL,过滤 [@image:#1:xxx] 占位符(不是合法图)
+            images: q.input_content
+              .filter(
+                (b) =>
+                  b.type === "image" &&
+                  (b.content.startsWith("http") ||
+                    b.content.startsWith("data:")),
+              )
+              .map((b) => b.content),
+          }))
+          .filter((p) => p.query.length > 0);
+        queries = pairs.map((p) => p.query);
+        perQueryRefImages = pairs.map((p) => p.images);
+      } else {
+        queries = computeQueries();
+      }
+
       const r = await fetch("/api/labs/batch/runs", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -264,10 +510,20 @@ export function BatchCreateForm() {
           query_mode: mode,
           purpose: mode === "derive" ? purpose : "",
           queries,
-          skill_ids: skillIds,
+          // Phase 2:按 test_kind 决定走哪一组 ids
+          test_kind: testKind,
+          skill_ids: testKind === "skill" ? skillIds : [],
+          pipeline_ids: testKind === "pipeline" ? pipelineIds : [],
           scoring_dimensions: dims,
-          rewrite_llm: llmModel || "",
+          // pipeline 模式下,改写模型 / 生图模型由 pipeline 内部默认配置控制(batch 层不再选)
+          rewrite_llm: testKind === "pipeline" ? "" : llmModel || "",
           include_universal: includeUniversal,
+          // set 模式下顶部 ImageUploader 已隐藏,理论 referenceImages 该是空;
+          // 但用户可能先在 manual 模式上传过图再切 set,残留 state 不该被发出去 → 强制 []
+          reference_images: mode === "set" ? [] : referenceImages,
+          per_query_reference_images: perQueryRefImages,
+          image_model: testKind === "pipeline" ? "" : imageModel || "",
+          image_model_ids: testKind === "pipeline" ? [] : imageModels,
         }),
       });
       if (!r.ok) {
@@ -281,6 +537,49 @@ export function BatchCreateForm() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ concurrency: 16 }),
       });
+      // 写一条 partial 的全局历史索引(占位),detail-view 跑完会更新成 completed
+      void writeHistoryRun({
+        id: record.id,
+        lab_id: "batch",
+        detail: record,
+        index_patch: {
+          query: record.queries.length > 0 ? record.queries[0] : record.name,
+          summary:
+            `${record.queries.length} queries × ${record.skill_ids.length} skills` +
+            (record.name ? ` · ${record.name}` : ""),
+          status: "partial",
+          metadata: {
+            n_queries: record.queries.length,
+            n_skills: record.skill_ids.length,
+            mode: record.query_mode,
+          },
+        },
+      }).then((res) => {
+        if (!res.ok) console.warn("[batch-create] history write failed:", res.error);
+        // 同步到 in-memory historyIndexAtom
+        const ts = Date.now();
+        setHistoryIndex((prev) => {
+          if (prev.some((p) => p.id === record.id)) return prev;
+          return [
+            {
+              id: record.id,
+              ts,
+              lab_id: "batch",
+              query: record.queries.length > 0 ? record.queries[0] : record.name,
+              summary: `${record.queries.length} queries × ${record.skill_ids.length} skills`,
+              status: "partial",
+              ref: `data/labs/batch/runs/${record.id}.json`,
+              pm_score_avg: null,
+              pm_score_count: 0,
+              metadata: {
+                n_queries: record.queries.length,
+                n_skills: record.skill_ids.length,
+              },
+            },
+            ...prev,
+          ];
+        });
+      });
       // 列表里塞一条新 summary(乐观)
       setSummaries([
         {
@@ -290,9 +589,13 @@ export function BatchCreateForm() {
           query_mode: record.query_mode,
           status: "running",
           n_queries: record.queries.length,
-          n_skills: record.skill_ids.length,
+          n_skills:
+            record.test_kind === "pipeline"
+              ? record.pipeline_ids.length
+              : record.skill_ids.length,
           done_cells: 0,
           total_cells: record.cells.length,
+          test_kind: record.test_kind,
         },
         ...summaries,
       ]);
@@ -305,7 +608,10 @@ export function BatchCreateForm() {
   };
 
   const queries = computeQueries();
-  const totalCells = queries.length * skillIds.length;
+  // Phase 2:cells 总数按 test_kind 决定第二维(skill 或 pipeline)
+  const secondDimLen =
+    testKind === "pipeline" ? pipelineIds.length : skillIds.length;
+  const totalCells = queries.length * secondDimLen;
 
   return (
     <>
@@ -341,7 +647,9 @@ export function BatchCreateForm() {
           </div>
         </div>
         <div className="shrink-0 pt-1">
-          <LlmModelSwitcher />
+          {/* Pipeline 模式下隐藏改写模型选择 — pipeline 内部 SP1/SP2 各自带默认模型,
+              不让用户在批量层再选(否则会覆盖 pipeline 设计) */}
+          {testKind !== "pipeline" && <LlmModelSwitcher />}
         </div>
       </header>
 
@@ -538,79 +846,302 @@ export function BatchCreateForm() {
             </div>
           </div>
         )}
-      </Section>
 
-      {/* 3. 选 skill */}
-      <Section title="参与 Skill" subtitle="复用格式实验台已有的 skill 池">
-        {skills.length === 0 ? (
-          <p className="text-[13px] text-stone-gray">正在加载 skill…</p>
-        ) : (
-          <div className="grid grid-cols-2 gap-1.5">
-            {skills.map((s) => {
-              const on = skillIds.includes(s.id);
-              return (
-                <button
-                  key={s.id}
-                  onClick={() =>
-                    setSkillIds((ids) =>
-                      ids.includes(s.id)
-                        ? ids.filter((x) => x !== s.id)
-                        : [...ids, s.id]
-                    )
-                  }
-                  className={`flex items-start gap-3 rounded-md border px-3 py-2.5 text-left transition ${
-                    on
-                      ? "border-terracotta bg-coral-soft-bg/40"
-                      : "border-border-cream bg-ivory hover:border-border-warm"
-                  }`}
+        {/* set 模式:从题目库选一个题目集导入 query */}
+        {mode === "set" && (
+          <div className="mt-4 space-y-4">
+            {/* 选题目集 */}
+            <div>
+              <label className="mb-1.5 block text-[12px] text-olive-gray">
+                题目集
+              </label>
+              {setOptions.length === 0 ? (
+                <p className="rounded-md border border-dashed border-border-warm bg-parchment/40 px-3 py-2.5 text-[13px] text-olive-gray">
+                  题目库还没有题目集。先到「题目」→「常规题目」上传一份 xlsx。
+                </p>
+              ) : (
+                <select
+                  value={selectedSetId}
+                  onChange={(e) => setSelectedSetId(e.target.value)}
+                  className="w-full rounded-md border border-border-warm bg-ivory px-3 py-2 text-[13px] text-near-black focus:border-terracotta focus:outline-none"
                 >
-                  <span
-                    className={`mt-0.5 flex h-4 w-4 shrink-0 items-center justify-center rounded-sm border ${
-                      on
-                        ? "border-terracotta bg-terracotta"
-                        : "border-stone-gray"
-                    }`}
-                  >
-                    {on && (
-                      <span className="h-2 w-2 rounded-[1px] bg-ivory" />
-                    )}
-                  </span>
-                  <div className="min-w-0 flex-1">
-                    <div className="font-mono text-[12.5px] font-medium text-near-black">
-                      {s.label}
-                    </div>
-                    {s.notes && (
-                      <div className="mt-0.5 truncate text-[11.5px] text-stone-gray">
-                        {s.notes}
-                      </div>
-                    )}
+                  {setOptions.map((s) => (
+                    <option key={s.set_id} value={s.set_id}>
+                      {s.name} ({s.count} 题)
+                    </option>
+                  ))}
+                </select>
+              )}
+            </div>
+
+            {setLoadError && (
+              <p className="rounded-md border border-error-crimson/30 bg-error-crimson/5 px-3 py-2 text-[12px] text-error-crimson">
+                {setLoadError}
+              </p>
+            )}
+
+            {/* 筛选条件 */}
+            {selectedSetId && setQuestions.length > 0 && (
+              <>
+                <div className="grid grid-cols-3 gap-3">
+                  <FilterDropdown
+                    label="L1 垂类"
+                    value={setFilterL1}
+                    options={setCategoriesL1}
+                    onChange={(v) => {
+                      setSetFilterL1(v);
+                      setSetFilterL2("");
+                    }}
+                  />
+                  <FilterDropdown
+                    label="L2 子类"
+                    value={setFilterL2}
+                    options={setCategoriesL2}
+                    onChange={setSetFilterL2}
+                    disabled={!setFilterL1}
+                  />
+                  <FilterDropdown
+                    label="Tag"
+                    value={setFilterTag}
+                    options={setAvailableTags}
+                    onChange={setSetFilterTag}
+                  />
+                </div>
+                <div>
+                  <label className="mb-1.5 block text-[12px] text-olive-gray">
+                    图片
+                  </label>
+                  <div className="flex gap-1.5">
+                    {(["all", "yes", "no"] as const).map((v) => (
+                      <button
+                        key={v}
+                        type="button"
+                        onClick={() => setSetHasImagesFilter(v)}
+                        className={`rounded-md border px-3 py-1.5 text-[12px] transition ${
+                          setHasImagesFilter === v
+                            ? "border-terracotta bg-terracotta/10 text-near-black"
+                            : "border-border-warm bg-ivory text-olive-gray hover:bg-warm-sand/40"
+                        }`}
+                      >
+                        {v === "all" ? "全部" : v === "yes" ? "含图" : "纯文"}
+                      </button>
+                    ))}
                   </div>
-                </button>
-              );
-            })}
+                </div>
+
+                {/* 命中预览 */}
+                <div className="rounded-md border border-border-warm bg-parchment/40 px-3.5 py-3">
+                  <p className="mb-2 flex items-center gap-2 text-[12.5px]">
+                    <span className="font-mono text-near-black">
+                      {setFilteredQuestions.length} 题
+                    </span>
+                    <span className="text-stone-gray">
+                      / 共 {setQuestions.length} 题
+                    </span>
+                    {setFilteredQuestions.some((q) =>
+                      q.input_content.some(
+                        (b) =>
+                          b.type === "image" &&
+                          (b.content.startsWith("http") ||
+                            b.content.startsWith("data:")),
+                      ),
+                    ) && (
+                      <span className="ml-auto rounded bg-warm-gold-bg px-1.5 py-0.5 font-mono text-[10px] text-warm-gold-fg">
+                        含图题的 image URL 自动作为该题 per-cell 参考图(走图生图)
+                      </span>
+                    )}
+                  </p>
+                  {setFilteredQuestions.length === 0 ? (
+                    <p className="text-[12px] text-stone-gray">
+                      没有匹配的题目,试试清掉过滤条件
+                    </p>
+                  ) : (
+                    <ul className="max-h-[280px] overflow-y-auto space-y-1.5">
+                      {setFilteredQuestions.slice(0, 60).map((q) => {
+                        const preview = questionToQuery(q);
+                        const realImgCount = q.input_content.filter(
+                          (b) =>
+                            b.type === "image" &&
+                            (b.content.startsWith("http") ||
+                              b.content.startsWith("data:")),
+                        ).length;
+                        return (
+                          <li
+                            key={q.qid}
+                            className="rounded bg-ivory px-2.5 py-1.5"
+                          >
+                            <div className="mb-0.5 flex items-baseline gap-2">
+                              <span className="shrink-0 font-mono text-[10.5px] text-stone-gray">
+                                {q.qid}
+                              </span>
+                              {realImgCount > 0 && (
+                                <span
+                                  className="rounded bg-warm-gold-bg px-1.5 py-0 font-mono text-[10px] text-warm-gold-fg"
+                                  title="作为该题的 per-cell 参考图"
+                                >
+                                  +{realImgCount} 图
+                                </span>
+                              )}
+                              <div className="ml-auto flex flex-wrap gap-1">
+                                {q.categories.map((c) => (
+                                  <span
+                                    key={c}
+                                    className="rounded bg-warm-sand/40 px-1.5 py-0 font-mono text-[10px] text-near-black"
+                                  >
+                                    {c}
+                                  </span>
+                                ))}
+                              </div>
+                            </div>
+                            <p className="line-clamp-2 text-[12.5px] leading-[1.45] text-near-black">
+                              {preview || (
+                                <span className="italic text-stone-gray">
+                                  (无文本内容,会被跳过)
+                                </span>
+                              )}
+                            </p>
+                          </li>
+                        );
+                      })}
+                      {setFilteredQuestions.length > 60 && (
+                        <li className="px-2.5 py-1 text-[11px] text-stone-gray">
+                          …还有 {setFilteredQuestions.length - 60} 条未显示(创建时全部导入)
+                        </li>
+                      )}
+                    </ul>
+                  )}
+                </div>
+              </>
+            )}
+
+            {setLoadingQuestions && (
+              <p className="text-[12px] text-stone-gray">载入题目集中…</p>
+            )}
           </div>
         )}
-
-        {/* 通用规则可选注入 — 默认勾上跟历史行为一致;关掉验证"纯 skill 无通用规则" 输出表现 */}
-        <label className="mt-3 flex cursor-pointer items-start gap-2.5 rounded-md border border-border-cream bg-parchment/40 px-3 py-2.5 text-[13px] transition hover:border-border-warm">
-          <input
-            type="checkbox"
-            checked={includeUniversal}
-            onChange={(e) => setIncludeUniversal(e.target.checked)}
-            className="mt-0.5 h-4 w-4 accent-terracotta"
-          />
-          <div className="flex-1">
-            <div className="font-medium text-near-black">
-              在每条 skill 前注入通用规则 (<code className="font-mono text-[11.5px]">_universal.md</code>)
-            </div>
-            <div className="mt-0.5 text-[11.5px] leading-[1.5] text-stone-gray">
-              默认勾上 (5 条通用纪律 + 输出前自检)。
-              想验证"只有 skill 自身规则、不带通用约束" 的输出表现时勾掉。
-              对所有 skill 全局生效,不区分单个 skill。
-            </div>
-          </div>
-        </label>
       </Section>
+
+      {/* 2.5 参考图(可选) — 上传后所有 cell 走 image-edit;不传走 text-to-image
+          set 模式下隐藏:题目集每题自带 image 已自动作为 per-cell 参考图(方案 C),
+          再 expose 全局参考图会让"含图题用自己的图 / 纯文题用顶部图"语义混乱 */}
+      {mode !== "set" && (
+        <Section
+          title="参考图"
+          subtitle="上传后本次跑批所有 cell 都走 image-edit(图生图);不传走文生图"
+        >
+          <ImageUploader
+            value={referenceImages}
+            onChange={setReferenceImages}
+            max={3}
+            label=""
+            hint="所有 query × skill 共用这组图"
+          />
+        </Section>
+      )}
+
+      {/* 3. 选 skill / pipeline — 按 test_kind 分流(forceTestKind 由父级 lab 锁定,
+          Skill 测试台 prop="skill" / Pipeline 测试台 prop="pipeline",页面独立) */}
+      {testKind === "skill" ? (
+        <Section
+          title="参与 Skill"
+          subtitle="复用格式实验台已有的 skill 池"
+          right={<UniversalToggle />}
+        >
+          <SkillSelector
+            skills={skills}
+            selectedIds={skillIds}
+            onToggle={(id) =>
+              setSkillIds((ids) =>
+                ids.includes(id) ? ids.filter((x) => x !== id) : [...ids, id]
+              )
+            }
+            layout="grid"
+            emptyText="正在加载 skill…"
+          />
+        </Section>
+      ) : (
+        <Section
+          title="参与 Pipeline"
+          subtitle="平台上的 pipeline 列表(在 Pipeline 管理里维护)"
+        >
+          <ul className="grid grid-cols-1 gap-2 md:grid-cols-2">
+            {AVAILABLE_PIPELINES.map((p) => {
+              const selected = pipelineIds.includes(p.id);
+              return (
+                <li key={p.id}>
+                  <button
+                    type="button"
+                    onClick={() =>
+                      setPipelineIds((ids) =>
+                        ids.includes(p.id)
+                          ? ids.filter((x) => x !== p.id)
+                          : [...ids, p.id],
+                      )
+                    }
+                    className={`w-full rounded-lg border px-4 py-3 text-left transition ${
+                      selected
+                        ? "border-terracotta bg-terracotta/10 text-near-black shadow-ring"
+                        : "border-border-warm bg-ivory text-olive-gray hover:bg-warm-sand/40"
+                    }`}
+                  >
+                    <div className="mb-1 flex items-center gap-2">
+                      <span className="font-mono text-[10.5px] text-stone-gray">
+                        {selected ? "✓" : "○"}
+                      </span>
+                      <span className="font-serif text-[14.5px] font-medium text-near-black">
+                        {p.name}
+                      </span>
+                    </div>
+                    <p className="text-[12px] leading-[1.45]">{p.description}</p>
+                    <p className="mt-1 font-mono text-[10.5px] text-stone-gray">
+                      {p.id}
+                    </p>
+                  </button>
+                </li>
+              );
+            })}
+          </ul>
+        </Section>
+      )}
+
+      {/* 3.5 选择使用的模型 — 多选;0=后端默认 / 1=单 model / N=笛卡尔积扩 cells
+          Pipeline 模式下隐藏 — pipeline 内部已经声明默认生图模型(跟 PipelineLab 一致) */}
+      {testKind === "pipeline" ? (
+        <Section
+          title="模型配置"
+          subtitle="Pipeline 模式使用 pipeline 自带的默认模型组合,跟 PipelineLab 单 query 跑批一致"
+        >
+          <div className="rounded-md border border-border-warm bg-parchment/40 px-4 py-3 text-[12.5px]">
+            <p className="mb-1.5 text-near-black">
+              <span className="font-mono text-[11px] text-stone-gray">
+                vertical_prompt_rewrite_v1
+              </span>{" "}
+              默认模型组合:
+            </p>
+            <ul className="space-y-0.5 font-mono text-[11.5px] text-olive-gray">
+              <li>· SP1 意图分类 — gemini/gemini-3-flash-preview</li>
+              <li>· SP2 改写 — doubao/seed-2-0-pro-260215</li>
+              <li>· 生图 — gpt-image-2</li>
+            </ul>
+            <p className="mt-2 text-[11.5px] text-stone-gray">
+              改默认模型组合请去 Pipeline 管理里编辑 pipeline 配置(暂未支持,后续 registry 接入)。
+            </p>
+          </div>
+        </Section>
+      ) : (
+        <Section
+          title="选择使用的模型"
+          subtitle={
+            imageModels.length === 0
+              ? "0 个 → 用后端默认 IMAGE_MODEL 跑;选 N 个 → cells 按 (query × skill × model) 三维笛卡尔积展开"
+              : imageModels.length === 1
+                ? "单模型 → cells = N query × M skill"
+                : `${imageModels.length} 个模型 → cells 数量 ×${imageModels.length}`
+          }
+        >
+          <ImageModelGrid value={imageModels} onChange={setImageModels} />
+        </Section>
+      )}
 
       {/* 4. 评分维度 */}
       <Section
@@ -664,10 +1195,15 @@ export function BatchCreateForm() {
         <div className="text-[13px] text-olive-gray">
           将创建{" "}
           <strong className="text-near-black">
-            {queries.length} query × {skillIds.length} skill = {totalCells}
+            {queries.length} query × {secondDimLen}{" "}
+            {testKind === "pipeline" ? "pipeline" : "skill"} = {totalCells}
           </strong>{" "}
           个 cell · 16 路并发 ·{" "}
-          <span className="text-stone-gray">改写模型 {llmModel || "默认"}</span>
+          <span className="text-stone-gray">
+            {testKind === "pipeline"
+              ? "改写模型 pipeline 默认"
+              : `改写模型 ${llmModel || "默认"}`}
+          </span>
         </div>
         <div className="flex items-center gap-2">
           {createError && (
@@ -683,7 +1219,7 @@ export function BatchCreateForm() {
           </button>
           <button
             onClick={onCreate}
-            disabled={creating || queries.length === 0 || skillIds.length === 0}
+            disabled={creating || queries.length === 0 || secondDimLen === 0}
             className="flex h-9 items-center gap-2 rounded-md bg-terracotta px-5 text-[13px] font-medium text-ivory transition hover:bg-terracotta/90 disabled:opacity-50"
           >
             {creating && <Loader2 size={14} className="animate-spin" />}
@@ -695,22 +1231,61 @@ export function BatchCreateForm() {
   );
 }
 
+// 给 set 模式筛选 dropdown 用。"全部"对应 value=""。
+function FilterDropdown({
+  label,
+  value,
+  options,
+  onChange,
+  disabled,
+}: {
+  label: string;
+  value: string;
+  options: { name: string; count: number }[];
+  onChange: (v: string) => void;
+  disabled?: boolean;
+}) {
+  return (
+    <div>
+      <label className="mb-1.5 block text-[12px] text-olive-gray">{label}</label>
+      <select
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        disabled={disabled}
+        className="w-full rounded-md border border-border-warm bg-ivory px-2.5 py-1.5 text-[12.5px] text-near-black focus:border-terracotta focus:outline-none disabled:opacity-50"
+      >
+        <option value="">全部</option>
+        {options.map((o) => (
+          <option key={o.name} value={o.name}>
+            {o.name} ({o.count})
+          </option>
+        ))}
+      </select>
+    </div>
+  );
+}
+
 function Section({
   title,
   subtitle,
+  right,
   children,
 }: {
   title: string;
   subtitle?: string;
+  right?: React.ReactNode;
   children: React.ReactNode;
 }) {
   return (
     <section className="rounded-md border border-border-cream bg-ivory p-5">
-      <div className="mb-3">
-        <h2 className="text-[15px] font-medium text-near-black">{title}</h2>
-        {subtitle && (
-          <p className="mt-0.5 text-[12.5px] text-stone-gray">{subtitle}</p>
-        )}
+      <div className="mb-3 flex items-start justify-between gap-3">
+        <div className="min-w-0 flex-1">
+          <h2 className="text-[15px] font-medium text-near-black">{title}</h2>
+          {subtitle && (
+            <p className="mt-0.5 text-[12.5px] text-stone-gray">{subtitle}</p>
+          )}
+        </div>
+        {right && <div className="shrink-0">{right}</div>}
       </div>
       {children}
     </section>

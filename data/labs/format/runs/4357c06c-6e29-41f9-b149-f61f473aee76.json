@@ -1,0 +1,86 @@
+{
+  "id": "4357c06c-6e29-41f9-b149-f61f473aee76",
+  "ts": 1777278959494,
+  "query": "染秋 (RAN QIU) 秋季品牌。\n 品牌理念：染秋以东方哲学观照自然更迭，意在捕捉秋日流转中的诗意瞬间。品牌从中国传统\"染\"的工艺美学出发，将秋天的色彩、气息、情绪凝练成可感知的香氛艺术。精选秋季时令植物——桂花、柿子、枫叶、乌龙茶，融合东方香料如肉桂、檀香、琥珀，创造温暖而隽永的秋日记忆。\n核心系列：    以\"染秋\"为题，推出桂花乌龙、琥珀枫叶、柿霜暮色等香调，营造温暖治愈的秋日氛围。\n制作品牌染秋的主色 + 辅色 + 字体规范展示图",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为染秋 (RAN QIU) 生成一张品牌视觉规范展示图，用于呈现主色、辅色与字体系统。\n\n风格/介质:品牌设计规范图 / Brand Guidelines Sheet，极简留白，克制克制，参考原研哉式东方美学\n主体:三栏式规范排版——左侧主色块(赤土橙或柿红)、中间辅色块(琥珀金、枫叶赭、桂米白)、右侧字体展示(\"染秋\"中文字体与 RAN QIU 英文字体)，每色块标注色值与 Pantone 参考\n构图:横向三分栏布局，上下留足呼吸空间，整体居中对齐，信息层级清晰\n色彩搭配:主色(温暖赤土红/柿红)作为视觉锚点，辅色(琥珀金、赭石、米白)形成渐变过渡，整体呈现秋日温润质感\n材质/纹理:哑光纸张质感，无光泽，色块边缘干净锐利\n文字(原文保留):\"染秋\" \"RAN QIU\" \"桂花乌龙\" \"琥珀枫叶\" \"柿霜暮色\"\n约束:色彩必须可印刷(Pantone 或 CMYK 标注)，字体需可商用授权，整体可适配包装/海报/电商等多场景\n避免:渐变堆砌、霓虹色、塑料质感、Behance 通用模板风、过度装饰元素",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "abfb499a-08c8-4c4b-aeb7-4202ba589030",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/3dc9ad8a-11b9-4746-8b75-30f56409fef3.png"
+        ],
+        "local_paths": [],
+        "cost": 0.043,
+        "latency_ms": 73518,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create an original brand color + typography specification sheet for RAN QIU, an autumn fragrance brand rooted in Eastern philosophy.\n\nStyle/medium: clean editorial brand guidelines layout, Swiss-style grid system, Pantone-inspired color swatch presentation\nSubject: brand color system (primary + secondary) and typography hierarchy for \"染秋 (RAN QIU)\" fragrance brand\nComposition: top-down flat lay arrangement, three distinct zones — color swatches, typography specimens, and brand mark\nColor palette: warm autumn tones — burnt sienna/amber as primary, muted ochre and sage green as secondary, cream/off-white background\nText (verbatim): \"染秋 (RAN QIU)\", \"桂花乌龙\", \"琥珀枫叶\", \"柿霜暮色\"\nConstraints: colors must evoke autumn foliage and traditional Chinese dyeing aesthetics; typography must balance modern minimalism with subtle Eastern character\nAvoid: generic gradient swatches; neon colors; overly decorative fonts; Western-centric autumn clichés like pumpkins; busy patterns",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "0d45d842-cc32-4739-8fec-df7c94d7592c",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/82ec4807-7965-4b03-88e9-97ca71b1008f.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0422,
+        "latency_ms": 93567,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: brand-guideline\nAsset type: brand color + typography specification sheet, 1:1 square format\nPrimary request: visual brand system showcase for \"染秋 (RAN QIU)\" autumn fragrance brand\nScene/backdrop: clean minimalist layout with generous white space, subtle autumn leaf texture watermark\nSubject: color swatches (primary + secondary palette) paired with Chinese typography specimens, elegant brand name \"染秋\" and \"RAN QIU\" displayed in both calligraphic and modern sans-serif treatments\nStyle/medium: refined editorial design, contemporary Chinese aesthetic, luxury beauty brand guideline\nComposition/framing: grid-based layout, top section for primary/secondary color blocks with hex codes, middle section for Chinese type specimens, bottom section for English logotype\nLighting/mood: soft diffused natural light, calm and sophisticated atmosphere\nColor palette: warm autumn tones — persimmon orange, osmanthus gold, maple crimson, amber, sand beige, deep charcoal; muted earthy secondary palette\nMaterials/textures: matte paper texture, subtle grain, clean vector graphics\nText (verbatim): \"染秋\" \"RAN QIU\" \"桂花乌龙\" \"琥珀枫叶\" \"柿霜暮色\"\nConstraints: must display primary color + secondary color + typography as three distinct sections, maintain elegant Chinese aesthetic, preserve all Chinese product names verbatim\nAvoid: neon colors, cluttered layout, western-centric design, deformed Chinese characters, watermark",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "3933cc81-675f-4a77-9fd5-95800120834d",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/261b489c-8a70-4d1d-813c-1e0bb5a57d91.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0542,
+        "latency_ms": 102328,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "kimi/kimi-k2.5"
+  }
+}

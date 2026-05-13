@@ -11,6 +11,7 @@
 
 import { useAtom, useAtomValue, useSetAtom } from "jotai";
 import { useStore } from "jotai";
+import { ImageUploader } from "@/components/image-uploader";
 import { ArrowRight, Loader2 } from "lucide-react";
 import {
   formatQueryAtom,
@@ -18,13 +19,17 @@ import {
   formatRunningAtom,
   currentFormatRunAtom,
   formatJobAtomFamily,
+  formatCellKey,
   formatSkillsAtom,
+  formatReferenceImagesAtom,
+  formatImageModelsAtom,
 } from "@/lib/atoms-format";
 import {
   historyIndexAtom,
   historyIndexLoadedAtom,
 } from "@/lib/atoms-history-index";
 import { INITIAL_IMAGE_JOB, targetModelAtom, modelProfileMdAtom, llmModelAtom } from "@/lib/atoms";
+import { includeUniversalDefaultAtom } from "@/lib/atoms-shared";
 import { startImageJob } from "@/lib/image-job";
 import { djb2Hash } from "@/lib/persist-history";
 import {
@@ -54,6 +59,13 @@ export function FormatInputBar() {
   const targetModel = useAtomValue(targetModelAtom);
   const modelProfileMd = useAtomValue(modelProfileMdAtom);
   const llmModel = useAtomValue(llmModelAtom);
+  // 多 model atom = format lab 唯一的"生图模型"数据源(顶部 multi-select 写入)。
+  // 空 → 跑 1 路用后端默认 IMAGE_MODEL;非空 → 笛卡尔积,跑 N 路。
+  const selectedModels = useAtomValue(formatImageModelsAtom);
+  // 跨 lab 共享：勾选状态在 batch lab 也跟着走（UI 移到 lab.tsx 的"选要测的格式"标题旁）
+  const includeUniversal = useAtomValue(includeUniversalDefaultAtom);
+  // 参考图：lab 级 atom 共享（input-bar + cell-retry 都读它），demo 阶段不持久化
+  const [referenceImages, setReferenceImages] = useAtom(formatReferenceImagesAtom);
   const store = useStore();
 
   const labelOf = (id: string): string =>
@@ -64,8 +76,15 @@ export function FormatInputBar() {
     if (!q || selected.length === 0 || running) return;
     setRunning(true);
 
-    // 清空所有 image job atoms (本次选中的)
-    selected.forEach((id) => store.set(formatJobAtomFamily(id), INITIAL_IMAGE_JOB));
+    // 决定要跑的 model 集合:非空 → 按多选笛卡尔积;空 → 单 1 路用后端默认("")
+    const effModels = selectedModels.length > 0 ? selectedModels : [""];
+
+    // 清空所有 image job atoms (本次选中 skills × models 的笛卡尔积)
+    selected.forEach((id) =>
+      effModels.forEach((m) =>
+        store.set(formatJobAtomFamily(formatCellKey(id, m)), INITIAL_IMAGE_JOB)
+      )
+    );
 
     try {
       const resp = await fetch("/api/labs/format/run", {
@@ -75,6 +94,7 @@ export function FormatInputBar() {
           query: q,
           skill_ids: selected,
           llm_model: llmModel || undefined,
+          include_universal: includeUniversal,
         }),
       });
       const data = (await resp.json()) as { runs?: ApiRun[]; error?: string };
@@ -83,25 +103,28 @@ export function FormatInputBar() {
         return;
       }
 
-      // 组装 FormatRunRecord
+      // 组装 FormatRunRecord:(skill × model) 笛卡尔积每对一条 FormatRun
       const id = crypto.randomUUID();
       const ts = Date.now();
-      const formatRuns: FormatRun[] = data.runs.map((r) => ({
-        format_id: r.format_id,
-        format_label: r.format_label || labelOf(r.format_id),
-        final_prompt: (r.final_prompt ?? {}) as FormatRun["final_prompt"],
-        image_job: {
-          task_id: null,
-          urls: [],
-          local_paths: [],
-          cost: null,
-          latency_ms: null,
-          error: r.error ?? null,
-        },
-        pm_score: null,
-        pm_notes: "",
-        rated_at: null,
-      }));
+      const formatRuns: FormatRun[] = data.runs.flatMap((r) =>
+        effModels.map((m) => ({
+          format_id: r.format_id,
+          format_label: r.format_label || labelOf(r.format_id),
+          image_model: m,
+          final_prompt: (r.final_prompt ?? {}) as FormatRun["final_prompt"],
+          image_job: {
+            task_id: null,
+            urls: [],
+            local_paths: [],
+            cost: null,
+            latency_ms: null,
+            error: r.error ?? null,
+          },
+          pm_score: null,
+          pm_notes: "",
+          rated_at: null,
+        }))
+      );
 
       const record: FormatRunRecord = {
         id,
@@ -118,18 +141,29 @@ export function FormatInputBar() {
       };
       setCurrentRun(record);
 
-      // 起 image jobs (有 final_prompt 的才起)
+      // 起 image jobs:每个 (skill × model) 笛卡尔积一路。
+      // 同 skill 不同 model 共享同一份 final_prompt(LLM 只跑 1 次),但生图各自独立。
       data.runs.forEach((r) => {
         if (!r.final_prompt?.prompt) return;
-        const setJob = (
-          update: ImageJobStateOrUpdater
-        ) => store.set(formatJobAtomFamily(r.format_id), typeof update === "function" ? update(store.get(formatJobAtomFamily(r.format_id))) : update);
-        void startImageJob(setJob, {
-          prompt: r.final_prompt.prompt,
-          size: r.final_prompt.size,
-          quality: r.final_prompt.quality,
-          n: r.final_prompt.n,
-          output_format: r.final_prompt.output_format,
+        effModels.forEach((m) => {
+          const key = formatCellKey(r.format_id, m);
+          const setJob = (
+            update: ImageJobStateOrUpdater
+          ) => store.set(
+            formatJobAtomFamily(key),
+            typeof update === "function"
+              ? update(store.get(formatJobAtomFamily(key)))
+              : update
+          );
+          void startImageJob(setJob, {
+            prompt: r.final_prompt!.prompt!,
+            size: r.final_prompt!.size,
+            quality: r.final_prompt!.quality,
+            n: r.final_prompt!.n,
+            output_format: r.final_prompt!.output_format,
+            reference_images: referenceImages,
+            model: m || undefined, // 空 → 后端默认
+          });
         });
       });
 
@@ -178,8 +212,11 @@ export function FormatInputBar() {
     }
   };
 
-  const cost = (selected.length * 0.04).toFixed(2);
-  const time = selected.length * 8; // 粗估每路 8s
+  // 多 model 模式下,实际跑的路数 = skills × models 笛卡尔积
+  const modelMultiplier = selectedModels.length > 0 ? selectedModels.length : 1;
+  const totalRoutes = selected.length * modelMultiplier;
+  const cost = (totalRoutes * 0.04).toFixed(2);
+  const time = totalRoutes * 8; // 粗估每路 8s
 
   return (
     <section className="rounded-lg border border-border-cream bg-ivory p-6 shadow-whisper">
@@ -189,10 +226,19 @@ export function FormatInputBar() {
         placeholder="贴上你要测的图像 query。例:一只在便利店霓虹灯下的橘猫,仰拍"
         className="block min-h-[100px] w-full resize-y bg-transparent font-sans text-[15px] leading-[1.6] text-near-black placeholder:text-stone-gray focus:outline-none"
       />
+      <div className="mt-3 border-t border-border-cream pt-3">
+        <ImageUploader
+          value={referenceImages}
+          onChange={setReferenceImages}
+          max={3}
+          hint="非空 → 所有 skill 都走图生图"
+        />
+      </div>
       <div className="mt-3 flex items-center justify-between border-t border-border-cream pt-3">
         <div className="font-mono text-[12px] text-stone-gray">
           {query.length} 字 · 已选 {selected.length} 个格式
-          {selected.length > 0 && ` · ~$${cost} · ~${time}s`}
+          {modelMultiplier > 1 && ` × ${modelMultiplier} 个模型`}
+          {totalRoutes > 0 && ` · ~$${cost} · ~${time}s`}
         </div>
         <button
           onClick={run}
@@ -205,7 +251,7 @@ export function FormatInputBar() {
             </>
           ) : (
             <>
-              跑 {selected.length || "N"} 路 <ArrowRight size={14} />
+              跑 {totalRoutes || "N"} 路 <ArrowRight size={14} />
             </>
           )}
         </button>

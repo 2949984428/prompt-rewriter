@@ -1,0 +1,245 @@
+{
+  "id": "c22b130a-cd8b-46c7-800e-98f1b3ac22ac",
+  "ts": 1777273074717,
+  "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create an editorial photo for a Weibo news/trending-topic banner, strict 16:9 landscape format, photojournalistic documentary style.\n\nStyle/medium: photorealistic 35mm documentary photography, handheld-feel sharpness, high-contrast editorial in the spirit of Magnum street reportage, no studio polish\nComposition: ultra-wide 16:9 panoramic frame, low horizon line leaving generous sky for text overlay, foreground pedestrians in motion blur anchoring the base, deep perspective pulling toward distant skyline\nSubject: dense urban skyline at dusk — glass skyscrapers reflecting the last orange-red sunlight on their facades, neon signs beginning to glow in the mid-ground, silhouetted commuters walking briskly across a wide city boulevard\nScene/backdrop: Chinese metropolis street-level at golden hour transitioning to blue hour, layered depth: busy pedestrian crossing → neon-lit storefronts → reflective glass towers → gradient dusk sky\nLighting/mood: dramatic chiaroscuro — warm amber and crimson sunset glow on building glass contrasted against cool blue upper sky and emerging neon pink/cyan street signs; moody, cinematic tension between warmth and urban cold\nColor palette: deep amber and burnt orange as dominant warm anchor, cool steel-blue sky as counterweight, scattered neon cyan and magenta as accent punctuation, dark silhouette foreground for contrast\nMaterials/textures: visible glass curtain-wall reflections with streaked light, wet pavement mirror effect, motion-blurred fabric of pedestrian clothing, sharp architectural edges\nText (verbatim): \"城市里的安静时刻\" / \"黄昏，总能治愈一天的匆忙\" / \"@龙爪槐守望者real · 生活观察\"\nConstraints: 16:9 aspect ratio strictly enforced; left or upper-center zone kept relatively clean and dark enough for bold headline overlay; bottom-right corner reserved for watermark text; all three text strings must appear legibly rendered in the image — \"城市里的安静时刻\" in large bold Gothic/modern sans-serif at prominent position, \"黄昏，总能治愈一天的匆忙\" in smaller subtitle weight below headline, \"@龙爪槐守望者real · 生活观察\" as small watermark at bottom-right\nAvoid: studio-lit perfection, fake HDR halos, oversaturated toy-camera look, watermark-free blank sky, symmetrical postcard composition, generic stock-photo blandness, deformed human figures, floating text artifacts",
+        "size": "1536x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "29560e33-198a-4d77-abc3-61ec964a4b2a",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/8c95811d-4298-4d98-86a7-354ba72c1efa.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0436,
+        "latency_ms": 76324,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 Brief + Fields",
+      "final_prompt": {
+        "prompt": "Create an editorial photo for a Weibo news/trending-topic banner, strict 16:9 wide format, photojournalistic style.\n\nStyle/medium: photorealistic 35mm documentary street photography, handheld-feel with slight natural vignette, in the spirit of Steve McCurry golden-hour reportage\nComposition: wide cinematic frame 16:9, foreground blurred pedestrians in motion, mid-ground busy urban crosswalk, distant skyline with towers — horizontal sweep with generous sky area for text overlay\nSubject: anonymous hurrying pedestrians silhouetted against glowing city streets, reflective wet pavement, neon signs beginning to illuminate\nScene/backdrop: Chinese city downtown at dusk, skyscrapers reflecting the last orange-red sunlight on glass facades, street-level neon and shop signs flickering on, rush-hour crowd\nLighting/mood: dramatic split between warm amber sunset glow from upper right and cool blue-purple dusk shadow below, high contrast chiaroscuro, emotionally charged yet quietly intimate\nColor palette: deep burnt orange and gold in the sky anchoring warmth, steel blue and violet in the street shadows as contrast, scattered neon pink and cyan as accent points\nMaterials/textures: sharp individual strands of motion blur on pedestrians, crisp glass-and-steel tower reflections, wet asphalt mirror effect\nText (verbatim): \"城市里的安静时刻\" as bold headline in prominent position; \"黄昏，总能治愈一天的匆忙\" as subtitle; \"@龙爪槐守望者real · 生活观察\" as watermark at bottom-right corner\nConstraints: strict 16:9 ratio; sufficient negative sky area for headline text overlay; watermark must be legible but unobtrusive at bottom-right; headline placement at upper-left or center-upper zone\nAvoid: artificial HDR halos, oversaturated Instagram filter look, stock-photo generic skyline, identifiable faces, cluttered composition that blocks text zones, fantasy or sci-fi elements",
+        "size": "1536x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "ed809fe7-7548-4e6e-92fb-421127dbde88",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/d7b3e182-85ee-451a-8c23-089ae8162a5f.jpeg"
+        ],
+        "local_paths": [],
+        "cost": 0.0431,
+        "latency_ms": 64117,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F8-cn-task",
+      "format_label": "F8 中文任务式",
+      "final_prompt": {
+        "prompt": "请根据【城市黄昏天际线·微博热帖配图】主题生成一张新闻纪实风横幅宽图。\n\n整体风格参考专业新闻摄影与高端手机现场抓拍的结合，具备真实现场感与戏剧化光影张力，冲击力与纪实感并存，类似微博热门话题头图的专业视觉调性，8K超清质感，锐利细节。\n\n请让画面包含：\n- 城市黄昏天际线全景，高楼大厦轮廓清晰，远处玻璃幕墙反射橙红落日余晖\n- 街道层面行人剪影，步履匆匆，动态模糊轻微体现速度感\n- 霓虹灯与路灯渐次亮起，冷暖光源交织形成色彩层次\n- 天空呈现黄昏渐变：深橙→玫瑰红→暮蓝，云层有体积感\n- 画面左上或中上醒目位置叠加大标题文字「城市里的安静时刻」，使用黑体或现代无衬线字体，白色或亮色，字号大且清晰\n- 标题下方副文「黄昏，总能治愈一天的匆忙」，字号适中，细体或常规字重\n- 右下角或底部水印文字「@龙爪槐守望者real · 生活观察」，字号小，半透明白色\n\n视觉要求：\n严格16:9横幅构图，画面横向充分延展，天际线居于画面中部偏下三分之一处，上方天空留白充足以承载文字；整体色调戏剧化但不失真，高对比度，暗部细节保留；文字排版干净专业，标题与副文之间有适当间距，整体版式接近真实微博热帖配图的排版逻辑；画面颗粒感极轻微，保持数码高清质感。\n\n请不要做成概念艺术插画、不要过度后期调色成电影海报风、不要文字排版杂乱或字体卡通化。要突出\"新闻纪实现场感 + 黄昏城市光影戏剧张力\"的特征。",
+        "size": "1536x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "0d5961e7-da3f-4a56-838f-a65058d080a1",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/4da479bf-0f75-4260-be79-a56539308fb6.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0438,
+        "latency_ms": 50254,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F7-minimal",
+      "format_label": "F7 极简短句",
+      "final_prompt": {
+        "prompt": "城市黄昏天际线，霓虹渐亮行人匆匆，纪实摄影，8K锐利光影",
+        "size": "1536x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "76fdeeae-175f-4f01-87f3-b599ab578b16",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/9637c917-f012-4d46-9086-8c52d1f6b4b6.jpeg"
+        ],
+        "local_paths": [],
+        "cost": 0.0413,
+        "latency_ms": 56294,
+        "error": null
+      },
+      "pm_score": 1,
+      "pm_notes": "",
+      "rated_at": 1777273202179
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"urban cityscape with pedestrians\",\"description\":\"busy city street at dusk, silhouetted commuters walking briskly, blurred motion suggesting rush hour, authentic candid documentary feel\",\"pose\":\"pedestrians mid-stride, some with phones, bags, umbrellas\",\"expression\":\"anonymous, hurried, urban solitude\"},\"scene\":{\"location\":\"major Chinese city downtown boulevard, elevated perspective or street level wide angle\",\"time_of_day\":\"golden hour transitioning to blue hour, neon signs just flickering on\",\"ambience\":\"dramatic, bittersweet, cinematic urban loneliness\"},\"lighting\":{\"primary\":\"warm amber setting sun casting long shadows from the left\",\"secondary\":\"cool blue sky gradient above, pink and orange horizon glow, neon signage emitting pink magenta and cyan light reflections on wet pavement\",\"mood\":\"high contrast chiaroscuro, cinematic tension between warm and cool tones\"},\"color_grading\":{\"palette\":[\"deep amber\",\"burnt orange\",\"electric cyan\",\"neon magenta\",\"steel blue\",\"charcoal silhouette\"],\"tone\":\"rich saturated film-like with slight desaturation in shadows\",\"contrast\":\"very high, punchy\"},\"composition\":{\"shot_type\":\"extreme wide establishing shot, 16:9 horizontal banner format\",\"angle\":\"slight low angle or eye level street perspective, foreground pedestrians in motion blur, background skyscrapers sharp\",\"lens\":\"24mm wide angle, deep depth of field, slight vignette\"},\"style\":{\"medium\":\"high-end smartphone photojournalism, 8K resolution texture\",\"reference\":\"Magnum Photos street documentary meets Chinese social media viral news photography\",\"texture\":\"ultra-sharp mid-tones, fine grain in shadows, realistic lens flare from setting sun\"},\"constraints\":[\"strictly 16:9 horizontal wide banner composition\",\"leave generous clean sky area upper-left for headline text overlay\",\"leave lower-right corner relatively clean for watermark text\",\"include Chinese city skyline with recognizable high-rise glass towers reflecting sunset\",\"wet or slightly reflective pavement to mirror neon colors\",\"embed bold Chinese headline text in prominent upper area: 城市里的安静时刻\",\"embed subtitle text below headline: 黄昏，总能治愈一天的匆忙\",\"embed watermark text bottom-right corner: @龙爪槐守望者real · 生活观察\",\"text should use modern bold sans-serif Chinese typeface, white with subtle dark drop shadow for legibility\",\"overall feel must resemble a real viral Weibo hot post news photo\"],\"negative\":[\"cartoon or illustration style\",\"oversaturated HDR tonemapping\",\"studio lighting\",\"watermark logos other than specified text\",\"English signage dominant\",\"deformed human figures\",\"floating or distorted architecture\",\"blurry overall image\",\"low resolution appearance\"]}",
+        "size": "1536x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "7329ec50-8fa8-40d6-b229-09f9ebafe5c4",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/202e197a-b914-490c-ac9d-ca78e1edc379.jpeg"
+        ],
+        "local_paths": [],
+        "cost": 0.0439,
+        "latency_ms": 58209,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {},
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": "LLM 返回不是合法 JSON"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F3-paragraph-neg",
+      "format_label": "F3 Paragraph + Neg + AR",
+      "final_prompt": {
+        "prompt": "A wide cinematic cityscape photograph taken at golden hour dusk, capturing a bustling urban skyline as neon signs begin to flicker on across the city. The scene is shot from street level with a slight upward angle, showing hurried pedestrians blurred in motion against the warm amber and deep violet sky. Towering skyscrapers in the background reflect the last embers of sunset on their glass facades, creating dramatic contrast between warm golden highlights and cool shadow. The composition stretches horizontally with generous negative space on the left third of the frame, allowing room for text overlay. Street-level details are sharp and gritty, with wet pavement reflecting neon light in streaks of pink, orange, and electric blue. The overall aesthetic feels like a high-end smartphone documentary photo taken on the scene — raw, immediate, and emotionally resonant. Overlaid on the image in bold modern Chinese sans-serif typeface near the upper center reads the headline '城市里的安静时刻', with a smaller subtitle below reading '黄昏，总能治愈一天的匆忙', and a subtle watermark in the lower right corner reading '@龙爪槐守望者real · 生活观察'. Photojournalistic style, 35mm equivalent lens, natural color grading, 8K, high resolution, masterpiece.\nNegative Prompts: no artificial HDR halos, no oversaturated colors, no cartoonish rendering, no blurry foreground, no extra limbs on pedestrians, no distorted buildings, no duplicate text, no cluttered layout.\nAspect Ratio: 16:9.",
+        "size": "1536x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "a5aea088-cbdd-4537-8682-5ac24174f0c1",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/82bcf091-4939-4d82-b991-18aa5b47877a.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0427,
+        "latency_ms": 92253,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Documentary editorial urban dusk cityscape with dramatic 16:9 cinematic composition, crowded pedestrians rushing through intersection with motion blur and authentic street energy, modern professional attire on figures with reflective surfaces catching golden hour light, photojournalism style shot on Sony A7R full-frame sensor with 24mm wide lens evoking Magnum Photos reportage aesthetic, expansive metropolitan skyline with glass skyscrapers reflecting deep orange sunset and neon signs beginning to illuminate in foreground streets with generous negative space in upper third for text overlay, dramatic chiaroscuro golden hour transitioning to electric blue dusk with high contrast shadows and warm specular highlights creating cinematic tension and emotional resonance",
+        "size": "1536x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "95816a80-8f9f-4e66-9545-3653b5a62e54",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/6c1e4413-f526-4fba-82e3-e53bc539518a.jpeg"
+        ],
+        "local_paths": [],
+        "cost": 0.0418,
+        "latency_ms": 60283,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F2-cinematic",
+      "format_label": "F2 Cinematic Single",
+      "final_prompt": {
+        "prompt": "Cinematic 16:9 editorial dusk cityscape, hurried pedestrians under awakening neon signs, skyscrapers reflecting golden sunset, dramatic chiaroscuro, razor-sharp documentary realism, handheld photojournalism feel.",
+        "size": "1536x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "9dbc7b75-d302-4bc1-860e-c583f58fad62",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/e7d17292-95e1-4de0-a9f1-d137ab8e6691.jpeg"
+        ],
+        "local_paths": [],
+        "cost": 0.0414,
+        "latency_ms": 66218,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F1-long-comma",
+      "format_label": "F1 Long Comma",
+      "final_prompt": {
+        "prompt": "1536x1024 cinematic documentary photography, 16:9 wide banner format, professional photojournalism style, shot on high-end smartphone with computational photography, urban cityscape at golden hour dusk, dramatic skyline with skyscrapers reflecting warm amber and crimson sunset light on glass facades, neon signs and street lights gradually illuminating in the twilight, busy pedestrians as silhouettes and motion-blurred figures rushing across wide city boulevard, foreground wet pavement reflecting neon glow and fading sky colors, layered depth with near street life and distant towering buildings, volumetric haze and atmospheric perspective adding depth, dramatic chiaroscuro lighting with strong contrast between warm sunset highlights and cool shadow areas, rich color grading with deep teals and warm oranges, authentic film-like color science, sharp architectural details on buildings, visible individual neon characters glowing softly, real-world documentary immediacy and tension, handheld camera feel with slight natural vignette, overlaid bold Chinese headline text reading 城市里的安静时刻 in prominent modern black bold sans-serif font positioned in upper-left or center area, subtitle text reading 黄昏，总能治愈一天的匆忙 in smaller clean modern font below headline, watermark text reading @龙爪槐守望者real · 生活观察 in small subtle font at bottom-right corner, generous negative space in sky and lower areas for text legibility, professional Weibo news banner composition, 8K ultra-sharp detail, photorealistic rendering, no plastic textures, no over-saturation, no watermark artifacts beyond specified text",
+        "size": "1536x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "46434c83-520c-4590-a95d-1983270cad4c",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/b73383ce-94fc-478b-96ea-2e4e6ad5761d.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0427,
+        "latency_ms": 60221,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": "F7-minimal",
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "ecdaaba6"
+  }
+}

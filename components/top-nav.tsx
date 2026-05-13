@@ -10,6 +10,10 @@ import {
   formatDrawerTabAtom,
 } from "@/lib/atoms-format";
 import { globalHistoryOpenAtom } from "@/lib/atoms-history-index";
+import {
+  pipelineDrawerOpenAtom,
+  pipelineDrawerMainTabAtom,
+} from "@/lib/atoms-pipeline";
 
 export function TopNav() {
   const lab = useAtomValue(currentLabAtom);
@@ -17,14 +21,21 @@ export function TopNav() {
   const setRewriteTab = useSetAtom(drawerTabAtom);
   const setFormatOpen = useSetAtom(formatDrawerOpenAtom);
   const setFormatTab = useSetAtom(formatDrawerTabAtom);
+  const setPipelineOpen = useSetAtom(pipelineDrawerOpenAtom);
+  const setPipelineMainTab = useSetAtom(pipelineDrawerMainTabAtom);
   const setGlobalHistoryOpen = useSetAtom(globalHistoryOpenAtom);
 
-  // 设置按钮 lab-aware:rewrite lab 开 rewrite drawer,format lab 开 format drawer。
-  // 两个抽屉互不干扰,各自独立 atom。
+  // 设置按钮 lab-aware:
+  // - rewrite lab → rewrite drawer (4 tab:总说明书/目标模型画像/硬约束铁律/垂类小抄)
+  // - format / batch lab → format drawer (3 tab:skill 编辑/历史/累积报告) — 这两 lab 共用 skill 池
+  // - pipeline lab → pipeline drawer (4 tab:SP1 意图分类/SP2 改写/垂类标准/平台调性)
   const openSettings = () => {
-    if (lab === "format") {
+    if (lab === "format" || lab === "batch") {
       setFormatTab("skill");
       setFormatOpen(true);
+    } else if (lab === "pipeline") {
+      setPipelineMainTab("sp1");
+      setPipelineOpen(true);
     } else {
       setRewriteTab("skill");
       setRewriteOpen(true);

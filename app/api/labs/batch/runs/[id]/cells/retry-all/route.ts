@@ -15,13 +15,20 @@ import { Semaphore, readRun, patchRecord, patchCell } from "@/lib/batch-store";
 import { runCell, publishProgress } from "@/lib/batch-runner";
 import { markRunning, markDone, publish } from "@/lib/batch-bus";
 import { loadAllLabels } from "@/lib/format-runner";
+import {
+  providerOf,
+  getProviderConcurrency,
+  type ImageProvider,
+} from "@/lib/concurrency-policy";
+import type { BatchCell } from "@/lib/schema";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
 const RequestSchema = z.object({
-  // 同时跑几个 cell(LLM gateway + 生图 gateway 两条都不至于打爆)
-  concurrency: z.number().int().min(1).max(16).default(4),
+  // 老字段:多 model 改造后语义降级为"未指定 model 时的兜底"。
+  // 主要并发上限由 lib/concurrency-policy 按 per-model 决定。
+  concurrency: z.number().int().min(1).max(16).optional(),
 });
 
 export async function POST(
@@ -81,51 +88,88 @@ export async function POST(
   let skippedLocked = 0;
 
   // 单 cell 锁:与 /cells/retry 共用同一锁 key,防跟单点重试并发踩
+  // 三维定位:加 image_model 到 lockKey
   const eligibleForRetry: typeof failed = [];
   for (const cell of failed) {
-    const lockKey = `${id}::${cell.query_idx}::${cell.skill_id}`;
+    const effModel = cell.image_model ?? "";
+    const lockKey = `${id}::${cell.query_idx}::${cell.skill_id}::${effModel}`;
     if (!markRunning(lockKey)) {
       skippedLocked++;
       continue;
     }
     // 清旧产物,标 pending(让 SSE 看到状态回退)
-    await patchCell(id, cell.query_idx, cell.skill_id, {
-      status: "pending",
-      final_prompt: null,
-      image_urls: null,
-      error: null,
-      raw: "",
-      ms: 0,
-    });
+    await patchCell(
+      id,
+      cell.query_idx,
+      cell.skill_id,
+      {
+        status: "pending",
+        final_prompt: null,
+        image_urls: null,
+        error: null,
+        raw: "",
+        ms: 0,
+      },
+      effModel
+    );
     eligibleForRetry.push(cell);
     queued++;
   }
 
-  // 后台 fire-and-forget:Semaphore 限流,跑完每个 cell 都 publishProgress
+  // 后台 fire-and-forget:**per-model 独立 Semaphore**,跑完每个 cell 都 publishProgress
   void (async () => {
     try {
-      const sem = new Semaphore(concurrency);
-      // 推一次进度让前端立刻看到状态变化
       await publishProgress(id);
+
+      // 按 provider 分组(同 provider 下所有 model 共享一个池;跨 provider 独立)
+      // 原因见 lib/concurrency-policy.ts:Lovart token-level in-flight ≤ 15
+      const cellsByProvider = new Map<ImageProvider, BatchCell[]>();
+      for (const c of eligibleForRetry) {
+        const effModel = c.image_model || record.image_model || "";
+        const p = providerOf(effModel);
+        const arr = cellsByProvider.get(p);
+        if (arr) arr.push(c);
+        else cellsByProvider.set(p, [c]);
+      }
+
       await Promise.all(
-        eligibleForRetry.map((c) =>
-          sem.run(async () => {
-            try {
-              await runCell(
-                id,
-                record.queries[c.query_idx],
-                c.query_idx,
-                c.skill_id,
-                record.rewrite_llm || undefined,
-                labelMap,
-                record.include_universal
-              );
-              await publishProgress(id);
-            } finally {
-              markDone(`${id}::${c.query_idx}::${c.skill_id}`);
-            }
-          })
-        )
+        Array.from(cellsByProvider.entries()).map(async ([provider, cellsOfProvider]) => {
+          const cap = concurrency ?? getProviderConcurrency(provider);
+          const sem = new Semaphore(cap);
+          await Promise.all(
+            cellsOfProvider.map((c) =>
+              sem.run(async () => {
+                const cellModel = c.image_model ?? "";
+                try {
+                  // 方案 C:per_query 优先,空 / 越界 fallback record.reference_images
+                  const perQ = record.per_query_reference_images?.[c.query_idx];
+                  const effRefImages =
+                    perQ && perQ.length > 0 ? perQ : record.reference_images;
+                  await runCell(
+                    id,
+                    record.queries[c.query_idx],
+                    c.query_idx,
+                    c.skill_id,
+                    record.rewrite_llm || undefined,
+                    labelMap,
+                    record.include_universal,
+                    effRefImages,
+                    cellModel || record.image_model,
+                    {
+                      imageModelIds: record.image_model_ids,
+                      recordImageModel: record.image_model,
+                    },
+                    record.test_kind,
+                    c.pipeline_id ?? ""
+                  );
+                  await publishProgress(id);
+                } finally {
+                  markDone(`${id}::${c.query_idx}::${c.skill_id}::${cellModel}`);
+                }
+              })
+            )
+          );
+        })
       );
       await publishProgress(id);
     } catch (e) {

@@ -1,0 +1,1777 @@
+[
+  {
+    "id": "exp_fd57f7fa-84aa-4bb7-86a7-ca2078ef9644",
+    "ts": 1778666797990,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作一套抖音商城产品图，包含三张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。\n卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作一套抖音商城产品图，包含三张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。\n卖…",
+    "status": "completed",
+    "ref": "data/experiments/exp_fd57f7fa-84aa-4bb7-86a7-ca2078ef9644.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_54c90d2b-c144-4dc4-ab20-d04fe824dcaa",
+    "ts": 1778666745880,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作一套抖音商城产品图，包含三张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。\n卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作一套抖音商城产品图，包含三张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。\n卖…",
+    "status": "completed",
+    "ref": "data/experiments/exp_54c90d2b-c144-4dc4-ab20-d04fe824dcaa.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_ef11774d-d1be-4cce-99f4-c2be73cdfd8f",
+    "ts": 1778665809194,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做一个淘宝电商图，要很多蓝色的科技元素，以及文字“声音够大”",
+    "summary": "做一个淘宝电商图，要很多蓝色的科技元素，以及文字“声音够大” · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_ef11774d-d1be-4cce-99f4-c2be73cdfd8f.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "aa79edbc-6a2b-44ed-9934-3871f4a6fd0c",
+    "ts": 1778666214771,
+    "lab_id": "batch",
+    "query": "设计一个logo要求简洁扁平化，蓝色或着红色，最多可用奥运五色，字母包含TJTC四个字母，视觉效果好",
+    "summary": "315 queries × 2 skills · nbp/nb2 测试",
+    "status": "partial",
+    "ref": "data/labs/batch/runs/aa79edbc-6a2b-44ed-9934-3871f4a6fd0c.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 315,
+      "n_skills": 2,
+      "mode": "set"
+    }
+  },
+  {
+    "id": "exp_7815af1d-e23d-4868-9b42-739852b37710",
+    "ts": 1778664834098,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "25 queries × 1 pipelines",
+    "summary": "25 queries × 1 pipelines",
+    "status": "completed",
+    "ref": "data/experiments/exp_7815af1d-e23d-4868-9b42-739852b37710.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "(pipeline 默认)",
+        "review": "(pipeline 默认)",
+        "image": "(pipeline 默认)"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "batch_pipeline"
+    }
+  },
+  {
+    "id": "exp_373dd663-0934-4bfb-90f1-2f67a1744839",
+    "ts": 1778665126340,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作一套抖音商城产品图，包含三张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。\n卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作一套抖音商城产品图，包含三张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。\n卖… · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_373dd663-0934-4bfb-90f1-2f67a1744839.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "4724e33c-551a-4344-9264-193f407e4f40",
+    "ts": 1778664834992,
+    "lab_id": "batch",
+    "query": "参考图[@image:#1:6e81a4477f8732c9fdeec6d80469401b116c1f56e69f77d87cd1fbe7dd0c1786]为图[@image:#2:A93A0598]母子花盆添加多肉植物，生成4张不同风格淘宝场景图，母亲节，温馨的居家风格，2k画质，1:1比例",
+    "summary": "25 queries × 0 skills",
+    "status": "partial",
+    "ref": "data/labs/batch/runs/4724e33c-551a-4344-9264-193f407e4f40.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 25,
+      "n_skills": 0,
+      "mode": "set"
+    }
+  },
+  {
+    "id": "exp_238bf8c2-d8b8-45d1-bc79-60d89c9ac51d",
+    "ts": 1778664493770,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做一个淘宝电商图，要很多蓝色的科技元素，以及文字“声音够大”",
+    "summary": "做一个淘宝电商图，要很多蓝色的科技元素，以及文字“声音够大” · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_238bf8c2-d8b8-45d1-bc79-60d89c9ac51d.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_8c24771f-e6aa-475b-b406-bda0d63c3dc5",
+    "ts": 1778663348237,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "淘宝主图，耳机，要有很多蓝色科技元素",
+    "summary": "淘宝主图，耳机，要有很多蓝色科技元素 · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_8c24771f-e6aa-475b-b406-bda0d63c3dc5.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_217efac3-b852-45a3-a13b-f65052954474",
+    "ts": 1778663441451,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做一个淘宝电商图，要很多蓝色的科技元素，以及文字“声音够大”",
+    "summary": "做一个淘宝电商图，要很多蓝色的科技元素，以及文字“声音够大” · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_217efac3-b852-45a3-a13b-f65052954474.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_1a9bb01e-f8d5-4e0a-842d-44c23e6031de",
+    "ts": 1778662893117,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」。红色 ysl 口红",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」。红色 ysl 口红 · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_1a9bb01e-f8d5-4e0a-842d-44c23e6031de.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_9c8b2bb4-0eca-41ee-b853-c6c76154f8ca",
+    "ts": 1778662653299,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」。红色口红",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」。红色口红 · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_9c8b2bb4-0eca-41ee-b853-c6c76154f8ca.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_8519f067-f1e3-4cfc-a48c-6e082f5612eb",
+    "ts": 1778662539790,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」。黑色包装的口红",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」。黑色包装的口红 · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_8519f067-f1e3-4cfc-a48c-6e082f5612eb.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-1"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_347cef84-6cda-4636-bf6f-d93939da2813",
+    "ts": 1778662027903,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」 · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_347cef84-6cda-4636-bf6f-d93939da2813.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_b628e746-dd89-403c-826c-0bb92a225209",
+    "ts": 1778662309950,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」。物品是口红",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」。物品是口红 · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_b628e746-dd89-403c-826c-0bb92a225209.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-1"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_18038c67-4412-4b2e-a610-8d7ab52b6f4b",
+    "ts": 1778661765491,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」 · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_18038c67-4412-4b2e-a610-8d7ab52b6f4b.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_0b7fe826-2c1d-4e36-9846-358e737882b7",
+    "ts": 1778660933547,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」 · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_0b7fe826-2c1d-4e36-9846-358e737882b7.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_177aaa5c-4599-4d81-8d7e-8ff62802cc1a",
+    "ts": 1778660782413,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」 · sp1:v1 / planner:v2 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_177aaa5c-4599-4d81-8d7e-8ff62802cc1a.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "planner": "v2",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_74633aee-2132-4045-a994-d510c40fea5e",
+    "ts": 1778660468094,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」 · sp1:v1 / vertical:v2 / platform:v2 / planner:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_74633aee-2132-4045-a994-d510c40fea5e.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "planner": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_a7bdc28a-92f2-479f-8f88-2a8ad8e6692b",
+    "ts": 1778659533214,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」 · sp1:v1 / vertical:v2 / platform:v2 / planner:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_a7bdc28a-92f2-479f-8f88-2a8ad8e6692b.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "planner": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_fa26b07b-e094-4b9a-9f1d-a4b019505874",
+    "ts": 1778659200252,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」 · sp1:v1 / vertical:v2 / platform:v2 / planner:v1 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_fa26b07b-e094-4b9a-9f1d-a4b019505874.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "planner": "v1",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "9186f25c-5f32-43dc-9847-2a9bb0cf25df",
+    "ts": 1778658058882,
+    "lab_id": "batch",
+    "query": "这是一张玫瑰花的立体贺卡，请帮我精修，背景改成白底，使其符合亚马逊主图的要求[@image:#1:895A7101]",
+    "summary": "45 queries × 2 skills · 题目集测试 (副本)",
+    "status": "partial",
+    "ref": "data/labs/batch/runs/9186f25c-5f32-43dc-9847-2a9bb0cf25df.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 45,
+      "n_skills": 2,
+      "mode": "set"
+    }
+  },
+  {
+    "id": "89a34dc2-2e3a-44ed-a81f-d65d9378fda4",
+    "ts": 1778657943356,
+    "lab_id": "batch",
+    "query": "[@image:#1:North_western_bus_logo] create a modern logo based on the image provided",
+    "summary": "27 queries × 1 skills · 已完成",
+    "status": "completed",
+    "ref": "data/labs/batch/runs/89a34dc2-2e3a-44ed-a81f-d65d9378fda4.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 27,
+      "n_skills": 1,
+      "mode": "set"
+    }
+  },
+  {
+    "id": "f1376e24-4e99-4414-98c3-f9b01e15bda2",
+    "ts": 1778657820766,
+    "lab_id": "batch",
+    "query": "参考图[@image:#1:6e81a4477f8732c9fdeec6d80469401b116c1f56e69f77d87cd1fbe7dd0c1786]为图[@image:#2:A93A0598]母子花盆添加多肉植物，生成4张不同风格淘宝场景图，母亲节，温馨的居家风格，2k画质，1:1比例",
+    "summary": "107 queries × 0 skills · 已完成",
+    "status": "completed",
+    "ref": "data/labs/batch/runs/f1376e24-4e99-4414-98c3-f9b01e15bda2.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 107,
+      "n_skills": 0,
+      "mode": "set"
+    }
+  },
+  {
+    "id": "exp_50f53e46-f151-416f-ad1d-f2a448900430",
+    "ts": 1778655089137,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "淘宝主图,小米 19 手机，数码味很重，文字“19”",
+    "summary": "淘宝主图,小米 19 手机，数码味很重，文字“19” · sp1:v1 / vertical:v2 / platform:v2 / planner:v1 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_50f53e46-f151-416f-ad1d-f2a448900430.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "planner": "v1",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_1d6223b8-6e11-49c3-849d-0c8fe3ed2102",
+    "ts": 1778644923558,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "淘宝主图,小米 19 手机，数码味很重，文字“19”",
+    "summary": "淘宝主图,小米 19 手机，数码味很重，文字“19” · sp1:v1 / vertical:v2 / platform:v2 / planner:v1 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_1d6223b8-6e11-49c3-849d-0c8fe3ed2102.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "planner": "v1",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_164a5054-8cef-4b83-b928-5f67c48d1489",
+    "ts": 1778643798280,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "亚马逊主图,纯白底,产品要够大",
+    "summary": "亚马逊主图,纯白底,产品要够大 · sp1:v1 / vertical:v2 / platform:v2 / planner:v1 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_164a5054-8cef-4b83-b928-5f67c48d1489.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "planner": "v1",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_8f8cb38b-212c-4a54-b5bc-075bf2afca82",
+    "ts": 1778642421765,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "小红书封面:标题「这家店绝了」,下方写「3 杯不踩雷推荐」",
+    "summary": "小红书封面:标题「这家店绝了」,下方写「3 杯不踩雷推荐」 · sp1:v1 / vertical:v2 / platform:v2 / planner:v1 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_8f8cb38b-212c-4a54-b5bc-075bf2afca82.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "planner": "v1",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_5a41fa8d-5832-47e8-8b9a-b3f4b693eb5e",
+    "ts": 1778596213311,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 3 张图,卖一款蓝牙耳机",
+    "summary": "做淘宝详情页 3 张图,卖一款蓝牙耳机 · sp1:v1 / vertical:v2 / platform:v2 / planner:v1 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_5a41fa8d-5832-47e8-8b9a-b3f4b693eb5e.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "planner": "v1",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "",
+        "review": "",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_885cb6f4-69a8-4ae9-a9d2-1c1dcffb67e4",
+    "ts": 1778596106534,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "亚马逊主图,纯白底,产品要够大",
+    "summary": "亚马逊主图,纯白底,产品要够大 · sp1:v1 / vertical:v2 / platform:v2 / planner:v1 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_885cb6f4-69a8-4ae9-a9d2-1c1dcffb67e4.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "planner": "v1",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_ac378aab-009e-4a90-912c-9b42e14ca3d4",
+    "ts": 1778596124324,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做一张赛博朋克风的小红书海报",
+    "summary": "做一张赛博朋克风的小红书海报 · sp1:v1 / vertical:v2 / platform:v2 / planner:v1 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_ac378aab-009e-4a90-912c-9b42e14ca3d4.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "planner": "v1",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "",
+        "review": "",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_d41b7bde-a5a6-4f39-b376-a0995cf75463",
+    "ts": 1778595683709,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "亚马逊主图,纯白底,产品要够大",
+    "summary": "亚马逊主图,纯白底,产品要够大 · sp1:v1 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_d41b7bde-a5a6-4f39-b376-a0995cf75463.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_e5d1b9d6-cc43-433d-b4a2-915c147c0c56",
+    "ts": 1778595479230,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "亚马逊主图,纯白底,产品要够大",
+    "summary": "亚马逊主图,纯白底,产品要够大 · sp1:v1 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_e5d1b9d6-cc43-433d-b4a2-915c147c0c56.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_f4da47c5-51be-4c99-84ba-8de138c6abb1",
+    "ts": 1778595275447,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做一个简单的红苹果海报",
+    "summary": "做一个简单的红苹果海报 · sp1:v1 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_f4da47c5-51be-4c99-84ba-8de138c6abb1.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "",
+        "review": "",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_c6def3cc-d518-4f1f-afca-bffcfe001a19",
+    "ts": 1778595070655,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "小红书封面:标题「这家店绝了」,下方写「3 杯不踩雷推荐」",
+    "summary": "小红书封面:标题「这家店绝了」,下方写「3 杯不踩雷推荐」 · sp1:v1 / vertical:v2 / platform:v2 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_c6def3cc-d518-4f1f-afca-bffcfe001a19.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v2",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "b2eb88fb-dc57-4176-a27d-5a92bdf3dbe8",
+    "ts": 1778595179427,
+    "lab_id": "batch",
+    "query": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+    "summary": "29 queries × 2 skills · 已完成",
+    "status": "completed",
+    "ref": "data/labs/batch/runs/b2eb88fb-dc57-4176-a27d-5a92bdf3dbe8.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 29,
+      "n_skills": 2,
+      "mode": "manual"
+    }
+  },
+  {
+    "id": "exp_e3723b5a-e895-4df7-a249-0a4bf7ca5053",
+    "ts": 1778594692351,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "小红书封面:标题「这家店绝了」,下方写「3 杯不踩雷推荐」",
+    "summary": "小红书封面:标题「这家店绝了」,下方写「3 杯不踩雷推荐」 · sp1:v1 / vertical:v2 / platform:v1 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_e3723b5a-e895-4df7-a249-0a4bf7ca5053.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v1",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_7974e0d9-3172-4fb3-bc22-2de7c6d2705a",
+    "ts": 1778594314078,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "亚马逊主图,纯白底,产品要够大",
+    "summary": "亚马逊主图,纯白底,产品要够大 · sp1:v1 / vertical:v2 / platform:v1 / sp2:v2",
+    "status": "completed",
+    "ref": "data/experiments/exp_7974e0d9-3172-4fb3-bc22-2de7c6d2705a.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v2",
+        "platform": "v1",
+        "sp2": "v2"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_a7cecb49-26b0-4e05-a2e3-f0fb5ff3a6a8",
+    "ts": 1778593243593,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」 · sp1:v1 / vertical:v1 / platform:v1 / sp2:v1",
+    "status": "completed",
+    "ref": "data/experiments/exp_a7cecb49-26b0-4e05-a2e3-f0fb5ff3a6a8.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v1",
+        "platform": "v1",
+        "sp2": "v1"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "exp_1334a870-b16a-48db-a7ce-fbb5b5ee79d9",
+    "ts": 1778591568339,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」 · sp1:v1 / vertical:v1 / platform:v1 / sp2:v1",
+    "status": "completed",
+    "ref": "data/experiments/exp_1334a870-b16a-48db-a7ce-fbb5b5ee79d9.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {
+        "sp1": "v1",
+        "vertical": "v1",
+        "platform": "v1",
+        "sp2": "v1"
+      },
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": ""
+    }
+  },
+  {
+    "id": "065353a3-4a78-4a8a-9539-9e123b4a70cd",
+    "ts": 1778491673037,
+    "lab_id": "batch",
+    "query": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+    "summary": "29 queries × 1 skills · 已完成",
+    "status": "completed",
+    "ref": "data/labs/batch/runs/065353a3-4a78-4a8a-9539-9e123b4a70cd.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 29,
+      "n_skills": 1,
+      "mode": "manual"
+    }
+  },
+  {
+    "id": "28dde677-6e3e-4622-947e-0011ee6e0fe9",
+    "ts": 1778486943980,
+    "lab_id": "batch",
+    "query": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+    "summary": "29 queries × 1 skills · 已完成",
+    "status": "completed",
+    "ref": "data/labs/batch/runs/28dde677-6e3e-4622-947e-0011ee6e0fe9.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 29,
+      "n_skills": 1,
+      "mode": "manual"
+    }
+  },
+  {
+    "id": "3e5c3c93-51f1-4360-8f59-16865dc1a1f5",
+    "ts": 1778486447915,
+    "lab_id": "batch",
+    "query": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+    "summary": "29 queries × 1 skills · 已完成",
+    "status": "completed",
+    "ref": "data/labs/batch/runs/3e5c3c93-51f1-4360-8f59-16865dc1a1f5.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 29,
+      "n_skills": 1,
+      "mode": "manual"
+    }
+  },
+  {
+    "id": "43caa8c6-939d-4723-adfc-fa2c87fb4d12",
+    "ts": 1778485410493,
+    "lab_id": "batch",
+    "query": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+    "summary": "29 queries × 1 skills · 已完成",
+    "status": "completed",
+    "ref": "data/labs/batch/runs/43caa8c6-939d-4723-adfc-fa2c87fb4d12.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 29,
+      "n_skills": 1,
+      "mode": "manual"
+    }
+  },
+  {
+    "id": "f579d6a3-978a-481b-b541-3dd34bcdbf88",
+    "ts": 1778484161100,
+    "lab_id": "batch",
+    "query": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+    "summary": "29 queries × 1 skills · 已完成",
+    "status": "completed",
+    "ref": "data/labs/batch/runs/f579d6a3-978a-481b-b541-3dd34bcdbf88.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 29,
+      "n_skills": 1,
+      "mode": "manual"
+    }
+  },
+  {
+    "id": "21e20a98-b580-4a4b-87f3-2945ec35845e",
+    "ts": 1778483604338,
+    "lab_id": "batch",
+    "query": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+    "summary": "29 queries × 1 skills · KOL -2026/05/11-gpt vs nbp 01",
+    "status": "partial",
+    "ref": "data/labs/batch/runs/21e20a98-b580-4a4b-87f3-2945ec35845e.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 29,
+      "n_skills": 1,
+      "mode": "manual"
+    }
+  },
+  {
+    "id": "3537e7bc-1e87-4ea7-801d-9ce7b3e2806f",
+    "ts": 1778482984895,
+    "lab_id": "batch",
+    "query": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+    "summary": "29 queries × 1 skills · KOL -2026/05/11-gpt vs nbp",
+    "status": "partial",
+    "ref": "data/labs/batch/runs/3537e7bc-1e87-4ea7-801d-9ce7b3e2806f.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 29,
+      "n_skills": 1,
+      "mode": "manual"
+    }
+  },
+  {
+    "id": "a6fa9871-1858-4b8f-b905-9384740f0d88",
+    "ts": 1778481240770,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/a6fa9871-1858-4b8f-b905-9384740f0d88.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "c1f94bea-421f-45e2-91e0-a43f339d187e",
+    "ts": 1778481228231,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/c1f94bea-421f-45e2-91e0-a43f339d187e.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "e78d3818-9755-4ea9-829b-67d0881f670e",
+    "ts": 1778481214803,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/e78d3818-9755-4ea9-829b-67d0881f670e.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "3cffca14-bbe7-4b90-bd39-4f45f30f55fe",
+    "ts": 1778480985468,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/3cffca14-bbe7-4b90-bd39-4f45f30f55fe.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "6a61e011-6230-4268-afb0-f5e33c468e40",
+    "ts": 1778480973293,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/6a61e011-6230-4268-afb0-f5e33c468e40.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "c01145f4-2d6f-4bce-be00-a26dca30d627",
+    "ts": 1778480962847,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/c01145f4-2d6f-4bce-be00-a26dca30d627.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "1ed8b829-054f-4ccf-bfe6-4dc4332ef332",
+    "ts": 1778480927568,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/1ed8b829-054f-4ccf-bfe6-4dc4332ef332.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "65030edb-4390-4897-993b-116c814e345c",
+    "ts": 1778480576575,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/65030edb-4390-4897-993b-116c814e345c.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "6f5ed6e5-67ee-4f08-967a-4996699da13b",
+    "ts": 1778480564739,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/6f5ed6e5-67ee-4f08-967a-4996699da13b.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "7418b134-c086-48c2-ba67-8366f1e6b2e0",
+    "ts": 1778480389536,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/7418b134-c086-48c2-ba67-8366f1e6b2e0.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "4a2fe096-1af4-42a0-8275-59f9e4712444",
+    "ts": 1778480355265,
+    "lab_id": "format",
+    "query": "转成高级杂志风",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/4a2fe096-1af4-42a0-8275-59f9e4712444.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "c07754be-4c96-4a36-b1c7-bccd430f8153",
+    "ts": 1778478080672,
+    "lab_id": "format",
+    "query": "巧克力",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/c07754be-4c96-4a36-b1c7-bccd430f8153.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "c3083b5b-3dd1-42b9-9345-744558447a2e",
+    "ts": 1778140141921,
+    "lab_id": "format",
+    "query": "一直小猫咪",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/c3083b5b-3dd1-42b9-9345-744558447a2e.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "fbf655f6-1bff-458f-b3fe-b2fcb416737f",
+    "ts": 1777290492659,
+    "lab_id": "format",
+    "query": "品牌核心元素： 品牌标志：RAN QIU 标志 主色调：#8B3A1E（深秋棕红）、#E8DCCB（米色）、#D4A574（金棕色） 设计风格：东方美学、极简主义、自然诗意、温暖治愈   视觉语言：充足留白、浅景深、暖色调、金色时光 制作一张符合品牌调性的宣传海报。采用温暖的秋日氛围，结合品牌标志和自然元素，营造诗意而宁静的视觉体验。",
+    "summary": "4 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/fbf655f6-1bff-458f-b3fe-b2fcb416737f.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "13dcfec9-7712-413e-82e1-34bab41e1af6",
+    "ts": 1777284709056,
+    "lab_id": "format",
+    "query": "9:16的图片比例，生成一张抖音直播的截图，里面是神仙姐姐在直播\n神仙姐姐手里掌着牌子，牌子里写着今晚直播，欢迎来参亦菲畅聊！",
+    "summary": "4 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/13dcfec9-7712-413e-82e1-34bab41e1af6.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "502c9e6b-8a0b-4859-a641-c478803ed62a",
+    "ts": 1777284478464,
+    "lab_id": "format",
+    "query": "9:16的图片比例，生成一张抖音直播的截图，里面是神仙姐姐在直播\n神仙姐姐手里掌着牌子，牌子里写着今晚直播，欢迎来参亦菲畅聊！",
+    "summary": "4 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/502c9e6b-8a0b-4859-a641-c478803ed62a.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "4e771918-8beb-491f-afc3-b8f274b40881",
+    "ts": 1777284331065,
+    "lab_id": "format",
+    "query": "9:16的图片比例，生成一张抖音直播的截图，里面是神仙姐姐在直播\n神仙姐姐手里掌着牌子，牌子里写着今晚直播，欢迎来参亦菲畅聊！",
+    "summary": "4 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/4e771918-8beb-491f-afc3-b8f274b40881.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "07cc6883-d4d3-49aa-b147-5f5ba394f720",
+    "ts": 1777284121043,
+    "lab_id": "format",
+    "query": "9:16的图片比例，生成一张抖音直播的截图，里面是神仙姐姐在直播\n神仙姐姐手里掌着牌子，牌子里写着今晚直播，欢迎来参亦菲畅聊！",
+    "summary": "4 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/07cc6883-d4d3-49aa-b147-5f5ba394f720.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "40cad4a3-9c07-4f77-b10b-f8e226e2fd3b",
+    "ts": 1777281522865,
+    "lab_id": "format",
+    "query": "制作一个公众号文章封面。\n标题：染秋 - 秋意染染 时光留香\n主题：染秋香氛新品发布\n构图方法：中心构图。\n风格：高级质感风。\n要求：突出标题。\n比例：900x500",
+    "summary": "4 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/40cad4a3-9c07-4f77-b10b-f8e226e2fd3b.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "ffe2dcb0-ef51-4efd-9804-60444e4f9b2a",
+    "ts": 1777281358110,
+    "lab_id": "format",
+    "query": "制作一个小红书的封面。\n主题：GPT-image-2 也已经在 Lovart 平台上线了。\n审美：高级杂志感。\n要求：\n1.有主题文字，GPT-image-2   和 Lovart。\n2.使用对角线构图\n3.高对比强调色",
+    "summary": "4 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/ffe2dcb0-ef51-4efd-9804-60444e4f9b2a.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "4357c06c-6e29-41f9-b149-f61f473aee76",
+    "ts": 1777278959557,
+    "lab_id": "format",
+    "query": "染秋 (RAN QIU) 秋季品牌。\n 品牌理念：染秋以东方哲学观照自然更迭，意在捕捉秋日流转中的诗意瞬间。品牌从中国传统\"染\"的工艺美学出发，将秋天的色彩、气息、情绪凝练成可感知的香氛艺术。精选秋季时令植物——桂花、柿子、枫叶、乌龙茶，融合东方香料如肉桂、檀香、琥珀，创造温暖而隽永的秋日记忆。\n核心系列：    以\"染秋\"为题，推出桂花乌龙、琥珀枫叶、柿霜暮色等香调，营造温暖治愈的秋日氛围。\n制作品牌染秋的主色 + 辅色 + 字体规范展示图",
+    "summary": "3 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/4357c06c-6e29-41f9-b149-f61f473aee76.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "21ec3057-165b-49a3-92fe-6278ebaabcb9",
+    "ts": 1777278809494,
+    "lab_id": "format",
+    "query": "品牌核心元素： 品牌标志：RAN QIU 标志 主色调：#8B3A1E（深秋棕红）、#E8DCCB（米色）、#D4A574（金棕色） 设计风格：东方美学、极简主义、自然诗意、温暖治愈   视觉语言：充足留白、浅景深、暖色调、金色时光 制作一张符合品牌调性的宣传海报。采用温暖的秋日氛围，结合品牌标志和自然元素，营造诗意而宁静的视觉体验。",
+    "summary": "3 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/21ec3057-165b-49a3-92fe-6278ebaabcb9.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "0e78ba33-b23f-431a-a6f1-0ca97a509920",
+    "ts": 1777278659180,
+    "lab_id": "format",
+    "query": "品牌核心元素： 品牌标志：RAN QIU 标志 主色调：#8B3A1E（深秋棕红）、#E8DCCB（米色）、#D4A574（金棕色） 设计风格：东方美学、极简主义、自然诗意、温暖治愈   视觉语言：充足留白、浅景深、暖色调、金色时光 制作一张符合品牌调性的宣传海报。采用温暖的秋日氛围，结合品牌标志和自然元素，营造诗意而宁静的视觉体验。",
+    "summary": "3 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/0e78ba33-b23f-431a-a6f1-0ca97a509920.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "3e9a8092-9708-46d4-95f7-7487ca4cbdfc",
+    "ts": 1777277889357,
+    "lab_id": "format",
+    "query": "跨境电商促销海报，目的是宣传，要求：1.有艺术字，2.有字体堆叠，3.画面较为复杂但不能杂乱，4.有产品或者主体挡住一些字体，4.画面比例16:9",
+    "summary": "3 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/3e9a8092-9708-46d4-95f7-7487ca4cbdfc.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "5c7b4ba1-7821-4a46-8fa5-6544a9c7fe73",
+    "ts": 1777277602159,
+    "lab_id": "format",
+    "query": "Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.",
+    "summary": "5 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/5c7b4ba1-7821-4a46-8fa5-6544a9c7fe73.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "f9e52299-b07c-4cec-9c98-3930b41d2569",
+    "ts": 1777277301024,
+    "lab_id": "format",
+    "query": "大话西游海报，重置为90年代港片风格，至尊宝紫霞城墙拥吻，远处站着牛魔王和唐僧，胶片颗粒",
+    "summary": "5 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/f9e52299-b07c-4cec-9c98-3930b41d2569.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "69b1ad24-2751-47a9-b236-7b7821171c40",
+    "ts": 1777277048406,
+    "lab_id": "format",
+    "query": "生成一个解释如下概念的定义和概念之间关系的信息图，手绘风格，图文并茂，浅显易懂，概念有：AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI",
+    "summary": "5 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/69b1ad24-2751-47a9-b236-7b7821171c40.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "826045b5-4286-4e40-8117-fc658d34d881",
+    "ts": 1777276842360,
+    "lab_id": "format",
+    "query": "设计一个PPT封面，通透震撼的背景图片配合符合品牌调性的标题和副标题。主题是：长安起源Q06将于9月上市",
+    "summary": "5 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/826045b5-4286-4e40-8117-fc658d34d881.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "547c047c-2ced-43e5-8669-128fccd39f7b",
+    "ts": 1777276669633,
+    "lab_id": "format",
+    "query": "生成一个自媒体头像，这个自媒体主要是分享新能源汽车、数码产品、生活好物。要求自媒体头像无论是放在中国还是外国的社交平台，都有和谐的视觉效果，并且保证不会触犯特定人群的禁忌。",
+    "summary": "5 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/547c047c-2ced-43e5-8669-128fccd39f7b.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "bcf9d317-6f8c-4b36-b39e-5f0308740af9",
+    "ts": 1777276477512,
+    "lab_id": "format",
+    "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+    "summary": "5 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/bcf9d317-6f8c-4b36-b39e-5f0308740af9.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "beb57fd8-f3dc-4eec-a980-63e6bcb468de",
+    "ts": 1777276434022,
+    "lab_id": "format",
+    "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+    "summary": "5 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/beb57fd8-f3dc-4eec-a980-63e6bcb468de.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "eaefad85-b4ed-4c3f-8b63-9c6c5789926c",
+    "ts": 1777276091939,
+    "lab_id": "format",
+    "query": "生成一张适合小红书发布的 3:4 竖版九宫格海报，整体为 3列 × 3行 排版，九个宫格边界清晰，方便后期直接切割成 9 张单图发布。整体风格干净、高级、统一，适合女性向健康生活方式内容，具有小红书爆款封面气质。画面要求 信息排版清晰、文字大、可读性强、留白舒服、配色温柔治愈。\n\n整体视觉风格：\n奶油白、浅米色、淡燕麦色、浅焦糖色为主色调，搭配少量深棕色文字，ins风、治愈感、睡眠疗愈主题，简约排版，轻拟物插画点缀，可加入枕头、月亮、星星、热牛奶、香薰、书本、眼罩、窗帘、床铺等元素。整体像专业新媒体设计图，字体工整，适合做知识科普类小红书九宫格。\n排版要求：\n\n整张图必须是标准九宫格构图，切分后每一格都能独立成图\n\n每个宫格内容完整居中，不要把标题或正文压在分割线附近\n每个格子之间保留明显间隔或细边框，保证裁切后不影响阅读\n所有文字使用中文，清晰易读，不要乱码，不要英文\n每个宫格都像独立的小红书图文卡片，但视觉风格保持统一\n画面精致、真实、自然，不要廉价营销感，不要过度花哨\n九宫格具体内容：\n\n第1格（封面）\n大标题：让你倒头就睡的8个 tips\n副标题：失眠党、熬夜党一定要收藏\n封面视觉最吸睛，适合做首图，加入柔软床铺、月亮、枕头、眼罩等治愈睡眠元素，标题突出，排版高级。\n\n第2格\n标题：1. 睡前1小时别玩手机\n正文：蓝光会让大脑更清醒，越刷越睡不着。\n配图元素：手机、月亮、困倦表情的小插画\n第3格\n标题：2. 睡前把灯光调暗\n正文：暖光环境能帮助身体进入“准备睡觉”的状态。\n配图元素：床头灯、暖黄色灯光、窗帘\n第4格\n标题：3. 房间温度别太高\n正文：稍微凉一点，更容易快速入睡。\n配图元素：空调、温度计、被子\n第5格\n标题：4. 晚上别喝浓茶咖啡\n正文：咖啡因会延迟困意，让你躺很久还睡不着。\n配图元素：咖啡杯、茶杯、禁止符号\n\n第6格\n标题：5. 睡前洗个热水澡\n正文：能让身体放松下来，入睡速度更快。\n配图元素：浴室蒸汽、毛巾、热水\n第7格\n标题：6. 脑子停不下来就写下来\n正文：把烦心事和待办清单写下，大脑会更容易放松。\n配图元素：笔记本、钢笔、小台灯\n第8格\n标题：7. 固定上床时间\n正文：每天差不多时间睡，生物钟会越来越稳定。\n配图元素：时钟、月亮、床\n第9格\n标题：8. 试试深呼吸放松法\n正文：吸气4秒，停4秒，呼气6秒，慢慢就有困意了。\n底部小字：收藏这组，今晚试试看\n配图元素：呼吸线条、闭眼人物、星星\n\n画质要求：\n高清，高级排版，杂志感，真实可发布，新媒体运营审美，小红书爆款图文风格，文字布局规整，适合直接切图。",
+    "summary": "5 路 · 🏆 F4 Block Formula",
+    "status": "completed",
+    "ref": "data/labs/format/runs/eaefad85-b4ed-4c3f-8b63-9c6c5789926c.json",
+    "pm_score_avg": 9,
+    "pm_score_count": 1,
+    "metadata": {}
+  },
+  {
+    "id": "55cc41ce-08ef-4eeb-9a26-1014c225a5d6",
+    "ts": 1777275782704,
+    "lab_id": "format",
+    "query": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+    "summary": "5 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/55cc41ce-08ef-4eeb-9a26-1014c225a5d6.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "f3996702-c91d-4eae-b5c8-8e04b2d59dfb",
+    "ts": 1777275242338,
+    "lab_id": "format",
+    "query": "跨境电商促销海报，目的是宣传，要求：1.有艺术字，2.有字体堆叠，3.画面较为复杂但不能杂乱，4.有产品或者主体挡住一些字体，4.画面比例16:9",
+    "summary": "5 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/f3996702-c91d-4eae-b5c8-8e04b2d59dfb.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "75ff5c36-c2ff-4539-badd-45ee82e27968",
+    "ts": 1777275099087,
+    "lab_id": "format",
+    "query": "跨境电商促销海报，目的是宣传，要求：1.有艺术字，2.有字体堆叠，3.画面较为复杂但不能杂乱，4.有产品或者主体挡住一些字体，4.画面比例16:9",
+    "summary": "5 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/75ff5c36-c2ff-4539-badd-45ee82e27968.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "d0cd1033-eefe-465d-8cb3-151fc003b56d",
+    "ts": 1777274531352,
+    "lab_id": "format",
+    "query": "跨境电商促销海报，目的是宣传，要求：1.有艺术字，2.有字体堆叠，3.画面较为复杂但不能杂乱，4.有产品或者主体挡住一些字体，4.画面比例16:9",
+    "summary": "8 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/d0cd1033-eefe-465d-8cb3-151fc003b56d.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "19ac15bc-c170-4905-9d8b-acf57db88545",
+    "ts": 1777274321036,
+    "lab_id": "format",
+    "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+    "summary": "8 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/19ac15bc-c170-4905-9d8b-acf57db88545.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "d778fba5-f49d-4da0-b4e4-76ae02aaf89d",
+    "ts": 1777274231674,
+    "lab_id": "format",
+    "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+    "summary": "8 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/d778fba5-f49d-4da0-b4e4-76ae02aaf89d.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "a28acce4-39a1-446e-9556-ad7e9cb0c357",
+    "ts": 1777273968645,
+    "lab_id": "format",
+    "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+    "summary": "8 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/a28acce4-39a1-446e-9556-ad7e9cb0c357.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "c22b130a-cd8b-46c7-800e-98f1b3ac22ac",
+    "ts": 1777273075754,
+    "lab_id": "format",
+    "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+    "summary": "10 路 · 🏆 F7 极简短句",
+    "status": "completed",
+    "ref": "data/labs/format/runs/c22b130a-cd8b-46c7-800e-98f1b3ac22ac.json",
+    "pm_score_avg": 1,
+    "pm_score_count": 1,
+    "metadata": {}
+  },
+  {
+    "id": "3f6acf32-b5c8-449d-8f88-9f5851ab71f3",
+    "ts": 1777272795087,
+    "lab_id": "format",
+    "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+    "summary": "1 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/3f6acf32-b5c8-449d-8f88-9f5851ab71f3.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "dec4c18f-eacc-4a8f-a8af-4069b1c4625d",
+    "ts": 1777272754522,
+    "lab_id": "rewrite",
+    "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+    "summary": "photorealistic-natural → 城市纪实摄影 / 新闻配图 → 黄昏城市街头 · 带文字水印的社媒热帖配图（微博横版）",
+    "status": "completed",
+    "ref": "data/labs/rewrite/runs/dec4c18f-eacc-4a8f-a8af-4069b1c4625d.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "3e83831e-bb7d-41cb-a18b-ed542dc80ecd",
+    "ts": 1777263529566,
+    "lab_id": "rewrite",
+    "query": "赛博朋克科幻侧脸肖像",
+    "summary": "stylized-concept → 赛博朋克人物概念图 / 科幻肖像海报 → 单人侧脸特写 / 霓虹光影人物肖像",
+    "status": "completed",
+    "ref": "data/labs/rewrite/runs/3e83831e-bb7d-41cb-a18b-ed542dc80ecd.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "a067ee2c-4371-4ada-acd9-7d5d2248af3d",
+    "ts": 1777263441374,
+    "lab_id": "format",
+    "query": "赛博朋克科幻侧脸肖像",
+    "summary": "8 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/a067ee2c-4371-4ada-acd9-7d5d2248af3d.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "3ce7fe14-db06-485c-a953-ed9d383a565b",
+    "ts": 1777262666518,
+    "lab_id": "format",
+    "query": "柔和轻盈的 35mm 男性硬汉人像",
+    "summary": "8 路 · 🏆 F2 Cinematic Single",
+    "status": "completed",
+    "ref": "data/labs/format/runs/3ce7fe14-db06-485c-a953-ed9d383a565b.json",
+    "pm_score_avg": 7.5,
+    "pm_score_count": 2,
+    "metadata": {}
+  },
+  {
+    "id": "037739ff-bada-41d6-a0f9-022cbdfc9747",
+    "ts": 1777262213552,
+    "lab_id": "format",
+    "query": "柔和轻盈的 35mm 人像",
+    "summary": "8 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/037739ff-bada-41d6-a0f9-022cbdfc9747.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "f6a00c39-efd8-4a64-9b6a-d1966ee19af5",
+    "ts": 1777261339438,
+    "lab_id": "format",
+    "query": "柔和轻盈的 35mm 人像",
+    "summary": "8 路对照",
+    "status": "completed",
+    "ref": "data/labs/format/runs/f6a00c39-efd8-4a64-9b6a-d1966ee19af5.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {}
+  },
+  {
+    "id": "3606418d-ac28-4475-a7c6-ccf120326751",
+    "ts": 1777260905561,
+    "lab_id": "format",
+    "query": "橘猫守在日落",
+    "summary": "8 路 · 🏆 F3 Paragraph + Neg + AR",
+    "status": "completed",
+    "ref": "data/labs/format/runs/3606418d-ac28-4475-a7c6-ccf120326751.json",
+    "pm_score_avg": 5.714285714285714,
+    "pm_score_count": 7,
+    "metadata": {}
+  },
+  {
+    "id": "661c37ca-efb6-47e8-9d2c-f07bd1a1e68e",
+    "ts": 1777207758471,
+    "lab_id": "format",
+    "query": "一个中式摄影女性纪实图像",
+    "summary": "2 路 · 🏆 F1 Long Comma",
+    "status": "completed",
+    "ref": "data/labs/format/runs/661c37ca-efb6-47e8-9d2c-f07bd1a1e68e.json",
+    "pm_score_avg": 7,
+    "pm_score_count": 2,
+    "metadata": {}
+  }
+]

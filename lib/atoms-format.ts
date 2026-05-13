@@ -10,14 +10,19 @@ import { atomFamily } from "jotai/utils";
 import type { FormatRunRecord } from "./schema-format";
 import { INITIAL_IMAGE_JOB, type ImageJobState } from "./atoms";
 
-// ─────────── Format Lab 的 N 路 image job 状态 ───────────
+// ─────────── Format Lab 的 N×M 路 image job 状态 ───────────
 //
-// atomFamily 按 format_id (= skill_id) 索引 — 每个格式自动拥有自己的 ImageJobState atom。
-// FormatCell 组件用 useImageJobPoller(formatJobAtomFamily(format_id)) 各自挂轮询。
-// 跨 format_id 状态独立,不互相影响。
-export const formatJobAtomFamily = atomFamily((_formatId: string) =>
+// 多 model 改造后:atomFamily 按"cell key"索引,key = `${format_id}::${image_model}`。
+// 同 format_id 不同 model 各自一个 atom,跨 cell 独立。
+// 老代码兼容:把 cellKey(formatId, "") 当作"单 model 模式"的入口,跟以前 formatJobAtomFamily(formatId) 等价。
+export const formatJobAtomFamily = atomFamily((_cellKey: string) =>
   atom<ImageJobState>(INITIAL_IMAGE_JOB)
 );
+
+// (format_id, image_model) → cellKey 串。空 model 表示"用后端默认/单 model 模式"。
+export function formatCellKey(formatId: string, imageModel: string): string {
+  return `${formatId}::${imageModel}`;
+}
 
 // 可选格式池(从 /api/labs/format/skills GET 拉)
 export type FormatSkillSummary = {
@@ -34,18 +39,41 @@ export type FormatDrawerTab = "skill" | "history" | "report";
 export const formatDrawerOpenAtom = atom<boolean>(false);
 export const formatDrawerTabAtom = atom<FormatDrawerTab>("skill");
 
-export type LabId = "rewrite" | "format" | "batch" | "fusion";
+export type LabId =
+  // 测试台分组(顶级 sidebar 可见)
+  | "batch"           // "Skill 批量测试台"(原 batch lab,改 label 而已)
+  | "format"          // "API 实验台"(原 format lab,改 label)
+  | "pipeline-test"   // "Pipeline 测试台"(2026-05-13 新增,Phase 1 占位)
+  // 业务工具分组(顶级 sidebar 可见)
+  | "pipeline-mgmt"   // "Pipeline 管理"(2026-05-13 新增,列表页)
+  | "experiments"
+  | "langfuse"
+  // 题目分组(顶级 sidebar 可见,subTab 切换)
+  | "questions"
+  // ─── 隐藏 / 兼容用 LabId(不在 sidebar 显示,代码仍 live)───
+  | "pipeline"        // 现 PipelineLab(垂类差异化实验)— 从 pipeline-mgmt 卡片点击进入
+  | "rewrite"         // 老垂类实验台,隐藏(暂留代码)
+  | "fusion";         // 老融合台,隐藏(暂留代码)
 
-// 当前激活的实验台。刷新页面回到默认 rewrite(不持久化,demo 阶段够用)
-export const currentLabAtom = atom<LabId>("rewrite");
+// 当前激活的实验台。刷新页面回到默认 batch(架构重构后,rewrite 已从 sidebar 移除)
+export const currentLabAtom = atom<LabId>("batch");
 
 // ─────────── Format Lab 状态 ───────────
 //
 // query 与改写实验台的 queryAtom 完全独立,切 tab 不会互相覆盖
 export const formatQueryAtom = atom<string>("");
 
+// 参考图（base64 data URL）。非空时本 lab 内所有 skill 路都走 image-edit（图生图）。
+// 不持久化跨 session（demo 阶段；将来要 retry 跨重启可换 atomWithStorage 但 base64 太大别这么干）。
+export const formatReferenceImagesAtom = atom<string[]>([]);
+
 // 选中的格式 id 列表(skills/index.json 里的版本 id)
 export const formatSelectedIdsAtom = atom<string[]>([]);
+
+// 选中的"生图模型 name 列表"。空 [] = 单 model 模式(用 imageModelAtom 单选默认值)。
+// 非空 = 多 model 笛卡尔积模式(selectedFormats × selectedModels 都跑一遍)。
+// 不持久化(切 lab 默认重置)。
+export const formatImageModelsAtom = atom<string[]>([]);
 
 // 是否在跑批中(禁用按钮 / 显示骨架)
 export const formatRunningAtom = atom<boolean>(false);

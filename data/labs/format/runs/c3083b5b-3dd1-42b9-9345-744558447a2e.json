@@ -1,0 +1,38 @@
+{
+  "id": "c3083b5b-3dd1-42b9-9345-744558447a2e",
+  "ts": 1778140141194,
+  "query": "一直小猫咪",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F1-long-comma",
+      "format_label": "F1 Long Comma",
+      "final_prompt": {
+        "prompt": "35mm film photography, a small kitten sitting still, soft fluffy fur with delicate texture and natural sheen, tiny paws neatly tucked beneath its body, curious wide eyes with bright catchlights, slightly parted mouth, alert upright ears, gentle neutral expression, soft natural diffused lighting from one side, warm subtle shadows, smooth bokeh background, muted warm tones, photorealistic, shot on Kodak Portra 400, no plastic skin, no over-sharpening, no watermark",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "69ecef8f-0dcc-4d22-a227-7a108ac05e10",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/abc10c84-8e10-4819-963c-93715040eec1.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0532,
+        "latency_ms": 359493,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

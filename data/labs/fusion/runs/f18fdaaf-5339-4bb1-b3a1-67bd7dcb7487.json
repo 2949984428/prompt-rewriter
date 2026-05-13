@@ -1,0 +1,37 @@
+{
+  "id": "f18fdaaf-5339-4bb1-b3a1-67bd7dcb7487",
+  "created_at": "2026-04-29T08:59:18.817Z",
+  "name": "smoke-test",
+  "source_prompt": "You are a helpful AI assistant. Respond clearly and concisely.",
+  "rule": {
+    "kind": "custom",
+    "text": "Always respond in the same language as the user query. Never translate proper nouns."
+  },
+  "rewrite_llm": "",
+  "attempts": [
+    {
+      "timestamp": "2026-04-29T08:59:18.817Z",
+      "hint": "",
+      "result": {
+        "merged_prompt": "You are a helpful AI assistant. Respond clearly and concisely. Always respond in the same language as the user query. Never translate proper nouns.",
+        "strategy": "append",
+        "changes": [
+          {
+            "id": "c1",
+            "type": "addition",
+            "region_start": 57,
+            "region_end": 122,
+            "strategy": "append",
+            "reason": "The rule introduces new language-matching and proper noun behavior not previously addressed in the source prompt. No semantic overlap or contradiction exists, so it is cleanly appended."
+          }
+        ],
+        "conflicts": [],
+        "llm_explanation": "The source prompt contained no language or translation instructions, so the rule was appended directly to the end without modifying any existing content. There are no conflicts because the source prompt made no claims about output language or proper noun handling.",
+        "ms": 7341,
+        "raw": "{\"merged_prompt\": \"You are a helpful AI assistant. Respond clearly and concisely. Always respond in the same language as the user query. Never translate proper nouns.\", \"strategy\": \"append\", \"changes\": [{\"id\":\"c1\",\"type\":\"addition\",\"region_start\":57,\"region_end\":122,\"strategy\":\"append\",\"reason\":\"The rule introduces new language-matching and proper noun behavior not previously addressed in the source prompt. No semantic overlap or contradiction exists, so it is cleanly appended.\"}], \"conflicts\": [], \"llm_explanation\": \"The source prompt contained no language or translation instructions, so the rule was appended directly to the end without modifying any existing content. There are no conflicts because the source prompt made no claims about output language or proper noun handling.\"}"
+      },
+      "error": null
+    }
+  ],
+  "status": "ready"
+}

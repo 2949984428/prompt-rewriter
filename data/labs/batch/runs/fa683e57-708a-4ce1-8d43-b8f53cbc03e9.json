@@ -1,0 +1,2042 @@
+{
+  "id": "fa683e57-708a-4ce1-8d43-b8f53cbc03e9",
+  "created_at": "2026-04-28T08:49:28.553Z",
+  "name": "简单 prompt 测试-2026/04/28-最终盲测 (副本)",
+  "query_mode": "manual",
+  "purpose": "",
+  "queries": [
+    "生成一张高端美妆产品的广告图，背景是柔和的粉色渐变，产品是一瓶精华液，玻璃瓶身透出淡金色液体，周围有玫瑰花瓣和水滴飞溅，光线柔和自然，整体风格奢华精致，适合社交媒体推广",
+    "画一个赛博朋克风格的未来城市夜景，高楼林立，霓虹灯闪烁，有飞行汽车穿梭其中，天空下着酸雨，地面有积水反射灯光，色调以蓝紫为主，充满科技感和颓废氛围",
+    "创作一幅中国传统水墨风格的山水画，远山如黛，云雾缭绕，近处有松树和茅草屋，一位老者正在溪边垂钓，画面留白得当，意境空灵悠远，体现东方美学",
+    "设计一张极简主义风格的北欧家居场景，白色墙面，浅木色地板，一张灰色布艺沙发，旁边有绿植和落地灯，阳光透过大窗户洒进来，整体干净明亮，温馨舒适",
+    "绘制一张美食摄影风格的日式拉面特写，浓郁的豚骨汤底，上面铺着叉烧、溏心蛋、海苔和葱花，筷子夹起面条，热气腾腾，背景虚化，食欲感十足",
+    "生成一张科幻太空场景，宇航员漂浮在地球轨道上，身后是璀璨的银河和星云，太空站的部分结构在画面边缘，宇航服细节清晰，光线来自地球的反射，壮观震撼",
+    "画一张复古胶片风格的街头人像，90年代香港街头，穿着牛仔外套的年轻女子倚靠在霓虹灯牌下，夜色朦胧，有电影般的颗粒感和暖色调，充满怀旧情绪",
+    "创作一张儿童绘本风格的森林场景，可爱的小动物们正在开音乐会，兔子拉大提琴，松鼠吹笛子，背景是童话般的蘑菇屋和彩虹，色彩鲜艳明快，充满童趣",
+    "设计一张工业风格的咖啡馆 interior，裸露的水泥墙面，金属管道，复古皮质沙发，大窗户透进自然光，墙上挂着黑白摄影作品，氛围粗犷又有格调",
+    "绘制一张超写实风格的珠宝特写，一颗蓝宝石戒指，钻石镶嵌，光线在宝石内部折射出火彩，黑色天鹅绒背景，细节纤毫毕现，尽显华贵",
+    "生成一张末日废土风格的场景，荒凉的沙漠中有一辆改装过的装甲车，远处是倒塌的城市废墟，天空昏黄，风沙弥漫，充满末世生存的紧张感",
+    "画一张清新日系风格的樱花季校园场景，粉色樱花飘落，女生穿着水手服站在教学楼前，微风拂动发丝，阳光明媚，青春气息扑面而来",
+    "创作一张暗黑哥特风格的城堡 interior，高大的拱顶，彩色玻璃窗透进血红色的光，烛台和铁链装饰，阴影浓重，神秘而压抑的氛围",
+    "设计一张热带度假风格的酒店泳池场景，无边泳池 overlooking 大海，躺椅和遮阳伞，椰子树，蓝天白云，色彩饱和度高，让人想立刻去度假",
+    "绘制一张微观世界的特写，一滴水珠中的倒影，周围是草叶和露珠，背景虚化呈圆形光斑，展现自然界的精致与神奇，适合作为手机壁纸",
+    "生成一张蒸汽朋克风格的机械装置图，复杂的齿轮、管道和仪表，黄铜和铜质材料，维多利亚时代的装饰元素，精密而复古的工业美感",
+    "画一张温馨的家庭聚餐场景，中式圆桌，火锅冒着热气，一家人举杯欢笑，暖黄色灯光，背景是贴满照片的墙壁，充满烟火气和幸福感",
+    "创作一张抽象表现主义风格的艺术作品，大胆的色彩碰撞，流动的笔触，没有具体形象但充满情绪和能量，适合现代艺术画廊展示",
+    "设计一张专业的产品摄影场景，一款智能手表放在大理石台面上，旁边有咖啡杯和笔记本，自然光从侧面打来，简约商务风格，突出产品质感",
+    "绘制一张奇幻风格的龙与骑士战斗场景，巨龙喷吐火焰，骑士持盾冲锋，背景是燃烧的城堡和闪电交加的天空，史诗般的构图和动感",
+    "生成一张侘寂风格的静物摄影，一个粗陶花瓶，插着枯枝，放在斑驳的木桌上，自然光从窗户斜射进来，强调不完美之美和时间的痕迹",
+    "画一张热血动漫风格的运动场景，篮球场上球员腾空扣篮，汗水飞溅，背景是欢呼的人群和闪光灯，动态模糊效果，充满张力和激情",
+    "创作一张法式浪漫风格的卧室场景，四柱床配纱幔，复古梳妆台，窗外是巴黎街景，晨光柔和，玫瑰花瓣散落，优雅而慵懒的氛围",
+    "设计一张硬核军事风格的战术装备展示，各种枪械、防弹背心、夜视仪整齐排列，深色背景，冷峻的光线，专业而威严的感觉",
+    "绘制一张治愈系风格的猫咪日常，橘猫趴在窗台上晒太阳，窗外是飘雪的冬日街景，室内温暖，毛茸茸的质感，让人心生柔软",
+    "生成一张未来主义风格的建筑概念图，流线型的白色建筑悬浮在空中，周围有无人机和全息投影，清洁能源设施，体现可持续城市发展愿景",
+    "画一张复古美式风格的公路旅行场景，红色敞篷车行驶在66号公路上，两旁是荒漠和仙人掌，夕阳将天空染成橙红色，自由奔放的气息",
+    "创作一张神秘东方风格的古风人像，汉服女子在竹林中抚琴，月光透过竹叶洒下斑驳光影，衣袂飘飘，仙气十足，适合作为古风游戏立绘",
+    "设计一张专业健身房场景，肌肉线条分明的运动员正在做硬拉，汗水和力量的美感，工业风装修，冷色调灯光，充满阳刚之气",
+    "绘制一张梦幻童话风格的海底世界，美人鱼在珊瑚礁间游弋，发光的水母，沉船宝藏，光线从海面穿透下来，色彩斑斓如梦境",
+    "生成一张纪实摄影风格的街头人文，印度瓦拉纳西的恒河晨浴，虔诚的信徒，晨雾中的船只，暖色调的阳光，充满异域文化气息",
+    "画一张新中式风格的茶室空间，原木茶台，紫砂壶和茶杯，背景是书法卷轴和盆景，窗外竹影婆娑，禅意盎然，适合品茗静思",
+    "创作一张超现实主义风格的梦境场景，巨大的月亮从海面升起，鲸鱼在空中飞翔，时钟融化，楼梯通向云端，充满哲学意味和视觉冲击力"
+  ],
+  "skill_ids": [
+    "F11-direct-api",
+    "F15-art-direction-en",
+    "F16-art-direction-anchored-en"
+  ],
+  "scoring_dimensions": [
+    {
+      "id": "overall",
+      "label": "总体观感",
+      "description": ""
+    },
+    {
+      "id": "intent",
+      "label": "意图还原度",
+      "description": "prompt 是否抓住了用户原意"
+    }
+  ],
+  "cells": [
+    {
+      "query_idx": 0,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "生成一张高端美妆产品的广告图，背景是柔和的粉色渐变，产品是一瓶精华液，玻璃瓶身透出淡金色液体，周围有玫瑰花瓣和水滴飞溅，光线柔和自然，整体风格奢华精致，适合社交媒体推广",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/7d0ffb97-98a6-4ee5-a7a9-e93e07dc3ac5/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"生成一张高端美妆产品的广告图，背景是柔和的粉色渐变，产品是一瓶精华液，玻璃瓶身透出淡金色液体，周围有玫瑰花瓣和水滴飞溅，光线柔和自然，整体风格奢华精致，适合社交媒体推广\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 8821
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a marketing advertisement for a premium beauty skincare product (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a luxurious and refined aesthetic — exact stylistic execution is yours\nComposition: must include the serum bottle as central focal point with rose petals and water droplets surrounding it\nSubject: must include a serum bottle with glass body showing pale golden liquid inside\nScene/backdrop: must include a soft pink gradient background\nLighting/mood: needs a soft and natural lighting atmosphere — exact light source mix is yours\nColor palette: needs a soft pink and pale gold direction — exact hex values and ratios are yours\nMaterials/textures: needs a luxurious surface treatment — exact glass sheen and petal texture is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/d7301815-f9bc-496a-9777-aed093fff798/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a marketing advertisement for a premium beauty skincare product (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a luxurious and refined aesthetic — exact stylistic execution is yours\\nComposition: must include the serum bottle as central focal point with rose petals and water droplets surrounding it\\nSubject: must include a serum bottle with glass body showing pale golden liquid inside\\nScene/backdrop: must include a soft pink gradient background\\nLighting/mood: needs a soft and natural lighting atmosphere — exact light source mix is yours\\nColor palette: needs a soft pink and pale gold direction — exact hex values and ratios are yours\\nMaterials/textures: needs a luxurious surface treatment — exact glass sheen and petal texture is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14440
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a marketing advertisement for a premium beauty product (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"奢华精致\" aesthetic — references in the spirit of Tom Ford Beauty campaign photography, La Mer product editorial, Dior J'adore campaign visual language; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a serum bottle with glass body showing pale golden liquid (one), rose petals, water droplets splashing around\nScene/backdrop: must include soft pink gradient background\nLighting/mood: needs a soft and natural light atmosphere — exact light source mix is yours\nColor palette: must be soft pink dominant with pale golden accents\nMaterials/textures: must include glass transparency, liquid sheen, petal softness, water droplet clarity\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/d3d8465f-023f-4a61-8b9c-60e83387637d/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a marketing advertisement for a premium beauty product (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"奢华精致\\\" aesthetic — references in the spirit of Tom Ford Beauty campaign photography, La Mer product editorial, Dior J'adore campaign visual language; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a serum bottle with glass body showing pale golden liquid (one), rose petals, water droplets splashing around\\nScene/backdrop: must include soft pink gradient background\\nLighting/mood: needs a soft and natural light atmosphere — exact light source mix is yours\\nColor palette: must be soft pink dominant with pale golden accents\\nMaterials/textures: must include glass transparency, liquid sheen, petal softness, water droplet clarity\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 16137
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "画一个赛博朋克风格的未来城市夜景，高楼林立，霓虹灯闪烁，有飞行汽车穿梭其中，天空下着酸雨，地面有积水反射灯光，色调以蓝紫为主，充满科技感和颓废氛围",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/19f453ec-3c28-4e9c-8321-df46d1e9b25b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"画一个赛博朋克风格的未来城市夜景，高楼林立，霓虹灯闪烁，有飞行汽车穿梭其中，天空下着酸雨，地面有积水反射灯光，色调以蓝紫为主，充满科技感和颓废氛围\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 8043
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a concept art illustration of a futuristic cyberpunk city at night (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"赛博朋克\" (cyberpunk) aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include towering skyscrapers, flying cars weaving through them\nScene/backdrop: must include a futuristic cityscape at night with neon lights, acid rain falling from the sky, puddles on the ground reflecting lights\nLighting/mood: needs a high-tech yet decadent atmosphere — exact light source mix is yours\nColor palette: must be blue-purple dominant direction — exact hex values and ratios are yours\nMaterials/textures: needs a wet, reflective surface treatment — exact sheen level is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/c26ff6c5-1eac-43aa-bfa8-ca7da2043ada/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a concept art illustration of a futuristic cyberpunk city at night (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"赛博朋克\\\" (cyberpunk) aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include towering skyscrapers, flying cars weaving through them\\nScene/backdrop: must include a futuristic cityscape at night with neon lights, acid rain falling from the sky, puddles on the ground reflecting lights\\nLighting/mood: needs a high-tech yet decadent atmosphere — exact light source mix is yours\\nColor palette: must be blue-purple dominant direction — exact hex values and ratios are yours\\nMaterials/textures: needs a wet, reflective surface treatment — exact sheen level is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14386
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a concept art illustration of a futuristic cyberpunk cityscape at night (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"赛博朋克\" aesthetic — references in the spirit of Blade Runner film production design, Akira anime background art, Ghost in the Shell (1995) cyberpunk visual tradition; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include towering skyscrapers, neon lights flickering, flying cars weaving through buildings\nScene/backdrop: must include a futuristic cityscape at night with acid rain falling from the sky, puddles on the ground reflecting lights\nLighting/mood: needs a tech-meets-decay atmosphere — exact light source mix is yours\nColor palette: must be blue-purple dominant\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/d75e6540-eb6d-4631-9a6a-a043d1e3eaad/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a concept art illustration of a futuristic cyberpunk cityscape at night (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"赛博朋克\\\" aesthetic — references in the spirit of Blade Runner film production design, Akira anime background art, Ghost in the Shell (1995) cyberpunk visual tradition; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include towering skyscrapers, neon lights flickering, flying cars weaving through buildings\\nScene/backdrop: must include a futuristic cityscape at night with acid rain falling from the sky, puddles on the ground reflecting lights\\nLighting/mood: needs a tech-meets-decay atmosphere — exact light source mix is yours\\nColor palette: must be blue-purple dominant\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 17630
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "创作一幅中国传统水墨风格的山水画，远山如黛，云雾缭绕，近处有松树和茅草屋，一位老者正在溪边垂钓，画面留白得当，意境空灵悠远，体现东方美学",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e1330a4c-b938-438b-804d-5f5b936de3d1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"创作一幅中国传统水墨风格的山水画，远山如黛，云雾缭绕，近处有松树和茅草屋，一位老者正在溪边垂钓，画面留白得当，意境空灵悠远，体现东方美学\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 8565
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a traditional Chinese ink-wash landscape painting (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 中国传统水墨风格 aesthetic — exact brushwork technique and ink density are yours\nComposition: must include proper negative space (留白) for a空灵悠远意境\nSubject: must include distant mountains (远山如黛), mist/clouds (云雾缭绕), pine trees (松树), thatched cottage (茅草屋), and an elderly figure fishing by a stream (老者溪边垂钓)\nScene/backdrop: must include the layered landscape with distant mountains, middle-ground mist, and foreground elements\nLighting/mood: needs an ethereal, tranquil atmosphere — exact light treatment is yours\nColor palette: needs an ink-wash monochrome direction with subtle tonal gradations — exact ink values are yours\nMaterials/textures: needs a rice-paper ink painting surface treatment — exact paper texture and brushstroke weight are yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese; must preserve 东方美学意境 and proper compositional留白\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/500f3422-1b7d-4985-8c89-048fd4bfc148/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a traditional Chinese ink-wash landscape painting (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 中国传统水墨风格 aesthetic — exact brushwork technique and ink density are yours\\nComposition: must include proper negative space (留白) for a空灵悠远意境\\nSubject: must include distant mountains (远山如黛), mist/clouds (云雾缭绕), pine trees (松树), thatched cottage (茅草屋), and an elderly figure fishing by a stream (老者溪边垂钓)\\nScene/backdrop: must include the layered landscape with distant mountains, middle-ground mist, and foreground elements\\nLighting/mood: needs an ethereal, tranquil atmosphere — exact light treatment is yours\\nColor palette: needs an ink-wash monochrome direction with subtle tonal gradations — exact ink values are yours\\nMaterials/textures: needs a rice-paper ink painting surface treatment — exact paper texture and brushstroke weight are yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese; must preserve 东方美学意境 and proper compositional留白\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 15238
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a traditional Chinese ink wash landscape painting (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"中国传统水墨\" aesthetic — references in the spirit of 宋画 landscape tradition, 范宽 / 郭熙 monumental mountain painting, 文人画 literati ink-wash heritage; exact brushwork and wash technique is yours\nComposition: must include distant mountains, mist clouds, pine trees, thatched cottage, and an old man fishing by the stream — framing is yours\nSubject: must include an old man fishing by the stream as the focal subject\nScene/backdrop: must include distant mountains veiled in mist, pine trees, thatched cottage near a stream\nLighting/mood: needs an ethereal, serene atmosphere — exact light treatment is yours\nColor palette: needs ink-wash monochrome with subtle tonal gradations — exact ink density is yours\nMaterials/textures: needs traditional xuan paper texture with appropriate wash bleeding — exact paper weight and absorbency is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/6e77eae7-752c-48d1-909f-2125bbefabf7/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a traditional Chinese ink wash landscape painting (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"中国传统水墨\\\" aesthetic — references in the spirit of 宋画 landscape tradition, 范宽 / 郭熙 monumental mountain painting, 文人画 literati ink-wash heritage; exact brushwork and wash technique is yours\\nComposition: must include distant mountains, mist clouds, pine trees, thatched cottage, and an old man fishing by the stream — framing is yours\\nSubject: must include an old man fishing by the stream as the focal subject\\nScene/backdrop: must include distant mountains veiled in mist, pine trees, thatched cottage near a stream\\nLighting/mood: needs an ethereal, serene atmosphere — exact light treatment is yours\\nColor palette: needs ink-wash monochrome with subtle tonal gradations — exact ink density is yours\\nMaterials/textures: needs traditional xuan paper texture with appropriate wash bleeding — exact paper weight and absorbency is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 18021
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "设计一张极简主义风格的北欧家居场景，白色墙面，浅木色地板，一张灰色布艺沙发，旁边有绿植和落地灯，阳光透过大窗户洒进来，整体干净明亮，温馨舒适",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ac728a0a-6147-4e3b-976e-3b9872308d74/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"设计一张极简主义风格的北欧家居场景，白色墙面，浅木色地板，一张灰色布艺沙发，旁边有绿植和落地灯，阳光透过大窗户洒进来，整体干净明亮，温馨舒适\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 7828
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an interior design illustration of a Nordic-style home scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a minimalist aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a grey fabric sofa, green plants, and a floor lamp\nScene/backdrop: must include white walls, light wood flooring, and a large window with sunlight streaming through\nLighting/mood: must be clean, bright, warm and comfortable — exact light source mix is yours\nColor palette: needs a Nordic minimalist direction — exact tones are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/969d6e45-711d-4425-8387-1a3673a55a73/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an interior design illustration of a Nordic-style home scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a minimalist aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a grey fabric sofa, green plants, and a floor lamp\\nScene/backdrop: must include white walls, light wood flooring, and a large window with sunlight streaming through\\nLighting/mood: must be clean, bright, warm and comfortable — exact light source mix is yours\\nColor palette: needs a Nordic minimalist direction — exact tones are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13513
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an interior design illustration of a Nordic home living room scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"极简主义\" aesthetic — references in the spirit of Scandinavian design movement, MUJI interior philosophy, Alvar Aalto's organic modernism; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a grey fabric sofa, green plants, floor lamp\nScene/backdrop: must include white walls, light wood flooring, large windows with sunlight streaming through\nLighting/mood: needs a clean, bright, warm and cozy atmosphere — exact light source mix is yours\nColor palette: must be white dominant, light wood tones, grey accents\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/45d85e39-45ff-475a-a28b-ebbac730f31b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an interior design illustration of a Nordic home living room scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"极简主义\\\" aesthetic — references in the spirit of Scandinavian design movement, MUJI interior philosophy, Alvar Aalto's organic modernism; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a grey fabric sofa, green plants, floor lamp\\nScene/backdrop: must include white walls, light wood flooring, large windows with sunlight streaming through\\nLighting/mood: needs a clean, bright, warm and cozy atmosphere — exact light source mix is yours\\nColor palette: must be white dominant, light wood tones, grey accents\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 17291
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "绘制一张美食摄影风格的日式拉面特写，浓郁的豚骨汤底，上面铺着叉烧、溏心蛋、海苔和葱花，筷子夹起面条，热气腾腾，背景虚化，食欲感十足",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ef5c04dc-d421-4613-9875-64938b3a810c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"绘制一张美食摄影风格的日式拉面特写，浓郁的豚骨汤底，上面铺着叉烧、溏心蛋、海苔和葱花，筷子夹起面条，热气腾腾，背景虚化，食欲感十足\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 7095
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a food-photography close-up of Japanese ramen (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a food-photography aesthetic — exact stylistic execution is yours\nComposition: must be a close-up shot with shallow depth of field (background bokeh), chopsticks lifting noodles as focal point\nSubject: must include tonkotsu broth, chashu, soft-boiled egg, nori, scallions, chopsticks lifting noodles\nScene/backdrop: must be a blurred background context\nLighting/mood: needs an appetizing, steamy atmosphere — exact light source mix is yours\nColor palette: needs a rich, appetizing direction — exact saturation and warmth are yours\nMaterials/textures: must include steam rising from the hot broth\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/81cdef19-7276-4535-9d5d-c1210b4b12e9/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a food-photography close-up of Japanese ramen (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a food-photography aesthetic — exact stylistic execution is yours\\nComposition: must be a close-up shot with shallow depth of field (background bokeh), chopsticks lifting noodles as focal point\\nSubject: must include tonkotsu broth, chashu, soft-boiled egg, nori, scallions, chopsticks lifting noodles\\nScene/backdrop: must be a blurred background context\\nLighting/mood: needs an appetizing, steamy atmosphere — exact light source mix is yours\\nColor palette: needs a rich, appetizing direction — exact saturation and warmth are yours\\nMaterials/textures: must include steam rising from the hot broth\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14219
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a close-up food photography shot of a Japanese ramen bowl (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"美食摄影\" aesthetic — references in the spirit of Japanese 食べログ food photography tradition, Kinfolk magazine food editorial style, 深夜食堂 cinematic food close-ups; exact stylistic execution is yours\nComposition: must be close-up shot with chopsticks lifting noodles as focal point\nSubject: must include 日式拉面 bowl with 豚骨汤底, 叉烧, 溏心蛋, 海苔, 葱花\nScene/backdrop: must be blurred background (bokeh) to emphasize the bowl\nLighting/mood: needs a \"食欲感\" appetite-triggering atmosphere — exact light source mix is yours\nColor palette: needs a rich, warm direction — exact saturation and tones are yours\nMaterials/textures: must include visible steam rising from the hot broth\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/48be7e63-5acc-48f6-a521-3f0dbb6012ed/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a close-up food photography shot of a Japanese ramen bowl (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"美食摄影\\\" aesthetic — references in the spirit of Japanese 食べログ food photography tradition, Kinfolk magazine food editorial style, 深夜食堂 cinematic food close-ups; exact stylistic execution is yours\\nComposition: must be close-up shot with chopsticks lifting noodles as focal point\\nSubject: must include 日式拉面 bowl with 豚骨汤底, 叉烧, 溏心蛋, 海苔, 葱花\\nScene/backdrop: must be blurred background (bokeh) to emphasize the bowl\\nLighting/mood: needs a \\\"食欲感\\\" appetite-triggering atmosphere — exact light source mix is yours\\nColor palette: needs a rich, warm direction — exact saturation and tones are yours\\nMaterials/textures: must include visible steam rising from the hot broth\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 17506
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "生成一张科幻太空场景，宇航员漂浮在地球轨道上，身后是璀璨的银河和星云，太空站的部分结构在画面边缘，宇航服细节清晰，光线来自地球的反射，壮观震撼",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/4c893e68-313d-44cf-9b91-a47d90f28624/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"生成一张科幻太空场景，宇航员漂浮在地球轨道上，身后是璀璨的银河和星云，太空站的部分结构在画面边缘，宇航服细节清晰，光线来自地球的反射，壮观震撼\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 7629
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a sci-fi space scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a sci-fi space aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include an astronaut floating in Earth orbit, spacesuit details clear\nScene/backdrop: must include Earth orbit context, a brilliant galaxy and nebula behind the astronaut, partial space station structure at the image edge\nLighting/mood: needs light from Earth reflection creating a spectacular, awe-inspiring atmosphere — exact light source balance is yours\nColor palette: needs a cosmic direction — exact hue values and saturation are yours\nMaterials/textures: needs detailed spacesuit surface treatment — exact material sheen and texture are yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "auto",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/9df97dd9-9238-42fe-90b3-62e1a3fe659c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a sci-fi space scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a sci-fi space aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include an astronaut floating in Earth orbit, spacesuit details clear\\nScene/backdrop: must include Earth orbit context, a brilliant galaxy and nebula behind the astronaut, partial space station structure at the image edge\\nLighting/mood: needs light from Earth reflection creating a spectacular, awe-inspiring atmosphere — exact light source balance is yours\\nColor palette: needs a cosmic direction — exact hue values and saturation are yours\\nMaterials/textures: needs detailed spacesuit surface treatment — exact material sheen and texture are yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"auto\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 12154
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial photo of a sci-fi space scene with an astronaut floating in Earth orbit (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"科幻太空\" aesthetic — references in the spirit of 2001: A Space Odyssey cinematic palette, NASA Apollo mission photography, contemporary space-art concept illustration tradition; exact stylistic execution is yours\nComposition: framing is yours — must include the astronaut as focal subject, partial space station structure at frame edges\nSubject: must include an astronaut in detailed spacesuit (one), Earth orbit context\nScene/backdrop: must include Earth below, brilliant Milky Way and nebula in deep space background, partial space station structure at frame edges\nLighting/mood: needs a majestic, awe-inspiring atmosphere — light source must be Earth reflection illuminating the astronaut; exact light quality is yours\nColor palette: needs a cosmic direction — exact stellar color balance is yours\nMaterials/textures: must include detailed spacesuit surface treatment — exact material sheen is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/679e0ce6-7384-4e92-9037-7c9ecbc20dc1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an editorial photo of a sci-fi space scene with an astronaut floating in Earth orbit (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"科幻太空\\\" aesthetic — references in the spirit of 2001: A Space Odyssey cinematic palette, NASA Apollo mission photography, contemporary space-art concept illustration tradition; exact stylistic execution is yours\\nComposition: framing is yours — must include the astronaut as focal subject, partial space station structure at frame edges\\nSubject: must include an astronaut in detailed spacesuit (one), Earth orbit context\\nScene/backdrop: must include Earth below, brilliant Milky Way and nebula in deep space background, partial space station structure at frame edges\\nLighting/mood: needs a majestic, awe-inspiring atmosphere — light source must be Earth reflection illuminating the astronaut; exact light quality is yours\\nColor palette: needs a cosmic direction — exact stellar color balance is yours\\nMaterials/textures: must include detailed spacesuit surface treatment — exact material sheen is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 17977
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "画一张复古胶片风格的街头人像，90年代香港街头，穿着牛仔外套的年轻女子倚靠在霓虹灯牌下，夜色朦胧，有电影般的颗粒感和暖色调，充满怀旧情绪",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/333cb16f-8eac-440f-b4ec-8dda1a3443cd/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"画一张复古胶片风格的街头人像，90年代香港街头，穿着牛仔外套的年轻女子倚靠在霓虹灯牌下，夜色朦胧，有电影般的颗粒感和暖色调，充满怀旧情绪\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 7914
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial street portrait photograph of a young woman in 90s 香港 (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a vintage film aesthetic with cinematic grain — exact film stock and grain level are yours\nComposition: framing is yours\nSubject: must include a young woman wearing a denim jacket\nScene/backdrop: must include a 90s 香港 street at night with neon signs\nLighting/mood: needs a hazy night atmosphere with nostalgic mood — exact light source mix is yours\nColor palette: needs a warm-toned direction — exact color grading is yours\nMaterials/textures: needs a film-grain surface treatment — exact grain intensity is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/d822a74b-7426-4c66-8124-3cfa6a396619/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an editorial street portrait photograph of a young woman in 90s 香港 (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a vintage film aesthetic with cinematic grain — exact film stock and grain level are yours\\nComposition: framing is yours\\nSubject: must include a young woman wearing a denim jacket\\nScene/backdrop: must include a 90s 香港 street at night with neon signs\\nLighting/mood: needs a hazy night atmosphere with nostalgic mood — exact light source mix is yours\\nColor palette: needs a warm-toned direction — exact color grading is yours\\nMaterials/textures: needs a film-grain surface treatment — exact grain intensity is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 9686
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial street portrait photograph in 90s Hong Kong (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"复古胶片\" aesthetic — references in the spirit of 1990s Hong Kong cinema (Wong Kar-wai), 90s Japanese film photography, Kodak Gold 200 era color science; exact film stock and grain treatment is yours\nComposition: framing is yours\nSubject: must include a young woman in a denim jacket leaning against a neon sign as the focal subject\nScene/backdrop: must include 90s Hong Kong street at night with neon signage\nLighting/mood: needs a hazy night atmosphere with nostalgic mood — exact light source mix is yours\nColor palette: needs warm tones — exact hue balance is yours\nMaterials/textures: needs film grain texture — exact grain intensity is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/03bd9ed1-0938-4d52-bd21-80b9c481f216/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an editorial street portrait photograph in 90s Hong Kong (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"复古胶片\\\" aesthetic — references in the spirit of 1990s Hong Kong cinema (Wong Kar-wai), 90s Japanese film photography, Kodak Gold 200 era color science; exact film stock and grain treatment is yours\\nComposition: framing is yours\\nSubject: must include a young woman in a denim jacket leaning against a neon sign as the focal subject\\nScene/backdrop: must include 90s Hong Kong street at night with neon signage\\nLighting/mood: needs a hazy night atmosphere with nostalgic mood — exact light source mix is yours\\nColor palette: needs warm tones — exact hue balance is yours\\nMaterials/textures: needs film grain texture — exact grain intensity is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13582
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "创作一张儿童绘本风格的森林场景，可爱的小动物们正在开音乐会，兔子拉大提琴，松鼠吹笛子，背景是童话般的蘑菇屋和彩虹，色彩鲜艳明快，充满童趣",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e3f8c7e9-02af-41e9-9567-34395dc9a58b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"创作一张儿童绘本风格的森林场景，可爱的小动物们正在开音乐会，兔子拉大提琴，松鼠吹笛子，背景是童话般的蘑菇屋和彩虹，色彩鲜艳明快，充满童趣\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 3650
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing children's picture book illustration of a forest scene with a concert (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a children's picture book aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include cute small animals performing a concert: a rabbit playing the cello, a squirrel playing the flute\nScene/backdrop: must include a fairytale forest setting with mushroom houses and a rainbow\nLighting/mood: needs a cheerful, whimsical atmosphere — exact light source mix is yours\nColor palette: needs a bright and vivid direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/2765edcc-84b5-4aea-9c96-564f0c0e93a5/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing children's picture book illustration of a forest scene with a concert (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a children's picture book aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include cute small animals performing a concert: a rabbit playing the cello, a squirrel playing the flute\\nScene/backdrop: must include a fairytale forest setting with mushroom houses and a rainbow\\nLighting/mood: needs a cheerful, whimsical atmosphere — exact light source mix is yours\\nColor palette: needs a bright and vivid direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 8341
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing children's picture book illustration of a forest scene with animals having a concert (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"儿童绘本\" aesthetic — references in the spirit of Beatrix Potter (classic British children's book illustration), Studio Ghibli background art (whimsical nature scenes), Richard Scarry (busy, charming animal worlds); exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include cute animals having a concert — specifically a rabbit playing the cello and a squirrel playing the flute\nScene/backdrop: must include a fairy-tale forest with mushroom houses and a rainbow in the background\nLighting/mood: needs a whimsical, cheerful atmosphere — exact light source mix is yours\nColor palette: needs a bright, vivid, and playful direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/fa56edc7-eb27-40e5-acf2-766c43faa036/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing children's picture book illustration of a forest scene with animals having a concert (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"儿童绘本\\\" aesthetic — references in the spirit of Beatrix Potter (classic British children's book illustration), Studio Ghibli background art (whimsical nature scenes), Richard Scarry (busy, charming animal worlds); exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include cute animals having a concert — specifically a rabbit playing the cello and a squirrel playing the flute\\nScene/backdrop: must include a fairy-tale forest with mushroom houses and a rainbow in the background\\nLighting/mood: needs a whimsical, cheerful atmosphere — exact light source mix is yours\\nColor palette: needs a bright, vivid, and playful direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11983
+    },
+    {
+      "query_idx": 8,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "设计一张工业风格的咖啡馆 interior，裸露的水泥墙面，金属管道，复古皮质沙发，大窗户透进自然光，墙上挂着黑白摄影作品，氛围粗犷又有格调",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b311565e-5909-439d-88a2-6d959f3fbb85/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"设计一张工业风格的咖啡馆 interior，裸露的水泥墙面，金属管道，复古皮质沙发，大窗户透进自然光，墙上挂着黑白摄影作品，氛围粗犷又有格调\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 5610
+    },
+    {
+      "query_idx": 8,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an interior design illustration of an industrial-style cafe (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs an industrial aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include vintage leather sofas as focal furniture\nScene/backdrop: must include exposed concrete walls, metal pipes, large windows with natural light, black-and-white photography mounted on walls\nLighting/mood: needs a natural-light atmosphere with rugged-yet-refined mood — exact light source mix is yours\nColor palette: \nMaterials/textures: must include exposed concrete surfaces, metal pipe textures, vintage leather upholstery\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/42db0b2b-efb9-4d3b-876d-590321fb7537/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an interior design illustration of an industrial-style cafe (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs an industrial aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include vintage leather sofas as focal furniture\\nScene/backdrop: must include exposed concrete walls, metal pipes, large windows with natural light, black-and-white photography mounted on walls\\nLighting/mood: needs a natural-light atmosphere with rugged-yet-refined mood — exact light source mix is yours\\nColor palette: \\nMaterials/textures: must include exposed concrete surfaces, metal pipe textures, vintage leather upholstery\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 7713
+    },
+    {
+      "query_idx": 8,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an interior design illustration of an industrial-style cafe (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs an \"industrial style\" aesthetic — references in the spirit of 1990s New York loft conversion photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 cafe interior design movement; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include exposed concrete walls, metal piping, vintage leather sofa, large windows with natural light, black-and-white photography on walls\nScene/backdrop: must include a cafe interior context\nLighting/mood: needs a rugged yet refined atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: must include rough concrete, aged metal, worn leather, matte photographic prints\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e335e032-eea8-490e-900b-0e1eb6ca1003/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an interior design illustration of an industrial-style cafe (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs an \\\"industrial style\\\" aesthetic — references in the spirit of 1990s New York loft conversion photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 cafe interior design movement; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include exposed concrete walls, metal piping, vintage leather sofa, large windows with natural light, black-and-white photography on walls\\nScene/backdrop: must include a cafe interior context\\nLighting/mood: needs a rugged yet refined atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: must include rough concrete, aged metal, worn leather, matte photographic prints\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9339
+    },
+    {
+      "query_idx": 9,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "绘制一张超写实风格的珠宝特写，一颗蓝宝石戒指，钻石镶嵌，光线在宝石内部折射出火彩，黑色天鹅绒背景，细节纤毫毕现，尽显华贵",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/a3af4966-fd77-4932-8638-53eec9c2d62c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"绘制一张超写实风格的珠宝特写，一颗蓝宝石戒指，钻石镶嵌，光线在宝石内部折射出火彩，黑色天鹅绒背景，细节纤毫毕现，尽显华贵\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 6071
+    },
+    {
+      "query_idx": 9,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing hyper-realistic jewelry close-up photograph of a sapphire ring (any in-image text in Chinese, if rendered).\n\nStyle/medium: must be hyper-realistic photography — exact camera and lens choice is yours\nComposition: must be a close-up / macro shot of the ring\nSubject: must include a sapphire ring with diamond setting (one)\nScene/backdrop: must be black velvet background\nLighting/mood: needs a light-play atmosphere showing fire and brilliance refracting inside the gemstone — exact light source arrangement is yours\nColor palette: \nMaterials/textures: must include the refractive fire and brilliance inside the sapphire, with fine detail visible\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/3ae618ed-656f-4f29-9049-055554f4be6e/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing hyper-realistic jewelry close-up photograph of a sapphire ring (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: must be hyper-realistic photography — exact camera and lens choice is yours\\nComposition: must be a close-up / macro shot of the ring\\nSubject: must include a sapphire ring with diamond setting (one)\\nScene/backdrop: must be black velvet background\\nLighting/mood: needs a light-play atmosphere showing fire and brilliance refracting inside the gemstone — exact light source arrangement is yours\\nColor palette: \\nMaterials/textures: must include the refractive fire and brilliance inside the sapphire, with fine detail visible\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 8169
+    },
+    {
+      "query_idx": 9,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a hyper-realistic jewelry close-up photograph of a sapphire ring with diamond setting (any in-image text in Chinese, if rendered).\n\nStyle/medium: must be hyper-realistic\nComposition: must be close-up macro detail shot\nSubject: must include a sapphire ring with diamond setting as the focal subject\nScene/backdrop: must include black velvet background\nLighting/mood: needs a fire-and-brilliance atmosphere with light refracting inside the gemstone — exact light source setup is yours\nColor palette: \nMaterials/textures: must include sapphire gemstone with internal light refraction and fire, diamond accents, black velvet surface — exact surface treatment is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/c7bfd4df-39d0-447b-8773-91a7930900d9/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a hyper-realistic jewelry close-up photograph of a sapphire ring with diamond setting (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: must be hyper-realistic\\nComposition: must be close-up macro detail shot\\nSubject: must include a sapphire ring with diamond setting as the focal subject\\nScene/backdrop: must include black velvet background\\nLighting/mood: needs a fire-and-brilliance atmosphere with light refracting inside the gemstone — exact light source setup is yours\\nColor palette: \\nMaterials/textures: must include sapphire gemstone with internal light refraction and fire, diamond accents, black velvet surface — exact surface treatment is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 12911
+    },
+    {
+      "query_idx": 10,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "生成一张末日废土风格的场景，荒凉的沙漠中有一辆改装过的装甲车，远处是倒塌的城市废墟，天空昏黄，风沙弥漫，充满末世生存的紧张感",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/acfc4210-ed12-4e35-9f47-b39ea3d808e1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"生成一张末日废土风格的场景，荒凉的沙漠中有一辆改装过的装甲车，远处是倒塌的城市废墟，天空昏黄，风沙弥漫，充满末世生存的紧张感\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 4905
+    },
+    {
+      "query_idx": 10,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing post-apocalyptic wasteland scene illustration (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 末日废土 (post-apocalyptic wasteland) aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a modified armored vehicle\nScene/backdrop: must include a desolate desert, collapsed city ruins in the distance, yellowish sky, sandstorm atmosphere\nLighting/mood: needs a post-apocalyptic survival tension atmosphere — exact light source mix is yours\nColor palette: needs a yellowish / dusty wasteland direction — exact hex values and ratios are yours\nMaterials/textures: needs a gritty, weathered surface treatment — exact grain / rust / dust level is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "auto",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/83cbdac5-b081-4a24-a8bc-0677e7ababf9/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing post-apocalyptic wasteland scene illustration (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 末日废土 (post-apocalyptic wasteland) aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a modified armored vehicle\\nScene/backdrop: must include a desolate desert, collapsed city ruins in the distance, yellowish sky, sandstorm atmosphere\\nLighting/mood: needs a post-apocalyptic survival tension atmosphere — exact light source mix is yours\\nColor palette: needs a yellowish / dusty wasteland direction — exact hex values and ratios are yours\\nMaterials/textures: needs a gritty, weathered surface treatment — exact grain / rust / dust level is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"auto\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9239
+    },
+    {
+      "query_idx": 10,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a scene illustration of a post-apocalyptic wasteland environment (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"末日废土\" aesthetic — references in the spirit of Mad Max: Fury Road production design, 1990s Japanese mecha anime background art, 1970s dystopian sci-fi paperback cover illustration; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a modified armored vehicle as the focal subject\nScene/backdrop: must include a desolate desert landscape, collapsed city ruins in the distance, yellow-tinged sky, sandstorm atmosphere\nLighting/mood: needs a tense post-apocalyptic survival atmosphere — exact light source mix is yours\nColor palette: needs a desolate yellow-tinged direction — exact hex values are yours\nMaterials/textures: needs a dusty, weathered surface treatment — exact grain / rust / sand texture is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/82563d9d-3e0a-48a1-994d-2bc95be106ca/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a scene illustration of a post-apocalyptic wasteland environment (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"末日废土\\\" aesthetic — references in the spirit of Mad Max: Fury Road production design, 1990s Japanese mecha anime background art, 1970s dystopian sci-fi paperback cover illustration; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a modified armored vehicle as the focal subject\\nScene/backdrop: must include a desolate desert landscape, collapsed city ruins in the distance, yellow-tinged sky, sandstorm atmosphere\\nLighting/mood: needs a tense post-apocalyptic survival atmosphere — exact light source mix is yours\\nColor palette: needs a desolate yellow-tinged direction — exact hex values are yours\\nMaterials/textures: needs a dusty, weathered surface treatment — exact grain / rust / sand texture is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 10341
+    },
+    {
+      "query_idx": 11,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "画一张清新日系风格的樱花季校园场景，粉色樱花飘落，女生穿着水手服站在教学楼前，微风拂动发丝，阳光明媚，青春气息扑面而来",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/7da8e65d-7044-479a-bb31-2917b76e936c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"画一张清新日系风格的樱花季校园场景，粉色樱花飘落，女生穿着水手服站在教学楼前，微风拂动发丝，阳光明媚，青春气息扑面而来\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9171
+    },
+    {
+      "query_idx": 11,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an illustration of a spring cherry-blossom campus scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 清新日系 aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a girl wearing 水手服\nScene/backdrop: must include a school building, pink cherry blossoms falling, gentle breeze moving hair\nLighting/mood: must be sunny with a youthful atmosphere\nColor palette: needs a pink cherry-blossom direction — exact saturation and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/bcc0e336-2c42-4da6-91e6-b02fd5b10450/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an illustration of a spring cherry-blossom campus scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 清新日系 aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a girl wearing 水手服\\nScene/backdrop: must include a school building, pink cherry blossoms falling, gentle breeze moving hair\\nLighting/mood: must be sunny with a youthful atmosphere\\nColor palette: needs a pink cherry-blossom direction — exact saturation and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 20539
+    },
+    {
+      "query_idx": 11,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "failed",
+      "final_prompt": {
+        "prompt": "Create an illustration of a cherry blossom campus scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"清新日系\" aesthetic — references in the spirit of Makoto Shinkai anime background art, 1980s Japanese city pop illustration, Kyoto Animation's pastel campus scenes; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a young woman in a sailor uniform (one)\nScene/backdrop: must include a school building, cherry blossoms falling, gentle breeze moving hair, sunny day\nLighting/mood: needs a sunny, youthful atmosphere — exact light source mix is yours\nColor palette: needs a pink cherry blossom palette — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": null,
+      "scores": {},
+      "note": "",
+      "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_b51b1bbe79154ee187a40f8f9fe41de0.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+      "raw": "{\"prompt\":\"Create an illustration of a cherry blossom campus scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"清新日系\\\" aesthetic — references in the spirit of Makoto Shinkai anime background art, 1980s Japanese city pop illustration, Kyoto Animation's pastel campus scenes; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a young woman in a sailor uniform (one)\\nScene/backdrop: must include a school building, cherry blossoms falling, gentle breeze moving hair, sunny day\\nLighting/mood: needs a sunny, youthful atmosphere — exact light source mix is yours\\nColor palette: needs a pink cherry blossom palette — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 13412
+    },
+    {
+      "query_idx": 12,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "创作一张暗黑哥特风格的城堡 interior，高大的拱顶，彩色玻璃窗透进血红色的光，烛台和铁链装饰，阴影浓重，神秘而压抑的氛围",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/65abda42-200d-4aaa-ad89-dfc124b6364b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"创作一张暗黑哥特风格的城堡 interior，高大的拱顶，彩色玻璃窗透进血红色的光，烛台和铁链装饰，阴影浓重，神秘而压抑的氛围\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 10688
+    },
+    {
+      "query_idx": 12,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing interior design illustration of a castle (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a dark Gothic aesthetic — exact stylistic execution is yours\nComposition: must include tall vaulted arches as focal architectural element\nSubject: must include candelabras and iron chains as decorative elements\nScene/backdrop: must include a castle interior with tall vaulted ceilings and stained glass windows\nLighting/mood: must include blood-red light filtering through stained glass windows; needs a mysterious and oppressive atmosphere — exact light source mix is yours\nColor palette: needs a blood-red dominant direction — exact saturation and ratios are yours\nMaterials/textures: needs heavy shadow treatment — exact grain and contrast are yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/7a847f67-bf26-408f-a293-89414af07890/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing interior design illustration of a castle (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a dark Gothic aesthetic — exact stylistic execution is yours\\nComposition: must include tall vaulted arches as focal architectural element\\nSubject: must include candelabras and iron chains as decorative elements\\nScene/backdrop: must include a castle interior with tall vaulted ceilings and stained glass windows\\nLighting/mood: must include blood-red light filtering through stained glass windows; needs a mysterious and oppressive atmosphere — exact light source mix is yours\\nColor palette: needs a blood-red dominant direction — exact saturation and ratios are yours\\nMaterials/textures: needs heavy shadow treatment — exact grain and contrast are yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13842
+    },
+    {
+      "query_idx": 12,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an interior illustration of a dark Gothic castle (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"暗黑哥特\" aesthetic — references in the spirit of Victorian Gothic Revival architecture illustration, 19th-century Romantic-era castle paintings, Castlevania game environment art; exact stylistic execution is yours\nComposition: must include towering vaulted ceilings as dominant architectural element\nSubject: must include candelabras and iron chain decorations\nScene/backdrop: must be a castle interior with tall vaulted arches\nLighting/mood: needs a mysterious and oppressive atmosphere with heavy shadows — exact light source mix is yours\nColor palette: must include blood-red light filtering through stained glass windows\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/9e30dd82-57f3-4c5b-aa18-356c90b336dc/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an interior illustration of a dark Gothic castle (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"暗黑哥特\\\" aesthetic — references in the spirit of Victorian Gothic Revival architecture illustration, 19th-century Romantic-era castle paintings, Castlevania game environment art; exact stylistic execution is yours\\nComposition: must include towering vaulted ceilings as dominant architectural element\\nSubject: must include candelabras and iron chain decorations\\nScene/backdrop: must be a castle interior with tall vaulted arches\\nLighting/mood: needs a mysterious and oppressive atmosphere with heavy shadows — exact light source mix is yours\\nColor palette: must include blood-red light filtering through stained glass windows\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 15020
+    },
+    {
+      "query_idx": 13,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "设计一张热带度假风格的酒店泳池场景，无边泳池 overlooking 大海，躺椅和遮阳伞，椰子树，蓝天白云，色彩饱和度高，让人想立刻去度假",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/efc7f30c-e409-4a7d-94f6-d14f3419f3ed/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"设计一张热带度假风格的酒店泳池场景，无边泳池 overlooking 大海，躺椅和遮阳伞，椰子树，蓝天白云，色彩饱和度高，让人想立刻去度假\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 3891
+    },
+    {
+      "query_idx": 13,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial photo of a tropical resort hotel pool scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a tropical resort aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include an infinity pool, lounge chairs with umbrellas, coconut trees\nScene/backdrop: must include the infinity pool overlooking the ocean, blue sky with white clouds\nLighting/mood: needs a bright, vacation-ready atmosphere — exact light source mix is yours\nColor palette: needs a highly saturated direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "auto",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/5da10ac9-a1f6-4aa1-b38a-0f76446985de/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an editorial photo of a tropical resort hotel pool scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a tropical resort aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include an infinity pool, lounge chairs with umbrellas, coconut trees\\nScene/backdrop: must include the infinity pool overlooking the ocean, blue sky with white clouds\\nLighting/mood: needs a bright, vacation-ready atmosphere — exact light source mix is yours\\nColor palette: needs a highly saturated direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"auto\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 11640
+    },
+    {
+      "query_idx": 13,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a hotel poolside scene with tropical resort vibes (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"tropical resort\" aesthetic — references in the spirit of Slim Aarons poolside photography, 1970s Hawaiian travel posters, Aman Resorts editorial photography; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include an infinity pool, lounge chairs, parasols, coconut trees\nScene/backdrop: must include an infinity pool overlooking the ocean, blue sky with white clouds\nLighting/mood: needs a bright, inviting vacation atmosphere — exact light source mix is yours\nColor palette: needs a highly saturated direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b3be97ef-185a-43d3-bbb9-a4cd85437649/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a hotel poolside scene with tropical resort vibes (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"tropical resort\\\" aesthetic — references in the spirit of Slim Aarons poolside photography, 1970s Hawaiian travel posters, Aman Resorts editorial photography; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include an infinity pool, lounge chairs, parasols, coconut trees\\nScene/backdrop: must include an infinity pool overlooking the ocean, blue sky with white clouds\\nLighting/mood: needs a bright, inviting vacation atmosphere — exact light source mix is yours\\nColor palette: needs a highly saturated direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 8415
+    },
+    {
+      "query_idx": 14,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "绘制一张微观世界的特写，一滴水珠中的倒影，周围是草叶和露珠，背景虚化呈圆形光斑，展现自然界的精致与神奇，适合作为手机壁纸",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/43368b46-9abd-47fd-9ec5-d553fed7a543/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"绘制一张微观世界的特写，一滴水珠中的倒影，周围是草叶和露珠，背景虚化呈圆形光斑，展现自然界的精致与神奇，适合作为手机壁纸\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 6091
+    },
+    {
+      "query_idx": 14,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing nature macro photograph for a phone wallpaper (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a macro-photography aesthetic — exact stylistic execution is yours\nComposition: must be a close-up macro shot with a water droplet as the focal point, background with circular bokeh\nSubject: must include a water droplet with reflections inside, surrounding grass blades and dew drops\nScene/backdrop: must include natural grass and foliage context with circular bokeh background\nLighting/mood: needs a delicate and magical nature atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/9ac10961-dc32-4251-99e6-5f296361c262/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing nature macro photograph for a phone wallpaper (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a macro-photography aesthetic — exact stylistic execution is yours\\nComposition: must be a close-up macro shot with a water droplet as the focal point, background with circular bokeh\\nSubject: must include a water droplet with reflections inside, surrounding grass blades and dew drops\\nScene/backdrop: must include natural grass and foliage context with circular bokeh background\\nLighting/mood: needs a delicate and magical nature atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 8225
+    },
+    {
+      "query_idx": 14,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a macro-photography close-up of a single water droplet reflecting its surroundings, suitable as a phone wallpaper (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a macro nature photography aesthetic — references in the spirit of National Geographic macro work, Miki Asai dewdrop photography tradition, 1990s nature documentary stills; exact stylistic execution is yours\nComposition: must be extreme close-up of the water droplet as focal point, shallow depth of field\nSubject: must include one water droplet with visible internal reflection, surrounding grass blades and dewdrops\nScene/backdrop: must include grass blades and dewdrops in immediate foreground/background, circular bokeh in background\nLighting/mood: needs a delicate and magical natural atmosphere — exact light source mix is yours\nColor palette: needs a fresh, natural direction — exact hex values are yours\nMaterials/textures: needs a wet, crystalline surface treatment — exact transparency and refraction is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/8d598c33-465e-476d-af0b-d6ca96b954a4/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a macro-photography close-up of a single water droplet reflecting its surroundings, suitable as a phone wallpaper (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a macro nature photography aesthetic — references in the spirit of National Geographic macro work, Miki Asai dewdrop photography tradition, 1990s nature documentary stills; exact stylistic execution is yours\\nComposition: must be extreme close-up of the water droplet as focal point, shallow depth of field\\nSubject: must include one water droplet with visible internal reflection, surrounding grass blades and dewdrops\\nScene/backdrop: must include grass blades and dewdrops in immediate foreground/background, circular bokeh in background\\nLighting/mood: needs a delicate and magical natural atmosphere — exact light source mix is yours\\nColor palette: needs a fresh, natural direction — exact hex values are yours\\nMaterials/textures: needs a wet, crystalline surface treatment — exact transparency and refraction is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 12524
+    },
+    {
+      "query_idx": 15,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "生成一张蒸汽朋克风格的机械装置图，复杂的齿轮、管道和仪表，黄铜和铜质材料，维多利亚时代的装饰元素，精密而复古的工业美感",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/eb3f24ad-6bb5-45ff-9a45-c9f30e0bef87/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"生成一张蒸汽朋克风格的机械装置图，复杂的齿轮、管道和仪表，黄铜和铜质材料，维多利亚时代的装饰元素，精密而复古的工业美感\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 3969
+    },
+    {
+      "query_idx": 15,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a steampunk mechanical device illustration featuring intricate gears, pipes, and gauges (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a steampunk aesthetic with Victorian-era decorative elements — exact stylistic execution is yours\nComposition: \nSubject: must include intricate gears, pipes, and gauges\nScene/backdrop: must include the mechanical device context\nLighting/mood: needs a precision-retro industrial atmosphere — exact light source mix is yours\nColor palette: needs a brass and copper dominant direction — exact metallic tones and ratios are yours\nMaterials/textures: must include brass and copper surface treatment — exact grain / patina / weight is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b50495b3-f3c6-40bc-b262-9bfac1cfce7e/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a steampunk mechanical device illustration featuring intricate gears, pipes, and gauges (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a steampunk aesthetic with Victorian-era decorative elements — exact stylistic execution is yours\\nComposition: \\nSubject: must include intricate gears, pipes, and gauges\\nScene/backdrop: must include the mechanical device context\\nLighting/mood: needs a precision-retro industrial atmosphere — exact light source mix is yours\\nColor palette: needs a brass and copper dominant direction — exact metallic tones and ratios are yours\\nMaterials/textures: must include brass and copper surface treatment — exact grain / patina / weight is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 9559
+    },
+    {
+      "query_idx": 15,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an illustration of a steampunk mechanical device with complex gears, pipes, and gauges (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"蒸汽朋克\" aesthetic — references in the spirit of Jules Verne novel illustrations, 19th-century industrial engineering diagrams, Victorian brass instrument craftsmanship; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include complex gears, pipes, and gauges as the focal mechanical elements\nScene/backdrop: \nLighting/mood: \nColor palette: needs a brass and copper dominant direction — exact metal tones and patina are yours\nMaterials/textures: needs a Victorian-era ornamental surface treatment — exact brass/copper sheen and decorative detail level is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/60c38aed-cee6-4835-95ad-7bb2238e0bc6/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an illustration of a steampunk mechanical device with complex gears, pipes, and gauges (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"蒸汽朋克\\\" aesthetic — references in the spirit of Jules Verne novel illustrations, 19th-century industrial engineering diagrams, Victorian brass instrument craftsmanship; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include complex gears, pipes, and gauges as the focal mechanical elements\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a brass and copper dominant direction — exact metal tones and patina are yours\\nMaterials/textures: needs a Victorian-era ornamental surface treatment — exact brass/copper sheen and decorative detail level is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9488
+    },
+    {
+      "query_idx": 16,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "画一张温馨的家庭聚餐场景，中式圆桌，火锅冒着热气，一家人举杯欢笑，暖黄色灯光，背景是贴满照片的墙壁，充满烟火气和幸福感",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/eb3a1304-a44b-4da9-9599-cef85318ba81/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"画一张温馨的家庭聚餐场景，中式圆桌，火锅冒着热气，一家人举杯欢笑，暖黄色灯光，背景是贴满照片的墙壁，充满烟火气和幸福感\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 3990
+    },
+    {
+      "query_idx": 16,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a scene illustration of a warm family dinner gathering (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a warm, lived-in family-dinner aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a family gathered around a table, raising cups in celebration, expressions of joy and togetherness\nScene/backdrop: must include a Chinese round table (中式圆桌) with a steaming hotpot (火锅), walls covered with photos\nLighting/mood: needs warm yellow lighting with a cozy,烟火气 atmosphere — exact light source placement is yours\nColor palette: needs a warm yellow direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/7e91559f-1cc2-4402-aa08-0be1fdbb5773/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a scene illustration of a warm family dinner gathering (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a warm, lived-in family-dinner aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a family gathered around a table, raising cups in celebration, expressions of joy and togetherness\\nScene/backdrop: must include a Chinese round table (中式圆桌) with a steaming hotpot (火锅), walls covered with photos\\nLighting/mood: needs warm yellow lighting with a cozy,烟火气 atmosphere — exact light source placement is yours\\nColor palette: needs a warm yellow direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9960
+    },
+    {
+      "query_idx": 16,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an illustration of a warm family dinner scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"温馨\" and \"烟火气\" aesthetic — references in the spirit of 1990s Hong Kong family dinner photography, 老照片 (old photo) nostalgic warmth, contemporary Chinese lifestyle illustration heritage; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a multi-generational family gathered around a round table, raising cups in celebration\nScene/backdrop: must include a Chinese round dining table with hot pot steaming, walls covered with family photos\nLighting/mood: needs a warm yellow lamplight atmosphere with cozy, happy mood — exact light source mix is yours\nColor palette: needs a warm yellow direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f1f26bf3-c9bd-44ef-971d-cf062b7eed0a/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an illustration of a warm family dinner scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"温馨\\\" and \\\"烟火气\\\" aesthetic — references in the spirit of 1990s Hong Kong family dinner photography, 老照片 (old photo) nostalgic warmth, contemporary Chinese lifestyle illustration heritage; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a multi-generational family gathered around a round table, raising cups in celebration\\nScene/backdrop: must include a Chinese round dining table with hot pot steaming, walls covered with family photos\\nLighting/mood: needs a warm yellow lamplight atmosphere with cozy, happy mood — exact light source mix is yours\\nColor palette: needs a warm yellow direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 11799
+    },
+    {
+      "query_idx": 17,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "创作一张抽象表现主义风格的艺术作品，大胆的色彩碰撞，流动的笔触，没有具体形象但充满情绪和能量，适合现代艺术画廊展示",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/8700c69f-1f6c-4561-b4f3-3ea607d0470b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"创作一张抽象表现主义风格的艺术作品，大胆的色彩碰撞，流动的笔触，没有具体形象但充满情绪和能量，适合现代艺术画廊展示\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9581
+    },
+    {
+      "query_idx": 17,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing abstract expressionist artwork suitable for modern art gallery display.\n\nStyle/medium: needs an abstract expressionist aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must be non-representational, conveying emotion and energy through form and color alone\nScene/backdrop: \nLighting/mood: \nColor palette: needs bold color collision direction — exact color choices and ratios are yours\nMaterials/textures: needs flowing, gestural brushwork texture — exact paint application is yours\nText (verbatim): \nConstraints: \nAvoid: must avoid any recognizable or concrete imagery",
+        "size": "auto",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b263b99a-ba22-4959-9e34-e054e1cb46b1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing abstract expressionist artwork suitable for modern art gallery display.\\n\\nStyle/medium: needs an abstract expressionist aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must be non-representational, conveying emotion and energy through form and color alone\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs bold color collision direction — exact color choices and ratios are yours\\nMaterials/textures: needs flowing, gestural brushwork texture — exact paint application is yours\\nText (verbatim): \\nConstraints: \\nAvoid: must avoid any recognizable or concrete imagery\"}",
+      "ms": 8366
+    },
+    {
+      "query_idx": 17,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing abstract expressionist artwork for modern art gallery display.\n\nStyle/medium: needs an \"abstract expressionist\" aesthetic — references in the spirit of Jackson Pollock's action painting, Willem de Kooning's gestural abstraction, Helen Frankenthaler's color-field soak-stain technique; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include abstract forms with no concrete imagery\nScene/backdrop: \nLighting/mood: needs an emotionally charged, energetic atmosphere — exact mood balance is yours\nColor palette: needs bold color collision direction — exact hue combinations are yours\nMaterials/textures: needs fluid brushstroke treatment — exact paint viscosity and stroke weight is yours\nText (verbatim): \nConstraints: \nAvoid: must avoid any concrete recognizable imagery",
+        "size": "auto",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/63e16dc7-b9d8-403e-9e87-8b47c226445a/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing abstract expressionist artwork for modern art gallery display.\\n\\nStyle/medium: needs an \\\"abstract expressionist\\\" aesthetic — references in the spirit of Jackson Pollock's action painting, Willem de Kooning's gestural abstraction, Helen Frankenthaler's color-field soak-stain technique; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include abstract forms with no concrete imagery\\nScene/backdrop: \\nLighting/mood: needs an emotionally charged, energetic atmosphere — exact mood balance is yours\\nColor palette: needs bold color collision direction — exact hue combinations are yours\\nMaterials/textures: needs fluid brushstroke treatment — exact paint viscosity and stroke weight is yours\\nText (verbatim): \\nConstraints: \\nAvoid: must avoid any concrete recognizable imagery\"}",
+      "ms": 9247
+    },
+    {
+      "query_idx": 18,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "设计一张专业的产品摄影场景，一款智能手表放在大理石台面上，旁边有咖啡杯和笔记本，自然光从侧面打来，简约商务风格，突出产品质感",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b98cb630-2648-450a-b5d1-73c303323d98/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"设计一张专业的产品摄影场景，一款智能手表放在大理石台面上，旁边有咖啡杯和笔记本，自然光从侧面打来，简约商务风格，突出产品质感\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 4309
+    },
+    {
+      "query_idx": 18,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a professional product photography scene featuring a smartwatch (all in-image text in Chinese).\n\nStyle/medium: needs a minimalist business aesthetic — exact stylistic execution is yours\nComposition: must feature the smartwatch as the focal product\nSubject: must include a smartwatch (one), a coffee cup, and a notebook\nScene/backdrop: must include a marble tabletop surface\nLighting/mood: must be natural light from the side\nColor palette: \nMaterials/textures: needs a texture direction that emphasizes product quality — exact surface treatment is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b78cc434-8ff1-4a1c-81ed-f1645a457a1f/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a professional product photography scene featuring a smartwatch (all in-image text in Chinese).\\n\\nStyle/medium: needs a minimalist business aesthetic — exact stylistic execution is yours\\nComposition: must feature the smartwatch as the focal product\\nSubject: must include a smartwatch (one), a coffee cup, and a notebook\\nScene/backdrop: must include a marble tabletop surface\\nLighting/mood: must be natural light from the side\\nColor palette: \\nMaterials/textures: needs a texture direction that emphasizes product quality — exact surface treatment is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 10202
+    },
+    {
+      "query_idx": 18,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a professional product photography scene featuring a smartwatch (all in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"简约商务\" aesthetic — references in the spirit of Apple product photography heritage, Kinfolk magazine still-life editorial style, Scandinavian minimalism; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a smartwatch (one) as the focal product, a coffee cup, and a notebook\nScene/backdrop: must include a marble surface as the base\nLighting/mood: needs natural side-lighting atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a premium surface treatment — exact material sheen and weight is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b11056b7-74e2-4127-a47e-1edff25e60e8/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a professional product photography scene featuring a smartwatch (all in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"简约商务\\\" aesthetic — references in the spirit of Apple product photography heritage, Kinfolk magazine still-life editorial style, Scandinavian minimalism; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a smartwatch (one) as the focal product, a coffee cup, and a notebook\\nScene/backdrop: must include a marble surface as the base\\nLighting/mood: needs natural side-lighting atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a premium surface treatment — exact material sheen and weight is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9817
+    },
+    {
+      "query_idx": 19,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "绘制一张奇幻风格的龙与骑士战斗场景，巨龙喷吐火焰，骑士持盾冲锋，背景是燃烧的城堡和闪电交加的天空，史诗般的构图和动感",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ee0b2fea-f564-4b97-a23c-6d238b16abe1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"绘制一张奇幻风格的龙与骑士战斗场景，巨龙喷吐火焰，骑士持盾冲锋，背景是燃烧的城堡和闪电交加的天空，史诗般的构图和动感\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 4330
+    },
+    {
+      "query_idx": 19,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a fantasy illustration of a dragon and knight battle scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a fantasy aesthetic — exact stylistic execution is yours\nComposition: needs an epic, dynamic framing — exact camera angle and motion lines are yours\nSubject: must include a dragon breathing fire, a knight charging with shield\nScene/backdrop: must include a burning castle and a lightning-filled sky\nLighting/mood: needs a dramatic, intense atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/df9f7d37-239b-41f1-aec7-8cf0f9760047/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a fantasy illustration of a dragon and knight battle scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a fantasy aesthetic — exact stylistic execution is yours\\nComposition: needs an epic, dynamic framing — exact camera angle and motion lines are yours\\nSubject: must include a dragon breathing fire, a knight charging with shield\\nScene/backdrop: must include a burning castle and a lightning-filled sky\\nLighting/mood: needs a dramatic, intense atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 7825
+    },
+    {
+      "query_idx": 19,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an epic battle scene illustration of a dragon and knight (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"奇幻\" (fantasy) aesthetic — references in the spirit of Frank Frazetta's heroic fantasy illustration, 1980s Dragonlance book cover art, Studio Ghibli's Mononoke epic scale; exact stylistic execution is yours\nComposition: needs an epic, dynamic framing — exact angle and dramatic tension is yours\nSubject: must include a dragon breathing fire and a knight charging with shield\nScene/backdrop: must include a burning castle and lightning-streaked sky\nLighting/mood: needs an epic, dramatic atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b3324819-cd24-4f79-a3ce-e6bc4b9b7241/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an epic battle scene illustration of a dragon and knight (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"奇幻\\\" (fantasy) aesthetic — references in the spirit of Frank Frazetta's heroic fantasy illustration, 1980s Dragonlance book cover art, Studio Ghibli's Mononoke epic scale; exact stylistic execution is yours\\nComposition: needs an epic, dynamic framing — exact angle and dramatic tension is yours\\nSubject: must include a dragon breathing fire and a knight charging with shield\\nScene/backdrop: must include a burning castle and lightning-streaked sky\\nLighting/mood: needs an epic, dramatic atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11541
+    },
+    {
+      "query_idx": 20,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "生成一张侘寂风格的静物摄影，一个粗陶花瓶，插着枯枝，放在斑驳的木桌上，自然光从窗户斜射进来，强调不完美之美和时间的痕迹",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/8a9119ae-4eb5-46aa-a690-5f98926a844b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"生成一张侘寂风格的静物摄影，一个粗陶花瓶，插着枯枝，放在斑驳的木桌上，自然光从窗户斜射进来，强调不完美之美和时间的痕迹\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 3867
+    },
+    {
+      "query_idx": 20,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a still-life photograph of a rustic pottery vase with dried branches on a weathered wooden table (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"侘寂\" (wabi-sabi) aesthetic — exact stylistic execution is yours\nComposition: must include natural light streaming in diagonally from a window\nSubject: must include a coarse pottery vase with dried branches\nScene/backdrop: must include a weathered wooden table\nLighting/mood: must be natural light from window, diagonal angle — needs an atmosphere emphasizing imperfect beauty and traces of time\nColor palette: \nMaterials/textures: needs a textured surface treatment emphasizing imperfection and time-worn quality — exact grain and patina are yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/47b916f6-75c9-44f3-952a-6596efab3b44/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a still-life photograph of a rustic pottery vase with dried branches on a weathered wooden table (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"侘寂\\\" (wabi-sabi) aesthetic — exact stylistic execution is yours\\nComposition: must include natural light streaming in diagonally from a window\\nSubject: must include a coarse pottery vase with dried branches\\nScene/backdrop: must include a weathered wooden table\\nLighting/mood: must be natural light from window, diagonal angle — needs an atmosphere emphasizing imperfect beauty and traces of time\\nColor palette: \\nMaterials/textures: needs a textured surface treatment emphasizing imperfection and time-worn quality — exact grain and patina are yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 9226
+    },
+    {
+      "query_idx": 20,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a still-life photograph of a wabi-sabi composition (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"侘寂\" aesthetic — references in the spirit of wabi-sabi design philosophy, Japanese kintsugi pottery tradition, 16th-century Japanese tea ceremony object arrangement; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a coarse pottery vase with withered branches (one each)\nScene/backdrop: must include a weathered wooden table with natural window light casting diagonally across the scene\nLighting/mood: needs natural window light with diagonal casting — exact light quality is yours\nColor palette: \nMaterials/textures: needs imperfect, time-worn surface treatment — exact grain / patina / wear level is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/a491dd53-30c2-412a-a35d-140794b25bad/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a still-life photograph of a wabi-sabi composition (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"侘寂\\\" aesthetic — references in the spirit of wabi-sabi design philosophy, Japanese kintsugi pottery tradition, 16th-century Japanese tea ceremony object arrangement; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a coarse pottery vase with withered branches (one each)\\nScene/backdrop: must include a weathered wooden table with natural window light casting diagonally across the scene\\nLighting/mood: needs natural window light with diagonal casting — exact light quality is yours\\nColor palette: \\nMaterials/textures: needs imperfect, time-worn surface treatment — exact grain / patina / wear level is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9205
+    },
+    {
+      "query_idx": 21,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "画一张热血动漫风格的运动场景，篮球场上球员腾空扣篮，汗水飞溅，背景是欢呼的人群和闪光灯，动态模糊效果，充满张力和激情",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ba83f435-0026-442e-83a8-fef7a7b945d0/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"画一张热血动漫风格的运动场景，篮球场上球员腾空扣篮，汗水飞溅，背景是欢呼的人群和闪光灯，动态模糊效果，充满张力和激情\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 4697
+    },
+    {
+      "query_idx": 21,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an illustration of a dynamic basketball dunk scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 热血动漫 (hot-blooded anime) aesthetic — exact stylistic execution is yours\nComposition: must include dynamic motion blur conveying speed and impact\nSubject: must include a basketball player mid-air performing a slam dunk, sweat droplets flying\nScene/backdrop: must include a basketball court with cheering crowd and camera flashes in background\nLighting/mood: needs a high-energy, passionate atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ea935b58-3f7c-4a1c-8cdd-c1516474d596/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an illustration of a dynamic basketball dunk scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 热血动漫 (hot-blooded anime) aesthetic — exact stylistic execution is yours\\nComposition: must include dynamic motion blur conveying speed and impact\\nSubject: must include a basketball player mid-air performing a slam dunk, sweat droplets flying\\nScene/backdrop: must include a basketball court with cheering crowd and camera flashes in background\\nLighting/mood: needs a high-energy, passionate atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 8941
+    },
+    {
+      "query_idx": 21,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an illustration of a dynamic basketball dunk scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"热血动漫\" aesthetic — references in the spirit of Slam Dunk manga visual language, 1990s Weekly Shōnen Jump action panel composition, Kuroko's Basketball high-speed motion style; exact stylistic execution is yours\nComposition: must include dynamic motion blur, player mid-air for dunk as focal point\nSubject: must include basketball player (one) executing a dunk, sweat droplets splashing\nScene/backdrop: must include basketball court setting with cheering crowd and camera flashes in background\nLighting/mood: needs a high-energy, passionate atmosphere — exact light source mix is yours\nColor palette: needs a vibrant, energetic direction — exact values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ab3ff2b3-4eaa-487f-8580-a0062efd9985/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an illustration of a dynamic basketball dunk scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"热血动漫\\\" aesthetic — references in the spirit of Slam Dunk manga visual language, 1990s Weekly Shōnen Jump action panel composition, Kuroko's Basketball high-speed motion style; exact stylistic execution is yours\\nComposition: must include dynamic motion blur, player mid-air for dunk as focal point\\nSubject: must include basketball player (one) executing a dunk, sweat droplets splashing\\nScene/backdrop: must include basketball court setting with cheering crowd and camera flashes in background\\nLighting/mood: needs a high-energy, passionate atmosphere — exact light source mix is yours\\nColor palette: needs a vibrant, energetic direction — exact values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9472
+    },
+    {
+      "query_idx": 22,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "创作一张法式浪漫风格的卧室场景，四柱床配纱幔，复古梳妆台，窗外是巴黎街景，晨光柔和，玫瑰花瓣散落，优雅而慵懒的氛围",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/19dc9ddc-025a-4db6-80a3-4a664e9306f5/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"创作一张法式浪漫风格的卧室场景，四柱床配纱幔，复古梳妆台，窗外是巴黎街景，晨光柔和，玫瑰花瓣散落，优雅而慵懒的氛围\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 4492
+    },
+    {
+      "query_idx": 22,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an interior design illustration of a French romantic bedroom scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 法式浪漫 aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a four-poster bed with sheer canopy, vintage dressing table, scattered rose petals\nScene/backdrop: must include Paris street view visible through the window\nLighting/mood: must be soft morning light with an elegant and lazy atmosphere\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/59cebd57-940a-473b-8fb8-fd2fab205499/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an interior design illustration of a French romantic bedroom scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 法式浪漫 aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a four-poster bed with sheer canopy, vintage dressing table, scattered rose petals\\nScene/backdrop: must include Paris street view visible through the window\\nLighting/mood: must be soft morning light with an elegant and lazy atmosphere\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 7515
+    },
+    {
+      "query_idx": 22,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an interior design illustration of a French romantic bedroom scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"法式浪漫\" aesthetic — references in the spirit of 19th-century French Rococo interior painting tradition, Sofia Coppola's Marie Antoinette production design, contemporary Parisian boutique hotel editorial photography; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a four-poster bed with gauze canopy, vintage vanity table, scattered rose petals\nScene/backdrop: must include Paris street view visible through window, morning light\nLighting/mood: needs a soft morning light with elegant and lazy atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e64b6c3d-94be-4036-8c93-c69a5f1de338/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an interior design illustration of a French romantic bedroom scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"法式浪漫\\\" aesthetic — references in the spirit of 19th-century French Rococo interior painting tradition, Sofia Coppola's Marie Antoinette production design, contemporary Parisian boutique hotel editorial photography; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a four-poster bed with gauze canopy, vintage vanity table, scattered rose petals\\nScene/backdrop: must include Paris street view visible through window, morning light\\nLighting/mood: needs a soft morning light with elegant and lazy atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11632
+    },
+    {
+      "query_idx": 23,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "设计一张硬核军事风格的战术装备展示，各种枪械、防弹背心、夜视仪整齐排列，深色背景，冷峻的光线，专业而威严的感觉",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/6be5e51a-59e7-4da1-b05f-d263d2cba827/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"设计一张硬核军事风格的战术装备展示，各种枪械、防弹背心、夜视仪整齐排列，深色背景，冷峻的光线，专业而威严的感觉\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 4742
+    },
+    {
+      "query_idx": 23,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial-style tactical gear showcase with firearms, body armor, and night-vision equipment (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a hardcore military tactical aesthetic — exact stylistic execution is yours\nComposition: must be an organized display layout with various firearms, ballistic vests, and night-vision devices arranged neatly\nSubject: must include various firearms, ballistic vests, and night-vision equipment\nScene/backdrop: must be a dark background\nLighting/mood: needs a cold, stern lighting atmosphere — exact light source mix is yours\nColor palette: needs a dark, cold-toned direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/808e0402-5f18-443a-bc72-9131d070a01a/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an editorial-style tactical gear showcase with firearms, body armor, and night-vision equipment (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a hardcore military tactical aesthetic — exact stylistic execution is yours\\nComposition: must be an organized display layout with various firearms, ballistic vests, and night-vision devices arranged neatly\\nSubject: must include various firearms, ballistic vests, and night-vision equipment\\nScene/backdrop: must be a dark background\\nLighting/mood: needs a cold, stern lighting atmosphere — exact light source mix is yours\\nColor palette: needs a dark, cold-toned direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 10411
+    },
+    {
+      "query_idx": 23,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a tactical gear showcase display featuring firearms, body armor, and night-vision equipment (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"硬核军事\" tactical aesthetic — references in the spirit of Tom Clancy military-tech concept art, 1990s military equipment catalog photography, Call of Duty loadout UI design; exact stylistic execution is yours\nComposition: must be an organized grid or symmetrical arrangement of tactical gear pieces\nSubject: must include firearms, ballistic vest, and night-vision goggles arranged neatly\nScene/backdrop: must be a dark background setting\nLighting/mood: needs a cold, professional, authoritative atmosphere — exact light source mix is yours\nColor palette: needs a cold/cool direction — exact hex values are yours\nMaterials/textures: must include tactical fabric textures, matte metal finishes, and technical equipment surfaces\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ae934699-119e-4fa6-963c-25711b443e17/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a tactical gear showcase display featuring firearms, body armor, and night-vision equipment (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"硬核军事\\\" tactical aesthetic — references in the spirit of Tom Clancy military-tech concept art, 1990s military equipment catalog photography, Call of Duty loadout UI design; exact stylistic execution is yours\\nComposition: must be an organized grid or symmetrical arrangement of tactical gear pieces\\nSubject: must include firearms, ballistic vest, and night-vision goggles arranged neatly\\nScene/backdrop: must be a dark background setting\\nLighting/mood: needs a cold, professional, authoritative atmosphere — exact light source mix is yours\\nColor palette: needs a cold/cool direction — exact hex values are yours\\nMaterials/textures: must include tactical fabric textures, matte metal finishes, and technical equipment surfaces\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 15417
+    },
+    {
+      "query_idx": 24,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "绘制一张治愈系风格的猫咪日常，橘猫趴在窗台上晒太阳，窗外是飘雪的冬日街景，室内温暖，毛茸茸的质感，让人心生柔软",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f8a6b5a0-150f-4d67-b08b-e691bf6f7af0/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"绘制一张治愈系风格的猫咪日常，橘猫趴在窗台上晒太阳，窗外是飘雪的冬日街景，室内温暖，毛茸茸的质感，让人心生柔软\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 6124
+    },
+    {
+      "query_idx": 24,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a cozy daily-life illustration of a cat (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 治愈系 (healing/cozy) aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include an orange tabby cat (one), fluffy fur texture\nScene/backdrop: must include a windowsill with the cat sunbathing, warm indoor setting; outside the window must be a snowy winter street scene\nLighting/mood: needs a warm, soft, heartwarming atmosphere — exact light source mix is yours\nColor palette: needs warm indoor tones contrasting with cool winter outside — exact values are yours\nMaterials/textures: needs a soft, fluffy fur surface treatment — exact rendering style is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/5ad96555-e39d-4668-b409-fac632b09288/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a cozy daily-life illustration of a cat (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 治愈系 (healing/cozy) aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include an orange tabby cat (one), fluffy fur texture\\nScene/backdrop: must include a windowsill with the cat sunbathing, warm indoor setting; outside the window must be a snowy winter street scene\\nLighting/mood: needs a warm, soft, heartwarming atmosphere — exact light source mix is yours\\nColor palette: needs warm indoor tones contrasting with cool winter outside — exact values are yours\\nMaterials/textures: needs a soft, fluffy fur surface treatment — exact rendering style is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9898
+    },
+    {
+      "query_idx": 24,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an illustration of a cozy cat daily scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"治愈系\" aesthetic — references in the spirit of Studio Ghibli background art tradition, Japanese ほっこり (hoko-ri) cozy illustration style, Moomin soft watercolor heritage; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include an orange tabby cat as the focal subject\nScene/backdrop: must include a windowsill interior setting with warm indoor atmosphere; must include a snowy winter streetscape visible through the window\nLighting/mood: needs a warm, cozy atmosphere — exact light source mix is yours\nColor palette: needs a warm direction — exact hex values and ratios are yours\nMaterials/textures: needs a fluffy, soft surface treatment — exact fur texture and warmth is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e501ed1e-8227-451b-b171-fc5f9be1399b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an illustration of a cozy cat daily scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"治愈系\\\" aesthetic — references in the spirit of Studio Ghibli background art tradition, Japanese ほっこり (hoko-ri) cozy illustration style, Moomin soft watercolor heritage; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include an orange tabby cat as the focal subject\\nScene/backdrop: must include a windowsill interior setting with warm indoor atmosphere; must include a snowy winter streetscape visible through the window\\nLighting/mood: needs a warm, cozy atmosphere — exact light source mix is yours\\nColor palette: needs a warm direction — exact hex values and ratios are yours\\nMaterials/textures: needs a fluffy, soft surface treatment — exact fur texture and warmth is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 11310
+    },
+    {
+      "query_idx": 25,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "生成一张未来主义风格的建筑概念图，流线型的白色建筑悬浮在空中，周围有无人机和全息投影，清洁能源设施，体现可持续城市发展愿景",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/628138b7-a46f-4536-aad9-3143d6452c21/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"生成一张未来主义风格的建筑概念图，流线型的白色建筑悬浮在空中，周围有无人机和全息投影，清洁能源设施，体现可持续城市发展愿景\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 4694
+    },
+    {
+      "query_idx": 25,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a concept art illustration of futuristic architecture (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a futuristic architectural aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a streamlined white building floating in mid-air, drones, holographic projections, clean energy facilities\nScene/backdrop: must include an aerial/sky context with sustainable city development vision elements\nLighting/mood: needs a sustainable-future atmosphere — exact light source mix is yours\nColor palette: needs a white-dominant direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/dccdc221-d404-4504-ac1d-886b20cb9042/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a concept art illustration of futuristic architecture (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a futuristic architectural aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a streamlined white building floating in mid-air, drones, holographic projections, clean energy facilities\\nScene/backdrop: must include an aerial/sky context with sustainable city development vision elements\\nLighting/mood: needs a sustainable-future atmosphere — exact light source mix is yours\\nColor palette: needs a white-dominant direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 8030
+    },
+    {
+      "query_idx": 25,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a concept art illustration of futuristic architecture (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"未来主义\" aesthetic — references in the spirit of Zaha Hadid parametric architecture, Syd Mead (Blade Runner concept art), 2000s eco-futurism illustration; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a streamlined white building floating in the air as the focal subject\nScene/backdrop: must include drones, holographic projections, and clean energy facilities surrounding the architecture\nLighting/mood: needs a sustainable urban vision atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/76103c8a-c790-4af4-b034-12964c7b0c1a/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a concept art illustration of futuristic architecture (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"未来主义\\\" aesthetic — references in the spirit of Zaha Hadid parametric architecture, Syd Mead (Blade Runner concept art), 2000s eco-futurism illustration; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a streamlined white building floating in the air as the focal subject\\nScene/backdrop: must include drones, holographic projections, and clean energy facilities surrounding the architecture\\nLighting/mood: needs a sustainable urban vision atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 9309
+    },
+    {
+      "query_idx": 26,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "画一张复古美式风格的公路旅行场景，红色敞篷车行驶在66号公路上，两旁是荒漠和仙人掌，夕阳将天空染成橙红色，自由奔放的气息",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f68e600a-0ff0-49f0-ace5-ac2eb6d012cf/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"画一张复古美式风格的公路旅行场景，红色敞篷车行驶在66号公路上，两旁是荒漠和仙人掌，夕阳将天空染成橙红色，自由奔放的气息\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 4199
+    },
+    {
+      "query_idx": 26,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a scene illustration of a vintage American road-trip moment (any in-image text in English, if rendered).\n\nStyle/medium: needs a vintage American road-trip aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a red convertible car (one)\nScene/backdrop: must include Route 66, desert landscape with cacti on both sides, sunset sky dyed orange-red\nLighting/mood: needs a free-spirited atmosphere — exact light source mix is yours\nColor palette: must be orange-red dominant from sunset\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to English\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b1cc84e4-b8ea-407f-9d46-171be6476ea9/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a scene illustration of a vintage American road-trip moment (any in-image text in English, if rendered).\\n\\nStyle/medium: needs a vintage American road-trip aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a red convertible car (one)\\nScene/backdrop: must include Route 66, desert landscape with cacti on both sides, sunset sky dyed orange-red\\nLighting/mood: needs a free-spirited atmosphere — exact light source mix is yours\\nColor palette: must be orange-red dominant from sunset\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to English\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 8178
+    },
+    {
+      "query_idx": 26,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a marketing poster for a road-trip scene (all in-image text in English).\n\nStyle/medium: needs a \"复古美式风格\" aesthetic — references in the spirit of 1950s American Route 66 postcard illustration, 1970s California surf culture poster art, Edward Hopper's open-road loneliness; exact stylistic execution is yours\nComposition: \nSubject: must include a red convertible car as the focal subject\nScene/backdrop: must include Route 66 highway, desert landscape with cacti on both sides, sunset sky dyed orange-red\nLighting/mood: needs a sunset open-road atmosphere with a free-spirited mood — exact light source mix is yours\nColor palette: needs an orange-red dominant direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in English by default\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/2e9c4d07-5078-4b4f-8273-37ab6a43f79c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a marketing poster for a road-trip scene (all in-image text in English).\\n\\nStyle/medium: needs a \\\"复古美式风格\\\" aesthetic — references in the spirit of 1950s American Route 66 postcard illustration, 1970s California surf culture poster art, Edward Hopper's open-road loneliness; exact stylistic execution is yours\\nComposition: \\nSubject: must include a red convertible car as the focal subject\\nScene/backdrop: must include Route 66 highway, desert landscape with cacti on both sides, sunset sky dyed orange-red\\nLighting/mood: needs a sunset open-road atmosphere with a free-spirited mood — exact light source mix is yours\\nColor palette: needs an orange-red dominant direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in English by default\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 8510
+    },
+    {
+      "query_idx": 27,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "创作一张神秘东方风格的古风人像，汉服女子在竹林中抚琴，月光透过竹叶洒下斑驳光影，衣袂飘飘，仙气十足，适合作为古风游戏立绘",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ca1978af-e9d5-4ff5-817c-69fa17f8daf0/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"创作一张神秘东方风格的古风人像，汉服女子在竹林中抚琴，月光透过竹叶洒下斑驳光影，衣袂飘飘，仙气十足，适合作为古风游戏立绘\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 3930
+    },
+    {
+      "query_idx": 27,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a character illustration for a fantasy game (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 神秘东方古风 aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a Hanfu-clad woman playing guqin\nScene/backdrop: must include a bamboo forest with moonlight filtering through leaves\nLighting/mood: needs a moonlit atmosphere with dappled light — exact light source mix is yours\nColor palette: \nMaterials/textures: must include flowing fabric with ethereal movement\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "auto",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/6929d0e8-1c4c-4ba8-9123-db116d5251d8/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a character illustration for a fantasy game (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 神秘东方古风 aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a Hanfu-clad woman playing guqin\\nScene/backdrop: must include a bamboo forest with moonlight filtering through leaves\\nLighting/mood: needs a moonlit atmosphere with dappled light — exact light source mix is yours\\nColor palette: \\nMaterials/textures: must include flowing fabric with ethereal movement\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \"}",
+      "ms": 8846
+    },
+    {
+      "query_idx": 27,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a character illustration of a Hanfu-clad woman playing a guqin in a bamboo forest (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"神秘东方古风\" aesthetic — references in the spirit of 宋画 ink-and-color figure painting tradition, 敦煌壁画 celestial figure rendering, contemporary 国风 game splash art (e.g., 王者荣耀 / 原神 character splash style); exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a Hanfu-clad woman playing guqin (古琴) as the focal subject, flowing sleeves (衣袂飘飘)\nScene/backdrop: must include a bamboo forest at night with moonlight filtering through leaves creating dappled shadows (斑驳光影)\nLighting/mood: needs a mysterious moonlit atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f47f33fa-7424-4e44-8878-4067ca72fa0c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a character illustration of a Hanfu-clad woman playing a guqin in a bamboo forest (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"神秘东方古风\\\" aesthetic — references in the spirit of 宋画 ink-and-color figure painting tradition, 敦煌壁画 celestial figure rendering, contemporary 国风 game splash art (e.g., 王者荣耀 / 原神 character splash style); exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a Hanfu-clad woman playing guqin (古琴) as the focal subject, flowing sleeves (衣袂飘飘)\\nScene/backdrop: must include a bamboo forest at night with moonlight filtering through leaves creating dappled shadows (斑驳光影)\\nLighting/mood: needs a mysterious moonlit atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 10620
+    },
+    {
+      "query_idx": 28,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "设计一张专业健身房场景，肌肉线条分明的运动员正在做硬拉，汗水和力量的美感，工业风装修，冷色调灯光，充满阳刚之气",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f4c5bb7b-2be1-4daf-8eb2-b65e4f6191d7/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"设计一张专业健身房场景，肌肉线条分明的运动员正在做硬拉，汗水和力量的美感，工业风装修，冷色调灯光，充满阳刚之气\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 6119
+    },
+    {
+      "query_idx": 28,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing editorial photo of a professional gym scene with an athlete performing a deadlift (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs an industrial aesthetic — exact stylistic execution is yours\nComposition: must include the athlete performing a deadlift as the focal subject\nSubject: must include a muscular athlete with defined muscle lines performing a deadlift\nScene/backdrop: must include a professional gym with industrial-style decor\nLighting/mood: needs a cool-toned lighting atmosphere with masculine energy — exact light source mix is yours\nColor palette: needs a cool-toned direction — exact hex values and ratios are yours\nMaterials/textures: needs a sweat and power aesthetic — exact surface treatment is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/9cd81533-5f89-454a-8e4e-f0a776b74409/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing editorial photo of a professional gym scene with an athlete performing a deadlift (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs an industrial aesthetic — exact stylistic execution is yours\\nComposition: must include the athlete performing a deadlift as the focal subject\\nSubject: must include a muscular athlete with defined muscle lines performing a deadlift\\nScene/backdrop: must include a professional gym with industrial-style decor\\nLighting/mood: needs a cool-toned lighting atmosphere with masculine energy — exact light source mix is yours\\nColor palette: needs a cool-toned direction — exact hex values and ratios are yours\\nMaterials/textures: needs a sweat and power aesthetic — exact surface treatment is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 10850
+    },
+    {
+      "query_idx": 28,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial photo of a professional gym scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs an \"工业风\" aesthetic with \"阳刚之气\" mood — references in the spirit of Brutalist architecture photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 warehouse-conversion design movement; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a muscular athlete performing a deadlift, with visible sweat and defined muscle lines\nScene/backdrop: must include a professional gym interior with industrial-style decor\nLighting/mood: needs a cold-toned lighting atmosphere — exact light source mix is yours\nColor palette: needs a cool-toned direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/c3b339b8-2815-4058-b7ec-3e49483403f0/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an editorial photo of a professional gym scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs an \\\"工业风\\\" aesthetic with \\\"阳刚之气\\\" mood — references in the spirit of Brutalist architecture photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 warehouse-conversion design movement; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a muscular athlete performing a deadlift, with visible sweat and defined muscle lines\\nScene/backdrop: must include a professional gym interior with industrial-style decor\\nLighting/mood: needs a cold-toned lighting atmosphere — exact light source mix is yours\\nColor palette: needs a cool-toned direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9997
+    },
+    {
+      "query_idx": 29,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "绘制一张梦幻童话风格的海底世界，美人鱼在珊瑚礁间游弋，发光的水母，沉船宝藏，光线从海面穿透下来，色彩斑斓如梦境",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/d847b10f-0be8-4500-b3a9-8c2d8df4976a/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"绘制一张梦幻童话风格的海底世界，美人鱼在珊瑚礁间游弋，发光的水母，沉船宝藏，光线从海面穿透下来，色彩斑斓如梦境\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 5453
+    },
+    {
+      "query_idx": 29,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a whimsical underwater fairy-tale scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 梦幻童话 (dreamy fairy-tale) aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a mermaid swimming among coral reefs, glowing jellyfish, and a sunken ship with treasure\nScene/backdrop: must include an underwater world with light rays penetrating from the sea surface\nLighting/mood: needs light rays penetrating from above creating a dreamlike atmosphere — exact light source mix is yours\nColor palette: must be vibrant and dreamlike — exact color values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/96c9e4ce-ccb2-4792-a588-1ed7f132a158/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a whimsical underwater fairy-tale scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 梦幻童话 (dreamy fairy-tale) aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a mermaid swimming among coral reefs, glowing jellyfish, and a sunken ship with treasure\\nScene/backdrop: must include an underwater world with light rays penetrating from the sea surface\\nLighting/mood: needs light rays penetrating from above creating a dreamlike atmosphere — exact light source mix is yours\\nColor palette: must be vibrant and dreamlike — exact color values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 8769
+    },
+    {
+      "query_idx": 29,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an illustration of an underwater fantasy world (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"梦幻童话风格\" aesthetic — references in the spirit of Studio Ghibli's aquatic sequences, James Jean's ethereal dreamscape illustration, Art Nouveau organic flowing forms; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a mermaid swimming among coral reefs, bioluminescent jellyfish, and a sunken ship treasure\nScene/backdrop: must be an underwater world with light rays penetrating from the ocean surface\nLighting/mood: needs a dreamy, ethereal atmosphere — exact light source mix is yours\nColor palette: needs a colorful, dreamlike direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f6e38e1f-744f-4a17-81ab-2363c0b0be30/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an illustration of an underwater fantasy world (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"梦幻童话风格\\\" aesthetic — references in the spirit of Studio Ghibli's aquatic sequences, James Jean's ethereal dreamscape illustration, Art Nouveau organic flowing forms; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a mermaid swimming among coral reefs, bioluminescent jellyfish, and a sunken ship treasure\\nScene/backdrop: must be an underwater world with light rays penetrating from the ocean surface\\nLighting/mood: needs a dreamy, ethereal atmosphere — exact light source mix is yours\\nColor palette: needs a colorful, dreamlike direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9884
+    },
+    {
+      "query_idx": 30,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "生成一张纪实摄影风格的街头人文，印度瓦拉纳西的恒河晨浴，虔诚的信徒，晨雾中的船只，暖色调的阳光，充满异域文化气息",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/8f53baa6-a11f-493c-9913-c9d6a63ded88/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"生成一张纪实摄影风格的街头人文，印度瓦拉纳西的恒河晨浴，虔诚的信徒，晨雾中的船只，暖色调的阳光，充满异域文化气息\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 4866
+    },
+    {
+      "query_idx": 30,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial street documentary photograph of devotees performing the morning ritual bath in the Ganges at Varanasi, India (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a documentary street-photography aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include devotees performing morning bath ritual\nScene/backdrop: must include the Ganges river at Varanasi, boats in morning mist\nLighting/mood: needs warm-toned morning sunlight atmosphere — exact light source mix is yours\nColor palette: needs a warm direction — exact hue values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/98dd1312-ba49-459f-a8a0-b5e3ef5ff10a/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an editorial street documentary photograph of devotees performing the morning ritual bath in the Ganges at Varanasi, India (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a documentary street-photography aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include devotees performing morning bath ritual\\nScene/backdrop: must include the Ganges river at Varanasi, boats in morning mist\\nLighting/mood: needs warm-toned morning sunlight atmosphere — exact light source mix is yours\\nColor palette: needs a warm direction — exact hue values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 7985
+    },
+    {
+      "query_idx": 30,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a documentary-style street-photography image of Varanasi morning rituals on the Ganges (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"documentary street photography\" aesthetic — references in the spirit of Henri Cartier-Bresson (decisive moment composition), Steve McCurry's India color work, Raghu Rai's Indian street documentation; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include devout devotees performing morning rituals, boats on the river\nScene/backdrop: must include the Ganges at Varanasi in morning mist\nLighting/mood: needs a warm-toned morning light atmosphere — exact light source mix is yours\nColor palette: must be warm-toned direction\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/590f910f-f22f-4585-9ecc-085afeea8ad1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a documentary-style street-photography image of Varanasi morning rituals on the Ganges (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"documentary street photography\\\" aesthetic — references in the spirit of Henri Cartier-Bresson (decisive moment composition), Steve McCurry's India color work, Raghu Rai's Indian street documentation; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include devout devotees performing morning rituals, boats on the river\\nScene/backdrop: must include the Ganges at Varanasi in morning mist\\nLighting/mood: needs a warm-toned morning light atmosphere — exact light source mix is yours\\nColor palette: must be warm-toned direction\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 10131
+    },
+    {
+      "query_idx": 31,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "画一张新中式风格的茶室空间，原木茶台，紫砂壶和茶杯，背景是书法卷轴和盆景，窗外竹影婆娑，禅意盎然，适合品茗静思",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/608db066-bb65-4363-93f9-ed24315d1499/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"画一张新中式风格的茶室空间，原木茶台，紫砂壶和茶杯，背景是书法卷轴和盆景，窗外竹影婆娑，禅意盎然，适合品茗静思\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 6221
+    },
+    {
+      "query_idx": 31,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an interior design illustration of a 新中式 style tea room (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 新中式 aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a 原木茶台, 紫砂壶 and 茶杯\nScene/backdrop: must include 书法卷轴 and 盆景 as background elements, with bamboo shadows visible through the window\nLighting/mood: needs a 禅意 atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/9579b524-5b5f-4ee0-8248-ebe6446bf8b7/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an interior design illustration of a 新中式 style tea room (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 新中式 aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a 原木茶台, 紫砂壶 and 茶杯\\nScene/backdrop: must include 书法卷轴 and 盆景 as background elements, with bamboo shadows visible through the window\\nLighting/mood: needs a 禅意 atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 8350
+    },
+    {
+      "query_idx": 31,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an interior design illustration of a tea room (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"新中式\" aesthetic — references in the spirit of 宋画 ink-and-color tradition, 明代文人书房 spatial composition, 隈研吾 contemporary natural material integration; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a solid wood tea table (原木茶台), purple clay teapot and tea cups (紫砂壶和茶杯), bonsai (盆景)\nScene/backdrop: must include calligraphy scrolls (书法卷轴) as background, bamboo shadows swaying outside the window (窗外竹影婆娑)\nLighting/mood: needs a serene, contemplative atmosphere for tea meditation (禅意盎然, 品茗静思) — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/bb4a84b5-a733-473e-8abf-effba6ce5732/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an interior design illustration of a tea room (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"新中式\\\" aesthetic — references in the spirit of 宋画 ink-and-color tradition, 明代文人书房 spatial composition, 隈研吾 contemporary natural material integration; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a solid wood tea table (原木茶台), purple clay teapot and tea cups (紫砂壶和茶杯), bonsai (盆景)\\nScene/backdrop: must include calligraphy scrolls (书法卷轴) as background, bamboo shadows swaying outside the window (窗外竹影婆娑)\\nLighting/mood: needs a serene, contemplative atmosphere for tea meditation (禅意盎然, 品茗静思) — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9991
+    },
+    {
+      "query_idx": 32,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "创作一张超现实主义风格的梦境场景，巨大的月亮从海面升起，鲸鱼在空中飞翔，时钟融化，楼梯通向云端，充满哲学意味和视觉冲击力",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/2c9bf2a4-11bf-485f-95a5-0415747e5fc1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"创作一张超现实主义风格的梦境场景，巨大的月亮从海面升起，鲸鱼在空中飞翔，时钟融化，楼梯通向云端，充满哲学意味和视觉冲击力\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 4528
+    },
+    {
+      "query_idx": 32,
+      "skill_id": "F15-art-direction-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing surrealist dreamscape illustration with philosophical depth and visual impact.\n\nStyle/medium: needs a surrealist dreamscape aesthetic — exact stylistic execution is yours\nComposition: must include a giant moon rising from the sea, whales flying in the sky, melting clocks, and stairs leading to the clouds\nSubject: must include the giant moon as a dominant visual element, flying whales, melting clocks, and cloud-reaching stairs\nScene/backdrop: must include the sea below and sky above with surreal spatial relationships\nLighting/mood: needs a dreamlike, philosophical atmosphere — exact light source and mood balance is yours\nColor palette: needs a surreal direction — exact color choices and ratios are yours\nMaterials/textures: needs a dreamlike surface treatment — exact material qualities are yours\nText (verbatim): \nConstraints: \nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/a4a0dffb-0db7-463b-84b5-b83b6b92f365/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing surrealist dreamscape illustration with philosophical depth and visual impact.\\n\\nStyle/medium: needs a surrealist dreamscape aesthetic — exact stylistic execution is yours\\nComposition: must include a giant moon rising from the sea, whales flying in the sky, melting clocks, and stairs leading to the clouds\\nSubject: must include the giant moon as a dominant visual element, flying whales, melting clocks, and cloud-reaching stairs\\nScene/backdrop: must include the sea below and sky above with surreal spatial relationships\\nLighting/mood: needs a dreamlike, philosophical atmosphere — exact light source and mood balance is yours\\nColor palette: needs a surreal direction — exact color choices and ratios are yours\\nMaterials/textures: needs a dreamlike surface treatment — exact material qualities are yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 9488
+    },
+    {
+      "query_idx": 32,
+      "skill_id": "F16-art-direction-anchored-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing surrealist dreamscape illustration.\n\nStyle/medium: needs a surrealist dreamscape aesthetic — references in the spirit of Salvador Dalí's melting-clock surrealism, René Magritte's impossible-landscape tradition, Studio Ghibli's dreamlike sky compositions; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a giant moon rising from the sea, whales flying in the sky, melting clocks, a staircase leading to the clouds\nScene/backdrop: must include the sea at moonrise, sky with clouds, dreamlike atmosphere\nLighting/mood: needs a philosophical and visually striking atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f254fd39-4fe2-4c6f-9851-432b8695e47e/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing surrealist dreamscape illustration.\\n\\nStyle/medium: needs a surrealist dreamscape aesthetic — references in the spirit of Salvador Dalí's melting-clock surrealism, René Magritte's impossible-landscape tradition, Studio Ghibli's dreamlike sky compositions; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a giant moon rising from the sea, whales flying in the sky, melting clocks, a staircase leading to the clouds\\nScene/backdrop: must include the sea at moonrise, sky with clouds, dreamlike atmosphere\\nLighting/mood: needs a philosophical and visually striking atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 9213
+    }
+  ],
+  "rewrite_llm": "kimi/kimi-k2.5",
+  "status": "finished",
+  "include_universal": false
+}

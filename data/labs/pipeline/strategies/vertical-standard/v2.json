@@ -1,0 +1,45 @@
+{
+  "_meta": {
+    "description": "垂类通用标准（静态 SP · 按 vertical 拉取）",
+    "version": "v2",
+    "owner": "巧克力",
+    "changelog": "v2:ecommerce 全面重写,从 5 条抽象原则改成 6 条 prompt-actionable 流畅段落(写法 A)。引用业界资料 + 飞书 GSB 5 维度补:产品保真度 / 场景服务商品 / 转化构图 / 材质质感 / 物理合理性(新)/ 信息完整性(新)。AI 塑料感单独成条已移除。brand/social/other 暂未动。"
+  },
+  "ecommerce": {
+    "label": "电商",
+    "standards": [
+      "**产品保真度** — 电商最大红线。用户给参考图或要「商品图/主图」时,产品形状、配色、材质必须 1:1 还原,且材质要具体到品级别(如 `brushed stainless steel with directional grain`,而非笼统 `metal`)。任何创意改动都属于「货不对板」。避免 `creative reinterpretation` / `stylized variation` / `inspired by` 这类松动词。",
+      "**场景服务商品** — 在 lifestyle 或详情场景图里,背景是配角、商品是主角,视觉权重不能倒置。背景元素 ≤ 2、饱和度低于商品、深景虚化;一个场景只配一套光线(one scene, one lighting setup)。主图不触发本规则(主图是纯白底)。避免 `busy background` / `cluttered foreground` / `scenic vista` 这类抢戏描述。",
+      "**转化构图** — 主图、卖点图、信息图必须为转化留出空间:商品落在视觉黄金位(居中或三分线 / 黄金分割),并预留一侧(顶部 / 底部 / 侧边)给标题、价格、CTA。多角度图不触发(信息密集就好)。避免 `edge-to-edge` / `full-bleed` / `no rest space` 这类「画面塞满」描述。",
+      "**材质质感** — 质感是电商可信度燃料,imperfection 是真实感的核心来源(`real life is messy, grainy`)。材质必须具体到品级别(`cotton weave with visible texture` / `leather with natural creases` / `brushed metal with directional grain`),禁用笼统词 `metal` / `fabric`;光线指定方向(如 `soft window light from the left`)以突出 texture;主动保留 film grain、lighting imperfections、自然瑕疵。避免 `matte plastic` / `uniform surface` / `airbrushed perfection` / `smoothed`。",
+      "**物理合理性** — 重力、投影方向、接触面必须合理,影子方向跟光源一致;姿势、动作、实体结构符合现实逻辑(人无六指、物无穿透、物不漂浮)。本规则全电商图永远生效。避免 `floating product` / `impossible posture` / `unrealistic shadow` / `object clipping` / `hand reversed` / `extra fingers` / `objects penetrating each other`。"
+    ]
+  },
+  "brand": {
+    "label": "品牌",
+    "standards": [
+      "一致性优先：Logo / 品牌色 / VI 资产严格保留，不允许任何创意变形",
+      "VI 系统化：每张产物属于完整品牌系统的一部分，跨载体保持一致",
+      "Timeless over trendy：避免渐变 / 投影 / lens flare / 厚 3D 等过时元素",
+      "黑白先行：颜色不能拯救糟糕的形态；先建立强单色形态",
+      "32px 可识别：缩到 favicon 尺寸仍可清晰识别主体"
+    ]
+  },
+  "social": {
+    "label": "社媒",
+    "standards": [
+      "滑动停留率优先：第一帧/封面必须在 3 秒内抓住注意力",
+      "平台 native 美学：贴合用户对该平台的视觉预期，不要跨平台串风格",
+      "信息层级清晰：标题 > 副标 > CTA，视觉权重明确",
+      "适配比例：按平台 native 尺寸优先（4:5 / 9:16 / 3:4 / 1:1）",
+      "移动端可读：缩到 120-200px 缩略图仍可识别主体 + 文字"
+    ]
+  },
+  "other": {
+    "label": "其他",
+    "standards": [
+      "忠实表达用户描述的视觉细节，不增不减",
+      "细节清晰：分辨率与构图精度满足专业输出标准"
+    ]
+  }
+}

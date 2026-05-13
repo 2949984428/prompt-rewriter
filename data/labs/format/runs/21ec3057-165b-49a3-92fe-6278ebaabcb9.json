@@ -1,0 +1,86 @@
+{
+  "id": "21ec3057-165b-49a3-92fe-6278ebaabcb9",
+  "ts": 1777278809470,
+  "query": "品牌核心元素： 品牌标志：RAN QIU 标志 主色调：#8B3A1E（深秋棕红）、#E8DCCB（米色）、#D4A574（金棕色） 设计风格：东方美学、极简主义、自然诗意、温暖治愈   视觉语言：充足留白、浅景深、暖色调、金色时光 制作一张符合品牌调性的宣传海报。采用温暖的秋日氛围，结合品牌标志和自然元素，营造诗意而宁静的视觉体验。",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为 RAN QIU 品牌生成一张宣传海报，用于秋季品牌视觉传播。\n\n风格/介质:东方美学海报设计，极简主义视觉语言，融合自然诗意与温暖治愈感，参考 MUJI 式留白与 Kinfolk 杂志的宁静氛围\n构图:中心对称构图，大面积留白，主体置于黄金分割点，浅景深营造呼吸感\n主体:RAN QIU 品牌标志作为视觉焦点，搭配秋日自然元素（落叶、麦穗或枯枝）\n场景/背景:秋日户外场景，柔和的暖色调自然背景，朦胧的远景虚化\n光线/氛围:金色时光（Golden Hour）侧逆光，暖橙色光晕，柔和漫射光营造宁静诗意氛围\n色彩搭配:#8B3A1E（深秋棕红）作为点缀强调色，#E8DCCB（米色）作主背景底色，#D4A574（金棕色）做层次过渡，整体暖调统一\n材质/纹理:自然纸张肌理，哑光质感，细腻的秋日植物纹理\n文字(原文保留):\"RAN QIU\"\n约束:品牌色必须准确呈现；留白面积不少于画面 40%；标志清晰可识别\n避免:高饱和撞色、复杂装饰元素、商业感过重的排版、冷色调干扰、密集文字堆砌",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "d7975e30-dc09-4c7c-9c36-7aef369a2d60",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/077d0895-3ebc-483c-a5e8-cfaca6dc532a.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0431,
+        "latency_ms": 86529,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing marketing poster for RAN QIU, a brand embodying Eastern aesthetics and natural poetry.\n\nStyle/medium: editorial poster design with Eastern minimalism, natural poetic sensibility, warm and healing visual language\nComposition: generous negative space, shallow depth of field effect, balanced layout with brand mark as focal point\nSubject: RAN QIU brand mark integrated with natural autumn elements — falling leaves, dried grasses, or gentle botanical forms\nScene/backdrop: warm autumn atmosphere, golden hour lighting, soft natural environment with poetic stillness\nLighting/mood: golden hour warmth, soft diffused light, serene and contemplative mood\nColor palette: deep autumn brown-red (#8B3A1E) as anchor, warm beige (#E8DCCB) as base, golden brown (#D4A574) as accent, harmonious warm tones\nMaterials/textures: natural paper-like surface quality, organic botanical textures, subtle grain\nText (verbatim): \"RAN QIU\"\nConstraints: must maintain generous white space; brand mark must remain legible; overall warmth and healing feeling required\nAvoid: cluttered composition, cold color temperatures, harsh shadows, generic stock photo aesthetic, neon colors, over-saturated palettes",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "9ce2c5b8-ba46-491a-8673-3a8b14741d41",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/3270f5a9-5299-491c-849c-09429a6a0cd2.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0425,
+        "latency_ms": 89289,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: brand-poster\nAsset type: promotional poster, vertical layout\nPrimary request: warm autumn atmosphere brand poster with \"RAN QIU\" logo and natural elements, poetic and serene visual experience\nScene/backdrop: golden hour autumn landscape, soft blurred natural background with falling leaves, abundant white space\nSubject: \"RAN QIU\" brand logo prominently placed, surrounded by dried grasses, maple leaves, warm sunlight filtering through\nStyle/medium: editorial photography style, oriental aesthetics, minimalism, warm and healing visual language\nComposition/framing: vertical poster format, shallow depth of field, generous negative space, logo as focal point\nLighting/mood: golden hour warm sunlight, soft diffused light, tranquil and poetic mood\nColor palette: #8B3A1E deep autumn brown-red, #E8DCCB beige cream, #D4A574 golden brown, warm earth tones\nMaterials/textures: natural paper texture, soft fabric feel, matte finish, organic leaf textures\nText (verbatim): \"RAN QIU\"\nConstraints: must use exact hex colors #8B3A1E #E8DCCB #D4A574, keep oriental minimalist aesthetic, maintain warm autumn mood\nAvoid: cold colors, cluttered composition, harsh shadows, modern geometric shapes, neon accents",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "95cb50a5-7c15-434a-9d14-382e541fa58b",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/3bfe1ffb-2c54-4539-a165-6d0e93d0a305.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0425,
+        "latency_ms": 80869,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "kimi/kimi-k2.5"
+  }
+}

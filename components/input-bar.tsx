@@ -33,7 +33,9 @@ import {
   historyIndexAtom,
   historyIndexLoadedAtom,
 } from "@/lib/atoms-history-index";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
+import { ImageUploader } from "@/components/image-uploader";
+import { imageModelAtom } from "@/lib/atoms-shared";
 
 /** 将累积 buffer 切成 SSE 事件,返回剩余未完整的尾巴。 */
 function splitSseEvents(buffer: string): { events: string[]; rest: string } {
@@ -77,6 +79,12 @@ export function InputBar() {
   const modelProfileMd = useAtomValue(modelProfileMdAtom);
   const targetModel = useAtomValue(targetModelAtom);
   const llmModel = useAtomValue(llmModelAtom);
+  // 生图模型(跨 lab 共享 atom),由顶部 ImageModelSwitcher 控制;两路生图都用同一个。
+  const imageModel = useAtomValue(imageModelAtom);
+
+  // 参考图（base64 data URL）。非空时两路生图都走 image-edit；空时走 text-to-image。
+  // 不持久化跨 session（demo 阶段；将来可加 atom + 历史回填）。
+  const [referenceImages, setReferenceImages] = useState<string[]>([]);
 
   // 两路并行生图:这里只负责触发(写 atom),轮询由 image-card 里的 poller hook 承担。
   // 所以这边只拿 setter,不订阅状态,避免重复挂轮询。
@@ -93,6 +101,8 @@ export function InputBar() {
       quality: fp.quality,
       n: fp.n,
       output_format: fp.output_format,
+      reference_images: referenceImages,
+      model: imageModel || undefined,
     });
   };
 
@@ -177,7 +187,11 @@ export function InputBar() {
     // 参数刻意不传 —— gateway 会兜底成 auto/medium/1/png,等同于"用户直接 POST"的体验。
     // 两路对比的主要是 prompt 文本差异;如果 optimized 的 final_prompt 选了非默认参数,
     // 那也是"改写流程"附带的提升。
-    void startImageJob(setBaseline, { prompt: q });
+    void startImageJob(setBaseline, {
+      prompt: q,
+      reference_images: referenceImages,
+      model: imageModel || undefined,
+    });
 
     try {
       const resp = await fetch("/api/rewrite", {
@@ -299,6 +313,14 @@ export function InputBar() {
         placeholder="贴上用户真实写给你的那句话,不用修饰。例:小红书种草封面,珍珠奶茶,粉色少女风,夏日清凉感,3:4"
         className="block min-h-[160px] w-full resize-y bg-transparent font-sans text-[16px] leading-[1.6] text-near-black placeholder:text-stone-gray focus:outline-none"
       />
+      <div className="mt-3 border-t border-border-cream pt-3">
+        <ImageUploader
+          value={referenceImages}
+          onChange={setReferenceImages}
+          max={3}
+          hint="非空 → 图生图"
+        />
+      </div>
       <div className="mt-4 flex items-center justify-between border-t border-border-cream pt-4">
         <div className="font-mono text-[12px] text-stone-gray">
           字符数:{query.length}

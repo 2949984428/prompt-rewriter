@@ -1,0 +1,164 @@
+{
+  "_meta": {
+    "description": "平台调性（动态 SP · 按 platform 拉取）",
+    "version": "v0",
+    "owner": "巧克力"
+  },
+  "淘宝": {
+    "parent_vertical": "ecommerce",
+    "label": "淘宝",
+    "tone": [
+      "主图：白底 / 1:1 / 产品占比 ≥ 85% / 禁文字 / 禁 logo",
+      "详情页副图：信息图（4-6 卖点 + icon + 短文案），允许装饰",
+      "lifestyle 图：暖色 / 真实场景使用 / 突出商品在场景中的价值",
+      "细节图：macro 特写 / 材质质感 / 工艺细节"
+    ]
+  },
+  "亚马逊": {
+    "parent_vertical": "ecommerce",
+    "label": "Amazon",
+    "tone": [
+      "主图：纯白底 RGB(255,255,255) / 1:1 / ≥1000×1000 / 禁文字禁 logo禁装饰",
+      "A+ 内容：21:9 hero banner + 3:2 模块化叙事",
+      "副图：infographic / lifestyle / detail shot，移动端文字 ≥ 30pt",
+      "服装类：禁人台，仅 live model 或 flat lay"
+    ]
+  },
+  "京东": {
+    "parent_vertical": "ecommerce",
+    "label": "京东",
+    "tone": [
+      "主图：白底为主，允许少量氛围色块（与淘宝相比稍宽松）",
+      "信息图：突出参数 / 性能对比 / 服务承诺",
+      "强调正品 / 自营 / 物流"
+    ]
+  },
+  "拼多多": {
+    "parent_vertical": "ecommerce",
+    "label": "拼多多",
+    "tone": [
+      "高对比色 / 强促销标签 / 大字号价格",
+      "下沉感 / 接地气 / 不过度精致"
+    ]
+  },
+  "独立站": {
+    "parent_vertical": "ecommerce",
+    "label": "独立站 / Shopify",
+    "tone": [
+      "品牌调性优先（与淘宝/亚马逊差异化）",
+      "Editorial / lifestyle 风格 / 高质感",
+      "白底主图 + 多场景图组合"
+    ]
+  },
+  "Ins": {
+    "parent_vertical": "social",
+    "label": "Instagram",
+    "tone": [
+      "Feed：4:5 portrait（最大移动屏占用）",
+      "Story / Reel：9:16，顶部 14% + 底部 35% 安全区避让 UI",
+      "美学：editorial + lifestyle，自然光，warm tone",
+      "Carousel：多张视觉一致性强（同一系列）"
+    ]
+  },
+  "小红书": {
+    "parent_vertical": "social",
+    "label": "小红书",
+    "tone": [
+      "封面：3:4 vertical / 1080×1440 / 主标题 ≥ 72pt bold",
+      "文字主导：标题 + 副标双层结构，文字占 25-60%",
+      "美学：暖光 / pastel / 种草感 / 不生成 AI 真人正脸",
+      "10 个内容赛道（职场/知识/情感/旅行/美食/穿搭/家居/育儿/自媒体/萌宠）各有调性"
+    ]
+  },
+  "TikTok": {
+    "parent_vertical": "social",
+    "label": "TikTok",
+    "tone": [
+      "9:16 vertical 强制",
+      "Anti-ad aesthetic：手机拍摄感 / 直接闪光 / 轻颗粒",
+      "顶部 7% + 底部 18% UI 安全区避让",
+      "西方/欧洲业余感模特，不要超模感"
+    ]
+  },
+  "LinkedIn": {
+    "parent_vertical": "social",
+    "label": "LinkedIn",
+    "tone": [
+      "1:1 square 或 1.91:1 landscape",
+      "Professional 调性：冷色 -10% / 商业感 / 字号 ≥ 60pt 高对比",
+      "数据 / 商业图表 / 专家头像友好",
+      "禁过度休闲 / 禁 meme 美学"
+    ]
+  },
+  "Youtube": {
+    "parent_vertical": "social",
+    "label": "YouTube",
+    "tone": [
+      "Thumbnail：16:9 / 1280×720 minimum",
+      "120px 测试：缩到 120px 仍可识别主体 + 文字",
+      "高饱和 + 表情夸张 + 3-5 词大字 + drop shadow"
+    ]
+  },
+  "Facebook": {
+    "parent_vertical": "social",
+    "label": "Facebook",
+    "tone": [
+      "Feed：4:5 或 1:1，温暖社区调性",
+      "Story：9:16，同 IG Story safe zone",
+      "Informational > Aesthetic"
+    ]
+  },
+  "X": {
+    "parent_vertical": "social",
+    "label": "X / Twitter",
+    "tone": [
+      "1:1 或 16:9 横版",
+      "高对比 / 信息密度高 / 文字承载主信息",
+      "meme-aware / 话题驱动 / 简约 punch"
+    ]
+  },
+  "Bilibili": {
+    "parent_vertical": "social",
+    "label": "Bilibili",
+    "tone": [
+      "封面 16:9，含醒目标题文字",
+      "二次元 / 二创 / 高饱和度友好",
+      "弹幕预留区域（顶部 + 底部留白）"
+    ]
+  },
+  "logo": {
+    "parent_vertical": "brand",
+    "label": "Logo 系统",
+    "tone": [
+      "黑白先行：第一轮全单色，色彩仅在形态锁定后引入",
+      "32px 缩到 favicon 仍可识别",
+      "避免渐变 / 投影 / lens flare / 3D 厚效",
+      "系统化：必须提供变体（horizontal / stacked / symbol / monochrome）"
+    ]
+  },
+  "brand_identity": {
+    "parent_vertical": "brand",
+    "label": "Brand Identity",
+    "tone": [
+      "完整 VI 系统：Logo + 颜色 + 字体 + 图形元素 + 应用模板",
+      "跨载体一致性：名片 / 包装 / 网站 / 社交都遵循同一系统",
+      "Object Permanence：同一资产跨场景视觉严格一致"
+    ]
+  },
+  "brand_campaign": {
+    "parent_vertical": "brand",
+    "label": "Brand Campaign",
+    "tone": [
+      "8 任务结构：产品摄影 + 编辑海报 + 概念摄影 + 户外 + 包装 + lifestyle",
+      "Brand Register：luxury / premium-accessible / street / tech / lifestyle 5 选 1，全 campaign 一致",
+      "Face rule：人物面部 cropped out，仅下巴 + 嘴唇"
+    ]
+  },
+  "other": {
+    "parent_vertical": "*",
+    "label": "其他场景",
+    "tone": [
+      "无平台特殊约束，按用户描述忠实生成"
+    ]
+  }
+}

@@ -21,6 +21,8 @@ export const dynamic = "force-dynamic";
 const CellPatchSchema = z.object({
   query_idx: z.number().int().min(0),
   skill_id: z.string().min(1),
+  // 多 model 改造后:同 (query_idx, skill_id) 可能有多 cell;此字段空 → 老路径(匹配第一个)
+  image_model: z.string().default(""),
   scores: z.record(z.string(), z.number().min(0).max(5)).optional(),
   note: z.string().optional(),
   // 仅允许用户主动改成 excluded(从排行榜剔除)或撤销 excluded(恢复成 done)
@@ -90,7 +92,7 @@ export async function PATCH(
       if (cp.scores) partial.scores = cp.scores;
       if (typeof cp.note === "string") partial.note = cp.note;
       if (cp.status) partial.status = cp.status;
-      await patchCell(id, cp.query_idx, cp.skill_id, partial);
+      await patchCell(id, cp.query_idx, cp.skill_id, partial, cp.image_model);
     }
   }
 

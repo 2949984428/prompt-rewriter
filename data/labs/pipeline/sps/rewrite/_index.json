@@ -1,0 +1,19 @@
+{
+  "active": "v2",
+  "versions": [
+    {
+      "id": "v1",
+      "label": "初版(迁移自单文件)",
+      "notes": "Phase 2 迁移基线",
+      "createdAt": "2026-05-12T12:59:42.579Z",
+      "author": "system-migration"
+    },
+    {
+      "id": "v2",
+      "label": "Self-Check 加 actions/spatial/camera 字段落地校验",
+      "notes": "vertical-standard v2 引入 prompt 响应完整度规则,SP2 self-check 段同步加 1 条 bullet:用户提的动作/空间位置/镜头描述必须落到对应字段,不能 silently drop。",
+      "createdAt": "2026-05-12T21:50:00.000Z",
+      "author": "巧克力"
+    }
+  ]
+}

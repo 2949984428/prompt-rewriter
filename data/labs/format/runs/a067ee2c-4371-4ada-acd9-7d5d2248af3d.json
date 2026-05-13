@@ -1,0 +1,205 @@
+{
+  "id": "a067ee2c-4371-4ada-acd9-7d5d2248af3d",
+  "ts": 1777263440546,
+  "query": "赛博朋克科幻侧脸肖像",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F1-long-comma",
+      "format_label": "F1 Long Comma",
+      "final_prompt": {
+        "prompt": "cinematic digital art cyberpunk sci-fi portrait, extreme close-up side profile shot, highly detailed face of a young woman with sharp angular features, glowing neon circuit tattoos tracing along jawline and temple, sleek chrome cybernetic implants embedded near ear and cheekbone, short undercut hair with electric blue highlights catching neon light, intense focused gaze directed forward, slightly parted lips with subtle metallic sheen lip color, skin texture with realistic pores and subtle subsurface scattering, dramatic rim lighting from the left with vivid magenta and cyan neon glow, deep shadow on opposite side of face creating high contrast chiaroscuro effect, volumetric light rays cutting through hazy atmospheric fog, rain-slicked urban megacity background softly blurred, towering holographic advertisements in purple and teal glowing out of focus, dark moody dystopian atmosphere, wet reflective surfaces catching neon color bleeds, cinematic color grading with deep blacks and saturated neon highlights, hyper-detailed skin rendering, sharp focus on facial features, 8K photorealistic detail, no plastic skin, no over-sharpening, no watermark",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "6efb1bbb-fb91-4b1c-a9f8-3f36eb313bd3",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/d8173145-d2ae-4f25-9f1c-799b4a523dbc.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0423,
+        "latency_ms": 43116,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F2-cinematic",
+      "format_label": "F2 Cinematic Single",
+      "final_prompt": {
+        "prompt": "Cinematic editorial cyberpunk side-profile portrait, neon-lit face, deep shadow, rain-slicked reflections, moody atmospheric glow.",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "d9715e65-723f-4a02-93c6-9fa62234effc",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/2812fe27-3e76-40e3-80f8-c3e4543b3892.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0413,
+        "latency_ms": 47135,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Cyberpunk sci-fi neon-drenched portrait editorial, a young androgynous figure with sharp angular jawline and intense side profile gaze, sleek black high-collar bodysuit with glowing circuit-line accents and chrome shoulder plating, Syd Mead inspired digital photography on high-contrast medium format sensor, extreme close-up side profile composition against rain-slicked urban megacity backdrop with towering holographic billboards, electric violet and cyan rim lighting carving the face from deep shadow with moody dystopian atmosphere",
+        "size": "1024x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "ae808855-cdca-412c-b8ab-755c2dfd48a0",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/9c6635cb-34cb-4ecc-b7d6-c09f97d28aed.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0417,
+        "latency_ms": 40123,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F7-minimal",
+      "format_label": "F7 极简短句",
+      "final_prompt": {
+        "prompt": "赛博朋克侧脸肖像，霓虹光刻，暗夜",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "5efe91b5-99cb-4221-ab45-d700af0f4280",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/1fbad1fe-9b38-4a33-bfba-1c813b0732c0.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0413,
+        "latency_ms": 92058,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F8-cn-task",
+      "format_label": "F8 中文任务式",
+      "final_prompt": {
+        "prompt": "请根据【赛博朋克科幻侧脸肖像】主题生成一张高概念人物肖像单图。\n\n整体风格参考《银翼杀手2049》与《攻壳机动队》的美学基调，融合未来都市的冷峻质感与赛博朋克特有的霓虹污染光效，带有强烈的电影感与叙事张力，人物气质神秘而疏离。\n\n请让画面包含：\n- 一位人物的标准侧脸特写，轮廓线条锐利清晰\n- 面部局部有精密的机械义体或电路纹路嵌入皮肤的细节\n- 主光源来自侧前方的冷蓝色或青色霓虹灯，在面部形成强烈的明暗分割\n- 来自画面另一侧的品红色或橙色霓虹补光，制造色彩张力\n- 背景为虚化的未来都市夜景，高楼林立、广告牌光晕隐约可见\n- 雨后潮湿的空气感，轻微的大气散射与光雾\n- 人物眼部或颈部有微弱的发光植入体细节\n\n视觉要求：\n超高细节写实风格，接近电影级概念艺术质感；色调以深蓝黑为底，霓虹冷暖双色对撞为主视觉语言；浅景深聚焦于面部轮廓与机械细节，背景柔化但层次丰富；光影对比强烈，暗部保留细节不死黑；画面构图采用侧脸居中或略偏，留出一定负空间强调孤独感；整体氛围压抑、精密、充满未来感。\n\n请不要做成卡通插画、不要做成游戏角色选择界面风格、不要添加任何文字标题或水印、不要使用过于饱和的糖果色霓虹。要突出\"人机融合的冷峻美学 + 电影级光影叙事\"的特征。",
+        "size": "1024x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "d63c9f90-a25d-4634-b49f-cd3b5ff8b781",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/c2eb18e3-3024-4c1b-bfd3-941c5145acfc.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0436,
+        "latency_ms": 40099,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"human portrait\",\"description\":\"androgynous figure with sharp angular features, pale skin with subtle bioluminescent circuit tattoos tracing the jawline and temple, short undercut hair with neon-dyed tips\",\"pose\":\"strict side profile, head held high\",\"expression\":\"stoic, distant, introspective\"},\"scene\":{\"location\":\"dystopian megacity rooftop, towering holographic billboards in background\",\"time_of_day\":\"deep night\",\"ambience\":\"dense rain, steam vents, oppressive urban sprawl\"},\"lighting\":{\"primary\":\"intense cyan neon rim light from the left edge, sculpting the profile\",\"secondary\":\"warm amber volumetric glow from distant city below\",\"mood\":\"dramatic high-contrast, noir-cyberpunk\"},\"color_grading\":{\"palette\":[\"deep midnight black\",\"electric cyan\",\"hot magenta\",\"amber gold\",\"desaturated skin tone\"],\"tone\":\"cold with warm accent\",\"contrast\":\"extreme\"},\"composition\":{\"shot_type\":\"tight side-profile portrait\",\"angle\":\"eye level, perfectly perpendicular to face\",\"lens\":\"85mm prime, shallow depth of field\"},\"style\":{\"medium\":\"hyper-detailed digital painting\",\"reference\":\"Blade Runner 2049 cinematography, Syd Mead concept art, Masamune Shirow aesthetic\",\"texture\":\"fine skin pores, wet surface sheen, micro rain droplets on skin\"},\"constraints\":[\"strict 90-degree side profile only\",\"face must be sharply in focus\",\"background bokeh with visible neon bokeh orbs\",\"circuit tattoos must be subtle not overwhelming\"],\"negative\":[\"front-facing view\",\"three-quarter angle\",\"cartoonish proportions\",\"oversaturated skin\",\"plastic texture\",\"watermark\",\"text overlay\",\"deformed ear or nose\"]}",
+        "size": "1024x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "86302d50-fa6d-4f25-9fac-032ce4c443f6",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/6ff25d14-5bac-4db8-aa3d-78651071f0b7.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0429,
+        "latency_ms": 46212,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: photorealistic-natural\nAsset type: cinematic portrait, square crop\nPrimary request: cyberpunk sci-fi side-profile portrait of a human figure\nScene/backdrop: dark futuristic cityscape at night, blurred neon-lit urban background with rain-slicked surfaces\nSubject: androgynous figure in strict side profile, augmented cybernetic implants along jaw and temple, sleek metallic facial enhancements, wet skin with subtle circuit-like tattoos\nStyle/medium: hyperrealistic digital photography, cinematic sci-fi editorial\nComposition/framing: tight side-profile close-up, 85mm portrait lens, shallow depth of field, subject facing left\nLighting/mood: dramatic rim lighting from electric blue and magenta neon signs, deep shadows on far side of face, tense and atmospheric mood\nColor palette: deep black and charcoal base + electric blue + hot magenta + cold cyan highlights\nMaterials/textures: realistic human skin with metallic cybernetic implants, brushed titanium surface details, micro rain droplets on skin\nConstraints: strict side profile with no frontal face visible, cyberpunk aesthetic must dominate\nAvoid: cartoonish proportions, oversaturated flat neon, generic sci-fi clichés, watermark, blurry implants",
+        "size": "1024x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "792acd0d-bb70-41a4-8ad0-70ddb784df4b",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/80320813-4ce8-4852-af6d-3d432723108a.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0424,
+        "latency_ms": 46226,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F3-paragraph-neg",
+      "format_label": "F3 Paragraph + Neg + AR",
+      "final_prompt": {
+        "prompt": "A striking cyberpunk science-fiction portrait captured in precise side profile, depicting a young woman with sharp angular features illuminated by the cold glow of neon city lights. Her skin is partially augmented with sleek chrome implants along her jawline and temple, glowing faintly with embedded circuitry patterns in electric blue and violet. Rain-slicked strands of dark hair cling to her cheek, catching reflections of distant holographic advertisements. The background dissolves into a blurred dystopian cityscape of towering megastructures, flickering neon signs in Japanese and English, and dense smog pierced by laser beams. The composition emphasizes the clean geometric line of her silhouette against the chaotic luminous backdrop, creating a powerful contrast between human form and technological sprawl. Photorealistic, cinematic lighting, 8K, high resolution, masterpiece.\nNegative Prompts: no deformed facial features, no extra limbs, no blurry face, no cartoonish style, no oversaturated colors, no watermark, no text overlay, no symmetrical front-facing pose.\nAspect Ratio: 2:3.",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "9cfbcfed-74ab-469a-b5a6-d7f353488a09",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/84222e4d-e303-45ef-bf1c-47fdb1f68490.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0422,
+        "latency_ms": 46243,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "ecdaaba6"
+  }
+}

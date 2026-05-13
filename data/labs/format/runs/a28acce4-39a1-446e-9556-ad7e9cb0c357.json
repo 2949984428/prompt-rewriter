@@ -1,0 +1,165 @@
+{
+  "id": "a28acce4-39a1-446e-9556-ad7e9cb0c357",
+  "ts": 1777273968529,
+  "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {},
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": "LLM 返回不是合法 JSON"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create an editorial photo for a Weibo news/trending-topic banner, strict 16:9 horizontal format, photojournalistic documentary style.\n\nStyle/medium: photorealistic documentary photography, handheld mobile-camera aesthetic with high-end editorial finish, sharp details, dramatic chiaroscuro in the spirit of street photojournalism\nComposition: wide horizontal panoramic frame, city skyline centered, generous negative sky area in upper third for text overlay, rule-of-thirds horizon line, 24mm wide-angle perspective\nSubject: urban skyline at dusk with silhouetted pedestrians rushing in foreground, distant skyscrapers reflecting warm sunset glow on glass facades\nScene/backdrop: dense city downtown at golden hour transitioning to blue hour, neon signs beginning to illuminate, wet pavement with light reflections, hazy atmospheric depth\nLighting/mood: dramatic contrast between warm amber sunset backlight on buildings and cool blue twilight sky, neon accent glows in pink and cyan, high-contrast shadows with luminous highlights, emotionally resonant and cinematic tension\nColor palette: deep amber and burnt orange as dominant warm tones, cool indigo-blue sky as counterpoint, neon pink and cyan as accent punctuation, silhouetted figures in near-black\nMaterials/textures: glass curtain-wall reflections, wet asphalt surface with mirror-like puddles, atmospheric haze softening distant towers\nText (verbatim): \"城市里的安静时刻\" as large bold headline in prominent position; \"黄昏，总能治愈一天的匆忙\" as subtitle; \"@龙爪槐守望者real · 生活观察\" as watermark at bottom-right corner\nConstraints: all three text elements must be legible and correctly rendered; headline uses heavy Gothic or modern sans-serif; sufficient blank sky area preserved for text placement; 16:9 aspect ratio strictly maintained\nAvoid: artificial HDR halos, over-saturated toy-camera look, deformed human figures, blurry unreadable text, cluttered composition with no breathing room, stock-photo generic skyline",
+        "size": "1920x1080",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "6f2b0dd4-77e4-45ec-83ff-cec0f49ceac8",
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 1408,
+        "error": "{\"source\":\"provider\",\"message\":\"Invalid size '1920x1080'. Width and height must both be divisible by 16.\",\"error_code\":\"API_PARAM_VALIDATION_FAILED\",\"provider_error_code\":\"invalid_value\",\"http_status_code\":400,\"stage\":\"submit\"}"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {},
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": "LLM 返回不是合法 JSON"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {},
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": "LLM 返回不是合法 JSON"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F3-paragraph-neg",
+      "format_label": "F3 Paragraph + Neg + AR",
+      "final_prompt": {
+        "prompt": "A photorealistic wide-format editorial news photo of a city skyline at dusk, shot in a documentary street photography style as if captured on a high-end smartphone at the scene. The golden-orange remnants of sunset reflect off distant glass skyscrapers while neon signs and streetlights begin to glow in the deepening blue twilight, creating dramatic contrast between warm and cool light. Pedestrians move briskly across the foreground, slightly motion-blurred, reinforcing the sense of real-time capture. The composition is wide and cinematic, with generous negative space across the upper and lower thirds to accommodate text overlays. Sharp foreground details fade into a softly lit urban depth. The overall mood is simultaneously urgent and quietly contemplative — the kind of image that stops a scroll. Overlaid text elements are embedded in the image: a bold Chinese headline in a modern black sans-serif font placed prominently reads \"城市里的安静时刻\", a subtitle beneath it reads \"黄昏，总能治愈一天的匆忙\", and a watermark in the lower-right corner reads \"@龙爪槐守望者real · 生活观察\". Photorealistic, 35mm equivalent lens, shallow depth of field, natural grain.\nNegative Prompts: no artificial HDR halos, no oversaturated sky, no deformed pedestrians, no extra limbs, no blurry text, no missing text, no watermark omission, no daytime lighting, no studio backdrop.\nAspect Ratio: 16:9.",
+        "size": "1920x1080",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "dc8d6ac4-0465-4916-b3f3-e5d5d041ce01",
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 1418,
+        "error": "{\"source\":\"provider\",\"message\":\"Invalid size '1920x1080'. Width and height must both be divisible by 16.\",\"error_code\":\"API_PARAM_VALIDATION_FAILED\",\"provider_error_code\":\"invalid_value\",\"http_status_code\":400,\"stage\":\"submit\"}"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F2-cinematic",
+      "format_label": "F2 Cinematic Single",
+      "final_prompt": {
+        "prompt": "Editorial documentary 16:9 cityscape at dusk, neon signs flickering on, hurrying pedestrians, skyscrapers reflecting golden sunset, dramatic light contrast, sharp details, text overlay: '城市里的安静时刻', subtitle '黄昏，总能治愈一天的匆忙', watermark '@龙爪槐守望者real · 生活观察'",
+        "size": "1920x1080",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "758f57ae-5f25-40df-afe2-ddcc1b012f90",
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 1389,
+        "error": "{\"source\":\"provider\",\"message\":\"Invalid size '1920x1080'. Width and height must both be divisible by 16.\",\"error_code\":\"API_PARAM_VALIDATION_FAILED\",\"provider_error_code\":\"invalid_value\",\"http_status_code\":400,\"stage\":\"submit\"}"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"urban cityscape with pedestrians\",\"description\":\"busy city street at dusk, silhouetted commuters walking briskly, blurred motion suggesting haste, distant skyscrapers reflecting warm sunset glow on glass facades\",\"pose\":\"wide establishing shot, people mid-stride\",\"expression\":\"anonymous, hurried, documentary\"},\"scene\":{\"location\":\"modern Chinese city downtown, elevated vantage point or street level wide angle\",\"time_of_day\":\"golden hour dusk transitioning to blue hour\",\"ambience\":\"dramatic yet quietly melancholic, city winding down, neon signs beginning to glow\"},\"lighting\":{\"primary\":\"low-angle warm sunset light casting long shadows, orange and amber tones on building facades\",\"secondary\":\"neon signs and storefronts flickering on, cool blue-purple sky contrast\",\"mood\":\"high contrast dramatic chiaroscuro, warm foreground vs cool sky\"},\"color_grading\":{\"palette\":[\"deep amber\",\"burnt orange\",\"electric blue\",\"neon pink\",\"steel grey\",\"silhouette black\"],\"tone\":\"rich warm shadows with cool highlights\",\"contrast\":\"high dramatic contrast\"},\"composition\":{\"shot_type\":\"wide establishing shot, 16:9 horizontal banner\",\"angle\":\"slight elevated street-level or overpass perspective, horizontal sweep\",\"lens\":\"24mm wide prime, slight vignette\"},\"style\":{\"medium\":\"photorealistic documentary photography, shot on smartphone flagship camera\",\"reference\":\"Magnum Photos street documentary, Chinese social media viral news photo aesthetic\",\"texture\":\"sharp foreground detail, natural lens flare, authentic grain\"},\"text_overlays\":[{\"content\":\"城市里的安静时刻\",\"style\":\"bold black Chinese sans-serif, large headline, placed upper-left or center-top prominent area\",\"color\":\"white with subtle drop shadow\"},{\"content\":\"黄昏，总能治愈一天的匆忙\",\"style\":\"medium weight modern Chinese font, subtitle below headline\",\"color\":\"light warm white\"},{\"content\":\"@龙爪槐守望者real · 生活观察\",\"style\":\"small watermark text, bottom-right corner\",\"color\":\"semi-transparent white\"}],\"constraints\":[\"strict 16:9 horizontal wide format\",\"ample negative space on left or right side for text readability\",\"no fictional brand logos\",\"real documentary feel, not overly stylized\",\"all Chinese text rendered verbatim and legibly\"],\"negative\":[\"vertical composition\",\"cartoon or illustration style\",\"studio lighting\",\"oversaturated HDR\",\"watermark artifacts\",\"blurry text\",\"distorted architecture\"]}",
+        "size": "1920x1080",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "3ce9c9c2-6f76-49c2-85d5-df041c247ce2",
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 1418,
+        "error": "{\"source\":\"provider\",\"message\":\"Invalid size '1920x1080'. Width and height must both be divisible by 16.\",\"error_code\":\"API_PARAM_VALIDATION_FAILED\",\"provider_error_code\":\"invalid_value\",\"http_status_code\":400,\"stage\":\"submit\"}"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F8-cn-task",
+      "format_label": "F8 中文任务式",
+      "final_prompt": {},
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": "LLM 返回不是合法 JSON"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "a9b32f5b"
+  }
+}

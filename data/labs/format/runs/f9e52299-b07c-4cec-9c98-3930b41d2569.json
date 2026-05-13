@@ -1,0 +1,134 @@
+{
+  "id": "f9e52299-b07c-4cec-9c98-3930b41d2569",
+  "ts": 1777277300930,
+  "query": "大话西游海报，重置为90年代港片风格，至尊宝紫霞城墙拥吻，远处站着牛魔王和唐僧，胶片颗粒",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "A Kor Hui (大话西游) movie poster reimagined in 1990s Hong Kong cinema style, Zhi Zun Bao (至尊宝) and Zi Xia (紫霞) locked in a passionate embrace and kiss against a crumbling ancient city wall, Zhi Zun Bao in tattered monk-warrior robes and Zi Xia in flowing lavender fairy dress with glowing purple energy, Bull Demon King (牛魔王) and Tang Seng (唐僧) standing silhouetted in the distant background watching, Wong Kar-wai and Johnnie To influenced 35mm film photography with heavy grain and warm amber-magenta color grading, dramatic ancient fortress wall at dusk with cracked stone texture and fading golden sky, harsh side-lighting casting deep romantic shadows with a melancholic wuxia mood and film burn edges.",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "b66318d3-b8a3-4afb-a1f6-2214c0f743eb",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/a214e3f8-51dd-47bf-a162-bffca64a1fb0.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0497,
+        "latency_ms": 67845,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: cinematic-poster\nAsset type: movie poster, A Chinese Odyssey reimagined in 1990s Hong Kong cinema style\nPrimary request: romantic embrace between Zhizunbao and Zixia on a city wall, with Bull Demon King and Tang Monk standing in the distance\nScene/backdrop: ancient Chinese city wall at dusk or night, crumbling stone battlements, dramatic sky\nSubject: Zhizunbao and Zixia locked in a passionate kiss on the city wall parapet — Zhizunbao in worn warrior robes, Zixia in flowing purple fairy dress; Bull Demon King (large imposing figure in dark armor) and Tang Monk (orange kasaya robe, bald) standing apart in the far background\nStyle/medium: 1990s Hong Kong film poster, photorealistic film photography aesthetic, analog grain\nComposition/framing: wide cinematic shot, foreground couple centered and large, background figures small and silhouetted, slight low-angle, 35mm anamorphic lens feel\nLighting/mood: warm amber and deep magenta sunset backlight on the couple, cool blue-purple haze in the distance, melancholic yet romantic\nColor palette: warm amber + deep magenta + dusty purple + cool blue shadow + faded golden tones\nMaterials/textures: heavy film grain overlay, slight color fade and halation typical of 90s Hong Kong cinema prints, worn stone wall texture\nConstraints: composition must read as a classic movie poster; couple embrace must be the visual focal point; all four characters must be present\nAvoid: modern CGI look, clean digital sharpness, over-saturated colors, watermark",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "3933cc81-675f-4a77-9fd5-95800120834d",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/261b489c-8a70-4d1d-813c-1e0bb5a57d91.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0542,
+        "latency_ms": 102328,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create a cinematic movie poster reimagining of 大话西游 (A Chinese Odyssey) in 1990s Hong Kong cinema style.\n\nStyle/medium: 35mm film photography aesthetic, 1990s Hong Kong cinema poster art in the spirit of Wong Kar-wai and Stephen Chow era — heavy film grain, faded color bleach-bypass, slightly overexposed highlights, photorealistic\nComposition: wide vertical poster framing, foreground couple centered and dominant, two distant figures silhouetted against a crumbling ancient wall backdrop, shallow depth of field separating foreground from background\nSubject: 至尊宝 and 紫霞 locked in a passionate embrace and kiss against a weathered stone city wall — 至尊宝 in tattered period costume, 紫霞 in flowing ethereal robes; in the far background, 牛魔王 (Bull Demon King) and 唐僧 (Tang Sanzang) stand apart, watching silently\nScene/backdrop: ancient Chinese city wall at dusk or golden hour, crumbling stone texture, dusty haze, desolate epic landscape\nLighting/mood: warm amber and dusty golden backlight from behind the couple, long shadows, melancholic and romantic tension — bittersweet longing in the spirit of 1990s HK melodrama\nColor palette: desaturated warm amber and burnt sienna as dominant tones, muted teal shadows, faded reds as accent — overall low-saturation vintage palette\nMaterials/textures: heavy visible film grain throughout, slight halation on highlights, worn poster print texture, subtle vignette at edges\nConstraints: vertical poster format; film grain must be visible and prominent; background figures must be clearly smaller and out of focus to reinforce depth\nAvoid: digital clean render, oversaturated colors, modern CGI look, neon palette, sharp crisp edges, watermark",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "0d45d842-cc32-4739-8fec-df7c94d7592c",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/82ec4807-7965-4b03-88e9-97ca71b1008f.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0422,
+        "latency_ms": 93567,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为《大话西游》生成一张电影海报，重置为90年代港片风格，主场景为至尊宝与紫霞在城墙上拥吻。\n\n风格/介质:90年代香港电影胶片摄影风格，王家卫式颗粒质感，带有时代感的褪色色调，构图参考《重庆森林》《东邪西毒》海报美学\n构图:竖版海报构图，前景中央为至尊宝与紫霞城墙拥吻的剪影或近景，远景虚化处站着牛魔王与唐僧两个人物，上下留有标题空间\n主体:至尊宝（古装男子，头戴金箍，身着白色长袍）与紫霞（古装女子，紫色衣裙，发髻精致）相拥而吻，依靠在斑驳城墙边；远处牛魔王（高大魁梧，牛角头盔）与唐僧（僧袍，光头）并肩而立，身形较小\n场景/背景:古代城墙之上，黄昏或夕阳西下，天空泛橙红色，远山轮廓隐约可见，城墙砖石斑驳有历史感\n光线/氛围:夕阳侧逆光，橙金色暖调打在人物轮廓上，整体氛围浪漫而苍凉，带有港片特有的宿命感与忧郁气质\n色彩搭配:橙红夕阳色为主色调，紫色衣裙作为视觉锚点，远景人物以冷灰色调处理，形成冷暖对比\n材质/纹理:明显胶片颗粒感，轻微漏光，画面边缘轻微暗角，模拟真实胶卷冲印质感\n文字(原文保留):\"大话西游\"\n约束:人物服饰符合中国古代奇幻风格；远处两人物清晰可辨但不抢主体；胶片颗粒必须可见\n避免:数字感过强的清晰锐化、现代滤镜风格、卡通化处理、人物比例失调、过度饱和的商业海报调色",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "abfb499a-08c8-4c4b-aeb7-4202ba589030",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/3dc9ad8a-11b9-4746-8b75-30f56409fef3.png"
+        ],
+        "local_paths": [],
+        "cost": 0.043,
+        "latency_ms": 73518,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"two protagonists embracing and kissing\",\"description\":\"至尊宝 (Joker/Monkey King disguise) and 紫霞 (Purple Clouds Fairy), dressed in classic 1990s Hong Kong wuxia costume — layered robes, windswept hair\",\"pose\":\"passionate kiss embrace against ancient city wall, bodies pressed close, one hand cupping her face\",\"expression\":\"intense longing, bittersweet romance\"},\"scene\":{\"location\":\"ancient Chinese city wall parapet at dusk, crumbling stone battlements, distant silhouettes of 牛魔王 (Bull Demon King) and 唐僧 (Tang Monk) standing far apart on the wall\",\"time_of_day\":\"golden-hour dusk bleeding into deep purple sky\",\"ambience\":\"melancholic, epic, romantic — 大话西游 (A Chinese Odyssey) movie poster atmosphere\"},\"lighting\":{\"primary\":\"warm amber backlight from setting sun, rim-lighting the couple\",\"secondary\":\"soft diffused haze over the distant figures\",\"mood\":\"nostalgic, painterly, emotionally heavy\"},\"color_grading\":{\"palette\":[\"burnt amber\",\"deep crimson\",\"dusty purple\",\"faded gold\",\"muted teal shadow\"],\"tone\":\"desaturated warm film stock, slightly faded\",\"contrast\":\"medium-high with soft halation in highlights\"},\"composition\":{\"shot_type\":\"full movie poster — vertical composition, couple dominating foreground center, distant figures small on horizon\",\"angle\":\"slightly low angle looking up at the couple\",\"lens\":\"50mm anamorphic, mild lens flare\"},\"style\":{\"medium\":\"1990s Hong Kong cinema film photography poster, 胶片颗粒 (authentic film grain) heavy, analog print texture\",\"reference\":\"王家卫 Wong Kar-wai + 刘镇伟 Jeffrey Lau 90s HK film aesthetic, worn theatrical poster print\",\"texture\":\"visible film grain, slight color bleed, faint vertical scratch lines typical of 35mm print\"},\"constraints\":[\"poster layout with space at top for title text\",\"keep 牛魔王 and 唐僧 as small recognizable silhouettes in background\",\"no modern CGI look — must feel like analog 90s film stock\"],\"negative\":[\"digital clean render\",\"oversaturated colors\",\"modern lighting setup\",\"deformed faces\",\"watermark\",\"text overlay\"]}",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "d5465be7-506e-463c-aa0e-5e2d4abdd207",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/3d00e14e-c06b-4c8f-bede-9663ac7da33c.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0435,
+        "latency_ms": 47867,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

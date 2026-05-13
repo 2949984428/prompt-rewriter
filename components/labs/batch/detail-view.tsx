@@ -37,11 +37,14 @@ import type { BatchRunRecord, BatchCell } from "@/lib/schema";
 import { BatchGridView } from "./grid-view";
 import { BatchScoreDrawer } from "./score-drawer";
 import { BatchLeaderboard } from "./leaderboard";
+import { writeHistoryRun } from "@/lib/history-write";
+import { historyIndexAtom } from "@/lib/atoms-history-index";
 
 const MODE_LABEL: Record<BatchRunRecord["query_mode"], string> = {
   derive: "AI 派生",
   manual: "自填",
   repeat: "重复",
+  set: "题目集",
 };
 
 export function BatchDetailView({ id }: { id: string }) {
@@ -49,6 +52,7 @@ export function BatchDetailView({ id }: { id: string }) {
   const [record, setRecord] = useAtom(currentBatchRunAtom);
   const [progress, setProgress] = useAtom(batchProgressAtom);
   const [, setSummaries] = useAtom(batchSummariesAtom);
+  const setHistoryIndex = useSetAtom(historyIndexAtom);
   const [loadError, setLoadError] = useState<string | null>(null);
 
   // 1. 拉首屏 record
@@ -91,13 +95,20 @@ export function BatchDetailView({ id }: { id: string }) {
         const data = JSON.parse((ev as MessageEvent).data) as {
           query_idx: number;
           skill_id: string;
+          image_model?: string;
           patch: Partial<BatchCell>;
         };
         setRecord((prev) => {
           if (!prev) return prev;
+          // 多 model 改造后:event 带 image_model,精确匹配该 cell;老 event 不带时退化为只按 (q, s) 匹配
+          const evtModel = data.image_model ?? "";
           const idx = prev.cells.findIndex(
             (c) =>
-              c.query_idx === data.query_idx && c.skill_id === data.skill_id
+              c.query_idx === data.query_idx &&
+              c.skill_id === data.skill_id &&
+              (data.image_model !== undefined
+                ? (c.image_model ?? "") === evtModel
+                : true)
           );
           if (idx < 0) return prev;
           const cells = [...prev.cells];
@@ -120,7 +131,54 @@ export function BatchDetailView({ id }: { id: string }) {
 
     es.addEventListener("finished", () => {
       // 标 record.status,关 ES;同步 summaries 那条
-      setRecord((prev) => (prev ? { ...prev, status: "finished" } : prev));
+      setRecord((prev) => {
+        if (!prev) return prev;
+        const finished = { ...prev, status: "finished" as const };
+        // 完成时更新全局历史索引：status: completed + 写入 pm_score 汇总
+        // BatchCell.scores 是 { dim_id: 0-5 }，每个 cell 的多个维度分数取平均，
+        // 再对所有有评分的 cell 取平均得到全局 pm_score_avg。
+        const cellAvgs: number[] = [];
+        for (const c of finished.cells) {
+          const dimScores = Object.values(c.scores).filter((s) => s > 0);
+          if (dimScores.length > 0) {
+            cellAvgs.push(dimScores.reduce((a, b) => a + b, 0) / dimScores.length);
+          }
+        }
+        const avg =
+          cellAvgs.length > 0
+            ? cellAvgs.reduce((a, b) => a + b, 0) / cellAvgs.length
+            : null;
+        const scores = cellAvgs;
+        void writeHistoryRun({
+          id: finished.id,
+          lab_id: "batch",
+          detail: finished,
+          index_patch: {
+            status: "completed",
+            pm_score_avg: avg,
+            pm_score_count: scores.length,
+            summary:
+              `${finished.queries.length} queries × ${finished.skill_ids.length} skills · 已完成` +
+              (scores.length > 0 ? ` · 评分 ${scores.length}/${finished.cells.length}` : ""),
+          },
+        }).then((res) => {
+          if (!res.ok) console.warn("[batch-detail] history update failed:", res.error);
+          // 同步本地 historyIndexAtom 那条
+          setHistoryIndex((prev) =>
+            prev.map((p) =>
+              p.id === finished.id
+                ? {
+                    ...p,
+                    status: "completed",
+                    pm_score_avg: avg,
+                    pm_score_count: scores.length,
+                  }
+                : p
+            )
+          );
+        });
+        return finished;
+      });
       setSummaries((arr) =>
         arr.map((s) =>
           s.id === id
@@ -226,9 +284,19 @@ export function BatchDetailView({ id }: { id: string }) {
               }}
             />
             <p className="mt-1.5 flex flex-wrap items-center gap-2 text-[12.5px] text-stone-gray">
+              {record.test_kind === "pipeline" && (
+                <span className="rounded bg-terracotta/15 px-1.5 py-0 font-mono text-[10px] text-terracotta">
+                  PIPELINE
+                </span>
+              )}
               <span>{MODE_LABEL[record.query_mode]}</span>
               <span>·</span>
-              <span>{record.queries.length} query × {record.skill_ids.length} skill</span>
+              <span>
+                {record.queries.length} query ×{" "}
+                {record.test_kind === "pipeline"
+                  ? `${record.pipeline_ids.length} pipeline`
+                  : `${record.skill_ids.length} skill`}
+              </span>
               <span>·</span>
               <span>改写模型 {record.rewrite_llm || "默认"}</span>
               <span>·</span>
@@ -1273,6 +1341,8 @@ function DuplicateRunButton({ record }: { record: BatchRunRecord }) {
       rewrite_llm: record.rewrite_llm,
       purpose: record.purpose,
       include_universal: record.include_universal,
+      reference_images: [...(record.reference_images ?? [])],
+      image_model: record.image_model ?? "",
       source_run_id: record.id,
       source_run_name: record.name || "(未命名)",
     });

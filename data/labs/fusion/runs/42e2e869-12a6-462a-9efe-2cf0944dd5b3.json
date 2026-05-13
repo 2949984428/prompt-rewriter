@@ -1,0 +1,47 @@
+{
+  "id": "42e2e869-12a6-462a-9efe-2cf0944dd5b3",
+  "created_at": "2026-04-29T08:59:43.387Z",
+  "name": "conflict-test",
+  "source_prompt": "You are a helpful assistant. ALWAYS respond in English regardless of user language. Translate any non-English text in your response to English.",
+  "rule": {
+    "kind": "custom",
+    "text": "Preserve user input language. CJK characters and proper nouns must NEVER be translated. Output should match the user query language."
+  },
+  "rewrite_llm": "",
+  "attempts": [
+    {
+      "timestamp": "2026-04-29T08:59:43.387Z",
+      "hint": "",
+      "result": {
+        "merged_prompt": "You are a helpful assistant. Preserve user input language; output should match the user query language. CJK characters and proper nouns must NEVER be translated. For non-CJK, non-proper-noun content that you generate, use the same language as the user's query.",
+        "strategy": "replace_section",
+        "changes": [
+          {
+            "id": "c1",
+            "type": "replacement",
+            "region_start": 27,
+            "region_end": 198,
+            "strategy": "replace_section",
+            "reason": "The original instruction 'ALWAYS respond in English regardless of user language. Translate any non-English text in your response to English.' directly contradicts the new rule requiring language preservation and no translation of CJK/proper nouns. The entire language-policy section was replaced to embody the new rule.",
+            "original_text": "ALWAYS respond in English regardless of user language. Translate any non-English text in your response to English."
+          }
+        ],
+        "conflicts": [
+          {
+            "id": "cf1",
+            "region_start": 27,
+            "region_end": 198,
+            "original_text": "ALWAYS respond in English regardless of user language. Translate any non-English text in your response to English.",
+            "new_rule_text": "Preserve user input language. CJK characters and proper nouns must NEVER be translated. Output should match the user query language.",
+            "resolution": "new"
+          }
+        ],
+        "llm_explanation": "The source prompt's language policy (\"ALWAYS respond in English… Translate any non-English text\") directly and irreconcilably conflicts with the new rule (\"Preserve user input language… CJK characters and proper nouns must NEVER be translated\"), so the replace_section strategy was used. The old language-policy clause was swapped wholesale for the new rule's language-matching requirements, while the opening persona (\"You are a helpful assistant.\") was preserved verbatim. Per the default conflict resolution, the new rule wins.",
+        "ms": 8495,
+        "raw": "{\"merged_prompt\": \"You are a helpful assistant. Preserve user input language; output should match the user query language. CJK characters and proper nouns must NEVER be translated. For non-CJK, non-proper-noun content that you generate, use the same language as the user's query.\", \"strategy\": \"replace_section\", \"changes\": [{\"id\":\"c1\",\"type\":\"replacement\",\"region_start\":27,\"region_end\":198,\"strategy\":\"replace_section\",\"reason\":\"The original instruction 'ALWAYS respond in English regardless of user language. Translate any non-English text in your response to English.' directly contradicts the new rule requiring language preservation and no translation of CJK/proper nouns. The entire language-policy section was replaced to embody the new rule.\",\"original_text\":\"ALWAYS respond in English regardless of user language. Translate any non-English text in your response to English.\"}], \"conflicts\": [{\"id\":\"cf1\",\"region_start\":27,\"region_end\":198,\"original_text\":\"ALWAYS respond in English regardless of user language. Translate any non-English text in your response to English.\",\"new_rule_text\":\"Preserve user input language. CJK characters and proper nouns must NEVER be translated. Output should match the user query language.\"}], \"llm_explanation\": \"The source prompt's language policy (\\\"ALWAYS respond in English… Translate any non-English text\\\") directly and irreconcilably conflicts with the new rule (\\\"Preserve user input language… CJK characters and proper nouns must NEVER be translated\\\"), so the replace_section strategy was used. The old language-policy clause was swapped wholesale for the new rule's language-matching requirements, while the opening persona (\\\"You are a helpful assistant.\\\") was preserved verbatim. Per the default conflict resolution, the new rule wins.\"}"
+      },
+      "error": null
+    }
+  ],
+  "status": "ready"
+}

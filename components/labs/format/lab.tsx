@@ -6,18 +6,39 @@
 "use client";
 
 import { useEffect } from "react";
-import { useAtom } from "jotai";
-import { formatSkillsAtom } from "@/lib/atoms-format";
+import { useAtom, useAtomValue } from "jotai";
+import {
+  formatSkillsAtom,
+  formatImageModelsAtom,
+  currentFormatRunAtom,
+  formatRunningAtom,
+} from "@/lib/atoms-format";
+import { UniversalToggle } from "@/components/universal-toggle";
 import { FormatSkillsIndexSchema } from "@/lib/schema-format";
 import { FormatInputBar } from "./input-bar";
 import { FormatSelector } from "./format-selector";
 import { FormatResultGrid } from "./result-grid";
-import { FormatDrawerShell } from "./drawer/format-drawer-shell";
 import { FormatLabLightbox } from "./format-lightbox";
 import { LlmModelSwitcher } from "@/components/llm-model-switcher";
+import { ImageModelGrid } from "@/components/image-model-grid";
 
 export function FormatLab() {
   const [skills, setSkills] = useAtom(formatSkillsAtom);
+  const [imageModels, setImageModels] = useAtom(formatImageModelsAtom);
+  const currentRun = useAtomValue(currentFormatRunAtom);
+  const running = useAtomValue(formatRunningAtom);
+  // 至少有一个跑出图(image_urls 非空)才让导出按钮亮 — 防止 PM 在空跑批时点导出拿空报告
+  const canExport =
+    !running &&
+    !!currentRun &&
+    currentRun.format_runs.some(
+      (r) =>
+        (r.image_job?.local_paths?.length ?? 0) > 0 ||
+        (r.image_job?.urls?.length ?? 0) > 0,
+    );
+  const exportUrl = currentRun
+    ? `/api/labs/format/runs/${encodeURIComponent(currentRun.id)}/export`
+    : "";
 
   // 启动期只需拉格式池(skills)。历史由全局 Bootstrap 统一拉 historyIndex,
   // FormatHistoryList / FormatReport 各自从 historyIndex 派生。
@@ -58,7 +79,26 @@ export function FormatLab() {
             PM 给每张图打分 + 备注 → 累积成"哪类 use_case 对哪种格式最敏感"的硬数据。
           </p>
         </div>
-        <div className="shrink-0 pt-2">
+        <div className="flex shrink-0 items-center gap-2 pt-2">
+          <a
+            href={canExport ? exportUrl : undefined}
+            onClick={(e) => {
+              if (!canExport) e.preventDefault();
+            }}
+            aria-disabled={!canExport}
+            title={
+              canExport
+                ? "导出当前跑批为 HTML / ZIP(自动按 cell 数选)"
+                : "先跑一次出图才能导出"
+            }
+            className={`inline-flex items-center gap-1 rounded-md border border-border-cream px-3 py-1.5 text-[13px] transition ${
+              canExport
+                ? "bg-ivory text-near-black hover:bg-warm-sand/40"
+                : "cursor-not-allowed bg-ivory/50 text-stone-gray"
+            }`}
+          >
+            ↓ 导出
+          </a>
           <LlmModelSwitcher />
         </div>
       </header>
@@ -66,20 +106,39 @@ export function FormatLab() {
       <FormatInputBar />
 
       <section>
-        <h2 className="mb-3 font-sans text-[14px] font-medium text-olive-gray">
-          选要测的格式
-        </h2>
+        <div className="mb-3 flex items-center justify-between gap-3">
+          <h2 className="font-sans text-[14px] font-medium text-olive-gray">
+            选要测的格式
+          </h2>
+          <UniversalToggle />
+        </div>
         <FormatSelector />
+      </section>
+
+      <section>
+        <div className="mb-3 flex items-baseline justify-between gap-3">
+          <h2 className="font-sans text-[14px] font-medium text-olive-gray">
+            选择使用的模型
+          </h2>
+          <p className="font-mono text-[11px] text-stone-gray">
+            {imageModels.length === 0
+              ? "0 个 → 用后端默认 IMAGE_MODEL 跑 1 路"
+              : imageModels.length === 1
+                ? "单模型 → 每个 skill 各跑 1 路"
+                : `${imageModels.length} 个模型 → skill × model 笛卡尔积,共 N×${imageModels.length} 路`}
+          </p>
+        </div>
+        <ImageModelGrid value={imageModels} onChange={setImageModels} />
       </section>
 
       <FormatResultGrid />
 
-      {/* 格式实验台独立抽屉(3 tab:skill 编辑 / 历史 / 累积报告)。
-         挂在 lab 内,只在 format lab 激活时存在,与 rewrite drawer 互不污染。 */}
-      <FormatDrawerShell />
+      {/* 抽屉(FormatDrawerShell)已上移到 page.tsx 顶层,与 batch lab 共享同一个实例,
+         避免切到 batch 时 drawer 不在 DOM 里 → atom 设 open=true 无效。 */}
 
       {/* 全屏图预览(单例,接管所有 cell 的点图动作 + 方向键切图) */}
       <FormatLabLightbox />
     </div>
   );
 }
+

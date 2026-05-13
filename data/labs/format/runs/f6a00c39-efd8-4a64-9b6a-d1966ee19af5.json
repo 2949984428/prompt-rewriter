@@ -1,0 +1,193 @@
+{
+  "id": "f6a00c39-efd8-4a64-9b6a-d1966ee19af5",
+  "ts": 1777261339438,
+  "query": "柔和轻盈的 35mm 人像",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F1-long-comma",
+      "format_label": "F1 Long Comma",
+      "final_prompt": {
+        "prompt": "35mm film photography portrait, soft and airy aesthetic, fine-grain film texture with gentle halation, natural diffused window light from the side, soft bokeh background, young woman with delicate facial features, porcelain smooth skin with subtle natural flush on cheeks, loose flowing hair with wispy strands catching the light, minimal makeup with soft pink lips and barely-there mascara, wearing a light linen or cotton blouse in cream or pale pastel tone, relaxed effortless posture with slight shoulder drop, gentle dreamy expression with soft unfocused gaze into the distance, slight natural smile, warm golden hour or overcast daylight color grading, muted warm tones with lifted shadows and soft highlights, creamy whites and dusty pastels throughout, shallow depth of field with buttery smooth out-of-focus background, blurred soft greenery or neutral interior in background, airy and ethereal mood, romantic and intimate atmosphere, timeless film portrait feel, Kodak Portra 400 color rendition, subtle lens flare, soft contrast, lifted blacks, 8K detail within film grain aesthetic, sharp focus on eyes and facial features, no harsh shadows, no over-sharpening, no plastic skin texture, no watermark",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "f655cdb0-840a-492b-9a30-0cf53f027aeb",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/e2e78ec6-d905-44d4-898c-05e9d801ecef.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0423,
+        "latency_ms": 48249,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F2-cinematic",
+      "format_label": "F2 Cinematic Single",
+      "final_prompt": {
+        "prompt": "Cinematic dreamy 35mm portrait, soft diffused light, gentle bokeh, film grain, pastel tones, intimate close framing.",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "81d1e950-4ffd-4862-9af3-5966f8bf8ec8",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/ace89ca3-fa33-48ed-b182-d0039785c867.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0413,
+        "latency_ms": 50228,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F3-paragraph-neg",
+      "format_label": "F3 Paragraph + Neg + AR",
+      "final_prompt": {
+        "prompt": "A soft and airy 35mm film portrait of a young woman standing in gentle natural light, captured with a vintage film camera aesthetic. The subject gazes slightly off-camera with a serene and contemplative expression, her loose hair catching the warm afternoon sunlight filtering through a sheer curtain. The color palette is muted and pastel, with creamy highlights and delicate grain characteristic of 35mm film photography. Bokeh background softly dissolves into pale tones of ivory and blush. The composition is intimate and unhurried, emphasizing the quiet beauty of the moment. Photorealistic, 35mm film grain, soft focus, warm tones, 8K, high resolution, masterpiece.\nNegative Prompts: no harsh shadows, no oversaturation, no digital sharpness, no plastic skin, no heavy makeup, no watermark, no text, no distorted features.\nAspect Ratio: 2:3.",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "7c863496-a39e-434e-bdb0-f2a12ab8ff01",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/fbde90b6-12fb-4376-aa23-cdd94afcb803.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0421,
+        "latency_ms": 48229,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Soft dreamy 35mm film portrait editorial, a young woman with delicate features and gentle expression, minimal natural makeup with soft skin texture and loose flowing hair, Rinko Kawauchi inspired analog film photography on 35mm Kodak Portra 400, standing near a sun-drenched window with shallow depth of field and soft bokeh background, warm golden hour diffused light casting gentle shadows and creating an airy ethereal mood",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "6a7d0797-2d21-48d0-a50f-1928c3f38d93",
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 3452,
+        "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_1889f760ad414e5693eefbd059a9c093.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"human portrait\",\"description\":\"soft natural skin tone, delicate features, gentle presence\",\"pose\":\"relaxed, slightly turned to one side\",\"expression\":\"calm, serene, subtle smile\"},\"scene\":{\"location\":\"outdoor or near large window\",\"time_of_day\":\"golden hour or soft overcast daylight\",\"ambience\":\"airy, tranquil, intimate\"},\"lighting\":{\"primary\":\"soft diffused natural light from the side\",\"secondary\":\"gentle fill from reflective surface\",\"mood\":\"warm, ethereal, featherlight\"},\"color_grading\":{\"palette\":[\"creamy ivory\",\"warm peach\",\"soft blush\",\"muted sage\",\"pale gold\"],\"tone\":\"warm and slightly faded\",\"contrast\":\"low to medium\"},\"composition\":{\"shot_type\":\"medium close-up portrait\",\"angle\":\"eye level, slight tilt\",\"lens\":\"35mm prime, wide aperture f/1.8\"},\"style\":{\"medium\":\"35mm analog film photography\",\"reference\":\"Ryan McGinley soft portraiture, Rinko Kawauchi\",\"texture\":\"fine film grain, halation around highlights\"},\"constraints\":[\"preserve skin texture naturally\",\"soft bokeh background\",\"no harsh shadows\",\"light and airy overall feel\"],\"negative\":[\"heavy contrast\",\"oversaturated colors\",\"harsh flash\",\"digital sterile look\",\"plastic skin\",\"watermark\",\"deformed features\"]}",
+        "size": "1024x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "d05db48d-e4fa-487d-9b33-19e8b1db11e3",
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 5499,
+        "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_f9e20f3eade144978990dc94ec0432ee.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: photorealistic-natural\nAsset type: portrait photography, square crop\nPrimary request: soft and airy 35mm film portrait of a person\nScene/backdrop: minimal or softly blurred natural background, gentle bokeh\nSubject: person with natural relaxed expression, delicate skin texture, soft hair catching light\nStyle/medium: 35mm film photography, analog grain, dreamy editorial\nComposition/framing: medium close-up portrait, 50mm equivalent lens, shallow depth of field\nLighting/mood: soft diffused natural window light or golden hour glow, gentle and ethereal mood\nColor palette: warm creamy skin tones, muted pastels, soft whites and gentle shadows\nMaterials/textures: fine film grain, smooth skin with subtle pores, soft fabric texture\nConstraints: keep the portrait intimate and human, preserve analog film aesthetic\nAvoid: harsh flash, over-retouched plastic skin, heavy vignette, digital HDR look, watermark",
+        "size": "1024x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "78c5bc8b-8bf1-42f2-8f97-b84c9f4349ab",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/0d7fdb0b-7311-4e97-b493-984664ba16ad.jpeg"
+        ],
+        "local_paths": [],
+        "cost": 0.0422,
+        "latency_ms": 46137,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F8-cn-task",
+      "format_label": "F8 中文任务式",
+      "final_prompt": {},
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": "LLM 返回不是合法 JSON"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F7-minimal",
+      "format_label": "F7 极简短句",
+      "final_prompt": {
+        "prompt": "柔和晨光下，35mm 胶片人像，轻盈呼吸感",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "d08ca44c-4776-4938-9a0b-0ea7827199a4",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/9afc5103-8959-4c69-be8c-74d01b056954.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0413,
+        "latency_ms": 48247,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "ecdaaba6"
+  }
+}

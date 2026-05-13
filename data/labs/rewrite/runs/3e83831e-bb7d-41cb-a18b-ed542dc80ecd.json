@@ -1,0 +1,336 @@
+{
+  "id": "3e83831e-bb7d-41cb-a18b-ed542dc80ecd",
+  "ts": 1777263529543,
+  "query": "赛博朋克科幻侧脸肖像",
+  "result": {
+    "classify": {
+      "vertical_path": [
+        {
+          "level": 1,
+          "label": "stylized-concept",
+          "confidence": 0.82,
+          "evidence": [
+            "赛博朋克是高度风格化的视觉语言",
+            "科幻定性为概念性而非写实纪录",
+            "侧脸肖像带有强烈的构图主张，更接近海报/封面而非写实人像"
+          ],
+          "alternatives_considered": [
+            {
+              "label": "photorealistic-natural",
+              "rejected_because": "赛博朋克+科幻的组合明确指向风格化处理，而非追求写实摄影质感"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "label": "赛博朋克人物概念图 / 科幻肖像海报",
+          "confidence": 0.88,
+          "evidence": [
+            "'侧脸肖像'确定了构图方向（profile view）",
+            "'赛博朋克'确定了世界观与视觉语言（霓虹、机械改造、都市废土）",
+            "'科幻'进一步收窄为未来感而非蒸汽朋克等其他子类"
+          ],
+          "alternatives_considered": [
+            {
+              "label": "赛博朋克城市场景图",
+              "rejected_because": "query 明确强调'肖像'，人物是主体，城市是背景而非主角"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "label": "单人侧脸特写 / 霓虹光影人物肖像",
+          "confidence": 0.78,
+          "evidence": [
+            "'侧脸'锁定了构图为 profile shot",
+            "肖像类型暗示人物占画面主导，背景为氛围补充"
+          ],
+          "alternatives_considered": []
+        }
+      ],
+      "stop_reason": "三层已足够定义工种本质（additive）、构图方向（侧脸特写）和风格语言（赛博朋克霓虹），继续下钻需要用户提供性别/年龄/改造程度等信息，否则是靠猜"
+    },
+    "extract": [
+      {
+        "field": "use_case",
+        "value": "stylized-concept",
+        "from": "ai_inferred",
+        "reason": "赛博朋克科幻+肖像组合命中风格化概念图垂类"
+      },
+      {
+        "field": "style",
+        "value": "赛博朋克 / 科幻",
+        "from": "user_query"
+      },
+      {
+        "field": "composition",
+        "value": "侧脸肖像（profile view）",
+        "from": "user_query"
+      },
+      {
+        "field": "size",
+        "value": "1024x1536",
+        "from": "ai_inferred",
+        "reason": "肖像/海报类默认竖版"
+      },
+      {
+        "field": "quality",
+        "value": "high",
+        "from": "ai_inferred",
+        "reason": "概念艺术/海报类建议 high"
+      },
+      {
+        "field": "output_format",
+        "value": "png",
+        "from": "ai_inferred",
+        "reason": "风格化概念图默认 png"
+      },
+      {
+        "field": "n",
+        "value": "1",
+        "from": "ai_inferred",
+        "reason": "用户未指定数量"
+      }
+    ],
+    "domain_thinking": [
+      {
+        "trigger": "stage_1_diagnose",
+        "thought": "【垂类下钻】赛博朋克科幻侧脸肖像 → level1: stylized-concept（风格化概念图/海报/封面）→ level2: 赛博朋克人物概念图/科幻肖像海报 → level3: 单人侧脸特写/霓虹光影人物肖像。停因：三层已足够定义工种与构图，继续下钻需要用户补充性别/改造程度等信息。\n\n【工种本质】additive（细节累加）。这张图卖的是：霓虹光影质感、机械义体细节、皮肤与金属的材质对比、散景背景的氛围层次。需要堆叠丰富的视觉信息而非做减法。\n\n【共情那个真实的人】一个喜欢赛博朋克美学的人——可能是游戏玩家、科幻迷、数字艺术爱好者——在 Pinterest/ArtStation/小红书刷到这张图。第一秒感受：'哇，这光打得真好，这个义体细节很精致，这个侧脸角度很有故事感'。期望动作：收藏、转发、设为壁纸，或者评论'这是什么游戏的角色'。\n\n【brief 缺口识别】\n- 性别/年龄：[auto: 中性偏女，年轻成人]\n- 机械改造程度：[auto: 中度——局部义体，保留人类情感]\n- 背景：[auto: 霓虹都市夜景散景]\n- 主色调：[auto: 青色+品红霓虹为主，暖橙皮肤为锚点]\n- 是否有文案：[auto: 无文案，纯视觉]\n- 比例：[auto: 竖版 2:3，适合肖像/海报]",
+        "produces_phrases": [
+          "profile view portrait",
+          "cyberpunk aesthetic",
+          "partial cybernetic augmentation",
+          "neon-lit night cityscape bokeh background"
+        ]
+      },
+      {
+        "trigger": "stage_2_persona",
+        "thought": "切到**概念美术/游戏概念设计师**的脑子——具体说是 Blade Runner 2049 视觉团队或 Cyberpunk 2077 概念美术那一档。\n\n为什么是 ta？这件事的要害不是'画一张好看的人脸'，而是：**用侧脸这个最克制的构图角度，在一张静态图里讲出一个人物的身份感和世界观的重量**。侧脸天然带有'凝视远方/思考/孤独'的叙事性，配合赛博朋克的光影语言（硬边霓虹 vs 暗部细节），能制造出'这个人有故事'的张力。\n\n这不是插画派（不是 Artgerm 那种精致甜美），也不是写实摄影派（不是追求皮肤毛孔），而是**光影叙事优先、世界观先行**的概念美术思维。",
+        "produces_phrases": [
+          "cinematic concept art thinking",
+          "world-building through a single face",
+          "light as narrative tool"
+        ]
+      },
+      {
+        "trigger": "stage_3_thesis",
+        "thought": "【视觉主张 One-liner】：**不是机器，是还没忘记自己是人的那一刻** —— 霓虹光从侧面打来，义体在阴影里，眼神望向画外某个我们看不见的东西。\n\n这个张力是：科技改造的冷硬 vs 人类情感的余温。不是'酷炫赛博朋克展示'，是'一个人在高科技废土里的孤独瞬间'。\n\n【氛围词 3 个，互为支撑】：\n1. 孤冷（lone / cold）—— 侧脸构图天然的疏离感\n2. 精密（precise）—— 义体细节、光影边缘的硬朗\n3. 余温（residual warmth）—— 皮肤的暖色调在冷霓虹里的对抗\n\n三词逻辑：孤冷是情绪基调，精密是视觉质感，余温是情感钩子——三者共同构成'人性 vs 机械'的核心张力，互不打架。",
+        "produces_phrases": [
+          "lone and cold",
+          "precise mechanical detail",
+          "residual human warmth against neon cold",
+          "the last human moment"
+        ]
+      },
+      {
+        "trigger": "stage_4_reference",
+        "thought": "【正面参照】\n1. **Blade Runner 2049（Roger Deakins 摄影）**——靠近的是：大面积暗部 + 单侧硬边光源（橙色暖光 vs 冷蓝环境光）的光比处理，以及'人物在画面中的孤独感'。不是抄元素，是借用'光从一侧切入脸部，另一侧沉入暗部'的光影结构。\n2. **Cyberpunk 2077 官方概念美术（Marcin Przybyłek 等）**——靠近的是：义体与皮肤的材质对比处理方式，以及霓虹散景背景的色彩密度（青色+品红+橙色三角关系）。\n\n【反面参照】\n**不要 ArtStation 泛滥的'全息蓝紫渐变赛博朋克脸'**——那种把整张脸打成蓝紫色、义体发光、背景塞满霓虹字符的视觉范式。它的问题是：信息密度过高、没有主次、失去了人物的情感重量，变成了'科技感展示'而非'人物叙事'。\n\n【行业惯例 & 受众关切】\n赛博朋克肖像的受众（游戏/科幻迷）真正在乎：\n- 义体细节的可信度（不能是贴纸感，要有嵌入皮肤的质感）\n- 光影的戏剧性（霓虹光必须有方向感和硬边）\n- 人物的'故事感'（侧脸+眼神方向暗示画外叙事）\n- 色彩的层次（不是单一色调，是多色霓虹的空间感）\n\n视觉惯例：侧脸/四分之三侧脸构图 / 单侧主光 + 环境霓虹辅光 / 暗背景 + 局部高光 / 义体金属反光 / 散景背景保持虚化",
+        "produces_phrases": [
+          "Blade Runner 2049 lighting ratio",
+          "single hard-edge side light",
+          "warm skin tone vs cold neon environment",
+          "cybernetic implant flush with skin",
+          "neon bokeh background — cyan magenta orange triangle"
+        ]
+      },
+      {
+        "trigger": "stage_5_translate",
+        "thought": "【镜头语言】\n- 焦距：85mm 等效（人像标准焦距，压缩背景，突出侧脸轮廓）\n- 视角：平视略微仰角（增加人物气场）\n- 景深：极浅——主体侧脸清晰，背景霓虹化为色块散景\n- 构图骨架：人物侧脸占画面左侧 2/3，视线方向朝右（给'望向未知'留空间），下巴到头顶垂直居中，颈部义体在阴影中可见\n\n【光】\n- 主光：来自画面右侧的硬边冷青色霓虹光（模拟街头霓虹招牌），打亮侧脸轮廓线——鼻梁、颧骨、下颌线形成发光边缘\n- 辅光：极弱的暖橙色环境反光从左下方补入（模拟地面反光或远处火光），给皮肤暗部留一点余温\n- 背景光：品红+青色霓虹散景，形成色彩密度\n- 光比：高对比，暗部占脸部面积 60%+，亮部是精准的轮廓光\n\n【色彩关系】\n- 底色：深蓝黑（城市暗夜）\n- 主色：冷青色（霓虹主光，打在侧脸轮廓）\n- 对抗色：暖橙/琥珀色（皮肤暗部余温，义体接缝处的微弱暖光）\n- 点缀色：品红散景光斑（背景层，不进入主体）\n- 功能：青色做'科技/冷'，橙色做'人性/暖'，两者在侧脸上形成冷暖交战\n\n【材质纹理】\n- 皮肤：哑光微孔质感，有真实皮肤的细微凹凸，不是塑料光滑\n- 义体（颈部/太阳穴）：拉丝钛合金+哑光碳纤维，与皮肤的接缝处有轻微磨损痕迹（增加可信度）\n- 头发：细丝感，霓虹光在发丝边缘形成光晕\n- 对比：皮肤的有机哑光 vs 义体的精密金属光泽——这个对比是整张图的材质核心\n\n【构图骨架】\n- 主角（侧脸）：占画面左侧，视线朝右上方画外\n- 支撑（颈部义体+肩部轮廓）：下方锚定重量感\n- 留白：右侧 1/3 是虚化背景，给叙事呼吸空间\n- 视觉锚点：鼻梁-颧骨的霓虹轮廓光线",
+        "produces_phrases": [
+          "85mm equivalent lens, shallow depth of field",
+          "hard-edge cyan neon rim light from the right, illuminating the profile silhouette",
+          "faint warm amber fill light from lower left, residual human warmth in the shadows",
+          "deep blue-black background with magenta and cyan bokeh",
+          "matte organic skin texture contrasting with brushed titanium and carbon fiber cybernetic implants at the neck and temple",
+          "implant-skin seam with subtle wear marks",
+          "subject facing right, gaze directed off-frame upper right",
+          "neon light halos on hair strands"
+        ]
+      },
+      {
+        "trigger": "stage_6_diff_check",
+        "thought": "【差异化钩子】\n1. **光的'冷暖交战'结构**：大多数赛博朋克肖像要么全冷（蓝紫统治），要么全暖（橙色赛博朋克）。这张图的差异化在于：冷青色轮廓光 vs 暖橙色皮肤余温在同一张侧脸上形成对抗——这个对抗不是装饰，是'人性 vs 机械'主张的直接视觉翻译。\n2. **义体的'嵌入感'而非'展示感'**：不是把义体做成发光展示品，而是做成'已经长在这个人身上很久了'的质感——磨损、接缝、与皮肤的过渡。这让人物有历史感，而不是刚出厂的概念模型。\n\n【规避 stylized-concept 最廉价的 AI cliché】\n1. ❌ 全脸蓝紫渐变打光（AI 默认赛博朋克 = 蓝紫色）→ ✅ 用青色+橙色的冷暖对抗替代\n2. ❌ 义体发光/全息投影效果（AI 爱加的'科技感装饰'）→ ✅ 义体不发光，只有金属反光，接缝有磨损\n3. ❌ 背景塞满汉字霓虹招牌+电路板纹理（AI 赛博朋克背景默认填充）→ ✅ 背景极度虚化为色块散景，不出现可辨识文字\n4. ❌ 塑料感皮肤/过度磨皮（AI 人像默认美化）→ ✅ 显式要求哑光微孔皮肤质感\n5. ❌ 过曝高光/假景深（AI 常见的'伪电影感'）→ ✅ 高对比但高光不过曝，景深由焦距参数控制",
+        "produces_phrases": [
+          "Avoid: full-face blue-purple gradient lighting",
+          "Avoid: glowing holographic cybernetic implants",
+          "Avoid: background filled with readable neon Chinese characters or circuit board textures",
+          "Avoid: plastic-smooth AI skin texture",
+          "Avoid: blown-out highlights or fake cinematic vignette"
+        ]
+      }
+    ],
+    "applied_hard_rules": [
+      {
+        "rule_id": "ratio_lock",
+        "hit": false,
+        "skipped_because": "用户 query 未出现明确比例参数（如 '3:4' / '16:9' 等），无需触发比例锁定注入"
+      },
+      {
+        "rule_id": "celeb_replace",
+        "hit": false,
+        "skipped_because": "query 不含真实名人姓名或 IP 角色全名"
+      },
+      {
+        "rule_id": "info_preserve",
+        "hit": false,
+        "skipped_because": "query 长度 < 80 字且不含明确标题/副标题/文案，无需触发信息保留检查"
+      },
+      {
+        "rule_id": "augmentation_discipline",
+        "hit": true,
+        "triggered_by": "所有 query 默认命中；本 query 具体度判定：粗略（仅含风格词+构图词，明确参数 < 3 项）",
+        "injection": "query 属于粗略类型（仅提供'赛博朋克科幻'风格词 + '侧脸肖像'构图词，无主体性别/改造程度/场景/色彩等具体参数），允许补充 composition / framing / lighting / material / polish level，但禁止新增未 implied 的品牌词、虚构角色名、slogan。已补充项均标注 [auto:] 来源。",
+        "injection_location": "body"
+      }
+    ],
+    "buffers": [
+      {
+        "label": "光影叙事强化（冷暖对抗结构）",
+        "picked": true,
+        "reason": "query 粗略，未指定光源。冷暖对抗是本次视觉主张'人性 vs 机械'的直接翻译，属于 implied 的核心设计决策，必须补入。",
+        "phrases": [
+          "hard cyan neon rim light from the right side, precisely defining the profile silhouette",
+          "faint warm amber shadow fill from lower left — residual human warmth against cold neon"
+        ]
+      },
+      {
+        "label": "义体细节质感（嵌入感而非展示感）",
+        "picked": true,
+        "reason": "赛博朋克肖像的核心差异化钩子之一，且 query 的'赛博朋克'已 implied 机械改造元素，补充具体质感描述属于 composition/material 层面的合规扩写。",
+        "phrases": [
+          "partial cybernetic augmentation at neck and temple — brushed titanium and matte carbon fiber, flush with skin, with subtle wear marks at the seam"
+        ]
+      },
+      {
+        "label": "背景处理（散景色块，不填充信息）",
+        "picked": true,
+        "reason": "肖像类图背景必须服务于主体，防止 AI 默认填充汉字霓虹/电路板纹理的 cliché，需显式指定。",
+        "phrases": [
+          "background: heavily blurred cyberpunk cityscape at night — magenta and cyan bokeh light blobs, no readable text or circuit patterns"
+        ]
+      },
+      {
+        "label": "皮肤质感（防塑料感）",
+        "picked": true,
+        "reason": "AI 人像最常见 cliché 是塑料感皮肤，需显式对抗。属于 material/polish 层面的合规补充。",
+        "phrases": [
+          "skin: matte with subtle pore texture, natural micro-imperfections — not smoothed or plastic"
+        ]
+      },
+      {
+        "label": "额外角色/物体/品牌设定",
+        "picked": false,
+        "reason": "query 未 implied 任何第二角色、道具品牌或 slogan，augmentation_discipline 规则禁止新增，不上场。",
+        "phrases": []
+      }
+    ],
+    "final_prompt": {
+      "prompt": "A cyberpunk sci-fi profile portrait rendered as cinematic concept art. The subject faces right in strict profile view, gaze directed off-frame toward the upper right — a single face that carries the weight of an entire world. Partial cybernetic augmentation at the neck and temple: brushed titanium and matte carbon fiber panels, flush with skin, with subtle wear marks at the seam — integrated, not displayed. Skin is matte with subtle pore texture and natural micro-imperfections, not smoothed or plastic, warm undertone preserving residual human presence. Hard cyan neon rim light from the right side precisely defines the profile silhouette, carving the jaw and brow with cold precision. Faint warm amber shadow fill from the lower left bleeds into the shadow side — residual human warmth against cold neon, the last human moment. Neon light halos catch individual hair strands along the crown. Background: heavily blurred cyberpunk cityscape at night — deep blue-black field with magenta and cyan bokeh light blobs, no readable text, no circuit board patterns, no neon signage. Rendered at 85mm equivalent focal length with shallow depth of field, placing all narrative weight on the face and the implant-skin boundary. Avoid full-face blue-purple gradient lighting, glowing holographic implants, plastic-smooth AI skin texture, blown-out highlights, and fake cinematic vignette.",
+      "size": "1024x1536",
+      "quality": "high",
+      "n": 1,
+      "output_format": "png"
+    }
+  },
+  "config_snapshot": {
+    "skill_id": "v3-diagnose-then-design",
+    "skill_md_hash": "7d304b66",
+    "hard_rules": [
+      {
+        "id": "ratio_lock",
+        "title": "比例必须显式锁定",
+        "enabled": true,
+        "trigger_keywords": [
+          "16:9",
+          "9:16",
+          "3:4",
+          "1080",
+          "1920",
+          "比例"
+        ],
+        "trigger_hint": "query 中出现明确比例参数",
+        "rule": "改写 prompt 末尾必须重复一次比例参数并声明【严格按此比例输出，不得自动调整】",
+        "source_case": "文档 2 优设 #3 / cherry #9"
+      },
+      {
+        "id": "celeb_replace",
+        "title": "名人词替换 / 规避",
+        "enabled": true,
+        "trigger_keywords": [],
+        "trigger_hint": "query 含真实名人姓名或 IP 角色全名（如 神仙姐姐 / 韦小宝 / 至尊宝）",
+        "rule": "在 final_prompt 中将名人姓名替换为对应特征描述，原词放进 [removed_term] 注释",
+        "source_case": "文档 2 cherry #2 / cherry #6"
+      },
+      {
+        "id": "info_preserve",
+        "title": "扩写不得丢失原文信息",
+        "enabled": true,
+        "trigger_keywords": [],
+        "trigger_hint": "query 长度 > 80 字 或 含明确标题/副标题/文案",
+        "rule": "extract 阶段先列出原 query 中所有 标题/文案/数字/品牌词；final_prompt 必须逐项保留，缺一项视为失败",
+        "source_case": "文档 2 公子龙 #6 / #9，cherry #5"
+      },
+      {
+        "id": "no_brand_logo_infringe",
+        "title": "禁止生成真实商业商标",
+        "enabled": false,
+        "trigger_keywords": [],
+        "trigger_hint": "query 含真实商业品牌商标",
+        "rule": "禁止生成可识别的真实商标，替换为通用风格描述",
+        "source_case": "通用合规"
+      },
+      {
+        "id": "augmentation_discipline",
+        "title": "扩写纪律（与 target_model profile 联动）",
+        "enabled": true,
+        "trigger_keywords": [],
+        "trigger_hint": "所有 query 默认命中，逐条判断具体度",
+        "rule": "先判断 query 具体度：已具体（含明确的主体/场景/风格/参数 ≥ 3 项）时，final_prompt 只做归一化与 target_model 结构对齐，禁止新增未 implied 的角色/物体/品牌/slogan/palette；粗略时允许补 composition / framing / polish / practical layout，但同样禁止加未 implied 的品牌与虚构事实。违反视为失败，需回退到原 query 语义。",
+        "source_case": "OpenAI gpt-image-2 best practices（augmentation discipline）"
+      }
+    ],
+    "vertical_hints": [],
+    "model_profile_hash": "ecdaaba6",
+    "target_model": "gpt-image-2"
+  },
+  "image_jobs": {
+    "baseline": {
+      "variant": "baseline",
+      "status": "failed",
+      "prompt": "赛博朋克科幻侧脸肖像",
+      "params": {
+        "size": "auto",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "task_id": "f1d75361-4426-40dd-a5b0-f0c32937cddf",
+      "urls": [],
+      "local_paths": [],
+      "cost": null,
+      "started_at": 1777263401978,
+      "finished_at": 1777272573865,
+      "latency_ms": 9171887,
+      "error": "查询生图结果失败 (404)"
+    },
+    "optimized": {
+      "variant": "optimized",
+      "status": "failed",
+      "prompt": "A cyberpunk sci-fi profile portrait rendered as cinematic concept art. The subject faces right in strict profile view, gaze directed off-frame toward the upper right — a single face that carries the weight of an entire world. Partial cybernetic augmentation at the neck and temple: brushed titanium and matte carbon fiber panels, flush with skin, with subtle wear marks at the seam — integrated, not displayed. Skin is matte with subtle pore texture and natural micro-imperfections, not smoothed or plastic, warm undertone preserving residual human presence. Hard cyan neon rim light from the right side precisely defines the profile silhouette, carving the jaw and brow with cold precision. Faint warm amber shadow fill from the lower left bleeds into the shadow side — residual human warmth against cold neon, the last human moment. Neon light halos catch individual hair strands along the crown. Background: heavily blurred cyberpunk cityscape at night — deep blue-black field with magenta and cyan bokeh light blobs, no readable text, no circuit board patterns, no neon signage. Rendered at 85mm equivalent focal length with shallow depth of field, placing all narrative weight on the face and the implant-skin boundary. Avoid full-face blue-purple gradient lighting, glowing holographic implants, plastic-smooth AI skin texture, blown-out highlights, and fake cinematic vignette.",
+      "params": {
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "task_id": "b88c70b2-6674-4cec-90a5-407e35bb9289",
+      "urls": [],
+      "local_paths": [],
+      "cost": null,
+      "started_at": 1777263529546,
+      "finished_at": 1777272573867,
+      "latency_ms": 9044321,
+      "error": "查询生图结果失败 (404)"
+    }
+  }
+}

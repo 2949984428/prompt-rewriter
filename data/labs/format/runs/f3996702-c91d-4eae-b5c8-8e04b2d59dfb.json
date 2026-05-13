@@ -1,0 +1,134 @@
+{
+  "id": "f3996702-c91d-4eae-b5c8-8e04b2d59dfb",
+  "ts": 1777275242282,
+  "query": "跨境电商促销海报，目的是宣传，要求：1.有艺术字，2.有字体堆叠，3.画面较为复杂但不能杂乱，4.有产品或者主体挡住一些字体，4.画面比例16:9",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create a marketing poster for cross-border e-commerce promotion with artistic typography and layered text elements.\n\nStyle/medium: modern graphic design poster, bold artistic typography with depth and dimension, editorial layout style\nComposition: 16:9 horizontal format, layered text arrangement with overlapping font sizes creating visual hierarchy, product or main subject partially obscuring some text elements\nSubject: promotional poster for cross-border e-commerce sale, featuring dynamic artistic lettering as primary visual element\nScene/backdrop: clean but visually rich background that supports complex layered composition without appearing cluttered\nLighting/mood: balanced studio lighting ensuring text readability while maintaining depth, energetic promotional atmosphere\nColor palette: high-contrast scheme with bold accent colors for key text layers, cohesive background tones\nMaterials/textures: crisp vector typography with subtle shadows or gradients for depth, clean product surfaces\nConstraints: text layers must remain legible despite overlapping; product/subject placement must create intentional occlusion without hiding critical information; overall composition must feel complex yet organized\nAvoid: chaotic clutter without hierarchy; illegible text; generic stock photo aesthetic; excessive decorative elements without purpose",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "c870fcbc-5eb0-4ed1-9dce-44ae1238fbaa",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/1cd5bf0c-f4a1-4949-a73b-3a86529797c8.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0382,
+        "latency_ms": 103153,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为跨境电商促销活动生成一张16:9横版海报，用于品牌宣传。\n\n风格/介质:现代商业海报设计，融合艺术字体与产品摄影，层次分明但不杂乱，参考 Behance 商业排版风格\n构图:16:9横版比例，字体堆叠形成视觉纵深，产品/主体置于中景遮挡部分文字，前景、中景、背景三层结构清晰\n主体:促销产品或品牌代表物（如耳机/美妆/服饰等），占据画面视觉中心，与文字形成前后遮挡关系\n场景/背景:纯色渐变或抽象几何纹理背景，不抢主体风头，提供视觉呼吸空间\n光线/氛围:柔和漫射光，产品表面有自然高光，整体氛围现代、活力、国际化\n色彩搭配:主色调不超过3种，高饱和度强调色用于重点文字，中性色做底色，对比度适中\n文字(原文保留):促销文案艺术字，字体大小错落堆叠，部分被产品遮挡\n约束:16:9画面比例；字体堆叠需有层次感；产品必须遮挡部分文字形成空间深度；整体复杂但不杂乱\n避免:字体全部平铺无遮挡、超过5种颜色、背景过于花哨、文字可读性差、廉价渐变效果",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "eef09f58-f344-477f-99de-ef6a6181784a",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/5dc68b09-5f06-4d79-b807-5fca3b1ca41a.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0387,
+        "latency_ms": 89773,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"promotional e-commerce poster\",\"description\":\"bold artistic typography with layered text effects, product or main subject partially overlapping and obscuring some letters\",\"pose\":\"dynamic composition with depth\",\"expression\":\"energetic sales-driven visual\"},\"scene\":{\"location\":\"abstract commercial backdrop with subtle gradient or geometric patterns\",\"time_of_day\":\"not applicable\",\"ambience\":\"modern, vibrant, professional promotional atmosphere\"},\"lighting\":{\"primary\":\"clean studio lighting with soft highlights on typography\",\"secondary\":\"subtle rim light on product/subject for separation\",\"mood\":\"bright, eye-catching, commercial\"},\"color_grading\":{\"palette\":[\"vibrant accent colors\",\"clean whites\",\"deep contrast elements\"],\"tone\":\"modern commercial\",\"contrast\":\"medium-high for readability\"},\"composition\":{\"shot_type\":\"wide promotional layout\",\"angle\":\"straight-on frontal view\",\"lens\":\"standard\"},\"style\":{\"medium\":\"digital graphic design poster\",\"reference\":\"contemporary cross-border e-commerce advertising\",\"texture\":\"crisp vector graphics with subtle depth\"},\"constraints\":[\"artistic typography must be prominent\",\"text must have layered/stacked effect\",\"composition should be complex but not cluttered\",\"product or main subject must partially block some text\",\"16:9 aspect ratio\",\"clear promotional messaging\"],\"negative\":[\"cluttered messy layout\",\"illegible text\",\"flat boring composition\",\"no depth or layering\",\"missing product integration\"]}",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "bb13ef3e-9947-42ad-92bc-2b43810758d7",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/07f35017-b8fe-4c79-b612-59bbb491aac4.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0384,
+        "latency_ms": 61714,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: infographic-diagram\nAsset type: promotional poster for cross-border e-commerce sale\nPrimary request: complex but organized promotional poster with artistic typography, stacked layered fonts, and products/subjects partially overlapping text\nScene/backdrop: dynamic e-commerce promotional scene with layered depth\nSubject: decorative artistic Chinese characters and English text arranged in overlapping stacks, with 3D product mockups or fashion items strategically placed to partially obscure portions of the text\nStyle/medium: modern graphic design, mixed media collage with 3D elements\nComposition/framing: wide landscape format with layered depth, text as primary visual element with products creating visual hierarchy\nLighting/mood: bright commercial lighting with dramatic shadows for depth, energetic and eye-catching\nColor palette: vibrant gradient colors (electric blue, hot pink, gold accents) with high contrast for visibility\nMaterials/textures: glossy product surfaces, metallic foil text effects, matte paper textures, subtle grain\nConstraints: text must remain readable despite overlapping, products must partially block some text as requested, complex composition without visual chaos\nAvoid: cluttered unreadable text, flat 2D only design, muted pastel colors, watermark, low contrast elements",
+        "size": "1792x1008",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "0246333e-d191-4a96-925f-f76e2e569920",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/48038ea3-be9d-4e2a-bbd0-26f2e80441c0.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0382,
+        "latency_ms": 73769,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Bold promotional e-commerce poster design with layered typography, dynamic 3D metallic art lettering spelling \"MEGA SALE\" and \"50% OFF\" in overlapping depth, glossy product boxes and shopping bags partially obscuring the text for visual depth, vibrant gradient background with geometric patterns and floating price tags, modern graphic design with clean hierarchy, 16:9 widescreen composition with balanced visual weight and energetic commercial atmosphere.",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "991fc8d4-2324-41d3-8896-4621e704ac4b",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/29aafc9b-45bb-4538-88a0-65c1f414866f.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0375,
+        "latency_ms": 49733,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "kimi/kimi-k2.5"
+  }
+}

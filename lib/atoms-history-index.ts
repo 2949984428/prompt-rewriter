@@ -13,7 +13,12 @@ import type { HistoryIndexEntry } from "./schema-history-index";
 export const historyIndexAtom = atom<HistoryIndexEntry[]>([]);
 export const historyIndexLoadedAtom = atom<boolean>(false);
 
-// 全局历史 modal 开关 + 当前筛选(all / rewrite / format)
-export type GlobalHistoryFilter = "all" | "rewrite" | "format";
+// 全局历史 modal 开关 + 当前筛选(all / rewrite / format / batch / fusion)
+export type GlobalHistoryFilter =
+  | "all"
+  | "rewrite"
+  | "format"
+  | "batch"
+  | "fusion";
 export const globalHistoryOpenAtom = atom<boolean>(false);
 export const globalHistoryFilterAtom = atom<GlobalHistoryFilter>("all");

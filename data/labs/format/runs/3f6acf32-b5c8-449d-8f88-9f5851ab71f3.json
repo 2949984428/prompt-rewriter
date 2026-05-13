@@ -1,0 +1,37 @@
+{
+  "id": "3f6acf32-b5c8-449d-8f88-9f5851ab71f3",
+  "ts": 1777272795062,
+  "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 Brief + Fields",
+      "final_prompt": {
+        "prompt": "Create an editorial photo for a Weibo news/trending post, a wide 16:9 banner image with strong documentary realism.\n\nStyle/medium: photorealistic documentary photography, handheld-feel mobile journalism aesthetic, sharp and immediate like a prize-winning street photo\nComposition: wide 16:9 panoramic frame, cityscape skyline fills upper two-thirds, generous lower-left negative space reserved for headline text overlay, slight Dutch-angle energy to suggest motion\nSubject: dense urban skyline with glass skyscrapers catching the last warm sunlight on their facades, silhouetted pedestrians mid-stride on a busy overpass or boulevard in the foreground\nScene/backdrop: Chinese city at golden hour transitioning to dusk — warm amber sun low on the horizon, neon signs and LED building strips beginning to glow against a deep violet-blue sky, light trails from passing vehicles\nLighting/mood: dramatic chiaroscuro between warm sunset backlight and cool emerging neon; hard rim light on pedestrian silhouettes, specular reflections on glass towers, high contrast yet emotionally warm\nColor palette: deep violet-blue sky as dominant field, molten amber and orange as sunset anchor on building glass, cyan and magenta neon as accent punctuation\nMaterials/textures: visible atmospheric haze, wet pavement reflections, glass curtain-wall grid texture on towers\nText (verbatim): \"城市里的安静时刻\" / \"黄昏，总能治愈一天的匆忙\" / \"@龙爪槐守望者real · 生活观察\"\nConstraints: main title \"城市里的安静时刻\" in bold modern sans-serif (黑体 style), placed prominently upper-left or center-left; subtitle \"黄昏，总能治愈一天的匆忙\" in smaller weight below title; watermark \"@龙爪槐守望者real · 生活观察\" in small text bottom-right corner; all Chinese text must be legible and correctly rendered\nAvoid: stock-photo sterility, fake HDR glow halos, over-saturated Instagram filter look, blurry or deformed pedestrian faces, cluttered text placement that overlaps key subjects, generic skyline with no atmospheric depth",
+        "size": "1536x1024",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "7846977a-da83-45d6-a09d-72fcdedf54a1",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/ae6d5fb0-8b91-4cc0-b9e2-6ad56ae3bf6e.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0433,
+        "latency_ms": 75893,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "ecdaaba6"
+  }
+}

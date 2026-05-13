@@ -7,7 +7,7 @@
 "use client";
 
 import { useState } from "react";
-import { useAtom } from "jotai";
+import { useAtom, useSetAtom } from "jotai";
 import { ArrowLeft, Loader2, Wand2 } from "lucide-react";
 import {
   fusionViewAtom,
@@ -23,6 +23,8 @@ import type {
   FusionRunRecord,
 } from "@/lib/schema";
 import { RulePicker } from "./rule-picker";
+import { writeHistoryRun } from "@/lib/history-write";
+import { historyIndexAtom } from "@/lib/atoms-history-index";
 
 const STRATEGY_OPTIONS: { value: "" | FusionMergeStrategy; label: string }[] = [
   { value: "", label: "让 LLM 自己选" },
@@ -38,6 +40,7 @@ export function FusionCreateForm() {
   const [, setView] = useAtom(fusionViewAtom);
   const [, setRecord] = useAtom(currentFusionRunAtom);
   const [, setSummariesLoaded] = useAtom(fusionSummariesLoadedAtom);
+  const setHistoryIndex = useSetAtom(historyIndexAtom);
   const [llmModel] = useAtom(llmModelAtom);
 
   const [name, setName] = useState("");
@@ -90,6 +93,50 @@ export function FusionCreateForm() {
       setRecord(j.record);
       setSummariesLoaded(false); // 让列表下次刷新
       setView({ kind: "detail", id: j.id });
+      // 写全局历史索引(fusion 是同步出结果,创建即完成 → 直接 completed)
+      const rec = j.record;
+      const ruleLabel =
+        rec.rule.kind === "lab"
+          ? `${rec.rule.skill_id} / ${rec.rule.granularity}`
+          : "自定义规则";
+      void writeHistoryRun({
+        id: rec.id,
+        lab_id: "fusion",
+        detail: rec,
+        index_patch: {
+          query: rec.source_prompt.slice(0, 200),
+          summary: `融合 ${ruleLabel}` + (rec.name ? ` · ${rec.name}` : ""),
+          status: "completed",
+          metadata: {
+            rule_kind: rec.rule.kind,
+            attempt_count: rec.attempts.length,
+          },
+        },
+      }).then((res) => {
+        if (!res.ok) console.warn("[fusion-create] history write failed:", res.error);
+        const ts = Date.now();
+        setHistoryIndex((prev) => {
+          if (prev.some((p) => p.id === rec.id)) return prev;
+          return [
+            {
+              id: rec.id,
+              ts,
+              lab_id: "fusion",
+              query: rec.source_prompt.slice(0, 200),
+              summary: `融合 ${ruleLabel}`,
+              status: "completed",
+              ref: `data/labs/fusion/runs/${rec.id}.json`,
+              pm_score_avg: null,
+              pm_score_count: 0,
+              metadata: {
+                rule_kind: rec.rule.kind,
+                attempt_count: rec.attempts.length,
+              },
+            },
+            ...prev,
+          ];
+        });
+      });
     } catch (e) {
       setError(`请求异常:${e instanceof Error ? e.message : String(e)}`);
     } finally {

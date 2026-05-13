@@ -1,0 +1,195 @@
+{
+  "id": "3ce7fe14-db06-485c-a953-ed9d383a565b",
+  "ts": 1777262665653,
+  "query": "柔和轻盈的 35mm 男性硬汉人像",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F1-long-comma",
+      "format_label": "F1 Long Comma",
+      "final_prompt": {
+        "prompt": "35mm film photography, soft yet masculine portrait of a rugged hardboiled man, analog film grain with gentle warmth, medium close-up shot, strong jawline with subtle stubble, weathered skin texture with natural pores and fine lines, deep-set eyes with a calm intense gaze, slightly furrowed brow conveying quiet strength, short natural hair with a few loose strands, wearing a simple worn linen or cotton shirt with open collar, relaxed confident posture, shoulders slightly turned, soft diffused natural window light from the left side, gentle fill light on shadow side, warm golden hour color grading with muted tones, creamy bokeh background with soft neutral tones suggesting an indoor or outdoor natural setting, shallow depth of field, authentic 35mm film color palette with slight fade and halation, skin texture rendered with natural warmth and softness, no harsh shadows, no plastic skin, no over-sharpening, no digital sterility, photorealistic, 8K detail, sharp focus on eyes",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "f54ab21e-8cda-447c-acd8-a8d26ceba58d",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/b3059493-4c11-429a-97d2-d71f98991ed3.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0422,
+        "latency_ms": 45948,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F2-cinematic",
+      "format_label": "F2 Cinematic Single",
+      "final_prompt": {
+        "prompt": "Cinematic editorial 35mm portrait of a rugged male figure, soft diffused light, shallow depth of field, muted warm tones, strong jawline, intimate close framing.",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "90ea91cd-83f4-414b-997b-00668b788faa",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/72cc4a92-3c8d-4178-956d-5014e3158f0c.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0414,
+        "latency_ms": 45961,
+        "error": null
+      },
+      "pm_score": 8,
+      "pm_notes": "",
+      "rated_at": 1777262750948
+    },
+    {
+      "format_id": "F3-paragraph-neg",
+      "format_label": "F3 Paragraph + Neg + AR",
+      "final_prompt": {
+        "prompt": "A photorealistic portrait of a rugged, weathered male figure captured on 35mm film, exuding quiet strength and masculinity. He has sharp, chiseled facial features with a strong jawline, subtle stubble, and deep-set eyes that carry a sense of lived experience. The lighting is soft and diffused, wrapping gently around his face with warm, slightly faded tones characteristic of analog 35mm photography. Shallow depth of field keeps the background a smooth, creamy bokeh of muted earth tones. His expression is calm and stoic, neither aggressive nor theatrical — simply present. Film grain adds texture and intimacy to the image, giving it a timeless editorial quality. Photorealistic, 35mm analog film, soft natural light, 8K, high resolution, masterpiece.\nNegative Prompts: no harsh shadows, no overexposed highlights, no plastic skin texture, no digital sharpness artifacts, no watermark, no text, no extra limbs, no distorted facial features.\nAspect Ratio: 2:3.",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "496a1ee5-28a5-4cc3-9cd1-ce70af82c663",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/f147c530-806e-49c4-8d37-f5a8f714328d.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0422,
+        "latency_ms": 37997,
+        "error": null
+      },
+      "pm_score": 7,
+      "pm_notes": "",
+      "rated_at": 1777262759453
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Soft ethereal 35mm analog film portrait editorial, rugged masculine man with strong jawline chiseled features and weathered skin, worn henley shirt with rolled sleeves and subtle stubble catching light, inspired by Herb Ritts and Peter Lindbergh intimate portrait photography on 35mm film grain, tight mid-shot framing with shallow depth of field and softly blurred neutral background, diffused natural window light with gentle shadows sculpting facial planes creating tender yet powerful mood",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "c575436d-cd73-473e-bc43-c016eba206cc",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/82a38c22-9bca-471d-8150-3fce7081cc51.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0417,
+        "latency_ms": 51930,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: photorealistic-natural\nAsset type: portrait photography, square crop\nPrimary request: soft and airy 35mm film portrait of a rugged masculine man\nScene/backdrop: minimal, slightly blurred neutral background — warm studio or natural window light setting\nSubject: rugged adult male, strong jawline, weathered skin texture, calm and stoic expression, short or slightly tousled hair, natural grooming\nStyle/medium: 35mm analog film photography, editorial portrait\nComposition/framing: medium close-up, 50mm equivalent lens, shallow depth of field, gentle bokeh\nLighting/mood: soft diffused natural light or large softbox, gentle shadows, airy and intimate mood, slight film grain\nColor palette: warm skin tones, muted beige and ivory background, subtle golden highlights\nMaterials/textures: realistic skin pores and fine lines, slight film grain, soft fabric texture on clothing\nConstraints: keep masculine features prominent yet approachable; preserve soft airy atmosphere without losing rugged character\nAvoid: over-retouched plastic skin, harsh dramatic shadows, heavy vignette, stock photo clichés, overly posed stiffness",
+        "size": "1024x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "026a074c-7401-4e7c-85cd-61c826da6168",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/c3e2bf43-c935-4006-828e-7fd498979d99.jpeg"
+        ],
+        "local_paths": [],
+        "cost": 0.0423,
+        "latency_ms": 45963,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"male portrait\",\"description\":\"rugged middle-aged man, strong jawline, subtle stubble, weathered skin with fine lines, broad shoulders, confident and stoic presence\",\"pose\":\"slight three-quarter turn, shoulders relaxed, one hand loosely at side\",\"expression\":\"calm, introspective, quietly intense\"},\"scene\":{\"location\":\"minimal neutral background, soft out-of-focus environment\",\"time_of_day\":\"golden hour or soft overcast daylight\",\"ambience\":\"intimate, contemplative, understated masculinity\"},\"lighting\":{\"primary\":\"soft diffused window light from camera left, large softbox quality\",\"secondary\":\"subtle warm fill from opposite side to lift shadows gently\",\"mood\":\"gentle yet dramatic, soft contrast, no harsh shadows\"},\"color_grading\":{\"palette\":[\"warm ivory skin tones\",\"muted warm beige\",\"soft grey\",\"desaturated earth tones\"],\"tone\":\"warm-neutral film emulsion\",\"contrast\":\"low to medium, lifted blacks\"},\"composition\":{\"shot_type\":\"medium close-up, head and shoulders\",\"angle\":\"eye level, slight downward tilt\",\"lens\":\"35mm prime, f/2.0 shallow depth of field\"},\"style\":{\"medium\":\"35mm analog film photography\",\"reference\":\"Sebastião Salgado portrait work, classic editorial masculinity\",\"texture\":\"visible fine film grain, slight halation on highlights\"},\"constraints\":[\"soft bokeh background\",\"natural skin texture preserved\",\"no over-retouching\",\"authentic film look\"],\"negative\":[\"plastic skin\",\"HDR over-processing\",\"harsh shadows\",\"digital sterile look\",\"watermark\",\"deformed anatomy\"]}",
+        "size": "1024x1536",
+        "quality": "high",
+        "n": 1,
+        "output_format": "jpeg"
+      },
+      "image_job": {
+        "task_id": "042cdf7d-5ea4-47b9-ae8c-ad6de5cc9cc2",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/dc25e0f9-b9bc-4217-aa8b-0e57b747b578.jpeg"
+        ],
+        "local_paths": [],
+        "cost": 0.0428,
+        "latency_ms": 63151,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F7-minimal",
+      "format_label": "F7 极简短句",
+      "final_prompt": {
+        "prompt": "35mm 胶片，硬汉男性人像，柔光",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "18415351-8965-449f-a546-a17b5e9b5f22",
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 44074,
+        "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_7dc333e5c53f4f9f96ecc6c04e53683f.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F8-cn-task",
+      "format_label": "F8 中文任务式",
+      "final_prompt": {},
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": "LLM 返回不是合法 JSON"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": "F2-cinematic",
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "ecdaaba6"
+  }
+}

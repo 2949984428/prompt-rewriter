@@ -1,0 +1,124 @@
+{
+  "id": "beb57fd8-f3dc-4eec-a980-63e6bcb468de",
+  "ts": 1777276433955,
+  "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create an editorial news banner for Weibo hot-topic feature, a 16:9 wide-format documentary photograph of urban dusk.\n\nStyle/medium: documentary street photography in the spirit of Alex Webb color work, shot on smartphone with professional-grade processing, photorealistic with sharp detail\nComposition: wide panoramic 16:9 aspect ratio, horizontal sweep capturing city skyline, generous negative space on left and right for text overlay, eye-level perspective\nSubject: city skyline at dusk with pedestrians in motion blur, distant skyscrapers reflecting golden sunset light\nScene/backdrop: urban downtown district transitioning from day to night, neon signs beginning to illuminate storefronts, sky gradient from warm amber to cool twilight blue\nLighting/mood: dramatic chiaroscuro with strong contrast between fading natural sunset and emerging artificial neon, atmospheric and contemplative\nColor palette: warm golden hour tones transitioning to cool blues and magentas from neon signage, high contrast between light and shadow\nText (verbatim): \"城市里的安静时刻\" (large headline), \"黄昏，总能治愈一天的匆忙\" (subtext), \"@龙爪槐守望者real · 生活观察\" (watermark)\nConstraints: horizontal layout with ample left/right margins for text placement; must read as authentic on-location news photography; all Chinese text must render correctly\nAvoid: oversaturated HDR look, deformed architecture, plastic skin on pedestrians, watermark artifacts, 8K stuffer aesthetic, AI-generated look",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "1f9f557b-0f4f-4eaa-b1f1-ecf0ae7e2a05",
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": 5442,
+        "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_ae72c12237d844a4989b5f26409d3250.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为微博热点配图生成一张专业纪实摄影横幅。\n\n风格/介质:新闻纪实摄影,手机现场拍摄质感,锐利细节,真实临场感\n构图:16:9 横幅横构图,广角视角,城市天际线横向延展,画面留白充足便于文字排版\n主体:城市黄昏天际线,远处高楼反射落日余晖,霓虹灯渐亮,行人匆匆剪影\n场景/背景:城市黄昏街景,天际线与建筑群,天空呈现日落余晖色彩\n光线/氛围:落日余晖与霓虹灯光混合,戏剧化光影对比,真实现场光感\n色彩搭配:落日暖橙与冷蓝天空的对比,霓虹灯光点缀,冷暖交织\n文字(原文保留):\"城市里的安静时刻\"(大标题,醒目位置,黑体或现代字体),\"黄昏,总能治愈一天的匆忙\"(副文),\"@龙爪槐守望者real · 生活观察\"(水印,底部或右下)\n约束:16:9 严格比例,横幅宽图,横向延展,留白充足便于文字叠加,整体专业高级\n避免:过度锐化、塑料感、不自然调色、水印遮挡主体、杂乱构图",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: editorial-social-media\nAsset type: Weibo news/hot topic banner, 16:9 landscape\nPrimary request: dramatic cityscape at dusk with neon lights, busy pedestrians, and skyscrapers reflecting sunset, documentary-style street photography\nScene/backdrop: urban city skyline at golden hour transitioning to night, neon signs beginning to glow, distant high-rise buildings reflecting warm sunset light, busy street with motion-blurred pedestrians\nSubject: city skyline as main subject, pedestrians in motion creating life and energy, architectural details of skyscrapers\nStyle/medium: photorealistic documentary photography, smartphone-captured aesthetic with professional polish, street photography\nComposition/framing: wide panoramic 16:9 landscape, horizontal extension with generous negative space for text overlay, rule of thirds placement of skyline\nLighting/mood: dramatic chiaroscuro lighting, warm golden hour sunset mixing with cool neon glow, high contrast shadows, cinematic and contemplative mood\nColor palette: warm amber sunset tones + cool cyan and magenta neon accents + deep urban shadows\nMaterials/textures: glass building reflections, concrete textures, motion blur on moving figures, realistic atmospheric haze\nText (verbatim): \"城市里的安静时刻\" / \"黄昏，总能治愈一天的匆忙\" / \"@龙爪槐守望者real · 生活观察\"\nConstraints: maintain 16:9 strict aspect ratio, preserve ample negative space for text placement, keep documentary authenticity without over-processing\nAvoid: plastic-looking buildings, oversaturated colors, artificial HDR effect, watermark artifacts, deformed architecture, stuffer words like 8K masterpiece",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Documentary news photography with cinematic urban atmosphere, a bustling city skyline at dusk with silhouetted pedestrians moving through streets, contemporary streetwear on commuters carrying bags, shot on smartphone with computational photography and HDR processing, wide horizontal panoramic view of skyscrapers reflecting golden sunset while neon signs begin to illuminate, dramatic chiaroscuro lighting with strong contrast between warm sunset glow and cool artificial lights creating authentic street-level tension, large bold headline text \"城市里的安静时刻\" in modern sans-serif font at prominent position, subtitle text \"黄昏，总能治愈一天的匆忙\" below, watermark \"@龙爪槐守望者real · 生活观察\" at bottom right corner, ample negative space on left and right for text overlay, photorealistic editorial style suitable for Weibo trending news thumbnail.",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"urban cityscape at dusk\",\"description\":\"city skyline with silhouettes of pedestrians, distant skyscrapers reflecting golden sunset\",\"pose\":\"dynamic street-level view with people in motion blur, capturing the rush of evening commute\",\"expression\":\"contemplative, transitional moment between day and night\"},\"scene\":{\"location\":\"metropolitan downtown street\",\"time_of_day\":\"golden hour transitioning to twilight\",\"ambience\":\"bustling yet introspective, urban poetry\"},\"lighting\":{\"primary\":\"warm golden sunset reflecting off glass facades\",\"secondary\":\"cool neon signs beginning to glow, street lamps flickering on\",\"mood\":\"dramatic chiaroscuro, high contrast between warm and cool tones\"},\"color_grading\":{\"palette\":[\"warm amber sunset\",\"cool cyan neon\",\"deep urban shadows\",\"golden highlights on buildings\"],\"tone\":\"documentary realism with cinematic warmth\",\"contrast\":\"high, punchy shadows\"},\"composition\":{\"shot_type\":\"wide panoramic banner\",\"angle\":\"street-level eye view\",\"lens\":\"24mm wide-angle\"},\"style\":{\"medium\":\"professional documentary photography\",\"reference\":\"mobile photography elevated to editorial quality, Weibo trending post aesthetic\",\"texture\":\"authentic urban grit, sharp details\"},\"text_overlay\":{\"headline\":{\"content\":\"城市里的安静时刻\",\"font\":\"bold sans-serif or modern Chinese typeface\",\"position\":\"prominent upper area\"},\"subtext\":{\"content\":\"黄昏，总能治愈一天的匆忙\",\"position\":\"below headline\"},\"watermark\":{\"content\":\"@龙爪槐守望者real · 生活观察\",\"position\":\"bottom right or bottom center\"}},\"constraints\":[\"strict 16:9 horizontal aspect ratio\",\"generous negative space for text placement\",\"realistic documentary feel\",\"dramatic light-shadow contrast\"],\"negative\":[\"oversaturated colors\",\"artificial HDR look\",\"deformed buildings\",\"blurry text\",\"8K\",\"ultra-detailed\",\"masterpiece\"]}",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "kimi/kimi-k2.5"
+  }
+}

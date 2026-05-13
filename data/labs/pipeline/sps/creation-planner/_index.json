@@ -1,0 +1,19 @@
+{
+  "active": "v2",
+  "versions": [
+    {
+      "id": "v1",
+      "label": "初版(从 mock 升级真 LLM 推理)",
+      "notes": "对齐线上 CreationPlanner 拆 function_call,size 启发式抄 F11-direct-api",
+      "createdAt": "2026-05-12T22:00:00.000Z",
+      "author": "system"
+    },
+    {
+      "id": "v2",
+      "label": "v2 · 对齐线上 Detailed Prompt Standard",
+      "notes": "对齐线上 Creative Production Agent 真实输出格式:每个 prompt 是 50-80 词英文 detailed description,7 维必含(主题+用途/构图/视觉元素/文字 overlay/调色/灯光摄影/比例+平台);4 条硬规则:Verbatim passthrough(in-image 文字、品牌、空间词、镜头 1:1 保留)/ Vertical 自洽(用 generic 描述补 EMPTY,不凭空补具体值)/ Negative passthrough(Avoid: 后缀)/ Detailed not over-stuffed(禁 4K/8K/UE5 buzzword);Size Zero-Default Rule + 全套启发式 + 17 平台 hint;Quantity default(N×N grid 视为 1 张;电商详情页默认 5 张);9 个 few-shot 含线上原样淘宝衬衫 5 张样例。撤销 v2-draft 的 Original request anchor 注入设计(跟线上不对齐)。",
+      "createdAt": "2026-05-13T00:00:00.000Z",
+      "author": "巧克力"
+    }
+  ]
+}

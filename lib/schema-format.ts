@@ -36,10 +36,15 @@ export const FormatSkillsIndexSchema = z.object({
 export type FormatSkillsIndex = z.infer<typeof FormatSkillsIndexSchema>;
 
 
-// 单路格式跑出的产物
+// 单路格式跑出的产物。
+// 多 model 改造后:每条记录是 (format_id, image_model) 元组(同 skill 多 model → 多条)。
+// 同 skill 不同 model 共享同一份 final_prompt(LLM 只跑 1 次/skill),但 image_job 各自独立。
+// 老 record 没有 image_model 字段 → default "" 视为"用后端默认 model"的单 model 跑批,兼容渲染。
 export const FormatRunSchema = z.object({
   format_id: z.string(),                 // skills/index.json 里的版本 id
   format_label: z.string().default(""),  // 显示用 (如 "F1 Long Comma")
+  // 生图模型 name:""(老 record) → 后端默认;"vendor/name" / "gpt-image-2" 等具体模型
+  image_model: z.string().default(""),
 
   // LLM 改写后的 final_prompt 对象 (与 FinalPromptSchema 同构)
   final_prompt: z

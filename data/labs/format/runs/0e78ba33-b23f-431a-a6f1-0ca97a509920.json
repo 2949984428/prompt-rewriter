@@ -1,0 +1,86 @@
+{
+  "id": "0e78ba33-b23f-431a-a6f1-0ca97a509920",
+  "ts": 1777278659050,
+  "query": "品牌核心元素： 品牌标志：RAN QIU 标志 主色调：#8B3A1E（深秋棕红）、#E8DCCB（米色）、#D4A574（金棕色） 设计风格：东方美学、极简主义、自然诗意、温暖治愈   视觉语言：充足留白、浅景深、暖色调、金色时光 制作一张符合品牌调性的宣传海报。采用温暖的秋日氛围，结合品牌标志和自然元素，营造诗意而宁静的视觉体验。",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为 RAN QIU 品牌生成一张宣传海报，东方美学风格，秋日氛围，诗意宁静。\n\n风格/介质:极简主义东方美学海报，充足留白，暖色调，金色时光质感，浅景深，自然诗意，温暖治愈\n构图:竖版中心构图，大面积留白，品牌标志居中或下方，自然元素点缀四周，视线引导由上至下\n主体:品牌标志 \"RAN QIU\"，搭配秋日自然元素（如枯枝、落叶、芦苇或干花），形态轻盈疏朗\n场景/背景:抽象秋日意境背景，米色 #E8DCCB 为底，营造晨雾或薄光弥漫的静谧氛围\n光线/氛围:柔和漫射侧光，金色低角度暖光点染，色温偏暖，整体氛围宁静、诗意、治愈\n色彩搭配:以 #E8DCCB 米色为主底色，#8B3A1E 深秋棕红作为品牌标志与核心视觉锚点，#D4A574 金棕色作为光晕与细节过渡，三色关系克制统一\n材质/纹理:轻微纸张纹理或宣纸质感，自然元素带细腻真实感，整体无塑料感\n文字(原文保留):\"RAN QIU\"\n约束:留白面积不低于画面 50%；色彩严格限定在三色系内；品牌标志清晰可识别；整体不出现杂乱元素\n避免:过度装饰、高饱和撞色、西式复古风、繁复花纹、渐变滥用、廉价暖调滤镜、文字堆砌",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "8bf872d6-f642-48da-bcb1-3bab862ab0df",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/44dc7c9e-da19-4283-a041-1a037be6c388.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0434,
+        "latency_ms": 51188,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create an original marketing poster for the brand RAN QIU, evoking warm autumnal poetry and Eastern minimalist aesthetics.\n\nStyle/medium: flat editorial poster with Eastern minimalist sensibility, generous negative space, inspired by Japanese wabi-sabi and Chinese ink-wash restraint\nComposition: centered vertical layout with ample breathing room, shallow depth of field implied through soft foreground/background separation, warm golden-hour light diffusion\nSubject: brand identity \"RAN QIU\" as the visual anchor, surrounded by sparse natural elements — dried botanicals, fallen leaves, or a single branch — arranged with deliberate asymmetry\nScene/backdrop: soft abstract autumnal backdrop, muted and airy, suggesting late-afternoon light filtering through a window or open field\nLighting/mood: warm golden-hour glow, soft diffused light with no harsh shadows, tranquil and healing atmosphere\nColor palette: #8B3A1E (deep autumn brick-red) as the primary accent, #E8DCCB (warm beige) as the dominant background, #D4A574 (golden amber) as the secondary warm tone — colors work in quiet harmony, never competing\nMaterials/textures: delicate paper-like surface texture, subtle grain suggesting natural fiber, soft matte finish\nText (verbatim): \"RAN QIU\"\nConstraints: must preserve generous white/negative space; brand mark \"RAN QIU\" must be legible and visually dominant; no busy backgrounds; color values must stay within the specified palette\nAvoid: neon or cool tones, high-contrast harsh shadows, overly ornate decoration, Western maximalism, cluttered composition, generic stock-photo autumn clichés",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "8c8f0e4b-4181-47a9-af30-7c1b6e64e740",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/e5ece1ac-0062-47ff-923e-80ba05119d95.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0429,
+        "latency_ms": 55929,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: logo-brand / promotional poster\nAsset type: brand promotional poster, vertical crop\nPrimary request: a poetic and serene autumn-toned brand poster for RAN QIU, combining the brand mark with natural elements\nScene/backdrop: soft autumnal outdoor setting — fallen leaves, warm golden light filtering through sparse branches, ample negative space\nSubject: brand identity composition featuring the \"RAN QIU\" logotype as the focal anchor, surrounded by delicate natural elements (dried botanicals, soft leaf silhouettes, subtle texture)\nStyle/medium: editorial fine-art photography aesthetic blended with minimalist graphic design; Eastern aesthetics, natural poetry, warm healing mood\nComposition/framing: vertical portrait layout, centered or slightly off-center logotype, generous white/cream breathing space, shallow depth of field on natural elements\nLighting/mood: golden hour warm light, soft diffused glow, no harsh shadows — tranquil, intimate, poetic\nColor palette: deep autumn brick-red #8B3A1E, warm beige #E8DCCB, golden tan #D4A574 — muted, harmonious, no cold tones\nMaterials/textures: fine linen or handmade paper texture in background, delicate pressed-leaf or botanical overlay, soft bokeh\nText (verbatim): \"RAN QIU\"\nConstraints: preserve brand colors exactly (#8B3A1E, #E8DCCB, #D4A574); keep layout minimal with ample negative space; \"RAN QIU\" logotype must be clearly legible\nAvoid: busy backgrounds, neon or cool-toned lighting, cluttered composition, generic stock-photo feel",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "bf2ff6a8-a84d-4200-bef4-08dd7bcb159e",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/77e50198-b7a7-43b9-b184-c1641dea8e6f.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0506,
+        "latency_ms": 102689,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

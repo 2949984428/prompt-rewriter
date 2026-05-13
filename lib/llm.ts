@@ -10,9 +10,10 @@ export class LLMError extends Error {
   }
 }
 
-const BASE_URL = process.env.LLM_BASE_URL ?? "https://api.openai.com/v1";
+const BASE_URL =
+  process.env.LLM_BASE_URL ?? "http://llm-gateway-go.svc.pre.lovart.cloud/v1";
 const API_KEY = process.env.LLM_API_KEY ?? "sk-placeholder";
-const MODEL = process.env.LLM_MODEL ?? "gpt-4o-mini";
+const MODEL = process.env.LLM_MODEL ?? "bedrock/claude-sonnet-4-6";
 
 const client = new OpenAI({ baseURL: BASE_URL, apiKey: API_KEY });
 

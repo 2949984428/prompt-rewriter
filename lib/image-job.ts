@@ -33,6 +33,13 @@ export type StartImageJobInput = {
   quality?: string;
   n?: number;
   output_format?: string;
+  // base64 data URL 数组；非空时 server 端走 image-edit（图生图），否则 text-to-image。
+  reference_images?: string[];
+  // 生图模型;空 = 后端默认 IGW(gpt-image-2),"vendor/name" 走 Lovart Agent。
+  // 由调用方从 imageModelAtom 取出后透传。
+  model?: string;
+  // Lovart 模型私有 input_args(每个 generator schema 不同);透传给后端。
+  lovart_input_args?: Record<string, unknown>;
 };
 
 type JobSetter = (update: SetStateAction<ImageJobState>) => void;
@@ -166,13 +173,21 @@ export function useImageJobPoller(atom: PrimitiveAtom<ImageJobState>) {
             finishedAt: Date.now(),
           }));
         } else if (data.status === "failed") {
+          // 新 image-router 走 data.error;老 image gateway 走 data.error_details;两个都兜住。
+          const errMsg =
+            typeof data.error === "string"
+              ? data.error
+              : typeof data.error_details === "string"
+                ? data.error_details
+                : data.error_details
+                  ? JSON.stringify(data.error_details)
+                  : data.error
+                    ? JSON.stringify(data.error)
+                    : "生图失败";
           setState((prev) => ({
             ...prev,
             status: "failed",
-            error:
-              typeof data.error_details === "string"
-                ? data.error_details
-                : JSON.stringify(data.error_details ?? {}),
+            error: errMsg,
             finishedAt: Date.now(),
           }));
         }

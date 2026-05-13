@@ -3,8 +3,10 @@
 // POST → 同步把跑批结果推到飞书云文档。
 // body 可选 { include_excluded?: boolean, folder_token?: string }
 //
-// 阻塞调用,串行 spawn lark-cli,64 cell ~ 100s。Next.js 默认 route timeout
-// 是 60s,所以这里 maxDuration 拉到 5 分钟。
+// 阻塞调用,spawn lark-cli。优化后:跨 query 串行 + query 内 4 路并发
+// media-insert + 每 query 1 次合并 append(文字调用从 64 → 8)。64 cell ~ 100s。
+// Next.js 默认 route timeout 60s,这里 maxDuration 拉到 5 分钟。
+// 实现见 `lib/lark/export-to-doc.ts:exportBatchToLark`。
 //
 // 失败模式:
 //   - lark-cli 未安装/auth 过期 → 返回 { error, status: "needs_login" } 200

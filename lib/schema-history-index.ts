@@ -11,7 +11,7 @@
 import { z } from "zod";
 
 // 实验台标识。union 而非 enum:未来加台不动 schema 文件,只在使用方处加 string。
-export const LAB_IDS = ["rewrite", "format"] as const;
+export const LAB_IDS = ["rewrite", "format", "batch", "fusion"] as const;
 export type LabId = (typeof LAB_IDS)[number];
 
 export const HistoryIndexEntrySchema = z.object({

@@ -63,6 +63,9 @@ export async function buildBlindHtml(
     total_queries: totalQueries,
     anon_ids_per_query: mapping.byQuery.map((q) => q.map((c) => c.anon_id)),
   };
+  // B3 fix:把 safeMeta JSON 嵌入 <script> 时,把 </script 字面量打散,
+  // 防 record.name 含 `</script>` 关闭脚本块(理论 XSS,内部工具风险低但顺手补)
+  const safeMetaJson = JSON.stringify(safeMeta).replace(/<\/script/gi, "<\\/script");
 
   return `<!doctype html>
 <html lang="zh-CN">
@@ -197,7 +200,7 @@ export async function buildBlindHtml(
 (function() {
   // 关键:整个数据结构里没有 skill_id / final_prompt / 任何策略信号。
   // 仅 run_id / 名称 / 题目数 / 每 query 的 anon_id 列表。
-  const META = ${JSON.stringify(safeMeta)};
+  const META = ${safeMetaJson};
   const STORAGE_KEY = "lovart-batch-blind-" + META.run_id;
 
   // selections: { queryIdx(string): anonId(string) }

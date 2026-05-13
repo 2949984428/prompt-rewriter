@@ -1,0 +1,298 @@
+{
+  "id": "dec4c18f-eacc-4a8f-a8af-4069b1c4625d",
+  "ts": 1777272754500,
+  "query": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+  "result": {
+    "classify": {
+      "vertical_path": [
+        {
+          "level": 1,
+          "label": "photorealistic-natural",
+          "confidence": 0.88,
+          "evidence": [
+            "专业纪实摄影风格",
+            "像手机现场拍摄的高级照片",
+            "真实现场感强",
+            "新闻纪实感"
+          ],
+          "alternatives_considered": [
+            {
+              "label": "stylized-concept",
+              "rejected_because": "用户明确要求纪实感与真实感，而非风格化概念图；虽有海报化文字水印，但主体诉求是摄影写实"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "label": "城市纪实摄影 / 新闻配图",
+          "confidence": 0.92,
+          "evidence": [
+            "微博新闻/热点配图",
+            "城市黄昏天际线",
+            "行人匆匆",
+            "霓虹灯渐亮",
+            "像真实微博热帖配图"
+          ],
+          "alternatives_considered": [
+            {
+              "label": "风光摄影（纯自然景观）",
+              "rejected_because": "场景核心是城市人文：霓虹、行人、高楼，有人的温度，不是纯风光"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "label": "黄昏城市街头 · 带文字水印的社媒热帖配图（微博横版）",
+          "confidence": 0.9,
+          "evidence": [
+            "16:9横幅宽图",
+            "三层文字水印（大标题+副文+账号水印）",
+            "留白充足便于文字",
+            "整体专业高级，像真实微博热帖配图"
+          ],
+          "alternatives_considered": []
+        }
+      ],
+      "stop_reason": "level 3 已精确锁定：平台（微博）+ 比例（16:9）+ 场景（城市黄昏街头）+ 用途（热帖配图带文字水印），再往下钻是靠猜具体地点，信息不足，停止。"
+    },
+    "extract": [
+      {
+        "field": "use_case_slug",
+        "value": "photorealistic-natural",
+        "from": "ai_inferred",
+        "reason": "纪实摄影风格 + 城市真实场景，对齐 photorealistic-natural"
+      },
+      {
+        "field": "aspect_ratio",
+        "value": "16:9",
+        "from": "user_query",
+        "reason": "用户明确写",
+        "严格16": 9
+      },
+      {
+        "field": "size",
+        "value": "1536x1024",
+        "from": "ai_inferred",
+        "reason": "16:9横版映射到 gpt-image-2 的 1536x1024"
+      },
+      {
+        "field": "scene",
+        "value": "城市黄昏天际线，霓虹灯渐亮，行人匆匆，远处高楼反射落日余晖",
+        "from": "user_query"
+      },
+      {
+        "field": "style",
+        "value": "新闻纪实感，手机现场拍摄高级照片，冲击力与真实并存，锐利细节",
+        "from": "user_query"
+      },
+      {
+        "field": "text_title",
+        "value": "城市里的安静时刻",
+        "from": "user_query",
+        "reason": "大标题，醒目位置，黑体或现代字体"
+      },
+      {
+        "field": "text_subtitle",
+        "value": "黄昏，总能治愈一天的匆忙",
+        "from": "user_query",
+        "reason": "副文"
+      },
+      {
+        "field": "text_watermark",
+        "value": "@龙爪槐守望者real · 生活观察",
+        "from": "user_query",
+        "reason": "底部或右下水印"
+      },
+      {
+        "field": "composition_note",
+        "value": "画面横向延展，留白充足便于文字叠加",
+        "from": "user_query"
+      },
+      {
+        "field": "quality",
+        "value": "high",
+        "from": "ai_inferred",
+        "reason": "用户提及8K质感、专业高级、商业级微博热帖配图，对应 quality=high"
+      },
+      {
+        "field": "output_format",
+        "value": "jpeg",
+        "from": "ai_inferred",
+        "reason": "摄影写实风格配图，jpeg 体积更小且适合社媒分发"
+      },
+      {
+        "field": "n",
+        "value": "1",
+        "from": "user_query",
+        "reason": "用户未要求多张"
+      }
+    ],
+    "applied_hard_rules": [
+      {
+        "rule_id": "ratio_lock",
+        "hit": true,
+        "triggered_by": "用户明确写",
+        "严格16": 9,
+        "比例\"，横幅宽图\",\n    \"injection\"": "在 final_prompt 的 Constraints 字段末尾重复：strictly 16:9 aspect ratio, do not crop or adjust; mapped to size=1536x1024",
+        "injection_location": "tail"
+      },
+      {
+        "rule_id": "celeb_replace",
+        "hit": false,
+        "skipped_because": "query 中无真实名人姓名或 IP 角色全名。"
+      },
+      {
+        "rule_id": "info_preserve",
+        "hit": true,
+        "triggered_by": "query 含明确标题/副标题/文案三项，且长度 > 80 字",
+        "injection": "extract 阶段已列出全部三条文案原文（大标题：城市里的安静时刻 / 副文：黄昏，总能治愈一天的匆忙 / 水印：@龙爪槐守望者real · 生活观察）；final_prompt 的 Text (verbatim) 字段必须逐项保留原文，不翻译不改标点",
+        "injection_location": "body"
+      },
+      {
+        "rule_id": "augmentation_discipline",
+        "hit": true,
+        "triggered_by": "query 具体度评估：含明确场景(城市黄昏天际线+霓虹+行人+高楼) + 风格(纪实摄影) + 比例(16:9) + 文案(3项) + 构图要求(留白) ≥ 3项，判定为",
+        "已具体\"\",\n    \"injection\"": "final_prompt 只做归一化与 target_model 结构对齐。禁止新增未 implied 的角色/物体/品牌/slogan/palette。已 implied 的细节（双光源临界时刻/行人剪影/湿润路面）属于场景内合理推断，允许补入。",
+        "8K质感\"为空话词，转化为具体镜头/光线描述替代，不直接写入。\",\n    \"injection_location\"": "body"
+      }
+    ],
+    "buffers": [
+      {
+        "label": "双光源临界时刻强化描述",
+        "picked": true,
+        "reason": "query 已 implied 黄昏+霓虹渐亮，这是场景内核心细节，补入",
+        "霓虹刚亮、余晖未散的10分钟临界窗口\"是合理推断，也是差异化钩子#1，必须上场\",\n    \"phrases\"": [
+          "the exact transitional moment when neon signs just flicker on while the last warm sunlight still lingers on glass facades",
+          "dual light sources competing: warm amber sunset from the right rear, cool cyan neon from street level"
+        ]
+      },
+      {
+        "label": "行人运动模糊剪影",
+        "picked": true,
+        "reason": "query 写了",
+        "行人匆匆\"，剪影化+运动模糊是对\"匆忙\"的视觉翻译，同时规避 AI 不自然肢体/人脸 cliché，必须上场\",\n    \"phrases\"": [
+          "pedestrians as motion-blurred silhouettes, no clear faces, suggesting hurried movement"
+        ]
+      },
+      {
+        "label": "湿润路面倒影",
+        "picked": true,
+        "reason": "query 未明确提及，但",
+        "城市黄昏+霓虹\"场景中湿润路面是增加层次感和真实感的标准手段，属于 implied 细节，且不违反 augmentation_discipline（未新增角色/品牌/slogan）\",\n    \"phrases\"": [
+          "slightly wet pavement reflecting fragmented neon colors and warm sunset glow"
+        ]
+      },
+      {
+        "label": "传感器颗粒感（手机纪实感）",
+        "picked": true,
+        "reason": "query 明确要求",
+        "像手机现场拍摄的高级照片\"，颗粒感是手机传感器在低光环境下的真实特征，是\"纪实感\"的视觉载体，必须上场；同时用于区分\"cinematic调色\"cliché\",\n    \"phrases\"": [
+          "subtle sensor grain in shadow areas, as if shot on a high-end smartphone in low light"
+        ]
+      },
+      {
+        "label": "万金油质量词（8K/cinematic/masterpiece）",
+        "picked": false,
+        "reason": "query 中出现",
+        "8K质感\"和\"cinematic\"暗示，但这些是 prompt 垃圾词，不传递视觉信息。已通过具体镜头/光线/材质描述替代，不写入 final_prompt\",\n    \"phrases\"": []
+      },
+      {
+        "label": "具体城市地标",
+        "picked": false,
+        "reason": "query 未指定城市，补入具体地标（如上海外滩/北京国贸）属于新增未 implied 的设定，违反 augmentation_discipline，不上场",
+        "phrases": []
+      }
+    ],
+    "final_prompt": {
+      "prompt": "A wide urban dusk cityscape shot in a documentary photojournalism style, capturing the critical twilight moment when the last warm amber glow of the setting sun still bathes distant glass skyscrapers while neon signs and street lights begin flickering on — a dual-light-source threshold moment where natural and artificial light coexist in dramatic tension. The street level is alive with hurrying pedestrians rendered as motion-blurred silhouettes against the luminous backdrop, their reflections shimmering in the wet pavement below, puddles mirroring the gradient sky and glowing storefronts. The composition stretches horizontally with generous negative space — particularly in the upper portion of the frame and along the left third — intentionally left open to accommodate text overlay. The atmosphere feels like a spontaneous high-end smartphone capture: sharp foreground details, slight sensor grain adding authenticity and documentary texture, strong chiaroscuro contrast between the deep blue-purple shadows of the street and the fiery orange-pink horizon. The overall mood is cinematic yet raw, real, and immediate — the kind of image that stops a social media scroll. Render the following text elements directly into the image at their specified positions: large bold headline in a modern Chinese sans-serif typeface at a prominent upper or center-left position reading \"城市里的安静时刻\"; subtitle text below or near the headline reading \"黄昏，总能治愈一天的匆忙\"; and a small watermark at the bottom-right corner reading \"@龙爪槐守望者real · 生活观察\". All three text strings must appear verbatim, with no translation, no punctuation changes, and no omissions. The image is strictly 16:9 horizontal format; do not crop or adjust the aspect ratio.",
+      "size": "1536x1024",
+      "quality": "high",
+      "n": 1,
+      "output_format": "jpeg"
+    }
+  },
+  "config_snapshot": {
+    "skill_id": "v3-diagnose-then-design",
+    "skill_md_hash": "7d304b66",
+    "hard_rules": [
+      {
+        "id": "ratio_lock",
+        "title": "比例必须显式锁定",
+        "enabled": true,
+        "trigger_keywords": [
+          "16:9",
+          "9:16",
+          "3:4",
+          "1080",
+          "1920",
+          "比例"
+        ],
+        "trigger_hint": "query 中出现明确比例参数",
+        "rule": "改写 prompt 末尾必须重复一次比例参数并声明【严格按此比例输出，不得自动调整】",
+        "source_case": "文档 2 优设 #3 / cherry #9"
+      },
+      {
+        "id": "celeb_replace",
+        "title": "名人词替换 / 规避",
+        "enabled": true,
+        "trigger_keywords": [],
+        "trigger_hint": "query 含真实名人姓名或 IP 角色全名（如 神仙姐姐 / 韦小宝 / 至尊宝）",
+        "rule": "在 final_prompt 中将名人姓名替换为对应特征描述，原词放进 [removed_term] 注释",
+        "source_case": "文档 2 cherry #2 / cherry #6"
+      },
+      {
+        "id": "info_preserve",
+        "title": "扩写不得丢失原文信息",
+        "enabled": true,
+        "trigger_keywords": [],
+        "trigger_hint": "query 长度 > 80 字 或 含明确标题/副标题/文案",
+        "rule": "extract 阶段先列出原 query 中所有 标题/文案/数字/品牌词；final_prompt 必须逐项保留，缺一项视为失败",
+        "source_case": "文档 2 公子龙 #6 / #9，cherry #5"
+      },
+      {
+        "id": "no_brand_logo_infringe",
+        "title": "禁止生成真实商业商标",
+        "enabled": false,
+        "trigger_keywords": [],
+        "trigger_hint": "query 含真实商业品牌商标",
+        "rule": "禁止生成可识别的真实商标，替换为通用风格描述",
+        "source_case": "通用合规"
+      },
+      {
+        "id": "augmentation_discipline",
+        "title": "扩写纪律（与 target_model profile 联动）",
+        "enabled": true,
+        "trigger_keywords": [],
+        "trigger_hint": "所有 query 默认命中，逐条判断具体度",
+        "rule": "先判断 query 具体度：已具体（含明确的主体/场景/风格/参数 ≥ 3 项）时，final_prompt 只做归一化与 target_model 结构对齐，禁止新增未 implied 的角色/物体/品牌/slogan/palette；粗略时允许补 composition / framing / polish / practical layout，但同样禁止加未 implied 的品牌与虚构事实。违反视为失败，需回退到原 query 语义。",
+        "source_case": "OpenAI gpt-image-2 best practices（augmentation discipline）"
+      }
+    ],
+    "vertical_hints": [],
+    "model_profile_hash": "ecdaaba6",
+    "target_model": "gpt-image-2"
+  },
+  "image_jobs": {
+    "baseline": {
+      "variant": "baseline",
+      "status": "completed",
+      "prompt": "生成一张微博新闻/热点配图，横幅宽图，严格16:9比例，专业纪实摄影风格。\n\n场景：城市黄昏的天际线，霓虹灯渐亮，行人匆匆，远处高楼反射着落日余晖，真实现场感强，光影对比戏剧化。\n\n风格：新闻纪实感，像手机现场拍摄的高级照片，冲击力与真实并存，锐利细节，8K质感。\n\n文字水印：\n- 大标题（醒目位置，黑体或现代字体）：“城市里的安静时刻”\n- 副文：“黄昏，总能治愈一天的匆忙”\n- 水印（底部或右下）：“@龙爪槐守望者real · 生活观察”\n\n画面横向延展，留白充足便于文字，整体专业高级，像真实微博热帖配图。",
+      "params": {
+        "size": "auto",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "task_id": "307a2cb3-531d-4155-aca7-0c0dfafdd923",
+      "urls": [
+        "https://assets-persist.lovart.ai/agent_images/81f1a228-a823-4e66-8363-cbee1ed93fbd.png"
+      ],
+      "local_paths": [],
+      "cost": 0.0358,
+      "started_at": 1777272599182,
+      "finished_at": 1777272650783,
+      "latency_ms": 51601,
+      "error": null
+    }
+  }
+}

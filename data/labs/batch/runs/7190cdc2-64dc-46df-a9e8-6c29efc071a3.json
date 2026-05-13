@@ -1,0 +1,1187 @@
+{
+  "id": "7190cdc2-64dc-46df-a9e8-6c29efc071a3",
+  "created_at": "2026-04-27T12:16:16.401Z",
+  "name": "复杂 prompt 测试",
+  "query_mode": "derive",
+  "purpose": "测评不同 垂类型下、不同场景下的效果。以及不同 Prompt 的复杂度的效果。 你需要考虑不同垂直领域下的用词丰富度。每个query 字数超过 300",
+  "queries": [
+    "在一片广袤的北欧原始森林中，清晨第一缕阳光穿透浓密的云杉与白桦树冠，将金色光芒洒落在布满苔藓的岩石和蜿蜒的溪流上。溪水清澈见底，水底的鹅卵石隐约可见，水面泛起细碎的涟漪。远处山峦叠嶂，薄雾缭绕于山腰，营造出如梦似幻的仙境氛围。前景有几株野生蘑菇和蕨类植物，露珠挂在叶尖晶莹剔透。整体画面采用超写实摄影风格，广角构图，景深丰富，色调偏冷绿，充满大自然的静谧与生命力。",
+    "一位身着传统汉服的年轻女子站在江南古镇的石拱桥上，手持一把绘有青花瓷纹样的油纸伞，伞面半遮面容，眼神温柔而悠远。桥下流水潺潺，乌篷船缓缓驶过，船夫头戴斗笠，身姿从容。两岸白墙黛瓦的徽派建筑倒映水中，粉墙上爬满了青藤，木质窗棂雕刻着精细的花鸟纹样。天空阴云密布，细雨如丝，整个画面笼罩在一层朦胧的烟雨之中。风格参考中国工笔画与写意水墨的融合，色调淡雅，意境深远，充满东方美学韵味。",
+    "未来都市夜景，赛博朋克风格，东京涩谷十字路口的超未来版本。高耸入云的摩天大楼外壁覆盖着密密麻麻的全息广告屏，日文、英文、中文霓虹字符交错闪烁，蓝紫色与橙红色的光晕将整条街道染成迷幻色彩。街道上行人如织，人群中混杂着仿生机器人，部分行人面部佩戴AR眼镜，身着发光材质的夸张服装。空中悬浮着无人机快递群和飞行出租车，尾焰拖出橙色光迹。地面湿润反光，倒映出上方所有灯光。画面采用超广角鱼眼镜头视角，极度细节化，电影级渲染质感，氛围压抑而充满张力。",
+    "高端商业美食摄影：一道精心摆盘的法式主菜——慢煮鸭胸配黑松露酱汁，鸭胸切面呈现完美的玫瑰粉色渐变，表皮金黄酥脆，纹理清晰可见。盘中以芹菜根泥为底，点缀着微型香草叶、可食用花卉和几滴浓缩红酒汁。餐盘为纯白哑光骨瓷，置于深色大理石桌面上，旁边摆放着银质刀叉和一杯深红色勃艮第葡萄酒，酒杯内壁挂着酒液痕迹。光线采用侧逆光，突出食材质感与光泽，背景虚化，整体色调沉稳奢华，符合米其林三星餐厅的视觉调性。",
+    "儿童绘本插画风格，描绘一只圆滚滚的小棕熊在秋天的森林里收集橡果。小熊穿着一件蓝色条纹背带裤，头上戴着一顶略大的红色贝雷帽，表情憨态可掬，两颊红扑扑的。它用胖乎乎的小爪子捧着一大堆橡果，脚边还散落着金黄色和橙红色的落叶。背景是温暖的秋日森林，阳光透过树叶形成斑驳光影，远处有一座小木屋冒着炊烟。整体风格温馨可爱，色彩饱和度高，线条圆润柔和，参考宫崎骏动画与北欧插画的混合风格，适合3-6岁儿童读物。",
+    "建筑效果图风格，展示一栋位于热带海滨悬崖上的现代极简主义别墅。建筑主体为纯白色清水混凝土结构，大面积落地玻璃幕墙将室内外景观无缝融合。无边际泳池从露台延伸至视觉上与海平面相接，水面倒映着夕阳的橙红色光芒。室外平台摆放着极简风格的柚木躺椅和遮阳伞，周围种植着热带棕榈树和龙血树。远处海面上帆船点点，天空云彩壮观，呈现出黄昏时分的绚烂色彩。画面采用三点透视构图，专业建筑渲染质感，光影细腻，整体传达出高端度假的奢适氛围。",
+    "时尚大片风格，拍摄地点为冰岛黑沙滩。模特是一位高挑的北欧女性，身着顶级设计师品牌的黑色皮革长风衣，内搭白色高领针织衫，脚踩粗跟皮靴。她站在玄武岩柱群前，海浪拍打着礁石，水雾弥漫。模特姿态强势，侧脸仰望远方，长发被海风吹起，极具张力。摄影师使用中画幅相机，85mm镜头，光圈f/2，自然光拍摄，天空阴沉呈铅灰色，与黑色沙滩、黑色服装形成统一的暗色调。后期调色偏冷，对比度高，颗粒感轻微，整体风格参考Vogue Italia大片美学。",
+    "中国传统节日——元宵节的热闹街市场景，工笔重彩画风格。画面中央是一条张灯结彩的古代街道，两侧店铺林立，挂满了各式各样的红灯笼、宫灯和走马灯，灯光将夜空映照得通红。街道上人声鼎沸，男女老少身着节日盛装，孩童手提兔子灯嬉戏追逐，小贩叫卖汤圆、糖葫芦和花灯。远处有舞龙舞狮的队伍，锣鼓喧天，烟花在夜空中绽放。画面构图饱满，人物众多，细节丰富，色彩以红、金、橙为主调，充满喜庆热烈的节日气氛，笔触精细，参考《清明上河图》的叙事性构图方式。",
+    "科学可视化风格，展示人体神经系统的宏观与微观结合图像。画面中央是一个半透明的人体轮廓，内部神经网络以发光的蓝白色线条呈现，从大脑皮层延伸至脊髓，再分支至四肢末梢，如同宇宙星云般壮观。局部放大区域展示单个神经元的精细结构：树突、轴突、髓鞘和突触小泡均清晰可辨，突触间隙中神经递质分子以粒子形式飞散。背景为深邃的宇宙黑，整体色调以冷蓝、青白和少量金色点缀为主。风格融合医学插画的严谨性与艺术海报的视觉冲击力，适用于科普教育或医疗品牌宣传。",
+    "游戏概念原画风格，描绘一位来自沙漠文明的女性战士角色。她身着由黄铜片甲与金色丝绸混合制成的战甲，甲片边缘雕刻着古老的楔形文字符文，在阳光下熠熠生辉。腰间悬挂着一把弯月形宝刀，刀鞘镶嵌着绿松石与红玛瑙。她站在沙漠废墟的高台上，背后是残破的巨型石柱和半埋于沙中的古代神庙，远处沙尘暴正在逼近，天空呈现出诡异的橙黄色。人物面部轮廓立体，眼神坚毅，额头有部落纹身图案。整体风格参考《刺客信条：起源》的美术方向，细节极度丰富，光影戏剧化。",
+    "极简主义产品摄影，拍摄对象为一款高端香水瓶。瓶身设计灵感来源于建筑几何美学，整体呈不规则多面体切割造型，玻璃材质透明度极高，内部液体呈淡琥珀色。瓶盖为哑光黑色金属，刻有品牌logo的浮雕纹样。香水瓶置于纯白大理石底座上，背景为渐变的米白色，光线来自左上方的柔和漫射光，在瓶身上形成精致的折射光谱。整体构图居中，留白充足，画面干净克制，色调高冷优雅，充分体现产品的奢侈品质感，适用于高端杂志广告或电商详情页主视觉。",
+    "水彩插画风格，描绘一个欧洲小镇的夏日午后。画面中心是一家开在转角处的小书店，橱窗里摆满了各色书籍，门口摆着几盆盛开的天竺葵，红色花朵在阳光下鲜艳欲滴。书店旁边是一家咖啡馆，露天座位上坐着几位悠闲的顾客，有人在读报，有人在低声交谈，桌上摆着咖啡杯和可颂面包。街道由古老的鹅卵石铺就，两侧建筑外墙颜色各异，有奶油黄、粉橙色和淡蓝色。天空湛蓝，白云蓬松，阳光投下清晰的影子。整体风格轻盈明快，笔触灵动，水色晕染自然，充满生活气息与文艺情调。",
+    "工业摄影风格，展示一座现代化钢铁冶炼厂的内部生产场景。画面主体是一台巨型电弧炉正在出钢的瞬间，炽热的钢水如橙红色瀑布般倾泻而下，溅起无数火星，在昏暗的厂房内形成壮观的光源。工人身着防热服和面罩，在远处操控设备，人物与巨型机械的尺度对比强烈，凸显工业的宏伟与力量。厂房顶部的钢架结构在烟雾与光线中若隐若现，地面积有金属粉尘。整体色调以深灰、铁黑与炽热的橙红形成强烈对比，采用广角仰视构图，快门速度较慢以捕捉钢水流动的动态模糊，充满力量感与工业美学。",
+    "国潮插画风格，以敦煌飞天为主题创作现代艺术海报。画面中央是一位飞天仙女，身着改良版的敦煌壁画服饰，飘带以流体动态线条呈现，色彩从传统的石青、朱砂、赭石过渡到现代渐变的紫色与金色。仙女手持琵琶，姿态婀娜，周围环绕着祥云、莲花、石榴花和散落的花瓣。背景融合了敦煌洞窟的拱形结构与现代几何图形，整体构图饱满而富有张力。字体设计融入传统篆刻元素，整体风格在传统与现代之间寻求平衡，色彩浓郁华丽，适合文化品牌或节日庆典的宣传物料。",
+    "航拍视角，展示亚马逊雨林与现代农业开发区的边界地带。画面从高空俯瞰，左侧是密不透风的原始热带雨林，树冠层次丰富，绿色深浅各异，偶有高大的巴西坚果树冠突出于林冠之上。右侧是已被开垦的大豆农田，整齐划一的农业地块呈几何形状延伸至地平线，颜色从嫩绿到枯黄不等，显示出不同生长阶段。两者之间的边界线清晰而触目惊心，部分区域可见焚烧后的黑色焦土和倒伏的树木。远处有一条红土公路蜿蜒穿过，卡车扬起红色尘土。整体画面具有强烈的视觉冲击力，引发对环境保护与经济发展矛盾的深刻思考，摄影纪实风格。",
+    "室内设计效果图，展示一间日式侘寂风格的冥想茶室。空间面积约20平方米，整体色调以米白、原木色、炭灰和苔藓绿为主。地面铺设手工烧制的不规则陶砖，中央放置一张低矮的黑胡桃木茶桌，桌面有自然的木纹和细微裂纹，旁边摆放着几个蒲团坐垫。一侧墙面为原始质感的硅藻泥，另一侧是落地推拉式障子门，透过半透明的和纸可见室外竹林的绰约身影。角落里摆放着一个粗陶花器，插着几枝枯枝和苔藓球。自然光从天窗斜射而入，光影静谧而禅意十足，整体空间传达出极度克制的东方美学与内心宁静。",
+    "体育运动摄影风格，捕捉NBA篮球比赛中的高光时刻。画面定格在一位球员完成暴扣的瞬间：球员身体腾空至篮筐高度，右手持球高举，手腕下压即将完成扣篮动作，面部表情充满爆发力与专注。球场灯光从上方打下，在球员身上形成强烈的明暗对比，汗水在灯光下飞溅成细小水珠。背景是虚化的观众席，五彩的荧光棒和手机闪光灯形成梦幻般的光点海洋。对手球员在下方跳起试图封盖，肢体动态充满张力。采用1/2000秒快门速度冻结动作，长焦镜头压缩空间，整体画面充满力量感与戏剧张力，参考Getty Images体育摄影美学。",
+    "复古科幻插画风格，描绘1960年代人们想象中的2000年太空城市生活场景。画面展示一座建造在月球表面的圆顶殖民地城市，巨大的透明穹顶内部是一座微型城市，有摩天大楼、公园、单轨列车和飞行汽车。穹顶外是月球荒芜的灰色地表，宇航员驾驶着圆形飞碟在穹顶外巡逻，远处地球悬挂在漆黑的宇宙中，蓝白相间，美丽壮观。整体风格参考上世纪六七十年代的科幻杂志封面插画，色彩鲜艳但略带褪色感，线条硬朗，充满那个时代特有的乐观主义与对未来的天真想象，印刷网点纹理增加复古质感。",
+    "高端珠宝品牌广告大片风格，主角是一套以深海为灵感设计的蓝宝石与钻石套装珠宝，包含项链、耳环和手镯。项链主石为一颗15克拉的斯里兰卡皇家蓝蓝宝石，周围镶嵌着共计8克拉的梨形与圆形钻石，铂金底托雕刻着精细的海浪与珊瑚纹样。模特为一位气质高雅的东方女性，皮肤白皙，着深蓝色无肩带礼服，珠宝在颈部与耳畔熠熠生辉。拍摄场景为豪华游艇甲板，夜晚海风轻拂，背景是深邃的大海与繁星点点的夜空。摄影采用专业珠宝灯光系统，多角度补光确保宝石火彩完美呈现，整体画面奢华而神秘，参考Cartier与Tiffany顶级广告美学。"
+  ],
+  "skill_ids": [
+    "F10-brief-and-fields-en",
+    "F11-direct-api",
+    "F5-labeled-spec"
+  ],
+  "scoring_dimensions": [
+    {
+      "id": "overall",
+      "label": "总体观感",
+      "description": ""
+    },
+    {
+      "id": "intent",
+      "label": "意图还原度",
+      "description": "prompt 是否抓住了用户原意"
+    }
+  ],
+  "cells": [
+    {
+      "query_idx": 0,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing editorial photo of a pristine Nordic forest at dawn.\n\nStyle/medium: photorealistic landscape photography, hyper-realistic nature documentary style, wide-angle lens\nComposition: wide-angle establishing shot, deep depth of field, foreground with wild mushrooms and ferns, midground with moss-covered rocks and winding stream, background with layered mountain ridges\nSubject: dense spruce and birch forest canopy, morning light piercing through, moss-covered boulders, clear stream with visible pebbles on riverbed, delicate water ripples\nScene/backdrop: vast Nordic primeval forest at dawn, rolling mountains in distance, thin mist lingering at mountain waists, ethereal fairy-tale atmosphere\nLighting/mood: first rays of morning sunlight breaking through canopy, golden light casting onto moss and water, soft diffused glow, serene and quietly alive\nColor palette: cool green as dominant base, golden sunlight as warm accent, misty blue-gray in background, earthy browns from rocks and forest floor\nMaterials/textures: velvety moss on rocks, glossy water surface with subtle ripples, translucent dewdrops on fern fronds and mushroom caps, rough bark texture\nAvoid: oversaturated colors, artificial HDR look, plastic vegetation, deformed water reflections, 8K stuffer aesthetic",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e84cd65d-fe82-4cd9-92b7-17ee722b5935/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing editorial photo of a pristine Nordic forest at dawn.\\n\\nStyle/medium: photorealistic landscape photography, hyper-realistic nature documentary style, wide-angle lens\\nComposition: wide-angle establishing shot, deep depth of field, foreground with wild mushrooms and ferns, midground with moss-covered rocks and winding stream, background with layered mountain ridges\\nSubject: dense spruce and birch forest canopy, morning light piercing through, moss-covered boulders, clear stream with visible pebbles on riverbed, delicate water ripples\\nScene/backdrop: vast Nordic primeval forest at dawn, rolling mountains in distance, thin mist lingering at mountain waists, ethereal fairy-tale atmosphere\\nLighting/mood: first rays of morning sunlight breaking through canopy, golden light casting onto moss and water, soft diffused glow, serene and quietly alive\\nColor palette: cool green as dominant base, golden sunlight as warm accent, misty blue-gray in background, earthy browns from rocks and forest floor\\nMaterials/textures: velvety moss on rocks, glossy water surface with subtle ripples, translucent dewdrops on fern fronds and mushroom caps, rough bark texture\\nAvoid: oversaturated colors, artificial HDR look, plastic vegetation, deformed water reflections, 8K stuffer aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11078
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "在一片广袤的北欧原始森林中，清晨第一缕阳光穿透浓密的云杉与白桦树冠，将金色光芒洒落在布满苔藓的岩石和蜿蜒的溪流上。溪水清澈见底，水底的鹅卵石隐约可见，水面泛起细碎的涟漪。远处山峦叠嶂，薄雾缭绕于山腰，营造出如梦似幻的仙境氛围。前景有几株野生蘑菇和蕨类植物，露珠挂在叶尖晶莹剔透。整体画面采用超写实摄影风格，广角构图，景深丰富，色调偏冷绿，充满大自然的静谧与生命力。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e31bed3e-f63a-4b3a-ac76-202899b12f75/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: photorealistic-natural\nAsset type: editorial landscape photography, wide print\nPrimary request: ultra-realistic wide-angle morning scene of a pristine Nordic primeval forest with golden light, mossy rocks, winding stream, and misty mountains\nScene/backdrop: vast Nordic primeval forest, dense spruce and birch canopy, moss-covered boulders, crystal-clear winding stream, layered mountains in distance with thin mist at mid-height\nSubject: wild mushrooms and ferns in foreground, dewdrops glistening on leaf tips, visible pebbles through transparent water, gentle ripples on stream surface\nStyle/medium: photorealistic nature photography, ultra-detailed landscape\nComposition/framing: wide-angle, rich depth of field, layered foreground to background\nLighting/mood: first morning sunlight piercing through canopy, golden rays on moss and water, dreamy ethereal atmosphere, serene and alive\nColor palette: cool green dominant, golden sunlight accents, soft misty grays, rich moss greens, crystal water blues\nMaterials/textures: velvety moss, glossy dewdrops, smooth river pebbles, rough bark, delicate fern fronds, transparent flowing water\nConstraints: preserve the ethereal misty mountain layers, maintain the golden morning light quality, keep foreground botanical details sharp\nAvoid: oversaturated colors, artificial-looking dew, plastic vegetation, oversharpening, watermark, cartoonish rendering",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/5227320e-d760-4faa-8d05-324c085d9ef2/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial landscape photography, wide print\\nPrimary request: ultra-realistic wide-angle morning scene of a pristine Nordic primeval forest with golden light, mossy rocks, winding stream, and misty mountains\\nScene/backdrop: vast Nordic primeval forest, dense spruce and birch canopy, moss-covered boulders, crystal-clear winding stream, layered mountains in distance with thin mist at mid-height\\nSubject: wild mushrooms and ferns in foreground, dewdrops glistening on leaf tips, visible pebbles through transparent water, gentle ripples on stream surface\\nStyle/medium: photorealistic nature photography, ultra-detailed landscape\\nComposition/framing: wide-angle, rich depth of field, layered foreground to background\\nLighting/mood: first morning sunlight piercing through canopy, golden rays on moss and water, dreamy ethereal atmosphere, serene and alive\\nColor palette: cool green dominant, golden sunlight accents, soft misty grays, rich moss greens, crystal water blues\\nMaterials/textures: velvety moss, glossy dewdrops, smooth river pebbles, rough bark, delicate fern fronds, transparent flowing water\\nConstraints: preserve the ethereal misty mountain layers, maintain the golden morning light quality, keep foreground botanical details sharp\\nAvoid: oversaturated colors, artificial-looking dew, plastic vegetation, oversharpening, watermark, cartoonish rendering\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 12595
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original editorial photo of a young woman in traditional Hanfu standing on a stone arch bridge in a Jiangnan water town.\n\nStyle/medium: Chinese gongbi painting meets xieyi ink wash, delicate brushwork with soft ink diffusion, Eastern aesthetic sensibility\nComposition: medium shot at eye level, woman centered on stone arch bridge, umbrella framing face, river and boat in lower third\nSubject: young woman in traditional Hanfu, holding an oil-paper umbrella painted with blue-and-white porcelain patterns, umbrella partially covering face, gentle and distant gaze\nScene/backdrop: Jiangnan water town, stone arch bridge over flowing river, black-awning boat passing underneath, boatman wearing bamboo hat, white-walled Hui-style architecture with dark tiles reflected in water, pink walls covered in green ivy, wooden window lattices carved with floral and bird motifs\nLighting/mood: overcast sky with dense clouds, fine drizzle like silk threads, misty rain atmosphere enveloping the scene, soft and ethereal mood\nColor palette: muted and elegant tones, soft grays and blues as base, warm touches of traditional Hanfu colors as accent, ink wash gradations\nMaterials/textures: flowing silk fabric of Hanfu, oiled paper texture of umbrella, weathered stone of bridge, smooth water surface with reflections, carved wood grain of window lattices\nAvoid: saturated neon colors, harsh shadows, modern elements, western architectural details, oversharpening, 8K stuffer aesthetic",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/02f2077f-76e7-497e-97ec-54dc4f560ef1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original editorial photo of a young woman in traditional Hanfu standing on a stone arch bridge in a Jiangnan water town.\\n\\nStyle/medium: Chinese gongbi painting meets xieyi ink wash, delicate brushwork with soft ink diffusion, Eastern aesthetic sensibility\\nComposition: medium shot at eye level, woman centered on stone arch bridge, umbrella framing face, river and boat in lower third\\nSubject: young woman in traditional Hanfu, holding an oil-paper umbrella painted with blue-and-white porcelain patterns, umbrella partially covering face, gentle and distant gaze\\nScene/backdrop: Jiangnan water town, stone arch bridge over flowing river, black-awning boat passing underneath, boatman wearing bamboo hat, white-walled Hui-style architecture with dark tiles reflected in water, pink walls covered in green ivy, wooden window lattices carved with floral and bird motifs\\nLighting/mood: overcast sky with dense clouds, fine drizzle like silk threads, misty rain atmosphere enveloping the scene, soft and ethereal mood\\nColor palette: muted and elegant tones, soft grays and blues as base, warm touches of traditional Hanfu colors as accent, ink wash gradations\\nMaterials/textures: flowing silk fabric of Hanfu, oiled paper texture of umbrella, weathered stone of bridge, smooth water surface with reflections, carved wood grain of window lattices\\nAvoid: saturated neon colors, harsh shadows, modern elements, western architectural details, oversharpening, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 12817
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "一位身着传统汉服的年轻女子站在江南古镇的石拱桥上，手持一把绘有青花瓷纹样的油纸伞，伞面半遮面容，眼神温柔而悠远。桥下流水潺潺，乌篷船缓缓驶过，船夫头戴斗笠，身姿从容。两岸白墙黛瓦的徽派建筑倒映水中，粉墙上爬满了青藤，木质窗棂雕刻着精细的花鸟纹样。天空阴云密布，细雨如丝，整个画面笼罩在一层朦胧的烟雨之中。风格参考中国工笔画与写意水墨的融合，色调淡雅，意境深远，充满东方美学韵味。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/11b1ffe8-8962-4d1b-aaae-a2eca58c0169/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: photorealistic-natural\nAsset type: fine art editorial photo, suitable for book cover or art print\nPrimary request: a young woman in traditional Hanfu standing on a stone arch bridge in a Jiangnan water town, holding an oil-paper umbrella with blue-and-white porcelain patterns, umbrella partially covering her face, gentle and distant gaze\nScene/backdrop: Jiangnan ancient water town, stone arch bridge over a canal, black-awning boats (wupeng boats) passing slowly below, boatman wearing bamboo hat, white-walled black-tiled Hui-style architecture with climbing ivy on pink walls, wooden window frames with delicate bird-and-flower carvings\nSubject: young woman in traditional Hanfu, delicate facial features partially obscured by umbrella, serene expression, flowing silk robes\nStyle/medium: fusion of Chinese gongbi (meticulous brushwork) and xieyi (freehand ink wash) painting aesthetics, photorealistic with painterly quality\nComposition/framing: medium shot from eye-level, bridge as leading line, subject positioned slightly off-center, depth through layered background of boats and buildings\nLighting/mood: overcast diffused light, misty rainy atmosphere, soft and melancholic, ethereal and contemplative\nColor palette: muted ink-wash tones, soft grays and blues, pale pink walls, dark roof tiles, subtle green ivy, desaturated overall\nMaterials/textures: smooth silk Hanfu fabric, wet stone bridge surface, aged wood textures, translucent umbrella paper, water reflections, mist droplets\nConstraints: preserve the traditional Hanfu details, maintain the blue-and-white porcelain patterns on the umbrella, keep the misty Jiangnan atmosphere\nAvoid: oversaturated colors, modern elements, bright sunlight, sharp shadows, anime style, western architectural elements",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/cd6b808f-9c52-4f0e-9438-d084aeafc40c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: fine art editorial photo, suitable for book cover or art print\\nPrimary request: a young woman in traditional Hanfu standing on a stone arch bridge in a Jiangnan water town, holding an oil-paper umbrella with blue-and-white porcelain patterns, umbrella partially covering her face, gentle and distant gaze\\nScene/backdrop: Jiangnan ancient water town, stone arch bridge over a canal, black-awning boats (wupeng boats) passing slowly below, boatman wearing bamboo hat, white-walled black-tiled Hui-style architecture with climbing ivy on pink walls, wooden window frames with delicate bird-and-flower carvings\\nSubject: young woman in traditional Hanfu, delicate facial features partially obscured by umbrella, serene expression, flowing silk robes\\nStyle/medium: fusion of Chinese gongbi (meticulous brushwork) and xieyi (freehand ink wash) painting aesthetics, photorealistic with painterly quality\\nComposition/framing: medium shot from eye-level, bridge as leading line, subject positioned slightly off-center, depth through layered background of boats and buildings\\nLighting/mood: overcast diffused light, misty rainy atmosphere, soft and melancholic, ethereal and contemplative\\nColor palette: muted ink-wash tones, soft grays and blues, pale pink walls, dark roof tiles, subtle green ivy, desaturated overall\\nMaterials/textures: smooth silk Hanfu fabric, wet stone bridge surface, aged wood textures, translucent umbrella paper, water reflections, mist droplets\\nConstraints: preserve the traditional Hanfu details, maintain the blue-and-white porcelain patterns on the umbrella, keep the misty Jiangnan atmosphere\\nAvoid: oversaturated colors, modern elements, bright sunlight, sharp shadows, anime style, western architectural elements\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14163
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing cinematic still of a hyper-futuristic Shibuya Crossing in a cyberpunk Tokyo.\n\nStyle/medium: cinematic still, photorealistic with film grain texture, inspired by Blade Runner 2049 and Ghost in the Shell aesthetic\nComposition: ultra-wide-angle fisheye lens perspective, extreme low-angle looking upward at skyscrapers, deep depth of field capturing foreground to background detail\nSubject: dense crowd of pedestrians mixed with humanoid androids, some wearing AR glasses and luminescent futuristic clothing, walking across the iconic intersection\nScene/backdrop: hyper-futuristic Shibuya Crossing at night, towering skyscrapers with wall-to-wall holographic advertising screens covering every facade\nLighting/mood: harsh neon glow from thousands of screens, blue-violet and orange-red light pollution washing over the street, oppressive and tense atmosphere\nColor palette: cool blue-violet as dominant base, warm orange-red neon as accent highlights, wet asphalt reflecting both color families\nMaterials/textures: wet reflective pavement mirroring all overhead lights, holographic screen surfaces with slight pixelation, luminescent fabric textures on clothing\nText (verbatim): \"日文、英文、中文\"\nConstraints: maintain fisheye distortion throughout frame; all three scripts (Japanese, English, Chinese) must appear on signage\nAvoid: 8K stuffer language, plastic-looking crowds, deformed anatomy, oversaturated candy colors, clean daylight, cheerful mood",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f47131cf-b9fd-4e62-bafc-22c635fc99dc/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing cinematic still of a hyper-futuristic Shibuya Crossing in a cyberpunk Tokyo.\\n\\nStyle/medium: cinematic still, photorealistic with film grain texture, inspired by Blade Runner 2049 and Ghost in the Shell aesthetic\\nComposition: ultra-wide-angle fisheye lens perspective, extreme low-angle looking upward at skyscrapers, deep depth of field capturing foreground to background detail\\nSubject: dense crowd of pedestrians mixed with humanoid androids, some wearing AR glasses and luminescent futuristic clothing, walking across the iconic intersection\\nScene/backdrop: hyper-futuristic Shibuya Crossing at night, towering skyscrapers with wall-to-wall holographic advertising screens covering every facade\\nLighting/mood: harsh neon glow from thousands of screens, blue-violet and orange-red light pollution washing over the street, oppressive and tense atmosphere\\nColor palette: cool blue-violet as dominant base, warm orange-red neon as accent highlights, wet asphalt reflecting both color families\\nMaterials/textures: wet reflective pavement mirroring all overhead lights, holographic screen surfaces with slight pixelation, luminescent fabric textures on clothing\\nText (verbatim): \\\"日文、英文、中文\\\"\\nConstraints: maintain fisheye distortion throughout frame; all three scripts (Japanese, English, Chinese) must appear on signage\\nAvoid: 8K stuffer language, plastic-looking crowds, deformed anatomy, oversaturated candy colors, clean daylight, cheerful mood\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 13043
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "未来都市夜景，赛博朋克风格，东京涩谷十字路口的超未来版本。高耸入云的摩天大楼外壁覆盖着密密麻麻的全息广告屏，日文、英文、中文霓虹字符交错闪烁，蓝紫色与橙红色的光晕将整条街道染成迷幻色彩。街道上行人如织，人群中混杂着仿生机器人，部分行人面部佩戴AR眼镜，身着发光材质的夸张服装。空中悬浮着无人机快递群和飞行出租车，尾焰拖出橙色光迹。地面湿润反光，倒映出上方所有灯光。画面采用超广角鱼眼镜头视角，极度细节化，电影级渲染质感，氛围压抑而充满张力。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/a148b652-c254-4971-86d6-c43f962ff002/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 2,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: cinematic-still\nAsset type: concept art for film or game, ultra-wide panoramic\nPrimary request: futuristic cyberpunk night scene of a hyper-advanced Shibuya Crossing in Tokyo\nScene/backdrop: towering skyscrapers covered in dense holographic billboards, wet streets reflecting neon lights, flying vehicles in the sky\nSubject: dense crowd of pedestrians mixed with humanoid androids, some wearing AR glasses and luminescent avant-garde clothing, aerial drones and flying taxis with orange exhaust trails\nStyle/medium: cinematic digital art, film-grade rendering, photorealistic with stylized neon saturation\nComposition/framing: ultra-wide fisheye lens perspective, extreme low angle looking up at skyscrapers, deep depth of field with layered foreground-midground-background\nLighting/mood: harsh artificial neon lighting from holographic screens, blue-purple and orange-red color cast, dramatic high-contrast shadows, oppressive yet energetic atmosphere\nColor palette: dominant electric blue and violet + warm orange and crimson accents + deep blacks + reflective wet surface highlights\nMaterials/textures: wet asphalt with mirror-like reflections, holographic screen glow, luminescent fabric textures, metallic android surfaces, glass and steel architecture\nText (verbatim): \"日文、英文、中文霓虹字符\"\nConstraints: maintain the fisheye distortion effect, preserve the dense layered composition of crowd and architecture, keep the wet ground reflections accurate\nAvoid: daylight or natural sunlight, clean dry streets, sparse minimalist composition, cheerful bright mood, low-detail crowd rendering, watermark",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/6a99443f-be55-4812-a3fa-673c50a2922c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: cinematic-still\\nAsset type: concept art for film or game, ultra-wide panoramic\\nPrimary request: futuristic cyberpunk night scene of a hyper-advanced Shibuya Crossing in Tokyo\\nScene/backdrop: towering skyscrapers covered in dense holographic billboards, wet streets reflecting neon lights, flying vehicles in the sky\\nSubject: dense crowd of pedestrians mixed with humanoid androids, some wearing AR glasses and luminescent avant-garde clothing, aerial drones and flying taxis with orange exhaust trails\\nStyle/medium: cinematic digital art, film-grade rendering, photorealistic with stylized neon saturation\\nComposition/framing: ultra-wide fisheye lens perspective, extreme low angle looking up at skyscrapers, deep depth of field with layered foreground-midground-background\\nLighting/mood: harsh artificial neon lighting from holographic screens, blue-purple and orange-red color cast, dramatic high-contrast shadows, oppressive yet energetic atmosphere\\nColor palette: dominant electric blue and violet + warm orange and crimson accents + deep blacks + reflective wet surface highlights\\nMaterials/textures: wet asphalt with mirror-like reflections, holographic screen glow, luminescent fabric textures, metallic android surfaces, glass and steel architecture\\nText (verbatim): \\\"日文、英文、中文霓虹字符\\\"\\nConstraints: maintain the fisheye distortion effect, preserve the dense layered composition of crowd and architecture, keep the wet ground reflections accurate\\nAvoid: daylight or natural sunlight, clean dry streets, sparse minimalist composition, cheerful bright mood, low-detail crowd rendering, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13525
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial food photograph of a meticulously plated French main course — slow-cooked duck breast with black truffle sauce.\n\nStyle/medium: fine-dining editorial food photography, Michelin three-star restaurant aesthetic, photorealistic\nComposition: 45-degree angle close-up, shallow depth of field, focus on the sliced duck breast, background softly blurred\nSubject: slow-cooked duck breast with perfect rose-pink gradient center, golden crispy skin with visible texture, celery root purée base, micro herbs, edible flowers, concentrated red wine jus drops\nScene/backdrop: white matte bone china plate on dark marble tabletop, silver knife and fork placed beside, deep red Burgundy wine glass with wine traces on inner wall\nLighting/mood: side backlight (rim light) emphasizing texture and sheen of ingredients, moody and luxurious atmosphere\nColor palette: warm rose-pink and golden brown as anchors, deep burgundy as accent, muted dark marble and white porcelain as base\nMaterials/textures: crispy seared duck skin with visible grain, velvety celery root purée, delicate micro herbs, matte bone china, polished silverware, wine glass condensation\nAvoid: oversaturated colors, plastic-looking food, harsh front lighting, cluttered composition, watermark, 8K stuffer aesthetic",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/96f8bccf-3e80-4e3e-8fad-b7f6a19dcdf5/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an editorial food photograph of a meticulously plated French main course — slow-cooked duck breast with black truffle sauce.\\n\\nStyle/medium: fine-dining editorial food photography, Michelin three-star restaurant aesthetic, photorealistic\\nComposition: 45-degree angle close-up, shallow depth of field, focus on the sliced duck breast, background softly blurred\\nSubject: slow-cooked duck breast with perfect rose-pink gradient center, golden crispy skin with visible texture, celery root purée base, micro herbs, edible flowers, concentrated red wine jus drops\\nScene/backdrop: white matte bone china plate on dark marble tabletop, silver knife and fork placed beside, deep red Burgundy wine glass with wine traces on inner wall\\nLighting/mood: side backlight (rim light) emphasizing texture and sheen of ingredients, moody and luxurious atmosphere\\nColor palette: warm rose-pink and golden brown as anchors, deep burgundy as accent, muted dark marble and white porcelain as base\\nMaterials/textures: crispy seared duck skin with visible grain, velvety celery root purée, delicate micro herbs, matte bone china, polished silverware, wine glass condensation\\nAvoid: oversaturated colors, plastic-looking food, harsh front lighting, cluttered composition, watermark, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11031
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "高端商业美食摄影：一道精心摆盘的法式主菜——慢煮鸭胸配黑松露酱汁，鸭胸切面呈现完美的玫瑰粉色渐变，表皮金黄酥脆，纹理清晰可见。盘中以芹菜根泥为底，点缀着微型香草叶、可食用花卉和几滴浓缩红酒汁。餐盘为纯白哑光骨瓷，置于深色大理石桌面上，旁边摆放着银质刀叉和一杯深红色勃艮第葡萄酒，酒杯内壁挂着酒液痕迹。光线采用侧逆光，突出食材质感与光泽，背景虚化，整体色调沉稳奢华，符合米其林三星餐厅的视觉调性。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/7e9f2912-93ea-4e3f-bd6a-646510c50f37/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 3,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: commercial food photography, fine-dining editorial\nPrimary request: meticulously plated French main course — sous-vide duck breast with black truffle sauce, sliced to reveal perfect rose-pink gradient interior, golden crispy skin with visible texture\nScene/backdrop: dark marble tabletop, blurred background suggesting Michelin-starred restaurant ambiance\nSubject: duck breast slices arranged on celery root purée base, garnished with micro herbs, edible flowers, and drops of reduced red wine sauce; white matte bone china plate; silver cutlery; Burgundy wine glass with wine stains on inner wall\nStyle/medium: high-end commercial food photography, fine-dining editorial\nComposition/framing: top-down 3/4 angle, shallow depth of field, focus on duck breast cross-section\nLighting/mood: side-backlight (rim light) emphasizing texture and gloss, moody and luxurious atmosphere\nColor palette: deep burgundy wine + rose-pink duck + golden crispy skin + white bone china + dark marble + green micro herbs\nMaterials/textures: crispy duck skin with visible pores, velvety celery purée, matte porcelain, polished silver, liquid wine stains\nConstraints: preserve the rose-pink gradient of duck breast, keep skin texture crisp and golden, maintain wine stains on glass interior\nAvoid: overcooked gray meat, plastic-looking food, flat lighting, oversaturated colors, watermark",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/9596926b-7ce1-4d0d-8ec8-be4235aa5d27/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: commercial food photography, fine-dining editorial\\nPrimary request: meticulously plated French main course — sous-vide duck breast with black truffle sauce, sliced to reveal perfect rose-pink gradient interior, golden crispy skin with visible texture\\nScene/backdrop: dark marble tabletop, blurred background suggesting Michelin-starred restaurant ambiance\\nSubject: duck breast slices arranged on celery root purée base, garnished with micro herbs, edible flowers, and drops of reduced red wine sauce; white matte bone china plate; silver cutlery; Burgundy wine glass with wine stains on inner wall\\nStyle/medium: high-end commercial food photography, fine-dining editorial\\nComposition/framing: top-down 3/4 angle, shallow depth of field, focus on duck breast cross-section\\nLighting/mood: side-backlight (rim light) emphasizing texture and gloss, moody and luxurious atmosphere\\nColor palette: deep burgundy wine + rose-pink duck + golden crispy skin + white bone china + dark marble + green micro herbs\\nMaterials/textures: crispy duck skin with visible pores, velvety celery purée, matte porcelain, polished silver, liquid wine stains\\nConstraints: preserve the rose-pink gradient of duck breast, keep skin texture crisp and golden, maintain wine stains on glass interior\\nAvoid: overcooked gray meat, plastic-looking food, flat lighting, oversaturated colors, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 12215
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original children's picture book illustration of a chubby brown bear collecting acorns in an autumn forest.\n\nStyle/medium: children's picture book illustration, blend of Studio Ghibli animation warmth with Nordic folk art simplicity, rounded soft linework, high color saturation, cute and cozy aesthetic suitable for ages 3-6\nComposition: medium shot centered on the bear, eye-level perspective, gentle depth of field with soft background elements\nSubject: round chubby brown bear with rosy pink cheeks, adorable expression, wearing blue striped overalls and a slightly oversized red beret, holding a pile of acorns in chubby paws\nScene/backdrop: warm autumn forest with golden and orange fallen leaves scattered around bear's feet, dappled sunlight filtering through tree canopy, small wooden cabin with smoke rising from chimney in the distance\nLighting/mood: warm golden hour sunlight creating soft dappled patterns through leaves, cozy and heartwarming atmosphere\nColor palette: warm autumn golds and oranges as base, rich browns for bear fur, bright blue for overalls, vivid red for beret, soft rosy pink for cheeks\nMaterials/textures: soft rounded brushstrokes, matte paper texture, gentle color blending without harsh edges\nAvoid: realistic fur texture, sharp angular lines, dark shadows, complex perspective, watermark, 8K stuffer aesthetic",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/677e7776-6bc1-492d-9b02-64a04d31f4f7/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original children's picture book illustration of a chubby brown bear collecting acorns in an autumn forest.\\n\\nStyle/medium: children's picture book illustration, blend of Studio Ghibli animation warmth with Nordic folk art simplicity, rounded soft linework, high color saturation, cute and cozy aesthetic suitable for ages 3-6\\nComposition: medium shot centered on the bear, eye-level perspective, gentle depth of field with soft background elements\\nSubject: round chubby brown bear with rosy pink cheeks, adorable expression, wearing blue striped overalls and a slightly oversized red beret, holding a pile of acorns in chubby paws\\nScene/backdrop: warm autumn forest with golden and orange fallen leaves scattered around bear's feet, dappled sunlight filtering through tree canopy, small wooden cabin with smoke rising from chimney in the distance\\nLighting/mood: warm golden hour sunlight creating soft dappled patterns through leaves, cozy and heartwarming atmosphere\\nColor palette: warm autumn golds and oranges as base, rich browns for bear fur, bright blue for overalls, vivid red for beret, soft rosy pink for cheeks\\nMaterials/textures: soft rounded brushstrokes, matte paper texture, gentle color blending without harsh edges\\nAvoid: realistic fur texture, sharp angular lines, dark shadows, complex perspective, watermark, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11221
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "儿童绘本插画风格，描绘一只圆滚滚的小棕熊在秋天的森林里收集橡果。小熊穿着一件蓝色条纹背带裤，头上戴着一顶略大的红色贝雷帽，表情憨态可掬，两颊红扑扑的。它用胖乎乎的小爪子捧着一大堆橡果，脚边还散落着金黄色和橙红色的落叶。背景是温暖的秋日森林，阳光透过树叶形成斑驳光影，远处有一座小木屋冒着炊烟。整体风格温馨可爱，色彩饱和度高，线条圆润柔和，参考宫崎骏动画与北欧插画的混合风格，适合3-6岁儿童读物。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/226ad84b-8722-4bde-9f03-14a925ecaaf8/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 4,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: illustration\nAsset type: children's picture book illustration, print-ready\nPrimary request: a chubby little brown bear collecting acorns in an autumn forest, wearing blue striped overalls and an oversized red beret\nScene/backdrop: warm autumn forest with golden and orange fallen leaves on the ground, sunlight filtering through trees creating dappled shadows, a small wooden cabin with chimney smoke in the distance\nSubject: round, plump brown bear with rosy pink cheeks, endearing and innocent expression, chubby paws holding a pile of acorns, wearing blue striped overalls and a slightly oversized red beret\nStyle/medium: children's book illustration, blend of Studio Ghibli animation and Nordic illustration styles, rounded soft linework, high color saturation, warm and cozy aesthetic\nComposition/framing: mid-shot, bear as central focus with forest environment surrounding\nLighting/mood: warm golden hour sunlight filtering through autumn foliage, soft dappled light, cozy and heartwarming atmosphere\nColor palette: warm autumn tones (golden yellow, burnt orange, rust red) + sky blue overalls + bright red beret + soft browns for bear fur\nMaterials/textures: soft rounded brushstrokes, smooth color blending, no harsh edges, gentle texture suitable for children's visual comfort\nConstraints: maintain cute and innocent child-friendly aesthetic, bear must appear friendly and non-threatening, keep illustration style consistent with 3-6 age group picture books\nAvoid: realistic fur texture, sharp angular lines, dark or scary elements, photorealistic rendering, complex details overwhelming for young children",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/76b90576-00a9-4c9d-a040-44705a3c6258/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: illustration\\nAsset type: children's picture book illustration, print-ready\\nPrimary request: a chubby little brown bear collecting acorns in an autumn forest, wearing blue striped overalls and an oversized red beret\\nScene/backdrop: warm autumn forest with golden and orange fallen leaves on the ground, sunlight filtering through trees creating dappled shadows, a small wooden cabin with chimney smoke in the distance\\nSubject: round, plump brown bear with rosy pink cheeks, endearing and innocent expression, chubby paws holding a pile of acorns, wearing blue striped overalls and a slightly oversized red beret\\nStyle/medium: children's book illustration, blend of Studio Ghibli animation and Nordic illustration styles, rounded soft linework, high color saturation, warm and cozy aesthetic\\nComposition/framing: mid-shot, bear as central focus with forest environment surrounding\\nLighting/mood: warm golden hour sunlight filtering through autumn foliage, soft dappled light, cozy and heartwarming atmosphere\\nColor palette: warm autumn tones (golden yellow, burnt orange, rust red) + sky blue overalls + bright red beret + soft browns for bear fur\\nMaterials/textures: soft rounded brushstrokes, smooth color blending, no harsh edges, gentle texture suitable for children's visual comfort\\nConstraints: maintain cute and innocent child-friendly aesthetic, bear must appear friendly and non-threatening, keep illustration style consistent with 3-6 age group picture books\\nAvoid: realistic fur texture, sharp angular lines, dark or scary elements, photorealistic rendering, complex details overwhelming for young children\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13048
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an architectural visualization render of a modern minimalist villa perched on a tropical coastal cliff.\n\nStyle/medium: architectural visualization render, professional photorealistic CGI, clean lines and refined surfaces\nComposition: three-point perspective, wide-angle establishing shot, camera positioned at elevated viewpoint overlooking sea\nSubject: pure white fair-faced concrete villa with floor-to-ceiling glass curtain walls, seamless indoor-outdoor integration\nScene/backdrop: tropical coastal cliff setting, infinity pool extending from terrace to visually merge with sea horizon, distant sailboats on water, dramatic sunset sky with spectacular clouds\nLighting/mood: golden hour sunset, warm orange-red light reflecting on pool surface, soft ambient glow, luxurious resort atmosphere\nColor palette: warm orange and coral sunset tones against cool white concrete and blue sea, lush green tropical foliage as accent\nMaterials/textures: smooth white concrete with subtle aggregate texture, reflective glass panels, teak wood lounge furniture, rippling water surface\nAvoid: cartoonish rendering, oversaturated colors, artificial lighting artifacts, cluttered composition, generic stock photo aesthetic",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/eeca4d38-e81f-4902-86f1-56e6de9380ec/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an architectural visualization render of a modern minimalist villa perched on a tropical coastal cliff.\\n\\nStyle/medium: architectural visualization render, professional photorealistic CGI, clean lines and refined surfaces\\nComposition: three-point perspective, wide-angle establishing shot, camera positioned at elevated viewpoint overlooking sea\\nSubject: pure white fair-faced concrete villa with floor-to-ceiling glass curtain walls, seamless indoor-outdoor integration\\nScene/backdrop: tropical coastal cliff setting, infinity pool extending from terrace to visually merge with sea horizon, distant sailboats on water, dramatic sunset sky with spectacular clouds\\nLighting/mood: golden hour sunset, warm orange-red light reflecting on pool surface, soft ambient glow, luxurious resort atmosphere\\nColor palette: warm orange and coral sunset tones against cool white concrete and blue sea, lush green tropical foliage as accent\\nMaterials/textures: smooth white concrete with subtle aggregate texture, reflective glass panels, teak wood lounge furniture, rippling water surface\\nAvoid: cartoonish rendering, oversaturated colors, artificial lighting artifacts, cluttered composition, generic stock photo aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 9263
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "建筑效果图风格，展示一栋位于热带海滨悬崖上的现代极简主义别墅。建筑主体为纯白色清水混凝土结构，大面积落地玻璃幕墙将室内外景观无缝融合。无边际泳池从露台延伸至视觉上与海平面相接，水面倒映着夕阳的橙红色光芒。室外平台摆放着极简风格的柚木躺椅和遮阳伞，周围种植着热带棕榈树和龙血树。远处海面上帆船点点，天空云彩壮观，呈现出黄昏时分的绚烂色彩。画面采用三点透视构图，专业建筑渲染质感，光影细腻，整体传达出高端度假的奢适氛围。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/c7283e9f-71d0-4b01-8592-7fb2da1002f1/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 5,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: architectural-visualization\nAsset type: professional architectural rendering, hero image\nPrimary request: modern minimalist villa perched on a tropical coastal cliff at golden hour\nScene/backdrop: dramatic coastal cliff overlooking tropical ocean, distant sailboats on the water, spectacular sunset sky with layered clouds\nSubject: pure white fair-faced concrete structure with floor-to-ceiling glass curtain walls, infinity pool extending from terrace visually merging with sea level, water reflecting orange-red sunset glow\nStyle/medium: photorealistic architectural visualization, professional 3D render\nComposition/framing: three-point perspective, wide establishing shot, balanced foreground-to-background depth\nLighting/mood: golden hour sunset lighting, soft warm ambient glow, dramatic sky illumination, luxurious resort atmosphere\nColor palette: warm orange-red sunset reflections, pure white concrete, deep blue ocean, golden sky gradients, lush tropical greens\nMaterials/textures: smooth fair-faced concrete, reflective glass, rippling pool water, teak wood lounge furniture, tropical foliage\nConstraints: maintain seamless indoor-outdoor visual flow, preserve infinity pool horizon illusion, keep minimalist aesthetic\nAvoid: cartoonish rendering, oversaturated colors, cluttered composition, artificial lighting artifacts",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/31f67ba8-2cfa-4dbd-a344-be237c2f179e/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: architectural-visualization\\nAsset type: professional architectural rendering, hero image\\nPrimary request: modern minimalist villa perched on a tropical coastal cliff at golden hour\\nScene/backdrop: dramatic coastal cliff overlooking tropical ocean, distant sailboats on the water, spectacular sunset sky with layered clouds\\nSubject: pure white fair-faced concrete structure with floor-to-ceiling glass curtain walls, infinity pool extending from terrace visually merging with sea level, water reflecting orange-red sunset glow\\nStyle/medium: photorealistic architectural visualization, professional 3D render\\nComposition/framing: three-point perspective, wide establishing shot, balanced foreground-to-background depth\\nLighting/mood: golden hour sunset lighting, soft warm ambient glow, dramatic sky illumination, luxurious resort atmosphere\\nColor palette: warm orange-red sunset reflections, pure white concrete, deep blue ocean, golden sky gradients, lush tropical greens\\nMaterials/textures: smooth fair-faced concrete, reflective glass, rippling pool water, teak wood lounge furniture, tropical foliage\\nConstraints: maintain seamless indoor-outdoor visual flow, preserve infinity pool horizon illusion, keep minimalist aesthetic\\nAvoid: cartoonish rendering, oversaturated colors, cluttered composition, artificial lighting artifacts\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14334
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial fashion photo of a tall Nordic female model on Iceland's black sand beach.\n\nStyle/medium: editorial fashion photography in the spirit of Vogue Italia, medium format, 85mm lens, f/2 aperture, photorealistic\nComposition: medium shot with model as focal point, natural framing with basalt columns\nSubject: tall Nordic female model wearing a black leather trench coat from a top designer brand, white turtleneck sweater, chunky-heeled leather boots, strong posture, profile view looking into the distance, long hair blown by sea wind\nScene/backdrop: Iceland black sand beach with basalt column formations, waves crashing on rocks, sea mist in the air, overcast lead-gray sky\nLighting/mood: natural overcast daylight, soft diffused light, moody and dramatic atmosphere\nColor palette: unified dark tones with black sand, black clothing, and lead-gray sky as base, white turtleneck as accent, cool color grading with high contrast\nMaterials/textures: smooth leather coat with subtle sheen, knit texture of turtleneck, rough volcanic rock surfaces, wet sand, fine film grain\nAvoid: oversaturated colors, warm tones, bright sunlight, plastic-looking textures, watermark, 8K stuffer aesthetic",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e07423fc-c887-4196-b10e-8cd59d66c635/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an editorial fashion photo of a tall Nordic female model on Iceland's black sand beach.\\n\\nStyle/medium: editorial fashion photography in the spirit of Vogue Italia, medium format, 85mm lens, f/2 aperture, photorealistic\\nComposition: medium shot with model as focal point, natural framing with basalt columns\\nSubject: tall Nordic female model wearing a black leather trench coat from a top designer brand, white turtleneck sweater, chunky-heeled leather boots, strong posture, profile view looking into the distance, long hair blown by sea wind\\nScene/backdrop: Iceland black sand beach with basalt column formations, waves crashing on rocks, sea mist in the air, overcast lead-gray sky\\nLighting/mood: natural overcast daylight, soft diffused light, moody and dramatic atmosphere\\nColor palette: unified dark tones with black sand, black clothing, and lead-gray sky as base, white turtleneck as accent, cool color grading with high contrast\\nMaterials/textures: smooth leather coat with subtle sheen, knit texture of turtleneck, rough volcanic rock surfaces, wet sand, fine film grain\\nAvoid: oversaturated colors, warm tones, bright sunlight, plastic-looking textures, watermark, 8K stuffer aesthetic\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 12580
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "时尚大片风格，拍摄地点为冰岛黑沙滩。模特是一位高挑的北欧女性，身着顶级设计师品牌的黑色皮革长风衣，内搭白色高领针织衫，脚踩粗跟皮靴。她站在玄武岩柱群前，海浪拍打着礁石，水雾弥漫。模特姿态强势，侧脸仰望远方，长发被海风吹起，极具张力。摄影师使用中画幅相机，85mm镜头，光圈f/2，自然光拍摄，天空阴沉呈铅灰色，与黑色沙滩、黑色服装形成统一的暗色调。后期调色偏冷，对比度高，颗粒感轻微，整体风格参考Vogue Italia大片美学。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/47f8702c-c6cc-4c82-815b-ea8ad3bce7bf/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 6,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: editorial photo\nAsset type: fashion editorial for Vogue Italia, high-end magazine spread\nPrimary request: powerful fashion portrait of a tall Nordic woman in black leather trench coat on Iceland's black sand beach\nScene/backdrop: Reynisfjara black sand beach, basalt column formations, waves crashing against dark volcanic rocks, sea mist drifting\nSubject: tall Nordic female model with flowing long hair blown by sea wind, wearing premium designer black leather long trench coat over white turtleneck knit sweater, chunky-heeled leather boots, strong confident pose, profile looking upward toward horizon\nStyle/medium: medium format film photography, Vogue Italia editorial aesthetic\nComposition/framing: medium shot, 85mm lens, shallow depth of field at f/2, model positioned against basalt columns\nLighting/mood: natural overcast daylight, dramatic and moody atmosphere, leaden gray sky\nColor palette: unified dark tones - lead gray sky, black volcanic sand, black leather coat, white knit accent, cool desaturated palette\nMaterials/textures: smooth premium leather, soft knit fabric, wet black sand, rough basalt stone, sea spray mist\nConstraints: maintain dark tonal unity, model as focal point with strong posture, wind-blown hair motion\nAvoid: oversaturated colors, warm tones, plastic-looking leather, washed-out sky, amateur posing, excessive retouching",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/8b62e0b2-fbb8-4e06-a4c6-9f2d80c2fc74/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: editorial photo\\nAsset type: fashion editorial for Vogue Italia, high-end magazine spread\\nPrimary request: powerful fashion portrait of a tall Nordic woman in black leather trench coat on Iceland's black sand beach\\nScene/backdrop: Reynisfjara black sand beach, basalt column formations, waves crashing against dark volcanic rocks, sea mist drifting\\nSubject: tall Nordic female model with flowing long hair blown by sea wind, wearing premium designer black leather long trench coat over white turtleneck knit sweater, chunky-heeled leather boots, strong confident pose, profile looking upward toward horizon\\nStyle/medium: medium format film photography, Vogue Italia editorial aesthetic\\nComposition/framing: medium shot, 85mm lens, shallow depth of field at f/2, model positioned against basalt columns\\nLighting/mood: natural overcast daylight, dramatic and moody atmosphere, leaden gray sky\\nColor palette: unified dark tones - lead gray sky, black volcanic sand, black leather coat, white knit accent, cool desaturated palette\\nMaterials/textures: smooth premium leather, soft knit fabric, wet black sand, rough basalt stone, sea spray mist\\nConstraints: maintain dark tonal unity, model as focal point with strong posture, wind-blown hair motion\\nAvoid: oversaturated colors, warm tones, plastic-looking leather, washed-out sky, amateur posing, excessive retouching\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 11866
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Generate an editorial illustration of a bustling Lantern Festival street market in traditional Chinese festival style.\n\nStyle/medium: 工笔重彩画 (gongbi heavy-color painting), meticulous brushwork with rich mineral pigments, narrative scroll composition inspired by 《清明上河图》 (Qingming Shanghe Tu / Along the River During the Qingming Festival)\nComposition: wide panoramic horizontal scroll format, densely populated street scene with layered depth, eye-level perspective looking down the lantern-lit avenue\nSubject: ancient Chinese street festival at night, crowds in festive attire, children chasing with rabbit lanterns, vendors selling tangyuan, candied hawthorn, and flower lanterns\nScene/backdrop: historic street lined with shops, red lanterns, palace lanterns, and revolving horse lanterns illuminating the night sky, distant dragon and lion dance troupes with drums, fireworks bursting overhead\nLighting/mood: warm lantern glow casting red-orange light on crowds, festive and celebratory atmosphere, night sky illuminated by countless lights\nColor palette: dominant reds, golds, and oranges with accents of warm yellow, creating a harmonious and joyous festive palette\nMaterials/textures: fine brushwork details, silk-like smooth color application, architectural precision in buildings and lanterns, delicate fabric textures on costumes\nAvoid: modern elements, anachronistic objects, photorealistic rendering, plastic textures, 8K stuffer terms, washed-out colors",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/7f448cf1-f042-400b-8c7d-a7547cf0a199/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Generate an editorial illustration of a bustling Lantern Festival street market in traditional Chinese festival style.\\n\\nStyle/medium: 工笔重彩画 (gongbi heavy-color painting), meticulous brushwork with rich mineral pigments, narrative scroll composition inspired by 《清明上河图》 (Qingming Shanghe Tu / Along the River During the Qingming Festival)\\nComposition: wide panoramic horizontal scroll format, densely populated street scene with layered depth, eye-level perspective looking down the lantern-lit avenue\\nSubject: ancient Chinese street festival at night, crowds in festive attire, children chasing with rabbit lanterns, vendors selling tangyuan, candied hawthorn, and flower lanterns\\nScene/backdrop: historic street lined with shops, red lanterns, palace lanterns, and revolving horse lanterns illuminating the night sky, distant dragon and lion dance troupes with drums, fireworks bursting overhead\\nLighting/mood: warm lantern glow casting red-orange light on crowds, festive and celebratory atmosphere, night sky illuminated by countless lights\\nColor palette: dominant reds, golds, and oranges with accents of warm yellow, creating a harmonious and joyous festive palette\\nMaterials/textures: fine brushwork details, silk-like smooth color application, architectural precision in buildings and lanterns, delicate fabric textures on costumes\\nAvoid: modern elements, anachronistic objects, photorealistic rendering, plastic textures, 8K stuffer terms, washed-out colors\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11252
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "中国传统节日——元宵节的热闹街市场景，工笔重彩画风格。画面中央是一条张灯结彩的古代街道，两侧店铺林立，挂满了各式各样的红灯笼、宫灯和走马灯，灯光将夜空映照得通红。街道上人声鼎沸，男女老少身着节日盛装，孩童手提兔子灯嬉戏追逐，小贩叫卖汤圆、糖葫芦和花灯。远处有舞龙舞狮的队伍，锣鼓喧天，烟花在夜空中绽放。画面构图饱满，人物众多，细节丰富，色彩以红、金、橙为主调，充满喜庆热烈的节日气氛，笔触精细，参考《清明上河图》的叙事性构图方式。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/bc530f1c-d21c-40e7-890f-c19e498fa665/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 7,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: traditional-fine-art\nAsset type: Chinese festival illustration, panoramic scroll composition\nPrimary request: bustling Lantern Festival night scene in ancient Chinese street, Gongbi heavy-color painting style\nScene/backdrop: ancient Chinese commercial street at night, shops lining both sides, red lanterns glowing against dark sky, distant dragon dance and lion dance troupe, fireworks bursting overhead\nSubject: crowds in festive attire, children chasing with rabbit lanterns, vendors selling tangyuan, candied hawthorn, and flower lanterns, dragon and lion dance performers with drums\nStyle/medium: Gongbi heavy-color painting (工笔重彩), fine brushwork, narrative scroll composition inspired by \"Along the River During the Qingming Festival\"\nComposition/framing: wide panoramic view, densely populated scene, rich layered depth from foreground vendors to distant performers\nLighting/mood: warm lantern glow illuminating night sky, festive and joyous atmosphere\nColor palette: dominant red, gold, and orange tones, celebratory and warm\nMaterials/textures: delicate silk-like surface, precise ink lines, layered mineral pigments\nConstraints: maintain Gongbi painting technique with fine details, preserve narrative density of Qingming scroll composition\nAvoid: photorealistic rendering, Western perspective, modern elements, deformed figures, flat color blocks",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/9042f7db-61cc-4f31-8e4d-92d1afce71bd/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: traditional-fine-art\\nAsset type: Chinese festival illustration, panoramic scroll composition\\nPrimary request: bustling Lantern Festival night scene in ancient Chinese street, Gongbi heavy-color painting style\\nScene/backdrop: ancient Chinese commercial street at night, shops lining both sides, red lanterns glowing against dark sky, distant dragon dance and lion dance troupe, fireworks bursting overhead\\nSubject: crowds in festive attire, children chasing with rabbit lanterns, vendors selling tangyuan, candied hawthorn, and flower lanterns, dragon and lion dance performers with drums\\nStyle/medium: Gongbi heavy-color painting (工笔重彩), fine brushwork, narrative scroll composition inspired by \\\"Along the River During the Qingming Festival\\\"\\nComposition/framing: wide panoramic view, densely populated scene, rich layered depth from foreground vendors to distant performers\\nLighting/mood: warm lantern glow illuminating night sky, festive and joyous atmosphere\\nColor palette: dominant red, gold, and orange tones, celebratory and warm\\nMaterials/textures: delicate silk-like surface, precise ink lines, layered mineral pigments\\nConstraints: maintain Gongbi painting technique with fine details, preserve narrative density of Qingming scroll composition\\nAvoid: photorealistic rendering, Western perspective, modern elements, deformed figures, flat color blocks\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 11159
+    },
+    {
+      "query_idx": 8,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an infographic-style scientific visualization combining macro and micro views of the human nervous system.\n\nStyle/medium: scientific infographic blending medical illustration precision with art poster visual impact, inspired by NASA cosmic imagery and vintage anatomy atlases\nComposition: central translucent human silhouette with glowing neural network extending from cerebral cortex through spinal cord to limb extremities, inset zoom panel showing single neuron ultrastructure\nSubject: macro view — luminous blue-white neural pathways resembling cosmic nebulae; micro view — detailed neuron with dendrites, axon, myelin sheath, synaptic vesicles, neurotransmitter particles dispersing across synaptic cleft\nScene/backdrop: deep cosmic black void suggesting infinite space\nLighting/mood: bioluminescent glow emanating from neural pathways, subtle rim lighting on human silhouette, mysterious and awe-inspiring\nColor palette: cool cyan and ice blue as dominant, pale white for neural glow, sparse gold accents for focal points, deep black negative space\nMaterials/textures: semi-transparent organic membranes, phosphorescent fiber-optic neural tracts, crystalline synaptic structures\nConstraints: suitable for educational publishing and medical brand communications; must maintain scientific accuracy in neuron anatomy\nAvoid: cartoon simplification, oversaturated neon colors, cluttered composition, photorealistic skin texture, 8K stuffer language",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/519d619f-3167-4fbe-bd4f-e5890882252a/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an infographic-style scientific visualization combining macro and micro views of the human nervous system.\\n\\nStyle/medium: scientific infographic blending medical illustration precision with art poster visual impact, inspired by NASA cosmic imagery and vintage anatomy atlases\\nComposition: central translucent human silhouette with glowing neural network extending from cerebral cortex through spinal cord to limb extremities, inset zoom panel showing single neuron ultrastructure\\nSubject: macro view — luminous blue-white neural pathways resembling cosmic nebulae; micro view — detailed neuron with dendrites, axon, myelin sheath, synaptic vesicles, neurotransmitter particles dispersing across synaptic cleft\\nScene/backdrop: deep cosmic black void suggesting infinite space\\nLighting/mood: bioluminescent glow emanating from neural pathways, subtle rim lighting on human silhouette, mysterious and awe-inspiring\\nColor palette: cool cyan and ice blue as dominant, pale white for neural glow, sparse gold accents for focal points, deep black negative space\\nMaterials/textures: semi-transparent organic membranes, phosphorescent fiber-optic neural tracts, crystalline synaptic structures\\nConstraints: suitable for educational publishing and medical brand communications; must maintain scientific accuracy in neuron anatomy\\nAvoid: cartoon simplification, oversaturated neon colors, cluttered composition, photorealistic skin texture, 8K stuffer language\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 10782
+    },
+    {
+      "query_idx": 8,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "科学可视化风格，展示人体神经系统的宏观与微观结合图像。画面中央是一个半透明的人体轮廓，内部神经网络以发光的蓝白色线条呈现，从大脑皮层延伸至脊髓，再分支至四肢末梢，如同宇宙星云般壮观。局部放大区域展示单个神经元的精细结构：树突、轴突、髓鞘和突触小泡均清晰可辨，突触间隙中神经递质分子以粒子形式飞散。背景为深邃的宇宙黑，整体色调以冷蓝、青白和少量金色点缀为主。风格融合医学插画的严谨性与艺术海报的视觉冲击力，适用于科普教育或医疗品牌宣传。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/954c642e-46c9-4ba3-af77-30c19e6c0b4d/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 8,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: infographic-diagram\nAsset type: medical education poster, brand visual\nPrimary request: macro-micro composite visualization of human nervous system combining full-body neural network with magnified neuron anatomy\nScene/backdrop: deep cosmic black void with subtle starfield, creating sense of vastness and mystery\nSubject: semi-transparent human silhouette with glowing blue-white neural pathways extending from cerebral cortex through spinal cord to peripheral extremities; magnified inset showing detailed neuron structure including dendrites, axon, myelin sheath, and synaptic vesicles with neurotransmitter particles dispersing across synaptic cleft\nStyle/medium: scientific visualization blending medical illustration precision with artistic poster impact, digital 3D render with ethereal glow effects\nComposition/framing: centered full-body figure with neural network as primary focal point, circular magnified detail inset positioned at lower right showing cellular level\nLighting/mood: bioluminescent glow from neural pathways against dark cosmic background, dramatic contrast creating awe and scientific wonder\nColor palette: cool blues, cyan-white luminescence, deep cosmic black, subtle gold accents for synaptic highlights\nMaterials/textures: semi-transparent organic silhouette, fiber-optic neural lines with soft glow, cellular structures with scientific accuracy, particle effects for neurotransmitters\nConstraints: maintain medical accuracy in neuron anatomy, preserve the cosmic-neural visual metaphor, ensure both macro and micro scales are clearly readable\nAvoid: cartoonish simplification, cluttered background, warm color dominance, blurry cellular details, watermark",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/2e23cbf7-8b34-4712-8823-b90ede493d58/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: medical education poster, brand visual\\nPrimary request: macro-micro composite visualization of human nervous system combining full-body neural network with magnified neuron anatomy\\nScene/backdrop: deep cosmic black void with subtle starfield, creating sense of vastness and mystery\\nSubject: semi-transparent human silhouette with glowing blue-white neural pathways extending from cerebral cortex through spinal cord to peripheral extremities; magnified inset showing detailed neuron structure including dendrites, axon, myelin sheath, and synaptic vesicles with neurotransmitter particles dispersing across synaptic cleft\\nStyle/medium: scientific visualization blending medical illustration precision with artistic poster impact, digital 3D render with ethereal glow effects\\nComposition/framing: centered full-body figure with neural network as primary focal point, circular magnified detail inset positioned at lower right showing cellular level\\nLighting/mood: bioluminescent glow from neural pathways against dark cosmic background, dramatic contrast creating awe and scientific wonder\\nColor palette: cool blues, cyan-white luminescence, deep cosmic black, subtle gold accents for synaptic highlights\\nMaterials/textures: semi-transparent organic silhouette, fiber-optic neural lines with soft glow, cellular structures with scientific accuracy, particle effects for neurotransmitters\\nConstraints: maintain medical accuracy in neuron anatomy, preserve the cosmic-neural visual metaphor, ensure both macro and micro scales are clearly readable\\nAvoid: cartoonish simplification, cluttered background, warm color dominance, blurry cellular details, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 12029
+    },
+    {
+      "query_idx": 9,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing cinematic concept art for a female warrior character from a desert civilization.\n\nStyle/medium: game concept art in the visual direction of Assassin's Creed Origins, photorealistic rendering with painterly brushwork\nComposition: medium shot at eye level, three-quarter view, 85mm equivalent lens, character centered on elevated platform\nSubject: female warrior with pronounced facial structure, resolute eyes, tribal forehead tattoos, wearing armor of brass plate scales mixed with golden silk, edges of plates carved with ancient cuneiform runes\nScene/backdrop: desert ruins with crumbling massive stone columns, half-buried ancient temple in sand, distant sandstorm approaching, ominous orange-yellow sky\nLighting/mood: dramatic theatrical lighting, strong sunlight casting sharp shadows, warm golden rim light, impending storm creates tension\nColor palette: dominant warm orange-yellow sky and sand, brass and gold armor as focal point, turquoise and carnelian accents on weapon\nMaterials/textures: weathered brass with engraved cuneiform, lustrous golden silk fabric, polished turquoise and red agate inlays on scabbard, rough sandstone ruins\nConstraints: must include crescent-shaped curved blade with turquoise and carnelian-inlaid scabbard at waist\nAvoid: generic fantasy armor, anachronistic elements, deformed anatomy, plastic-looking materials, watermark",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/58f088e2-af37-4b93-959f-b6c773479421/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing cinematic concept art for a female warrior character from a desert civilization.\\n\\nStyle/medium: game concept art in the visual direction of Assassin's Creed Origins, photorealistic rendering with painterly brushwork\\nComposition: medium shot at eye level, three-quarter view, 85mm equivalent lens, character centered on elevated platform\\nSubject: female warrior with pronounced facial structure, resolute eyes, tribal forehead tattoos, wearing armor of brass plate scales mixed with golden silk, edges of plates carved with ancient cuneiform runes\\nScene/backdrop: desert ruins with crumbling massive stone columns, half-buried ancient temple in sand, distant sandstorm approaching, ominous orange-yellow sky\\nLighting/mood: dramatic theatrical lighting, strong sunlight casting sharp shadows, warm golden rim light, impending storm creates tension\\nColor palette: dominant warm orange-yellow sky and sand, brass and gold armor as focal point, turquoise and carnelian accents on weapon\\nMaterials/textures: weathered brass with engraved cuneiform, lustrous golden silk fabric, polished turquoise and red agate inlays on scabbard, rough sandstone ruins\\nConstraints: must include crescent-shaped curved blade with turquoise and carnelian-inlaid scabbard at waist\\nAvoid: generic fantasy armor, anachronistic elements, deformed anatomy, plastic-looking materials, watermark\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11909
+    },
+    {
+      "query_idx": 9,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "游戏概念原画风格，描绘一位来自沙漠文明的女性战士角色。她身着由黄铜片甲与金色丝绸混合制成的战甲，甲片边缘雕刻着古老的楔形文字符文，在阳光下熠熠生辉。腰间悬挂着一把弯月形宝刀，刀鞘镶嵌着绿松石与红玛瑙。她站在沙漠废墟的高台上，背后是残破的巨型石柱和半埋于沙中的古代神庙，远处沙尘暴正在逼近，天空呈现出诡异的橙黄色。人物面部轮廓立体，眼神坚毅，额头有部落纹身图案。整体风格参考《刺客信条：起源》的美术方向，细节极度丰富，光影戏剧化。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/111f95f2-3bc1-4975-817b-9f283ea83dee/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 9,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: concept-art\nAsset type: character concept art for game production\nPrimary request: female warrior from desert civilization standing on high platform of ruins\nScene/backdrop: desert ruins with massive crumbling stone columns, half-buried ancient temple, approaching sandstorm in distance, sky in eerie orange-yellow hue\nSubject: female warrior with three-dimensional facial contours, resolute eyes, tribal tattoo on forehead, wearing brass scale armor mixed with golden silk, armor edges carved with ancient cuneiform runes gleaming in sunlight, crescent-shaped scimitar hanging at waist with turquoise and carnelian-embedded scabbard\nStyle/medium: game concept art style referencing Assassin's Creed Origins art direction, highly detailed, painterly digital illustration\nComposition/framing: medium shot with character centered on elevated platform, ruins framing background, atmospheric depth\nLighting/mood: dramatic theatrical lighting, golden hour sunlight hitting brass armor creating strong highlights, ominous orange-yellow sky from approaching sandstorm, high contrast shadows\nColor palette: warm brass gold + burnt orange sky + sandy beige + turquoise accents + deep carnelian red\nMaterials/textures: polished brass scales with engraved cuneiform, flowing golden silk fabric, weathered stone ruins, fine sand particles in air, semi-precious stone inlays\nConstraints: preserve Assassin's Creed Origins aesthetic reference, maintain desert civilization cultural identity, keep cuneiform rune details on armor edges\nAvoid: modern elements, clean pristine surfaces, anime stylization, oversaturated neon colors, low-detail background",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/a379d99d-1012-435c-aa28-4e7e4618283c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: concept-art\\nAsset type: character concept art for game production\\nPrimary request: female warrior from desert civilization standing on high platform of ruins\\nScene/backdrop: desert ruins with massive crumbling stone columns, half-buried ancient temple, approaching sandstorm in distance, sky in eerie orange-yellow hue\\nSubject: female warrior with three-dimensional facial contours, resolute eyes, tribal tattoo on forehead, wearing brass scale armor mixed with golden silk, armor edges carved with ancient cuneiform runes gleaming in sunlight, crescent-shaped scimitar hanging at waist with turquoise and carnelian-embedded scabbard\\nStyle/medium: game concept art style referencing Assassin's Creed Origins art direction, highly detailed, painterly digital illustration\\nComposition/framing: medium shot with character centered on elevated platform, ruins framing background, atmospheric depth\\nLighting/mood: dramatic theatrical lighting, golden hour sunlight hitting brass armor creating strong highlights, ominous orange-yellow sky from approaching sandstorm, high contrast shadows\\nColor palette: warm brass gold + burnt orange sky + sandy beige + turquoise accents + deep carnelian red\\nMaterials/textures: polished brass scales with engraved cuneiform, flowing golden silk fabric, weathered stone ruins, fine sand particles in air, semi-precious stone inlays\\nConstraints: preserve Assassin's Creed Origins aesthetic reference, maintain desert civilization cultural identity, keep cuneiform rune details on armor edges\\nAvoid: modern elements, clean pristine surfaces, anime stylization, oversaturated neon colors, low-detail background\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 12683
+    },
+    {
+      "query_idx": 10,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a minimalist product shot of a luxury perfume bottle for high-end magazine advertising or e-commerce hero image.\n\nStyle/medium: minimalist product photography, architectural precision, luxury editorial aesthetic\nComposition: centered framing with generous negative space, eye-level straight-on angle, medium telephoto lens\nSubject: high-end perfume bottle with irregular polyhedral faceted glass body, ultra-clear transparency, pale amber liquid inside, matte black metal cap with embossed brand logo relief pattern\nScene/backdrop: pure white marble pedestal, gradient off-white background, clean and restrained environment\nLighting/mood: soft diffused light from upper left, creating refined refraction spectrum across faceted glass surfaces, cool and elegant atmosphere\nColor palette: pale amber as liquid accent, matte black cap as dark anchor, off-white and marble white as neutral base\nMaterials/textures: crystal-clear faceted glass with light refraction, matte black metal cap with subtle embossed texture, smooth cold marble surface\nAvoid: busy backgrounds, warm yellow tones, harsh shadows, cluttered composition, generic stock photo aesthetic",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/0bb0cc61-5572-4a0b-80a6-9afeb8c082c7/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create a minimalist product shot of a luxury perfume bottle for high-end magazine advertising or e-commerce hero image.\\n\\nStyle/medium: minimalist product photography, architectural precision, luxury editorial aesthetic\\nComposition: centered framing with generous negative space, eye-level straight-on angle, medium telephoto lens\\nSubject: high-end perfume bottle with irregular polyhedral faceted glass body, ultra-clear transparency, pale amber liquid inside, matte black metal cap with embossed brand logo relief pattern\\nScene/backdrop: pure white marble pedestal, gradient off-white background, clean and restrained environment\\nLighting/mood: soft diffused light from upper left, creating refined refraction spectrum across faceted glass surfaces, cool and elegant atmosphere\\nColor palette: pale amber as liquid accent, matte black cap as dark anchor, off-white and marble white as neutral base\\nMaterials/textures: crystal-clear faceted glass with light refraction, matte black metal cap with subtle embossed texture, smooth cold marble surface\\nAvoid: busy backgrounds, warm yellow tones, harsh shadows, cluttered composition, generic stock photo aesthetic\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 9661
+    },
+    {
+      "query_idx": 10,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "极简主义产品摄影，拍摄对象为一款高端香水瓶。瓶身设计灵感来源于建筑几何美学，整体呈不规则多面体切割造型，玻璃材质透明度极高，内部液体呈淡琥珀色。瓶盖为哑光黑色金属，刻有品牌logo的浮雕纹样。香水瓶置于纯白大理石底座上，背景为渐变的米白色，光线来自左上方的柔和漫射光，在瓶身上形成精致的折射光谱。整体构图居中，留白充足，画面干净克制，色调高冷优雅，充分体现产品的奢侈品质感，适用于高端杂志广告或电商详情页主视觉。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/75585d04-fbe3-4792-a2c4-9fa5dcfcc78b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 10,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: editorial product shot, luxury magazine ad or e-commerce hero image\nPrimary request: minimalist product photography of a high-end perfume bottle with architectural geometric aesthetics\nScene/backdrop: pure white marble pedestal, gradient off-white background with ample negative space\nSubject: luxury perfume bottle with irregular polyhedral cut design, ultra-transparent glass material, pale amber liquid inside, matte black metal cap with embossed brand logo relief pattern\nStyle/medium: minimalist product photography, clean and restrained, luxury editorial aesthetic\nComposition/framing: centered composition, generous negative space, square crop\nLighting/mood: soft diffused light from upper left, creating delicate refractive spectrum on the glass surface, high-key elegant atmosphere\nColor palette: cool neutral tones, pure white marble, pale amber liquid, matte black accents, off-white gradient background\nMaterials/textures: ultra-transparent glass with refractive properties, matte black metal with embossed relief, smooth white marble surface\nConstraints: keep the bottle as the sole focal point, maintain clean and minimal aesthetic, preserve the geometric polyhedral cut design\nAvoid: cluttered background, harsh shadows, oversaturated colors, busy props, plastic-looking materials",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/96538235-f46f-4e08-be12-dc4c02c21201/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: editorial product shot, luxury magazine ad or e-commerce hero image\\nPrimary request: minimalist product photography of a high-end perfume bottle with architectural geometric aesthetics\\nScene/backdrop: pure white marble pedestal, gradient off-white background with ample negative space\\nSubject: luxury perfume bottle with irregular polyhedral cut design, ultra-transparent glass material, pale amber liquid inside, matte black metal cap with embossed brand logo relief pattern\\nStyle/medium: minimalist product photography, clean and restrained, luxury editorial aesthetic\\nComposition/framing: centered composition, generous negative space, square crop\\nLighting/mood: soft diffused light from upper left, creating delicate refractive spectrum on the glass surface, high-key elegant atmosphere\\nColor palette: cool neutral tones, pure white marble, pale amber liquid, matte black accents, off-white gradient background\\nMaterials/textures: ultra-transparent glass with refractive properties, matte black metal with embossed relief, smooth white marble surface\\nConstraints: keep the bottle as the sole focal point, maintain clean and minimal aesthetic, preserve the geometric polyhedral cut design\\nAvoid: cluttered background, harsh shadows, oversaturated colors, busy props, plastic-looking materials\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 10563
+    },
+    {
+      "query_idx": 11,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial watercolor illustration of a European town on a summer afternoon.\n\nStyle/medium: watercolor illustration, light and airy brushwork, fluid color blending, artistic and literary atmosphere\nComposition: eye-level street view focusing on a corner bookstore as central subject, surrounding café and street scene as supporting elements\nSubject: small corner bookstore with display window full of colorful books, potted geraniums with bright red blooms at entrance; adjacent café with outdoor seating where relaxed customers read newspapers or chat quietly, coffee cups and croissants on tables\nScene/backdrop: ancient cobblestone street, historic buildings with varied facades in cream yellow, peach orange, and pale blue; clear azure sky with fluffy white clouds, summer afternoon setting\nLighting/mood: bright warm sunlight casting crisp shadows, cheerful and leisurely mood, dappled light on street and buildings\nColor palette: warm cream yellow, peach orange, pale blue building facades; vibrant red geranium blooms as focal accent; azure sky with white clouds; natural watercolor washes with soft edges\nMaterials/textures: visible watercolor paper texture, fluid pigment blooms, wet-on-wet blending for sky and shadows, dry brush details for architectural elements\nAvoid: photorealistic rendering, digital smooth gradients, harsh outlines, oversaturated colors, cluttered composition, generic stock illustration style",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/524f2309-f277-4228-9ca6-92397e08fd7d/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an editorial watercolor illustration of a European town on a summer afternoon.\\n\\nStyle/medium: watercolor illustration, light and airy brushwork, fluid color blending, artistic and literary atmosphere\\nComposition: eye-level street view focusing on a corner bookstore as central subject, surrounding café and street scene as supporting elements\\nSubject: small corner bookstore with display window full of colorful books, potted geraniums with bright red blooms at entrance; adjacent café with outdoor seating where relaxed customers read newspapers or chat quietly, coffee cups and croissants on tables\\nScene/backdrop: ancient cobblestone street, historic buildings with varied facades in cream yellow, peach orange, and pale blue; clear azure sky with fluffy white clouds, summer afternoon setting\\nLighting/mood: bright warm sunlight casting crisp shadows, cheerful and leisurely mood, dappled light on street and buildings\\nColor palette: warm cream yellow, peach orange, pale blue building facades; vibrant red geranium blooms as focal accent; azure sky with white clouds; natural watercolor washes with soft edges\\nMaterials/textures: visible watercolor paper texture, fluid pigment blooms, wet-on-wet blending for sky and shadows, dry brush details for architectural elements\\nAvoid: photorealistic rendering, digital smooth gradients, harsh outlines, oversaturated colors, cluttered composition, generic stock illustration style\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11488
+    },
+    {
+      "query_idx": 11,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "水彩插画风格，描绘一个欧洲小镇的夏日午后。画面中心是一家开在转角处的小书店，橱窗里摆满了各色书籍，门口摆着几盆盛开的天竺葵，红色花朵在阳光下鲜艳欲滴。书店旁边是一家咖啡馆，露天座位上坐着几位悠闲的顾客，有人在读报，有人在低声交谈，桌上摆着咖啡杯和可颂面包。街道由古老的鹅卵石铺就，两侧建筑外墙颜色各异，有奶油黄、粉橙色和淡蓝色。天空湛蓝，白云蓬松，阳光投下清晰的影子。整体风格轻盈明快，笔触灵动，水色晕染自然，充满生活气息与文艺情调。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/6fb54968-3571-43ae-82bd-f077e7b8d42b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 11,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: illustration-editorial\nAsset type: watercolor illustration, poster or book cover\nPrimary request: a charming European town corner on a summer afternoon featuring a small bookstore and adjacent café\nScene/backdrop: quaint European town square, cobblestone street lined with pastel-colored buildings in cream yellow, peach orange, and pale blue, bright blue sky with fluffy white clouds\nSubject: corner bookstore with display window full of colorful books, potted geraniums with vivid red blooms at entrance; neighboring café with outdoor seating where relaxed patrons read newspapers or chat quietly, coffee cups and croissants on tables\nStyle/medium: watercolor illustration, light and airy brushwork, natural wet-on-wet color blending\nComposition/framing: wide establishing shot, slightly elevated angle capturing the corner scene\nLighting/mood: bright summer sunlight casting crisp shadows, warm and leisurely atmosphere\nColor palette: cream yellow, peach orange, pale blue facades, vivid red geraniums, bright azure sky, soft white clouds\nMaterials/textures: fluid watercolor washes, delicate paper texture, soft color gradients\nConstraints: maintain the bookstore as focal point, preserve the summer afternoon mood and European charm\nAvoid: photorealistic rendering, heavy digital textures, dark or moody tones, cluttered composition",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/7fbd1198-8456-4e08-970c-fc23d6261b43/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: illustration-editorial\\nAsset type: watercolor illustration, poster or book cover\\nPrimary request: a charming European town corner on a summer afternoon featuring a small bookstore and adjacent café\\nScene/backdrop: quaint European town square, cobblestone street lined with pastel-colored buildings in cream yellow, peach orange, and pale blue, bright blue sky with fluffy white clouds\\nSubject: corner bookstore with display window full of colorful books, potted geraniums with vivid red blooms at entrance; neighboring café with outdoor seating where relaxed patrons read newspapers or chat quietly, coffee cups and croissants on tables\\nStyle/medium: watercolor illustration, light and airy brushwork, natural wet-on-wet color blending\\nComposition/framing: wide establishing shot, slightly elevated angle capturing the corner scene\\nLighting/mood: bright summer sunlight casting crisp shadows, warm and leisurely atmosphere\\nColor palette: cream yellow, peach orange, pale blue facades, vivid red geraniums, bright azure sky, soft white clouds\\nMaterials/textures: fluid watercolor washes, delicate paper texture, soft color gradients\\nConstraints: maintain the bookstore as focal point, preserve the summer afternoon mood and European charm\\nAvoid: photorealistic rendering, heavy digital textures, dark or moody tones, cluttered composition\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 10689
+    },
+    {
+      "query_idx": 12,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing editorial photo of a modern steel smelting plant interior during a production moment.\n\nStyle/medium: industrial documentary photography, photorealistic, in the spirit of Lewis Hine meets Sebastião Salgado heavy industry series\nComposition: wide-angle low-angle shot looking upward at the electric arc furnace, slow shutter speed to capture motion blur of flowing molten steel, strong scale contrast between human workers and giant machinery\nSubject: massive electric arc furnace during steel tapping, molten steel pouring like an orange-red waterfall with countless sparks flying, workers in heat-resistant suits and face shields operating equipment in the distance\nScene/backdrop: vast industrial steel plant interior, steel framework structure at ceiling visible through smoke and light, floor covered with metallic dust, dim ambient environment\nLighting/mood: the pouring molten steel serves as the primary dramatic light source, casting intense orange-red glow against deep shadows, atmospheric smoke diffusing the light\nColor palette: deep gray and iron black as base, intense orange-red from molten steel as dominant warm accent, metallic silver highlights\nMaterials/textures: rough steel surfaces, flowing liquid metal with reflective sheen, gritty metallic dust on floor, heavy industrial smoke\nAvoid: oversaturated colors, plastic-looking textures, cartoonish proportions, 8K stuffer words, oversharpening, watermark",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/d2f99c7b-a8dc-4fbf-afe5-e88a877fdff0/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original, non-infringing editorial photo of a modern steel smelting plant interior during a production moment.\\n\\nStyle/medium: industrial documentary photography, photorealistic, in the spirit of Lewis Hine meets Sebastião Salgado heavy industry series\\nComposition: wide-angle low-angle shot looking upward at the electric arc furnace, slow shutter speed to capture motion blur of flowing molten steel, strong scale contrast between human workers and giant machinery\\nSubject: massive electric arc furnace during steel tapping, molten steel pouring like an orange-red waterfall with countless sparks flying, workers in heat-resistant suits and face shields operating equipment in the distance\\nScene/backdrop: vast industrial steel plant interior, steel framework structure at ceiling visible through smoke and light, floor covered with metallic dust, dim ambient environment\\nLighting/mood: the pouring molten steel serves as the primary dramatic light source, casting intense orange-red glow against deep shadows, atmospheric smoke diffusing the light\\nColor palette: deep gray and iron black as base, intense orange-red from molten steel as dominant warm accent, metallic silver highlights\\nMaterials/textures: rough steel surfaces, flowing liquid metal with reflective sheen, gritty metallic dust on floor, heavy industrial smoke\\nAvoid: oversaturated colors, plastic-looking textures, cartoonish proportions, 8K stuffer words, oversharpening, watermark\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11646
+    },
+    {
+      "query_idx": 12,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "工业摄影风格，展示一座现代化钢铁冶炼厂的内部生产场景。画面主体是一台巨型电弧炉正在出钢的瞬间，炽热的钢水如橙红色瀑布般倾泻而下，溅起无数火星，在昏暗的厂房内形成壮观的光源。工人身着防热服和面罩，在远处操控设备，人物与巨型机械的尺度对比强烈，凸显工业的宏伟与力量。厂房顶部的钢架结构在烟雾与光线中若隐若现，地面积有金属粉尘。整体色调以深灰、铁黑与炽热的橙红形成强烈对比，采用广角仰视构图，快门速度较慢以捕捉钢水流动的动态模糊，充满力量感与工业美学。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/2cefec22-0660-47cc-9577-9603b3f2959e/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 12,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: photorealistic-natural\nAsset type: industrial documentary photography\nPrimary request: wide-angle low-angle shot of a giant electric arc furnace during steel tapping, with molten steel pouring down like an orange-red waterfall\nScene/backdrop: modern steel smelting plant interior, dimly lit industrial hall with steel framework ceiling visible through smoke and light\nSubject: massive electric arc furnace as the dominant element, workers in heat-resistant suits and face shields operating equipment in the distance, strong scale contrast between human figures and giant machinery\nStyle/medium: industrial photography, slow shutter speed to capture motion blur of flowing molten steel\nComposition/framing: wide-angle low-angle perspective, dramatic upward view emphasizing the grandeur of industrial machinery\nLighting/mood: molten steel as the primary light source creating spectacular sparks, dramatic contrast between dark environment and glowing orange-red metal, atmospheric and powerful\nColor palette: deep gray, iron black contrasted with intense orange-red of molten steel, metallic dust tones\nMaterials/textures: realistic molten metal flow with motion blur, industrial steel surfaces, metal dust on floor, heat-resistant fabric textures\nConstraints: maintain the scale contrast between workers and machinery, capture the dynamic motion of pouring steel\nAvoid: oversaturated colors, cartoonish sparks, clean factory environment, plastic-looking materials, watermark",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/38a54a45-1c9b-40b1-a482-7fd8c8f859e2/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: industrial documentary photography\\nPrimary request: wide-angle low-angle shot of a giant electric arc furnace during steel tapping, with molten steel pouring down like an orange-red waterfall\\nScene/backdrop: modern steel smelting plant interior, dimly lit industrial hall with steel framework ceiling visible through smoke and light\\nSubject: massive electric arc furnace as the dominant element, workers in heat-resistant suits and face shields operating equipment in the distance, strong scale contrast between human figures and giant machinery\\nStyle/medium: industrial photography, slow shutter speed to capture motion blur of flowing molten steel\\nComposition/framing: wide-angle low-angle perspective, dramatic upward view emphasizing the grandeur of industrial machinery\\nLighting/mood: molten steel as the primary light source creating spectacular sparks, dramatic contrast between dark environment and glowing orange-red metal, atmospheric and powerful\\nColor palette: deep gray, iron black contrasted with intense orange-red of molten steel, metallic dust tones\\nMaterials/textures: realistic molten metal flow with motion blur, industrial steel surfaces, metal dust on floor, heat-resistant fabric textures\\nConstraints: maintain the scale contrast between workers and machinery, capture the dynamic motion of pouring steel\\nAvoid: oversaturated colors, cartoonish sparks, clean factory environment, plastic-looking materials, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 11085
+    },
+    {
+      "query_idx": 13,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing marketing poster for a cultural brand or festival celebration, themed around Dunhuang flying apsaras (飞天) in modern Guochao illustration style.\n\nStyle/medium: Guochao illustration blending traditional Dunhuang mural aesthetics with contemporary art poster design, fluid line work, traditional seal script typography integration\nComposition: centered figure with dynamic radial balance, full-body portrait surrounded by decorative elements, generous negative space for typography\nSubject: flying apsara (飞天仙女) in elegant flowing pose holding a pipa (琵琶), wearing modernized Dunhuang mural-inspired costume with fluid ribbons rendered as dynamic flowing lines\nScene/backdrop: fusion of Dunhuang cave arch structures with modern geometric patterns, auspicious clouds, lotus flowers, pomegranate blossoms, and scattered petals\nLighting/mood: rich saturated colors with dramatic contrast, sense of divine movement and celestial grace\nColor palette: traditional mineral pigments (azurite blue, cinnabar red, ochre) transitioning to modern gradients of purple and gold, opulent and culturally resonant\nMaterials/textures: smooth digital illustration with subtle texture suggesting mural surface, crisp vector-like edges for geometric elements\nText (verbatim): 融入传统篆刻元素的字体设计\nConstraints: must balance traditional Dunhuang heritage with modern visual language; suitable for cultural brand promotion or festival celebration collateral\nAvoid: photorealistic rendering; generic Behance flat style; over-cluttered composition; deformed hands or instrument proportions; washed-out colors",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/cfc210a9-8bb6-4cd1-98b0-71aebbf0fb96/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster for a cultural brand or festival celebration, themed around Dunhuang flying apsaras (飞天) in modern Guochao illustration style.\\n\\nStyle/medium: Guochao illustration blending traditional Dunhuang mural aesthetics with contemporary art poster design, fluid line work, traditional seal script typography integration\\nComposition: centered figure with dynamic radial balance, full-body portrait surrounded by decorative elements, generous negative space for typography\\nSubject: flying apsara (飞天仙女) in elegant flowing pose holding a pipa (琵琶), wearing modernized Dunhuang mural-inspired costume with fluid ribbons rendered as dynamic flowing lines\\nScene/backdrop: fusion of Dunhuang cave arch structures with modern geometric patterns, auspicious clouds, lotus flowers, pomegranate blossoms, and scattered petals\\nLighting/mood: rich saturated colors with dramatic contrast, sense of divine movement and celestial grace\\nColor palette: traditional mineral pigments (azurite blue, cinnabar red, ochre) transitioning to modern gradients of purple and gold, opulent and culturally resonant\\nMaterials/textures: smooth digital illustration with subtle texture suggesting mural surface, crisp vector-like edges for geometric elements\\nText (verbatim): 融入传统篆刻元素的字体设计\\nConstraints: must balance traditional Dunhuang heritage with modern visual language; suitable for cultural brand promotion or festival celebration collateral\\nAvoid: photorealistic rendering; generic Behance flat style; over-cluttered composition; deformed hands or instrument proportions; washed-out colors\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13875
+    },
+    {
+      "query_idx": 13,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "国潮插画风格，以敦煌飞天为主题创作现代艺术海报。画面中央是一位飞天仙女，身着改良版的敦煌壁画服饰，飘带以流体动态线条呈现，色彩从传统的石青、朱砂、赭石过渡到现代渐变的紫色与金色。仙女手持琵琶，姿态婀娜，周围环绕着祥云、莲花、石榴花和散落的花瓣。背景融合了敦煌洞窟的拱形结构与现代几何图形，整体构图饱满而富有张力。字体设计融入传统篆刻元素，整体风格在传统与现代之间寻求平衡，色彩浓郁华丽，适合文化品牌或节日庆典的宣传物料。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/81ed6e86-3eba-42b6-953e-181ccf720f38/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 13,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: cultural-brand-poster\nAsset type: modern art poster for cultural festival or brand promotion\nPrimary request: Dunhuang flying apsara (Feitian) reimagined in contemporary Guochao illustration style, balancing tradition and modernity\nScene/backdrop: arched cave structure from Dunhuong grottoes blended with modern geometric patterns, clouds, lotus flowers, pomegranate blossoms, scattered petals\nSubject: elegant flying apsara (celestial maiden) in modified Dunhuang mural costume, fluid dynamic ribbons, holding a pipa lute, graceful dancing posture\nStyle/medium: Guochao illustration, Chinese contemporary art style, digital painting with traditional ink aesthetics\nComposition/framing: centered figure, full and dynamic composition with visual tension, decorative border elements\nLighting/mood: ethereal and luminous atmosphere, spiritual and celebratory mood\nColor palette: rich and opulent palette transitioning from traditional mineral pigments (azurite blue, cinnabar red, ochre brown) to modern gradients (purple and gold)\nMaterials/textures: flowing silk ribbons, stone texture of cave walls, delicate petals, metallic gold accents\nText (verbatim): \"字体设计融入传统篆刻元素\"\nConstraints: maintain balance between traditional Dunhuang aesthetics and contemporary design, keep the apsara as central focal point, preserve cultural authenticity\nAvoid: 8K, masterpiece, ultra-detailed, plastic textures, Western fantasy tropes, cartoonish proportions, oversaturated neon colors",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/bb4354c1-43ea-4296-a32c-11ac912d3f7b/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: cultural-brand-poster\\nAsset type: modern art poster for cultural festival or brand promotion\\nPrimary request: Dunhuang flying apsara (Feitian) reimagined in contemporary Guochao illustration style, balancing tradition and modernity\\nScene/backdrop: arched cave structure from Dunhuong grottoes blended with modern geometric patterns, clouds, lotus flowers, pomegranate blossoms, scattered petals\\nSubject: elegant flying apsara (celestial maiden) in modified Dunhuang mural costume, fluid dynamic ribbons, holding a pipa lute, graceful dancing posture\\nStyle/medium: Guochao illustration, Chinese contemporary art style, digital painting with traditional ink aesthetics\\nComposition/framing: centered figure, full and dynamic composition with visual tension, decorative border elements\\nLighting/mood: ethereal and luminous atmosphere, spiritual and celebratory mood\\nColor palette: rich and opulent palette transitioning from traditional mineral pigments (azurite blue, cinnabar red, ochre brown) to modern gradients (purple and gold)\\nMaterials/textures: flowing silk ribbons, stone texture of cave walls, delicate petals, metallic gold accents\\nText (verbatim): \\\"字体设计融入传统篆刻元素\\\"\\nConstraints: maintain balance between traditional Dunhuang aesthetics and contemporary design, keep the apsara as central focal point, preserve cultural authenticity\\nAvoid: 8K, masterpiece, ultra-detailed, plastic textures, Western fantasy tropes, cartoonish proportions, oversaturated neon colors\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 12130
+    },
+    {
+      "query_idx": 14,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an original editorial aerial photograph of the boundary between Amazon rainforest and modern agricultural development.\n\nStyle/medium: documentary aerial photography, photorealistic, National Geographic-style environmental storytelling\nComposition: high-altitude bird's-eye view, top-down perspective, wide landscape framing capturing the horizon\nSubject: stark boundary line dividing two landscapes — dense virgin rainforest with layered canopy and emergent Brazil nut trees on the left; geometric, orderly soybean farmland in varying green-to-yellow growth stages on the right\nScene/backdrop: Amazon rainforest meeting agricultural frontier, clear-cut boundary with visible blackened burn scars and fallen trees, red dirt highway winding through the distance with trucks kicking up red dust\nLighting/mood: natural daylight, neutral color temperature, documentary realism, somber and thought-provoking atmosphere\nColor palette: deep forest greens and canopy layers on left, geometric patches of chartreuse to ochre farmland on right, stark black burn scars, rust-red earth and dust\nMaterials/textures: dense textured rainforest canopy with individual emergent tree crowns, smooth geometric crop rows, charred black earth, dusty red soil\nAvoid: oversaturated colors, HDR effects, 8K stuffer language, romanticized beauty, watermark, deformed trees\n",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/c60d9de3-78f4-4281-85f3-b3ad5eac8c23/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an original editorial aerial photograph of the boundary between Amazon rainforest and modern agricultural development.\\n\\nStyle/medium: documentary aerial photography, photorealistic, National Geographic-style environmental storytelling\\nComposition: high-altitude bird's-eye view, top-down perspective, wide landscape framing capturing the horizon\\nSubject: stark boundary line dividing two landscapes — dense virgin rainforest with layered canopy and emergent Brazil nut trees on the left; geometric, orderly soybean farmland in varying green-to-yellow growth stages on the right\\nScene/backdrop: Amazon rainforest meeting agricultural frontier, clear-cut boundary with visible blackened burn scars and fallen trees, red dirt highway winding through the distance with trucks kicking up red dust\\nLighting/mood: natural daylight, neutral color temperature, documentary realism, somber and thought-provoking atmosphere\\nColor palette: deep forest greens and canopy layers on left, geometric patches of chartreuse to ochre farmland on right, stark black burn scars, rust-red earth and dust\\nMaterials/textures: dense textured rainforest canopy with individual emergent tree crowns, smooth geometric crop rows, charred black earth, dusty red soil\\nAvoid: oversaturated colors, HDR effects, 8K stuffer language, romanticized beauty, watermark, deformed trees\\n\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 10801
+    },
+    {
+      "query_idx": 14,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "航拍视角，展示亚马逊雨林与现代农业开发区的边界地带。画面从高空俯瞰，左侧是密不透风的原始热带雨林，树冠层次丰富，绿色深浅各异，偶有高大的巴西坚果树冠突出于林冠之上。右侧是已被开垦的大豆农田，整齐划一的农业地块呈几何形状延伸至地平线，颜色从嫩绿到枯黄不等，显示出不同生长阶段。两者之间的边界线清晰而触目惊心，部分区域可见焚烧后的黑色焦土和倒伏的树木。远处有一条红土公路蜿蜒穿过，卡车扬起红色尘土。整体画面具有强烈的视觉冲击力，引发对环境保护与经济发展矛盾的深刻思考，摄影纪实风格。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/e206a11d-2c4a-473b-ad4b-14314c4924be/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 14,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: photorealistic-natural\nAsset type: documentary aerial photography, environmental editorial\nPrimary request: aerial view of the boundary between Amazon rainforest and modern agricultural development zone\nScene/backdrop: high-altitude perspective showing the stark contrast between untouched jungle and farmland extending to horizon, with a dirt road winding through\nSubject: left side shows dense virgin tropical rainforest with layered canopy and emergent Brazil nut trees; right side shows geometric soybean fields in varying growth stages from fresh green to dry yellow; clear boundary with charred black soil and felled trees; red dust rising from trucks on the dirt road\nStyle/medium: documentary photography, photojournalistic aerial survey\nComposition/framing: top-down aerial view, wide establishing shot, drone perspective\nLighting/mood: natural daylight, clear atmospheric conditions, somber and thought-provoking mood highlighting environmental tension\nColor palette: deep forest greens + fresh and dry crop yellows + burnt black + reddish-brown earth tones + pale sky blue\nMaterials/textures: dense irregular tree canopy texture, geometric crop field patterns, rough charred earth, fine red dust particles\nConstraints: maintain the stark contrast between natural forest and agricultural development as the central visual narrative\nAvoid: oversaturated colors, artificial-looking boundaries, cartoonish rendering, watermark, text overlay",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/800bbd84-28f5-43f8-8489-59eaee0446c2/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: documentary aerial photography, environmental editorial\\nPrimary request: aerial view of the boundary between Amazon rainforest and modern agricultural development zone\\nScene/backdrop: high-altitude perspective showing the stark contrast between untouched jungle and farmland extending to horizon, with a dirt road winding through\\nSubject: left side shows dense virgin tropical rainforest with layered canopy and emergent Brazil nut trees; right side shows geometric soybean fields in varying growth stages from fresh green to dry yellow; clear boundary with charred black soil and felled trees; red dust rising from trucks on the dirt road\\nStyle/medium: documentary photography, photojournalistic aerial survey\\nComposition/framing: top-down aerial view, wide establishing shot, drone perspective\\nLighting/mood: natural daylight, clear atmospheric conditions, somber and thought-provoking mood highlighting environmental tension\\nColor palette: deep forest greens + fresh and dry crop yellows + burnt black + reddish-brown earth tones + pale sky blue\\nMaterials/textures: dense irregular tree canopy texture, geometric crop field patterns, rough charred earth, fine red dust particles\\nConstraints: maintain the stark contrast between natural forest and agricultural development as the central visual narrative\\nAvoid: oversaturated colors, artificial-looking boundaries, cartoonish rendering, watermark, text overlay\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 11182
+    },
+    {
+      "query_idx": 15,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an interior design rendering for a 20-square-meter Japanese wabi-sabi meditation tea room.\n\nStyle/medium: interior design visualization, wabi-sabi aesthetic, photorealistic architectural rendering\nComposition: wide-angle interior shot capturing the full room layout, eye-level perspective, balanced negative space\nSubject: low black walnut tea table with natural grain and fine cracks, several floor cushions (zabuton), irregular handmade terracotta floor tiles, rough clay flower vessel with dried branches and moss balls\nScene/backdrop: 20-square-meter meditation space, one wall in raw diatomaceous earth texture, opposite wall with floor-to-ceiling sliding shoji doors revealing bamboo grove silhouettes through translucent washi paper, skylight above\nLighting/mood: natural light streaming diagonally from skylight, soft diffused illumination, quiet and contemplative zen atmosphere\nColor palette: off-white as base, natural wood tones as anchor, charcoal gray and moss green as accents, restrained and earthy harmony\nMaterials/textures: hand-fired irregular terracotta tiles with organic edges, black walnut wood grain with natural imperfections, rough diatomaceous earth wall surface, translucent washi paper, coarse ceramic vessel, natural moss\nConstraints: must convey extreme restraint of Eastern aesthetics and inner tranquility; no modern furniture or bright colors\nAvoid: glossy surfaces, perfect symmetry, bright artificial lighting, cluttered decorations, generic Scandinavian minimalism",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/b5d9a9f1-3512-4ce6-8413-4a2de81454ba/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an interior design rendering for a 20-square-meter Japanese wabi-sabi meditation tea room.\\n\\nStyle/medium: interior design visualization, wabi-sabi aesthetic, photorealistic architectural rendering\\nComposition: wide-angle interior shot capturing the full room layout, eye-level perspective, balanced negative space\\nSubject: low black walnut tea table with natural grain and fine cracks, several floor cushions (zabuton), irregular handmade terracotta floor tiles, rough clay flower vessel with dried branches and moss balls\\nScene/backdrop: 20-square-meter meditation space, one wall in raw diatomaceous earth texture, opposite wall with floor-to-ceiling sliding shoji doors revealing bamboo grove silhouettes through translucent washi paper, skylight above\\nLighting/mood: natural light streaming diagonally from skylight, soft diffused illumination, quiet and contemplative zen atmosphere\\nColor palette: off-white as base, natural wood tones as anchor, charcoal gray and moss green as accents, restrained and earthy harmony\\nMaterials/textures: hand-fired irregular terracotta tiles with organic edges, black walnut wood grain with natural imperfections, rough diatomaceous earth wall surface, translucent washi paper, coarse ceramic vessel, natural moss\\nConstraints: must convey extreme restraint of Eastern aesthetics and inner tranquility; no modern furniture or bright colors\\nAvoid: glossy surfaces, perfect symmetry, bright artificial lighting, cluttered decorations, generic Scandinavian minimalism\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11838
+    },
+    {
+      "query_idx": 15,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "室内设计效果图，展示一间日式侘寂风格的冥想茶室。空间面积约20平方米，整体色调以米白、原木色、炭灰和苔藓绿为主。地面铺设手工烧制的不规则陶砖，中央放置一张低矮的黑胡桃木茶桌，桌面有自然的木纹和细微裂纹，旁边摆放着几个蒲团坐垫。一侧墙面为原始质感的硅藻泥，另一侧是落地推拉式障子门，透过半透明的和纸可见室外竹林的绰约身影。角落里摆放着一个粗陶花器，插着几枝枯枝和苔藓球。自然光从天窗斜射而入，光影静谧而禅意十足，整体空间传达出极度克制的东方美学与内心宁静。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/4e92dd68-dc73-4cf8-b424-cc8480e6fcab/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 15,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: interior-design-render\nAsset type: architectural visualization, editorial interior photo\nPrimary request: a 20-square-meter Japanese wabi-sabi meditation tea room with restrained Eastern aesthetics and inner tranquility\nScene/backdrop: intimate tea room interior with skylight, bamboo forest visible through translucent shoji screens\nSubject: low black walnut tea table with natural wood grain and fine cracks, several floor cushion seats, rough ceramic flower vase with dry branches and moss balls\nStyle/medium: architectural visualization, photorealistic interior render, wabi-sabi aesthetic\nComposition/framing: wide interior shot, eye-level perspective capturing the full spatial layout and material textures\nLighting/mood: natural daylight streaming through skylight at an angle, quiet and meditative atmosphere with soft shadows\nColor palette: off-white, natural wood tones, charcoal gray, moss green, earthy clay\nMaterials/textures: hand-fired irregular terracotta floor tiles, raw diatom mud wall texture, translucent washi paper on sliding doors, rough unglazed ceramic, natural wood grain with cracks\nConstraints: preserve the 20-square-meter spatial scale, maintain wabi-sabi imperfection aesthetic, keep bamboo forest silhouette visible through shoji\nAvoid: glossy surfaces, perfect symmetry, bright artificial lighting, clutter, modern furniture, vivid saturated colors",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/06161101-9664-408c-93b8-3d49cbeaeb4c/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: interior-design-render\\nAsset type: architectural visualization, editorial interior photo\\nPrimary request: a 20-square-meter Japanese wabi-sabi meditation tea room with restrained Eastern aesthetics and inner tranquility\\nScene/backdrop: intimate tea room interior with skylight, bamboo forest visible through translucent shoji screens\\nSubject: low black walnut tea table with natural wood grain and fine cracks, several floor cushion seats, rough ceramic flower vase with dry branches and moss balls\\nStyle/medium: architectural visualization, photorealistic interior render, wabi-sabi aesthetic\\nComposition/framing: wide interior shot, eye-level perspective capturing the full spatial layout and material textures\\nLighting/mood: natural daylight streaming through skylight at an angle, quiet and meditative atmosphere with soft shadows\\nColor palette: off-white, natural wood tones, charcoal gray, moss green, earthy clay\\nMaterials/textures: hand-fired irregular terracotta floor tiles, raw diatom mud wall texture, translucent washi paper on sliding doors, rough unglazed ceramic, natural wood grain with cracks\\nConstraints: preserve the 20-square-meter spatial scale, maintain wabi-sabi imperfection aesthetic, keep bamboo forest silhouette visible through shoji\\nAvoid: glossy surfaces, perfect symmetry, bright artificial lighting, clutter, modern furniture, vivid saturated colors\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 11067
+    },
+    {
+      "query_idx": 16,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial sports photograph capturing a peak moment in an NBA basketball game.\n\nStyle/medium: professional sports photography in the style of Getty Images, photorealistic, 1/2000 second shutter freeze\nComposition: telephoto lens compression, tight framing on airborne player at rim height, low-angle perspective emphasizing vertical elevation\nSubject: NBA player mid-air executing a powerful dunk, right arm extended high with ball, wrist cocked for the slam, face showing explosive intensity and focus, sweat droplets frozen mid-flight\nScene/backdrop: blurred arena crowd creating bokeh, sea of colorful glow sticks and phone flashlights forming dreamy light points, opposing player below jumping for a block attempt\nLighting/mood: dramatic overhead arena lights creating strong chiaroscuro contrast on the athlete's body, rim lighting on sweat droplets, theatrical tension\nColor palette: warm skin tones and orange basketball as anchor, cool arena shadows, vibrant multicolor crowd bokeh as accent\nMaterials/textures: glistening sweat beads with specular highlights, textured basketball surface, fabric weave of jersey visible\nAvoid: plastic skin, motion blur on main subject, watermark, over-sharpening, 8K stuffer aesthetic, cartoonish proportions",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/a3f92f01-1a34-48ea-9f67-842288b0a495/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an editorial sports photograph capturing a peak moment in an NBA basketball game.\\n\\nStyle/medium: professional sports photography in the style of Getty Images, photorealistic, 1/2000 second shutter freeze\\nComposition: telephoto lens compression, tight framing on airborne player at rim height, low-angle perspective emphasizing vertical elevation\\nSubject: NBA player mid-air executing a powerful dunk, right arm extended high with ball, wrist cocked for the slam, face showing explosive intensity and focus, sweat droplets frozen mid-flight\\nScene/backdrop: blurred arena crowd creating bokeh, sea of colorful glow sticks and phone flashlights forming dreamy light points, opposing player below jumping for a block attempt\\nLighting/mood: dramatic overhead arena lights creating strong chiaroscuro contrast on the athlete's body, rim lighting on sweat droplets, theatrical tension\\nColor palette: warm skin tones and orange basketball as anchor, cool arena shadows, vibrant multicolor crowd bokeh as accent\\nMaterials/textures: glistening sweat beads with specular highlights, textured basketball surface, fabric weave of jersey visible\\nAvoid: plastic skin, motion blur on main subject, watermark, over-sharpening, 8K stuffer aesthetic, cartoonish proportions\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 11214
+    },
+    {
+      "query_idx": 16,
+      "skill_id": "F11-direct-api",
+      "status": "failed",
+      "final_prompt": {
+        "prompt": "体育运动摄影风格，捕捉NBA篮球比赛中的高光时刻。画面定格在一位球员完成暴扣的瞬间：球员身体腾空至篮筐高度，右手持球高举，手腕下压即将完成扣篮动作，面部表情充满爆发力与专注。球场灯光从上方打下，在球员身上形成强烈的明暗对比，汗水在灯光下飞溅成细小水珠。背景是虚化的观众席，五彩的荧光棒和手机闪光灯形成梦幻般的光点海洋。对手球员在下方跳起试图封盖，肢体动态充满张力。采用1/2000秒快门速度冻结动作，长焦镜头压缩空间，整体画面充满力量感与戏剧张力，参考Getty Images体育摄影美学。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": null,
+      "scores": {},
+      "note": "",
+      "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_3eabcfba0766438b8717179230a395fd.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 16,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: photorealistic-natural\nAsset type: sports photography, editorial photo\nPrimary request: freeze-frame of an NBA player executing a powerful slam dunk at the rim height\nScene/backdrop: professional NBA basketball court with blurred audience stands, sea of colorful glow sticks and phone flashlights creating dreamy bokeh\nSubject: male basketball player mid-air at rim level, right arm extended high holding basketball, wrist cocked down about to slam, explosive and focused facial expression, sweat droplets frozen in air under lights\nStyle/medium: sports photography, Getty Images editorial aesthetic, 1/2000s shutter freeze\nComposition/framing: telephoto lens compression, dynamic action framing, player as focal point\nLighting/mood: dramatic overhead arena lighting creating strong chiaroscuro contrast on player, high-contrast theatrical atmosphere\nColor palette: warm court wood tones, cool arena shadows, colorful bokeh from audience lights, skin tones with dramatic highlights\nMaterials/textures: realistic sweat droplets suspended in air, athletic jersey fabric, basketball leather texture, glossy court floor\nConstraints: preserve the frozen motion of dunk, keep opponent player below attempting block with tense body language, maintain Getty Images sports photography style\nAvoid: plastic skin, motion blur on main subject, deformed hands, watermark, over-saturated colors",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/56e83fbe-bffb-42ca-97b0-483a685a9445/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: sports photography, editorial photo\\nPrimary request: freeze-frame of an NBA player executing a powerful slam dunk at the rim height\\nScene/backdrop: professional NBA basketball court with blurred audience stands, sea of colorful glow sticks and phone flashlights creating dreamy bokeh\\nSubject: male basketball player mid-air at rim level, right arm extended high holding basketball, wrist cocked down about to slam, explosive and focused facial expression, sweat droplets frozen in air under lights\\nStyle/medium: sports photography, Getty Images editorial aesthetic, 1/2000s shutter freeze\\nComposition/framing: telephoto lens compression, dynamic action framing, player as focal point\\nLighting/mood: dramatic overhead arena lighting creating strong chiaroscuro contrast on player, high-contrast theatrical atmosphere\\nColor palette: warm court wood tones, cool arena shadows, colorful bokeh from audience lights, skin tones with dramatic highlights\\nMaterials/textures: realistic sweat droplets suspended in air, athletic jersey fabric, basketball leather texture, glossy court floor\\nConstraints: preserve the frozen motion of dunk, keep opponent player below attempting block with tense body language, maintain Getty Images sports photography style\\nAvoid: plastic skin, motion blur on main subject, deformed hands, watermark, over-saturated colors\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 11516
+    },
+    {
+      "query_idx": 17,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create a retro-futuristic sci-fi illustration of a 1960s vision of year 2000 lunar colony life.\n\nStyle/medium: 1960s-70s sci-fi magazine cover illustration, retro-futurism, vintage offset print with visible halftone dot texture, bold linework, slightly faded saturated colors, optimistic atomic-age aesthetic\nComposition: wide establishing shot, slightly low angle looking up at the domed city, Earth positioned in upper right quadrant as focal anchor\nSubject: massive transparent geodesic dome covering a miniature city with skyscrapers, green parks, monorail tracks, and flying vehicles inside\nScene/backdrop: barren gray lunar surface outside the dome, black starless void of space, Earth hanging in the distance showing blue oceans and white clouds\nLighting/mood: bright artificial lighting inside the dome contrasting with harsh lunar shadows outside, sense of wonder and naive optimism about the future\nColor palette: saturated primary colors (teal, orange, yellow) with intentional fading/aging, cool gray lunar regolith, deep black space, vibrant blue-and-white Earth\nMaterials/textures: smooth reflective dome surface, printed halftone dot pattern throughout, crisp hard-edged illustration lines, matte paper texture\nAvoid: photorealistic rendering, modern CGI aesthetic, 8K stuffer language, contemporary sci-fi grimdark tone, digital gradients without halftone texture",
+        "size": "1536x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/66dba6d0-6617-4d7f-99df-e2cb02bb7c6a/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create a retro-futuristic sci-fi illustration of a 1960s vision of year 2000 lunar colony life.\\n\\nStyle/medium: 1960s-70s sci-fi magazine cover illustration, retro-futurism, vintage offset print with visible halftone dot texture, bold linework, slightly faded saturated colors, optimistic atomic-age aesthetic\\nComposition: wide establishing shot, slightly low angle looking up at the domed city, Earth positioned in upper right quadrant as focal anchor\\nSubject: massive transparent geodesic dome covering a miniature city with skyscrapers, green parks, monorail tracks, and flying vehicles inside\\nScene/backdrop: barren gray lunar surface outside the dome, black starless void of space, Earth hanging in the distance showing blue oceans and white clouds\\nLighting/mood: bright artificial lighting inside the dome contrasting with harsh lunar shadows outside, sense of wonder and naive optimism about the future\\nColor palette: saturated primary colors (teal, orange, yellow) with intentional fading/aging, cool gray lunar regolith, deep black space, vibrant blue-and-white Earth\\nMaterials/textures: smooth reflective dome surface, printed halftone dot pattern throughout, crisp hard-edged illustration lines, matte paper texture\\nAvoid: photorealistic rendering, modern CGI aesthetic, 8K stuffer language, contemporary sci-fi grimdark tone, digital gradients without halftone texture\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 12042
+    },
+    {
+      "query_idx": 17,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "复古科幻插画风格，描绘1960年代人们想象中的2000年太空城市生活场景。画面展示一座建造在月球表面的圆顶殖民地城市，巨大的透明穹顶内部是一座微型城市，有摩天大楼、公园、单轨列车和飞行汽车。穹顶外是月球荒芜的灰色地表，宇航员驾驶着圆形飞碟在穹顶外巡逻，远处地球悬挂在漆黑的宇宙中，蓝白相间，美丽壮观。整体风格参考上世纪六七十年代的科幻杂志封面插画，色彩鲜艳但略带褪色感，线条硬朗，充满那个时代特有的乐观主义与对未来的天真想象，印刷网点纹理增加复古质感。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/711b581b-03ec-4441-9353-d7c1a29e32b8/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 17,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: illustration-editorial\nAsset type: retro sci-fi magazine cover, 1960s space-age illustration\nPrimary request: imagined year-2000 lunar colony city life as envisioned in the 1960s\nScene/backdrop: lunar surface with gray barren terrain, a massive transparent geodesic dome enclosing a miniature city, black star-filled cosmos with Earth hanging in the distance\nSubject: domed lunar colony with skyscrapers, parks, monorail trains, flying cars inside; astronauts piloting circular flying saucers patrolling outside the dome; Earth visible as blue and white sphere against void\nStyle/medium: 1960s-70s sci-fi magazine cover illustration, retro-futurism, hard-edged linework, optimistic naive vision of the future\nComposition/framing: wide establishing shot, dome as central focal point, Earth positioned in upper background, flying saucers in mid-ground\nLighting/mood: dramatic contrast between artificial dome lighting and harsh lunar shadows, cosmic darkness, hopeful and aspirational mood\nColor palette: vibrant saturated hues with slight faded/washed quality, retro printing color separation, cyan-magenta-yellow registration feel\nMaterials/textures: halftone dot pattern texture, newsprint paper grain, vintage offset printing aesthetic, smooth illustration surfaces with hard edges\nConstraints: preserve 1960s retro-futuristic aesthetic, maintain naive optimistic tone of the era, keep halftone texture visible\nAvoid: photorealistic rendering, modern CGI smoothness, desaturated dystopian palette, contemporary minimalist design",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/fc04c523-3fa9-4144-8c98-7611b2ca786e/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: illustration-editorial\\nAsset type: retro sci-fi magazine cover, 1960s space-age illustration\\nPrimary request: imagined year-2000 lunar colony city life as envisioned in the 1960s\\nScene/backdrop: lunar surface with gray barren terrain, a massive transparent geodesic dome enclosing a miniature city, black star-filled cosmos with Earth hanging in the distance\\nSubject: domed lunar colony with skyscrapers, parks, monorail trains, flying cars inside; astronauts piloting circular flying saucers patrolling outside the dome; Earth visible as blue and white sphere against void\\nStyle/medium: 1960s-70s sci-fi magazine cover illustration, retro-futurism, hard-edged linework, optimistic naive vision of the future\\nComposition/framing: wide establishing shot, dome as central focal point, Earth positioned in upper background, flying saucers in mid-ground\\nLighting/mood: dramatic contrast between artificial dome lighting and harsh lunar shadows, cosmic darkness, hopeful and aspirational mood\\nColor palette: vibrant saturated hues with slight faded/washed quality, retro printing color separation, cyan-magenta-yellow registration feel\\nMaterials/textures: halftone dot pattern texture, newsprint paper grain, vintage offset printing aesthetic, smooth illustration surfaces with hard edges\\nConstraints: preserve 1960s retro-futuristic aesthetic, maintain naive optimistic tone of the era, keep halftone texture visible\\nAvoid: photorealistic rendering, modern CGI smoothness, desaturated dystopian palette, contemporary minimalist design\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 12860
+    },
+    {
+      "query_idx": 18,
+      "skill_id": "F10-brief-and-fields-en",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Create an editorial product shot for a high-end jewelry brand featuring a sapphire and diamond set inspired by the deep ocean.\n\nStyle/medium: luxury jewelry advertising photography, Cartier and Tiffany top-tier campaign aesthetic, photorealistic\nComposition: multi-angle professional jewelry lighting setup, close-up shots highlighting necklace at collarbone, earrings framing the face, bracelet on wrist, medium close-up portrait\nSubject: elegant East Asian female model with fair skin wearing a deep blue strapless gown, showcasing a jewelry set including necklace, earrings and bracelet; necklace features a 15-carat Sri Lankan royal blue sapphire center stone surrounded by 8 carats total of pear and round brilliant diamonds, platinum setting with intricate wave and coral engravings\nScene/backdrop: luxury yacht deck at night, gentle sea breeze, deep ocean and star-filled night sky in background\nLighting/mood: professional jewelry lighting system with multi-angle fill lights ensuring perfect fire and brilliance of gemstones, luxurious and mysterious atmosphere\nColor palette: deep royal blue as anchor (sapphire and gown), brilliant white diamond sparkle, platinum silver metal tones, dark navy night sky\nMaterials/textures: lustrous platinum with fine wave and coral engravings, faceted sapphire with velvety depth, scintillating diamond facets, smooth porcelain skin, flowing silk gown fabric\nAvoid: plastic-looking gemstones, flat lighting, over-processed skin, watermark, generic stock photo aesthetic, 8K stuffer words",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/f019aed2-fb8c-4667-85f9-f1cae09badbc/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\":\"Create an editorial product shot for a high-end jewelry brand featuring a sapphire and diamond set inspired by the deep ocean.\\n\\nStyle/medium: luxury jewelry advertising photography, Cartier and Tiffany top-tier campaign aesthetic, photorealistic\\nComposition: multi-angle professional jewelry lighting setup, close-up shots highlighting necklace at collarbone, earrings framing the face, bracelet on wrist, medium close-up portrait\\nSubject: elegant East Asian female model with fair skin wearing a deep blue strapless gown, showcasing a jewelry set including necklace, earrings and bracelet; necklace features a 15-carat Sri Lankan royal blue sapphire center stone surrounded by 8 carats total of pear and round brilliant diamonds, platinum setting with intricate wave and coral engravings\\nScene/backdrop: luxury yacht deck at night, gentle sea breeze, deep ocean and star-filled night sky in background\\nLighting/mood: professional jewelry lighting system with multi-angle fill lights ensuring perfect fire and brilliance of gemstones, luxurious and mysterious atmosphere\\nColor palette: deep royal blue as anchor (sapphire and gown), brilliant white diamond sparkle, platinum silver metal tones, dark navy night sky\\nMaterials/textures: lustrous platinum with fine wave and coral engravings, faceted sapphire with velvety depth, scintillating diamond facets, smooth porcelain skin, flowing silk gown fabric\\nAvoid: plastic-looking gemstones, flat lighting, over-processed skin, watermark, generic stock photo aesthetic, 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+      "ms": 12346
+    },
+    {
+      "query_idx": 18,
+      "skill_id": "F11-direct-api",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "高端珠宝品牌广告大片风格，主角是一套以深海为灵感设计的蓝宝石与钻石套装珠宝，包含项链、耳环和手镯。项链主石为一颗15克拉的斯里兰卡皇家蓝蓝宝石，周围镶嵌着共计8克拉的梨形与圆形钻石，铂金底托雕刻着精细的海浪与珊瑚纹样。模特为一位气质高雅的东方女性，皮肤白皙，着深蓝色无肩带礼服，珠宝在颈部与耳畔熠熠生辉。拍摄场景为豪华游艇甲板，夜晚海风轻拂，背景是深邃的大海与繁星点点的夜空。摄影采用专业珠宝灯光系统，多角度补光确保宝石火彩完美呈现，整体画面奢华而神秘，参考Cartier与Tiffany顶级广告美学。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/650bcde7-3f41-4ba2-8839-f95a3ce50737/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "(F11 direct passthrough — no LLM call)",
+      "ms": 0
+    },
+    {
+      "query_idx": 18,
+      "skill_id": "F5-labeled-spec",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup\nAsset type: high-end jewelry brand campaign, luxury advertising still\nPrimary request: editorial jewelry portrait of a sapphire and diamond set inspired by deep ocean, featuring necklace, earrings and bracelet on an elegant East Asian model\nScene/backdrop: luxury yacht deck at night, gentle sea breeze, deep dark ocean and starry sky in background\nSubject: sophisticated East Asian female model with fair porcelain skin, wearing deep blue strapless evening gown; jewelry set includes necklace with 15-carat Sri Lankan royal blue sapphire center stone surrounded by 8 carats of pear and round brilliant diamonds, platinum setting with intricate wave and coral engravings, plus matching earrings and bracelet, gems sparkling brilliantly at neck and ears\nStyle/medium: high-end jewelry advertising photography, Cartier and Tiffany top-tier campaign aesthetic\nComposition/framing: medium close-up, three-quarter portrait, jewelry as focal point, shallow depth of field\nLighting/mood: professional multi-angle jewelry lighting system, precise accent lighting to maximize gem fire and brilliance, soft fill light on model, luxurious and mysterious atmosphere\nColor palette: deep royal blue sapphire + brilliant white diamonds + platinum silver + midnight navy gown + dark ocean blues + starlight whites\nMaterials/textures: faceted sapphire with velvety depth, scintillating diamond facets, polished platinum with fine engraving detail, silk gown fabric, polished yacht deck\nConstraints: keep the 15-carat Sri Lankan royal blue sapphire as hero stone, preserve the wave and coral engraving details on platinum setting, maintain jewelry as primary focal point\nAvoid: cheap costume jewelry look, plastic gems, overexposed highlights losing gem detail, cluttered background, watermark",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/5406af9e-5b6c-4e97-9d03-d9e7af900305/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: high-end jewelry brand campaign, luxury advertising still\\nPrimary request: editorial jewelry portrait of a sapphire and diamond set inspired by deep ocean, featuring necklace, earrings and bracelet on an elegant East Asian model\\nScene/backdrop: luxury yacht deck at night, gentle sea breeze, deep dark ocean and starry sky in background\\nSubject: sophisticated East Asian female model with fair porcelain skin, wearing deep blue strapless evening gown; jewelry set includes necklace with 15-carat Sri Lankan royal blue sapphire center stone surrounded by 8 carats of pear and round brilliant diamonds, platinum setting with intricate wave and coral engravings, plus matching earrings and bracelet, gems sparkling brilliantly at neck and ears\\nStyle/medium: high-end jewelry advertising photography, Cartier and Tiffany top-tier campaign aesthetic\\nComposition/framing: medium close-up, three-quarter portrait, jewelry as focal point, shallow depth of field\\nLighting/mood: professional multi-angle jewelry lighting system, precise accent lighting to maximize gem fire and brilliance, soft fill light on model, luxurious and mysterious atmosphere\\nColor palette: deep royal blue sapphire + brilliant white diamonds + platinum silver + midnight navy gown + dark ocean blues + starlight whites\\nMaterials/textures: faceted sapphire with velvety depth, scintillating diamond facets, polished platinum with fine engraving detail, silk gown fabric, polished yacht deck\\nConstraints: keep the 15-carat Sri Lankan royal blue sapphire as hero stone, preserve the wave and coral engraving details on platinum setting, maintain jewelry as primary focal point\\nAvoid: cheap costume jewelry look, plastic gems, overexposed highlights losing gem detail, cluttered background, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 14403
+    }
+  ],
+  "rewrite_llm": "kimi/kimi-k2.5",
+  "status": "finished"
+}

@@ -1,0 +1,197 @@
+{
+  "id": "d0cd1033-eefe-465d-8cb3-151fc003b56d",
+  "ts": 1777274530335,
+  "query": "跨境电商促销海报，目的是宣传，要求：1.有艺术字，2.有字体堆叠，3.画面较为复杂但不能杂乱，4.有产品或者主体挡住一些字体，4.画面比例16:9",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为跨境电商品牌生成一张促销宣传海报，画面比例 16:9，风格复杂但层次分明。\n\n风格/介质:数字平面海报设计，融合现代电商视觉语言，字体排版为核心设计元素，整体繁复但有秩序感\n构图:16:9 横构图，多层次纵深排布，产品/主体置于画面中前景，遮挡部分背景文字，形成前后层叠关系\n主体:跨境电商促销主体产品（如包裹、购物袋或标志性商品），置于画面中心偏下，实体感强，自然遮挡后方堆叠字体\n场景/背景:纯色或渐变色背景，叠加多层艺术字与装饰性字体作为背景肌理，字体大小错落、角度微倾，形成字体堆叠层\n光线/氛围:平面设计光感，主体带轻微投影以突出前景层次，整体氛围活跃、促销感强烈\n色彩搭配:高饱和主色（如品牌红或电商橙）作为视觉锚点，辅以对比色文字层，背景字体用低明度同色系以保持层次不乱\n材质/纹理:矢量平面质感，主体产品可带轻微光泽感，背景字体层保持扁平无纹理\n文字(原文保留):\"促销\" \"SALE\" \"跨境电商\" \"GLOBAL SHOPPING\"\n约束:艺术字必须可辨识；字体堆叠层须与前景主体形成明确遮挡关系；画面元素多但视觉重心清晰，不能杂乱\n避免:元素随机堆砌无层次、字体全部等大等色、主体与背景融为一体、廉价节日剪贴画风格、过度发光特效",
+        "size": "1792x1008",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "d3646c29-bb2c-40e2-8bdb-5d7aa733e721",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/6d352de5-1be8-4b30-82ab-85190735bc59.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0393,
+        "latency_ms": 59571,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Design a cross-border e-commerce promotional marketing poster with a 16:9 horizontal layout, featuring layered typographic composition and a complex yet visually organized scene.\n\nStyle/medium: bold editorial poster design, typographic-forward layout with decorative art lettering, inspired by high-energy retail campaign aesthetics — flat graphic elements mixed with photorealistic product rendering\nComposition: 16:9 horizontal frame, multi-layer typographic stack as background and mid-ground, hero product or subject placed in foreground physically overlapping and partially obscuring the stacked letterforms, creating depth through z-axis layering\nSubject: a prominent hero product (e-commerce merchandise such as electronics, fashion item, or packaged goods) rendered sharply in the foreground, cropping into and blocking portions of the text layers behind it\nScene/backdrop: rich layered background built from stacked promotional text blocks, decorative art-lettering headlines, and geometric graphic elements — busy but grid-anchored so the eye has clear hierarchy\nLighting/mood: bright, energetic, commercial promotional mood; clean directional light on the hero product to separate it from the typographic backdrop\nColor palette: high-contrast brand-forward palette — one dominant vivid hue (e.g. electric red or cobalt blue) as background anchor, white and yellow as typographic contrast colors, product rendered in natural tones to stand out\nMaterials/textures: smooth vector graphic layers for text and decorative elements; photorealistic surface texture on the hero product only\nText (verbatim): decorative art-lettering headlines and stacked promotional copy layered in the composition — some characters partially hidden behind the foreground product\nConstraints: typographic layers must stack visibly at three depth levels (background text, mid-ground decorative art lettering, foreground product occluding text); overall composition must feel complex and dense but not chaotic — clear visual hierarchy required; 16:9 aspect ratio strictly maintained\nAvoid: random text scatter with no grid logic, flat single-layer layout, empty or minimal backgrounds, illegible type caused by poor contrast, generic stock-photo collage look, stuffer aesthetic",
+        "size": "1792x1008",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "b68c5e5e-82fc-499b-a89d-fdcfe9abf73b",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/84e971d9-37c9-4994-ad8c-a335a0af6a25.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0391,
+        "latency_ms": 65622,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: promotional-poster\nAsset type: cross-border e-commerce promotional banner, 16:9 landscape\nPrimary request: visually rich promotional poster for cross-border e-commerce sale, featuring layered typographic art lettering with a hero product partially overlapping and obscuring some of the stacked text\nScene/backdrop: dynamic abstract background with depth — subtle gradient or geometric shapes suggesting a global/international commerce feel\nSubject: a hero product (e.g. packaged goods or electronics) placed center-foreground, physically overlapping and cutting through stacked typographic layers to create depth illusion\nStyle/medium: graphic design illustration, editorial poster art, mixed typography layout\nComposition/framing: 16:9 wide landscape, multi-layer composition — background text layer → midground decorative art lettering → foreground product hero breaking the text plane\nLighting/mood: vibrant, energetic, commercial promotional energy; bold and confident\nColor palette: rich saturated accent colors (red, gold, or electric blue) against a dark or deep-colored background to make text and product pop\nMaterials/textures: glossy product surface, layered flat graphic text elements, subtle paper or grain texture on background\nText (verbatim): 「跨境电商促销」stacked with decorative sale slogans (e.g. SALE / GLOBAL DEALS / LIMITED OFFER) as art lettering layers\nConstraints: stacked typography must have at least two distinct font weights and sizes creating visual hierarchy; product must visibly overlap and occlude part of the text layers; composition must feel complex but organized with clear visual flow\nAvoid: cluttered illegible chaos, uniform font sizes, floating product with no integration into text layers, plain white background",
+        "size": "1792x1008",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "1e715077-5f0f-490f-9880-299cd5ab8767",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/868203f4-7953-48b5-9d6a-bf2c8ca8f98f.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0387,
+        "latency_ms": 75585,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Cross-border e-commerce promotional poster design with bold typographic art, layered stacked display fonts in English and numerals forming a dense but organized visual hierarchy with sale slogans like 'GLOBAL SALE' and 'UP TO 70% OFF' overlapping in varying sizes and weights, stylized decorative lettering mixed with geometric sans-serif headlines creating intentional typographic depth, flat lay product photography style with packaged goods, cosmetics, electronics, and fashion items physically overlapping and cutting in front of background text layers to create foreground-midground-background depth, wide horizontal composition with strong grid structure keeping complexity organized not chaotic, vibrant gradient background in deep navy and electric orange with accent highlights, bold high-contrast commercial lighting with clean product shadows and punchy color blocking creating energetic retail mood.",
+        "size": "1792x1008",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "5b929982-754b-44a0-9d62-fb8f8eba7dcb",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/c5200205-5a44-467b-934b-c084a5fcd0a3.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0378,
+        "latency_ms": 73519,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F3-paragraph-neg",
+      "format_label": "F3 Paragraph + Neg + AR",
+      "final_prompt": {
+        "prompt": "A promotional poster design for cross-border e-commerce, rendered as a photorealistic editorial graphic composition in 16:9 landscape format. The layout features bold artistic lettering with stylized typographic stacking — multiple layers of large display text in contrasting weights and sizes, some in English and some decorative, arranged with intentional depth and hierarchy. A central product hero (a sleek consumer product such as a perfume bottle, sneaker, or electronics device) is placed prominently in the foreground, physically overlapping and partially obscuring the background typography, creating a sense of three-dimensional depth. The color palette is vibrant yet controlled — rich gradients of deep navy, electric gold, and coral red, evoking a premium sale atmosphere. Geometric graphic elements, subtle grid lines, and translucent shape overlays add visual complexity without clutter. The composition is dense and layered but organized through clear visual hierarchy: product in front, stacked type in mid-ground, abstract shapes behind. Lighting on the product is sharp and directional, casting soft shadows onto the text beneath. The overall aesthetic is modern, high-energy, and commercially polished — suitable for a cross-border e-commerce promotional campaign.\nNegative Prompts: no plain white background, no sparse layout, no blurry text, no illegible typography, no watermark, no cartoon style, no messy or chaotic arrangement, no extra unrelated objects.\nAspect Ratio: 16:9.",
+        "size": "1792x1008",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "5bcb71db-00d1-4b2d-9188-fc556855862d",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/f3f9de7c-24d5-48de-87fb-91c7dd3df032.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0384,
+        "latency_ms": 59591,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F2-cinematic",
+      "format_label": "F2 Cinematic Single",
+      "final_prompt": {
+        "prompt": "Editorial promotional poster for cross-border e-commerce sale, artistic stacked typography layered behind and in front of featured product hero, bold overlapping letterforms, complex yet structured composition, vivid commercial palette, dynamic depth.",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "efe9c494-e4cc-4ea1-8faf-4519764fa814",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/5c03fcae-5725-4241-82db-03a897ae6622.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0373,
+        "latency_ms": 57459,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"promotional poster composition\",\"description\":\"cross-border e-commerce sale poster with layered typographic design; bold artistic display text partially obscured by foreground product hero shot; stacked font layers creating depth — large headline type behind product, smaller body type in front; overall layout dense yet visually organized with clear hierarchy\",\"pose\":\"product centered-slightly-right, overlapping typographic layers\",\"expression\":\"energetic, commercial, eye-catching\"},\"scene\":{\"location\":\"flat graphic poster canvas\",\"time_of_day\":\"n/a\",\"ambience\":\"vibrant promotional energy, global commerce theme\"},\"lighting\":{\"primary\":\"studio product lighting on hero item\",\"secondary\":\"graphic design flat color fills and gradient backgrounds\",\"mood\":\"bold and dynamic\"},\"color_grading\":{\"palette\":[\"electric red\",\"deep navy\",\"bright gold\",\"clean white\",\"accent orange\"],\"tone\":\"saturated commercial\",\"contrast\":\"high\"},\"composition\":{\"shot_type\":\"full poster layout\",\"angle\":\"straight-on flat design view\",\"lens\":\"n/a — graphic design asset\"},\"style\":{\"medium\":\"digital graphic design poster\",\"reference\":\"modern cross-border e-commerce promotional banner, Supreme-style stacked type, editorial typographic layering\",\"texture\":\"clean vector with subtle noise grain on background\"},\"constraints\":[\"artistic display typeface for headline — large, decorative, expressive\",\"font stacking: at least three layers of text at different scales overlapping each other\",\"foreground product or hero subject physically overlaps and cuts across background text layers\",\"composition is visually complex but not chaotic — clear focal hierarchy maintained\",\"16:9 horizontal aspect ratio\",\"cross-border e-commerce promotional purpose clearly communicated through visual language\"],\"negative\":[\"empty or minimal layout\",\"single flat text layer\",\"no product present\",\"cluttered without hierarchy\",\"portrait or square crop\"]}",
+        "size": "1792x1008",
+        "quality": "high",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "15e2bda6-724c-4b43-8594-87be2844ec2d",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/5b5b7ef2-5d32-4bd3-95f8-c6ac982d8a4a.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0388,
+        "latency_ms": 54184,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F8-cn-task",
+      "format_label": "F8 中文任务式",
+      "final_prompt": {},
+      "image_job": {
+        "task_id": null,
+        "urls": [],
+        "local_paths": [],
+        "cost": null,
+        "latency_ms": null,
+        "error": "LLM 返回不是合法 JSON"
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "fbf655f6-1bff-458f-b3fe-b2fcb416737f",
+  "ts": 1777290492556,
+  "query": "品牌核心元素： 品牌标志：RAN QIU 标志 主色调：#8B3A1E（深秋棕红）、#E8DCCB（米色）、#D4A574（金棕色） 设计风格：东方美学、极简主义、自然诗意、温暖治愈   视觉语言：充足留白、浅景深、暖色调、金色时光 制作一张符合品牌调性的宣传海报。采用温暖的秋日氛围，结合品牌标志和自然元素，营造诗意而宁静的视觉体验。",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F11-direct-api",
+      "format_label": "F11 API 直接生成",
+      "final_prompt": {
+        "prompt": "品牌核心元素： 品牌标志：RAN QIU 标志 主色调：#8B3A1E（深秋棕红）、#E8DCCB（米色）、#D4A574（金棕色） 设计风格：东方美学、极简主义、自然诗意、温暖治愈   视觉语言：充足留白、浅景深、暖色调、金色时光 制作一张符合品牌调性的宣传海报。采用温暖的秋日氛围，结合品牌标志和自然元素，营造诗意而宁静的视觉体验。",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "f4a655e2-8773-4c6d-96e4-c46db926f6e8",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/fc7a1f23-9cb1-4ed6-9ceb-bea0a1f64989.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0534,
+        "latency_ms": 67052,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为 RAN QIU 品牌生成一张符合品牌调性的宣传海报。\n\n风格/介质:东方美学海报设计,极简主义,自然诗意,温暖治愈,东方禅意与当代极简融合\n构图:充足留白构图,浅景深效果,画面主体偏左或偏右留出呼吸空间,16:9 横版比例\n主体:RAN QIU 品牌标志置于画面视觉中心偏上位置,搭配秋日自然元素(落叶、枯枝、暖光)\n场景/背景:秋日户外自然场景,柔和的暖色调环境,金色时光(黄金时刻)光线\n光线/氛围:金色时光侧逆光,暖色调漫射光,柔和阴影,宁静诗意的整体氛围\n色彩搭配:深秋棕红 #8B3A1E 作为视觉锚点,米色 #E8DCCB 做底色与留白,金棕色 #D4A574 做点缀过渡\n材质/纹理:自然纸张质感,轻微纹理,温暖而不粗糙\n文字(原文保留):\"RAN QIU\"\n约束:品牌标志清晰可识别;整体色调严格遵循品牌色系统;留白不少于画面 40%\n避免:高饱和撞色、复杂装饰元素、冷色调、过度锐化、商业感过重的排版",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "1132bf5d-618e-416b-9eba-b8cfaa69a0dd",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/9486a135-5350-46b1-b8b0-5c02dd30f278.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0388,
+        "latency_ms": 45045,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: brand-poster\nAsset type: promotional poster for lifestyle brand\nPrimary request: warm autumn atmosphere brand poster featuring RAN QIU logo with natural elements, poetic and serene visual experience\nScene/backdrop: golden hour autumn landscape with soft natural elements like dried grass, fallen leaves, gentle sunlight filtering through trees, generous negative space\nSubject: RAN QIU brand logo prominently placed, surrounded by minimal natural autumn elements\nStyle/medium: editorial photography style, oriental aesthetics, minimalist design\nComposition/framing: balanced layout with generous white space, shallow depth of field, logo as focal point\nLighting/mood: golden hour warm lighting, soft diffused sunlight, warm and healing atmosphere\nColor palette: #8B3A1E (deep autumn brown-red), #E8DCCB (beige), #D4A574 (golden brown), warm earth tones\nMaterials/textures: natural paper texture, soft fabric, organic dried botanical elements\nText (verbatim): \"RAN QIU\"\nConstraints: maintain minimalist aesthetic with ample negative space, keep color palette strictly to brand colors #8B3A1E #E8DCCB #D4A574\nAvoid: cluttered composition, oversaturated colors, cold blue tones, busy patterns, harsh shadows",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "ea04e513-928d-4c0c-9bd6-37d5549b8430",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/93579287-4f31-43cc-8f2a-0e7b9e1b88b6.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0425,
+        "latency_ms": 57040,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Design an original, non-infringing marketing poster for the brand \"RAN QIU\" that conveys autumn warmth and poetic tranquility.\n\nStyle/medium: minimalist editorial poster design with East Asian aesthetic sensibility, clean typography, poetic and healing visual tone\nComposition: centered brand mark with generous negative space, balanced layout with shallow depth of field effect\nSubject: brand wordmark \"RAN QIU\" as the focal point, integrated with subtle natural autumn elements (dried leaves, warm light, organic textures)\nScene/backdrop: soft warm autumn atmosphere with golden hour lighting, blurred natural background suggesting peaceful outdoor setting\nLighting/mood: warm golden hour light, soft and diffused, creating a serene and comforting mood\nColor palette: deep autumn brown-red (#8B3A1E) as anchor, beige (#E8DCCB) as base, golden brown (#D4A574) as accent, harmonious warm palette with generous white space\nMaterials/textures: matte paper texture, natural organic surfaces, soft gradients\nText (verbatim): \"RAN QIU\"\nConstraints: must maintain legibility at various sizes; minimalist approach with abundant white space; no competing visual elements\nAvoid: cluttered composition, cold color tones, harsh shadows, neon colors, over-saturated palette, generic stock photo aesthetic, gradients unless subtle",
+        "size": "1024x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "b36e37e5-dc6c-4250-90a8-40107e4b0e64",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/d8933de1-4991-4541-a0ba-d9de0d17fc58.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0425,
+        "latency_ms": 53160,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "kimi/kimi-k2.5"
+  }
+}

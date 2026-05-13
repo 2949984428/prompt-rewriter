@@ -17,14 +17,27 @@ export type LocalImageHit = {
   ext: string; // "png" | "jpg" | "webp" 等(无前导点)
 };
 
-// 解析 url 到本地绝对路径。失败返回 null(url 不是本地图、文件不存在等)
+// B2 fix:invalid percent-encoded URL(如 `%E0` 单字节)会让 decodeURIComponent
+// 抛 URIError → propagate 到 export 整体 500。这里 try/catch 一次,失败返回 null。
+function safeDecodeURIComponent(s: string): string | null {
+  try {
+    return decodeURIComponent(s);
+  } catch {
+    return null;
+  }
+}
+
+// 解析 url 到本地绝对路径。失败返回 null(url 不是本地图、文件不存在、URI 编码非法等)
 export function resolveLocalImage(url: string | undefined | null): LocalImageHit | null {
   if (!url || !url.startsWith(URL_PREFIX)) return null;
   const rest = url.slice(URL_PREFIX.length);
   const parts = rest.split("/");
   if (parts.length < 2) return null;
-  const taskId = path.basename(decodeURIComponent(parts[0]));
-  const filename = path.basename(decodeURIComponent(parts.slice(1).join("/")));
+  const decodedTask = safeDecodeURIComponent(parts[0]);
+  const decodedFile = safeDecodeURIComponent(parts.slice(1).join("/"));
+  if (decodedTask === null || decodedFile === null) return null;
+  const taskId = path.basename(decodedTask);
+  const filename = path.basename(decodedFile);
   if (!taskId || !filename) return null;
   const abs = path.join(IMAGES_ROOT, taskId, filename);
   if (!abs.startsWith(IMAGES_ROOT + path.sep)) return null;

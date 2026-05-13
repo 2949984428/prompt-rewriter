@@ -23,13 +23,19 @@ import {
 import {
   currentFormatRunAtom,
   formatJobAtomFamily,
+  formatCellKey,
+  formatReferenceImagesAtom,
 } from "@/lib/atoms-format";
+import {
+  imageGeneratorOptionsAtom,
+} from "@/lib/atoms-shared";
 import { ImageLightbox } from "@/components/ui/image-lightbox";
 import { copyImageToClipboard } from "@/lib/copy-image";
 import {
   historyIndexAtom,
 } from "@/lib/atoms-history-index";
 import { startImageJob, useImageJobPoller } from "@/lib/image-job";
+import { imageModelAtom } from "@/lib/atoms-shared";
 import {
   writeHistoryRunDebounced,
   summarizeFormatRecord,
@@ -38,14 +44,27 @@ import type { FormatRun, FormatRunRecord } from "@/lib/schema-format";
 
 export function FormatCell({
   formatId,
+  imageModel = "",
   isWinner,
 }: {
   formatId: string;
+  // 该 cell 绑定的生图模型("" = 单 model 模式/后端默认)。多 model 模式下同 formatId 会有多个 cell。
+  imageModel?: string;
   isWinner: boolean;
 }) {
-  const { state, setState } = useImageJobPoller(formatJobAtomFamily(formatId));
+  const cellKey = formatCellKey(formatId, imageModel);
+  const { state, setState } = useImageJobPoller(formatJobAtomFamily(cellKey));
   const currentRun = useAtomValue(currentFormatRunAtom);
+  const referenceImages = useAtomValue(formatReferenceImagesAtom);
+  const fallbackModel = useAtomValue(imageModelAtom);
+  const generatorOptions = useAtomValue(imageGeneratorOptionsAtom);
   const store = useStore();
+
+  // 把 (format_id, image_model) 双键找 FormatRun 的 helper
+  const findRun = (runs: FormatRun[] | undefined) =>
+    runs?.find(
+      (r) => r.format_id === formatId && (r.image_model ?? "") === imageModel
+    );
 
   // 把 currentFormatRun 的最新形态 patch 后,同时:
   //   1. set 回 atom(UI 立刻反映)
@@ -73,9 +92,9 @@ export function FormatCell({
     });
   };
 
-  // 重试:重新调 startImageJob,用本路当前 final_prompt
+  // 重试:重新调 startImageJob,用本路当前 final_prompt + 当前 cell 的 model
   const onRetry = () => {
-    const r = currentRun?.format_runs.find((x) => x.format_id === formatId);
+    const r = findRun(currentRun?.format_runs);
     const fp = r?.final_prompt;
     if (!fp?.prompt) return;
     void startImageJob(setState, {
@@ -84,16 +103,21 @@ export function FormatCell({
       quality: fp.quality,
       n: fp.n,
       output_format: fp.output_format,
+      reference_images: referenceImages,
+      // cell 绑定 model > 全局 fallback > 后端默认
+      model: imageModel || fallbackModel || undefined,
     });
   };
   const canRetry =
-    !!currentRun?.format_runs.find((x) => x.format_id === formatId)?.final_prompt
-      ?.prompt &&
+    !!findRun(currentRun?.format_runs)?.final_prompt?.prompt &&
     state.status !== "creating" &&
     state.status !== "polling";
 
-  // 找到本格对应的 FormatRun
-  const run = currentRun?.format_runs.find((r) => r.format_id === formatId);
+  // 找到本格对应的 FormatRun(双键定位)
+  const run = findRun(currentRun?.format_runs);
+  const modelDisplay =
+    generatorOptions.find((o) => o.name === imageModel)?.display_name ??
+    imageModel;
 
   // ─── 完成时回填 image_job 到 currentFormatRun + 写新历史接口 ───
   const lastFinishedRef = useRef<number | null>(null);
@@ -106,7 +130,7 @@ export function FormatCell({
     if (!cur) return;
     const isLocal = (state.urls ?? []).every((u) => u.startsWith("/api/image-file/"));
     const updatedRuns = cur.format_runs.map((r) =>
-      r.format_id === formatId
+      r.format_id === formatId && (r.image_model ?? "") === imageModel
         ? {
             ...r,
             image_job: {
@@ -124,7 +148,7 @@ export function FormatCell({
         : r
     );
     persistRecord({ ...cur, format_runs: updatedRuns });
-  }, [state.finishedAt, state, formatId, store]);
+  }, [state.finishedAt, state, formatId, imageModel, store]);
 
   if (!run) {
     return (
@@ -146,10 +170,16 @@ export function FormatCell({
         onRetry={onRetry}
         canRetry={canRetry}
         imageUrl={state.urls[0]}
+        modelLabel={modelDisplay}
       />
       <CellImage state={state} sizeStr={run.final_prompt.size} />
       <CellPrompt run={run} />
-      <CellRating formatId={formatId} run={run} persistRecord={persistRecord} />
+      <CellRating
+        formatId={formatId}
+        imageModel={imageModel}
+        run={run}
+        persistRecord={persistRecord}
+      />
     </div>
   );
 }
@@ -163,12 +193,14 @@ function CellHeader({
   onRetry,
   canRetry,
   imageUrl,
+  modelLabel,
 }: {
   run: FormatRun;
   isWinner: boolean;
   onRetry: () => void;
   canRetry: boolean;
   imageUrl: string | undefined;
+  modelLabel?: string;
 }) {
   const [copyState, setCopyState] = useState<
     "idle" | "copying" | "copied" | "error"
@@ -196,6 +228,14 @@ function CellHeader({
         <span className="font-mono text-[13px] font-medium text-near-black">
           {run.format_label}
         </span>
+        {modelLabel && (
+          <span
+            title={`生图模型:${modelLabel}`}
+            className="rounded-sm bg-warm-sand/70 px-1.5 py-0.5 font-mono text-[10px] text-charcoal-warm"
+          >
+            {modelLabel}
+          </span>
+        )}
         {isWinner && (
           <span className="rounded-full bg-coral-soft-bg px-2 py-0.5 font-mono text-[10px] font-medium text-terracotta">
             🏆 胜出
@@ -384,23 +424,27 @@ function CellPrompt({ run }: { run: FormatRun }) {
 // ─── 评分 + 备注 ─────────────────────────────────────────
 function CellRating({
   formatId,
+  imageModel,
   run,
   persistRecord,
 }: {
   formatId: string;
+  imageModel: string;
   run: FormatRun;
   persistRecord: (r: FormatRunRecord) => void;
 }) {
   const currentRun = useAtomValue(currentFormatRunAtom);
+  const match = (r: FormatRun) =>
+    r.format_id === formatId && (r.image_model ?? "") === imageModel;
 
   const setScore = (score: number | null) => {
     if (!currentRun) return;
     const updatedRuns = currentRun.format_runs.map((r) =>
-      r.format_id === formatId
+      match(r)
         ? { ...r, pm_score: score, rated_at: score != null ? Date.now() : null }
         : r
     );
-    // 算 winner
+    // 算 winner(全维度评比,不限同 model;winner 仍是 format_id 维度)
     const scored = updatedRuns.filter((r) => typeof r.pm_score === "number");
     const winner =
       scored.length > 0
@@ -413,7 +457,7 @@ function CellRating({
   const setNotes = (notes: string) => {
     if (!currentRun) return;
     const updatedRuns = currentRun.format_runs.map((r) =>
-      r.format_id === formatId ? { ...r, pm_notes: notes } : r
+      match(r) ? { ...r, pm_notes: notes } : r
     );
     persistRecord({ ...currentRun, format_runs: updatedRuns });
   };

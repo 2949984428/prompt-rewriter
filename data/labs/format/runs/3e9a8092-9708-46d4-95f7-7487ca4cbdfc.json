@@ -1,0 +1,86 @@
+{
+  "id": "3e9a8092-9708-46d4-95f7-7487ca4cbdfc",
+  "ts": 1777277889196,
+  "query": "跨境电商促销海报，目的是宣传，要求：1.有艺术字，2.有字体堆叠，3.画面较为复杂但不能杂乱，4.有产品或者主体挡住一些字体，4.画面比例16:9",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create a marketing poster for a cross-border e-commerce promotional campaign, designed at 16:9 landscape ratio.\n\nStyle/medium: bold graphic design poster, layered typographic composition, commercial advertising illustration with editorial complexity — inspired by high-energy retail campaign visuals\nComposition: 16:9 wide landscape layout, multi-layer depth with foreground product hero blocking partial background type, dynamic diagonal tension between text layers and product\nSubject: hero product (e-commerce merchandise, e.g. packaged goods or electronics) placed prominently in foreground, partially overlapping and obscuring stacked background lettering; decorative artistic lettering integrated as visual element\nScene/backdrop: rich layered background built from stacked typographic blocks — large display type, medium subheading type, and fine-print type in multiple scales creating depth; background is dense but spatially organized\nLighting/mood: bright, high-energy promotional atmosphere; punchy contrast between product and type layers; festive commercial energy without clutter\nColor palette: bold primary accent color (e.g. vivid red or electric yellow) as hero tone, contrasted against deep navy or black background type mass, with white highlights for legibility hierarchy\nMaterials/textures: glossy product surface catching specular highlight, matte typographic layers receding into background, subtle paper or grain texture unifying the composition\nText (verbatim): decorative artistic lettering and stacked multi-scale type blocks as core visual structure — large display words in background, medium promotional copy in midground, product name or tagline as artistic wordmark\nConstraints: type stacking must create clear foreground / midground / background depth; product or main subject must visibly overlap and cut in front of at least one text layer; composition must feel complex and layered but spatially ordered — no chaotic overlap; all type layers must remain partially legible as graphic texture even where occluded\nAvoid: sparse or minimal layouts; single-layer flat design; illegible muddy color collisions; random scattered elements with no visual hierarchy; generic stock-photo collage look; stuffer aesthetic",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "5f362fef-1844-40df-97f3-c93c6cc1304e",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/1cb1b670-d0e5-4028-9822-589283110cda.png"
+        ],
+        "local_paths": [],
+        "cost": 0.039,
+        "latency_ms": 69618,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为跨境电商促销活动生成一张宣传海报，画面比例 16:9，风格复杂而有序。\n\n风格/介质:数字平面设计海报，融合现代电商视觉语言，排版层次丰富，整体有设计感但不凌乱\n构图:16:9 横版构图，中心偏左放置主体产品，文字层叠分布于画面各区域，产品实物遮挡部分字体形成前后层次感，视觉焦点清晰\n主体:跨境电商促销主体产品（如包装盒、购物袋或电子产品），造型立体，置于画面前景，遮挡背后堆叠的字体元素\n场景/背景:抽象几何色块或渐变背景，带有全球化/国际感的视觉符号（如地球线条、航运图案），背景层叠多个大字号装饰性文字\n光线/氛围:明亮硬光，高对比，节日促销氛围，充满活力与紧迫感\n色彩搭配:主色调以高饱和撞色为主（如红+金、橙+深蓝），促销感强烈，文字与背景之间有足够对比度保证可读性\n材质/纹理:光滑数字渲染质感，局部可有金属光泽或镭射渐变点缀\n文字(原文保留):\"SALE\" \"GLOBAL SHOPPING\" \"LIMITED OFFER\" 等艺术字以大字号堆叠排布，部分字体被产品主体遮挡，形成层次感\n约束:画面复杂但层次分明，不能杂乱；字体堆叠需有大小、粗细、透明度的变化；产品主体必须遮挡至少一处字体；艺术字需有变形、描边或立体效果处理\n避免:平铺直叙的单层排版、廉价电商模板感、字体与背景撞色导致不可读、元素随机堆砌无视觉逻辑",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "ea0c1ac7-b568-498c-b46b-b81ced1682d4",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/359b6eef-18a5-4779-a39c-2586f76a66ca.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0394,
+        "latency_ms": 57574,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: product-mockup / promotional poster\nAsset type: cross-border e-commerce promotional banner, 16:9 landscape\nPrimary request: a visually rich promotional poster for cross-border e-commerce with artistic lettering, layered typographic stacking, and a hero product partially overlapping the text\nScene/backdrop: abstract gradient background with subtle geometric or light-burst elements suggesting global commerce — dynamic but not chaotic\nSubject: one or two hero e-commerce products (e.g., packaged goods or electronics) placed in the foreground, physically overlapping and partially obscuring the stacked text layers behind them\nStyle/medium: modern graphic design illustration, commercial poster art, bold editorial layout\nComposition/framing: 16:9 wide landscape, multi-layer depth — background text layer → midground decorative type → foreground product blocking some letters, creating a sense of spatial depth\nLighting/mood: vibrant, energetic, festive promotional mood; soft directional light on the product to give it dimension\nColor palette: bold and saturated — deep navy or rich red as base, gold/yellow accent highlights, white text contrast\nMaterials/textures: glossy product surface, slight paper or foil texture on typographic elements\nText (verbatim): 艺术字体堆叠排版，部分文字被产品遮挡，营造层次感\nConstraints: text must be stacked in multiple layers with varied font sizes and weights; at least one product must visually overlap and cut in front of some letterforms; overall layout must feel structured and intentional, not cluttered\nAvoid: plain flat layout with no depth, random scattered elements with no visual hierarchy, illegible text due to poor contrast, watermark",
+        "size": "1792x1008",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "92da37bf-3634-47b1-9e20-010627ba823e",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/fd72be36-b2d5-452e-b487-fd1e8ecf7679.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0387,
+        "latency_ms": 75586,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

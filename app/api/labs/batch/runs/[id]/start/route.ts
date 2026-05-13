@@ -18,13 +18,21 @@ import { Semaphore, readRun, patchRecord } from "@/lib/batch-store";
 import { runCell, publishProgress } from "@/lib/batch-runner";
 import { isRunning, markRunning, markDone, publish } from "@/lib/batch-bus";
 import { loadAllLabels } from "@/lib/format-runner";
+import {
+  providerOf,
+  getProviderConcurrency,
+  type ImageProvider,
+} from "@/lib/concurrency-policy";
+import type { BatchCell } from "@/lib/schema";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
 const RequestSchema = z.object({
-  // 同时跑的 cell 数:默认 4(LLM gateway + 生图 gateway 两条都不至于打爆)
-  concurrency: z.number().int().min(1).max(16).default(4),
+  // 老字段:多 model 改造前是"全局 cell 并发上限"。
+  // 现在改成 per-provider 共享池(见 lib/concurrency-policy),此字段语义降级为"全部 provider 池都用这个 cap"的强 override。
+  // 不传 → 走 policy 默认(igw=8 / lovart=12)。
+  concurrency: z.number().int().min(1).max(16).optional(),
 });
 
 export async function POST(
@@ -53,7 +61,10 @@ export async function POST(
     return NextResponse.json({ error: "not found" }, { status: 404 });
   }
 
-  // 重复 start 防御:已经在跑就直接 202(幂等),不抛
+  // 心跳锁(lib/batch-bus.ts):
+  //   - 真的有 runner 在跑(60s 内有心跳)→ markRunning 返 false,short-circuit 返 202
+  //   - 老 runner 死了(无心跳 > 60s,典型场景:dev hot-reload kill async)→ markRunning 自动 takeover,继续跑
+  // 不再需要 force 参数;锁的生命周期跟 runner 自身绑定。
   if (!markRunning(id)) {
     return NextResponse.json(
       { ok: true, already_running: true },
@@ -67,27 +78,58 @@ export async function POST(
   const labelMap = await loadAllLabels();
   void (async () => {
     try {
-      const sem = new Semaphore(concurrency);
       const fresh = await readRun(id);
       if (!fresh) return;
       const pendingCells = fresh.cells.filter((c) => c.status === "pending");
-      // 先推一次 progress(让前端拿到 total)
-      await publishProgress(id);
+      await publishProgress(id); // 先推一次 progress(让前端拿到 total)
+
+      // ── per-provider 并发池 ──
+      // 实测:Lovart 网关 token-level in-flight 上限 = 15(超出返 1200000200),
+      // 所以同 provider 下的所有 model **共享**一个池(而不是 per-model 独立)。
+      // 跨 provider 互相独立(IGW 跟 Lovart 互不挤压)。
+      const cellsByProvider = new Map<ImageProvider, BatchCell[]>();
+      for (const c of pendingCells) {
+        const effModel = c.image_model || fresh.image_model || "";
+        const p = providerOf(effModel);
+        const arr = cellsByProvider.get(p);
+        if (arr) arr.push(c);
+        else cellsByProvider.set(p, [c]);
+      }
+
       await Promise.all(
-        pendingCells.map((c) =>
-          sem.run(async () => {
-            await runCell(
-              id,
-              fresh.queries[c.query_idx],
-              c.query_idx,
-              c.skill_id,
-              fresh.rewrite_llm || undefined,
-              labelMap,
-              fresh.include_universal
-            );
-            await publishProgress(id);
-          })
-        )
+        Array.from(cellsByProvider.entries()).map(async ([provider, cellsOfProvider]) => {
+          const cap = concurrency ?? getProviderConcurrency(provider);
+          const sem = new Semaphore(cap);
+          await Promise.all(
+            cellsOfProvider.map((c) =>
+              sem.run(async () => {
+                // 方案 C:per_query 优先,空 / 越界 fallback 到 record 级 reference_images
+                const perQ = fresh.per_query_reference_images?.[c.query_idx];
+                const effRefImages =
+                  perQ && perQ.length > 0 ? perQ : fresh.reference_images;
+                await runCell(
+                  id,
+                  fresh.queries[c.query_idx],
+                  c.query_idx,
+                  c.skill_id,
+                  fresh.rewrite_llm || undefined,
+                  labelMap,
+                  fresh.include_universal,
+                  effRefImages,
+                  c.image_model || fresh.image_model,
+                  {
+                    imageModelIds: fresh.image_model_ids,
+                    recordImageModel: fresh.image_model,
+                  },
+                  // Phase 2:test_kind + pipeline_id 透传
+                  fresh.test_kind,
+                  c.pipeline_id
+                );
+                await publishProgress(id);
+              })
+            )
+          );
+        })
       );
       // 最终态 publish(publishProgress 会发 finished,这里兜底)
       await publishProgress(id);
@@ -104,5 +146,8 @@ export async function POST(
     }
   })();
 
-  return NextResponse.json({ ok: true, concurrency }, { status: 202 });
+  return NextResponse.json(
+    { ok: true, concurrency: concurrency ?? "per-model-policy" },
+    { status: 202 }
+  );
 }

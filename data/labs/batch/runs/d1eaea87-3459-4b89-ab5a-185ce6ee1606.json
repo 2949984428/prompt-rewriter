@@ -1,0 +1,114 @@
+{
+  "id": "d1eaea87-3459-4b89-ab5a-185ce6ee1606",
+  "created_at": "2026-04-27T08:15:47.919Z",
+  "name": "smoke-1777277747",
+  "query_mode": "derive",
+  "purpose": "咖啡馆主视觉海报对比测试",
+  "queries": [
+    "一张充满文艺气息的咖啡馆主视觉海报，画面中心是一杯拉花精致的热拿铁，咖啡杯放置在复古木质桌面上，背景是温暖的橙黄色调暖光，浅焦虚化效果，整体风格偏日系小清新，适合张贴于咖啡馆入口或社交媒体宣传，画面比例9:16竖版，文字留白区域在上方三分之一处",
+    "现代简约风格咖啡馆主视觉海报，俯拍视角，桌面平铺构图，包含一杯黑咖啡、几颗咖啡豆、一本翻开的书和一支钢笔，黑白灰冷色调为主，局部点缀深红色咖啡液，光线来自左侧自然窗光，高对比度硬朗阴影，整体传递出都市精英的品质生活感"
+  ],
+  "skill_ids": [
+    "F2-cinematic",
+    "F9-brief-and-fields"
+  ],
+  "scoring_dimensions": [
+    {
+      "id": "overall",
+      "label": "总体观感",
+      "description": ""
+    },
+    {
+      "id": "intent",
+      "label": "意图还原度",
+      "description": "prompt 是否抓住测试目的"
+    }
+  ],
+  "cells": [
+    {
+      "query_idx": 0,
+      "skill_id": "F2-cinematic",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Cinematic editorial dreamy shot of a latte art coffee cup on a vintage wooden table, warm amber bokeh background, shallow depth of field, Japanese minimal aesthetic, top third reserved for text, soft diffused light.",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/246cd3a5-c2bb-49f5-b9d1-596100e53208/0.png"
+      ],
+      "scores": {
+        "overall": 4,
+        "intent": 3.5
+      },
+      "note": "smoke-test",
+      "error": null,
+      "raw": "{\"prompt\": \"Cinematic editorial dreamy shot of a latte art coffee cup on a vintage wooden table, warm amber bokeh background, shallow depth of field, Japanese minimal aesthetic, top third reserved for text, soft diffused light.\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 6824
+    },
+    {
+      "query_idx": 0,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为一家咖啡馆生成一张充满文艺气息的主视觉海报，适合张贴于咖啡馆入口或社交媒体宣传。\n\n风格/介质:日系小清新摄影风格，胶片质感，参考日本生活摄影杂志《Kinfolk》式的静物美学，温柔克制\n构图:竖版构图，画面中心偏下放置咖啡杯，上方三分之一区域为文字留白，浅焦虚化背景，50mm 定焦视角\n主体:一杯热拿铁，杯口拉花精致细腻，白色奶泡与咖啡色形成清晰图案，陶瓷杯身温润，放置于复古木质桌面上\n场景/背景:咖啡馆室内环境，背景虚化为橙黄色暖光光晕，隐约可见温暖的室内陈设轮廓\n光线/氛围:侧逆光，橙黄色暖调自然光或烛光氛围，光线柔和漫射，整体情绪温暖、慵懒、文艺\n色彩搭配:以奶油白与咖啡棕为主色，橙黄暖光作为背景底色烘托氛围，木质桌面的深棕色作为视觉稳定锚点\n材质/纹理:陶瓷杯表面的哑光质感，木质桌面的自然木纹与细微划痕，奶泡的细腻绵密感，轻微胶片颗粒\n约束:上方三分之一区域保持干净留白，不放置任何视觉元素，供后期文字排版使用\n避免:过度饱和的滤镜、廉价暖调调色、塑料感杯具、杂乱背景、强硬阴影、水印",
+        "size": "1008x1792",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/9b585e3e-46b9-4200-845e-fee92d89c0fb/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为一家咖啡馆生成一张充满文艺气息的主视觉海报，适合张贴于咖啡馆入口或社交媒体宣传。\\n\\n风格/介质:日系小清新摄影风格，胶片质感，参考日本生活摄影杂志《Kinfolk》式的静物美学，温柔克制\\n构图:竖版构图，画面中心偏下放置咖啡杯，上方三分之一区域为文字留白，浅焦虚化背景，50mm 定焦视角\\n主体:一杯热拿铁，杯口拉花精致细腻，白色奶泡与咖啡色形成清晰图案，陶瓷杯身温润，放置于复古木质桌面上\\n场景/背景:咖啡馆室内环境，背景虚化为橙黄色暖光光晕，隐约可见温暖的室内陈设轮廓\\n光线/氛围:侧逆光，橙黄色暖调自然光或烛光氛围，光线柔和漫射，整体情绪温暖、慵懒、文艺\\n色彩搭配:以奶油白与咖啡棕为主色，橙黄暖光作为背景底色烘托氛围，木质桌面的深棕色作为视觉稳定锚点\\n材质/纹理:陶瓷杯表面的哑光质感，木质桌面的自然木纹与细微划痕，奶泡的细腻绵密感，轻微胶片颗粒\\n约束:上方三分之一区域保持干净留白，不放置任何视觉元素，供后期文字排版使用\\n避免:过度饱和的滤镜、廉价暖调调色、塑料感杯具、杂乱背景、强硬阴影、水印\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13655
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F2-cinematic",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "Cinematic minimal overhead flat-lay of a black coffee cup, scattered coffee beans, open book and fountain pen, monochrome cool palette with deep crimson coffee accent, hard left window light, sharp high-contrast shadows.",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/ca1139c8-ab29-417a-b789-e5342166ce5a/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"Cinematic minimal overhead flat-lay of a black coffee cup, scattered coffee beans, open book and fountain pen, monochrome cool palette with deep crimson coffee accent, hard left window light, sharp high-contrast shadows.\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 3876
+    },
+    {
+      "query_idx": 1,
+      "skill_id": "F9-brief-and-fields",
+      "status": "done",
+      "final_prompt": {
+        "prompt": "为现代简约风格咖啡馆生成一张主视觉海报，俯拍桌面平铺构图，传递都市精英品质生活感。\n\n风格/介质:现代简约平面摄影风格，高对比度硬朗阴影，接近 Kinfolk 杂志式的克制美学，整体冷静、利落\n构图:正上方俯拍（flat lay），桌面平铺构图，元素分布留有充分留白，视觉重心居中偏左\n主体:一杯黑咖啡（深色陶瓷杯，液面可见深红色咖啡液反光）、几颗散落的咖啡豆、一本翻开的书（书页自然摊开）、一支钢笔斜放于书旁\n场景/背景:浅灰或哑光白色桌面，纯净无杂物，极简背景衬托主体\n光线/氛围:光源来自画面左侧自然窗光，漫射但带明确方向性，投射出高对比度硬朗阴影，氛围冷静、克制、都市感\n色彩搭配:黑白灰冷色调为主色系，深红色咖啡液作为唯一暖色点缀，形成视觉焦点，整体不超过三色\n材质/纹理:陶瓷杯哑光釉面、书页纸张纹理、钢笔金属光泽、桌面细腻磨砂质感\n约束:俯拍角度必须为正上方 90°；深红色仅出现在咖啡液局部，不扩散至其他元素\n避免:暖黄色调、过度柔光、散景虚化背景、复杂装饰道具、廉价\"咖啡馆\"通用构图、文字水印、饱和度过高的颜色",
+        "size": "1152x1536",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_urls": [
+        "/api/image-file/3cfb58a9-ed79-48fc-b6b0-9125a4eb9cfc/0.png"
+      ],
+      "scores": {},
+      "note": "",
+      "error": null,
+      "raw": "{\"prompt\": \"为现代简约风格咖啡馆生成一张主视觉海报，俯拍桌面平铺构图，传递都市精英品质生活感。\\n\\n风格/介质:现代简约平面摄影风格，高对比度硬朗阴影，接近 Kinfolk 杂志式的克制美学，整体冷静、利落\\n构图:正上方俯拍（flat lay），桌面平铺构图，元素分布留有充分留白，视觉重心居中偏左\\n主体:一杯黑咖啡（深色陶瓷杯，液面可见深红色咖啡液反光）、几颗散落的咖啡豆、一本翻开的书（书页自然摊开）、一支钢笔斜放于书旁\\n场景/背景:浅灰或哑光白色桌面，纯净无杂物，极简背景衬托主体\\n光线/氛围:光源来自画面左侧自然窗光，漫射但带明确方向性，投射出高对比度硬朗阴影，氛围冷静、克制、都市感\\n色彩搭配:黑白灰冷色调为主色系，深红色咖啡液作为唯一暖色点缀，形成视觉焦点，整体不超过三色\\n材质/纹理:陶瓷杯哑光釉面、书页纸张纹理、钢笔金属光泽、桌面细腻磨砂质感\\n约束:俯拍角度必须为正上方 90°；深红色仅出现在咖啡液局部，不扩散至其他元素\\n避免:暖黄色调、过度柔光、散景虚化背景、复杂装饰道具、廉价\\\"咖啡馆\\\"通用构图、文字水印、饱和度过高的颜色\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+      "ms": 13195
+    }
+  ],
+  "rewrite_llm": "",
+  "status": "finished"
+}

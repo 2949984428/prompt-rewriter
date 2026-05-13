@@ -9,6 +9,7 @@
 import { InputBar } from "@/components/input-bar";
 import { OutputRegion } from "@/components/output/output-region";
 import { LlmModelSwitcher } from "@/components/llm-model-switcher";
+import { ImageModelSwitcher } from "@/components/image-model-switcher";
 
 export function RewriteLab() {
   return (
@@ -23,8 +24,9 @@ export function RewriteLab() {
             命中硬约束 —— 7 步流式产出, baseline vs optimized 双图对照。
           </p>
         </div>
-        <div className="shrink-0 pt-2">
+        <div className="flex shrink-0 flex-col items-end gap-2 pt-2">
           <LlmModelSwitcher />
+          <ImageModelSwitcher />
         </div>
       </header>
       <div className="space-y-16">

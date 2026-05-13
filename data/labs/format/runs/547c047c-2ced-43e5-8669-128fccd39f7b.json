@@ -1,0 +1,134 @@
+{
+  "id": "547c047c-2ced-43e5-8669-128fccd39f7b",
+  "ts": 1777276669595,
+  "query": "生成一个自媒体头像，这个自媒体主要是分享新能源汽车、数码产品、生活好物。要求自媒体头像无论是放在中国还是外国的社交平台，都有和谐的视觉效果，并且保证不会触犯特定人群的禁忌。",
+  "use_case_hint": "",
+  "format_runs": [
+    {
+      "format_id": "F4-block-formula",
+      "format_label": "F4 Block Formula",
+      "final_prompt": {
+        "prompt": "Modern tech lifestyle avatar design for social media, a clean and friendly abstract icon combining a lightning bolt, a sleek car silhouette, and a small smartphone or gadget symbol arranged in a balanced composition, flat vector graphic with smooth rounded shapes and a vibrant yet neutral color palette of electric blue, white, and soft green, minimal geometric illustration style with no human figures or cultural symbols, centered circular avatar frame with subtle gradient background, bright even lighting with a fresh and approachable mood that feels universally welcoming across global platforms.",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "dc3c374e-9d94-45a1-ab5b-3f94fa5b755b",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/eefe7bff-c392-4338-8e58-fb156acc2331.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0532,
+        "latency_ms": 63685,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F5-labeled-spec",
+      "format_label": "F5 Labeled Spec",
+      "final_prompt": {
+        "prompt": "Use case: logo-brand\nAsset type: social media avatar / profile picture, square crop, suitable for global platforms (Chinese and international)\nPrimary request: a clean, modern avatar icon for a self-media account covering new energy vehicles, digital gadgets, and lifestyle products\nScene/backdrop: solid or subtle gradient background, no complex environment\nSubject: a stylized flat icon composition combining three symbolic elements — an electric car silhouette, a smartphone or tech device, and a small lifestyle/home goods icon — arranged in a balanced, harmonious layout\nStyle/medium: flat vector illustration with soft rounded shapes, modern icon design\nComposition/framing: centered symmetrical layout, equal visual weight across elements, generous padding from edges\nLighting/mood: clean, friendly, approachable, energetic yet calm\nColor palette: electric blue + soft white + light mint green accent; avoid red/green flag associations, avoid religious or culturally sensitive symbols\nMaterials/textures: flat color fills with subtle gradient sheen, no photorealistic texture\nConstraints: must be legible and recognizable at small sizes (48×48 px); no human figures, no faces, no hands, no flags, no religious symbols, no text\nAvoid: overly complex details, culturally specific symbols, human portraits, national flags, religious iconography, offensive gestures",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "19ed7dca-a73e-431d-b633-d94bfe5e90a3",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/1eb77665-0729-4998-8911-8af99d4e91b3.png"
+        ],
+        "local_paths": [],
+        "cost": 0.054,
+        "latency_ms": 93646,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F10-brief-and-fields-en",
+      "format_label": "F10 Brief + Fields (EN)",
+      "final_prompt": {
+        "prompt": "Create an original, non-infringing avatar icon for a self-media creator covering new energy vehicles, digital gadgets, and lifestyle products — suitable for both Chinese and international social platforms.\n\nStyle/medium: clean flat vector illustration, modern tech-lifestyle aesthetic, icon-grade simplicity\nSubject: a compact symbolic composition combining a sleek EV silhouette, a small digital device (phone or earbuds), and a lifestyle sparkle or leaf accent — unified into one balanced mark with generous negative space\nComposition: centered square composition, equal visual weight on all sides, optimized for circular crop at small sizes\nColor palette: cool electric blue as primary, clean white as background, a single warm accent (soft amber or mint green) — no red-green combination that may conflict with cultural color taboos\nText (verbatim): none\nConstraints: must remain legible and recognizable at 100×100 px circular crop; no human faces, no religious symbols, no flags, no hand gestures; culturally neutral imagery safe for global audiences\nAvoid: gradients that muddy at small sizes; overly complex linework; photorealistic textures; generic Behance flat-icon clichés; any symbol with strong cultural or political connotation",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "c7b3cbf1-2e05-4863-9ec5-ca83eb0a0128",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/37d0f7bc-9d42-46f5-a2ab-c237dd5d6e1f.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0539,
+        "latency_ms": 63662,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F9-brief-and-fields",
+      "format_label": "F9 任务句 + 字段表(中)",
+      "final_prompt": {
+        "prompt": "为一个涵盖新能源汽车、数码产品、生活好物的自媒体账号生成一个原创头像 logo，适用于中外各大社交平台。\n\n风格/介质:扁平矢量 logo，简洁现代，科技感与生活感兼顾，无文化冒犯元素，全球通用视觉语言\n主体:由三个极简图形元素组合而成的圆形头像——闪电或叶片形状暗示新能源、简化芯片或耳机轮廓暗示数码、购物袋或星形暗示生活好物；三者以轻量线条或色块融合为一个整体图标，构图饱满居中\n构图:正圆形构图，图标居中，四周留有均匀内边距，适配各平台头像裁切规则（圆形裁切后仍完整清晰）\n色彩搭配:主色调为科技蓝或青绿色，辅以暖白或浅灰作为背景，少量亮色点缀（如橙黄或薄荷绿），整体明快而不刺眼，避免红绿强对比\n材质/纹理:纯色平涂，无渐变噪点，无纹理贴图，保持矢量干净感\n约束:在 64×64 像素头像尺寸下图标仍清晰可辨；去色后单色版本依然成立；不含任何文字、人脸、宗教符号、国旗、政治符号\n避免:写实照片风格、复杂插画、渐变堆砌、人物肖像、动物图腾（部分文化有禁忌）、红底白色组合（易与特定国旗混淆）、骷髅或尖锐攻击性符号、Behance 通用\"科技感\"蓝色光效滥用",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "bdd94845-fbf4-407d-84a0-9ca02438251d",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/355053c1-b763-4b74-9ad7-204cff990a4d.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0548,
+        "latency_ms": 63724,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    },
+    {
+      "format_id": "F6-json-spec",
+      "format_label": "F6 JSON Spec",
+      "final_prompt": {
+        "prompt": "{\"subject\":{\"type\":\"stylized icon / avatar mascot\",\"description\":\"a friendly abstract tech-lifestyle emblem combining three motifs: a sleek electric vehicle silhouette, a minimalist smartphone/gadget outline, and a small sparkling everyday-life symbol (e.g. a leaf or star); all three integrated into one cohesive geometric badge shape\",\"pose\":\"centered, symmetrical, front-facing\",\"expression\":\"clean, approachable, modern\"},\"scene\":{\"location\":\"none — flat graphic, no background narrative\",\"ambience\":\"neutral, universally friendly\"},\"lighting\":{\"primary\":\"flat vector shading with subtle gradient highlight\",\"mood\":\"bright, optimistic, non-dramatic\"},\"color_grading\":{\"palette\":[\"electric teal\",\"clean white\",\"soft sky blue\",\"light silver-grey\"],\"tone\":\"cool-modern with warm accent\",\"contrast\":\"medium — readable at small avatar size\"},\"composition\":{\"shot_type\":\"square avatar crop\",\"angle\":\"straight-on, centered\",\"lens\":\"graphic / illustration — no photographic lens\"},\"style\":{\"medium\":\"flat vector illustration with subtle 3D gloss accent\",\"reference\":\"modern tech brand icon style (think app icon aesthetic)\",\"texture\":\"smooth, no noise, no grain\"},\"constraints\":[\"no human faces or figures — avoids cultural sensitivity issues\",\"no flags, religious symbols, political imagery, or country-specific iconography\",\"no text or lettering — ensures cross-platform / cross-language readability\",\"palette must remain neutral and universally inoffensive\",\"design must be legible and recognizable at 100×100 px avatar size\",\"circular-safe composition — key elements within center 80% of frame\"],\"negative\":[\"human portraits\",\"flags\",\"religious icons\",\"political symbols\",\"aggressive colors (e.g. pure red dominating)\",\"cluttered details\",\"dark or moody tones\",\"watermark\",\"drop shadow bleeding outside frame\"]}",
+        "size": "1024x1024",
+        "quality": "medium",
+        "n": 1,
+        "output_format": "png"
+      },
+      "image_job": {
+        "task_id": "e9856c0d-1ee3-4075-91cb-06642e1659bc",
+        "urls": [
+          "https://assets-persist.lovart.ai/agent_images/6d73e3d0-88f4-4000-9ded-5058c15c9f2a.png"
+        ],
+        "local_paths": [],
+        "cost": 0.0546,
+        "latency_ms": 93633,
+        "error": null
+      },
+      "pm_score": null,
+      "pm_notes": "",
+      "rated_at": null
+    }
+  ],
+  "winner_format_id": null,
+  "config_snapshot": {
+    "target_model": "gpt-image-2",
+    "model_profile_hash": "baf967e9",
+    "rewrite_llm": "bedrock/claude-sonnet-4-6"
+  }
+}

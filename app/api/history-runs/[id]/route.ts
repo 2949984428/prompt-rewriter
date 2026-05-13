@@ -23,23 +23,27 @@ const ROOT = process.cwd();
 const INDEX_FILE = path.join(ROOT, "data", "history-index.json");
 
 const SAFE_ID = /^[a-zA-Z0-9_-]+$/;
-const ALLOWED_LABS = ["rewrite", "format"] as const;
+const ALLOWED_LABS = ["rewrite", "format", "batch", "fusion"] as const;
 
-const PutBodySchema = z.object({
-  lab_id: z.enum(ALLOWED_LABS),
-  detail: z.unknown(), // 各 lab 自己的 detail schema,这里不强约束
-  // 部分字段(如 summary / pm_score_avg)可以让前端在 PUT 时一并更新到 index
-  index_patch: z
-    .object({
-      query: z.string().optional(),
-      summary: z.string().optional(),
-      status: z.enum(["completed", "failed", "partial"]).optional(),
-      pm_score_avg: z.number().nullable().optional(),
-      pm_score_count: z.number().int().optional(),
-      metadata: z.record(z.string(), z.unknown()).optional(),
-    })
-    .optional(),
-});
+const PutBodySchema = z
+  .object({
+    lab_id: z.enum(ALLOWED_LABS),
+    detail: z.unknown(), // 各 lab 自己的 detail schema,这里不强约束
+    // 部分字段(如 summary / pm_score_avg)可以让前端在 PUT 时一并更新到 index
+    index_patch: z
+      .object({
+        query: z.string().optional(),
+        summary: z.string().optional(),
+        status: z.enum(["completed", "failed", "partial"]).optional(),
+        pm_score_avg: z.number().nullable().optional(),
+        pm_score_count: z.number().int().optional(),
+        metadata: z.record(z.string(), z.unknown()).optional(),
+      })
+      .optional(),
+  })
+  // detail 用 z.unknown() 时 undefined 也通过验证,这里手动拒掉,
+  // 避免下游 JSON.stringify(undefined) → 写文件失败 → 500
+  .refine((v) => v.detail !== undefined, { message: "detail is required" });
 
 function safeRunPath(lab_id: string, id: string): string | null {
   if (!SAFE_ID.test(id)) return null;

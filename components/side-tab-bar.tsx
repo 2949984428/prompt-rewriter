@@ -1,35 +1,79 @@
 // prompt-rewriter/components/side-tab-bar.tsx
 //
-// 左侧实验台切换栏 — 走 Anthropic Claude Docs 的极简文档侧栏风:
-//   - 搜索框置顶(视觉锚点 + 后续可接搜索)
-//   - 分组小标题(uppercase, 字号小, Stone Gray)
-//   - tab 是纯文字行,无 ring shadow / 无 icon / 无副标题
-//   - 激活态:左侧 2px Coral 竖线 + 字色 Near Black + medium 字重
-//   - 默认态:Olive Gray;hover 态升到 Near Black
+// 2026-05-13 架构重构:三大分组
+//   - 测试台:Skill 批量测试台 / API 实验台 / Pipeline 测试台
+//   - 业务工具:Pipeline 管理 / Experiments / Langfuse
+//   - 题目:常规题目 / 标签管理 / 分类
+//
+// 隐藏(代码留着但 sidebar 不 expose):rewrite(垂类实验台)/ fusion(融合台)。
+// 隐藏的 LabId 不能从 sidebar 切到,但其他组件(比如 Pipeline 管理列表卡片点击)
+// 仍可 setCurrentLab("pipeline") 切到现 PipelineLab — 此时通过 isTabActive 的特殊
+// mapping 让上级 sidebar 项(Pipeline 管理)保持 active 态。
 
 "use client";
 
-import { useAtom } from "jotai";
+import { useAtom, useSetAtom } from "jotai";
 import { currentLabAtom, type LabId } from "@/lib/atoms-format";
+import {
+  questionsLabTabAtom,
+  type QuestionsLabTab,
+} from "@/lib/atoms-questions";
 
-type Tab = { id: LabId; label: string };
+type Tab = {
+  id: LabId;
+  label: string;
+  questionsSubTab?: QuestionsLabTab;
+};
 
-// 分组结构 — 沿 Anthropic Docs 风:一组分组标题(中文 semibold)下挂多个纯文字 tab。
-// 即使当前只有"实验台"一组,保留 group 抽象方便日后扩"工具/报告/策略库"。
 const GROUPS: { title: string; tabs: Tab[] }[] = [
   {
-    title: "实验台",
+    title: "测试台",
     tabs: [
-      { id: "rewrite", label: "垂类实验台" },
-      { id: "format", label: "格式实验台" },
-      { id: "batch", label: "批量测试台" },
-      { id: "fusion", label: "融合台" },
+      { id: "format", label: "API 测试台" },
+      { id: "batch", label: "Skill 批量测试台" },
+      { id: "pipeline-test", label: "Pipeline 测试台" },
+    ],
+  },
+  {
+    title: "业务工具",
+    tabs: [
+      { id: "pipeline-mgmt", label: "Pipeline 管理" },
+      { id: "experiments", label: "Experiments" },
+      { id: "langfuse", label: "Langfuse 查看" },
+    ],
+  },
+  {
+    title: "题目",
+    tabs: [
+      { id: "questions", label: "常规题目", questionsSubTab: "regular" },
+      { id: "questions", label: "标签管理", questionsSubTab: "tags" },
+      { id: "questions", label: "分类", questionsSubTab: "categories" },
     ],
   },
 ];
 
 export function SideTabBar() {
   const [current, setCurrent] = useAtom(currentLabAtom);
+  const [questionsTab, setQuestionsTab] = useAtom(questionsLabTabAtom);
+  const setQuestionsLabTab = useSetAtom(questionsLabTabAtom);
+
+  function isTabActive(t: Tab): boolean {
+    // 特殊 mapping:Pipeline 管理卡片进入"垂类差异化实验"(currentLab="pipeline")时,
+    // 仍然把"Pipeline 管理"sidebar 项视为 active,保持视觉一致
+    if (t.id === "pipeline-mgmt" && current === "pipeline") return true;
+
+    if (t.id !== current) return false;
+    if (t.questionsSubTab) return questionsTab === t.questionsSubTab;
+    return true;
+  }
+
+  function onClickTab(t: Tab) {
+    setCurrent(t.id);
+    if (t.questionsSubTab) setQuestionsLabTab(t.questionsSubTab);
+  }
+
+  // 引用避免 unused 警告
+  void setQuestionsTab;
 
   return (
     <nav
@@ -38,18 +82,16 @@ export function SideTabBar() {
       <div className="space-y-8">
         {GROUPS.map((g) => (
           <section key={g.title}>
-            {/* 分组标题:中文 semibold Near Black,不 uppercase 不 tracking,
-               像文档目录的章节锚 */}
             <h3 className="mb-3 px-3 font-sans text-[15px] font-semibold leading-[1.3] text-near-black">
               {g.title}
             </h3>
             <ul className="space-y-1">
-              {g.tabs.map((t) => {
-                const active = t.id === current;
+              {g.tabs.map((t, idx) => {
+                const active = isTabActive(t);
                 return (
-                  <li key={t.id}>
+                  <li key={`${t.id}-${t.questionsSubTab ?? "_"}-${idx}`}>
                     <button
-                      onClick={() => setCurrent(t.id)}
+                      onClick={() => onClickTab(t)}
                       className={`relative flex w-full items-center rounded-sm py-2.5 pl-5 pr-3 text-left text-[14px] leading-[1.4] transition ${
                         active
                           ? "font-medium text-near-black"
