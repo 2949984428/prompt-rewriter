@@ -1,5 +1,29 @@
 [
   {
+    "id": "exp_1837abfc-ec4d-460c-b1f3-64faf780c95c",
+    "ts": 1778678230872,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "核心图片是[@image:#1:无刷电机素材 (4)]把[@image:#2:无刷电机素材 (2)]和[@image:#3:电池续航素材 (2)]的元素融合后重新生成一个完成的产品爆炸图，每一个部分用引线引出特写图以及对应的英文名称。尺寸1:1，科技感，生成5张。8K 超高清，超高细节，高锐度，真实材质质感，精准还原机身哑光塑料纹理、金属刀头冷冽光泽、泥土真实肌理、人物皮肤与衣物的自然质感，画面干净通透，完全符合亚马逊电商产品场景图规范",
+    "summary": "核心图片是[@image:#1:无刷电机素材 (4)]把[@image:#2:无刷电机素材 (2)]和[@image:#3:电池续航素材 (2)]的元素融合后重…",
+    "status": "completed",
+    "ref": "data/experiments/exp_1837abfc-ec4d-460c-b1f3-64faf780c95c.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
     "id": "exp_2dae0504-872b-42b4-adce-92fa602e9615",
     "ts": 1778677178855,
     "lab_id": "labs.pipeline.experiment",

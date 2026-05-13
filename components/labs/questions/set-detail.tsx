@@ -23,6 +23,7 @@ import type {
   QuestionHead,
   QuestionSetHead,
 } from "@/lib/questions/schema";
+import { copyImageToClipboard } from "@/lib/copy-image";
 
 type CategoriesMeta = {
   l1: { name: string; count: number }[];
@@ -646,19 +647,78 @@ function ImageBlock({ url }: { url: string }) {
   }
   if (isHttpUrl || isDataUrl) {
     return (
-      <a href={url} target="_blank" rel="noreferrer" className="inline-block">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src={url}
-          alt=""
-          className="max-h-[200px] max-w-full rounded border border-border-cream"
-        />
-      </a>
+      <div className="space-y-2">
+        <a href={url} target="_blank" rel="noreferrer" className="inline-block">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={url}
+            alt=""
+            className="max-h-[200px] max-w-full rounded border border-border-cream"
+          />
+        </a>
+        <ImageActions url={url} />
+      </div>
     );
   }
   return (
     <code className="block break-all font-mono text-[12px] text-olive-gray">
       {url}
     </code>
+  );
+}
+
+// 复制图片像素 + 复制 URL 两个动作。data URL 也支持复制 URL(粘贴出来就是 base64 数据)
+function ImageActions({ url }: { url: string }) {
+  const [imgState, setImgState] = useState<"idle" | "copied" | "error">("idle");
+  const [urlState, setUrlState] = useState<"idle" | "copied" | "error">("idle");
+  const onCopyImage = async () => {
+    try {
+      await copyImageToClipboard(url);
+      setImgState("copied");
+      setTimeout(() => setImgState("idle"), 1500);
+    } catch {
+      setImgState("error");
+      setTimeout(() => setImgState("idle"), 2000);
+    }
+  };
+  const onCopyUrl = async () => {
+    try {
+      await navigator.clipboard.writeText(url);
+      setUrlState("copied");
+      setTimeout(() => setUrlState("idle"), 1500);
+    } catch {
+      setUrlState("error");
+      setTimeout(() => setUrlState("idle"), 2000);
+    }
+  };
+  return (
+    <div className="flex flex-wrap items-center gap-1.5">
+      <button
+        type="button"
+        onClick={onCopyImage}
+        className={`rounded-md border border-border-cream px-2 py-0.5 text-[11px] transition ${
+          imgState === "copied"
+            ? "bg-warm-gold-bg text-warm-gold-fg"
+            : imgState === "error"
+              ? "bg-coral-soft-bg text-error-crimson"
+              : "bg-ivory text-olive-gray hover:bg-warm-sand/40"
+        }`}
+      >
+        {imgState === "copied" ? "✓ 已复制图片" : imgState === "error" ? "复制失败" : "📋 复制图片"}
+      </button>
+      <button
+        type="button"
+        onClick={onCopyUrl}
+        className={`rounded-md border border-border-cream px-2 py-0.5 text-[11px] transition ${
+          urlState === "copied"
+            ? "bg-warm-gold-bg text-warm-gold-fg"
+            : urlState === "error"
+              ? "bg-coral-soft-bg text-error-crimson"
+              : "bg-ivory text-olive-gray hover:bg-warm-sand/40"
+        }`}
+      >
+        {urlState === "copied" ? "✓ 已复制 URL" : urlState === "error" ? "复制失败" : "🔗 复制 URL"}
+      </button>
+    </div>
   );
 }
