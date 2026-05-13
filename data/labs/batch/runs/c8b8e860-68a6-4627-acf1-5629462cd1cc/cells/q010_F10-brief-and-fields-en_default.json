@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original brand guidelines poster for RAN QIU, an Eastern-inspired autumn fragrance brand.\n\nStyle/medium: clean editorial layout, minimalist brand guidelines poster with Swiss typography influence\nSubject: \"染秋 (RAN QIU)\" brand identity system display showing primary color, secondary color, and typography specifications\nComposition: grid-based layout with three distinct sections for color swatches and typography specimens, generous white space, centered alignment\nColor palette: warm autumn terracotta as primary anchor, muted sage green as secondary, cream/off-white background, deep charcoal for text\nText (verbatim): \"染秋\", \"RAN QIU\", \"桂花乌龙\", \"琥珀枫叶\", \"柿霜暮色\"\nMaterials/textures: matte paper texture, flat color swatches with hex codes implied, clean sans-serif and serif typography pairing\nConstraints: must clearly separate primary color, secondary color, and typography sections; all Chinese characters must render accurately; suitable for brand guideline documentation\nAvoid: cluttered layout, western-centric design tropes, gradient overload, stock photography, decorative flourishes, illegible small text",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/32f5a8ee-caad-456e-9fef-5d8d337c36df/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original brand guidelines poster for RAN QIU, an Eastern-inspired autumn fragrance brand.\\n\\nStyle/medium: clean editorial layout, minimalist brand guidelines poster with Swiss typography influence\\nSubject: \\\"染秋 (RAN QIU)\\\" brand identity system display showing primary color, secondary color, and typography specifications\\nComposition: grid-based layout with three distinct sections for color swatches and typography specimens, generous white space, centered alignment\\nColor palette: warm autumn terracotta as primary anchor, muted sage green as secondary, cream/off-white background, deep charcoal for text\\nText (verbatim): \\\"染秋\\\", \\\"RAN QIU\\\", \\\"桂花乌龙\\\", \\\"琥珀枫叶\\\", \\\"柿霜暮色\\\"\\nMaterials/textures: matte paper texture, flat color swatches with hex codes implied, clean sans-serif and serif typography pairing\\nConstraints: must clearly separate primary color, secondary color, and typography sections; all Chinese characters must render accurately; suitable for brand guideline documentation\\nAvoid: cluttered layout, western-centric design tropes, gradient overload, stock photography, decorative flourishes, illegible small text\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15097
+}

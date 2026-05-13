@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 9:16 vertical screenshot of a Douyin livestream featuring \"神仙姐姐\" (all in-image text in Chinese).\n\nStyle/medium: needs a \"抖音直播\" aesthetic — references in the spirit of 2020s Chinese livestream interface design, Kuaishou/Douyin UI heritage, Chinese influencer selfie culture; exact stylistic execution is yours\nComposition: must be 9:16 vertical format, must include livestream UI elements (viewer count, comments, gift buttons, profile bubble)\nSubject: must include \"神仙姐姐\" as the central figure holding a sign\nScene/backdrop: must be a typical Douyin livestream room setting\nLighting/mood: needs a livestream ring-light glow atmosphere — exact light source mix is yours\nColor palette: needs a vibrant livestream direction — exact saturation and hues are yours\nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign held by the figure\nConstraints: must include all in-image text in Chinese by default; must be 9:16 vertical format\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3cd60873-9f03-436f-9410-9d6f9c1f9fd4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a 9:16 vertical screenshot of a Douyin livestream featuring \\\"神仙姐姐\\\" (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"抖音直播\\\" aesthetic — references in the spirit of 2020s Chinese livestream interface design, Kuaishou/Douyin UI heritage, Chinese influencer selfie culture; exact stylistic execution is yours\\nComposition: must be 9:16 vertical format, must include livestream UI elements (viewer count, comments, gift buttons, profile bubble)\\nSubject: must include \\\"神仙姐姐\\\" as the central figure holding a sign\\nScene/backdrop: must be a typical Douyin livestream room setting\\nLighting/mood: needs a livestream ring-light glow atmosphere — exact light source mix is yours\\nColor palette: needs a vibrant livestream direction — exact saturation and hues are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign held by the figure\\nConstraints: must include all in-image text in Chinese by default; must be 9:16 vertical format\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10613
+}

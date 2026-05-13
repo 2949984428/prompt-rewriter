@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a movie poster for \"大话西游\" (A Chinese Odyssey) in 1990s Hong Kong cinema style (all in-image text in Chinese).\n\nStyle/medium: needs a 1990s Hong Kong cinema aesthetic — references in the spirit of Wong Kar-wai's Chungking Express, 王家卫 90s urban romance palette, 徐克 fantasy wuxia poster tradition; exact stylistic execution is yours\nComposition: must include the central couple embracing on a city wall as focal point, two figures standing in the distant background\nSubject: must include 至尊宝 and 紫霞 (central couple embracing), 牛魔王 and 唐僧 (distant background figures)\nScene/backdrop: must include the iconic city wall setting from the film\nLighting/mood: needs a romantic, nostalgic atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: must include film grain texture throughout\nText (verbatim): must include \"大话西游\" as the main title\nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2dc50029-d2fa-411c-bdef-700f899cb2ff/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a movie poster for \\\"大话西游\\\" (A Chinese Odyssey) in 1990s Hong Kong cinema style (all in-image text in Chinese).\\n\\nStyle/medium: needs a 1990s Hong Kong cinema aesthetic — references in the spirit of Wong Kar-wai's Chungking Express, 王家卫 90s urban romance palette, 徐克 fantasy wuxia poster tradition; exact stylistic execution is yours\\nComposition: must include the central couple embracing on a city wall as focal point, two figures standing in the distant background\\nSubject: must include 至尊宝 and 紫霞 (central couple embracing), 牛魔王 and 唐僧 (distant background figures)\\nScene/backdrop: must include the iconic city wall setting from the film\\nLighting/mood: needs a romantic, nostalgic atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: must include film grain texture throughout\\nText (verbatim): must include \\\"大话西游\\\" as the main title\\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10670
+}

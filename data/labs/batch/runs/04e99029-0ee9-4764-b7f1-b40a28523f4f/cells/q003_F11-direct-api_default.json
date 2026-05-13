@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一个自媒体头像，这个自媒体主要是分享新能源汽车、数码产品、生活好物。要求自媒体头像无论是放在中国还是外国的社交平台，都有和谐的视觉效果，并且保证不会触犯特定人群的禁忌。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c08e6de4-705f-426f-8fed-55f7db3d6fd5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"生成一个自媒体头像，这个自媒体主要是分享新能源汽车、数码产品、生活好物。要求自媒体头像无论是放在中国还是外国的社交平台，都有和谐的视觉效果，并且保证不会触犯特定人群的禁忌。\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 4189
+}

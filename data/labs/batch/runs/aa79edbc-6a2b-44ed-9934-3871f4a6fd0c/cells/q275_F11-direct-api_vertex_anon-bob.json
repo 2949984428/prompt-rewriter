@@ -1,0 +1,23 @@
+{
+  "query_idx": 275,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "你好，我是一家艺术中心，我们的艺术中心名字叫环岛艺术中心。我想开辟一个艺术商店，然后招募艺术品周边及设计师的原创商品作为合作，请帮我生成一张招募海报。9；16",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab2da56aa-e9b0-4476-8787-40000b2d9ce9/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"你好，我是一家艺术中心，我们的艺术中心名字叫环岛艺术中心。我想开辟一个艺术商店，然后招募艺术品周边及设计师的原创商品作为合作，请帮我生成一张招募海报。9；16\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3493,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

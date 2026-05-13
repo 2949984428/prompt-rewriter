@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing marketing poster for UGREEN NAS brand's 618 Anniversary Celebration e-commerce announcement.\n\nStyle/medium: commercial e-commerce poster, clean modern tech aesthetic, flat vector illustration with subtle depth\nComposition: centered layout with bold headline at top, product focal point in middle, promotional details at bottom, balanced white space\nSubject: UGREEN NAS (Network Attached Storage) device, sleek minimalist design with subtle LED indicator, floating or on clean pedestal\nScene/backdrop: abstract gradient background with soft tech-inspired geometric shapes, subtle grid pattern, celebratory atmosphere\nLighting/mood: soft diffused studio lighting with gentle rim light on product, professional and trustworthy mood\nColor palette: UGREEN brand green as primary anchor, white and light gray as base, accent gold or orange for \"618\" celebration elements\nText (verbatim): \"绿联私有云品牌618周年庆活动电商宣布海报\"\nConstraints: must work as square social media post and banner crop; text area must remain legible at small sizes\nAvoid: cluttered composition, generic stock photo aesthetic, hard shadows, overly complex illustrations, watermark, 8K stuffer language",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ba1e7ccb-5a05-4860-9427-dc96244d086f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing marketing poster for UGREEN NAS brand's 618 Anniversary Celebration e-commerce announcement.\\n\\nStyle/medium: commercial e-commerce poster, clean modern tech aesthetic, flat vector illustration with subtle depth\\nComposition: centered layout with bold headline at top, product focal point in middle, promotional details at bottom, balanced white space\\nSubject: UGREEN NAS (Network Attached Storage) device, sleek minimalist design with subtle LED indicator, floating or on clean pedestal\\nScene/backdrop: abstract gradient background with soft tech-inspired geometric shapes, subtle grid pattern, celebratory atmosphere\\nLighting/mood: soft diffused studio lighting with gentle rim light on product, professional and trustworthy mood\\nColor palette: UGREEN brand green as primary anchor, white and light gray as base, accent gold or orange for \\\"618\\\" celebration elements\\nText (verbatim): \\\"绿联私有云品牌618周年庆活动电商宣布海报\\\"\\nConstraints: must work as square social media post and banner crop; text area must remain legible at small sizes\\nAvoid: cluttered composition, generic stock photo aesthetic, hard shadows, overly complex illustrations, watermark, 8K stuffer language\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8277
+}

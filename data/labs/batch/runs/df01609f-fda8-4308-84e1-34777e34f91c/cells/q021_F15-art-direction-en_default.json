@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing sports action illustration of a basketball player dunking mid-air on a basketball court (all in-image text in Chinese).\n\nStyle/medium: needs a 热血 shounen sports anime aesthetic — exact stylistic execution is yours\nComposition: must include a dynamic mid-air dunk as the focal point, with motion blur applied to convey speed and tension\nSubject: must include the basketball player airborne in a slam dunk, sweat droplets flying off the body\nScene/backdrop: must include a basketball court with a cheering crowd and camera flashlights in the background\nLighting/mood: needs a high-tension, passionate atmosphere — exact light source mix is yours\nColor palette: needs a vivid, high-energy direction — exact hues and ratios are yours\nMaterials/textures: needs a hand-drawn anime linework feel with dynamic motion-blur treatment — exact grain and sheen are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must preserve dynamic motion blur effect and sense of explosive tension throughout the composition\nAvoid: static or flat poses; muted or low-energy color treatment",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/48300d09-f110-4bf8-9311-6f712315a047/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing sports action illustration of a basketball player dunking mid-air on a basketball court (all in-image text in Chinese).\\n\\nStyle/medium: needs a 热血 shounen sports anime aesthetic — exact stylistic execution is yours\\nComposition: must include a dynamic mid-air dunk as the focal point, with motion blur applied to convey speed and tension\\nSubject: must include the basketball player airborne in a slam dunk, sweat droplets flying off the body\\nScene/backdrop: must include a basketball court with a cheering crowd and camera flashlights in the background\\nLighting/mood: needs a high-tension, passionate atmosphere — exact light source mix is yours\\nColor palette: needs a vivid, high-energy direction — exact hues and ratios are yours\\nMaterials/textures: needs a hand-drawn anime linework feel with dynamic motion-blur treatment — exact grain and sheen are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must preserve dynamic motion blur effect and sense of explosive tension throughout the composition\\nAvoid: static or flat poses; muted or low-energy color treatment\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15628
+}

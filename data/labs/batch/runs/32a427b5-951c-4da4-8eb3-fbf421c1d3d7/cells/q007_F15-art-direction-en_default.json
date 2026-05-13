@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a technical exploded-view diagram of a Sony A7 camera with all components labeled.\n\nStyle/medium: needs a technical exploded-view diagram aesthetic — exact rendering style is yours\nComposition: must be an exploded view showing all components separated along axes with clear spatial relationships\nSubject: must include all internal and external components of a Sony A7 camera with their names labeled\nScene/backdrop: \nLighting/mood: needs a clean technical illustration atmosphere — exact lighting setup is yours\nColor palette: \nMaterials/textures: needs a technical diagram surface treatment — exact material finishes are yours\nText (verbatim): must include all component names in Spanish: sensor, montura E, obturador, estabilizador de imagen, procesador de imagen, pantalla LCD, visor electrónico, batería, tarjeta de memoria, dial de modo, botón de disparo, zapata de flash, conectores, y demás piezas internas y externas\nConstraints: must preserve accurate Sony A7 camera anatomy, all components must be clearly separated in exploded view, all labels must point to correct parts\nAvoid: must avoid clutter that obscures component visibility, must avoid incorrect or generic camera parts not found in Sony A7",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4aff64a0-a217-4926-9783-b0f45b4e871b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a technical exploded-view diagram of a Sony A7 camera with all components labeled.\\n\\nStyle/medium: needs a technical exploded-view diagram aesthetic — exact rendering style is yours\\nComposition: must be an exploded view showing all components separated along axes with clear spatial relationships\\nSubject: must include all internal and external components of a Sony A7 camera with their names labeled\\nScene/backdrop: \\nLighting/mood: needs a clean technical illustration atmosphere — exact lighting setup is yours\\nColor palette: \\nMaterials/textures: needs a technical diagram surface treatment — exact material finishes are yours\\nText (verbatim): must include all component names in Spanish: sensor, montura E, obturador, estabilizador de imagen, procesador de imagen, pantalla LCD, visor electrónico, batería, tarjeta de memoria, dial de modo, botón de disparo, zapata de flash, conectores, y demás piezas internas y externas\\nConstraints: must preserve accurate Sony A7 camera anatomy, all components must be clearly separated in exploded view, all labels must point to correct parts\\nAvoid: must avoid clutter that obscures component visibility, must avoid incorrect or generic camera parts not found in Sony A7\"}",
+  "ms": 9603
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing UI design system in classic minimalist tech style for web dashboards, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: clean minimalist tech UI system, Swiss design meets futuristic interface, inspired by Apple Human Interface Guidelines and Tesla dashboard aesthetics\nComposition: modular component library layout with dashboard grid, mobile viewport mockup, card variations, button states, and control elements arranged in systematic hierarchy\nSubject: comprehensive UI component set including data visualization dashboard, mobile app screens, modular cards with depth layering, primary/secondary/ghost buttons, toggle switches, sliders, and input fields\nScene/backdrop: neutral dark mode interface environment with subtle gradient depth, floating panels with glassmorphism accents\nLighting/mood: soft ambient glow from active elements, subtle edge highlights on interactive components, focused and professional atmosphere\nColor palette: deep charcoal base (#1a1a2e), electric blue accent (#00d4ff), soft white text hierarchy, subtle purple gradients for depth layers\nMaterials/textures: matte surface finish with micro-texture grain, soft glass blur on overlays, crisp vector edges, subtle inner shadows for elevation\nConstraints: must maintain accessibility contrast ratios; components must scale from mobile to desktop; dark mode primary with light mode variant support\nAvoid: skeuomorphic textures; excessive gradients; drop shadows that look dated; neon overload; cluttered information density; generic Bootstrap styling",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c3b0bfb1-07a7-4c0c-9370-3e40fcb2b1ae/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing UI design system in classic minimalist tech style for web dashboards, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: clean minimalist tech UI system, Swiss design meets futuristic interface, inspired by Apple Human Interface Guidelines and Tesla dashboard aesthetics\\nComposition: modular component library layout with dashboard grid, mobile viewport mockup, card variations, button states, and control elements arranged in systematic hierarchy\\nSubject: comprehensive UI component set including data visualization dashboard, mobile app screens, modular cards with depth layering, primary/secondary/ghost buttons, toggle switches, sliders, and input fields\\nScene/backdrop: neutral dark mode interface environment with subtle gradient depth, floating panels with glassmorphism accents\\nLighting/mood: soft ambient glow from active elements, subtle edge highlights on interactive components, focused and professional atmosphere\\nColor palette: deep charcoal base (#1a1a2e), electric blue accent (#00d4ff), soft white text hierarchy, subtle purple gradients for depth layers\\nMaterials/textures: matte surface finish with micro-texture grain, soft glass blur on overlays, crisp vector edges, subtle inner shadows for elevation\\nConstraints: must maintain accessibility contrast ratios; components must scale from mobile to desktop; dark mode primary with light mode variant support\\nAvoid: skeuomorphic textures; excessive gradients; drop shadows that look dated; neon overload; cluttered information density; generic Bootstrap styling\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13916
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: interior design photography, editorial\nPrimary request: industrial-style café interior with raw concrete walls, exposed metal pipes, vintage leather sofas, and black-and-white photography on walls\nScene/backdrop: spacious café interior with high ceilings, large industrial windows letting in natural daylight, exposed structural elements\nSubject: vintage brown leather Chesterfield sofas with worn patina, metal pipe fixtures running along concrete walls, framed black-and-white photography gallery wall\nStyle/medium: architectural interior photography, industrial loft aesthetic\nComposition/framing: wide establishing shot showing seating area and window wall, natural perspective\nLighting/mood: soft natural daylight streaming through large windows, warm afternoon glow, moody yet inviting atmosphere mixing rough textures with cozy warmth\nColor palette: cool gray concrete + warm brown leather + matte black metal + neutral cream/natural light tones\nMaterials/textures: rough unfinished concrete, aged leather with creases, brushed steel pipes, matte black frames, worn wooden floorboards\nConstraints: preserve the balance between industrial rawness and refined comfort, keep natural light as primary source\nAvoid: overly sterile spaces, plastic furniture, colorful neon signs, polished glossy surfaces, clutter",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b49b7c05-112f-4127-ae8f-239085a21297/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: photorealistic-natural\\nAsset type: interior design photography, editorial\\nPrimary request: industrial-style café interior with raw concrete walls, exposed metal pipes, vintage leather sofas, and black-and-white photography on walls\\nScene/backdrop: spacious café interior with high ceilings, large industrial windows letting in natural daylight, exposed structural elements\\nSubject: vintage brown leather Chesterfield sofas with worn patina, metal pipe fixtures running along concrete walls, framed black-and-white photography gallery wall\\nStyle/medium: architectural interior photography, industrial loft aesthetic\\nComposition/framing: wide establishing shot showing seating area and window wall, natural perspective\\nLighting/mood: soft natural daylight streaming through large windows, warm afternoon glow, moody yet inviting atmosphere mixing rough textures with cozy warmth\\nColor palette: cool gray concrete + warm brown leather + matte black metal + neutral cream/natural light tones\\nMaterials/textures: rough unfinished concrete, aged leather with creases, brushed steel pipes, matte black frames, worn wooden floorboards\\nConstraints: preserve the balance between industrial rawness and refined comfort, keep natural light as primary source\\nAvoid: overly sterile spaces, plastic furniture, colorful neon signs, polished glossy surfaces, clutter\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10288
+}

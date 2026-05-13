@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a full-screen brand launch marketing poster displayed as an OPPO smartphone screenshot, for the OPPO Find X9 Pro new product reveal campaign.\n\nStyle/medium: photorealistic smartphone UI screenshot, sleek tech-brand editorial in the spirit of high-impact product launch visuals (Apple/Samsung keynote aesthetic), flat-rendered on a phone display\nComposition: full-bleed vertical layout at 9:16, centered hero product image with bold headline text, generous negative space above and below the device, no status-bar clutter\nSubject: OPPO Find X9 Pro smartphone as hero product, shown at a dramatic three-quarter angle, ultra-thin bezels, glossy ceramic back panel catching light\nScene/backdrop: deep black or near-black gradient background, subtle radial glow emanating from behind the device\nLighting/mood: single dramatic rim light from upper-left, cool blue-white specular highlight on device edges, high contrast between device and background, visually striking and bold\nColor palette: deep black as dominant base, OPPO brand green (#1F8A4C range) as accent, cool white for typography, minimal color count for maximum impact\nMaterials/textures: mirror-polished glass back with faint reflection, anodized metal frame with sharp edge highlight\nText (verbatim): \"OPPO Find X9 Pro\"\nConstraints: must read as a realistic smartphone screen screenshot at 1080×1920; UI chrome (status bar, navigation bar) should be minimal or hidden to maximize visual real estate; brand name must be legible\nAvoid: cartoonish gradients, lens flare overload, cluttered UI elements, watermarks, generic stock-photo lighting, washed-out colors",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/93c14680-a7c3-47f6-9784-0c42393d330e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a full-screen brand launch marketing poster displayed as an OPPO smartphone screenshot, for the OPPO Find X9 Pro new product reveal campaign.\\n\\nStyle/medium: photorealistic smartphone UI screenshot, sleek tech-brand editorial in the spirit of high-impact product launch visuals (Apple/Samsung keynote aesthetic), flat-rendered on a phone display\\nComposition: full-bleed vertical layout at 9:16, centered hero product image with bold headline text, generous negative space above and below the device, no status-bar clutter\\nSubject: OPPO Find X9 Pro smartphone as hero product, shown at a dramatic three-quarter angle, ultra-thin bezels, glossy ceramic back panel catching light\\nScene/backdrop: deep black or near-black gradient background, subtle radial glow emanating from behind the device\\nLighting/mood: single dramatic rim light from upper-left, cool blue-white specular highlight on device edges, high contrast between device and background, visually striking and bold\\nColor palette: deep black as dominant base, OPPO brand green (#1F8A4C range) as accent, cool white for typography, minimal color count for maximum impact\\nMaterials/textures: mirror-polished glass back with faint reflection, anodized metal frame with sharp edge highlight\\nText (verbatim): \\\"OPPO Find X9 Pro\\\"\\nConstraints: must read as a realistic smartphone screen screenshot at 1080×1920; UI chrome (status bar, navigation bar) should be minimal or hidden to maximize visual real estate; brand name must be legible\\nAvoid: cartoonish gradients, lens flare overload, cluttered UI elements, watermarks, generic stock-photo lighting, washed-out colors\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17208
+}

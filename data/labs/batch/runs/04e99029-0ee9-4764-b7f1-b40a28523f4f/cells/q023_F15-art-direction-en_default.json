@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational knowledge card for children explaining the story of the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era.\n\nStyle/medium: needs a children's educational knowledge card aesthetic — exact stylistic execution is yours\nComposition: must be single large knowledge card layout with clear title at top, bullet points listed alongside the illustration\nSubject: must include the Battle of Red Cliffs story content, presented in cartoon story format\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include \"赤壁之战\" (title), story bullet points with punctuation preserved\nConstraints: must be child-friendly, single card format, title clearly visible, key points listed with punctuation\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5a00de03-e55b-4169-9a44-9dd14358594c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an educational knowledge card for children explaining the story of the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era.\\n\\nStyle/medium: needs a children's educational knowledge card aesthetic — exact stylistic execution is yours\\nComposition: must be single large knowledge card layout with clear title at top, bullet points listed alongside the illustration\\nSubject: must include the Battle of Red Cliffs story content, presented in cartoon story format\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"赤壁之战\\\" (title), story bullet points with punctuation preserved\\nConstraints: must be child-friendly, single card format, title clearly visible, key points listed with punctuation\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8605
+}

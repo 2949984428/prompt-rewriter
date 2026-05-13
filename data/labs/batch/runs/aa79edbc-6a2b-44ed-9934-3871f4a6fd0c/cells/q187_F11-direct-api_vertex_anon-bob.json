@@ -1,0 +1,23 @@
+{
+  "query_idx": 187,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "保持[@image:#1:8888iii]这个窗帘杆形状不变，要做亚玛逊首图，参考亚玛逊卖家秀的窗帘杆角度，要不同的角度的窗帘杆白底图，比例 1:1,2K像素，生成90次",
+    "size": "2048x2048",
+    "quality": "medium",
+    "n": 10,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab590d385-c889-4007-8725-94af7eb84ed2/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"保持[@image:#1:8888iii]这个窗帘杆形状不变，要做亚玛逊首图，参考亚玛逊卖家秀的窗帘杆角度，要不同的角度的窗帘杆白底图，比例 1:1,2K像素，生成90次\", \"size\": \"2048x2048\", \"quality\": \"medium\", \"n\": 10, \"output_format\": \"png\"}",
+  "ms": 3291,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

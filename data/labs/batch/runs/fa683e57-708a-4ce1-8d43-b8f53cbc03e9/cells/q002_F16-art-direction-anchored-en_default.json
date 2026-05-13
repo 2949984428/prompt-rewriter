@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a traditional Chinese ink wash landscape painting (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"中国传统水墨\" aesthetic — references in the spirit of 宋画 landscape tradition, 范宽 / 郭熙 monumental mountain painting, 文人画 literati ink-wash heritage; exact brushwork and wash technique is yours\nComposition: must include distant mountains, mist clouds, pine trees, thatched cottage, and an old man fishing by the stream — framing is yours\nSubject: must include an old man fishing by the stream as the focal subject\nScene/backdrop: must include distant mountains veiled in mist, pine trees, thatched cottage near a stream\nLighting/mood: needs an ethereal, serene atmosphere — exact light treatment is yours\nColor palette: needs ink-wash monochrome with subtle tonal gradations — exact ink density is yours\nMaterials/textures: needs traditional xuan paper texture with appropriate wash bleeding — exact paper weight and absorbency is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6e77eae7-752c-48d1-909f-2125bbefabf7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a traditional Chinese ink wash landscape painting (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"中国传统水墨\\\" aesthetic — references in the spirit of 宋画 landscape tradition, 范宽 / 郭熙 monumental mountain painting, 文人画 literati ink-wash heritage; exact brushwork and wash technique is yours\\nComposition: must include distant mountains, mist clouds, pine trees, thatched cottage, and an old man fishing by the stream — framing is yours\\nSubject: must include an old man fishing by the stream as the focal subject\\nScene/backdrop: must include distant mountains veiled in mist, pine trees, thatched cottage near a stream\\nLighting/mood: needs an ethereal, serene atmosphere — exact light treatment is yours\\nColor palette: needs ink-wash monochrome with subtle tonal gradations — exact ink density is yours\\nMaterials/textures: needs traditional xuan paper texture with appropriate wash bleeding — exact paper weight and absorbency is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 18021
+}

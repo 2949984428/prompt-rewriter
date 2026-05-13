@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "数字艺术插画：深海奇幻世界。在数千米深的海底，一座古代文明的遗迹城市在生物发光的光芒中若隐若现。巨大的石柱和拱门上覆盖着珊瑚和海葵，各种奇异的深海生物在废墟间穿梭游弋——巨型水母发出蓝紫色荧光，透明的深海鱼类携带着自身的发光器官，远处有一头巨型章鱼的触手从黑暗中伸出。画面中心有一位身着古代服饰的人鱼公主正在检视一块刻有神秘符文的石碑。整体色调以深邃的蓝黑色为基调，点缀着大量生物发光的青绿色、紫色和金色光点，营造出神秘、梦幻、壮观的深海奇幻氛围，数字绘画风格，细节极其丰富。",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/191a112e-d7bb-4204-a596-b32175b19c35/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

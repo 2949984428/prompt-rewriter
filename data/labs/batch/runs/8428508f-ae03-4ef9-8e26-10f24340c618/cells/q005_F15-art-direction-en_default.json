@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational infographic explaining definitions and relationships among 7 AI-related concepts.\n\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\nComposition: must be a multi-node concept map layout with each concept as a labeled node, relationships shown as annotated connecting lines or arrows, definitions as short callout bubbles or handwritten-style annotations\nSubject: must include all 7 concepts as nodes with definitions and inter-relationships:\n  1. AI\n  2. MCP\n  3. AI Agent\n  4. OpenClaw\n  5. AI Skill\n  6. 蒸馏 (Distillation)\n  7. CLI\nScene/backdrop: light paper or whiteboard texture background\nLighting/mood: \nColor palette: needs a friendly, approachable direction — exact palette is yours\nMaterials/textures: needs a hand-drawn / sketchy line quality with doodle-style icons — exact pen weight and paper grain are yours\nText (verbatim): must include \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\" as node labels\nConstraints: must preserve all 7 concept nodes; each node must have a short definition annotation; relationships between concepts must be visually connected and labeled; layout must be readable and uncluttered\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dc893c89-feb2-42f2-a5bd-64e0dd293be0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an educational infographic explaining definitions and relationships among 7 AI-related concepts.\\n\\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\\nComposition: must be a multi-node concept map layout with each concept as a labeled node, relationships shown as annotated connecting lines or arrows, definitions as short callout bubbles or handwritten-style annotations\\nSubject: must include all 7 concepts as nodes with definitions and inter-relationships:\\n  1. AI\\n  2. MCP\\n  3. AI Agent\\n  4. OpenClaw\\n  5. AI Skill\\n  6. 蒸馏 (Distillation)\\n  7. CLI\\nScene/backdrop: light paper or whiteboard texture background\\nLighting/mood: \\nColor palette: needs a friendly, approachable direction — exact palette is yours\\nMaterials/textures: needs a hand-drawn / sketchy line quality with doodle-style icons — exact pen weight and paper grain are yours\\nText (verbatim): must include \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\" as node labels\\nConstraints: must preserve all 7 concept nodes; each node must have a short definition annotation; relationships between concepts must be visually connected and labeled; layout must be readable and uncluttered\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9875
+}

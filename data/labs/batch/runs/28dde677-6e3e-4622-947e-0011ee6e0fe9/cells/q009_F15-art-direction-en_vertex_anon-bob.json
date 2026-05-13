@@ -1,0 +1,21 @@
+{
+  "query_idx": 9,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand promotional poster for RAN QIU with a warm autumnal, poetic, and serene visual experience.\n\nStyle/medium: needs an 东方美学 minimalist aesthetic with natural poetry and warmth — exact stylistic execution is yours\nComposition: needs generous negative space and shallow depth-of-field framing — exact framing tightness is yours\nSubject: must include the brand wordmark \"RAN QIU\" as a focal element integrated with natural autumnal elements\nScene/backdrop: needs a warm autumn atmosphere — exact natural scene elements are yours\nLighting/mood: needs a golden-hour, warm and healing atmosphere — exact light source mix is yours\nColor palette: must use #8B3A1E (深秋棕红), #E8DCCB (米色), #D4A574 (金棕色) as the dominant palette\nMaterials/textures: needs a natural, organic surface treatment — exact texture and grain are yours\nText (verbatim): must include \"RAN QIU\"\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A45b8af8e-dd9f-4082-9176-7e67bbac8a89/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a brand promotional poster for RAN QIU with a warm autumnal, poetic, and serene visual experience.\\n\\nStyle/medium: needs an 东方美学 minimalist aesthetic with natural poetry and warmth — exact stylistic execution is yours\\nComposition: needs generous negative space and shallow depth-of-field framing — exact framing tightness is yours\\nSubject: must include the brand wordmark \\\"RAN QIU\\\" as a focal element integrated with natural autumnal elements\\nScene/backdrop: needs a warm autumn atmosphere — exact natural scene elements are yours\\nLighting/mood: needs a golden-hour, warm and healing atmosphere — exact light source mix is yours\\nColor palette: must use #8B3A1E (深秋棕红), #E8DCCB (米色), #D4A574 (金棕色) as the dominant palette\\nMaterials/textures: needs a natural, organic surface treatment — exact texture and grain are yours\\nText (verbatim): must include \\\"RAN QIU\\\"\\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7616
+}

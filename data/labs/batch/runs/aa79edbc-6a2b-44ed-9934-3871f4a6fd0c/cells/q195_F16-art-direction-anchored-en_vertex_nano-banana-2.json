@@ -1,0 +1,23 @@
+{
+  "query_idx": 195,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成亚马逊高端泳镜产品主图（1:1），创意展示泳镜卖点集合。\n\n风格/媒介:亚马逊高端泳镜主图风格，泳池风格，photorealistic\n构图:\n  45度侧面仰视特写，肩膀以上画面\n  前景为人物特写，背景为室内游泳池\n  在画面合适位置排版标题、副标题与三个卖点标签\n  卖点标签配合图形化图标排版\n  整体构图创意性展示泳镜卖点集合\n主体:\n  一位欧美男士，戴着泳镜，刚从泳池里探出头来\n  头发和身体微湿\n  参考上传的人物姿态参考图（45度侧面仰视角度）\n场景/背景:室内游泳池\n光线/氛围:泳池氛围，水光感\n色彩方案:\n材质/纹理:\n文字(原样):\n  标题：\"Gafas de Natación Antivaho HD\"\n  副标题：\"Universal para hombres, mujeres, adultos y adolescentes.\"\n  卖点标签一：\"Anti-UV\"\n  卖点标签二：\"alta definición\"\n  卖点标签三：\"antivaho\"\n约束:\n  字体风格与画面整体风格一致\n  三个卖点标签各配对应图形化图标\n  可添加符合画面风格的装饰元素辅助排版\n  比例 1:1\n避免:空洞的品质堆砌词",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 5,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ade00a20e-a1d5-4883-b43b-a68b7cd81c59/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成亚马逊高端泳镜产品主图（1:1），创意展示泳镜卖点集合。\\n\\n风格/媒介:亚马逊高端泳镜主图风格，泳池风格，photorealistic\\n构图:\\n  45度侧面仰视特写，肩膀以上画面\\n  前景为人物特写，背景为室内游泳池\\n  在画面合适位置排版标题、副标题与三个卖点标签\\n  卖点标签配合图形化图标排版\\n  整体构图创意性展示泳镜卖点集合\\n主体:\\n  一位欧美男士，戴着泳镜，刚从泳池里探出头来\\n  头发和身体微湿\\n  参考上传的人物姿态参考图（45度侧面仰视角度）\\n场景/背景:室内游泳池\\n光线/氛围:泳池氛围，水光感\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n  标题：\\\"Gafas de Natación Antivaho HD\\\"\\n  副标题：\\\"Universal para hombres, mujeres, adultos y adolescentes.\\\"\\n  卖点标签一：\\\"Anti-UV\\\"\\n  卖点标签二：\\\"alta definición\\\"\\n  卖点标签三：\\\"antivaho\\\"\\n约束:\\n  字体风格与画面整体风格一致\\n  三个卖点标签各配对应图形化图标\\n  可添加符合画面风格的装饰元素辅助排版\\n  比例 1:1\\n避免:空洞的品质堆砌词\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 5, \"output_format\": \"png\"}",
+  "ms": 13353,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

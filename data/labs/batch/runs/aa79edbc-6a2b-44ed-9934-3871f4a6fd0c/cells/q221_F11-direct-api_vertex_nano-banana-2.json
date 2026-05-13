@@ -1,0 +1,23 @@
+{
+  "query_idx": 221,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:bfc90ce97e0bf19fd41ddbd7ffed0bea]Edit gambar menjadi menarik dan keren untuk thumbnail tiktok. Tambahkan judul \"FRANCO EPIC HOOK GAMEPLAY\" dan teks-teks clickbaith yang menarik dan keren. Berikan kualitas gambar ultra HD dan buat ukuran gambar menjadi ukuran thumbnail YouTube shorts (9:16)",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acec4d05e-d013-495e-a25f-b7843c27a194/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:bfc90ce97e0bf19fd41ddbd7ffed0bea]Edit gambar menjadi menarik dan keren untuk thumbnail tiktok. Tambahkan judul \\\"FRANCO EPIC HOOK GAMEPLAY\\\" dan teks-teks clickbaith yang menarik dan keren. Berikan kualitas gambar ultra HD dan buat ukuran gambar menjadi ukuran thumbnail YouTube shorts (9:16)\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3878,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

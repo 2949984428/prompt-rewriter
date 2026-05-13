@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster (short-video vertical cover) for a gaming monitor product launch.\n\nStyle/medium: minimalist, premium feel\nComposition: rule-of-thirds\nSubject: GGU gaming monitor, \"8k GGU 电竞显示器 1000hz\" as large headline text\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \"8k GGU 电竞显示器 1000hz\" / \"全球首发全新面板 低延迟 完美色彩\"\nConstraints: large bold headline text, eye-catching\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9ba1c1b2-29e9-48ec-af19-e80f4f57928c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster (short-video vertical cover) for a gaming monitor product launch.\\n\\nStyle/medium: minimalist, premium feel\\nComposition: rule-of-thirds\\nSubject: GGU gaming monitor, \\\"8k GGU 电竞显示器 1000hz\\\" as large headline text\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\" / \\\"全球首发全新面板 低延迟 完美色彩\\\"\\nConstraints: large bold headline text, eye-catching\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5491
+}

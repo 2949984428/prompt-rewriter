@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing brand color and typography specification sheet for the fragrance brand \"染秋 (RAN QIU)\", intended for brand asset library use across packaging and digital platforms.\n\nStyle/medium: brand identity specification sheet, clean layout with color swatches and typography samples\nComposition: grid layout showing primary color swatch, secondary color swatches, and font specimens in designated zones\nSubject: \"染秋 (RAN QIU)\" brand color system and typography standards\nScene/backdrop: clean white or minimal neutral background for maximum color accuracy\nLighting/mood: neutral, clinical, professional\nColor palette: warm autumn palette — primary: deep amber/ochre (inspired by persimmon and osmanthus), secondary: muted maple red, warm taupe, soft cream, with accents of tea green\nMaterials/textures: flat color blocks, clean typography specimens\nText (verbatim): \"染秋 (RAN QIU)\", \"桂花乌龙\", \"琥珀枫叶\", \"柿霜暮色\", color names in both Chinese and English, hex codes, font names\nConstraints: must show primary color + secondary colors + typography hierarchy clearly, suitable for brand guideline documentation\nAvoid: gradients unless essential, generic flat-Behance aesthetic, Western perfume brand clichés",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7fc33799-73a5-433c-9548-943323012d4d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing brand color and typography specification sheet for the fragrance brand \\\"染秋 (RAN QIU)\\\", intended for brand asset library use across packaging and digital platforms.\\n\\nStyle/medium: brand identity specification sheet, clean layout with color swatches and typography samples\\nComposition: grid layout showing primary color swatch, secondary color swatches, and font specimens in designated zones\\nSubject: \\\"染秋 (RAN QIU)\\\" brand color system and typography standards\\nScene/backdrop: clean white or minimal neutral background for maximum color accuracy\\nLighting/mood: neutral, clinical, professional\\nColor palette: warm autumn palette — primary: deep amber/ochre (inspired by persimmon and osmanthus), secondary: muted maple red, warm taupe, soft cream, with accents of tea green\\nMaterials/textures: flat color blocks, clean typography specimens\\nText (verbatim): \\\"染秋 (RAN QIU)\\\", \\\"桂花乌龙\\\", \\\"琥珀枫叶\\\", \\\"柿霜暮色\\\", color names in both Chinese and English, hex codes, font names\\nConstraints: must show primary color + secondary colors + typography hierarchy clearly, suitable for brand guideline documentation\\nAvoid: gradients unless essential, generic flat-Behance aesthetic, Western perfume brand clichés\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11688
+}

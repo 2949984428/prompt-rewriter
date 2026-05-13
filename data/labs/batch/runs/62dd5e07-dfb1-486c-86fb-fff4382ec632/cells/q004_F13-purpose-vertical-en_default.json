@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide illustration for the Changan Qiyuan Q06 launch announcement, intended for a brand presentation deck.\n\nStyle/medium: automotive brand PPT cover, photorealistic CGI render with dramatic depth\nComposition: full-bleed hero layout, title and subtitle text overlaid on lower third, strong visual hierarchy\nSubject: Changan Qiyuan Q06 as hero vehicle, positioned dynamically against a vast atmospheric backdrop\nScene/backdrop: expansive, translucent and immersive environment — deep space or futuristic cityscape with volumetric light rays and atmospheric haze, conveying scale and impact\nLighting/mood: dramatic, high-contrast volumetric lighting; awe-inspiring and forward-looking; sense of arrival and revelation\nColor palette: deep midnight blue and electric teal with warm golden accent highlights, consistent with Changan Qiyuan brand identity\nMaterials/textures: sleek metallic vehicle surfaces, glass-like translucent atmospheric layers, subtle light bloom\nText (verbatim): \"长安起源Q06\" as primary title, \"将于9月上市\" as subtitle\nConstraints: text must be legible against the background; layout must work as a 16:9 widescreen slide cover\nAvoid: generic stock-photo car backgrounds, cluttered composition, low-contrast text, clichéd starburst effects",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cb2e029a-4082-426b-acbb-806a0dfdbaf3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide illustration for the Changan Qiyuan Q06 launch announcement, intended for a brand presentation deck.\\n\\nStyle/medium: automotive brand PPT cover, photorealistic CGI render with dramatic depth\\nComposition: full-bleed hero layout, title and subtitle text overlaid on lower third, strong visual hierarchy\\nSubject: Changan Qiyuan Q06 as hero vehicle, positioned dynamically against a vast atmospheric backdrop\\nScene/backdrop: expansive, translucent and immersive environment — deep space or futuristic cityscape with volumetric light rays and atmospheric haze, conveying scale and impact\\nLighting/mood: dramatic, high-contrast volumetric lighting; awe-inspiring and forward-looking; sense of arrival and revelation\\nColor palette: deep midnight blue and electric teal with warm golden accent highlights, consistent with Changan Qiyuan brand identity\\nMaterials/textures: sleek metallic vehicle surfaces, glass-like translucent atmospheric layers, subtle light bloom\\nText (verbatim): \\\"长安起源Q06\\\" as primary title, \\\"将于9月上市\\\" as subtitle\\nConstraints: text must be legible against the background; layout must work as a 16:9 widescreen slide cover\\nAvoid: generic stock-photo car backgrounds, cluttered composition, low-contrast text, clichéd starburst effects\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10684
+}

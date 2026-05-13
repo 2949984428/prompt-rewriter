@@ -1,0 +1,23 @@
+{
+  "query_idx": 175,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:PVC徽章魔术贴 软胶卡通造型趣味士气章外贸跨境亚马逊货源批发]仔细分析这个图，理解这个图，然后所有设计按照这个图做， 不要跑偏，副标题可以在词库选择，我们们的客户群体是B端客户。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0f785989-a7dc-4d1b-ba93-397ef76aaadf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:PVC徽章魔术贴 软胶卡通造型趣味士气章外贸跨境亚马逊货源批发]仔细分析这个图，理解这个图，然后所有设计按照这个图做， 不要跑偏，副标题可以在词库选择，我们们的客户群体是B端客户。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2976,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

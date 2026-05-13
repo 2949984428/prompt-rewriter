@@ -1,0 +1,23 @@
+{
+  "query_idx": 139,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:938a05a4a9582e3e75c84ee40feace78][@image:#2:f6b7a4399f86c6cdc1bbd38804b45e12] 帮我给图一的产品换成图二的效果图，生成一张纯色补的场景图，有茶元素发布于拼多多。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa9ac46e6-68c0-4cc1-a6cc-df75393cd6d4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:938a05a4a9582e3e75c84ee40feace78][@image:#2:f6b7a4399f86c6cdc1bbd38804b45e12] 帮我给图一的产品换成图二的效果图，生成一张纯色补的场景图，有茶元素发布于拼多多。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2958,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

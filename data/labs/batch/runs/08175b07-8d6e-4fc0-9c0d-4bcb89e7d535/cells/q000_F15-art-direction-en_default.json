@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Xiaohongshu种草 cover image for a pearl milk tea product.\n\nStyle/medium: needs a \"粉色少女风\" (pink girly) aesthetic — exact stylistic execution is yours\nComposition: needs a social media cover framing optimized for Xiaohongshu — exact crop and layout is yours\nSubject: must include pearl milk tea (boba tea) as the focal subject\nScene/backdrop: needs a summer coolness atmosphere — exact setting is yours\nLighting/mood: needs a summer fresh and cool atmosphere — exact light source mix is yours\nColor palette: needs a pink dominant direction with summer freshness — exact hex values and ratios are yours\nMaterials/textures: needs a refreshing surface treatment — exact condensation/ice texture is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1b58cc3e-7950-4bb4-9f0b-45e3daab6b46/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a Xiaohongshu种草 cover image for a pearl milk tea product.\\n\\nStyle/medium: needs a \\\"粉色少女风\\\" (pink girly) aesthetic — exact stylistic execution is yours\\nComposition: needs a social media cover framing optimized for Xiaohongshu — exact crop and layout is yours\\nSubject: must include pearl milk tea (boba tea) as the focal subject\\nScene/backdrop: needs a summer coolness atmosphere — exact setting is yours\\nLighting/mood: needs a summer fresh and cool atmosphere — exact light source mix is yours\\nColor palette: needs a pink dominant direction with summer freshness — exact hex values and ratios are yours\\nMaterials/textures: needs a refreshing surface treatment — exact condensation/ice texture is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9919
+}

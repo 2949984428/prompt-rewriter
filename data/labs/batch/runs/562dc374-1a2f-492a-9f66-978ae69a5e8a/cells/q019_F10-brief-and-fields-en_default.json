@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic still of a dragon and knight battle scene for a fantasy epic.\n\nStyle/medium: fantasy illustration, epic cinematic style, dynamic action painting\nComposition: epic wide shot, dramatic low-angle perspective, knight charging toward massive dragon, sense of scale and motion\nSubject: armored knight holding shield mid-charge, massive dragon rearing up with mouth open spewing flames, dynamic poses frozen in action\nScene/backdrop: burning castle in ruins, stormy sky with lightning bolts, smoke and embers filling the air, apocalyptic atmosphere\nLighting/mood: dramatic lightning flashes illuminating the scene, firelight from dragon breath casting warm orange glow, dark storm clouds, tense and heroic mood\nColor palette: warm fire oranges and reds against cool storm grays and blues, lightning white as accent\nMaterials/textures: metallic armor with battle-worn scratches, dragon scales with rough texture, stone castle ruins, billowing smoke\nAvoid: 8K stuffer aesthetic, plastic-looking dragon, static poses, watermark, generic fantasy art clichés",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fa608d12-3b8c-4e4c-a2e5-b09bf31ecc66/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing cinematic still of a dragon and knight battle scene for a fantasy epic.\\n\\nStyle/medium: fantasy illustration, epic cinematic style, dynamic action painting\\nComposition: epic wide shot, dramatic low-angle perspective, knight charging toward massive dragon, sense of scale and motion\\nSubject: armored knight holding shield mid-charge, massive dragon rearing up with mouth open spewing flames, dynamic poses frozen in action\\nScene/backdrop: burning castle in ruins, stormy sky with lightning bolts, smoke and embers filling the air, apocalyptic atmosphere\\nLighting/mood: dramatic lightning flashes illuminating the scene, firelight from dragon breath casting warm orange glow, dark storm clouds, tense and heroic mood\\nColor palette: warm fire oranges and reds against cool storm grays and blues, lightning white as accent\\nMaterials/textures: metallic armor with battle-worn scratches, dragon scales with rough texture, stone castle ruins, billowing smoke\\nAvoid: 8K stuffer aesthetic, plastic-looking dragon, static poses, watermark, generic fantasy art clichés\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10859
+}

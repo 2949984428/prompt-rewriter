@@ -1,0 +1,23 @@
+{
+  "query_idx": 69,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:logo]使用此标志作为参考，设计日式料理品牌的包装和视觉形象，16:9",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A11503bf8-a476-4a3b-8ccf-69042010f28c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:logo]使用此标志作为参考，设计日式料理品牌的包装和视觉形象，16:9\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3007,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

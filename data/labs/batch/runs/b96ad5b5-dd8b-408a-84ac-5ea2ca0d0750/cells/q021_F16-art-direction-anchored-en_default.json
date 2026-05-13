@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 3×3 character expression grid for Zhao Ling'er from the \"仙剑奇侠传\" IP (all in-image text in Chinese).\n\nStyle/medium: needs a \"3D animation, Pixar style\" aesthetic — references in the spirit of Pixar's character rigging tradition, Disney/Pixar 2010s female protagonist design, DreamWorks' expressive facial topology work; exact stylistic execution is yours\nComposition: must be 3×3 grid layout (9 panels total), each panel showing character peeking through a torn hole in white paper, consistent framing across all panels\nSubject: must include Zhao Ling'er (young woman with voluminous dark wavy hair and round wire-rimmed glasses) as the focal subject in all 9 panels, with the following panel-specific variations:\n  top-left: winking expression, adjusting glasses, green sweater\n  top-center: smirking expression, lowering dark sunglasses, red leather jacket\n  top-right: thinking expression, finger on chin, yellow hoodie\n  middle-left: big smile expression, arms resting on edge, black and white striped shirt\n  middle-center: smiling expression, thumbs up, orange button-up shirt\n  middle-right: neutral expression, drinking boba tea, blue sweater\n  bottom-left: happy expression, waving, purple sweater vest over white shirt\n  bottom-center: laughing with eyes closed expression, arms crossed, pink cardigan\n  bottom-right: silly expression, poking cheeks, teal sweater\nScene/backdrop: must include torn hole in white paper as the consistent framing device across all 9 panels\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must preserve 仙剑奇侠传 IP context, 9-panel grid structure, all expression/action/outfit combinations as specified\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/416b0f3b-b8c5-492f-b4b4-58d98e57b288/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a 3×3 character expression grid for Zhao Ling'er from the \\\"仙剑奇侠传\\\" IP (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"3D animation, Pixar style\\\" aesthetic — references in the spirit of Pixar's character rigging tradition, Disney/Pixar 2010s female protagonist design, DreamWorks' expressive facial topology work; exact stylistic execution is yours\\nComposition: must be 3×3 grid layout (9 panels total), each panel showing character peeking through a torn hole in white paper, consistent framing across all panels\\nSubject: must include Zhao Ling'er (young woman with voluminous dark wavy hair and round wire-rimmed glasses) as the focal subject in all 9 panels, with the following panel-specific variations:\\n  top-left: winking expression, adjusting glasses, green sweater\\n  top-center: smirking expression, lowering dark sunglasses, red leather jacket\\n  top-right: thinking expression, finger on chin, yellow hoodie\\n  middle-left: big smile expression, arms resting on edge, black and white striped shirt\\n  middle-center: smiling expression, thumbs up, orange button-up shirt\\n  middle-right: neutral expression, drinking boba tea, blue sweater\\n  bottom-left: happy expression, waving, purple sweater vest over white shirt\\n  bottom-center: laughing with eyes closed expression, arms crossed, pink cardigan\\n  bottom-right: silly expression, poking cheeks, teal sweater\\nScene/backdrop: must include torn hole in white paper as the consistent framing device across all 9 panels\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must preserve 仙剑奇侠传 IP context, 9-panel grid structure, all expression/action/outfit combinations as specified\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 18618
+}

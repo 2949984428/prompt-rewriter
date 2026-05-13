@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a WeChat official account article cover for a fragrance new product launch (all in-image text in Chinese).\n\nStyle/medium: needs a premium high-end aesthetic — exact stylistic execution is yours\nComposition: must be centered composition with title prominently featured\nSubject: must include the fragrance product as focal subject\nScene/backdrop: \nLighting/mood: needs an autumn-inspired atmosphere — exact light treatment is yours\nColor palette: needs an autumn-inspired direction — exact color values are yours\nMaterials/textures: \nText (verbatim): must include \"染秋\" (main title), \"秋意染染 时光留香\" (subtitle)\nConstraints: must include all in-image text in Chinese by default; must preserve 900x500 aspect ratio\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aa12c57f-04ca-497f-b6be-67967a0cfecb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a WeChat official account article cover for a fragrance new product launch (all in-image text in Chinese).\\n\\nStyle/medium: needs a premium high-end aesthetic — exact stylistic execution is yours\\nComposition: must be centered composition with title prominently featured\\nSubject: must include the fragrance product as focal subject\\nScene/backdrop: \\nLighting/mood: needs an autumn-inspired atmosphere — exact light treatment is yours\\nColor palette: needs an autumn-inspired direction — exact color values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"染秋\\\" (main title), \\\"秋意染染 时光留香\\\" (subtitle)\\nConstraints: must include all in-image text in Chinese by default; must preserve 900x500 aspect ratio\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9870
+}

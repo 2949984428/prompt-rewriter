@@ -1,0 +1,23 @@
+{
+  "query_idx": 226,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张 Instagram 帖子。\n\n风格/媒介:面向 Z 世代的社交媒体帖子，视觉风格大胆、有表达力\n构图:Instagram 正方形构图，视觉层次清晰，文字与图形元素结合\n主体:勇敢表达自己对于世界、对于战争、对于国际大事的见解的年轻人形象或象征性视觉\n场景/背景:\n光线/氛围:充满力量感与表达欲，勇敢、直接\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:内容面向 Z 世代，强调个人观点表达\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Afa659db2-b247-4d3f-bd08-e340ddee5da2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一张 Instagram 帖子。\\n\\n风格/媒介:面向 Z 世代的社交媒体帖子，视觉风格大胆、有表达力\\n构图:Instagram 正方形构图，视觉层次清晰，文字与图形元素结合\\n主体:勇敢表达自己对于世界、对于战争、对于国际大事的见解的年轻人形象或象征性视觉\\n场景/背景:\\n光线/氛围:充满力量感与表达欲，勇敢、直接\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:内容面向 Z 世代，强调个人观点表达\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12570,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

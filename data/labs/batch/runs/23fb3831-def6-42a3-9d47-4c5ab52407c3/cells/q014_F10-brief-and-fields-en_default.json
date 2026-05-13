@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a UI mockup of a comprehensive design system featuring a web Dashboard, mobile interface, cards, buttons, and controls in a classic minimal tech style.\n\nStyle/medium: clean flat vector UI design system, sharp geometric forms, minimal tech aesthetic inspired by Linear and Vercel design language\nComposition: multi-panel layout — large Dashboard panel on left, mobile screen frame on right, component library grid (cards, buttons, toggles, sliders) arranged below, generous spacing between panels\nSubject: web Dashboard with data charts, KPI metric cards, sidebar navigation; mobile interface with app screens; UI component set including filled/outlined buttons, toggle switches, input fields, dropdown menus, progress bars, icon set\nScene/backdrop: deep dark navy or near-black background (#0A0A0F tone), subtle grid or dot-matrix texture at low opacity\nLighting/mood: layered glow effects — cool electric blue and cyan accent glows on active components, soft purple highlight on selected states, creating depth and visual hierarchy without clutter\nColor palette: deep black/navy as base, electric blue (#00AAFF range) as primary accent, cyan and violet as secondary accents, white and light gray for typography and borders\nMaterials/textures: frosted glass card surfaces with subtle border highlights, smooth flat button fills, thin 1px separator lines, micro-shadow elevation system\nConstraints: all components must be clearly legible at mockup scale; maintain consistent 8pt grid alignment; dark mode only\nAvoid: gradients that look dated or rainbow; neon overload; cluttered layouts; drop shadows that look skeuomorphic; generic Bootstrap-style components; watermarks",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6541bfad-9d66-4414-997a-1692d2c186e4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a UI mockup of a comprehensive design system featuring a web Dashboard, mobile interface, cards, buttons, and controls in a classic minimal tech style.\\n\\nStyle/medium: clean flat vector UI design system, sharp geometric forms, minimal tech aesthetic inspired by Linear and Vercel design language\\nComposition: multi-panel layout — large Dashboard panel on left, mobile screen frame on right, component library grid (cards, buttons, toggles, sliders) arranged below, generous spacing between panels\\nSubject: web Dashboard with data charts, KPI metric cards, sidebar navigation; mobile interface with app screens; UI component set including filled/outlined buttons, toggle switches, input fields, dropdown menus, progress bars, icon set\\nScene/backdrop: deep dark navy or near-black background (#0A0A0F tone), subtle grid or dot-matrix texture at low opacity\\nLighting/mood: layered glow effects — cool electric blue and cyan accent glows on active components, soft purple highlight on selected states, creating depth and visual hierarchy without clutter\\nColor palette: deep black/navy as base, electric blue (#00AAFF range) as primary accent, cyan and violet as secondary accents, white and light gray for typography and borders\\nMaterials/textures: frosted glass card surfaces with subtle border highlights, smooth flat button fills, thin 1px separator lines, micro-shadow elevation system\\nConstraints: all components must be clearly legible at mockup scale; maintain consistent 8pt grid alignment; dark mode only\\nAvoid: gradients that look dated or rainbow; neon overload; cluttered layouts; drop shadows that look skeuomorphic; generic Bootstrap-style components; watermarks\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13737
+}

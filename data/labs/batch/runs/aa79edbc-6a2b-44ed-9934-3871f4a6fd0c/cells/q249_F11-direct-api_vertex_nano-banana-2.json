@@ -1,0 +1,23 @@
+{
+  "query_idx": 249,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:athletic woman kitchen 4k] Upgrade the uploaded image to a flawless, ultra-high-definition cinematic version, while absolutely faithfully preserving the character's image. The character's identity, facial structure, expression, body posture, clothing, accessories, environment, composition, and overall layout must remain completely unchanged. Do not modify, reinterpret, replace, or add any new visual elements. Reconstruct and optimize microscopic details, including accurate facial contours, realistic skin texture with naturally visible pores, clear hair strands, sharp and realistic eyes, and clean, crisp edges in the image. Enhance dynamic range, contrast, and three-dimensionality using balanced studio-grade cinematic lighting. 4:5] Instagram",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8a8ad526-419f-4921-af4a-6db93fa631fa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:athletic woman kitchen 4k] Upgrade the uploaded image to a flawless, ultra-high-definition cinematic version, while absolutely faithfully preserving the character's image. The character's identity, facial structure, expression, body posture, clothing, accessories, environment, composition, and overall layout must remain completely unchanged. Do not modify, reinterpret, replace, or add any new visual elements. Reconstruct and optimize microscopic details, including accurate facial contours, realistic skin texture with naturally visible pores, clear hair strands, sharp and realistic eyes, and clean, crisp edges in the image. Enhance dynamic range, contrast, and three-dimensionality using balanced studio-grade cinematic lighting. 4:5] Instagram\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3761,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

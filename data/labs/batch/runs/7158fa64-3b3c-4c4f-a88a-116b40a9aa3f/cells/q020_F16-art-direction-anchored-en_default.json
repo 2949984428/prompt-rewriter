@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a full-screen brand launch advertisement for OPPO Find X9 Ultra.\n\nStyle/medium: needs a high-impact brand launch aesthetic — references in the spirit of Apple product reveal campaigns, Samsung Galaxy flagship launch visuals, Nothing Phone industrial minimalism; exact stylistic execution is yours\nComposition: must be 9:16 vertical full-screen layout optimized for mobile display\nSubject: must include the OPPO Find X9 Ultra smartphone as the hero product\nScene/backdrop: \nLighting/mood: needs dramatic product lighting with strong visual impact — exact lighting setup is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"OPPO Find X9 Ultra\" (brand and model name)\nConstraints: must be 1080×1920 resolution, brand exposure priority, visual impact first\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/331a786a-6486-4271-a1f6-5866dbaa0122/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a full-screen brand launch advertisement for OPPO Find X9 Ultra.\\n\\nStyle/medium: needs a high-impact brand launch aesthetic — references in the spirit of Apple product reveal campaigns, Samsung Galaxy flagship launch visuals, Nothing Phone industrial minimalism; exact stylistic execution is yours\\nComposition: must be 9:16 vertical full-screen layout optimized for mobile display\\nSubject: must include the OPPO Find X9 Ultra smartphone as the hero product\\nScene/backdrop: \\nLighting/mood: needs dramatic product lighting with strong visual impact — exact lighting setup is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"OPPO Find X9 Ultra\\\" (brand and model name)\\nConstraints: must be 1080×1920 resolution, brand exposure priority, visual impact first\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10067
+}

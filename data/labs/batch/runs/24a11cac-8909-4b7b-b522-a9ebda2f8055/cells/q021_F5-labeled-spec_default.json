@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-anime\nAsset type: dynamic sports illustration, square crop\nPrimary request: basketball player performing a powerful slam dunk mid-air on a basketball court, full of tension and passion\nScene/backdrop: indoor basketball court, cheering crowd in the background with camera flashlights bursting\nSubject: athletic basketball player soaring high above the rim, muscles tensed, ball gripped in one hand driving downward, sweat droplets flying off the body in all directions\nStyle/medium: hot-blooded shonen anime illustration, bold ink outlines, high-contrast cel shading, dramatic action lines radiating from the focal point\nComposition/framing: low-angle dynamic shot looking up at the player, exaggerated perspective to emphasize height and power\nLighting/mood: intense stadium lighting from below and sides, crowd flashlights creating bursts of white light, electrifying and passionate atmosphere\nColor palette: vivid orange basketball, deep court brown, bright white flash bursts, saturated crowd colors in background\nMaterials/textures: anime-style sweat beads with motion trails, speed lines and motion blur on limbs and ball, bold action streaks\nConstraints: keep the slam dunk as the absolute focal point; crowd must be visible but blurred/stylized in background\nAvoid: realistic photo rendering, static pose, flat lighting, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/33c76a4f-8c2e-4813-a006-d68d8e9e1af5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-anime\\nAsset type: dynamic sports illustration, square crop\\nPrimary request: basketball player performing a powerful slam dunk mid-air on a basketball court, full of tension and passion\\nScene/backdrop: indoor basketball court, cheering crowd in the background with camera flashlights bursting\\nSubject: athletic basketball player soaring high above the rim, muscles tensed, ball gripped in one hand driving downward, sweat droplets flying off the body in all directions\\nStyle/medium: hot-blooded shonen anime illustration, bold ink outlines, high-contrast cel shading, dramatic action lines radiating from the focal point\\nComposition/framing: low-angle dynamic shot looking up at the player, exaggerated perspective to emphasize height and power\\nLighting/mood: intense stadium lighting from below and sides, crowd flashlights creating bursts of white light, electrifying and passionate atmosphere\\nColor palette: vivid orange basketball, deep court brown, bright white flash bursts, saturated crowd colors in background\\nMaterials/textures: anime-style sweat beads with motion trails, speed lines and motion blur on limbs and ball, bold action streaks\\nConstraints: keep the slam dunk as the absolute focal point; crowd must be visible but blurred/stylized in background\\nAvoid: realistic photo rendering, static pose, flat lighting, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14771
+}

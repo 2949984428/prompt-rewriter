@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "跨境电商促销海报，目的是宣传，要求：1.有艺术字，2.有字体堆叠，3.画面较为复杂但不能杂乱，4.有产品或者主体挡住一些字体，4.画面比例16:9",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c34dca1a-5f60-4072-8eef-6eddcb1bb509/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"跨境电商促销海报，目的是宣传，要求：1.有艺术字，2.有字体堆叠，3.画面较为复杂但不能杂乱，4.有产品或者主体挡住一些字体，4.画面比例16:9\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 3948
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic explaining definitions and relationships between technical concepts (all in-image text in Chinese).\n\nStyle/medium: needs a hand-drawn sketch aesthetic — exact illustration technique and line weight are yours\nComposition: must include visual connections/relationships between concepts, with diagrams and icons alongside text\nSubject: must include all 7 concepts: AI / MCP / AI Agent / OpenClaw / AI Skill / 蒸馏 / CLI\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: needs a hand-drawn paper texture — exact paper grain and medium simulation are yours\nText (verbatim): must include concept labels \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must include all in-image text in Chinese by default; must preserve all 7 concept names as listed; relationships between concepts must be visually clear and easy to understand\nAvoid: must avoid overly technical or dense layouts — keep it accessible and beginner-friendly",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8befed20-7d75-4aae-9f14-fbe3910e4fcf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an infographic explaining definitions and relationships between technical concepts (all in-image text in Chinese).\\n\\nStyle/medium: needs a hand-drawn sketch aesthetic — exact illustration technique and line weight are yours\\nComposition: must include visual connections/relationships between concepts, with diagrams and icons alongside text\\nSubject: must include all 7 concepts: AI / MCP / AI Agent / OpenClaw / AI Skill / 蒸馏 / CLI\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: needs a hand-drawn paper texture — exact paper grain and medium simulation are yours\\nText (verbatim): must include concept labels \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must include all in-image text in Chinese by default; must preserve all 7 concept names as listed; relationships between concepts must be visually clear and easy to understand\\nAvoid: must avoid overly technical or dense layouts — keep it accessible and beginner-friendly\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 16387
+}

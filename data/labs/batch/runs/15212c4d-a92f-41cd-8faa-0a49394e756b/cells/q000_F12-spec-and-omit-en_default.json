@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo for a Xiaohongshu cover featuring bubble tea.\n\nStyle/medium: \nComposition: \nSubject: bubble tea\nScene/backdrop: \nLighting/mood: summer coolness\nColor palette: pink, girly aesthetic\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d6ec166b-8c44-4bdc-a605-9ea8dc647c02/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo for a Xiaohongshu cover featuring bubble tea.\\n\\nStyle/medium: \\nComposition: \\nSubject: bubble tea\\nScene/backdrop: \\nLighting/mood: summer coolness\\nColor palette: pink, girly aesthetic\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5071
+}

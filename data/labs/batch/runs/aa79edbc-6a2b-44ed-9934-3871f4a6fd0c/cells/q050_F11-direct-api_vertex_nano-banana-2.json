@@ -1,0 +1,23 @@
+{
+  "query_idx": 50,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "I want a profesional job. Design a brand board for Nända, a jewerly brand for girls. Is a youthful, creative, and colorful brand, it aims to express fun and elegance, wanting its customers to represent their personality through its jewelry. Include: primary, secondary logo, circular submark, full color palette, font pairings and brand patterns. Style: bright, colorful, youthful, with doodle icons. I`ve atteched some inspo images fot he brand kit and logos",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Adcc77706-f756-4eaf-af90-9b31a4f17853/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"I want a profesional job. Design a brand board for Nända, a jewerly brand for girls. Is a youthful, creative, and colorful brand, it aims to express fun and elegance, wanting its customers to represent their personality through its jewelry. Include: primary, secondary logo, circular submark, full color palette, font pairings and brand patterns. Style: bright, colorful, youthful, with doodle icons. I`ve atteched some inspo images fot he brand kit and logos\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3379,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

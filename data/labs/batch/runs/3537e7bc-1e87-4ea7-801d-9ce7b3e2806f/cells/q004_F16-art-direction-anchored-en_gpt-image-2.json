@@ -1,0 +1,19 @@
+{
+  "query_idx": 4,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "【任务类型】PPT 封面设计\n【主题】长安起源Q06将于9月上市\n【主标题】长安起源Q06\n【副标题】9月 震撼上市\n【视觉风格】通透、震撼、科技感、未来感、高端汽车品牌调性\n【背景要求】通透震撼的背景图片，建议采用：流动的光效线条、粒子效果、渐变光晕、科技感纹理、或抽象的未来城市/道路意象，色彩以深蓝、银灰、科技蓝为主，营造高端新能源汽车的科技感与品质感\n【标题排版】主标题字体大气稳重，副标题精致简洁，整体居中或左对齐布局，留有呼吸感\n【品牌调性】长安汽车品牌形象：稳重、科技、创新、中国智造\n【输出规格】16:9 横版PPT封面比例",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-04-img2-sweden.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"【任务类型】PPT 封面设计\\n【主题】长安起源Q06将于9月上市\\n【主标题】长安起源Q06\\n【副标题】9月 震撼上市\\n【视觉风格】通透、震撼、科技感、未来感、高端汽车品牌调性\\n【背景要求】通透震撼的背景图片，建议采用：流动的光效线条、粒子效果、渐变光晕、科技感纹理、或抽象的未来城市/道路意象，色彩以深蓝、银灰、科技蓝为主，营造高端新能源汽车的科技感与品质感\\n【标题排版】主标题字体大气稳重，副标题精致简洁，整体居中或左对齐布局，留有呼吸感\\n【品牌调性】长安汽车品牌形象：稳重、科技、创新、中国智造\\n【输出规格】16:9 横版PPT封面比例\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6381
+}

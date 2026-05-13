@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: UI/UX design system\nAsset type: web dashboard, mobile app interface, component library\nPrimary request: comprehensive UI design system with dashboard, mobile screens, cards, buttons, and controls\nScene/backdrop: clean workspace environment with subtle gradient backgrounds, modular grid layouts\nSubject: sleek dashboard interface with data visualization widgets, responsive mobile screens, card components, button states, form controls\nStyle/medium: minimalist tech design, glassmorphism accents, modern flat design with subtle depth\nComposition/framing: multi-view layout showing desktop dashboard (main), mobile interface (secondary), and component details, organized grid system\nLighting/mood: soft ambient glow, subtle highlights on interactive elements, clean and futuristic atmosphere\nColor palette: deep navy blue + electric cyan + cool white + subtle purple accents, high contrast\nMaterials/textures: matte surfaces with glass-like transparency, subtle noise texture, smooth gradients\nConstraints: maintain consistent spacing and alignment across all components, ensure visual hierarchy is clear\nAvoid: cluttered layouts, excessive shadows, skeuomorphic textures, rainbow gradients, low contrast text",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d618eb02-42f3-4a8a-a3e9-41fbb16a2d29/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: UI/UX design system\\nAsset type: web dashboard, mobile app interface, component library\\nPrimary request: comprehensive UI design system with dashboard, mobile screens, cards, buttons, and controls\\nScene/backdrop: clean workspace environment with subtle gradient backgrounds, modular grid layouts\\nSubject: sleek dashboard interface with data visualization widgets, responsive mobile screens, card components, button states, form controls\\nStyle/medium: minimalist tech design, glassmorphism accents, modern flat design with subtle depth\\nComposition/framing: multi-view layout showing desktop dashboard (main), mobile interface (secondary), and component details, organized grid system\\nLighting/mood: soft ambient glow, subtle highlights on interactive elements, clean and futuristic atmosphere\\nColor palette: deep navy blue + electric cyan + cool white + subtle purple accents, high contrast\\nMaterials/textures: matte surfaces with glass-like transparency, subtle noise texture, smooth gradients\\nConstraints: maintain consistent spacing and alignment across all components, ensure visual hierarchy is clear\\nAvoid: cluttered layouts, excessive shadows, skeuomorphic textures, rainbow gradients, low contrast text\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8150
+}

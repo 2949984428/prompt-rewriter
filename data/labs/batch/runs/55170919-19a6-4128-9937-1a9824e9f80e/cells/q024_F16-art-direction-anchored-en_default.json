@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a technical infographic showing how to deploy Hermes in a Docker container and integrate with GLMCodingPlan (all in-image text in Chinese).\n\nStyle/medium: needs a clean technical documentation aesthetic — references in the spirit of GitHub documentation illustrations, Docker official docs visual style, modern SaaS onboarding step-by-step graphics; exact stylistic execution is yours\nComposition: must be a 4-step vertical or horizontal flow layout with clear numbered sections 1-2-3-4\nSubject: must include Docker container visualization, Hermes deployment process, GLMCodingPlan integration\nScene/backdrop: needs a clean technical workspace or server environment context — exact setting is yours\nLighting/medium: needs a clear, professional documentation atmosphere — exact light treatment is yours\nColor palette: needs a tech-forward direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): must include step labels \"1\", \"2\", \"3\", \"4\" with corresponding Chinese instructional text for: 1) Docker环境准备与Hermes镜像拉取, 2) 容器配置与端口映射设置, 3) Hermes服务启动与基础配置, 4) GLMCodingPlan接入与验证测试\nConstraints: must include all in-image text in Chinese by default; must preserve 4 clear sequential steps with visual separation; must show command/code snippets as visual elements\nAvoid: must avoid cluttered layout that obscures step clarity; must avoid English text in labels unless it's technical terminology (Docker, Hermes, GLMCodingPlan)",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bed4697d-e684-4b13-bf24-bbb12742d75f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a technical infographic showing how to deploy Hermes in a Docker container and integrate with GLMCodingPlan (all in-image text in Chinese).\\n\\nStyle/medium: needs a clean technical documentation aesthetic — references in the spirit of GitHub documentation illustrations, Docker official docs visual style, modern SaaS onboarding step-by-step graphics; exact stylistic execution is yours\\nComposition: must be a 4-step vertical or horizontal flow layout with clear numbered sections 1-2-3-4\\nSubject: must include Docker container visualization, Hermes deployment process, GLMCodingPlan integration\\nScene/backdrop: needs a clean technical workspace or server environment context — exact setting is yours\\nLighting/medium: needs a clear, professional documentation atmosphere — exact light treatment is yours\\nColor palette: needs a tech-forward direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): must include step labels \\\"1\\\", \\\"2\\\", \\\"3\\\", \\\"4\\\" with corresponding Chinese instructional text for: 1) Docker环境准备与Hermes镜像拉取, 2) 容器配置与端口映射设置, 3) Hermes服务启动与基础配置, 4) GLMCodingPlan接入与验证测试\\nConstraints: must include all in-image text in Chinese by default; must preserve 4 clear sequential steps with visual separation; must show command/code snippets as visual elements\\nAvoid: must avoid cluttered layout that obscures step clarity; must avoid English text in labels unless it's technical terminology (Docker, Hermes, GLMCodingPlan)\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 16892
+}

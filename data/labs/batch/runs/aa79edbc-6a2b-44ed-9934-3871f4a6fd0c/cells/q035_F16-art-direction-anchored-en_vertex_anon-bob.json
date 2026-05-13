@@ -1,0 +1,23 @@
+{
+  "query_idx": 35,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个宠物用品品牌 Logo。\n\n风格/媒介: Logo 设计\n构图:\n主体: 宠物用品品牌 Logo\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aaf6999d5-17f3-4062-9297-f83c31fae354/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个宠物用品品牌 Logo。\\n\\n风格/媒介: Logo 设计\\n构图:\\n主体: 宠物用品品牌 Logo\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4665,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

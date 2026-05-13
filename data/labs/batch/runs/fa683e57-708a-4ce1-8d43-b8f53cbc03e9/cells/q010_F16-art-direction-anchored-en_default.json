@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a scene illustration of a post-apocalyptic wasteland environment (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"末日废土\" aesthetic — references in the spirit of Mad Max: Fury Road production design, 1990s Japanese mecha anime background art, 1970s dystopian sci-fi paperback cover illustration; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a modified armored vehicle as the focal subject\nScene/backdrop: must include a desolate desert landscape, collapsed city ruins in the distance, yellow-tinged sky, sandstorm atmosphere\nLighting/mood: needs a tense post-apocalyptic survival atmosphere — exact light source mix is yours\nColor palette: needs a desolate yellow-tinged direction — exact hex values are yours\nMaterials/textures: needs a dusty, weathered surface treatment — exact grain / rust / sand texture is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/82563d9d-3e0a-48a1-994d-2bc95be106ca/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a scene illustration of a post-apocalyptic wasteland environment (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"末日废土\\\" aesthetic — references in the spirit of Mad Max: Fury Road production design, 1990s Japanese mecha anime background art, 1970s dystopian sci-fi paperback cover illustration; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a modified armored vehicle as the focal subject\\nScene/backdrop: must include a desolate desert landscape, collapsed city ruins in the distance, yellow-tinged sky, sandstorm atmosphere\\nLighting/mood: needs a tense post-apocalyptic survival atmosphere — exact light source mix is yours\\nColor palette: needs a desolate yellow-tinged direction — exact hex values are yours\\nMaterials/textures: needs a dusty, weathered surface treatment — exact grain / rust / sand texture is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10341
+}

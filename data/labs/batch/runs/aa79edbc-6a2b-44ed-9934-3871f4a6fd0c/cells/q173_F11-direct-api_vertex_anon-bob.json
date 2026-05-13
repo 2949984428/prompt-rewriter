@@ -1,0 +1,23 @@
+{
+  "query_idx": 173,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:生成面料按压图][@image:#2:防水] 我是亚马逊德国站运营，上架一款浴帘。浴帘正面是磨毛，背面是TPU覆膜，现在需要给这个浴帘做一张主图。告诉客户这个浴帘是一个二合一的浴帘，既有涤纶浴帘的柔软的触感，也具有塑料浴帘的超强防水功能。让德国客户直观感受这款的特点和结构。文案如下：2-in-1 Duschvorhang Weich wie Stoff. Dicht wie Kunststoff Haptik wie Polyester Weich & Geschmeidig Funktion wie ein Kunststoff-Duschvorhang 100 % wasserdicht, kein Durchsickern Außen weich wie Stoff – innen 100% wasserdicht 请结合提供的俩个图片和文案，设计一张主图。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A521db5b5-8759-44a1-adc5-5f1881c05359/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:生成面料按压图][@image:#2:防水] 我是亚马逊德国站运营，上架一款浴帘。浴帘正面是磨毛，背面是TPU覆膜，现在需要给这个浴帘做一张主图。告诉客户这个浴帘是一个二合一的浴帘，既有涤纶浴帘的柔软的触感，也具有塑料浴帘的超强防水功能。让德国客户直观感受这款的特点和结构。文案如下：2-in-1 Duschvorhang Weich wie Stoff. Dicht wie Kunststoff Haptik wie Polyester Weich & Geschmeidig Funktion wie ein Kunststoff-Duschvorhang 100 % wasserdicht, kein Durchsickern Außen weich wie Stoff – innen 100% wasserdicht 请结合提供的俩个图片和文案，设计一张主图。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4713,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

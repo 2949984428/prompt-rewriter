@@ -1,0 +1,23 @@
+{
+  "query_idx": 81,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Diseña un logo para un parque de diversiones llamado 'REAL CENTER PARK'.\n\n风格/媒介: diseño de logo para parque de diversiones, estilo ilustración colorida y festiva, referencia visual: logo MÁRQUEZ PARK (imagen #1)\n构图: el payaso está de pie a un lado, señalando con el brazo hacia el texto/logo 'REAL CENTER PARK'\n主体:\n  logo del parque de diversiones con el nombre 'REAL CENTER PARK'\n  payaso aportado (imagen #2): parado, feliz, señalando el logo\n场景/背景: fondo limpio adecuado para logo\n光线/氛围: alegre, festivo\n色彩方案:\n材质/纹理:\n文字(原样): REAL CENTER PARK\n约束:\n  incorporar el payaso de la imagen #2 tal como aparece (de pie, feliz)\n  el payaso señala hacia el nombre 'REAL CENTER PARK'\n  composición tipo logo, no escena ilustrativa\n避免: fondos complejos que distraigan del logo",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Afff7811f-89ba-4c26-8cb1-2312168754f6/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Diseña un logo para un parque de diversiones llamado 'REAL CENTER PARK'.\\n\\n风格/媒介: diseño de logo para parque de diversiones, estilo ilustración colorida y festiva, referencia visual: logo MÁRQUEZ PARK (imagen #1)\\n构图: el payaso está de pie a un lado, señalando con el brazo hacia el texto/logo 'REAL CENTER PARK'\\n主体:\\n  logo del parque de diversiones con el nombre 'REAL CENTER PARK'\\n  payaso aportado (imagen #2): parado, feliz, señalando el logo\\n场景/背景: fondo limpio adecuado para logo\\n光线/氛围: alegre, festivo\\n色彩方案:\\n材质/纹理:\\n文字(原样): REAL CENTER PARK\\n约束:\\n  incorporar el payaso de la imagen #2 tal como aparece (de pie, feliz)\\n  el payaso señala hacia el nombre 'REAL CENTER PARK'\\n  composición tipo logo, no escena ilustrativa\\n避免: fondos complejos que distraigan del logo\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8878,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

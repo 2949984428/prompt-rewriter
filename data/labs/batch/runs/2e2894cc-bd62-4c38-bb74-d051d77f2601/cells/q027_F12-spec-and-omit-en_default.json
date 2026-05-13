@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing panoramic editorial illustration of the Tang Dynasty Chang'an City Lantern Festival.\n\nStyle/medium: gongbi zhongcai (meticulous brushwork with heavy colors), long scroll format\nComposition: panoramic\nSubject: Lantern Festival in Tang Dynasty Chang'an\nScene/backdrop: Chang'an city at night with thousands of lanterns illuminating the sky\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fcd0f0a1-56b5-4ea8-9325-23b114ab1b58/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an original, non-infringing panoramic editorial illustration of the Tang Dynasty Chang'an City Lantern Festival.\\n\\nStyle/medium: gongbi zhongcai (meticulous brushwork with heavy colors), long scroll format\\nComposition: panoramic\\nSubject: Lantern Festival in Tang Dynasty Chang'an\\nScene/backdrop: Chang'an city at night with thousands of lanterns illuminating the sky\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7653
+}

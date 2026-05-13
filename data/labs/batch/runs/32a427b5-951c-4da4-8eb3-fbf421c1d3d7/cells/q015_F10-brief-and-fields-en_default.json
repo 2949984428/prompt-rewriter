@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a 9:16 vertical screenshot of a Douyin livestream featuring a female streamer called \"神仙姐姐\".\n\nStyle/medium: vertical mobile screenshot, UI mockup with livestream interface elements, social media aesthetic\nComposition: 9:16 vertical aspect ratio, full-screen phone interface with streamer centered in frame, typical livestream overlay layout\nSubject: female streamer \"神仙姐姐\" holding a sign, elegant appearance, engaging expression facing camera\nScene/backdrop: livestream room interior with soft bokeh background, Douyin UI elements visible (viewer count, comments, gift buttons)\nLighting/mood: soft ring light illumination on face, warm and inviting atmosphere typical of beauty livestreams\nColor palette: warm skin tones as anchor, soft pink and white UI accents, neutral background\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: must include realistic Douyin livestream interface elements; sign text must be clearly readable; 9:16 vertical format\nAvoid: distorted facial features, blurry text, cluttered composition, watermark from other platforms, over-processed filter look",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ea3a9222-8e8f-45e4-a207-133d7c6500cf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate a 9:16 vertical screenshot of a Douyin livestream featuring a female streamer called \\\"神仙姐姐\\\".\\n\\nStyle/medium: vertical mobile screenshot, UI mockup with livestream interface elements, social media aesthetic\\nComposition: 9:16 vertical aspect ratio, full-screen phone interface with streamer centered in frame, typical livestream overlay layout\\nSubject: female streamer \\\"神仙姐姐\\\" holding a sign, elegant appearance, engaging expression facing camera\\nScene/backdrop: livestream room interior with soft bokeh background, Douyin UI elements visible (viewer count, comments, gift buttons)\\nLighting/mood: soft ring light illumination on face, warm and inviting atmosphere typical of beauty livestreams\\nColor palette: warm skin tones as anchor, soft pink and white UI accents, neutral background\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: must include realistic Douyin livestream interface elements; sign text must be clearly readable; 9:16 vertical format\\nAvoid: distorted facial features, blurry text, cluttered composition, watermark from other platforms, over-processed filter look\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10646
+}

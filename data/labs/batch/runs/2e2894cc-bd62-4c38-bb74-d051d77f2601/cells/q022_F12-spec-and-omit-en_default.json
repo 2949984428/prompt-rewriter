@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing editorial photo of stylish coffee and dessert in a Korean cafe style, smartphone-shot for Instagram, no people.\n\nStyle/medium: smartphone photography, Instagram aesthetic, Korean cafe style, hand-drawn annotations with white pen lines, rough uneven single-stroke style, contour lines tracing objects, arrows and dashed lines for visual guidance, steam sparkles hearts small emoticons, Instagram story style, magazine rough notes style\nComposition: overhead/tabletop view suitable for Instagram flat lay\nSubject: coffee and dessert, no people\nScene/backdrop: Korean cafe interior\nLighting/mood: natural cafe lighting\nColor palette: warm cafe tones\nMaterials/textures: \nText (verbatim): Japanese handwritten text (70% hiragana, 30% simple kanji), short diary-like comments: 飲み物→味・温度・気持ち(例:さっぱり、優しい甘み), 食べ物→食感・美味しさ(例:しっとり、最高), 空間→雰囲気(例:リラックス、素敵な時間), 全体→一言まとめ(例:幸せすぎる～)\nConstraints: hand-drawn annotations on each element, leave blank space, not excessive decoration\nAvoid: people, cluttered composition, over-decoration",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/99c57288-18de-4b62-8ea9-3bd0909c0e7d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing editorial photo of stylish coffee and dessert in a Korean cafe style, smartphone-shot for Instagram, no people.\\n\\nStyle/medium: smartphone photography, Instagram aesthetic, Korean cafe style, hand-drawn annotations with white pen lines, rough uneven single-stroke style, contour lines tracing objects, arrows and dashed lines for visual guidance, steam sparkles hearts small emoticons, Instagram story style, magazine rough notes style\\nComposition: overhead/tabletop view suitable for Instagram flat lay\\nSubject: coffee and dessert, no people\\nScene/backdrop: Korean cafe interior\\nLighting/mood: natural cafe lighting\\nColor palette: warm cafe tones\\nMaterials/textures: \\nText (verbatim): Japanese handwritten text (70% hiragana, 30% simple kanji), short diary-like comments: 飲み物→味・温度・気持ち(例:さっぱり、優しい甘み), 食べ物→食感・美味しさ(例:しっとり、最高), 空間→雰囲気(例:リラックス、素敵な時間), 全体→一言まとめ(例:幸せすぎる～)\\nConstraints: hand-drawn annotations on each element, leave blank space, not excessive decoration\\nAvoid: people, cluttered composition, over-decoration\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11540
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-editorial\nAsset type: watercolor illustration, poster or book cover\nPrimary request: a charming European town corner on a summer afternoon featuring a small bookstore and adjacent café\nScene/backdrop: quaint European town square, cobblestone street lined with pastel-colored buildings in cream yellow, peach orange, and pale blue, bright blue sky with fluffy white clouds\nSubject: corner bookstore with display window full of colorful books, potted geraniums with vivid red blooms at entrance; neighboring café with outdoor seating where relaxed patrons read newspapers or chat quietly, coffee cups and croissants on tables\nStyle/medium: watercolor illustration, light and airy brushwork, natural wet-on-wet color blending\nComposition/framing: wide establishing shot, slightly elevated angle capturing the corner scene\nLighting/mood: bright summer sunlight casting crisp shadows, warm and leisurely atmosphere\nColor palette: cream yellow, peach orange, pale blue facades, vivid red geraniums, bright azure sky, soft white clouds\nMaterials/textures: fluid watercolor washes, delicate paper texture, soft color gradients\nConstraints: maintain the bookstore as focal point, preserve the summer afternoon mood and European charm\nAvoid: photorealistic rendering, heavy digital textures, dark or moody tones, cluttered composition",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7fbd1198-8456-4e08-970c-fc23d6261b43/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-editorial\\nAsset type: watercolor illustration, poster or book cover\\nPrimary request: a charming European town corner on a summer afternoon featuring a small bookstore and adjacent café\\nScene/backdrop: quaint European town square, cobblestone street lined with pastel-colored buildings in cream yellow, peach orange, and pale blue, bright blue sky with fluffy white clouds\\nSubject: corner bookstore with display window full of colorful books, potted geraniums with vivid red blooms at entrance; neighboring café with outdoor seating where relaxed patrons read newspapers or chat quietly, coffee cups and croissants on tables\\nStyle/medium: watercolor illustration, light and airy brushwork, natural wet-on-wet color blending\\nComposition/framing: wide establishing shot, slightly elevated angle capturing the corner scene\\nLighting/mood: bright summer sunlight casting crisp shadows, warm and leisurely atmosphere\\nColor palette: cream yellow, peach orange, pale blue facades, vivid red geraniums, bright azure sky, soft white clouds\\nMaterials/textures: fluid watercolor washes, delicate paper texture, soft color gradients\\nConstraints: maintain the bookstore as focal point, preserve the summer afternoon mood and European charm\\nAvoid: photorealistic rendering, heavy digital textures, dark or moody tones, cluttered composition\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10689
+}

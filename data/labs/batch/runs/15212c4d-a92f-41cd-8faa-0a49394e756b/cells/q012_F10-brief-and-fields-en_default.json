@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a WeChat Official Account article cover about a fragrance product launch.\n\nStyle/medium: premium editorial design, sophisticated luxury aesthetic, clean typography-focused layout\nComposition: centered composition, title placed at visual center with balanced negative space, 16:9 aspect ratio\nSubject: elegant Chinese typography \"染秋 - 秋意染染 时光留香\" as hero element, subtle autumn fragrance visual cues\nScene/backdrop: minimalist premium background with soft autumn-inspired gradient or texture, ample breathing room\nLighting/mood: soft diffused light, warm and refined atmosphere suggesting autumn warmth\nColor palette: warm amber and gold tones balanced with muted neutrals, sophisticated and restrained\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title must be the dominant visual element; design must scale well for mobile reading; maintain readability at small sizes\nAvoid: cluttered layout, generic stock imagery, overly decorative elements, neon colors, busy patterns",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/70bb25e8-18ca-41c0-8e2d-6dabf537954e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a WeChat Official Account article cover about a fragrance product launch.\\n\\nStyle/medium: premium editorial design, sophisticated luxury aesthetic, clean typography-focused layout\\nComposition: centered composition, title placed at visual center with balanced negative space, 16:9 aspect ratio\\nSubject: elegant Chinese typography \\\"染秋 - 秋意染染 时光留香\\\" as hero element, subtle autumn fragrance visual cues\\nScene/backdrop: minimalist premium background with soft autumn-inspired gradient or texture, ample breathing room\\nLighting/mood: soft diffused light, warm and refined atmosphere suggesting autumn warmth\\nColor palette: warm amber and gold tones balanced with muted neutrals, sophisticated and restrained\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title must be the dominant visual element; design must scale well for mobile reading; maintain readability at small sizes\\nAvoid: cluttered layout, generic stock imagery, overly decorative elements, neon colors, busy patterns\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10833
+}

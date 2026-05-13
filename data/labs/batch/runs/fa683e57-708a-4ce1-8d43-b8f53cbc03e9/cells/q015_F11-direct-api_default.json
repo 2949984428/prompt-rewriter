@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张蒸汽朋克风格的机械装置图，复杂的齿轮、管道和仪表，黄铜和铜质材料，维多利亚时代的装饰元素，精密而复古的工业美感",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eb3f24ad-6bb5-45ff-9a45-c9f30e0bef87/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"生成一张蒸汽朋克风格的机械装置图，复杂的齿轮、管道和仪表，黄铜和铜质材料，维多利亚时代的装饰元素，精密而复古的工业美感\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 3969
+}

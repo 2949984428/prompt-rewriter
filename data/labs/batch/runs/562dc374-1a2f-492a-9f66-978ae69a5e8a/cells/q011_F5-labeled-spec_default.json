@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial photo, magazine cover style\nPrimary request: a Japanese high school girl in sailor uniform standing in front of a school building during cherry blossom season\nScene/backdrop: traditional Japanese school campus, classic concrete school building with large windows, cherry blossom trees in full bloom\nSubject: teenage Japanese girl wearing navy sailor uniform (seifuku), short pleated skirt, hair gently blown by breeze, serene youthful expression\nStyle/medium: soft film photography, Japanese youth magazine aesthetic\nComposition/framing: medium shot, eye-level angle, subject slightly off-center with cherry blossoms framing the scene\nLighting/mood: bright spring sunlight, soft golden hour glow, fresh and youthful atmosphere\nColor palette: soft pink cherry blossoms + navy blue uniform + warm sunlight + pale blue sky\nMaterials/textures: delicate falling cherry blossom petals, crisp cotton uniform fabric, soft hair strands in motion\nConstraints: keep the fresh youthful Japanese spring vibe, sailor uniform must be recognizable style\nAvoid: over-saturated colors, anime-style proportions, cluttered background, harsh shadows",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/40966edf-5ce3-4f97-94d2-f4b56b62f872/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial photo, magazine cover style\\nPrimary request: a Japanese high school girl in sailor uniform standing in front of a school building during cherry blossom season\\nScene/backdrop: traditional Japanese school campus, classic concrete school building with large windows, cherry blossom trees in full bloom\\nSubject: teenage Japanese girl wearing navy sailor uniform (seifuku), short pleated skirt, hair gently blown by breeze, serene youthful expression\\nStyle/medium: soft film photography, Japanese youth magazine aesthetic\\nComposition/framing: medium shot, eye-level angle, subject slightly off-center with cherry blossoms framing the scene\\nLighting/mood: bright spring sunlight, soft golden hour glow, fresh and youthful atmosphere\\nColor palette: soft pink cherry blossoms + navy blue uniform + warm sunlight + pale blue sky\\nMaterials/textures: delicate falling cherry blossom petals, crisp cotton uniform fabric, soft hair strands in motion\\nConstraints: keep the fresh youthful Japanese spring vibe, sailor uniform must be recognizable style\\nAvoid: over-saturated colors, anime-style proportions, cluttered background, harsh shadows\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14211
+}

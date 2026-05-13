@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: historical-art-reproduction\nAsset type: Chinese scroll painting, panoramic format\nPrimary request: panoramic view of Tang Dynasty Chang'an city during Lantern Festival, thousands of lanterns illuminating the night sky\nScene/backdrop: Tang Dynasty Chang'an cityscape at night, palace towers, city gates, bustling streets filled with festival crowds, river reflecting lantern lights\nSubject: grand Lantern Festival celebration with countless traditional Chinese lanterns of various shapes and sizes, citizens in Tang-era attire enjoying the festivities\nStyle/medium: gongbi zhongcai (meticulous brushwork with heavy colors), traditional Chinese scroll painting style, Tang Dynasty artistic tradition\nComposition/framing: wide panoramic bird's-eye view, sweeping horizontal composition capturing the entire cityscape\nLighting/mood: warm golden lantern glow contrasting with deep indigo night sky, festive and majestic atmosphere\nColor palette: rich mineral pigments, vermilion, gold, ultramarine, malachite green, warm amber lantern light\nMaterials/textures: silk scroll texture, fine brushwork details, layered mineral color application, traditional ink wash backgrounds\nConstraints: maintain authentic Tang Dynasty architectural details, preserve the \"万盏花灯\" scale and grandeur\nAvoid: anachronistic elements, modern lighting, photographic realism, Western perspective techniques, cartoonish simplification",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c7b4db5b-2246-4e8b-9923-20032f8dba3d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: historical-art-reproduction\\nAsset type: Chinese scroll painting, panoramic format\\nPrimary request: panoramic view of Tang Dynasty Chang'an city during Lantern Festival, thousands of lanterns illuminating the night sky\\nScene/backdrop: Tang Dynasty Chang'an cityscape at night, palace towers, city gates, bustling streets filled with festival crowds, river reflecting lantern lights\\nSubject: grand Lantern Festival celebration with countless traditional Chinese lanterns of various shapes and sizes, citizens in Tang-era attire enjoying the festivities\\nStyle/medium: gongbi zhongcai (meticulous brushwork with heavy colors), traditional Chinese scroll painting style, Tang Dynasty artistic tradition\\nComposition/framing: wide panoramic bird's-eye view, sweeping horizontal composition capturing the entire cityscape\\nLighting/mood: warm golden lantern glow contrasting with deep indigo night sky, festive and majestic atmosphere\\nColor palette: rich mineral pigments, vermilion, gold, ultramarine, malachite green, warm amber lantern light\\nMaterials/textures: silk scroll texture, fine brushwork details, layered mineral color application, traditional ink wash backgrounds\\nConstraints: maintain authentic Tang Dynasty architectural details, preserve the \\\"万盏花灯\\\" scale and grandeur\\nAvoid: anachronistic elements, modern lighting, photographic realism, Western perspective techniques, cartoonish simplification\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11394
+}

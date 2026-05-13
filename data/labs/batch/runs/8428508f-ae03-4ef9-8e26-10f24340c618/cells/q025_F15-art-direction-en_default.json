@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 小红书 (Xiaohongshu) style 9-grid cover vertical image for a \"素人\" (everyday-person) content creator reviewing the 大疆 Pocket 4.\n\nStyle/medium: needs a \"素人\" (everyday-person / authentic UGC) aesthetic — exact stylistic execution is yours\nComposition: must be 9-grid (九宫格) layout, vertical format, central title text prominently placed in the middle\nSubject: must include the 大疆 Pocket 4 camera as the featured product, naturally integrated into the composition\nScene/backdrop: needs a casual, lifestyle-oriented backdrop fitting a \"素人\" creator aesthetic — exact scene is yours\nLighting/mood: needs a bright, approachable, everyday atmosphere — exact light source mix is yours\nColor palette: needs a fresh, youthful direction fitting 小红书 content style — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" (large, centered, primary title); font must feel cute and differentiated — exact typeface execution is yours\nConstraints: must preserve 9-grid vertical cover format; product 大疆 Pocket 4 must be visually recognizable; title text must be the focal typographic element\nAvoid: must avoid overly polished commercial advertising look; must avoid professional studio aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d86cdaa1-483f-4445-9439-5767d06bb1ae/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 小红书 (Xiaohongshu) style 9-grid cover vertical image for a \\\"素人\\\" (everyday-person) content creator reviewing the 大疆 Pocket 4.\\n\\nStyle/medium: needs a \\\"素人\\\" (everyday-person / authentic UGC) aesthetic — exact stylistic execution is yours\\nComposition: must be 9-grid (九宫格) layout, vertical format, central title text prominently placed in the middle\\nSubject: must include the 大疆 Pocket 4 camera as the featured product, naturally integrated into the composition\\nScene/backdrop: needs a casual, lifestyle-oriented backdrop fitting a \\\"素人\\\" creator aesthetic — exact scene is yours\\nLighting/mood: needs a bright, approachable, everyday atmosphere — exact light source mix is yours\\nColor palette: needs a fresh, youthful direction fitting 小红书 content style — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" (large, centered, primary title); font must feel cute and differentiated — exact typeface execution is yours\\nConstraints: must preserve 9-grid vertical cover format; product 大疆 Pocket 4 must be visually recognizable; title text must be the focal typographic element\\nAvoid: must avoid overly polished commercial advertising look; must avoid professional studio aesthetic\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17217
+}

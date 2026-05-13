@@ -1,0 +1,38 @@
+{
+  "id": "cc60ee06-ad66-4989-a45d-3a08ede0cce0",
+  "created_at": "2026-04-27T08:31:34.821Z",
+  "name": "",
+  "query_mode": "repeat",
+  "purpose": "",
+  "queries": [
+    "染秋 (RAN QIU) 秋季品牌。\n 品牌理念：染秋以东方哲学观照自然更迭，意在捕捉秋日流转中的诗意瞬间。品牌从中国传统\"染\"的工艺美学出发，将秋天的色彩、气息、情绪凝练成可感知的香氛艺术。精选秋季时令植物——桂花、柿子、枫叶、乌龙茶，融合东方香料如肉桂、檀香、琥珀，创造温暖而隽永的秋日记忆。\n核心系列：    以\"染秋\"为题，推出桂花乌龙、琥珀枫叶、柿霜暮色等香调，营造温暖治愈的秋日氛围。\n制作品牌染秋的主色 + 辅色 + 字体规范展示图",
+    "染秋 (RAN QIU) 秋季品牌。\n 品牌理念：染秋以东方哲学观照自然更迭，意在捕捉秋日流转中的诗意瞬间。品牌从中国传统\"染\"的工艺美学出发，将秋天的色彩、气息、情绪凝练成可感知的香氛艺术。精选秋季时令植物——桂花、柿子、枫叶、乌龙茶，融合东方香料如肉桂、檀香、琥珀，创造温暖而隽永的秋日记忆。\n核心系列：    以\"染秋\"为题，推出桂花乌龙、琥珀枫叶、柿霜暮色等香调，营造温暖治愈的秋日氛围。\n制作品牌染秋的主色 + 辅色 + 字体规范展示图"
+  ],
+  "skill_ids": [
+    "F5-labeled-spec",
+    "F9-brief-and-fields",
+    "F10-brief-and-fields-en"
+  ],
+  "scoring_dimensions": [
+    {
+      "id": "overall",
+      "label": "总体观感",
+      "description": ""
+    },
+    {
+      "id": "intent",
+      "label": "意图还原度",
+      "description": "prompt 是否抓住了用户原意"
+    }
+  ],
+  "rewrite_llm": "bedrock/claude-sonnet-4-6",
+  "status": "finished",
+  "cell_keys": [
+    "q000_F5-labeled-spec_default",
+    "q000_F9-brief-and-fields_default",
+    "q000_F10-brief-and-fields-en_default",
+    "q001_F5-labeled-spec_default",
+    "q001_F9-brief-and-fields_default",
+    "q001_F10-brief-and-fields-en_default"
+  ]
+}

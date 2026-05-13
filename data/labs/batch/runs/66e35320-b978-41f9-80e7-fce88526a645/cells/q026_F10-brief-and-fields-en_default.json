@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a Chinese domestic fundraising roadshow PPT cover, featuring a keynote speaker.\n\nStyle/medium: professional Chinese tech industry presentation design, clean corporate visual identity with subtle tech elements, suitable for VC/PE audience\nComposition: centered layout with ample negative space, speaker portrait area on upper right, title block on left, balanced for 16:9 presentation slide\nSubject: keynote speaker Sam Altman in professional attire, confident executive presence, subtle tech industry gravitas\nScene/backdrop: abstract gradient suggesting innovation and growth, subtle geometric patterns or circuit-inspired motifs, not distracting from content\nLighting/mood: soft diffused studio lighting, professional and trustworthy atmosphere, optimistic forward-looking tone\nColor palette: deep blue or tech navy as primary, gold or orange accent for energy, clean white for text legibility\nText (verbatim): \"gpt5.5发布\"\nConstraints: must work as PowerPoint cover slide; text must be clearly readable when projected; design should appeal to Chinese GP/LP investors familiar with domestic roadshow aesthetics\nAvoid: cluttered layouts; overly playful or casual elements; generic stock photo feel; excessive gradients; Western-centric visual cues that don't resonate with Chinese tech investment culture",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2a7e232e-adb3-4a53-85e2-5eecc76fc183/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a Chinese domestic fundraising roadshow PPT cover, featuring a keynote speaker.\\n\\nStyle/medium: professional Chinese tech industry presentation design, clean corporate visual identity with subtle tech elements, suitable for VC/PE audience\\nComposition: centered layout with ample negative space, speaker portrait area on upper right, title block on left, balanced for 16:9 presentation slide\\nSubject: keynote speaker Sam Altman in professional attire, confident executive presence, subtle tech industry gravitas\\nScene/backdrop: abstract gradient suggesting innovation and growth, subtle geometric patterns or circuit-inspired motifs, not distracting from content\\nLighting/mood: soft diffused studio lighting, professional and trustworthy atmosphere, optimistic forward-looking tone\\nColor palette: deep blue or tech navy as primary, gold or orange accent for energy, clean white for text legibility\\nText (verbatim): \\\"gpt5.5发布\\\"\\nConstraints: must work as PowerPoint cover slide; text must be clearly readable when projected; design should appeal to Chinese GP/LP investors familiar with domestic roadshow aesthetics\\nAvoid: cluttered layouts; overly playful or casual elements; generic stock photo feel; excessive gradients; Western-centric visual cues that don't resonate with Chinese tech investment culture\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8967
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original editorial photo of a primeval forest at dawn, capturing the mystical and serene atmosphere of untouched wilderness.\n\nStyle/medium: photorealistic landscape photography, 35mm film aesthetic with natural color grading\nComposition: wide-angle shot, deep depth of field with foreground-to-background layering, low horizon line\nSubject: ancient moss-covered boulders with ferns and wild mushrooms in foreground, towering redwood trunks in midground\nScene/backdrop: dense primeval forest interior, morning mist weaving through trees, distant mountain silhouettes, a winding clear mountain stream with reflections of green vegetation\nLighting/mood: early morning golden hour, first sunlight piercing dense canopy creating visible Tyndall light rays, soft atmospheric haze\nColor palette: deep forest green as base, vibrant emerald green as anchor, warm golden sunlight as accent, natural earthy tones\nMaterials/textures: velvety moss on weathered stone, delicate fern fronds, smooth water surface with subtle ripples, rough bark texture\nAvoid: oversaturated colors, artificial sharpening halos, plastic-looking vegetation, watermark, 8K stuffer aesthetic, HDR over-processing",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bf6fb535-1ddf-44da-ac68-29aaf30985b6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original editorial photo of a primeval forest at dawn, capturing the mystical and serene atmosphere of untouched wilderness.\\n\\nStyle/medium: photorealistic landscape photography, 35mm film aesthetic with natural color grading\\nComposition: wide-angle shot, deep depth of field with foreground-to-background layering, low horizon line\\nSubject: ancient moss-covered boulders with ferns and wild mushrooms in foreground, towering redwood trunks in midground\\nScene/backdrop: dense primeval forest interior, morning mist weaving through trees, distant mountain silhouettes, a winding clear mountain stream with reflections of green vegetation\\nLighting/mood: early morning golden hour, first sunlight piercing dense canopy creating visible Tyndall light rays, soft atmospheric haze\\nColor palette: deep forest green as base, vibrant emerald green as anchor, warm golden sunlight as accent, natural earthy tones\\nMaterials/textures: velvety moss on weathered stone, delicate fern fronds, smooth water surface with subtle ripples, rough bark texture\\nAvoid: oversaturated colors, artificial sharpening halos, plastic-looking vegetation, watermark, 8K stuffer aesthetic, HDR over-processing\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10813
+}

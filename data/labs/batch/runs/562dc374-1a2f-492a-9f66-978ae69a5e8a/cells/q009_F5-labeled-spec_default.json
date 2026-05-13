@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: product shot, editorial jewelry photography\nPrimary request: extreme close-up of a sapphire ring with diamond pavé setting, capturing internal fire and brilliance\nScene/backdrop: black velvet background, seamless and non-reflective\nSubject: oval-cut deep blue sapphire center stone, surrounded by brilliant-cut diamond halo, platinum or white gold band\nStyle/medium: hyper-realistic macro photography, commercial jewelry catalog style\nComposition/framing: macro close-up, 90mm macro lens, shallow depth of field focusing on the sapphire's crown facets\nLighting/mood: controlled studio lighting with focused spotlight, creating internal refraction and fire (rainbow dispersion) within the sapphire, dramatic and luxurious\nColor palette: deep royal blue + icy white diamond sparkle + warm gold/platinum metal tones against pure black\nMaterials/textures: faceted sapphire with visible internal clarity and dispersion, crisp diamond facets, soft matte velvet texture\nConstraints: must show fire/refraction inside the sapphire gemstone, every facet and inclusion detail visible, black velvet must appear rich and non-reflective\nAvoid: plastic-looking gems, flat lighting without refraction, over-sharpening artifacts, dust or fingerprints on the stone, washed-out colors",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/61005c74-70c8-46b3-8afe-475b05857e7b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: product shot, editorial jewelry photography\\nPrimary request: extreme close-up of a sapphire ring with diamond pavé setting, capturing internal fire and brilliance\\nScene/backdrop: black velvet background, seamless and non-reflective\\nSubject: oval-cut deep blue sapphire center stone, surrounded by brilliant-cut diamond halo, platinum or white gold band\\nStyle/medium: hyper-realistic macro photography, commercial jewelry catalog style\\nComposition/framing: macro close-up, 90mm macro lens, shallow depth of field focusing on the sapphire's crown facets\\nLighting/mood: controlled studio lighting with focused spotlight, creating internal refraction and fire (rainbow dispersion) within the sapphire, dramatic and luxurious\\nColor palette: deep royal blue + icy white diamond sparkle + warm gold/platinum metal tones against pure black\\nMaterials/textures: faceted sapphire with visible internal clarity and dispersion, crisp diamond facets, soft matte velvet texture\\nConstraints: must show fire/refraction inside the sapphire gemstone, every facet and inclusion detail visible, black velvet must appear rich and non-reflective\\nAvoid: plastic-looking gems, flat lighting without refraction, over-sharpening artifacts, dust or fingerprints on the stone, washed-out colors\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10497
+}

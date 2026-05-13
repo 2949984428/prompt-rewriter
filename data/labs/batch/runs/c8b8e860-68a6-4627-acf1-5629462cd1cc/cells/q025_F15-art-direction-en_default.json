@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 9-grid cover image for a Xiaohongshu (Little Red Book) post featuring a DJI Pocket 4 review.\n\nStyle/medium: needs a \"素人风格\" (authentic amateur creator) aesthetic — exact stylistic interpretation is yours\nComposition: must be 9-grid layout, centered title placement\nSubject: must include the DJI Pocket 4 product as the focal element\nScene/backdrop: \nLighting/mood: needs an approachable, casual creator atmosphere — exact light source mix is yours\nColor palette: needs a cute, differentiated direction — exact color values are yours\nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" (centered, cute and differentiated typography)\nConstraints: must be vertical cover image format suitable for Xiaohongshu platform\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6c453bee-f231-4b2a-83d6-45031bb509fe/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a 9-grid cover image for a Xiaohongshu (Little Red Book) post featuring a DJI Pocket 4 review.\\n\\nStyle/medium: needs a \\\"素人风格\\\" (authentic amateur creator) aesthetic — exact stylistic interpretation is yours\\nComposition: must be 9-grid layout, centered title placement\\nSubject: must include the DJI Pocket 4 product as the focal element\\nScene/backdrop: \\nLighting/mood: needs an approachable, casual creator atmosphere — exact light source mix is yours\\nColor palette: needs a cute, differentiated direction — exact color values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" (centered, cute and differentiated typography)\\nConstraints: must be vertical cover image format suitable for Xiaohongshu platform\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11174
+}

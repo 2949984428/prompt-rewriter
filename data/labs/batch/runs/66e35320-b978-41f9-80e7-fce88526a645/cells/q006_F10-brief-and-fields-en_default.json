@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic movie poster for \"大话西游\" reimagined in 1990s Hong Kong film style.\n\nStyle/medium: 35mm film photography with visible grain and texture, 1990s Hong Kong cinema aesthetic reminiscent of Wong Kar-wai and Jeffrey Lau romantic epics\nComposition: wide cinematic framing, eye-level medium shot of embracing couple in foreground with two distant figures on the ancient city wall, shallow depth of field on the lovers\nSubject: Zhi Zunbao (至尊宝) and Zixia (紫霞) in an intimate embrace and kiss, period costumes with flowing fabrics, emotional expressions\nScene/backdrop: ancient Chinese city wall battlements at golden hour, vast sky with warm clouds, two small silhouettes (Bull Demon King and Tang Monk) standing apart in the distant background\nLighting/mood: warm golden hour side-lighting, soft romantic glow, nostalgic and bittersweet atmosphere\nColor palette: warm amber and gold tones dominating, subtle teal shadows, desaturated reds in costumes, film grain texture throughout\nMaterials/textures: visible 35mm film grain, slight halation on highlights, matte paper poster texture\nText (verbatim): \"大话西游\"\nAvoid: modern digital polish, oversaturated colors, clean skin retouching, Chinese fantasy game aesthetic, Behance generic style, 8K stuffer terminology",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d508f84f-2866-4af7-a3d9-faa958fe189c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic movie poster for \\\"大话西游\\\" reimagined in 1990s Hong Kong film style.\\n\\nStyle/medium: 35mm film photography with visible grain and texture, 1990s Hong Kong cinema aesthetic reminiscent of Wong Kar-wai and Jeffrey Lau romantic epics\\nComposition: wide cinematic framing, eye-level medium shot of embracing couple in foreground with two distant figures on the ancient city wall, shallow depth of field on the lovers\\nSubject: Zhi Zunbao (至尊宝) and Zixia (紫霞) in an intimate embrace and kiss, period costumes with flowing fabrics, emotional expressions\\nScene/backdrop: ancient Chinese city wall battlements at golden hour, vast sky with warm clouds, two small silhouettes (Bull Demon King and Tang Monk) standing apart in the distant background\\nLighting/mood: warm golden hour side-lighting, soft romantic glow, nostalgic and bittersweet atmosphere\\nColor palette: warm amber and gold tones dominating, subtle teal shadows, desaturated reds in costumes, film grain texture throughout\\nMaterials/textures: visible 35mm film grain, slight halation on highlights, matte paper poster texture\\nText (verbatim): \\\"大话西游\\\"\\nAvoid: modern digital polish, oversaturated colors, clean skin retouching, Chinese fantasy game aesthetic, Behance generic style, 8K stuffer terminology\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11832
+}

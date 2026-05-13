@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID badge for \"字节期动\" (ByteDance-inspired), front and back.\n\nStyle/medium: needs photorealistic ID badge aesthetic — exact badge material and finish is yours\nComposition: must include both front and back sides of the badge in one view\nSubject: must include \"字节期动\" as the company name\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: needs realistic badge surface treatment — exact plastic/metal/laminate choice is yours\nText (verbatim): must include \"字节期动\"\nConstraints: must preserve the two-sided layout (front + back)\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7d445e9f-8d99-415f-b5c8-d750b5f42070/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing employee ID badge for \\\"字节期动\\\" (ByteDance-inspired), front and back.\\n\\nStyle/medium: needs photorealistic ID badge aesthetic — exact badge material and finish is yours\\nComposition: must include both front and back sides of the badge in one view\\nSubject: must include \\\"字节期动\\\" as the company name\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: needs realistic badge surface treatment — exact plastic/metal/laminate choice is yours\\nText (verbatim): must include \\\"字节期动\\\"\\nConstraints: must preserve the two-sided layout (front + back)\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7876
+}

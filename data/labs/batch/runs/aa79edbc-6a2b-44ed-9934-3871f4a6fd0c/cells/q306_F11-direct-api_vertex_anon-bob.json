@@ -1,0 +1,23 @@
+{
+  "query_idx": 306,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:YouTube Thumbnail WhatsApp Automation] quiero que cambies el personaje por mi foto [@image:#2:foto youtube]",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A321164d7-7194-4261-9534-12b2395750cc/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:YouTube Thumbnail WhatsApp Automation] quiero que cambies el personaje por mi foto [@image:#2:foto youtube]\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3912,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

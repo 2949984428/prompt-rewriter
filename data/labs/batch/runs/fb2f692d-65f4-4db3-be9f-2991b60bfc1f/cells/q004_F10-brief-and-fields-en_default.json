@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing PPT cover design for the automotive brand Chang'an, announcing the launch of the Q06 model.\n\nStyle/medium: clean corporate presentation cover, modern automotive marketing aesthetic, subtle gradient overlay for text legibility\nSubject: bold headline \"长安起源Q06将于9月上市\" with supporting subtitle, centered alignment with breathing room\nComposition: wide landscape format with title block positioned in lower third, generous negative space above for background imagery\nScene/backdrop: ethereal abstract automotive background suggesting speed and innovation, soft bokeh light trails, translucent layered elements creating depth\nLighting/mood: soft diffused glow with subtle rim lighting, professional and aspirational atmosphere\nColor palette: deep navy or charcoal base with electric blue or silver accents, high contrast for readability\nText (verbatim): \"长安起源Q06将于9月上市\"\nConstraints: must remain legible when projected; title must dominate; background should not compete with text hierarchy\nAvoid: cluttered backgrounds, hard shadows on text, overly literal car photography, generic stock photo aesthetic, decorative flourishes",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bd0f645b-a76f-4a74-b802-e15ffb99496f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing PPT cover design for the automotive brand Chang'an, announcing the launch of the Q06 model.\\n\\nStyle/medium: clean corporate presentation cover, modern automotive marketing aesthetic, subtle gradient overlay for text legibility\\nSubject: bold headline \\\"长安起源Q06将于9月上市\\\" with supporting subtitle, centered alignment with breathing room\\nComposition: wide landscape format with title block positioned in lower third, generous negative space above for background imagery\\nScene/backdrop: ethereal abstract automotive background suggesting speed and innovation, soft bokeh light trails, translucent layered elements creating depth\\nLighting/mood: soft diffused glow with subtle rim lighting, professional and aspirational atmosphere\\nColor palette: deep navy or charcoal base with electric blue or silver accents, high contrast for readability\\nText (verbatim): \\\"长安起源Q06将于9月上市\\\"\\nConstraints: must remain legible when projected; title must dominate; background should not compete with text hierarchy\\nAvoid: cluttered backgrounds, hard shadows on text, overly literal car photography, generic stock photo aesthetic, decorative flourishes\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9958
+}

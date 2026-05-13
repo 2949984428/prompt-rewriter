@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a cross-border e-commerce promotion campaign.\n\nStyle/medium: complex promotional poster with artistic typography and layered text stacking\nComposition: 16:9 horizontal layout; product or hero subject overlapping and partially obscuring background typographic layers; visually busy but organized hierarchy\nSubject: cross-border e-commerce promotional products (hero product or subject placed prominently)\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: artistic lettering with stacked/overlapping typography; product or main subject must physically overlap and cover portions of the text layers; composition must feel rich and complex but not chaotic — clear visual hierarchy required\nAvoid: plain flat layout with no text layering; empty or sparse composition; cluttered mess with no hierarchy",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d67068ef-f7ab-4230-a814-0fd9263a3f0c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for a cross-border e-commerce promotion campaign.\\n\\nStyle/medium: complex promotional poster with artistic typography and layered text stacking\\nComposition: 16:9 horizontal layout; product or hero subject overlapping and partially obscuring background typographic layers; visually busy but organized hierarchy\\nSubject: cross-border e-commerce promotional products (hero product or subject placed prominently)\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: artistic lettering with stacked/overlapping typography; product or main subject must physically overlap and cover portions of the text layers; composition must feel rich and complex but not chaotic — clear visual hierarchy required\\nAvoid: plain flat layout with no text layering; empty or sparse composition; cluttered mess with no hierarchy\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6904
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 137,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:7][@image:#2:431ec18de01ac1e0a5b5e2cf7e8fe363] 把图1的气垫BB霜与盒子放到图2的场景中，替换图2的气垫BB霜组合，去掉图2的气垫BB霜组合，重新生成4张画面，场景光影质感保持与图2一致，气垫BB霜与盒子角度与样式保持与图1一致，不改变角度造型，突出气垫BB霜的白色塑料柔光质感，生图比例16:9，发布在淘宝。",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Abeb8c971-783d-48df-befd-6152d9b80453/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:7][@image:#2:431ec18de01ac1e0a5b5e2cf7e8fe363] 把图1的气垫BB霜与盒子放到图2的场景中，替换图2的气垫BB霜组合，去掉图2的气垫BB霜组合，重新生成4张画面，场景光影质感保持与图2一致，气垫BB霜与盒子角度与样式保持与图1一致，不改变角度造型，突出气垫BB霜的白色塑料柔光质感，生图比例16:9，发布在淘宝。\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"png\"}",
+  "ms": 6387,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

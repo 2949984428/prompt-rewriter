@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial food photography close-up of a Japanese tonkotsu ramen bowl.\n\nStyle/medium: editorial food photography, shallow depth of field, appetizing commercial food styling\nComposition: extreme close-up at 45-degree angle, macro lens perspective, focus on noodle lift with chopsticks, creamy broth surface as foreground\nSubject: rich opaque tonkotsu pork bone broth, two slices of char siu (braised pork belly), one halved soft-boiled egg with runny yolk, crisp nori sheets, finely sliced green scallions, chopsticks lifting wheat noodles with visible steam wisps\nScene/backdrop: blurred wooden counter or dark restaurant interior, shallow depth isolating the bowl\nLighting/mood: soft diffused key light from upper left, subtle rim light on broth surface, warm and inviting mood suggesting freshness\nColor palette: creamy off-white broth as base, warm pink-brown char siu, golden yolk center, deep green scallions, black nori as contrast\nMaterials/textures: silky collagen-rich broth surface, glistening pork fat, glossy egg white, matte nori, fibrous wheat noodles\nAvoid: plastic-looking food, oversaturated colors, harsh flash photography, watermarks, generic stock photo aesthetic",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9a96953e-644d-486c-9d18-f801c7237955/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial food photography close-up of a Japanese tonkotsu ramen bowl.\\n\\nStyle/medium: editorial food photography, shallow depth of field, appetizing commercial food styling\\nComposition: extreme close-up at 45-degree angle, macro lens perspective, focus on noodle lift with chopsticks, creamy broth surface as foreground\\nSubject: rich opaque tonkotsu pork bone broth, two slices of char siu (braised pork belly), one halved soft-boiled egg with runny yolk, crisp nori sheets, finely sliced green scallions, chopsticks lifting wheat noodles with visible steam wisps\\nScene/backdrop: blurred wooden counter or dark restaurant interior, shallow depth isolating the bowl\\nLighting/mood: soft diffused key light from upper left, subtle rim light on broth surface, warm and inviting mood suggesting freshness\\nColor palette: creamy off-white broth as base, warm pink-brown char siu, golden yolk center, deep green scallions, black nori as contrast\\nMaterials/textures: silky collagen-rich broth surface, glistening pork fat, glossy egg white, matte nori, fibrous wheat noodles\\nAvoid: plastic-looking food, oversaturated colors, harsh flash photography, watermarks, generic stock photo aesthetic\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10514
+}

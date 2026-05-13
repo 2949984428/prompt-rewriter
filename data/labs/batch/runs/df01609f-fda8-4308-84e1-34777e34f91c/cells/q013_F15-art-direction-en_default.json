@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original editorial photo of a tropical resort infinity pool scene overlooking the ocean (all in-image text in Chinese).\n\nStyle/medium: needs a tropical vacation aesthetic — exact stylistic execution is yours\nComposition: must include infinity pool edge merging with the ocean horizon, lounge chairs and parasols in frame, coconut palms framing the scene\nSubject: must include the infinity pool, ocean view, lounge chairs, parasols, coconut trees\nScene/backdrop: must include open ocean horizon, blue sky with white clouds\nLighting/mood: needs a bright, sun-drenched vacation atmosphere — exact light source mix is yours\nColor palette: needs a high-saturation, vivid tropical direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/79f48f03-7aee-4032-b999-581d17eaf2fd/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original editorial photo of a tropical resort infinity pool scene overlooking the ocean (all in-image text in Chinese).\\n\\nStyle/medium: needs a tropical vacation aesthetic — exact stylistic execution is yours\\nComposition: must include infinity pool edge merging with the ocean horizon, lounge chairs and parasols in frame, coconut palms framing the scene\\nSubject: must include the infinity pool, ocean view, lounge chairs, parasols, coconut trees\\nScene/backdrop: must include open ocean horizon, blue sky with white clouds\\nLighting/mood: needs a bright, sun-drenched vacation atmosphere — exact light source mix is yours\\nColor palette: needs a high-saturation, vivid tropical direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 8359
+}

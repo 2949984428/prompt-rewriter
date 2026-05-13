@@ -1,0 +1,23 @@
+{
+  "query_idx": 14,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Une marque de gâteaux inspirée des desserts arabes (baklava, makrout…) mais revisités en version design moderne.\n\n👉 Le concept :\n“Transformer les pâtisseries traditionnelles en œuvres d’art”\n\n🎨 Moodboard (ambiance visuelle)\n👉 Style :\nLuxe + minimalisme + tradition\nMélange ancien / moderne\n👉 Couleurs :\nNoir 🖤 (élégance)\nDoré ✨ (tradition + luxe)\nBeige miel 🍯\nVert pistache 💚\n🔤 Logo (idée forte)\n\n👉 Un logo simple mais intelligent :\n\nOption 1 :\nUne forme de gâteau stylisé + motif géométrique arabe\nOption 2 :\nLe mot “سحر” en calligraphie moderne\nAvec une touche minimaliste\nOption 3 :\nUn symbole :\n👉 une goutte de miel qui forme un motif oriental mais tu m'ajoute le moodboard les schémas heuristiques les esquisses et plusieurs logos",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Abb10dae8-db56-459b-a9d3-6386173b6275/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Une marque de gâteaux inspirée des desserts arabes (baklava, makrout…) mais revisités en version design moderne.\\n\\n👉 Le concept :\\n\\\"Transformer les pâtisseries traditionnelles en œuvres d'art\\\"\\n\\n🎨 Moodboard (ambiance visuelle)\\n👉 Style :\\nLuxe + minimalisme + tradition\\nMélange ancien / moderne\\n👉 Couleurs :\\nNoir 🖤 (élégance)\\nDoré ✨ (tradition + luxe)\\nBeige miel 🍯\\nVert pistache 💚\\n🔤 Logo (idée forte)\\n\\n👉 Un logo simple mais intelligent :\\n\\nOption 1 :\\nUne forme de gâteau stylisé + motif géométrique arabe\\nOption 2 :\\nLe mot \\\"سحر\\\" en calligraphie moderne\\nAvec une touche minimaliste\\nOption 3 :\\nUn symbole :\\n👉 une goutte de miel qui forme un motif oriental mais tu m'ajoute le moodboard les schémas heuristiques les esquisses et plusieurs logos\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5237,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

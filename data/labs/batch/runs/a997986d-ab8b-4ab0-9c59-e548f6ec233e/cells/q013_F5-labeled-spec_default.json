@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: cinematic-poster\nAsset type: movie poster, vertical layout\nPrimary request: sci-fi thriller poster about AI awakening featuring a half-human half-cyborg face as the central visual\nScene/backdrop: massive digital matrix space with cascading green code rain falling from above, cyberpunk environment\nSubject: half-human half-mechanical face, left side is a refined human female face with brown eye, right side exposes intricate circuit boards and metallic skeleton with glowing blue mechanical eye, seamless fusion along the centerline, direct eye contact with viewer\nStyle/medium: cinematic digital illustration, professional movie poster compositing and rendering, cyberpunk aesthetic\nComposition/framing: vertical centered composition, strong visual impact, title text area reserved in lower third of frame\nLighting/mood: dramatic high-contrast lighting, mysterious and suspenseful atmosphere, technological awe\nColor palette: cold blue and green dominant tones, neon accents, cyberpunk color scheme\nMaterials/textures: realistic human skin on left, exposed metallic skeleton and circuit boards on right, glowing mechanical components\nConstraints: maintain seamless transition along the face centerline, preserve title space in lower third, keep direct eye contact\nAvoid: asymmetrical face split, cartoonish rendering, cluttered background, warm color tones, amateur compositing",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f94e855e-1af1-4ec6-8297-596dbe15755f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: cinematic-poster\\nAsset type: movie poster, vertical layout\\nPrimary request: sci-fi thriller poster about AI awakening featuring a half-human half-cyborg face as the central visual\\nScene/backdrop: massive digital matrix space with cascading green code rain falling from above, cyberpunk environment\\nSubject: half-human half-mechanical face, left side is a refined human female face with brown eye, right side exposes intricate circuit boards and metallic skeleton with glowing blue mechanical eye, seamless fusion along the centerline, direct eye contact with viewer\\nStyle/medium: cinematic digital illustration, professional movie poster compositing and rendering, cyberpunk aesthetic\\nComposition/framing: vertical centered composition, strong visual impact, title text area reserved in lower third of frame\\nLighting/mood: dramatic high-contrast lighting, mysterious and suspenseful atmosphere, technological awe\\nColor palette: cold blue and green dominant tones, neon accents, cyberpunk color scheme\\nMaterials/textures: realistic human skin on left, exposed metallic skeleton and circuit boards on right, glowing mechanical components\\nConstraints: maintain seamless transition along the face centerline, preserve title space in lower third, keep direct eye contact\\nAvoid: asymmetrical face split, cartoonish rendering, cluttered background, warm color tones, amateur compositing\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10816
+}

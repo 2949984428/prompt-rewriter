@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 小红书 cover image for a personal-media creator featuring a product review (all in-image text in Chinese).\n\nStyle/medium: needs a 素人 (authentic amateur) aesthetic — exact stylistic execution is yours\nComposition: must be a 9-grid layout (九高格) suitable for 小红书 cover format\nSubject: must include the DJI Pocket 4 product prominently displayed\nScene/backdrop: \nLighting/mood: needs a personal-media vibe — exact atmosphere is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" as central headline, font style must be cute and differentiated\nConstraints: must include all in-image text in Chinese by default; must be 九高格 layout; must feature DJI Pocket 4 product; headline font must be cute and differentiated\nAvoid: ",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/88f868f8-c8cc-416a-8332-53bd7817ef6a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a 小红书 cover image for a personal-media creator featuring a product review (all in-image text in Chinese).\\n\\nStyle/medium: needs a 素人 (authentic amateur) aesthetic — exact stylistic execution is yours\\nComposition: must be a 9-grid layout (九高格) suitable for 小红书 cover format\\nSubject: must include the DJI Pocket 4 product prominently displayed\\nScene/backdrop: \\nLighting/mood: needs a personal-media vibe — exact atmosphere is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" as central headline, font style must be cute and differentiated\\nConstraints: must include all in-image text in Chinese by default; must be 九高格 layout; must feature DJI Pocket 4 product; headline font must be cute and differentiated\\nAvoid: \"}",
+  "ms": 7425
+}

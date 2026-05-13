@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a domestic financing roadshow PPT cover for the GPT-5.5 launch announcement.\n\nStyle/medium: needs a \"国内路演\" (domestic roadshow) aesthetic with \"GP调性\" (GP temperament) — references in the spirit of 红杉中国 pitch deck visual culture, 高瓴资本 investment memo design language, 2020s Chinese tech IPO roadshow aesthetics; exact stylistic execution is yours\nComposition: must be PPT cover format (16:9 slide layout), speaker name placement prominent\nSubject: must include the speaker \"奥特曼\" (Sam Altman) as the featured presenter\nScene/backdrop: \nLighting/mood: needs a professional, high-stakes funding announcement atmosphere — exact light treatment is yours\nColor palette: needs a direction that signals credibility and tech-forward authority — exact values are yours\nMaterials/textures: \nText (verbatim): must include \"奥特曼\" (speaker name), \"GPT-5.5\" (product name)\nConstraints: must conform to Chinese domestic roadshow conventions (融资宣发 PPT format), GP-appropriate tone\nAvoid: must avoid overly playful or consumer-grade aesthetics, must avoid Western-centric visual clichés inappropriate for Chinese institutional investors",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2b69defb-58cf-4580-8973-6ec708e77d77/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a domestic financing roadshow PPT cover for the GPT-5.5 launch announcement.\\n\\nStyle/medium: needs a \\\"国内路演\\\" (domestic roadshow) aesthetic with \\\"GP调性\\\" (GP temperament) — references in the spirit of 红杉中国 pitch deck visual culture, 高瓴资本 investment memo design language, 2020s Chinese tech IPO roadshow aesthetics; exact stylistic execution is yours\\nComposition: must be PPT cover format (16:9 slide layout), speaker name placement prominent\\nSubject: must include the speaker \\\"奥特曼\\\" (Sam Altman) as the featured presenter\\nScene/backdrop: \\nLighting/mood: needs a professional, high-stakes funding announcement atmosphere — exact light treatment is yours\\nColor palette: needs a direction that signals credibility and tech-forward authority — exact values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"奥特曼\\\" (speaker name), \\\"GPT-5.5\\\" (product name)\\nConstraints: must conform to Chinese domestic roadshow conventions (融资宣发 PPT format), GP-appropriate tone\\nAvoid: must avoid overly playful or consumer-grade aesthetics, must avoid Western-centric visual clichés inappropriate for Chinese institutional investors\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11393
+}

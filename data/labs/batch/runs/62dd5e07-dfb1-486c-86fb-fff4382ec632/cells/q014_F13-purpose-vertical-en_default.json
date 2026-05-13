@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing UI design system mockup showcasing a web Dashboard, mobile interface, cards, buttons, and controls in a classic minimal tech style.\n\nStyle/medium: UI design system sheet, classic minimal tech aesthetic, flat vector with subtle depth layers\nComposition: multi-panel layout — web Dashboard panel (top, wide), mobile interface panel (mid-left), component grid (mid-right and bottom) showing cards / buttons / toggles / sliders / input fields / icons arranged in a structured spec sheet\nSubject: web Dashboard with data charts, KPI cards, sidebar nav; mobile interface with status bar and content cards; component library — buttons (primary / secondary / ghost), toggle switches, checkboxes, radio buttons, input fields, progress bars, badges, icon set\nScene/backdrop: dark deep-space background (#0A0E1A range) with subtle grid lines and faint glow halos behind panels\nLighting/mood: cool blue-violet ambient glow, neon accent highlights on interactive elements, strong visual hierarchy with layered depth — foreground panels float above background\nColor palette: deep navy / near-black base, electric blue (#00BFFF range) and cyan (#00FFD1 range) as primary accents, violet secondary accent, white text on dark surfaces, subtle glassmorphism tint on card surfaces\nMaterials/textures: frosted glass card surfaces with thin luminous borders, smooth flat buttons with glow states, hairline dividers, micro-shadow elevation layers\nText (verbatim): \nConstraints: all UI components must be clearly legible and recognizable; hierarchy must read from Dashboard → mobile → component detail; no lorem-ipsum blobs obscuring component shapes\nAvoid: skeuomorphic textures, warm color palette, generic flat-design without depth, cluttered layout with no breathing room, watermarks",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c6529ad2-6922-4e1f-bcce-b8d8346c727e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing UI design system mockup showcasing a web Dashboard, mobile interface, cards, buttons, and controls in a classic minimal tech style.\\n\\nStyle/medium: UI design system sheet, classic minimal tech aesthetic, flat vector with subtle depth layers\\nComposition: multi-panel layout — web Dashboard panel (top, wide), mobile interface panel (mid-left), component grid (mid-right and bottom) showing cards / buttons / toggles / sliders / input fields / icons arranged in a structured spec sheet\\nSubject: web Dashboard with data charts, KPI cards, sidebar nav; mobile interface with status bar and content cards; component library — buttons (primary / secondary / ghost), toggle switches, checkboxes, radio buttons, input fields, progress bars, badges, icon set\\nScene/backdrop: dark deep-space background (#0A0E1A range) with subtle grid lines and faint glow halos behind panels\\nLighting/mood: cool blue-violet ambient glow, neon accent highlights on interactive elements, strong visual hierarchy with layered depth — foreground panels float above background\\nColor palette: deep navy / near-black base, electric blue (#00BFFF range) and cyan (#00FFD1 range) as primary accents, violet secondary accent, white text on dark surfaces, subtle glassmorphism tint on card surfaces\\nMaterials/textures: frosted glass card surfaces with thin luminous borders, smooth flat buttons with glow states, hairline dividers, micro-shadow elevation layers\\nText (verbatim): \\nConstraints: all UI components must be clearly legible and recognizable; hierarchy must read from Dashboard → mobile → component detail; no lorem-ipsum blobs obscuring component shapes\\nAvoid: skeuomorphic textures, warm color palette, generic flat-design without depth, cluttered layout with no breathing room, watermarks\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14859
+}

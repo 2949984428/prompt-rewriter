@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: editorial photo\nAsset type: social media banner, Weibo news/hot topic cover\nPrimary request: panoramic city skyline at dusk with dramatic lighting and real documentary feel\nScene/backdrop: urban skyline at golden hour, neon signs beginning to glow, silhouettes of hurrying pedestrians, distant skyscrapers reflecting sunset amber and orange\nSubject: cityscape with layered depth, street-level energy transitioning to calm skyline\nStyle/medium: photojournalistic documentary photography, smartphone-shot aesthetic elevated to premium editorial quality\nComposition/framing: wide panoramic banner, 16:9 aspect ratio, horizontal expanse with generous negative space for text overlay\nLighting/mood: dramatic chiaroscuro, strong light-shadow contrast, golden hour warmth mixed with cool neon glow, cinematic tension between chaos and stillness\nColor palette: warm sunset amber, cool blue twilight, vibrant neon pink and cyan accents, deep shadows\nMaterials/textures: glass building reflections, asphalt texture, motion blur on pedestrians, sharp architectural details\nText (verbatim): \"城市里的安静时刻\", \"黄昏，总能治愈一天的匆忙\", \"@龙爪槐守望者real · 生活观察\"\nConstraints: maintain 16:9 strict ratio, ample horizontal negative space for text placement, authentic documentary feel without over-processing\nAvoid: oversaturated colors, artificial HDR look, watermark artifacts, plastic textures, deformed architecture",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/10304441-e241-4a8a-89ee-87f354338a96/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: editorial photo\\nAsset type: social media banner, Weibo news/hot topic cover\\nPrimary request: panoramic city skyline at dusk with dramatic lighting and real documentary feel\\nScene/backdrop: urban skyline at golden hour, neon signs beginning to glow, silhouettes of hurrying pedestrians, distant skyscrapers reflecting sunset amber and orange\\nSubject: cityscape with layered depth, street-level energy transitioning to calm skyline\\nStyle/medium: photojournalistic documentary photography, smartphone-shot aesthetic elevated to premium editorial quality\\nComposition/framing: wide panoramic banner, 16:9 aspect ratio, horizontal expanse with generous negative space for text overlay\\nLighting/mood: dramatic chiaroscuro, strong light-shadow contrast, golden hour warmth mixed with cool neon glow, cinematic tension between chaos and stillness\\nColor palette: warm sunset amber, cool blue twilight, vibrant neon pink and cyan accents, deep shadows\\nMaterials/textures: glass building reflections, asphalt texture, motion blur on pedestrians, sharp architectural details\\nText (verbatim): \\\"城市里的安静时刻\\\", \\\"黄昏，总能治愈一天的匆忙\\\", \\\"@龙爪槐守望者real · 生活观察\\\"\\nConstraints: maintain 16:9 strict ratio, ample horizontal negative space for text placement, authentic documentary feel without over-processing\\nAvoid: oversaturated colors, artificial HDR look, watermark artifacts, plastic textures, deformed architecture\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12442
+}

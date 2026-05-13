@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original editorial photo of a retro American road trip scene on Route 66.\n\nStyle/medium: 35mm film photography, retro Americana aesthetic, Kodachrome-inspired color grading, vintage travel magazine editorial\nComposition: wide-angle establishing shot from a low angle, 28mm lens, car positioned left of frame moving toward horizon, vast desert landscape stretching to infinity\nSubject: classic red convertible with chrome details, top down, driver silhouette visible, dust trail behind\nScene/backdrop: Route 66 highway cutting through arid desert, saguaro cacti dotting both sides of the road, distant mesas on horizon\nLighting/mood: golden hour sunset, warm orange-red sky gradient, long dramatic shadows, nostalgic and liberating atmosphere\nColor palette: burnt orange and crimson sky as dominant, vintage red convertible as anchor, sandy beige desert, deep green cactus accents\nMaterials/textures: film grain texture, weathered asphalt, oxidized metal details, wispy cirrus clouds\nAvoid: modern cars, clean digital look, oversaturated HDR, plastic textures, watermark, 8K stuffer aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1a775c48-288f-493e-88c1-8dc52358e880/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original editorial photo of a retro American road trip scene on Route 66.\\n\\nStyle/medium: 35mm film photography, retro Americana aesthetic, Kodachrome-inspired color grading, vintage travel magazine editorial\\nComposition: wide-angle establishing shot from a low angle, 28mm lens, car positioned left of frame moving toward horizon, vast desert landscape stretching to infinity\\nSubject: classic red convertible with chrome details, top down, driver silhouette visible, dust trail behind\\nScene/backdrop: Route 66 highway cutting through arid desert, saguaro cacti dotting both sides of the road, distant mesas on horizon\\nLighting/mood: golden hour sunset, warm orange-red sky gradient, long dramatic shadows, nostalgic and liberating atmosphere\\nColor palette: burnt orange and crimson sky as dominant, vintage red convertible as anchor, sandy beige desert, deep green cactus accents\\nMaterials/textures: film grain texture, weathered asphalt, oxidized metal details, wispy cirrus clouds\\nAvoid: modern cars, clean digital look, oversaturated HDR, plastic textures, watermark, 8K stuffer aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9760
+}

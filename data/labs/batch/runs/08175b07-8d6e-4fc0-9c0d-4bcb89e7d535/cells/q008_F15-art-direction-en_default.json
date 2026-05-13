@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a cross-border e-commerce promotion.\n\nStyle/medium: needs a complex but organized promotional aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 aspect ratio, must include artistic typography with layered/stacked fonts, must include products or subjects partially overlapping/obscuring some text elements\nSubject: must include products or promotional subjects as focal elements\nScene/backdrop: \nLighting/mood: needs a promotional energy — exact light treatment is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must maintain visual complexity without appearing cluttered, must include layered/stacked typography, must have subjects overlapping text\nAvoid: must avoid visual chaos despite complexity",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1d1ccc43-fe86-41e8-a167-bf1caabcbae1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for a cross-border e-commerce promotion.\\n\\nStyle/medium: needs a complex but organized promotional aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 aspect ratio, must include artistic typography with layered/stacked fonts, must include products or subjects partially overlapping/obscuring some text elements\\nSubject: must include products or promotional subjects as focal elements\\nScene/backdrop: \\nLighting/mood: needs a promotional energy — exact light treatment is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must maintain visual complexity without appearing cluttered, must include layered/stacked typography, must have subjects overlapping text\\nAvoid: must avoid visual chaos despite complexity\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9672
+}

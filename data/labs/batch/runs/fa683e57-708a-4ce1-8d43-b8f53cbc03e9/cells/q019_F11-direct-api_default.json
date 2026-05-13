@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "绘制一张奇幻风格的龙与骑士战斗场景，巨龙喷吐火焰，骑士持盾冲锋，背景是燃烧的城堡和闪电交加的天空，史诗般的构图和动感",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ee0b2fea-f564-4b97-a23c-6d238b16abe1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"绘制一张奇幻风格的龙与骑士战斗场景，巨龙喷吐火焰，骑士持盾冲锋，背景是燃烧的城堡和闪电交加的天空，史诗般的构图和动感\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 4330
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original children's picture-book illustration of a forest concert scene (all in-image text in Chinese).\n\nStyle/medium: needs a 儿童绘本 aesthetic — exact stylistic execution is yours\nComposition: must include small animals performing in the foreground, 蘑菇屋 and 彩虹 in the background\nSubject: must include:\n  - a rabbit playing 大提琴\n  - a squirrel playing 笛子\n  - a forest concert setting with other cute small animals as audience / performers\nScene/backdrop: must include a fairytale forest with 蘑菇屋 and a 彩虹\nLighting/mood: needs a cheerful, whimsical 童话 atmosphere — exact light quality is yours\nColor palette: needs a vivid, bright, 童趣 direction — exact hues and ratios are yours\nMaterials/textures: needs a soft illustrated picture-book surface treatment — exact texture and line weight are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9781ab5a-ea38-4783-b892-a247ab124d80/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original children's picture-book illustration of a forest concert scene (all in-image text in Chinese).\\n\\nStyle/medium: needs a 儿童绘本 aesthetic — exact stylistic execution is yours\\nComposition: must include small animals performing in the foreground, 蘑菇屋 and 彩虹 in the background\\nSubject: must include:\\n  - a rabbit playing 大提琴\\n  - a squirrel playing 笛子\\n  - a forest concert setting with other cute small animals as audience / performers\\nScene/backdrop: must include a fairytale forest with 蘑菇屋 and a 彩虹\\nLighting/mood: needs a cheerful, whimsical 童话 atmosphere — exact light quality is yours\\nColor palette: needs a vivid, bright, 童趣 direction — exact hues and ratios are yours\\nMaterials/textures: needs a soft illustrated picture-book surface treatment — exact texture and line weight are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8179
+}

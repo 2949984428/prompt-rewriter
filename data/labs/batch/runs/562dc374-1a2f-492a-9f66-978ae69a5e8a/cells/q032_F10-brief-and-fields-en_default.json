@@ -1,0 +1,20 @@
+{
+  "query_idx": 32,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original surrealist dreamscape illustration with philosophical depth and visual impact.\n\nStyle/medium: surrealist oil painting in the spirit of Salvador Dalí, hyper-detailed dreamscape illustration with symbolic elements\nComposition: wide panoramic view, slightly low horizon line, multiple focal points arranged in depth layers from foreground to infinite sky\nSubject: colossal moon rising from ocean surface, humpback whales flying through misty air, melting pocket watch draped over invisible surface, spiral stone staircase ascending into cumulus clouds\nScene/backdrop: twilight seascape merging with dream sky, calm reflective ocean surface, stratospheric cloud layers dissolving into cosmic void\nLighting/mood: soft diffused moonlight as primary source, subtle rim lighting on whales, mysterious and contemplative atmosphere suggesting subconscious exploration\nColor palette: deep indigo and ultramarine as base, warm amber moon as anchor, pale gold and silver highlights, muted teal for ocean\nMaterials/textures: viscous melting metal for clock, matte stone for staircase, wet luminous skin on whales, powdery soft clouds\nAvoid: photorealistic rendering, 8K stuffer labels, generic fantasy art style, oversaturated colors, cheerful mood, literal interpretation",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7951d3f7-c36a-446a-a4c3-a4ede4828cbf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original surrealist dreamscape illustration with philosophical depth and visual impact.\\n\\nStyle/medium: surrealist oil painting in the spirit of Salvador Dalí, hyper-detailed dreamscape illustration with symbolic elements\\nComposition: wide panoramic view, slightly low horizon line, multiple focal points arranged in depth layers from foreground to infinite sky\\nSubject: colossal moon rising from ocean surface, humpback whales flying through misty air, melting pocket watch draped over invisible surface, spiral stone staircase ascending into cumulus clouds\\nScene/backdrop: twilight seascape merging with dream sky, calm reflective ocean surface, stratospheric cloud layers dissolving into cosmic void\\nLighting/mood: soft diffused moonlight as primary source, subtle rim lighting on whales, mysterious and contemplative atmosphere suggesting subconscious exploration\\nColor palette: deep indigo and ultramarine as base, warm amber moon as anchor, pale gold and silver highlights, muted teal for ocean\\nMaterials/textures: viscous melting metal for clock, matte stone for staircase, wet luminous skin on whales, powdery soft clouds\\nAvoid: photorealistic rendering, 8K stuffer labels, generic fantasy art style, oversaturated colors, cheerful mood, literal interpretation\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11042
+}

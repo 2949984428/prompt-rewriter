@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "古典油画风格人物肖像：以荷兰黄金时代绘画大师伦勃朗的光影技法，描绘一位当代都市职业女性的肖像。画面主体是一位约35岁的东方女性，身着深色西装，神情睿智而坚定。伦勃朗光打亮她的面部，形成经典的三角形高光区域，另一侧脸部在柔和的阴影中。背景是深棕色的暗调，几乎没有细节，将所有注意力集中在人物面部。女性手中握着一本厚重的书籍，手部细节刻画精细，可见指节和皮肤的质感。整体色调以棕褐色、赭石色、深红色为主，只有面部高光区域有明亮的暖白色。笔触厚重有力，油彩质感明显，既有古典大师的庄重气质，又融入了现代女性的独立精神，博物馆级别的艺术品质感。",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bf39670a-fdc8-43ea-b26d-24f20e064736/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

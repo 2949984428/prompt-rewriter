@@ -1,0 +1,23 @@
+{
+  "query_idx": 33,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:22fbfba76053f676fc28b6427d4b1aaf] 生成矢量图形的企业logo",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa45b3573-d253-4742-8327-77c7e71e3c0e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:22fbfba76053f676fc28b6427d4b1aaf] 生成矢量图形的企业logo\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3002,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

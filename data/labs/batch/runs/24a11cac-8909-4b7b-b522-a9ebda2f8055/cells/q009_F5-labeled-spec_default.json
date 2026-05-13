@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: luxury jewelry product shot, square crop\nPrimary request: photorealistic extreme close-up of a sapphire ring with diamond pavé setting, light refracting as vivid fire and brilliance inside the gemstone\nScene/backdrop: black velvet surface, seamless dark background with subtle soft reflection\nSubject: deep blue sapphire center stone with intense internal light dispersion, surrounded by micro-pavé diamonds, polished platinum or white-gold band\nStyle/medium: photorealistic macro product photography\nComposition/framing: close-up macro shot, slight three-quarter angle, shallow depth of field to isolate the stone\nLighting/mood: focused studio spotlight creating caustic light rays and rainbow fire inside the sapphire, dramatic and luxurious\nColor palette: deep royal blue sapphire + icy white diamond sparkle + cool silver metal + pure black velvet background\nMaterials/textures: faceted gemstone with sharp internal reflections, micro-diamond grain, brushed and polished metal band, velvet fabric weave\nConstraints: preserve the internal light refraction and fire effect inside the sapphire as the hero visual element\nAvoid: plastic-looking gemstone, flat lighting, overexposed highlights, artificial CGI gloss, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a97ae5e9-ee67-4c1d-bf86-85ee6d9b499d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: luxury jewelry product shot, square crop\\nPrimary request: photorealistic extreme close-up of a sapphire ring with diamond pavé setting, light refracting as vivid fire and brilliance inside the gemstone\\nScene/backdrop: black velvet surface, seamless dark background with subtle soft reflection\\nSubject: deep blue sapphire center stone with intense internal light dispersion, surrounded by micro-pavé diamonds, polished platinum or white-gold band\\nStyle/medium: photorealistic macro product photography\\nComposition/framing: close-up macro shot, slight three-quarter angle, shallow depth of field to isolate the stone\\nLighting/mood: focused studio spotlight creating caustic light rays and rainbow fire inside the sapphire, dramatic and luxurious\\nColor palette: deep royal blue sapphire + icy white diamond sparkle + cool silver metal + pure black velvet background\\nMaterials/textures: faceted gemstone with sharp internal reflections, micro-diamond grain, brushed and polished metal band, velvet fabric weave\\nConstraints: preserve the internal light refraction and fire effect inside the sapphire as the hero visual element\\nAvoid: plastic-looking gemstone, flat lighting, overexposed highlights, artificial CGI gloss, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8379
+}

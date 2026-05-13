@@ -1,0 +1,23 @@
+{
+  "query_idx": 277,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:校园插画_画板 1]帮我用这个插画生成几张海报，发布在学校公众号上",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Afb0128c0-3226-445c-8d05-e0823ec18931/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:校园插画_画板 1]帮我用这个插画生成几张海报，发布在学校公众号上\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"png\"}",
+  "ms": 14552,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

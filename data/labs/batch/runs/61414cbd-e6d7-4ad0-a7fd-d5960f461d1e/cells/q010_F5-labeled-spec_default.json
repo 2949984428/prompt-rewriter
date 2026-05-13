@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-concept\nAsset type: character illustration, scene redesign\nPrimary request: transform existing image into cel-shaded thick paint anime style, rearrange items to a more suitable scene, and add a cel-shaded thick paint style girl facing the viewer\nScene/backdrop: elegant interior scene suitable for western-style light makeup beauty aesthetic, soft ambient setting\nSubject: western-style light makeup beauty girl with delicate features, natural soft makeup, elegant hairstyle, facing the viewer directly\nStyle/medium: cel-shaded thick paint anime style, セルルック厚塗り, vibrant anime illustration with painterly depth\nComposition/framing: balanced two-character composition with girl facing viewer, items repositioned for visual harmony\nLighting/mood: soft diffused lighting, romantic and elegant atmosphere\nColor palette: warm skin tones, soft pastel accents, rich cel-shaded colors with depth\nMaterials/textures: smooth cel-shaded surfaces with thick paint texture, glossy hair, soft fabric folds\nConstraints: maintain cel-shaded thick paint style throughout, girl must face viewer, items must be repositioned to better scene layout\nAvoid: photorealistic rendering, flat thin cel-shading without paint depth, cluttered composition, eastern makeup style",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3bbfabba-1d85-47a7-a028-ea51d07480aa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-concept\\nAsset type: character illustration, scene redesign\\nPrimary request: transform existing image into cel-shaded thick paint anime style, rearrange items to a more suitable scene, and add a cel-shaded thick paint style girl facing the viewer\\nScene/backdrop: elegant interior scene suitable for western-style light makeup beauty aesthetic, soft ambient setting\\nSubject: western-style light makeup beauty girl with delicate features, natural soft makeup, elegant hairstyle, facing the viewer directly\\nStyle/medium: cel-shaded thick paint anime style, セルルック厚塗り, vibrant anime illustration with painterly depth\\nComposition/framing: balanced two-character composition with girl facing viewer, items repositioned for visual harmony\\nLighting/mood: soft diffused lighting, romantic and elegant atmosphere\\nColor palette: warm skin tones, soft pastel accents, rich cel-shaded colors with depth\\nMaterials/textures: smooth cel-shaded surfaces with thick paint texture, glossy hair, soft fabric folds\\nConstraints: maintain cel-shaded thick paint style throughout, girl must face viewer, items must be repositioned to better scene layout\\nAvoid: photorealistic rendering, flat thin cel-shading without paint depth, cluttered composition, eastern makeup style\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11406
+}

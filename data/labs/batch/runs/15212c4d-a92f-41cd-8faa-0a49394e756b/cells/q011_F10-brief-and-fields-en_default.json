@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a social media cover announcing GPT-image-2 launch on Lovart platform.\n\nStyle/medium: editorial magazine cover aesthetic, clean typography-driven layout, high-end fashion magazine sensibility\nComposition: diagonal composition with dynamic visual flow, asymmetrical balance, text and graphic elements arranged along diagonal axis\nSubject: bold headline featuring platform and model names, modern sans-serif typography hierarchy\nScene/backdrop: minimal abstract gradient or solid color background with subtle texture, generous negative space\nLighting/mood: dramatic high contrast, bold shadows, confident and premium atmosphere\nColor palette: high contrast accent color against neutral base, monochrome with single vibrant accent\nText (verbatim): \"GPT-image-2\", \"Lovart\"\nConstraints: must work as 2:3 vertical cover format; text must remain legible at thumbnail size\nAvoid: cluttered layout, multiple competing accent colors, decorative flourishes, generic stock imagery",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/71755e1d-85f6-4516-b315-a5f7c0ec8578/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a social media cover announcing GPT-image-2 launch on Lovart platform.\\n\\nStyle/medium: editorial magazine cover aesthetic, clean typography-driven layout, high-end fashion magazine sensibility\\nComposition: diagonal composition with dynamic visual flow, asymmetrical balance, text and graphic elements arranged along diagonal axis\\nSubject: bold headline featuring platform and model names, modern sans-serif typography hierarchy\\nScene/backdrop: minimal abstract gradient or solid color background with subtle texture, generous negative space\\nLighting/mood: dramatic high contrast, bold shadows, confident and premium atmosphere\\nColor palette: high contrast accent color against neutral base, monochrome with single vibrant accent\\nText (verbatim): \\\"GPT-image-2\\\", \\\"Lovart\\\"\\nConstraints: must work as 2:3 vertical cover format; text must remain legible at thumbnail size\\nAvoid: cluttered layout, multiple competing accent colors, decorative flourishes, generic stock imagery\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8734
+}

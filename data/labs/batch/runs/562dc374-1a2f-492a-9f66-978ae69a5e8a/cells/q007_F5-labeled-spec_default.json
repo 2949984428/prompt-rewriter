@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration\nAsset type: children's picture book illustration, full-page spread\nPrimary request: a whimsical forest concert scene with adorable animals playing music\nScene/backdrop: enchanted forest clearing with fairy-tale mushroom houses, rainbow arching across the sky, lush green grass and wildflowers\nSubject: cute anthropomorphic animals — a rabbit playing cello, a squirrel playing flute, gathered together for a woodland concert\nStyle/medium: children's book illustration, whimsical storybook art, soft watercolor with digital painting, rounded friendly shapes\nComposition/framing: wide scene showing the full forest clearing, mid-distance view capturing both the musicians and the magical background\nLighting/mood: bright cheerful daylight, warm and inviting atmosphere, magical fairy-tale glow\nColor palette: vibrant and cheerful — bright greens, warm browns, rainbow spectrum, soft pastels for mushroom houses, sunny yellow accents\nMaterials/textures: soft painterly textures, smooth gradients, friendly rounded edges, gentle watercolor washes\nConstraints: keep all animals cute and child-friendly, maintain bright and happy mood throughout\nAvoid: realistic proportions, dark or scary elements, photorealistic rendering, complex detailed backgrounds that compete with characters",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/124221eb-0e4f-46f6-8c0a-a0a4f511a032/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration\\nAsset type: children's picture book illustration, full-page spread\\nPrimary request: a whimsical forest concert scene with adorable animals playing music\\nScene/backdrop: enchanted forest clearing with fairy-tale mushroom houses, rainbow arching across the sky, lush green grass and wildflowers\\nSubject: cute anthropomorphic animals — a rabbit playing cello, a squirrel playing flute, gathered together for a woodland concert\\nStyle/medium: children's book illustration, whimsical storybook art, soft watercolor with digital painting, rounded friendly shapes\\nComposition/framing: wide scene showing the full forest clearing, mid-distance view capturing both the musicians and the magical background\\nLighting/mood: bright cheerful daylight, warm and inviting atmosphere, magical fairy-tale glow\\nColor palette: vibrant and cheerful — bright greens, warm browns, rainbow spectrum, soft pastels for mushroom houses, sunny yellow accents\\nMaterials/textures: soft painterly textures, smooth gradients, friendly rounded edges, gentle watercolor washes\\nConstraints: keep all animals cute and child-friendly, maintain bright and happy mood throughout\\nAvoid: realistic proportions, dark or scary elements, photorealistic rendering, complex detailed backgrounds that compete with characters\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10485
+}

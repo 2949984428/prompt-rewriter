@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing technical exploded-view diagram of a mirrorless camera.\n\nStyle/medium: needs a \"technical exploded-view\" aesthetic — references in the spirit of 1980s Haynes manual illustrations, 1960s Braun product diagrams by Dieter Rams era, contemporary iFixit teardown photography; exact illustrative execution is yours\nComposition: must be exploded-view layout with all components separated along axes to show internal structure\nSubject: must include all major camera components with labels: sensor, shutter mechanism, image processor, lens mount, battery compartment, LCD screen, EVF (electronic viewfinder), main circuit board, IBIS (in-body image stabilization) unit, heat sink, memory card slot assembly, buttons and dials assembly, grip assembly, rear command dial, front command dial, mode dial, hot shoe mount, microphone input, headphone jack, USB-C port, HDMI port\nScene/backdrop: must be clean neutral background typical of technical diagrams\nLighting/mood: needs a clear technical illustration atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a technical diagram surface treatment — exact line weight and shading style is yours\nText (verbatim): must include component labels in Spanish: sensor, obturador, procesador de imagen, montura de lente, compartimento de batería, pantalla LCD, visor electrónico, placa principal, estabilización en cuerpo, disipador de calor, ranura de tarjeta de memoria, botones y diales, empuñadura, dial trasero, dial frontal, dial de modo, zapata de flash, entrada de micrófono, salida de auriculares, puerto USB-C, puerto HDMI\nConstraints: must preserve all 20+ component labels clearly readable, exploded-view format must show spatial relationships between parts\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d1e27310-d381-44ba-a88c-f935d68351b1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing technical exploded-view diagram of a mirrorless camera.\\n\\nStyle/medium: needs a \\\"technical exploded-view\\\" aesthetic — references in the spirit of 1980s Haynes manual illustrations, 1960s Braun product diagrams by Dieter Rams era, contemporary iFixit teardown photography; exact illustrative execution is yours\\nComposition: must be exploded-view layout with all components separated along axes to show internal structure\\nSubject: must include all major camera components with labels: sensor, shutter mechanism, image processor, lens mount, battery compartment, LCD screen, EVF (electronic viewfinder), main circuit board, IBIS (in-body image stabilization) unit, heat sink, memory card slot assembly, buttons and dials assembly, grip assembly, rear command dial, front command dial, mode dial, hot shoe mount, microphone input, headphone jack, USB-C port, HDMI port\\nScene/backdrop: must be clean neutral background typical of technical diagrams\\nLighting/mood: needs a clear technical illustration atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a technical diagram surface treatment — exact line weight and shading style is yours\\nText (verbatim): must include component labels in Spanish: sensor, obturador, procesador de imagen, montura de lente, compartimento de batería, pantalla LCD, visor electrónico, placa principal, estabilización en cuerpo, disipador de calor, ranura de tarjeta de memoria, botones y diales, empuñadura, dial trasero, dial frontal, dial de modo, zapata de flash, entrada de micrófono, salida de auriculares, puerto USB-C, puerto HDMI\\nConstraints: must preserve all 20+ component labels clearly readable, exploded-view format must show spatial relationships between parts\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15707
+}

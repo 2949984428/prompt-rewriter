@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original architectural concept illustration for a futuristic floating cityscape, sustainable urban development vision.\n\nStyle/medium: futuristic architectural visualization, concept art in the spirit of Syd Mead and Zaha Hadid, clean digital illustration\nComposition: wide establishing shot, eye-level to slightly elevated viewpoint, showcasing the floating structure in context\nSubject: streamlined white building with organic curves, hovering above ground level, surrounded by autonomous drones and holographic projections\nScene/backdrop: clean sky with soft atmospheric haze, integrated clean energy infrastructure visible, minimalist futuristic urban context\nLighting/mood: soft diffused daylight with subtle rim lighting on the white surfaces, optimistic and forward-looking atmosphere\nColor palette: dominant white and light gray architecture, subtle blue accents from holographic elements, clean energy greens as secondary accent\nMaterials/textures: smooth matte white surfaces with subtle panel lines, transparent holographic overlays, metallic drone finishes\nAvoid: dystopian decay, dark stormy weather, cluttered messy composition, 8K stuffer labels, photorealistic rendering style",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/72ead1e9-512b-4915-89b7-55781745e08d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an original architectural concept illustration for a futuristic floating cityscape, sustainable urban development vision.\\n\\nStyle/medium: futuristic architectural visualization, concept art in the spirit of Syd Mead and Zaha Hadid, clean digital illustration\\nComposition: wide establishing shot, eye-level to slightly elevated viewpoint, showcasing the floating structure in context\\nSubject: streamlined white building with organic curves, hovering above ground level, surrounded by autonomous drones and holographic projections\\nScene/backdrop: clean sky with soft atmospheric haze, integrated clean energy infrastructure visible, minimalist futuristic urban context\\nLighting/mood: soft diffused daylight with subtle rim lighting on the white surfaces, optimistic and forward-looking atmosphere\\nColor palette: dominant white and light gray architecture, subtle blue accents from holographic elements, clean energy greens as secondary accent\\nMaterials/textures: smooth matte white surfaces with subtle panel lines, transparent holographic overlays, metallic drone finishes\\nAvoid: dystopian decay, dark stormy weather, cluttered messy composition, 8K stuffer labels, photorealistic rendering style\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9378
+}

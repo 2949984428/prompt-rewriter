@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing employee ID card for a company called 字节期动, showing both front and back sides.\n\nStyle/medium: photorealistic product photography of a corporate ID badge, clean institutional design\nSubject: employee ID card for \"字节期动\", professional portrait placeholder area, company name, employee name field, ID number field, department field, issue date, barcode or QR code\nScene/backdrop: neutral gray studio background, card shown at slight angle to display both front and back faces simultaneously\nLighting/mood: soft diffused studio lighting from upper left, subtle shadow for depth, professional and trustworthy mood\nColor palette: corporate blue or teal as primary accent, white background, subtle gray text hierarchy\nMaterials/textures: matte laminated plastic card surface, slight edge thickness visible, subtle gloss reflection on lamination\nText (verbatim): \"字节期动\"\nConstraints: must show both front and back of the card in one frame; text must be legible; realistic card proportions (85.6mm × 54mm)\nAvoid: fantasy elements, cartoon style, overly glossy plastic look, cluttered layout, watermark, generic stock photo aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/629e8ccc-4cdf-4dcd-a8c1-ee686d40a78a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing employee ID card for a company called 字节期动, showing both front and back sides.\\n\\nStyle/medium: photorealistic product photography of a corporate ID badge, clean institutional design\\nSubject: employee ID card for \\\"字节期动\\\", professional portrait placeholder area, company name, employee name field, ID number field, department field, issue date, barcode or QR code\\nScene/backdrop: neutral gray studio background, card shown at slight angle to display both front and back faces simultaneously\\nLighting/mood: soft diffused studio lighting from upper left, subtle shadow for depth, professional and trustworthy mood\\nColor palette: corporate blue or teal as primary accent, white background, subtle gray text hierarchy\\nMaterials/textures: matte laminated plastic card surface, slight edge thickness visible, subtle gloss reflection on lamination\\nText (verbatim): \\\"字节期动\\\"\\nConstraints: must show both front and back of the card in one frame; text must be legible; realistic card proportions (85.6mm × 54mm)\\nAvoid: fantasy elements, cartoon style, overly glossy plastic look, cluttered layout, watermark, generic stock photo aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10017
+}

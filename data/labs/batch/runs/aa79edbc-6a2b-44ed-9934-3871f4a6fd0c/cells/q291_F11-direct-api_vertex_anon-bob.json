@@ -1,0 +1,23 @@
+{
+  "query_idx": 291,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create Pinterest pin 1000ￗ1500px (9:16 vertical). Two-part composition: TOP HALF features fresh dinner ingredients - ground beef, onions, peppers, garlic, seasonings, fresh herbs on rustic cutting board, natural overhead lighting, vibrant colors. BOTTOM HALF shows completed healthy ground beef dinner recipe plated and ready to serve, steam visible, garnished, professional food photography with warm inviting lighting. MIDDLE: Large, clear handwritten-style text \"Healthy Ground Beef Recipes for Dinner\" in bold simple font, instantly readable on mobile. Add \"simmerrecipes.com\" branding bottom. Cozy American dinner aesthetic, high contrast, clean design, scroll-stopping, optimized for Pinterest mobile users.",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A01d6ccc5-b6fc-4f45-8be3-ef8c61e265cc/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create Pinterest pin 1000ￗ1500px (9:16 vertical). Two-part composition: TOP HALF features fresh dinner ingredients - ground beef, onions, peppers, garlic, seasonings, fresh herbs on rustic cutting board, natural overhead lighting, vibrant colors. BOTTOM HALF shows completed healthy ground beef dinner recipe plated and ready to serve, steam visible, garnished, professional food photography with warm inviting lighting. MIDDLE: Large, clear handwritten-style text \\\"Healthy Ground Beef Recipes for Dinner\\\" in bold simple font, instantly readable on mobile. Add \\\"simmerrecipes.com\\\" branding bottom. Cozy American dinner aesthetic, high contrast, clean design, scroll-stopping, optimized for Pinterest mobile users.\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3470,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

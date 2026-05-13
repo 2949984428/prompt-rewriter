@@ -1,0 +1,21 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster inspired by the aesthetic of 大话西游, reimagined in 90s Hong Kong cinema style.\n\nStyle/medium: needs a 90s 港片 film aesthetic — exact stylistic execution is yours\nComposition: must include a romantic embrace as the foreground focal point, with two distant figures in the background\nSubject: must include 至尊宝 and 紫霞 sharing a kiss/embrace on a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\nScene/backdrop: must include a dramatic city wall setting\nLighting/mood: needs a cinematic, romantically charged 90s Hong Kong film atmosphere — exact light source mix is yours\nColor palette: needs a warm, faded 90s film direction — exact tones and ratios are yours\nMaterials/textures: must include film grain / 胶片颗粒 texture throughout\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acc56aba6-9f9d-4f33-936b-6e9d30e2ad6a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster inspired by the aesthetic of 大话西游, reimagined in 90s Hong Kong cinema style.\\n\\nStyle/medium: needs a 90s 港片 film aesthetic — exact stylistic execution is yours\\nComposition: must include a romantic embrace as the foreground focal point, with two distant figures in the background\\nSubject: must include 至尊宝 and 紫霞 sharing a kiss/embrace on a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\\nScene/backdrop: must include a dramatic city wall setting\\nLighting/mood: needs a cinematic, romantically charged 90s Hong Kong film atmosphere — exact light source mix is yours\\nColor palette: needs a warm, faded 90s film direction — exact tones and ratios are yours\\nMaterials/textures: must include film grain / 胶片颗粒 texture throughout\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7639
+}

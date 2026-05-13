@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original abstract expressionist artwork suitable for display in a modern art gallery.\n\nStyle/medium: abstract expressionism, gestural oil-on-canvas in the tradition of Franz Kline and Willem de Kooning, no representational imagery\nComposition: full-bleed canvas, dynamic diagonal energy lines, no single focal point, movement distributed across the entire picture plane\nSubject: pure emotion and kinetic energy expressed through bold brushwork — no figures, no objects, no recognizable forms\nScene/backdrop: flat neutral gallery-white implied ground, overwhelmed by layered paint strokes\nLighting/mood: raw visceral intensity, charged emotional atmosphere, tension between chaos and balance\nColor palette: bold clashing hues — deep crimson against electric cobalt, slashes of cadmium yellow cutting through near-black, colors collide rather than blend\nMaterials/textures: thick impasto ridges, visible bristle drag marks, pooled pigment edges, layered glazes beneath opaque strokes\nConstraints: strictly non-figurative; no text, symbols, or recognizable shapes; must read as gallery-ready fine art at large scale\nAvoid: digital illustration flatness, watercolor softness, decorative wallpaper patterns, recognizable silhouettes, gradient mesh fills, generic \"colorful splash\" stock art aesthetic",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4992c434-069b-4044-9ed1-069fd67813f1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original abstract expressionist artwork suitable for display in a modern art gallery.\\n\\nStyle/medium: abstract expressionism, gestural oil-on-canvas in the tradition of Franz Kline and Willem de Kooning, no representational imagery\\nComposition: full-bleed canvas, dynamic diagonal energy lines, no single focal point, movement distributed across the entire picture plane\\nSubject: pure emotion and kinetic energy expressed through bold brushwork — no figures, no objects, no recognizable forms\\nScene/backdrop: flat neutral gallery-white implied ground, overwhelmed by layered paint strokes\\nLighting/mood: raw visceral intensity, charged emotional atmosphere, tension between chaos and balance\\nColor palette: bold clashing hues — deep crimson against electric cobalt, slashes of cadmium yellow cutting through near-black, colors collide rather than blend\\nMaterials/textures: thick impasto ridges, visible bristle drag marks, pooled pigment edges, layered glazes beneath opaque strokes\\nConstraints: strictly non-figurative; no text, symbols, or recognizable shapes; must read as gallery-ready fine art at large scale\\nAvoid: digital illustration flatness, watercolor softness, decorative wallpaper patterns, recognizable silhouettes, gradient mesh fills, generic \\\"colorful splash\\\" stock art aesthetic\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11220
+}

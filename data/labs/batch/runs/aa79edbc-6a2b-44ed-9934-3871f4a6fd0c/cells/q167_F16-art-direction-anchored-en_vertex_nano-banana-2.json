@@ -1,0 +1,23 @@
+{
+  "query_idx": 167,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（日本亚马逊A+图）。\n\n风格/媒介:\n构图:\n主体:日本亚马逊A+图\n场景/背景:\n光线/氛围:\n色彩方案:不改变原有色系\n材质/纹理:\n文字(原样):\n约束:\n  不改变图片内容\n  调整边框使视觉更整洁\n  优化右侧插图的亮度与饱和度，使其与整图自然过渡，消除拼接痕迹\n  整体进行视觉优化，使画面融为一体\n避免:改变内容、改变色系、出现拼接感",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A85f842c4-361d-4176-bfb8-f7ea9bb8c779/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（日本亚马逊A+图）。\\n\\n风格/媒介:\\n构图:\\n主体:日本亚马逊A+图\\n场景/背景:\\n光线/氛围:\\n色彩方案:不改变原有色系\\n材质/纹理:\\n文字(原样):\\n约束:\\n  不改变图片内容\\n  调整边框使视觉更整洁\\n  优化右侧插图的亮度与饱和度，使其与整图自然过渡，消除拼接痕迹\\n  整体进行视觉优化，使画面融为一体\\n避免:改变内容、改变色系、出现拼接感\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5518,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

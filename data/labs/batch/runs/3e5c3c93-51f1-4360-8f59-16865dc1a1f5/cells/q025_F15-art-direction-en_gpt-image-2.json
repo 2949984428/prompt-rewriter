@@ -1,0 +1,21 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 小红书-style vertical cover image for a 素人 creator post featuring 大疆 Pocket 4.\n\nStyle/medium: needs a \"素人风格\" 小红书 aesthetic — exact stylistic execution is yours\nComposition: must be a 9-grid (九宫格) layout with the product 大疆 Pocket 4 prominently featured at center\nSubject: must include a 素人 (everyday person / non-celebrity) creator as the main subject, with 大疆 Pocket 4 as the featured product\nScene/backdrop: \nLighting/mood: needs a casual, approachable everyday atmosphere — exact light source mix is yours\nColor palette: needs a direction that feels fresh and relatable to 小红书 素人 content — exact palette is yours\nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" (large, central title, cute and differentiated font style)\nConstraints: must be a vertical cover format suited for 小红书; title typography must feel cute (可爱) and visually differentiated from generic fonts\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A607759c3-f77e-439e-b6aa-5d5a0ddb881c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 小红书-style vertical cover image for a 素人 creator post featuring 大疆 Pocket 4.\\n\\nStyle/medium: needs a \\\"素人风格\\\" 小红书 aesthetic — exact stylistic execution is yours\\nComposition: must be a 9-grid (九宫格) layout with the product 大疆 Pocket 4 prominently featured at center\\nSubject: must include a 素人 (everyday person / non-celebrity) creator as the main subject, with 大疆 Pocket 4 as the featured product\\nScene/backdrop: \\nLighting/mood: needs a casual, approachable everyday atmosphere — exact light source mix is yours\\nColor palette: needs a direction that feels fresh and relatable to 小红书 素人 content — exact palette is yours\\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" (large, central title, cute and differentiated font style)\\nConstraints: must be a vertical cover format suited for 小红书; title typography must feel cute (可爱) and visually differentiated from generic fonts\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8665
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 195,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "创意性的展示泳镜的卖点集合，画面背景的室内游泳池，前景有一位欧美男士戴着泳镜刚才从泳池里探出头来（特写人物肩膀以上的画面，以45度侧面仰视的角度[@image:#1:image]），头发和身体微湿； 整体风格为亚马逊高端泳镜主图风格，8k超高清分辨率，泳池风格；在合适的位置添加文案标题：“Gafas de Natación Antivaho HD”，副标题：“Universal para hombres, mujeres, adultos y adolescentes.”，还有三个卖点描述（加一上相对应的图形化标签）：“Anti-UV”，“alta definición”，“antivaho”；字体风格符合画面风格，可添加符合画面风格的元素或图标进行排版；1：1，生成五张图[@image:#2:{1BE7C0D5-34C5-443D-A862-9245F5D22CE7}]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 5,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A22c8eead-6c91-4855-a582-6dc53f7cff63/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"创意性的展示泳镜的卖点集合，画面背景的室内游泳池，前景有一位欧美男士戴着泳镜刚才从泳池里探出头来（特写人物肩膀以上的画面，以45度侧面仰视的角度[@image:#1:image]），头发和身体微湿； 整体风格为亚马逊高端泳镜主图风格，8k超高清分辨率，泳池风格；在合适的位置添加文案标题：\\\"Gafas de Natación Antivaho HD\\\"，副标题：\\\"Universal para hombres, mujeres, adultos y adolescentes.\\\"，还有三个卖点描述（加一上相对应的图形化标签）：\\\"Anti-UV\\\"，\\\"alta definición\\\"，\\\"antivaho\\\"；字体风格符合画面风格，可添加符合画面风格的元素或图标进行排版；1：1，生成五张图[@image:#2:{1BE7C0D5-34C5-443D-A862-9245F5D22CE7}]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 5, \"output_format\": \"png\"}",
+  "ms": 4207,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

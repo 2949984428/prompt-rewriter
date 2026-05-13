@@ -1,0 +1,23 @@
+{
+  "query_idx": 223,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Éditer cette photo de portrait (image #1).\n\n风格/媒介 : portrait professionnel, rendu naturel sans filtre excessif\n构图 : cadrage centré visage + épaules, format carré 1:1\n主体 : conserver exactement le visage original — traits, forme du visage, yeux, nez, bouche, couleur de peau et expression, sans aucune retouche morphologique\n场景/背景 : remplacer l'arrière-plan par un fond studio neutre, blanc ou gris clair\n光线/氛围 : éclairage studio professionnel, bien équilibré\n色彩方案 :\n材质/纹理 :\n文字(原样) :\n约束 :\n  modifier uniquement la tenue : chemise blanche élégante avec cravate classique\n  supprimer le bruit, augmenter la netteté, améliorer la lumière et les détails\n  ne pas modifier le visage\n避免 : retouche morphologique du visage, filtre excessif, fond non neutre",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A22d2f165-0aee-42e7-97e7-b2eb66f9cbc2/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Éditer cette photo de portrait (image #1).\\n\\n风格/媒介 : portrait professionnel, rendu naturel sans filtre excessif\\n构图 : cadrage centré visage + épaules, format carré 1:1\\n主体 : conserver exactement le visage original — traits, forme du visage, yeux, nez, bouche, couleur de peau et expression, sans aucune retouche morphologique\\n场景/背景 : remplacer l'arrière-plan par un fond studio neutre, blanc ou gris clair\\n光线/氛围 : éclairage studio professionnel, bien équilibré\\n色彩方案 :\\n材质/纹理 :\\n文字(原样) :\\n约束 :\\n  modifier uniquement la tenue : chemise blanche élégante avec cravate classique\\n  supprimer le bruit, augmenter la netteté, améliorer la lumière et les détails\\n  ne pas modifier le visage\\n避免 : retouche morphologique du visage, filtre excessif, fond non neutre\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8545,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

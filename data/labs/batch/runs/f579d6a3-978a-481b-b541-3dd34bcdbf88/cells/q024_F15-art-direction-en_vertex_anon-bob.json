@@ -1,0 +1,21 @@
+{
+  "query_idx": 24,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing technical instructional illustration showing how to deploy hermes inside a docker container and integrate glmcodingplan, with clearly labeled step-by-step panels.\n\nStyle/medium: needs a technical diagram / infographic aesthetic — exact stylistic execution is yours\nComposition: must be a vertical multi-panel layout with clearly numbered steps 1, 2, 3, 4\nSubject: must include all 4 steps across panels:\n  Step 1: docker 环境准备 / 拉取 hermes 镜像\n  Step 2: 启动 docker 容器 / 配置 hermes\n  Step 3: 接入 glmcodingplan / 配置连接参数\n  Step 4: 验证部署 / 运行测试\nScene/backdrop: must include a dark-themed terminal / IDE environment as backdrop context for each panel\nLighting/mood: needs a clean, technical documentation atmosphere — exact tone is yours\nColor palette: needs a dark-mode developer-tool direction — exact color scheme is yours\nMaterials/textures: \nText (verbatim): must include step labels \"1\" \"2\" \"3\" \"4\" (large, prominent), section headers and code snippets referencing \"docker\", \"hermes\", \"glmcodingplan\" (monospace code style)\nConstraints: must preserve clear visual separation between each numbered step; code blocks and command lines must be legible and distinct\nAvoid: must avoid decorative clutter that obscures the step flow; must avoid mixing step order",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Ab16eb38d-6194-4f47-8568-c364c6285143/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing technical instructional illustration showing how to deploy hermes inside a docker container and integrate glmcodingplan, with clearly labeled step-by-step panels.\\n\\nStyle/medium: needs a technical diagram / infographic aesthetic — exact stylistic execution is yours\\nComposition: must be a vertical multi-panel layout with clearly numbered steps 1, 2, 3, 4\\nSubject: must include all 4 steps across panels:\\n  Step 1: docker 环境准备 / 拉取 hermes 镜像\\n  Step 2: 启动 docker 容器 / 配置 hermes\\n  Step 3: 接入 glmcodingplan / 配置连接参数\\n  Step 4: 验证部署 / 运行测试\\nScene/backdrop: must include a dark-themed terminal / IDE environment as backdrop context for each panel\\nLighting/mood: needs a clean, technical documentation atmosphere — exact tone is yours\\nColor palette: needs a dark-mode developer-tool direction — exact color scheme is yours\\nMaterials/textures: \\nText (verbatim): must include step labels \\\"1\\\" \\\"2\\\" \\\"3\\\" \\\"4\\\" (large, prominent), section headers and code snippets referencing \\\"docker\\\", \\\"hermes\\\", \\\"glmcodingplan\\\" (monospace code style)\\nConstraints: must preserve clear visual separation between each numbered step; code blocks and command lines must be legible and distinct\\nAvoid: must avoid decorative clutter that obscures the step flow; must avoid mixing step order\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9779
+}

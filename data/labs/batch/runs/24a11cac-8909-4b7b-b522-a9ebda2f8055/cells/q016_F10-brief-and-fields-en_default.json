@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a warm family reunion dinner scene centered around a Chinese round table with a steaming hot pot.\n\nStyle/medium: photorealistic editorial photography, warm documentary family portrait style\nComposition: eye-level medium-wide shot encompassing the full round table and all family members, slight overhead tilt to show the hot pot at center\nSubject: a multigenerational family gathered around a traditional Chinese round table, raising glasses and laughing together, hot pot bubbling with visible steam rising at the center of the table, dishes and chopsticks spread around\nScene/backdrop: cozy indoor dining room, background wall densely covered with framed family photos and printed snapshots, creating a lived-in, nostalgic atmosphere\nLighting/mood: warm amber-yellow overhead pendant light as key source, soft fill from surrounding walls, intimate and joyful mood evoking 烟火气 and everyday happiness\nColor palette: dominant warm amber and golden yellow from the lighting, rich red and earthy tones from the food and tableware, cool photo-wall background as subtle contrast\nMaterials/textures: steam wisps above the hot pot, glossy lacquered round table surface, matte wall with layered photo prints, fabric clothing with natural wrinkles\nAvoid: cold blue tones, studio-flash look, stiff posed expressions, empty background, over-smoothed skin, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ee2c78b5-7832-493e-b531-42aac4aaaa2c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a warm family reunion dinner scene centered around a Chinese round table with a steaming hot pot.\\n\\nStyle/medium: photorealistic editorial photography, warm documentary family portrait style\\nComposition: eye-level medium-wide shot encompassing the full round table and all family members, slight overhead tilt to show the hot pot at center\\nSubject: a multigenerational family gathered around a traditional Chinese round table, raising glasses and laughing together, hot pot bubbling with visible steam rising at the center of the table, dishes and chopsticks spread around\\nScene/backdrop: cozy indoor dining room, background wall densely covered with framed family photos and printed snapshots, creating a lived-in, nostalgic atmosphere\\nLighting/mood: warm amber-yellow overhead pendant light as key source, soft fill from surrounding walls, intimate and joyful mood evoking 烟火气 and everyday happiness\\nColor palette: dominant warm amber and golden yellow from the lighting, rich red and earthy tones from the food and tableware, cool photo-wall background as subtle contrast\\nMaterials/textures: steam wisps above the hot pot, glossy lacquered round table surface, matte wall with layered photo prints, fabric clothing with natural wrinkles\\nAvoid: cold blue tones, studio-flash look, stiff posed expressions, empty background, over-smoothed skin, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12242
+}

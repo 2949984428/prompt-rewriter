@@ -1,0 +1,23 @@
+{
+  "query_idx": 309,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张水果主题竖版图片，适合微信视频号封面。\n\n风格/媒介:食品摄影风格，photorealistic，清新自然\n构图:\n  竖版构图，适合封面尺寸\n  展示多种水果切片/果片，非整颗水果\n主体:\n  菠萝切片、草莓切片等多种多汁水果片\n  强调果肉质感与汁水感\n场景/背景:\n光线/氛围:清爽自然，突出新鲜感\n色彩方案:\n材质/纹理:水果果肉纹理，多汁感\n文字(原样):\n约束:\n  无添加糖，无化学添加，100% 天然\n  不出现完整整颗水果，只展示切片/果片\n避免:\n  整颗未切水果\n  人工添加物、糖霜、化学光泽感",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4dcfafc0-e0ec-40a4-a796-502ccfa7268d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张水果主题竖版图片，适合微信视频号封面。\\n\\n风格/媒介:食品摄影风格，photorealistic，清新自然\\n构图:\\n  竖版构图，适合封面尺寸\\n  展示多种水果切片/果片，非整颗水果\\n主体:\\n  菠萝切片、草莓切片等多种多汁水果片\\n  强调果肉质感与汁水感\\n场景/背景:\\n光线/氛围:清爽自然，突出新鲜感\\n色彩方案:\\n材质/纹理:水果果肉纹理，多汁感\\n文字(原样):\\n约束:\\n  无添加糖，无化学添加，100% 天然\\n  不出现完整整颗水果，只展示切片/果片\\n避免:\\n  整颗未切水果\\n  人工添加物、糖霜、化学光泽感\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 10412,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

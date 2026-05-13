@@ -1,0 +1,23 @@
+{
+  "query_idx": 63,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个品牌 logo —— loofae。\n\n风格/媒介: 科技极简风，精灵感，平面 logo 设计\n构图: 字母与图形融合，整体横排品牌字标\n主体: 品牌名 loofae，字母 oo 设计成一对眼睛，字母 ae 连笔设计成翅膀形态\n场景/背景: 纯净背景，logo 单独呈现\n光线/氛围: 轻盈、灵动、精灵气质\n色彩方案:\n材质/纹理: 矢量平面，线条简洁\n文字(原样): loofae\n约束: oo 必须视觉上像眼睛；ae 必须连笔、形似翅膀；整体保持极简可识别\n避免: 写实纹理、繁复装饰、多余图形元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A997cb0e2-c7c6-4136-a569-5090176dc333/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个品牌 logo —— loofae。\\n\\n风格/媒介: 科技极简风，精灵感，平面 logo 设计\\n构图: 字母与图形融合，整体横排品牌字标\\n主体: 品牌名 loofae，字母 oo 设计成一对眼睛，字母 ae 连笔设计成翅膀形态\\n场景/背景: 纯净背景，logo 单独呈现\\n光线/氛围: 轻盈、灵动、精灵气质\\n色彩方案:\\n材质/纹理: 矢量平面，线条简洁\\n文字(原样): loofae\\n约束: oo 必须视觉上像眼睛；ae 必须连笔、形似翅膀；整体保持极简可识别\\n避免: 写实纹理、繁复装饰、多余图形元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8405,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

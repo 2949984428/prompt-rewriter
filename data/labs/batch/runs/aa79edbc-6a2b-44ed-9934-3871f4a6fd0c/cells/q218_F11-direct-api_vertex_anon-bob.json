@@ -1,0 +1,23 @@
+{
+  "query_idx": 218,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "帮我设计一下抖音背景图，我需要简约一点，中文，不需要出现手机壳，但是能表达出我是卖手机壳的，就可以了",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6847b435-3369-4ee4-8b70-8af22a127a51/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"帮我设计一下抖音背景图，我需要简约一点，中文，不需要出现手机壳，但是能表达出我是卖手机壳的，就可以了\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2691,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

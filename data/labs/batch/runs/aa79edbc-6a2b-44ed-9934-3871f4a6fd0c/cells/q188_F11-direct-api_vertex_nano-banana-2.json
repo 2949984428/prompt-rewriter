@@ -1,0 +1,23 @@
+{
+  "query_idx": 188,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:6d662c30232220bf1cde5f4695291d02][@image:#2:dd2c4ff810648315e310bbc5799ed9b0][@image:#3:facb4d9294812cb3dd23c8f0881ac65f] 一款带有经典图案的优质可折叠祈祷垫，配套的带有流苏的绿色祈祷珠，一个精美的绸质收纳袋用于存放所有物品，这个垫子非常柔软，便于携带，而且套装采用了这种令人惊艳的绿色。它是送给客户庆祝斋月/开斋节的绝佳礼物。根据以上照片和提示词，生成关于这个产品的海外tiktok的产品详情页，要求：展示产品特色，用准确的英文表达，让客户有购买欲",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3db90a70-9c2c-402b-a630-a14910fd3d06/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:6d662c30232220bf1cde5f4695291d02][@image:#2:dd2c4ff810648315e310bbc5799ed9b0][@image:#3:facb4d9294812cb3dd23c8f0881ac65f] 一款带有经典图案的优质可折叠祈祷垫，配套的带有流苏的绿色祈祷珠，一个精美的绸质收纳袋用于存放所有物品，这个垫子非常柔软，便于携带，而且套装采用了这种令人惊艳的绿色。它是送给客户庆祝斋月/开斋节的绝佳礼物。根据以上照片和提示词，生成关于这个产品的海外tiktok的产品详情页，要求：展示产品特色，用准确的英文表达，让客户有购买欲\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3963,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 252,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑当前图片，将比例调整为 4:5 竖向（适配 Instagram），其他所有内容保持不变。\n\n风格/媒介:\n构图:4:5 竖向构图，适配 Instagram\n主体:\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:除比例调整外，其他所有内容保持不变\n避免:",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Affb910c8-6f15-489a-a52a-74386dad47f9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑当前图片，将比例调整为 4:5 竖向（适配 Instagram），其他所有内容保持不变。\\n\\n风格/媒介:\\n构图:4:5 竖向构图，适配 Instagram\\n主体:\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:除比例调整外，其他所有内容保持不变\\n避免:\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4582,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a screenshot of a Douyin livestream featuring 神仙姐姐 holding a sign.\n\nStyle/medium: mobile app UI screenshot, Douyin livestream interface with real-time comments and engagement metrics\nComposition: vertical 9:16 aspect ratio, centered on the streamer with live UI elements (viewer count, likes, comments) framing the scene\nSubject: 神仙姐姐 holding a handheld sign, elegant appearance, engaging with audience\nScene/backdrop: typical livestream room setting with soft ambient lighting\nLighting/mood: warm ring light illumination on the streamer, cozy and inviting atmosphere\nColor palette: Douyin brand colors (black, red, white) mixed with warm skin tones\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: must look like an authentic mobile screenshot with proper UI chrome and status bar\nAvoid: watermark, distorted UI elements, low-resolution appearance, generic stock photo look",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/702937bf-ce37-4dcd-9ecc-60c5523b0d98/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate a screenshot of a Douyin livestream featuring 神仙姐姐 holding a sign.\\n\\nStyle/medium: mobile app UI screenshot, Douyin livestream interface with real-time comments and engagement metrics\\nComposition: vertical 9:16 aspect ratio, centered on the streamer with live UI elements (viewer count, likes, comments) framing the scene\\nSubject: 神仙姐姐 holding a handheld sign, elegant appearance, engaging with audience\\nScene/backdrop: typical livestream room setting with soft ambient lighting\\nLighting/mood: warm ring light illumination on the streamer, cozy and inviting atmosphere\\nColor palette: Douyin brand colors (black, red, white) mixed with warm skin tones\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: must look like an authentic mobile screenshot with proper UI chrome and status bar\\nAvoid: watermark, distorted UI elements, low-resolution appearance, generic stock photo look\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9148
+}

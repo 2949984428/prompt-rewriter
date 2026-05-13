@@ -1,0 +1,23 @@
+{
+  "query_idx": 54,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a logo for a music school named \"Studio Gitare Požarevac\".\n\n风格/媒介: flat vector logo design, minimalistic, modern, professional music branding\n构图:\n  stylized guitar element integrated creatively with typography\n  works well in both horizontal and centered layout\n  clean background, high contrast\n主体: logo for \"Studio Gitare Požarevac\" — a guitar studio and music education brand\n场景/背景: clean / transparent background\n光线/氛围: premium, trustworthy, creative feel\n色彩方案: elegant palette — black, white, dark blue, or warm wood tones; no bright or neon colors\n材质/纹理:\n文字(原样): Studio Gitare Požarevac\n约束:\n  typography must be clear, slightly artistic but highly readable\n  include subtle musical elements (strings, sound waves, or notes) only if they fit naturally\n  subtle local identity touch inspired by Požarevac — minimal, not cliché\n  scalable vector style, suitable for print and social media\n避免: overly complex details, bright or neon colors, cliché musical clip-art",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9d82651d-08b3-48ac-845a-201645dae841/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a logo for a music school named \\\"Studio Gitare Požarevac\\\".\\n\\n风格/媒介: flat vector logo design, minimalistic, modern, professional music branding\\n构图:\\n  stylized guitar element integrated creatively with typography\\n  works well in both horizontal and centered layout\\n  clean background, high contrast\\n主体: logo for \\\"Studio Gitare Požarevac\\\" — a guitar studio and music education brand\\n场景/背景: clean / transparent background\\n光线/氛围: premium, trustworthy, creative feel\\n色彩方案: elegant palette — black, white, dark blue, or warm wood tones; no bright or neon colors\\n材质/纹理:\\n文字(原样): Studio Gitare Požarevac\\n约束:\\n  typography must be clear, slightly artistic but highly readable\\n  include subtle musical elements (strings, sound waves, or notes) only if they fit naturally\\n  subtle local identity touch inspired by Požarevac — minimal, not cliché\\n  scalable vector style, suitable for print and social media\\n避免: overly complex details, bright or neon colors, cliché musical clip-art\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 6825,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

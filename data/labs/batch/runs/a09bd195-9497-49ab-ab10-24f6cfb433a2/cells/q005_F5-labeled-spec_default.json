@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic still, space exploration editorial\nPrimary request: astronaut floating in Earth orbit with the Milky Way and nebulae behind, partial space station visible at frame edge\nScene/backdrop: low Earth orbit, planet Earth curvature below, dense star field with colorful nebula clouds, distant space station modules\nSubject: astronaut in detailed spacesuit with reflective visor, floating weightless, suit fabric texture and joint mechanisms clearly visible\nStyle/medium: photorealistic digital painting, NASA documentary style, cinematic space art\nComposition/framing: medium shot with astronaut centered, Earth reflection in visor, space station structures at left/right edges creating depth\nLighting/mood: soft blue-white Earthshine illuminating the suit from below, deep space blackness contrasted with bright galactic core, awe-inspiring and majestic atmosphere\nColor palette: deep space blacks + vibrant nebula purples/pinks/blues + warm Earth blues and greens + metallic silver suit\nMaterials/textures: matte white spacesuit fabric with fabric weave, reflective gold visor coating, metallic space station panels, volumetric nebula gas\nConstraints: keep Earth as secondary element, ensure astronaut remains focal point, maintain scientific accuracy in suit design\nAvoid: cartoonish proportions, flat lighting, oversaturated colors, lens flare abuse, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/90c6b458-8e9a-4860-b8ac-84e886991307/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic still, space exploration editorial\\nPrimary request: astronaut floating in Earth orbit with the Milky Way and nebulae behind, partial space station visible at frame edge\\nScene/backdrop: low Earth orbit, planet Earth curvature below, dense star field with colorful nebula clouds, distant space station modules\\nSubject: astronaut in detailed spacesuit with reflective visor, floating weightless, suit fabric texture and joint mechanisms clearly visible\\nStyle/medium: photorealistic digital painting, NASA documentary style, cinematic space art\\nComposition/framing: medium shot with astronaut centered, Earth reflection in visor, space station structures at left/right edges creating depth\\nLighting/mood: soft blue-white Earthshine illuminating the suit from below, deep space blackness contrasted with bright galactic core, awe-inspiring and majestic atmosphere\\nColor palette: deep space blacks + vibrant nebula purples/pinks/blues + warm Earth blues and greens + metallic silver suit\\nMaterials/textures: matte white spacesuit fabric with fabric weave, reflective gold visor coating, metallic space station panels, volumetric nebula gas\\nConstraints: keep Earth as secondary element, ensure astronaut remains focal point, maintain scientific accuracy in suit design\\nAvoid: cartoonish proportions, flat lighting, oversaturated colors, lens flare abuse, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11573
+}

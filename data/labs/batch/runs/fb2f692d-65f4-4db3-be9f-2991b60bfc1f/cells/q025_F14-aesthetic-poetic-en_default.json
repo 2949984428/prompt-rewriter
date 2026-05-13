@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 9-grid Xiaohongshu cover image for a grassroots creator account featuring the DJI Pocket 4, with the title \"大强pocket4初体验\" in a cute, differentiated typeface.\n\nStyle/medium: Xiaohongshu 9-grid cover design with the playful immediacy of grassroots creator content, hand-drawn typography warmth\nComposition: 3x3 grid layout with the DJI Pocket 4 product as the visual anchor, title prominently centered across the middle cells, generous breathing room around the product\nSubject: DJI Pocket 4 gimbal camera as the hero product, small lifestyle props suggesting first-use excitement (unboxing elements, hands holding device, sample footage thumbnails in corner cells)\nScene/backdrop: soft neutral surface with subtle texture, hint of cozy creator workspace\nLighting/mood: the warm honey light of a friendly recommendation, approachable and unpretentious\nColor palette: warm cream and soft coral accents, gentle contrast that feels handmade rather than polished brand\nMaterials/textures: matte paper-like surface, hand-lettered quality to the typography\nText (verbatim): 大强pocket4初体验\nConstraints: 9-grid structure visible, product clearly identifiable as DJI Pocket 4, title legible at thumbnail size, grassroots aesthetic (not overly polished commercial look)\nAvoid: slick corporate product photography, generic stock aesthetic, overly minimalist sans-serif typography, cold clinical lighting",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4c008b0d-b255-43f1-889f-87fe73835282/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a 9-grid Xiaohongshu cover image for a grassroots creator account featuring the DJI Pocket 4, with the title \\\"大强pocket4初体验\\\" in a cute, differentiated typeface.\\n\\nStyle/medium: Xiaohongshu 9-grid cover design with the playful immediacy of grassroots creator content, hand-drawn typography warmth\\nComposition: 3x3 grid layout with the DJI Pocket 4 product as the visual anchor, title prominently centered across the middle cells, generous breathing room around the product\\nSubject: DJI Pocket 4 gimbal camera as the hero product, small lifestyle props suggesting first-use excitement (unboxing elements, hands holding device, sample footage thumbnails in corner cells)\\nScene/backdrop: soft neutral surface with subtle texture, hint of cozy creator workspace\\nLighting/mood: the warm honey light of a friendly recommendation, approachable and unpretentious\\nColor palette: warm cream and soft coral accents, gentle contrast that feels handmade rather than polished brand\\nMaterials/textures: matte paper-like surface, hand-lettered quality to the typography\\nText (verbatim): 大强pocket4初体验\\nConstraints: 9-grid structure visible, product clearly identifiable as DJI Pocket 4, title legible at thumbnail size, grassroots aesthetic (not overly polished commercial look)\\nAvoid: slick corporate product photography, generic stock aesthetic, overly minimalist sans-serif typography, cold clinical lighting\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8984
+}

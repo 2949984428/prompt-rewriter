@@ -1,0 +1,23 @@
+{
+  "query_idx": 2,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:North_western_bus_logo] create a modern logo based on the image provided",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7f0b7963-947d-48d2-804b-95a38ed16173/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:North_western_bus_logo] create a modern logo based on the image provided\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3838,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

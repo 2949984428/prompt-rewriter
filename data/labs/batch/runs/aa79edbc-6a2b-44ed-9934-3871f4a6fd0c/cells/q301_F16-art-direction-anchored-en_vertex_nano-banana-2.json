@@ -1,0 +1,23 @@
+{
+  "query_idx": 301,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a WeChat Moments square post.\n\nStyle/medium: Clean editorial graphic design, black and white peony plant pattern as background, minimal layout\nComposition:\n  Centered peony illustration\n  Text placed above the flowers\n  Large title at top, balanced spacing throughout\n  Simple layout, not cluttered\nSubject: Promotional social post for a dance challenge program designed for women over 50\nScene/backdrop: Black and white detailed peony botanical pattern, centered, rich in detail but not complicated\nLighting/mood: High contrast, elegant, empowering\nColor palette:\n  Black and white for peony pattern and layout base\n  Keywords and accent text in bright pink\nMaterials/textures:\nText (verbatim):\n  Title (large, elegant bold font): Menopausal Ladies!\n  Better than going to the gym\n  More fun than boring daily workouts\n  We start next Wednesday\n  Join our dance challenge\n  Suitable for beginners\n  Designed specifically for women over 50\n  Rediscover Yourself\nConstraints:\n  1:1 square format\n  High readability\n  Minimal distortion\n  Keywords emphasized in bright pink\n  Elegant bold font\nAvoid: Cluttered layout, low contrast, distorted text",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa2c5c11a-add4-4325-949b-1156c2238524/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate a WeChat Moments square post.\\n\\nStyle/medium: Clean editorial graphic design, black and white peony plant pattern as background, minimal layout\\nComposition:\\n  Centered peony illustration\\n  Text placed above the flowers\\n  Large title at top, balanced spacing throughout\\n  Simple layout, not cluttered\\nSubject: Promotional social post for a dance challenge program designed for women over 50\\nScene/backdrop: Black and white detailed peony botanical pattern, centered, rich in detail but not complicated\\nLighting/mood: High contrast, elegant, empowering\\nColor palette:\\n  Black and white for peony pattern and layout base\\n  Keywords and accent text in bright pink\\nMaterials/textures:\\nText (verbatim):\\n  Title (large, elegant bold font): Menopausal Ladies!\\n  Better than going to the gym\\n  More fun than boring daily workouts\\n  We start next Wednesday\\n  Join our dance challenge\\n  Suitable for beginners\\n  Designed specifically for women over 50\\n  Rediscover Yourself\\nConstraints:\\n  1:1 square format\\n  High readability\\n  Minimal distortion\\n  Keywords emphasized in bright pink\\n  Elegant bold font\\nAvoid: Cluttered layout, low contrast, distorted text\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 18539,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

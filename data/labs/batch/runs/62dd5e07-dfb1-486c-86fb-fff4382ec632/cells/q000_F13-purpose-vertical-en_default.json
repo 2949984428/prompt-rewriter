@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Xiaohongshu cover image for pearl milk tea with a pink girly aesthetic and summer refreshing vibe.\n\nStyle/medium: Xiaohongshu grass-planting cover photo, soft pink girly aesthetic, styled product shot\nComposition: close-up or slightly overhead angle, subject centered with breathing room for top text overlay\nSubject: pearl milk tea drink, condensation on cup, tapioca pearls visible through the cup\nScene/backdrop: light airy summer backdrop, soft pastel pink tones, subtle summer props (flowers, ice cubes, or light fabric)\nLighting/mood: bright, soft diffused light, cool refreshing summer feel\nColor palette: pastel pink, creamy white, light peach, translucent bubble-tea brown accents\nMaterials/textures: dewy condensation on cup surface, glossy pearls, soft fabric or petal textures in background\nText (verbatim): \nConstraints: must feel scroll-stopping for Xiaohongshu feed, girly and fresh, not dark or moody\nAvoid: dark backgrounds, heavy shadows, overly saturated neon tones, cluttered props",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ee340140-bf6c-4f85-88ad-e64dabf1842e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing Xiaohongshu cover image for pearl milk tea with a pink girly aesthetic and summer refreshing vibe.\\n\\nStyle/medium: Xiaohongshu grass-planting cover photo, soft pink girly aesthetic, styled product shot\\nComposition: close-up or slightly overhead angle, subject centered with breathing room for top text overlay\\nSubject: pearl milk tea drink, condensation on cup, tapioca pearls visible through the cup\\nScene/backdrop: light airy summer backdrop, soft pastel pink tones, subtle summer props (flowers, ice cubes, or light fabric)\\nLighting/mood: bright, soft diffused light, cool refreshing summer feel\\nColor palette: pastel pink, creamy white, light peach, translucent bubble-tea brown accents\\nMaterials/textures: dewy condensation on cup surface, glossy pearls, soft fabric or petal textures in background\\nText (verbatim): \\nConstraints: must feel scroll-stopping for Xiaohongshu feed, girly and fresh, not dark or moody\\nAvoid: dark backgrounds, heavy shadows, overly saturated neon tones, cluttered props\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9112
+}

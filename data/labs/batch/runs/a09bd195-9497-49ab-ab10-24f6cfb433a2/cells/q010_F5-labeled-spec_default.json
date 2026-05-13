@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic still, concept art\nPrimary request: post-apocalyptic wasteland scene with a modified armored vehicle in a desolate desert\nScene/backdrop: collapsed city ruins in the distance, barren desert landscape, dust and sand swirling in the air\nSubject: heavily modified armored vehicle with rusted metal plating, makeshift weapons, and survival gear\nStyle/medium: cinematic concept art, photorealistic digital painting\nComposition/framing: wide establishing shot, low horizon line emphasizing the vast wasteland\nLighting/mood: hazy yellow-orange sky, diffused light through dust clouds, tense and oppressive atmosphere\nColor palette: muted ochre yellow + dusty brown + rust orange + pale sickly sky tones\nMaterials/textures: corroded metal, cracked concrete ruins, fine sand particles in air, weathered vehicle surfaces\nConstraints: maintain the sense of scale between vehicle and distant ruins, keep dust atmosphere prominent\nAvoid: clean surfaces, bright saturated colors, modern intact buildings, cheerful mood",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/96143579-cf7c-4d2d-af0b-7d774aa9ba2a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic still, concept art\\nPrimary request: post-apocalyptic wasteland scene with a modified armored vehicle in a desolate desert\\nScene/backdrop: collapsed city ruins in the distance, barren desert landscape, dust and sand swirling in the air\\nSubject: heavily modified armored vehicle with rusted metal plating, makeshift weapons, and survival gear\\nStyle/medium: cinematic concept art, photorealistic digital painting\\nComposition/framing: wide establishing shot, low horizon line emphasizing the vast wasteland\\nLighting/mood: hazy yellow-orange sky, diffused light through dust clouds, tense and oppressive atmosphere\\nColor palette: muted ochre yellow + dusty brown + rust orange + pale sickly sky tones\\nMaterials/textures: corroded metal, cracked concrete ruins, fine sand particles in air, weathered vehicle surfaces\\nConstraints: maintain the sense of scale between vehicle and distant ruins, keep dust atmosphere prominent\\nAvoid: clean surfaces, bright saturated colors, modern intact buildings, cheerful mood\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8934
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 9,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Логотип квадрат с вписанной геометрией Цветок жизни на заднем плане, на переднем буквы C.U",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9137110d-b1d0-4e17-ad42-71f3deff37c0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Логотип квадрат с вписанной геометрией Цветок жизни на заднем плане, на переднем буквы C.U\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3035,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

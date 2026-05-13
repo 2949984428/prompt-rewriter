@@ -1,0 +1,23 @@
+{
+  "query_idx": 17,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张横版 logo application 展示图 —— 基于参考图中的 logo 与背景风格，展示一系列品牌应用场景。\n\n风格/媒介：与参考图保持一致的 logo 风格与背景视觉风格\n构图：\n  横版排版，将多个应用场景并排或网格布局于同一张图中\n  场景包括：网页界面、手机 App 界面、明信片、信纸及其他办公用具\n主体：\n  参考图中的 logo（原样保留，不改动）\n  各应用载体上均呈现该 logo\n场景/背景：品牌 VI 展示 / brand mockup 风格排版\n光线/氛围：\n色彩方案：沿用参考图中的配色体系\n材质/纹理：\n文字(原样)：\n约束：\n  logo 造型与参考图保持一致\n  背景风格与参考图保持一致\n  横版构图，所有应用场景排版在同一张图内\n避免：随意更改 logo 形态或配色",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1b7004e5-b586-4814-85aa-9f534c450eed/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张横版 logo application 展示图 —— 基于参考图中的 logo 与背景风格，展示一系列品牌应用场景。\\n\\n风格/媒介：与参考图保持一致的 logo 风格与背景视觉风格\\n构图：\\n  横版排版，将多个应用场景并排或网格布局于同一张图中\\n  场景包括：网页界面、手机 App 界面、明信片、信纸及其他办公用具\\n主体：\\n  参考图中的 logo（原样保留，不改动）\\n  各应用载体上均呈现该 logo\\n场景/背景：品牌 VI 展示 / brand mockup 风格排版\\n光线/氛围：\\n色彩方案：沿用参考图中的配色体系\\n材质/纹理：\\n文字(原样)：\\n约束：\\n  logo 造型与参考图保持一致\\n  背景风格与参考图保持一致\\n  横版构图，所有应用场景排版在同一张图内\\n避免：随意更改 logo 形态或配色\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8259,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

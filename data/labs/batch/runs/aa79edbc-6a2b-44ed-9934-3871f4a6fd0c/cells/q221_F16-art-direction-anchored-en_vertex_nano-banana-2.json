@@ -1,0 +1,23 @@
+{
+  "query_idx": 221,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Edit gambar referensi menjadi thumbnail TikTok/YouTube Shorts yang menarik dan keren.\n\n风格/媒介: desain thumbnail gaming yang bold, keren, dan eye-catching\n构图:\n  orientasi vertikal 9:16\n  judul utama mencolok di area atas atau tengah\n  teks clickbait tersebar di area yang menonjol\n  subjek/karakter utama dari gambar referensi tetap menjadi fokus\n主体: karakter Franco dari gambar referensi, dengan pose atau ekspresi yang dramatis dan epik\n场景/背景: latar belakang yang dramatis dan keren sesuai tema gaming\n光线/氛围: atmosfer epik, intens, dan dramatis khas thumbnail gaming\n色彩方案: warna-warna bold dan kontras tinggi untuk menarik perhatian\n材质/纹理:\n文字(原样):\n  \"FRANCO EPIC HOOK GAMEPLAY\"\n  teks clickbait pendukung yang menarik (contoh: \"INSANE!\", \"OP BUILD!\", \"MUST WATCH!\", \"NO ESCAPE!\")\n约束:\n  ukuran thumbnail YouTube Shorts / TikTok (rasio 9:16)\n  pertahankan identitas karakter Franco dari gambar referensi\n避免: tampilan membosankan, warna pucat, teks yang sulit dibaca",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A034c3373-6762-4fdf-859f-eb42a298f663/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Edit gambar referensi menjadi thumbnail TikTok/YouTube Shorts yang menarik dan keren.\\n\\n风格/媒介: desain thumbnail gaming yang bold, keren, dan eye-catching\\n构图:\\n  orientasi vertikal 9:16\\n  judul utama mencolok di area atas atau tengah\\n  teks clickbait tersebar di area yang menonjol\\n  subjek/karakter utama dari gambar referensi tetap menjadi fokus\\n主体: karakter Franco dari gambar referensi, dengan pose atau ekspresi yang dramatis dan epik\\n场景/背景: latar belakang yang dramatis dan keren sesuai tema gaming\\n光线/氛围: atmosfer epik, intens, dan dramatis khas thumbnail gaming\\n色彩方案: warna-warna bold dan kontras tinggi untuk menarik perhatian\\n材质/纹理:\\n文字(原样):\\n  \\\"FRANCO EPIC HOOK GAMEPLAY\\\"\\n  teks clickbait pendukung yang menarik (contoh: \\\"INSANE!\\\", \\\"OP BUILD!\\\", \\\"MUST WATCH!\\\", \\\"NO ESCAPE!\\\")\\n约束:\\n  ukuran thumbnail YouTube Shorts / TikTok (rasio 9:16)\\n  pertahankan identitas karakter Franco dari gambar referensi\\n避免: tampilan membosankan, warna pucat, teks yang sulit dibaca\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9619,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a primeval forest at dawn, with Tyndall light beams, ancient moss-covered rocks, and a winding mountain stream.\n\nStyle/medium: photorealistic large-format nature photography, wide-angle lens, in the spirit of Art Wolfe or Frans Lanting wilderness editorial work\nComposition: wide-angle shot with pronounced depth of field — foreground ferns and wild mushrooms, mid-ground towering redwood trunks, background hazy mountain ridgeline silhouette; layered three-plane depth\nSubject: ancient moss-covered boulders bathed in Tyndall light shafts piercing a dense forest canopy; a clear winding mountain stream in the mid-distance with reflections of lush green vegetation on its surface\nScene/backdrop: deep primeval forest interior at first light of dawn; thin mist drifting between trees; distant mountain contours faintly visible through the canopy\nLighting/mood: first rays of morning sun breaking through a thick overhead canopy, forming distinct Tyndall-effect light columns; rich layered chiaroscuro; mysterious yet serene atmosphere\nColor palette: deep forest green and emerald green as dominant tones, warm gold as accent where light strikes, cool shadow tones in the understory — all three in deliberate contrast\nMaterials/textures: velvety moss on rough stone surfaces, wet bark grain on redwood trunks, translucent fern fronds, glistening water surface with soft reflections\nAvoid: artificial HDR halos, oversaturated green, plastic foliage, lens flare overload, watermark, 8K stuffer aesthetic, flat lighting",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/80eb73c9-260b-4d17-acce-30819e592b1d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a primeval forest at dawn, with Tyndall light beams, ancient moss-covered rocks, and a winding mountain stream.\\n\\nStyle/medium: photorealistic large-format nature photography, wide-angle lens, in the spirit of Art Wolfe or Frans Lanting wilderness editorial work\\nComposition: wide-angle shot with pronounced depth of field — foreground ferns and wild mushrooms, mid-ground towering redwood trunks, background hazy mountain ridgeline silhouette; layered three-plane depth\\nSubject: ancient moss-covered boulders bathed in Tyndall light shafts piercing a dense forest canopy; a clear winding mountain stream in the mid-distance with reflections of lush green vegetation on its surface\\nScene/backdrop: deep primeval forest interior at first light of dawn; thin mist drifting between trees; distant mountain contours faintly visible through the canopy\\nLighting/mood: first rays of morning sun breaking through a thick overhead canopy, forming distinct Tyndall-effect light columns; rich layered chiaroscuro; mysterious yet serene atmosphere\\nColor palette: deep forest green and emerald green as dominant tones, warm gold as accent where light strikes, cool shadow tones in the understory — all three in deliberate contrast\\nMaterials/textures: velvety moss on rough stone surfaces, wet bark grain on redwood trunks, translucent fern fronds, glistening water surface with soft reflections\\nAvoid: artificial HDR halos, oversaturated green, plastic foliage, lens flare overload, watermark, 8K stuffer aesthetic, flat lighting\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 12295
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic showing a step-by-step tutorial for deploying Hermes in a Docker container and integrating with GLMCodingPlan.\n\nStyle/medium: infographic, step-by-step tutorial diagram\nComposition: numbered 1-2-3-4 steps layout, clear visual flow\nSubject: Docker container deployment of Hermes, GLMCodingPlan integration\nScene/backdrop: technical documentation layout with command blocks and diagrams\nLighting/mood: clean, instructional, professional\nColor palette: \nMaterials/textures: \nText (verbatim): \"1\", \"2\", \"3\", \"4\", \"Hermes\", \"GLMCodingPlan\", \"Docker\"\nConstraints: must show 4 distinct steps clearly numbered\nAvoid: ",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fc909048-cbdb-43dd-a234-a7bf662771c0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing infographic showing a step-by-step tutorial for deploying Hermes in a Docker container and integrating with GLMCodingPlan.\\n\\nStyle/medium: infographic, step-by-step tutorial diagram\\nComposition: numbered 1-2-3-4 steps layout, clear visual flow\\nSubject: Docker container deployment of Hermes, GLMCodingPlan integration\\nScene/backdrop: technical documentation layout with command blocks and diagrams\\nLighting/mood: clean, instructional, professional\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"1\\\", \\\"2\\\", \\\"3\\\", \\\"4\\\", \\\"Hermes\\\", \\\"GLMCodingPlan\\\", \\\"Docker\\\"\\nConstraints: must show 4 distinct steps clearly numbered\\nAvoid: \"}",
+  "ms": 6580
+}

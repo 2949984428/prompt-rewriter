@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID badge mockup for ByteDance (字节跳动), front and back sides, intended for internal HR or onboarding materials.\n\nStyle/medium: photorealistic corporate ID badge mockup with clean modern tech company aesthetic\nComposition: two badges shown side by side — left showing front face with photo and name, right showing back face with QR code and company info\nSubject: ByteDance employee badge featuring employee photo placeholder, name field, employee ID number, company logo, department text; back side with QR code, emergency contact, and company address\nScene/backdrop: neutral soft shadow surface, badges lying flat with subtle depth of field\nLighting/mood: soft diffused studio lighting, professional and trustworthy atmosphere\nColor palette: ByteDance brand colors — black, white, with signature blue accent\nMaterials/textures: matte laminated PVC card stock with slight sheen, rounded corners, realistic card thickness visible at edges\nText (verbatim): 字节跳动, ByteDance\nConstraints: both front and back visible, realistic card proportions (standard credit card size 85.6mm x 54mm), photo-realistic rendering\nAvoid: cartoon style, flat illustration, exaggerated shadows, missing back side, incorrect proportions",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fe557c65-4f90-4084-9148-518f46754feb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing employee ID badge mockup for ByteDance (字节跳动), front and back sides, intended for internal HR or onboarding materials.\\n\\nStyle/medium: photorealistic corporate ID badge mockup with clean modern tech company aesthetic\\nComposition: two badges shown side by side — left showing front face with photo and name, right showing back face with QR code and company info\\nSubject: ByteDance employee badge featuring employee photo placeholder, name field, employee ID number, company logo, department text; back side with QR code, emergency contact, and company address\\nScene/backdrop: neutral soft shadow surface, badges lying flat with subtle depth of field\\nLighting/mood: soft diffused studio lighting, professional and trustworthy atmosphere\\nColor palette: ByteDance brand colors — black, white, with signature blue accent\\nMaterials/textures: matte laminated PVC card stock with slight sheen, rounded corners, realistic card thickness visible at edges\\nText (verbatim): 字节跳动, ByteDance\\nConstraints: both front and back visible, realistic card proportions (standard credit card size 85.6mm x 54mm), photo-realistic rendering\\nAvoid: cartoon style, flat illustration, exaggerated shadows, missing back side, incorrect proportions\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7822
+}

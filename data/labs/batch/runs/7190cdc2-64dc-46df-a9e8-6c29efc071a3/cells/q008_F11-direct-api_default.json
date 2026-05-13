@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "科学可视化风格，展示人体神经系统的宏观与微观结合图像。画面中央是一个半透明的人体轮廓，内部神经网络以发光的蓝白色线条呈现，从大脑皮层延伸至脊髓，再分支至四肢末梢，如同宇宙星云般壮观。局部放大区域展示单个神经元的精细结构：树突、轴突、髓鞘和突触小泡均清晰可辨，突触间隙中神经递质分子以粒子形式飞散。背景为深邃的宇宙黑，整体色调以冷蓝、青白和少量金色点缀为主。风格融合医学插画的严谨性与艺术海报的视觉冲击力，适用于科普教育或医疗品牌宣传。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/954c642e-46c9-4ba3-af77-30c19e6c0b4d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

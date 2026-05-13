@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational infographic poster for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms period.\n\nStyle/medium: children's educational infographic, single large knowledge card format, cartoon storybook illustration style with friendly approachable visuals\nSubject: the Battle of Red Cliffs (赤壁之战) historical event, featuring key characters like Zhou Yu, Zhuge Liang, and Cao Cao in simplified cartoon forms\nComposition: single large knowledge card layout, clear title at top, bullet-point key facts displayed in sidebar with punctuation marks, main illustration occupying central space showing the famous fire attack on chained ships\nScene/backdrop: Yangtze River battle scene with burning ships, simplified cartoon clouds and water, minimal background to keep focus on educational content\nLighting/mood: bright and cheerful daytime lighting, engaging and educational atmosphere suitable for children aged 6-12\nColor palette: warm oranges and reds for fire elements, cool blues for water, friendly pastels for character clothing, high contrast for readability\nText (verbatim): \"赤壁之战\"\nConstraints: all text must be large and legible for young readers; complex historical details simplified to child-friendly language; visual hierarchy guides eye from title to illustration to bullet points\nAvoid: violent or scary imagery; overly complex battle details; small unreadable text; dark or ominous color schemes; realistic gore or death depictions",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/01ba2252-bce2-4374-bf3e-bc63ac6eb62c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an educational infographic poster for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms period.\\n\\nStyle/medium: children's educational infographic, single large knowledge card format, cartoon storybook illustration style with friendly approachable visuals\\nSubject: the Battle of Red Cliffs (赤壁之战) historical event, featuring key characters like Zhou Yu, Zhuge Liang, and Cao Cao in simplified cartoon forms\\nComposition: single large knowledge card layout, clear title at top, bullet-point key facts displayed in sidebar with punctuation marks, main illustration occupying central space showing the famous fire attack on chained ships\\nScene/backdrop: Yangtze River battle scene with burning ships, simplified cartoon clouds and water, minimal background to keep focus on educational content\\nLighting/mood: bright and cheerful daytime lighting, engaging and educational atmosphere suitable for children aged 6-12\\nColor palette: warm oranges and reds for fire elements, cool blues for water, friendly pastels for character clothing, high contrast for readability\\nText (verbatim): \\\"赤壁之战\\\"\\nConstraints: all text must be large and legible for young readers; complex historical details simplified to child-friendly language; visual hierarchy guides eye from title to illustration to bullet points\\nAvoid: violent or scary imagery; overly complex battle details; small unreadable text; dark or ominous color schemes; realistic gore or death depictions\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12115
+}

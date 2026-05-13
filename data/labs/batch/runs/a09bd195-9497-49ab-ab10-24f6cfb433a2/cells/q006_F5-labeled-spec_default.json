@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial photo, cinematic still\nPrimary request: vintage film-style street portrait of a young woman leaning against a neon sign in 1990s Hong Kong\nScene/backdrop: 1990s Hong Kong street at night, dense urban alley with glowing neon signage, wet pavement reflections\nSubject: young woman in a denim jacket, leaning casually against a neon sign, relaxed pose, long dark hair, natural makeup\nStyle/medium: 35mm film photography, vintage analog aesthetic, cinematic grain\nComposition/framing: medium shot, eye-level angle, shallow depth of field, neon sign partially in foreground\nLighting/mood: soft ambient street lighting mixed with neon glow, hazy night atmosphere, nostalgic and melancholic mood\nColor palette: warm amber and orange tones, cool neon pink and blue accents, muted film color grading\nMaterials/textures: visible film grain texture, denim fabric weave, glossy wet street surface, matte skin texture\nConstraints: preserve the 1990s Hong Kong era authenticity, maintain the leaning pose against neon signage\nAvoid: modern elements, clean digital look, oversaturated colors, plastic skin, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4ded8a93-93c9-499b-bb70-aac3e4fdf1af/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial photo, cinematic still\\nPrimary request: vintage film-style street portrait of a young woman leaning against a neon sign in 1990s Hong Kong\\nScene/backdrop: 1990s Hong Kong street at night, dense urban alley with glowing neon signage, wet pavement reflections\\nSubject: young woman in a denim jacket, leaning casually against a neon sign, relaxed pose, long dark hair, natural makeup\\nStyle/medium: 35mm film photography, vintage analog aesthetic, cinematic grain\\nComposition/framing: medium shot, eye-level angle, shallow depth of field, neon sign partially in foreground\\nLighting/mood: soft ambient street lighting mixed with neon glow, hazy night atmosphere, nostalgic and melancholic mood\\nColor palette: warm amber and orange tones, cool neon pink and blue accents, muted film color grading\\nMaterials/textures: visible film grain texture, denim fabric weave, glossy wet street surface, matte skin texture\\nConstraints: preserve the 1990s Hong Kong era authenticity, maintain the leaning pose against neon signage\\nAvoid: modern elements, clean digital look, oversaturated colors, plastic skin, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11001
+}

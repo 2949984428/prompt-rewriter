@@ -1,0 +1,23 @@
+{
+  "query_idx": 247,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image]参考这些球员长相特征，帮我设计出闽超三明足球队的卡通人物形象，至少生成10个形象给我参考，全身像，身着三明队球服，用于发布在抖音平台[@image:#2:微信图片_20260421171003_50_1787]",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac869a730-ebf7-409f-9e07-c5e5180cbc67/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image]参考这些球员长相特征，帮我设计出闽超三明足球队的卡通人物形象，至少生成10个形象给我参考，全身像，身着三明队球服，用于发布在抖音平台[@image:#2:微信图片_20260421171003_50_1787]\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3713,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

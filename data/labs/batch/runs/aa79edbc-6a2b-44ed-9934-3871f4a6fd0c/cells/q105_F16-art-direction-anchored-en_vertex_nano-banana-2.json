@@ -1,0 +1,23 @@
+{
+  "query_idx": 105,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（玫瑰花立体贺卡）。\n\n风格/媒介:\n构图:\n主体:玫瑰花立体贺卡\n场景/背景:纯白背景\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  符合亚马逊主图要求（纯白底 #FFFFFF，主体清晰居中，无额外装饰）\n  保留玫瑰花立体贺卡主体，仅替换背景\n避免:非白色背景、杂乱元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A99790060-9a48-4d85-a5ca-f9aee9b8ccc2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（玫瑰花立体贺卡）。\\n\\n风格/媒介:\\n构图:\\n主体:玫瑰花立体贺卡\\n场景/背景:纯白背景\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  符合亚马逊主图要求（纯白底 #FFFFFF，主体清晰居中，无额外装饰）\\n  保留玫瑰花立体贺卡主体，仅替换背景\\n避免:非白色背景、杂乱元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 6028,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design illustration of an industrial-style cafe (all in-image text in Chinese).\n\nStyle/medium: needs a raw industrial aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include exposed concrete walls, metal pipes/ductwork, vintage leather sofa, large windows, black-and-white photography pieces hung on the wall\nScene/backdrop: must include a cafe interior with large windows letting in natural light\nLighting/mood: needs a rough-yet-refined atmosphere with natural daylight streaming in — exact light source mix is yours\nColor palette: needs a direction of raw, muted industrial tones — exact palette and ratios are yours\nMaterials/textures: needs exposed concrete, bare metal, and aged leather surface treatments — exact grain and sheen are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ab7fa8a4-88f8-4a24-b29c-89f52c2e83a0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an interior design illustration of an industrial-style cafe (all in-image text in Chinese).\\n\\nStyle/medium: needs a raw industrial aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include exposed concrete walls, metal pipes/ductwork, vintage leather sofa, large windows, black-and-white photography pieces hung on the wall\\nScene/backdrop: must include a cafe interior with large windows letting in natural light\\nLighting/mood: needs a rough-yet-refined atmosphere with natural daylight streaming in — exact light source mix is yours\\nColor palette: needs a direction of raw, muted industrial tones — exact palette and ratios are yours\\nMaterials/textures: needs exposed concrete, bare metal, and aged leather surface treatments — exact grain and sheen are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14992
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 142,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:1-2]图一是我们的产品，保持图一的产品一致性，输出一张淘宝详情页。图一的配料有燕麦粉、黄豆粉、红豆粉、红枣粉、薏米粉、糙米粉、麦芽粉、山药粉、红米粉、黑豆粉、赤小豆粉、荞麦粉、黑米粉、玉米粉、鹰嘴豆粉、核桃粉、莲子粉、南瓜籽仁粉、百合粉、魔芋粉、绿豆粉、白扁豆粉、红藜麦粉、青稞粉、苦荞粉、菊花粉、重瓣红玫瑰花粉。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad63390ef-39fd-46ee-bed0-d41ce68e0a38/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:1-2]图一是我们的产品，保持图一的产品一致性，输出一张淘宝详情页。图一的配料有燕麦粉、黄豆粉、红豆粉、红枣粉、薏米粉、糙米粉、麦芽粉、山药粉、红米粉、黑豆粉、赤小豆粉、荞麦粉、黑米粉、玉米粉、鹰嘴豆粉、核桃粉、莲子粉、南瓜籽仁粉、百合粉、魔芋粉、绿豆粉、白扁豆粉、红藜麦粉、青稞粉、苦荞粉、菊花粉、重瓣红玫瑰花粉。\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3669,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,15 @@
+{
+  "query_idx": 304,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"[@image:#1:异环灌篮高手_封面_02]将这个图片设计为抖音使用的封面，有4:3、3:4、16:9、9:16共4张图片4个尺寸，主标题:异环，小标题:异环版灌篮高手.\\n1K分辨率。\", \"size\": \"1536x1152\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"[@image:#1:异环灌篮高手_封面_02]将这个图片设计为抖音使用的封面，有4:3、3:4、16:9、9:16共4张图片4个尺寸，主标题:异环，小标题:异环版灌篮高手.\\n1K分辨率。\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"[@image:#1:异环灌篮高手_封面_02]将这个图片设计为抖音使用的封面，有4:3、3:4、16:9、9:16共4张图片4个尺寸，主标题:异环，小标题:异环版灌篮高手.\\n1K分辨率。\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"[@image:#1:异环灌篮高手_封面_02]将这个图片设计为抖音使用的封面，有4:3、3:4、16:9、9:16共4张图片4个尺寸，主标题:异环，小标题:异环版灌篮高手.\\n1K分辨率。\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9897,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

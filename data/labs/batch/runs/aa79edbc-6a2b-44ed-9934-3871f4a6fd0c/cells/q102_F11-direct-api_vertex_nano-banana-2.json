@@ -1,0 +1,23 @@
+{
+  "query_idx": 102,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "作为一名顶级LOGO设计师，要求用y字母设计一个LOGO，简单大气有设计感，需要可以注册商标，用在激光雕刻和镶嵌上要高端好看",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2ee1c8c1-9526-438f-b31b-e248f6638505/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"作为一名顶级LOGO设计师，要求用y字母设计一个LOGO，简单大气有设计感，需要可以注册商标，用在激光雕刻和镶嵌上要高端好看\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2592,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

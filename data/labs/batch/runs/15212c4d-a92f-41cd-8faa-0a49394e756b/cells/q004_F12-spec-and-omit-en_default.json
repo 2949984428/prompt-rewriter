@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing presentation cover for a brand announcement.\n\nStyle/medium: \nComposition: \nSubject: Changan Qiyuan Q06 vehicle launch announcement\nScene/backdrop: translucent, impactful background\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 长安起源Q06将于9月上市\nConstraints: PPT cover format with main title and subtitle matching brand tone\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bd585b6f-e1f9-44a5-ac33-46d4560702e5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing presentation cover for a brand announcement.\\n\\nStyle/medium: \\nComposition: \\nSubject: Changan Qiyuan Q06 vehicle launch announcement\\nScene/backdrop: translucent, impactful background\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 长安起源Q06将于9月上市\\nConstraints: PPT cover format with main title and subtitle matching brand tone\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5700
+}

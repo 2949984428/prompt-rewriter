@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for cross-border e-commerce promotion with layered typography and product integration.\n\nStyle/medium: bold graphic design poster, layered typography art with depth and dimension, editorial layout inspired by modern advertising campaigns\nComposition: 16:9 horizontal format, dynamic layered text arrangement with overlapping type elements, product or subject partially obscuring text layers, balanced visual hierarchy\nSubject: promotional messaging with artistic display typography, stacked and layered letterforms creating depth, physical product or main subject intersecting with text\nScene/backdrop: clean but visually rich environment that supports the promotional theme without competing with typography\nLighting/mood: even studio lighting that highlights text layers and product, energetic promotional atmosphere\nColor palette: bold contrasting colors for text hierarchy, cohesive palette that unifies complex elements without chaos\nMaterials/textures: crisp vector typography with subtle dimensional effects, clean product surfaces, controlled texture variety\nConstraints: text must remain legible despite layering, product integration must feel intentional not accidental, complexity without visual clutter\nAvoid: unreadable text, random clutter without purpose, disconnected product placement, generic stock photo aesthetic, excessive drop shadows",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9df07922-540a-4fef-af18-f58cf5e60849/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for cross-border e-commerce promotion with layered typography and product integration.\\n\\nStyle/medium: bold graphic design poster, layered typography art with depth and dimension, editorial layout inspired by modern advertising campaigns\\nComposition: 16:9 horizontal format, dynamic layered text arrangement with overlapping type elements, product or subject partially obscuring text layers, balanced visual hierarchy\\nSubject: promotional messaging with artistic display typography, stacked and layered letterforms creating depth, physical product or main subject intersecting with text\\nScene/backdrop: clean but visually rich environment that supports the promotional theme without competing with typography\\nLighting/mood: even studio lighting that highlights text layers and product, energetic promotional atmosphere\\nColor palette: bold contrasting colors for text hierarchy, cohesive palette that unifies complex elements without chaos\\nMaterials/textures: crisp vector typography with subtle dimensional effects, clean product surfaces, controlled texture variety\\nConstraints: text must remain legible despite layering, product integration must feel intentional not accidental, complexity without visual clutter\\nAvoid: unreadable text, random clutter without purpose, disconnected product placement, generic stock photo aesthetic, excessive drop shadows\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12104
+}

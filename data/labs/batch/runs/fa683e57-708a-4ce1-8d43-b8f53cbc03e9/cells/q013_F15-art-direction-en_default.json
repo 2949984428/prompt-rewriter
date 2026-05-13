@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a tropical resort hotel pool scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a tropical resort aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include an infinity pool, lounge chairs with umbrellas, coconut trees\nScene/backdrop: must include the infinity pool overlooking the ocean, blue sky with white clouds\nLighting/mood: needs a bright, vacation-ready atmosphere — exact light source mix is yours\nColor palette: needs a highly saturated direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5da10ac9-a1f6-4aa1-b38a-0f76446985de/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a tropical resort hotel pool scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a tropical resort aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include an infinity pool, lounge chairs with umbrellas, coconut trees\\nScene/backdrop: must include the infinity pool overlooking the ocean, blue sky with white clouds\\nLighting/mood: needs a bright, vacation-ready atmosphere — exact light source mix is yours\\nColor palette: needs a highly saturated direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"auto\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11640
+}

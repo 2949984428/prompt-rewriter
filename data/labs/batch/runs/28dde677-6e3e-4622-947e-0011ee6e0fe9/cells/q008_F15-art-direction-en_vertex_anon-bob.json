@@ -1,0 +1,21 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign.\n\nStyle/medium: needs a visually rich, editorial-commercial aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include layered typography stacking with product/hero subject physically overlapping and occluding some letterforms\nSubject: must include a product or hero subject as the focal element that breaks through the type layers\nScene/backdrop: \nLighting/mood: needs a dynamic, attention-grabbing promotional atmosphere — exact light source mix is yours\nColor palette: needs a bold, high-impact direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include decorative art-lettering / display type as a primary graphic element (exact copy is yours); must include stacked typographic layers behind and around the subject\nConstraints: must preserve visual complexity without chaos — layered but structured; art lettering + stacked type + subject occlusion must all coexist in one coherent composition\nAvoid: cluttered or unreadable layouts; flat single-layer compositions",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab8c4a675-3ab0-4e92-bfcd-49de194db851/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign.\\n\\nStyle/medium: needs a visually rich, editorial-commercial aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include layered typography stacking with product/hero subject physically overlapping and occluding some letterforms\\nSubject: must include a product or hero subject as the focal element that breaks through the type layers\\nScene/backdrop: \\nLighting/mood: needs a dynamic, attention-grabbing promotional atmosphere — exact light source mix is yours\\nColor palette: needs a bold, high-impact direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include decorative art-lettering / display type as a primary graphic element (exact copy is yours); must include stacked typographic layers behind and around the subject\\nConstraints: must preserve visual complexity without chaos — layered but structured; art lettering + stacked type + subject occlusion must all coexist in one coherent composition\\nAvoid: cluttered or unreadable layouts; flat single-layer compositions\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9408
+}

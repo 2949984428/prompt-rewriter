@@ -1,0 +1,23 @@
+{
+  "query_idx": 252,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Make it 4:5 virtical for instagram ,dont change any thing",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7d9372cf-8947-48bf-80b7-aa619fd62d4a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Make it 4:5 virtical for instagram ,dont change any thing\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2706,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

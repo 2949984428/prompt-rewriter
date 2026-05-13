@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing brand identity style guide for \"染秋 (RAN QIU)\", a Chinese autumn fragrance brand.\n\nStyle/medium: brand identity style guide / color and typography specification sheet\nComposition: \nSubject: brand color palette (primary + secondary colors) and typography guidelines for \"染秋 (RAN QIU)\"\nScene/backdrop: clean presentation layout for brand guidelines\nLighting/mood: \nColor palette: warm autumn tones inspired by osmanthus, persimmon, maple leaves, amber\nMaterials/textures: \nText (verbatim): 染秋, RAN QIU, 桂花乌龙, 琥珀枫叶, 柿霜暮色\nConstraints: must show primary color, secondary colors, and font specifications clearly labeled\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f7b5413f-b876-4466-a6ba-168c61a11aec/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing brand identity style guide for \\\"染秋 (RAN QIU)\\\", a Chinese autumn fragrance brand.\\n\\nStyle/medium: brand identity style guide / color and typography specification sheet\\nComposition: \\nSubject: brand color palette (primary + secondary colors) and typography guidelines for \\\"染秋 (RAN QIU)\\\"\\nScene/backdrop: clean presentation layout for brand guidelines\\nLighting/mood: \\nColor palette: warm autumn tones inspired by osmanthus, persimmon, maple leaves, amber\\nMaterials/textures: \\nText (verbatim): 染秋, RAN QIU, 桂花乌龙, 琥珀枫叶, 柿霜暮色\\nConstraints: must show primary color, secondary colors, and font specifications clearly labeled\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7666
+}

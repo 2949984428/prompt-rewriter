@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational knowledge card for children explaining the story of 三国赤壁之战.\n\nStyle/medium: needs a \"儿童卡通画\" aesthetic — references in the spirit of 上海美术电影制片厂 classic animation heritage, 1980s Japanese children's book illustration (e.g., 安野光雅), contemporary Chinese picture-book editorial style; exact stylistic execution is yours\nComposition: must be single large knowledge card layout with clear title area, bullet-point sidebar for key facts, and main story illustration zone\nSubject: must include the story of 三国赤壁之战 with clear narrative progression\nScene/backdrop: must include cartoon-style story illustration depicting the battle scene\nLighting/mood: needs an engaging, child-friendly atmosphere — exact tone is yours\nColor palette: needs bright, child-appealing colors — exact palette is yours\nMaterials/textures: needs a friendly, approachable illustration texture — exact execution is yours\nText (verbatim): must include \"三国赤壁之战\" (clear title), key points listed with punctuation in sidebar\nConstraints: must be single card format, suitable for children, clear title placement, sidebar with bullet points\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/50ee3676-a6bf-43eb-85d2-97b68bac3c24/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an educational knowledge card for children explaining the story of 三国赤壁之战.\\n\\nStyle/medium: needs a \\\"儿童卡通画\\\" aesthetic — references in the spirit of 上海美术电影制片厂 classic animation heritage, 1980s Japanese children's book illustration (e.g., 安野光雅), contemporary Chinese picture-book editorial style; exact stylistic execution is yours\\nComposition: must be single large knowledge card layout with clear title area, bullet-point sidebar for key facts, and main story illustration zone\\nSubject: must include the story of 三国赤壁之战 with clear narrative progression\\nScene/backdrop: must include cartoon-style story illustration depicting the battle scene\\nLighting/mood: needs an engaging, child-friendly atmosphere — exact tone is yours\\nColor palette: needs bright, child-appealing colors — exact palette is yours\\nMaterials/textures: needs a friendly, approachable illustration texture — exact execution is yours\\nText (verbatim): must include \\\"三国赤壁之战\\\" (clear title), key points listed with punctuation in sidebar\\nConstraints: must be single card format, suitable for children, clear title placement, sidebar with bullet points\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11622
+}

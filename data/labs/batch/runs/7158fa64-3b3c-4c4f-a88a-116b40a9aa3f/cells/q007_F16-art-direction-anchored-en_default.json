@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a technical exploded-view diagram of a Sony A7 camera showing all internal and external components.\n\nStyle/medium: needs a \"technical exploded-view\" aesthetic — references in the spirit of 1980s Japanese electronics service manuals, Dieter Rams Braun product diagrams, 1960s NASA technical illustration; exact stylistic execution is yours\nComposition: must be exploded-view layout with all components separated and clearly arranged around the central body\nSubject: must include all Sony A7 camera components with their names labeled:\n  Body/chassis\n  Image sensor\n  Shutter mechanism\n  Mirror box (if applicable)\n  Lens mount\n  Viewfinder assembly\n  LCD screen\n  Main circuit board\n  Battery compartment\n  Memory card slot\n  Control dials\n  Buttons and switches\n  Grip\n  Hot shoe\n  Ports and connectors\nScene/backdrop: must be clean technical background suitable for diagram clarity\nLighting/mood: needs a clinical, precise technical illustration atmosphere — exact lighting treatment is yours\nColor palette: \nMaterials/textures: must include cutaway and cross-section details showing internal structure\nText (verbatim): must include all component names in Spanish as listed above\nConstraints: must preserve accurate Sony A7 camera anatomy, all components must be labeled with their technical names\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eca42e41-df41-4343-89b7-d3ee122e1298/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a technical exploded-view diagram of a Sony A7 camera showing all internal and external components.\\n\\nStyle/medium: needs a \\\"technical exploded-view\\\" aesthetic — references in the spirit of 1980s Japanese electronics service manuals, Dieter Rams Braun product diagrams, 1960s NASA technical illustration; exact stylistic execution is yours\\nComposition: must be exploded-view layout with all components separated and clearly arranged around the central body\\nSubject: must include all Sony A7 camera components with their names labeled:\\n  Body/chassis\\n  Image sensor\\n  Shutter mechanism\\n  Mirror box (if applicable)\\n  Lens mount\\n  Viewfinder assembly\\n  LCD screen\\n  Main circuit board\\n  Battery compartment\\n  Memory card slot\\n  Control dials\\n  Buttons and switches\\n  Grip\\n  Hot shoe\\n  Ports and connectors\\nScene/backdrop: must be clean technical background suitable for diagram clarity\\nLighting/mood: needs a clinical, precise technical illustration atmosphere — exact lighting treatment is yours\\nColor palette: \\nMaterials/textures: must include cutaway and cross-section details showing internal structure\\nText (verbatim): must include all component names in Spanish as listed above\\nConstraints: must preserve accurate Sony A7 camera anatomy, all components must be labeled with their technical names\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15796
+}

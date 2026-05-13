@@ -13,6 +13,7 @@ import {
   patchCell,
   patchRecord,
   readRun,
+  readRunRawText,
 } from "@/lib/batch-store";
 
 export const runtime = "nodejs";
@@ -41,11 +42,16 @@ export async function GET(
   { params }: { params: Promise<{ id: string }> }
 ) {
   const { id } = await params;
-  const r = await readRun(id);
-  if (!r) {
+  // GET 直接返磁盘 JSON 文本,跳过 Zod 校验 + 跳过 obj→stringify 二次序列化。
+  // 3MB+ pipeline-test record 走全量 Zod parse + NextResponse.json 在 dev mode 慢到 30s,
+  // 前端只读不需要 server 端校验/序列化。
+  const text = await readRunRawText(id);
+  if (text === null) {
     return NextResponse.json({ error: "not found" }, { status: 404 });
   }
-  return NextResponse.json(r);
+  return new Response(text, {
+    headers: { "Content-Type": "application/json; charset=utf-8" },
+  });
 }
 
 export async function PATCH(

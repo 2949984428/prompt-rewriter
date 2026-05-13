@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic explaining the relationships between AI-related technical concepts.\n\nStyle/medium: hand-drawn illustration style, sketch-like diagrams with casual marker strokes, friendly educational infographic aesthetic reminiscent of whiteboard explanations\nComposition: flowchart layout with interconnected nodes, top-down hierarchical arrangement showing concept relationships, clear visual pathways connecting related terms\nSubject: six technical concepts (AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI) arranged as interconnected nodes with simple icons and connecting arrows\nScene/backdrop: clean off-white paper texture background, minimal distractions, focus on diagram clarity\nColor palette: warm muted tones with one accent color per concept category, hand-drawn marker aesthetic with slight color bleed\nText (verbatim): \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must be readable at small sizes; text must remain legible; relationships between concepts must be visually clear through connecting lines\nAvoid: photorealistic rendering; complex 3D effects; cluttered layouts; tiny unreadable text; corporate stock infographic style; gradients without purpose",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c9f64b4d-462e-46dd-bb08-3d668744f5db/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing infographic explaining the relationships between AI-related technical concepts.\\n\\nStyle/medium: hand-drawn illustration style, sketch-like diagrams with casual marker strokes, friendly educational infographic aesthetic reminiscent of whiteboard explanations\\nComposition: flowchart layout with interconnected nodes, top-down hierarchical arrangement showing concept relationships, clear visual pathways connecting related terms\\nSubject: six technical concepts (AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI) arranged as interconnected nodes with simple icons and connecting arrows\\nScene/backdrop: clean off-white paper texture background, minimal distractions, focus on diagram clarity\\nColor palette: warm muted tones with one accent color per concept category, hand-drawn marker aesthetic with slight color bleed\\nText (verbatim): \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must be readable at small sizes; text must remain legible; relationships between concepts must be visually clear through connecting lines\\nAvoid: photorealistic rendering; complex 3D effects; cluttered layouts; tiny unreadable text; corporate stock infographic style; gradients without purpose\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10206
+}

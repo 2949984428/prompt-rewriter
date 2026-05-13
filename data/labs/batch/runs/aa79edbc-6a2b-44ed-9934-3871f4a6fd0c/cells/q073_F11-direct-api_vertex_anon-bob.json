@@ -1,0 +1,23 @@
+{
+  "query_idx": 73,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:IMG_8309] 基于这个logo生成一套品牌VI视觉手册,包含品牌标准字、标准色、标准质图、logo物料延展,品牌风格为葡萄酒品牌,优雅大方。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3974b8c4-37d9-4c41-b68b-e3930b94b530/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:IMG_8309] 基于这个logo生成一套品牌VI视觉手册,包含品牌标准字、标准色、标准质图、logo物料延展,品牌风格为葡萄酒品牌,优雅大方。\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3130,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

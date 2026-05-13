@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a Japanese school campus during cherry blossom season with a sailor-uniformed girl in front of the school building.\n\nStyle/medium: Japanese youth photography, fresh and airy aesthetic inspired by Japanese school dramas and spring editorials\nComposition: medium shot at eye level, 50mm lens, subject positioned slightly off-center with school building as backdrop, gentle depth of field\nSubject: teenage girl in traditional Japanese sailor uniform (seifuku), hair gently blown by breeze, relaxed posture facing camera with soft smile\nScene/backdrop: Japanese school campus with traditional school building facade, cherry blossom trees in full bloom, petals falling through the air, clear spring day\nLighting/mood: bright natural sunlight from high angle, soft diffused quality, warm and uplifting atmosphere conveying youth and freshness\nColor palette: soft pink cherry blossoms as dominant accent, warm skin tones, muted blue-grey school building, fresh green foliage, bright sky blue\nMaterials/textures: delicate cherry blossom petals with translucent quality, crisp cotton uniform fabric, natural hair strands catching light\nAvoid: over-saturated colors, plastic skin texture, cluttered composition, artificial poses, watermark, 8K stuffer terms",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d390890a-2e66-42ad-ae8e-b30f2e082b4b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a Japanese school campus during cherry blossom season with a sailor-uniformed girl in front of the school building.\\n\\nStyle/medium: Japanese youth photography, fresh and airy aesthetic inspired by Japanese school dramas and spring editorials\\nComposition: medium shot at eye level, 50mm lens, subject positioned slightly off-center with school building as backdrop, gentle depth of field\\nSubject: teenage girl in traditional Japanese sailor uniform (seifuku), hair gently blown by breeze, relaxed posture facing camera with soft smile\\nScene/backdrop: Japanese school campus with traditional school building facade, cherry blossom trees in full bloom, petals falling through the air, clear spring day\\nLighting/mood: bright natural sunlight from high angle, soft diffused quality, warm and uplifting atmosphere conveying youth and freshness\\nColor palette: soft pink cherry blossoms as dominant accent, warm skin tones, muted blue-grey school building, fresh green foliage, bright sky blue\\nMaterials/textures: delicate cherry blossom petals with translucent quality, crisp cotton uniform fabric, natural hair strands catching light\\nAvoid: over-saturated colors, plastic skin texture, cluttered composition, artificial poses, watermark, 8K stuffer terms\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10323
+}

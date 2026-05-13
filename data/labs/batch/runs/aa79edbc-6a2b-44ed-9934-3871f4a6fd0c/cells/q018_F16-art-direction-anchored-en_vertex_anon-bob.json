@@ -1,0 +1,23 @@
+{
+  "query_idx": 18,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张甜品蛋糕店插画。\n\n风格/媒介:手绘风，童趣可爱\n构图:\n主体:甜品蛋糕店，融入小狗元素\n场景/背景:\n光线/氛围:温馨可爱\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af6f88d3e-7d74-440f-8e25-4efbb2481968/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张甜品蛋糕店插画。\\n\\n风格/媒介:手绘风，童趣可爱\\n构图:\\n主体:甜品蛋糕店，融入小狗元素\\n场景/背景:\\n光线/氛围:温馨可爱\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4319,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

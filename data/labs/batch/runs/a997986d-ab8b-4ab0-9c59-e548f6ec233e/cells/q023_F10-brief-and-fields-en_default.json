@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a premium organic matcha product line packaging mockup for four products arranged on a light wood surface.\n\nStyle/medium: commercial product photography blended with design visualization, editorial packaging mockup, Japanese minimalism meets contemporary design\nComposition: top-down flat lay arrangement of four products in a grid, 50mm lens, sharp focus across all packaging, generous negative space\nSubject: four matcha products (matcha powder tin, matcha chocolate box, matcha cookie tin, matcha tea bag box) with hand-drawn matcha plantation illustrations, serif and handwritten typography in Chinese/English/Japanese\nScene/backdrop: light wood tabletop surface, fresh tea leaves and matcha powder scattered as decorative accents\nLighting/mood: soft diffused natural daylight from upper left, clean and airy, premium gift-market atmosphere\nColor palette: layered matcha greens as dominant, warm off-white as base, gold foil details as accent\nMaterials/textures: matte paper stock with subtle Japanese traditional pattern underprint, elegant line illustrations\nText (verbatim): \"食品包装设计效果图\" \"抹茶粉\" \"抹茶巧克力\" \"抹茶饼干\" \"抹茶茶包\"\nConstraints: all four products must be visible and equally weighted; packaging surfaces must show texture detail; multilingual typography must be legible\nAvoid: plastic sheen, oversaturated colors, generic stock photo aesthetic, cluttered composition, 8K stuffer language",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/176084e8-47a9-49c4-b234-d886d3a1dddc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design a premium organic matcha product line packaging mockup for four products arranged on a light wood surface.\\n\\nStyle/medium: commercial product photography blended with design visualization, editorial packaging mockup, Japanese minimalism meets contemporary design\\nComposition: top-down flat lay arrangement of four products in a grid, 50mm lens, sharp focus across all packaging, generous negative space\\nSubject: four matcha products (matcha powder tin, matcha chocolate box, matcha cookie tin, matcha tea bag box) with hand-drawn matcha plantation illustrations, serif and handwritten typography in Chinese/English/Japanese\\nScene/backdrop: light wood tabletop surface, fresh tea leaves and matcha powder scattered as decorative accents\\nLighting/mood: soft diffused natural daylight from upper left, clean and airy, premium gift-market atmosphere\\nColor palette: layered matcha greens as dominant, warm off-white as base, gold foil details as accent\\nMaterials/textures: matte paper stock with subtle Japanese traditional pattern underprint, elegant line illustrations\\nText (verbatim): \\\"食品包装设计效果图\\\" \\\"抹茶粉\\\" \\\"抹茶巧克力\\\" \\\"抹茶饼干\\\" \\\"抹茶茶包\\\"\\nConstraints: all four products must be visible and equally weighted; packaging surfaces must show texture detail; multilingual typography must be legible\\nAvoid: plastic sheen, oversaturated colors, generic stock photo aesthetic, cluttered composition, 8K stuffer language\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11968
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 115,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:第一张 灰色30004] 换个背景，电商主图，ULOP宝宝餐椅双模式展示，保持产品配色、造型、结构、细节、角度不变，左侧餐椅为躺卧模式，一位德国宝宝安静安睡，右侧餐椅为就餐模式，一位德国小女孩乖巧就坐，极简北欧风客厅背景，柔和自然光，高清商业摄影，8K质感，构图稳定，突出产品坐躺两用、多功能的核心卖点，画面温馨治愈，适合淘宝京东电商主图",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acf9f91d8-5780-4c09-a445-50476bb860e3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:第一张 灰色30004] 换个背景，电商主图，ULOP宝宝餐椅双模式展示，保持产品配色、造型、结构、细节、角度不变，左侧餐椅为躺卧模式，一位德国宝宝安静安睡，右侧餐椅为就餐模式，一位德国小女孩乖巧就坐，极简北欧风客厅背景，柔和自然光，高清商业摄影，8K质感，构图稳定，突出产品坐躺两用、多功能的核心卖点，画面温馨治愈，适合淘宝京东电商主图\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3659,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

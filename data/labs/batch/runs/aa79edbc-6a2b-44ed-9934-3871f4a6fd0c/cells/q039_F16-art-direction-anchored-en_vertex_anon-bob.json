@@ -1,0 +1,23 @@
+{
+  "query_idx": 39,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计品牌 logo —— 以中国道家图案\"卍\"为主体，搭配英文品牌名。\n\n风格/媒介: 极简大气，富有灵性，logo 设计\n构图: 以\"卍\"图案为视觉中心，英文文字置于图案下方或周围，整体留白充足\n主体: 道家图案\"卍\"\n场景/背景: 纯净背景，突出 logo 本身\n光线/氛围: 灵性、静谧\n色彩方案:\n材质/纹理:\n文字(原样): SYLVALŪNE\n约束: 文字须完整呈现\"SYLVALŪNE\"，字母及变音符号不可缺失\n避免: 繁复装饰、杂乱元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A71f34cee-f76b-4149-a0d1-2e9bd8e54315/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计品牌 logo —— 以中国道家图案\\\"卍\\\"为主体，搭配英文品牌名。\\n\\n风格/媒介: 极简大气，富有灵性，logo 设计\\n构图: 以\\\"卍\\\"图案为视觉中心，英文文字置于图案下方或周围，整体留白充足\\n主体: 道家图案\\\"卍\\\"\\n场景/背景: 纯净背景，突出 logo 本身\\n光线/氛围: 灵性、静谧\\n色彩方案:\\n材质/纹理:\\n文字(原样): SYLVALŪNE\\n约束: 文字须完整呈现\\\"SYLVALŪNE\\\"，字母及变音符号不可缺失\\n避免: 繁复装饰、杂乱元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10612,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

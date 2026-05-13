@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 9:16 vertical screenshot of a Douyin livestream featuring \"神仙姐姐\" holding a sign, for short-form video platform sharing.\n\nStyle/medium: Douyin livestream UI mockup with the saturated rhythmic energy of platform-native content\nComposition: vertical 9:16 frame, livestream interface with comment feed on the right, gift animations floating, streamer centered holding sign at chest level\nSubject: \"神仙姐姐\" (刘亦菲-style ethereal beauty) holding a rectangular sign with both hands, gentle smile, soft eye contact with camera\nScene/backdrop: warm indoor streaming room with soft bokeh lights, cozy aesthetic typical of Douyin beauty/lifestyle streamers\nLighting/mood: the warm honey glow of ring lights creating soft skin tones, intimate and welcoming atmosphere\nColor palette: warm peach and rose tones with Douyin interface blues and gold gift icons\nMaterials/textures: soft fabric clothing, glossy sign surface with printed text\nText (verbatim): 今晚直播，欢迎来参亦菲畅聊！\nConstraints: 9:16 vertical ratio, Douyin UI elements visible (viewer count, comment section, gift buttons), sign clearly readable\nAvoid: Western streaming platform UI, harsh lighting, cluttered background, illegible text on sign",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c74553eb-f453-4700-979d-20b8654717fe/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a 9:16 vertical screenshot of a Douyin livestream featuring \\\"神仙姐姐\\\" holding a sign, for short-form video platform sharing.\\n\\nStyle/medium: Douyin livestream UI mockup with the saturated rhythmic energy of platform-native content\\nComposition: vertical 9:16 frame, livestream interface with comment feed on the right, gift animations floating, streamer centered holding sign at chest level\\nSubject: \\\"神仙姐姐\\\" (刘亦菲-style ethereal beauty) holding a rectangular sign with both hands, gentle smile, soft eye contact with camera\\nScene/backdrop: warm indoor streaming room with soft bokeh lights, cozy aesthetic typical of Douyin beauty/lifestyle streamers\\nLighting/mood: the warm honey glow of ring lights creating soft skin tones, intimate and welcoming atmosphere\\nColor palette: warm peach and rose tones with Douyin interface blues and gold gift icons\\nMaterials/textures: soft fabric clothing, glossy sign surface with printed text\\nText (verbatim): 今晚直播，欢迎来参亦菲畅聊！\\nConstraints: 9:16 vertical ratio, Douyin UI elements visible (viewer count, comment section, gift buttons), sign clearly readable\\nAvoid: Western streaming platform UI, harsh lighting, cluttered background, illegible text on sign\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10814
+}

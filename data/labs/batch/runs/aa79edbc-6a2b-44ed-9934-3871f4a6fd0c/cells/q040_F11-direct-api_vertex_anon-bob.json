@@ -1,0 +1,23 @@
+{
+  "query_idx": 40,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:800] 帮我仿照形式，体现泉城和泉水的元素，做一个logo，文字是第一行是“济南广播电视台”，第二行是“社区广播运营中心”",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7cf0a3ee-fd0e-4f20-b9b2-a3acb91b6c9b/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:800] 帮我仿照形式，体现泉城和泉水的元素，做一个logo，文字是第一行是\\\"济南广播电视台\\\"，第二行是\\\"社区广播运营中心\\\"\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4801,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

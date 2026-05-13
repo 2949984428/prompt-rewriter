@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for 绿联私有云 brand 618 anniversary sale e-commerce campaign.\n\nStyle/medium: clean digital illustration with bold graphic design, flat vector elements mixed with soft gradient accents, inspired by modern Chinese e-commerce visual language (JD / Tmall flagship store aesthetic)\nComposition: vertical portrait layout, centered hero zone with large bold headline at top, product/brand visual in mid-section, CTA banner at bottom, generous breathing room between zones\nSubject: 绿联私有云 brand identity as focal point — private cloud storage device rendered in sleek metallic finish, surrounded by celebratory 618 anniversary graphic elements (burst rays, ribbon accents, floating discount badges)\nScene/backdrop: deep tech-blue to vibrant green gradient background evoking digital cloud space, subtle circuit-line texture at low opacity\nLighting/mood: bright front-lit product highlight, festive and energetic mood, confident tech-brand authority\nColor palette: 绿联 signature green as dominant brand anchor, electric blue as supporting tech tone, gold/yellow as celebration accent for 618 numerals, white for text legibility\nText (verbatim): \"绿联私有云\" \"618\" \"周年庆\"\nConstraints: text must be legible at thumbnail size (300×400 px preview); hierarchy — brand name largest, \"618\" second, tagline third; poster must read as a single coherent composition without visual clutter\nAvoid: generic stock-photo collage style, overly busy confetti explosion, mismatched font weights, drop-shadow spam, watermark, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/104c4a10-036c-49c6-a0e3-7af90bd2ea19/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster for 绿联私有云 brand 618 anniversary sale e-commerce campaign.\\n\\nStyle/medium: clean digital illustration with bold graphic design, flat vector elements mixed with soft gradient accents, inspired by modern Chinese e-commerce visual language (JD / Tmall flagship store aesthetic)\\nComposition: vertical portrait layout, centered hero zone with large bold headline at top, product/brand visual in mid-section, CTA banner at bottom, generous breathing room between zones\\nSubject: 绿联私有云 brand identity as focal point — private cloud storage device rendered in sleek metallic finish, surrounded by celebratory 618 anniversary graphic elements (burst rays, ribbon accents, floating discount badges)\\nScene/backdrop: deep tech-blue to vibrant green gradient background evoking digital cloud space, subtle circuit-line texture at low opacity\\nLighting/mood: bright front-lit product highlight, festive and energetic mood, confident tech-brand authority\\nColor palette: 绿联 signature green as dominant brand anchor, electric blue as supporting tech tone, gold/yellow as celebration accent for 618 numerals, white for text legibility\\nText (verbatim): \\\"绿联私有云\\\" \\\"618\\\" \\\"周年庆\\\"\\nConstraints: text must be legible at thumbnail size (300×400 px preview); hierarchy — brand name largest, \\\"618\\\" second, tagline third; poster must read as a single coherent composition without visual clutter\\nAvoid: generic stock-photo collage style, overly busy confetti explosion, mismatched font weights, drop-shadow spam, watermark, 8K stuffer aesthetic\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 20913
+}

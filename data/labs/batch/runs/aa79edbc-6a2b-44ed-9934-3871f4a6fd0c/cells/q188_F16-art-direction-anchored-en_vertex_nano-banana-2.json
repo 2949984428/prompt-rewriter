@@ -1,0 +1,23 @@
+{
+  "query_idx": 188,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a TikTok-style product detail page image for an overseas e-commerce listing.\n\nStyle/medium: clean e-commerce product showcase, flat-lay and lifestyle hybrid, crisp and elegant presentation\nComposition:\n  hero product centered — foldable prayer mat unfolded to show classic pattern\n  green tassel prayer beads arranged alongside\n  silk storage pouch placed nearby, slightly open to hint at contents\n  layout feels gift-ready and premium, with clear visual hierarchy\nSubject:\n  high-quality foldable prayer mat with classic woven pattern, soft texture visible\n  matching green tassel misbaha / prayer beads\n  elegant silk storage pouch for the full set\n  the entire set in a stunning, consistent green color palette\nScene/backdrop: minimal clean background that lets the green set stand out, subtle soft surface\nLighting/mood: soft, even lighting; warm and inviting; conveys luxury gift feel for Ramadan / Eid celebration\nColor palette: rich green as dominant color throughout the set, accents of gold or ivory if present on the mat pattern\nMaterials/textures: soft foldable fabric mat, silky pouch material, tassel beads\nText (verbatim):\n  \"Premium Foldable Prayer Mat Set\"\n  \"Classic Pattern · Ultra Soft · Portable\"\n  \"Includes: Prayer Mat + Tassel Prayer Beads + Silk Storage Pouch\"\n  \"Perfect Ramadan & Eid Gift for Your Loved Ones\"\n  \"Elegant Green Set — A Thoughtful Gesture They'll Treasure\"\nConstraints:\n  all text must be in accurate English\n  product features must be clearly communicated to drive purchase intent\n  reference the three provided product photos for accurate color, pattern, and item details\nAvoid: cluttered layout, inaccurate colors, missing product components, generic stock-photo feel",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab90c8ef6-2ba8-4fe3-9ca5-50a777c5c3e6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate a TikTok-style product detail page image for an overseas e-commerce listing.\\n\\nStyle/medium: clean e-commerce product showcase, flat-lay and lifestyle hybrid, crisp and elegant presentation\\nComposition:\\n  hero product centered — foldable prayer mat unfolded to show classic pattern\\n  green tassel prayer beads arranged alongside\\n  silk storage pouch placed nearby, slightly open to hint at contents\\n  layout feels gift-ready and premium, with clear visual hierarchy\\nSubject:\\n  high-quality foldable prayer mat with classic woven pattern, soft texture visible\\n  matching green tassel misbaha / prayer beads\\n  elegant silk storage pouch for the full set\\n  the entire set in a stunning, consistent green color palette\\nScene/backdrop: minimal clean background that lets the green set stand out, subtle soft surface\\nLighting/mood: soft, even lighting; warm and inviting; conveys luxury gift feel for Ramadan / Eid celebration\\nColor palette: rich green as dominant color throughout the set, accents of gold or ivory if present on the mat pattern\\nMaterials/textures: soft foldable fabric mat, silky pouch material, tassel beads\\nText (verbatim):\\n  \\\"Premium Foldable Prayer Mat Set\\\"\\n  \\\"Classic Pattern · Ultra Soft · Portable\\\"\\n  \\\"Includes: Prayer Mat + Tassel Prayer Beads + Silk Storage Pouch\\\"\\n  \\\"Perfect Ramadan & Eid Gift for Your Loved Ones\\\"\\n  \\\"Elegant Green Set — A Thoughtful Gesture They'll Treasure\\\"\\nConstraints:\\n  all text must be in accurate English\\n  product features must be clearly communicated to drive purchase intent\\n  reference the three provided product photos for accurate color, pattern, and item details\\nAvoid: cluttered layout, inaccurate colors, missing product components, generic stock-photo feel\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15034,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

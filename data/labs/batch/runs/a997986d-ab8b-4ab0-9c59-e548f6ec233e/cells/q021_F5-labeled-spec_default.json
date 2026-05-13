@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial photo, magazine cover\nPrimary request: ultra-wide-angle Antarctic landscape with Emperor penguin colony marching on sea ice\nScene/backdrop: Ross Ice Shelf, Antarctica, massive blue glacier with deep crevasses, distant icebergs floating on calm polar sea\nSubject: hundreds of Emperor penguins in formation on ice, foreground close-up showing black-and-white plumage with orange-yellow beak details, chicks huddling at parents' feet\nStyle/medium: National Geographic documentary photography, realistic color reproduction\nComposition/framing: ultra-wide-angle, low horizon line, expansive glacier dominating upper frame, penguin procession leading eye through scene\nLighting/mood: midnight sun low on horizon, ethereal pale golden polar sky, surreal blue ice glowing from within crevasses, warm-cool color interplay, majestic yet fragile atmosphere\nColor palette: deep sapphire to pale blue ice, warm golden sky, black-and-white penguin feathers with orange beak accents\nMaterials/textures: crystalline ice with visible strata and cracks, dense waterproof penguin feathers, smooth sea ice surface\nConstraints: maintain realistic scale of penguin colony, preserve the ethereal midnight sun lighting characteristic of polar summer\nAvoid: oversaturated colors, artificial HDR effects, cartoonish penguin proportions, lens flare artifacts, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/282923d1-17d5-40cd-b481-583ae2d620f6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial photo, magazine cover\\nPrimary request: ultra-wide-angle Antarctic landscape with Emperor penguin colony marching on sea ice\\nScene/backdrop: Ross Ice Shelf, Antarctica, massive blue glacier with deep crevasses, distant icebergs floating on calm polar sea\\nSubject: hundreds of Emperor penguins in formation on ice, foreground close-up showing black-and-white plumage with orange-yellow beak details, chicks huddling at parents' feet\\nStyle/medium: National Geographic documentary photography, realistic color reproduction\\nComposition/framing: ultra-wide-angle, low horizon line, expansive glacier dominating upper frame, penguin procession leading eye through scene\\nLighting/mood: midnight sun low on horizon, ethereal pale golden polar sky, surreal blue ice glowing from within crevasses, warm-cool color interplay, majestic yet fragile atmosphere\\nColor palette: deep sapphire to pale blue ice, warm golden sky, black-and-white penguin feathers with orange beak accents\\nMaterials/textures: crystalline ice with visible strata and cracks, dense waterproof penguin feathers, smooth sea ice surface\\nConstraints: maintain realistic scale of penguin colony, preserve the ethereal midnight sun lighting characteristic of polar summer\\nAvoid: oversaturated colors, artificial HDR effects, cartoonish penguin proportions, lens flare artifacts, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12295
+}

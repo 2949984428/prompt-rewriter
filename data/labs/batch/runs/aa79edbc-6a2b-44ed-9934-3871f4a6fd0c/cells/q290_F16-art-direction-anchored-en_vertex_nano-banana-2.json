@@ -1,0 +1,23 @@
+{
+  "query_idx": 290,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a match day Instagram post announcing a player in the starting lineup.\n\nStyle/medium: Instagram post, bold graphic design\nComposition: dramatic layout with bold typography, match details prominently displayed\nSubject: Matheus announced in the starting lineup\nScene/backdrop:\nLighting/mood: dramatic lighting\nColor palette:\nMaterials/textures:\nText (verbatim): Matheus\nConstraints: square format suitable for Instagram post, include match details\nAvoid:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2a90997e-b883-4c52-8189-f49f6f44c582/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a match day Instagram post announcing a player in the starting lineup.\\n\\nStyle/medium: Instagram post, bold graphic design\\nComposition: dramatic layout with bold typography, match details prominently displayed\\nSubject: Matheus announced in the starting lineup\\nScene/backdrop:\\nLighting/mood: dramatic lighting\\nColor palette:\\nMaterials/textures:\\nText (verbatim): Matheus\\nConstraints: square format suitable for Instagram post, include match details\\nAvoid:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5365,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

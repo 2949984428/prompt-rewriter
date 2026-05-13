@@ -1,0 +1,23 @@
+{
+  "query_idx": 257,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Xiaohongshu (Little Red Book) advertising poster style, monochromatic vibrant green background (Nova Green), collage-style graphic layout with hand-drawn bold white Chinese headline '夏日出镜绿' (Summer Outfit in Green), scattered English slogans including 'COLOUR MONOGRAM', 'BRAVE!', 'PHOTOGRAPH TAKE A PHOTO', and irregular green sticker labels with white outline cutout silhouettes; central subject is a real photographed East Asian female model, medium-length straight brown hair, natural makeup, silver choker necklace, wearing black sleeveless dress with white geometric monogram pattern, bright green long gloves on both hands—right hand holding up a green Huawei nova 11 smartphone (back visible: dual-camera module and 'nova' logo), left hand on hip; studio-lit commercial fashion photography with photorealistic skin texture, direct gaze toward camera; top features Xiaohongshu red logo and '时髦好物编辑部' (Trendy Goods Editorial Dept) black-box icon; top-right has '跳过' (Skip) UI button; bottom displays interactive prompt '向上滑动 解锁时尚风向' (Swipe Up to Unlock Fashion Trends) and Xiaohongshu brand footer; vertical mobile-screen ad format with integrated UI elements.",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A052ab79e-cb89-41ed-b35e-f44983e1714a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Xiaohongshu (Little Red Book) advertising poster style, monochromatic vibrant green background (Nova Green), collage-style graphic layout with hand-drawn bold white Chinese headline '夏日出镜绿' (Summer Outfit in Green), scattered English slogans including 'COLOUR MONOGRAM', 'BRAVE!', 'PHOTOGRAPH TAKE A PHOTO', and irregular green sticker labels with white outline cutout silhouettes; central subject is a real photographed East Asian female model, medium-length straight brown hair, natural makeup, silver choker necklace, wearing black sleeveless dress with white geometric monogram pattern, bright green long gloves on both hands—right hand holding up a green Huawei nova 11 smartphone (back visible: dual-camera module and 'nova' logo), left hand on hip; studio-lit commercial fashion photography with photorealistic skin texture, direct gaze toward camera; top features Xiaohongshu red logo and '时髦好物编辑部' (Trendy Goods Editorial Dept) black-box icon; top-right has '跳过' (Skip) UI button; bottom displays interactive prompt '向上滑动 解锁时尚风向' (Swipe Up to Unlock Fashion Trends) and Xiaohongshu brand footer; vertical mobile-screen ad format with integrated UI elements.\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5016,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

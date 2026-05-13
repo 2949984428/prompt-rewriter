@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: fashion-editorial\nAsset type: haute couture lookbook, full-length hero shot\nPrimary request: conceptual couture gown inspired by deep-sea bioluminescent creatures, floor-length evening dress with ethereal underwater aesthetic\nScene/backdrop: pure black studio void, professional multi-angle stage lighting\nSubject: haute couture gown with cascading multi-layer semi-transparent organza skirt printed with jellyfish tentacle patterns, corset bodice with 3D embroidery mimicking coral reef texture, Swarovski crystals in blue green and purple tones\nStyle/medium: fashion illustration meets photography composite, luxury editorial campaign style\nComposition/framing: full-length standing pose, symmetrical frontal view, showcasing the dramatic train and silhouette\nLighting/mood: multi-directional professional stage lighting creating luminous glow on translucent fabrics, mysterious ethereal atmosphere\nColor palette: deep ocean blue, fluorescent violet, coral orange, bioluminescent accents\nMaterials/textures: semi-transparent organza layers, 3D embroidered coral texture, crystal embellishments, flowing translucent fabric movement\nConstraints: preserve the bioluminescent glow effect on organza, maintain haute couture craftsmanship details, keep pure black background\nAvoid: cheap fabric appearance, flat lighting, cluttered background, cartoonish illustration style, deformed garment proportions",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1ada19cc-5b20-48fe-86df-9ce97cccade7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: fashion-editorial\\nAsset type: haute couture lookbook, full-length hero shot\\nPrimary request: conceptual couture gown inspired by deep-sea bioluminescent creatures, floor-length evening dress with ethereal underwater aesthetic\\nScene/backdrop: pure black studio void, professional multi-angle stage lighting\\nSubject: haute couture gown with cascading multi-layer semi-transparent organza skirt printed with jellyfish tentacle patterns, corset bodice with 3D embroidery mimicking coral reef texture, Swarovski crystals in blue green and purple tones\\nStyle/medium: fashion illustration meets photography composite, luxury editorial campaign style\\nComposition/framing: full-length standing pose, symmetrical frontal view, showcasing the dramatic train and silhouette\\nLighting/mood: multi-directional professional stage lighting creating luminous glow on translucent fabrics, mysterious ethereal atmosphere\\nColor palette: deep ocean blue, fluorescent violet, coral orange, bioluminescent accents\\nMaterials/textures: semi-transparent organza layers, 3D embroidered coral texture, crystal embellishments, flowing translucent fabric movement\\nConstraints: preserve the bioluminescent glow effect on organza, maintain haute couture craftsmanship details, keep pure black background\\nAvoid: cheap fabric appearance, flat lighting, cluttered background, cartoonish illustration style, deformed garment proportions\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11149
+}

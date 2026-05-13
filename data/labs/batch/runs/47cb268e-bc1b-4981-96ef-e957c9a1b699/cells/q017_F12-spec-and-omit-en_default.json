@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing tri-fold travel brochure design for a 4-day 3-night Hangzhou tourism itinerary, floating above cardstock.\n\nStyle/medium: tri-fold brochure illustration with real Hangzhou map as background, landmark icons, floating on cardstock\nComposition: three-panel fold layout, famous scenic spots marked with characteristic landmark illustrations on each panel, bird's-eye map view as main visual thread\nSubject: Hangzhou 4-day 3-night travel itinerary brochure — Day 1: West Lake Classic (断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺); Day 2: Zen Hangzhou (灵隐寺→飞来峰造像→法喜寺→宋城); Day 3: 九溪烟树 hiking (九溪十八涧→龙井村→十里琅珰→云栖竹径); Day 4: Option A 运河文艺线 (拱宸桥→桥西历史街区→小河直街→大兜路香积寺) / Option B 西溪湿地 (周家村→深潭口→氦气球)\nScene/backdrop: authentic Hangzhou city map as background, scenic spots include 断桥、雷峰塔、灵隐寺、飞来峰、宋城、九溪、龙井村、西溪湿地、拱宸桥 with characteristic landmark icons floating above the map\nLighting/mood: \nColor palette: \nMaterials/textures: cardstock paper texture, brochure printed on coated paper, physical tri-fold floating above cardstock surface\nText (verbatim): 断桥残雪, 白堤, 孤山, 曲院风荷, 苏堤春晓, 花港观鱼, 雷峰塔, 柳浪闻莺, 灵隐寺, 飞来峰造像, 法喜寺, 宋城, 九溪十八涧, 龙井村, 十里琅珰, 云栖竹径, 拱宸桥, 桥西历史街区, 小河直街, 大兜路香积寺, 西溪湿地, 深潭口, 杭州4天3晚旅游攻略\nConstraints: brochure must appear as a physical tri-fold object floating above cardstock; real Hangzhou geographic map layout as the main visual backbone; each famous scenic spot must have a recognizable landmark icon or illustration on the brochure panels\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ec8a1d3a-d020-421c-b6db-0c8c1e37f44a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing tri-fold travel brochure design for a 4-day 3-night Hangzhou tourism itinerary, floating above cardstock.\\n\\nStyle/medium: tri-fold brochure illustration with real Hangzhou map as background, landmark icons, floating on cardstock\\nComposition: three-panel fold layout, famous scenic spots marked with characteristic landmark illustrations on each panel, bird's-eye map view as main visual thread\\nSubject: Hangzhou 4-day 3-night travel itinerary brochure — Day 1: West Lake Classic (断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺); Day 2: Zen Hangzhou (灵隐寺→飞来峰造像→法喜寺→宋城); Day 3: 九溪烟树 hiking (九溪十八涧→龙井村→十里琅珰→云栖竹径); Day 4: Option A 运河文艺线 (拱宸桥→桥西历史街区→小河直街→大兜路香积寺) / Option B 西溪湿地 (周家村→深潭口→氦气球)\\nScene/backdrop: authentic Hangzhou city map as background, scenic spots include 断桥、雷峰塔、灵隐寺、飞来峰、宋城、九溪、龙井村、西溪湿地、拱宸桥 with characteristic landmark icons floating above the map\\nLighting/mood: \\nColor palette: \\nMaterials/textures: cardstock paper texture, brochure printed on coated paper, physical tri-fold floating above cardstock surface\\nText (verbatim): 断桥残雪, 白堤, 孤山, 曲院风荷, 苏堤春晓, 花港观鱼, 雷峰塔, 柳浪闻莺, 灵隐寺, 飞来峰造像, 法喜寺, 宋城, 九溪十八涧, 龙井村, 十里琅珰, 云栖竹径, 拱宸桥, 桥西历史街区, 小河直街, 大兜路香积寺, 西溪湿地, 深潭口, 杭州4天3晚旅游攻略\\nConstraints: brochure must appear as a physical tri-fold object floating above cardstock; real Hangzhou geographic map layout as the main visual backbone; each famous scenic spot must have a recognizable landmark icon or illustration on the brochure panels\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12525
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial sports photography shot of an NBA Finals highlight moment featuring a player wearing jersey number 23.\n\nStyle/medium: professional sports photojournalism, 1/2000s high-speed shutter freeze-frame, photorealistic\nComposition: low-angle upward shot from floor level, 70-200mm telephoto, shallow depth of field, player dominating foreground with dramatic perspective\nSubject: basketball player wearing number 23 jersey, airborne mid-dunk, body arcing through space, defined muscle contours visible under arena lighting, intense focused expression, two defenders attempting to block\nScene/backdrop: packed NBA arena stands with tens of thousands of spectators on their feet cheering, sea of camera flashes creating starfield effect, court floor with visible boundary lines and brand logos\nLighting/mood: professional multi-point high-brightness arena lighting, uniform color temperature, dramatic contrast between lit player and darker crowd\nColor palette: vibrant team colors against neutral court tones, warm skin tones, cool shadows in stands, bright white flashes as accent points\nMaterials/textures: glossy hardwood court surface, fabric texture of jerseys, sweat on skin, individual faces in slightly blurred crowd\nAvoid: motion blur, deformed hands or limbs, plastic skin texture, watermark, 8K stuffer words, oversaturated colors",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c085845f-f766-47fb-9d87-679747fbcca4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial sports photography shot of an NBA Finals highlight moment featuring a player wearing jersey number 23.\\n\\nStyle/medium: professional sports photojournalism, 1/2000s high-speed shutter freeze-frame, photorealistic\\nComposition: low-angle upward shot from floor level, 70-200mm telephoto, shallow depth of field, player dominating foreground with dramatic perspective\\nSubject: basketball player wearing number 23 jersey, airborne mid-dunk, body arcing through space, defined muscle contours visible under arena lighting, intense focused expression, two defenders attempting to block\\nScene/backdrop: packed NBA arena stands with tens of thousands of spectators on their feet cheering, sea of camera flashes creating starfield effect, court floor with visible boundary lines and brand logos\\nLighting/mood: professional multi-point high-brightness arena lighting, uniform color temperature, dramatic contrast between lit player and darker crowd\\nColor palette: vibrant team colors against neutral court tones, warm skin tones, cool shadows in stands, bright white flashes as accent points\\nMaterials/textures: glossy hardwood court surface, fabric texture of jerseys, sweat on skin, individual faces in slightly blurred crowd\\nAvoid: motion blur, deformed hands or limbs, plastic skin texture, watermark, 8K stuffer words, oversaturated colors\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10749
+}

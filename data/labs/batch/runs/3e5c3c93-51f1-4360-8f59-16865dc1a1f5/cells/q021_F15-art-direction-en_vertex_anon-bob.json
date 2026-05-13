@@ -1,0 +1,21 @@
+{
+  "query_idx": 21,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3×3 character expression grid illustration featuring 赵灵儿 from 仙剑奇侠传 as the thematic inspiration.\n\nStyle/medium: needs a 3D animation Pixar-style aesthetic — exact rendering and surface execution is yours\nComposition: must be a 3×3 grid layout with 9 panels (3 rows × 3 columns), each panel showing the character peeking through a torn hole in white paper\nSubject: must include all 9 panels with the following expressions, actions, and outfits:\n  Top-left: winking / adjusting glasses / green sweater\n  Top-center: smirking / lowering dark sunglasses / red leather jacket\n  Top-right: thinking / finger on chin / yellow hoodie\n  Middle-left: big smile / arms resting on edge / black and white striped shirt\n  Middle-center: smiling / thumbs up / orange button-up shirt\n  Middle-right: neutral / drinking boba tea / blue sweater\n  Bottom-left: happy / waving / purple sweater vest over white shirt\n  Bottom-center: laughing with eyes closed / arms crossed / pink cardigan\n  Bottom-right: silly / poking cheeks / teal sweater\nScene/backdrop: each panel must feature a torn-hole-in-white-paper framing device as the window through which the character peeks\nLighting/mood: needs a bright, lively, expressive atmosphere — exact light setup is yours\nColor palette: needs a vibrant, varied direction matching each outfit's distinct color — exact palette ratios are yours\nMaterials/textures: needs a clean 3D rendered surface treatment — exact sheen and texture detail is yours\nText (verbatim): \nConstraints: must preserve all 9 panel positions and their unique expression/action/outfit combinations; character design must be consistent across all panels; torn-paper framing must appear in every panel\nAvoid: flat 2D illustration style; mixing up expressions or outfits across panels",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A79e66fa8-7f6f-472e-9301-c5413c8b44d3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 3×3 character expression grid illustration featuring 赵灵儿 from 仙剑奇侠传 as the thematic inspiration.\\n\\nStyle/medium: needs a 3D animation Pixar-style aesthetic — exact rendering and surface execution is yours\\nComposition: must be a 3×3 grid layout with 9 panels (3 rows × 3 columns), each panel showing the character peeking through a torn hole in white paper\\nSubject: must include all 9 panels with the following expressions, actions, and outfits:\\n  Top-left: winking / adjusting glasses / green sweater\\n  Top-center: smirking / lowering dark sunglasses / red leather jacket\\n  Top-right: thinking / finger on chin / yellow hoodie\\n  Middle-left: big smile / arms resting on edge / black and white striped shirt\\n  Middle-center: smiling / thumbs up / orange button-up shirt\\n  Middle-right: neutral / drinking boba tea / blue sweater\\n  Bottom-left: happy / waving / purple sweater vest over white shirt\\n  Bottom-center: laughing with eyes closed / arms crossed / pink cardigan\\n  Bottom-right: silly / poking cheeks / teal sweater\\nScene/backdrop: each panel must feature a torn-hole-in-white-paper framing device as the window through which the character peeks\\nLighting/mood: needs a bright, lively, expressive atmosphere — exact light setup is yours\\nColor palette: needs a vibrant, varied direction matching each outfit's distinct color — exact palette ratios are yours\\nMaterials/textures: needs a clean 3D rendered surface treatment — exact sheen and texture detail is yours\\nText (verbatim): \\nConstraints: must preserve all 9 panel positions and their unique expression/action/outfit combinations; character design must be consistent across all panels; torn-paper framing must appear in every panel\\nAvoid: flat 2D illustration style; mixing up expressions or outfits across panels\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10221
+}

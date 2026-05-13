@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: architectural-concept-illustration\nAsset type: futuristic architectural concept art, wide landscape\nPrimary request: a streamlined white building floating in the air, surrounded by drones and holographic projections, with clean energy facilities, embodying a sustainable urban development vision\nScene/backdrop: open sky with soft clouds, elevated urban environment, solar panels and wind turbines integrated into the structure below\nSubject: sleek white futuristic building with smooth curved surfaces, anti-gravity suspension, holographic projection displays floating around it, autonomous drones in flight nearby, clean energy infrastructure (solar arrays, vertical wind turbines)\nStyle/medium: architectural concept illustration, photorealistic 3D render\nComposition/framing: wide-angle view, slight low-angle perspective, full building visible with sky as backdrop\nLighting/mood: bright daylight with soft diffused light, optimistic and visionary atmosphere, clean and airy\nColor palette: pure white and light grey building surfaces + sky blue + soft cyan holographic glow + touches of green from vegetation\nMaterials/textures: smooth matte white composite panels, glass facades with subtle reflections, translucent holographic light projections\nConstraints: building must appear genuinely floating/levitating, clean energy elements must be clearly visible, no dark or dystopian tones\nAvoid: cluttered composition, dark cyberpunk aesthetic, deformed architecture, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/214ec3a2-01b7-47f1-be86-a0ab4076be13/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: architectural-concept-illustration\\nAsset type: futuristic architectural concept art, wide landscape\\nPrimary request: a streamlined white building floating in the air, surrounded by drones and holographic projections, with clean energy facilities, embodying a sustainable urban development vision\\nScene/backdrop: open sky with soft clouds, elevated urban environment, solar panels and wind turbines integrated into the structure below\\nSubject: sleek white futuristic building with smooth curved surfaces, anti-gravity suspension, holographic projection displays floating around it, autonomous drones in flight nearby, clean energy infrastructure (solar arrays, vertical wind turbines)\\nStyle/medium: architectural concept illustration, photorealistic 3D render\\nComposition/framing: wide-angle view, slight low-angle perspective, full building visible with sky as backdrop\\nLighting/mood: bright daylight with soft diffused light, optimistic and visionary atmosphere, clean and airy\\nColor palette: pure white and light grey building surfaces + sky blue + soft cyan holographic glow + touches of green from vegetation\\nMaterials/textures: smooth matte white composite panels, glass facades with subtle reflections, translucent holographic light projections\\nConstraints: building must appear genuinely floating/levitating, clean energy elements must be clearly visible, no dark or dystopian tones\\nAvoid: cluttered composition, dark cyberpunk aesthetic, deformed architecture, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12848
+}

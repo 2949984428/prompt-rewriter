@@ -1,0 +1,23 @@
+{
+  "query_idx": 173,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张亚马逊德国站浴帘产品主图。\n\n风格/媒介: 电商产品主图，写实风格，清晰直观\n构图:\n  画面分为两侧对比结构，左侧展示磨毛正面（柔软布料质感），右侧展示TPU覆膜背面（防水功能）\n  中央或底部区域排列德文文案，层次清晰\n  产品局部特写与整体浴帘形态结合，体现二合一结构\n主体:\n  浴帘产品，正面磨毛面料（柔软、绒感）与背面TPU覆膜（光滑、防水膜层）\n  参考图1（面料按压图）体现磨毛触感\n  参考图2（防水图）体现TPU防水功能，水珠滚落效果\n场景/背景: 简洁白色或浅灰背景，突出产品细节\n光线/氛围: 明亮均匀光线，清晰展示材质细节\n色彩方案:\n材质/纹理:\n  正面：磨毛涤纶，柔软绒面纹理\n  背面：TPU覆膜，光滑半透明防水层\n文字(原样):\n  2-in-1 Duschvorhang\n  Weich wie Stoff. Dicht wie Kunststoff\n  Haptik wie Polyester\n  Weich & Geschmeidig\n  Funktion wie ein Kunststoff-Duschvorhang\n  100 % wasserdicht, kein Durchsickern\n  Außen weich wie Stoff – innen 100% wasserdicht\n约束:\n  文案须完整呈现，字体清晰可读\n  双面结构对比须直观传达二合一卖点\n避免: 杂乱背景、模糊材质细节、遗漏任何文案行",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aee5515fa-6045-4cbd-b9b9-f799ad6dae30/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张亚马逊德国站浴帘产品主图。\\n\\n风格/媒介: 电商产品主图，写实风格，清晰直观\\n构图:\\n  画面分为两侧对比结构，左侧展示磨毛正面（柔软布料质感），右侧展示TPU覆膜背面（防水功能）\\n  中央或底部区域排列德文文案，层次清晰\\n  产品局部特写与整体浴帘形态结合，体现二合一结构\\n主体:\\n  浴帘产品，正面磨毛面料（柔软、绒感）与背面TPU覆膜（光滑、防水膜层）\\n  参考图1（面料按压图）体现磨毛触感\\n  参考图2（防水图）体现TPU防水功能，水珠滚落效果\\n场景/背景: 简洁白色或浅灰背景，突出产品细节\\n光线/氛围: 明亮均匀光线，清晰展示材质细节\\n色彩方案:\\n材质/纹理:\\n  正面：磨毛涤纶，柔软绒面纹理\\n  背面：TPU覆膜，光滑半透明防水层\\n文字(原样):\\n  2-in-1 Duschvorhang\\n  Weich wie Stoff. Dicht wie Kunststoff\\n  Haptik wie Polyester\\n  Weich & Geschmeidig\\n  Funktion wie ein Kunststoff-Duschvorhang\\n  100 % wasserdicht, kein Durchsickern\\n  Außen weich wie Stoff – innen 100% wasserdicht\\n约束:\\n  文案须完整呈现，字体清晰可读\\n  双面结构对比须直观传达二合一卖点\\n避免: 杂乱背景、模糊材质细节、遗漏任何文案行\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12843,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

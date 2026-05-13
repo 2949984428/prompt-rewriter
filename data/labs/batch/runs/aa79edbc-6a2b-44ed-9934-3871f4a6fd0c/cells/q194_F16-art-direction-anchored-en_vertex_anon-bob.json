@@ -1,0 +1,23 @@
+{
+  "query_idx": 194,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成亚马逊产品主图——无线领夹麦克风套装。\n\n风格/媒介:亚马逊电商产品图，photorealistic，简洁商业风\n构图:\n  产品居中突出展示\n  搭配关键卖点信息图标或标注，视觉层次清晰\n  参考图 #2（microphone for iphone）、#3、#4（61ja8dLZ4CL）、#5（71ceXqURtYL）的构图与展示风格\n主体:\n  基于产品图 #1 的无线领夹麦克风套装（两个发射器 + 一个接收器）\n  展示磁吸背夹设计细节\n  展示 LED 状态显示屏\n场景/背景:纯白或浅灰渐变背景，符合亚马逊主图规范\n光线/氛围:干净明亮的产品棚拍光，无强烈阴影\n色彩方案:以产品本身配色为主，背景保持中性\n材质/纹理:产品表面质感清晰可见\n文字(原样):\n  【ONE-RECEIVER, TWO-USER RECORDING】\n  【AI PRO NOISE CANCELLING & HD SOUND】\n  【164FT STABLE RANGE & ZERO DELAY】\n  【INNOVATIVE MAGNETIC DESIGN & CLIP-FREE】\n约束:\n  忠实还原产品图 #1 的外观造型，不改变产品形态\n  卖点文字作为画面标注信息呈现，保留原文\n避免:夸张特效、过度后期、与产品实物不符的细节",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "https://a.lovart.ai/artifacts/generator/E69VhWAerMIJpxAd.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成亚马逊产品主图——无线领夹麦克风套装。\\n\\n风格/媒介:亚马逊电商产品图，photorealistic，简洁商业风\\n构图:\\n  产品居中突出展示\\n  搭配关键卖点信息图标或标注，视觉层次清晰\\n  参考图 #2（microphone for iphone）、#3、#4（61ja8dLZ4CL）、#5（71ceXqURtYL）的构图与展示风格\\n主体:\\n  基于产品图 #1 的无线领夹麦克风套装（两个发射器 + 一个接收器）\\n  展示磁吸背夹设计细节\\n  展示 LED 状态显示屏\\n场景/背景:纯白或浅灰渐变背景，符合亚马逊主图规范\\n光线/氛围:干净明亮的产品棚拍光，无强烈阴影\\n色彩方案:以产品本身配色为主，背景保持中性\\n材质/纹理:产品表面质感清晰可见\\n文字(原样):\\n  【ONE-RECEIVER, TWO-USER RECORDING】\\n  【AI PRO NOISE CANCELLING & HD SOUND】\\n  【164FT STABLE RANGE & ZERO DELAY】\\n  【INNOVATIVE MAGNETIC DESIGN & CLIP-FREE】\\n约束:\\n  忠实还原产品图 #1 的外观造型，不改变产品形态\\n  卖点文字作为画面标注信息呈现，保留原文\\n避免:夸张特效、过度后期、与产品实物不符的细节\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 19409,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

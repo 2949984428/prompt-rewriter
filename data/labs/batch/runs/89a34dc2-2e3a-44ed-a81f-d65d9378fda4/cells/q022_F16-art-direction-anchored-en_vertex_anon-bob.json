@@ -1,0 +1,23 @@
+{
+  "query_idx": 22,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计 Logo —— 诸暨公交 LOGO 优化方案一。\n\n风格/媒介: 矢量 Logo，简洁大气\n构图: 4 张方案之一，图形与文字组合，偏图形主导方向\n主体: 诸暨公交 LOGO，参考原设计意向中的图形语言与构成关系\n场景/背景: 纯白或透明底\n光线/氛围:\n色彩方案: 参考原图配色，保持简洁\n材质/纹理: 平面矢量，无渐变噪点\n文字(原样): 诸暨公交\n约束:\n  保留原设计意向的核心图形元素与识别特征\n  扁平化处理，线条干净利落\n避免: 写实质感、阴影、多余装饰元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 5,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa0bf6212-f761-49d7-962f-ade0b96ccd74/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计 Logo —— 诸暨公交 LOGO 优化方案一。\\n\\n风格/媒介: 矢量 Logo，简洁大气\\n构图: 4 张方案之一，图形与文字组合，偏图形主导方向\\n主体: 诸暨公交 LOGO，参考原设计意向中的图形语言与构成关系\\n场景/背景: 纯白或透明底\\n光线/氛围:\\n色彩方案: 参考原图配色，保持简洁\\n材质/纹理: 平面矢量，无渐变噪点\\n文字(原样): 诸暨公交\\n约束:\\n  保留原设计意向的核心图形元素与识别特征\\n  扁平化处理，线条干净利落\\n避免: 写实质感、阴影、多余装饰元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 5, \"output_format\": \"png\"}",
+  "ms": 7637,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

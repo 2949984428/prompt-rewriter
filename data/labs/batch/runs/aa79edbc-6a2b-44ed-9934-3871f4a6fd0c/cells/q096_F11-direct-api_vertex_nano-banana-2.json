@@ -1,0 +1,23 @@
+{
+  "query_idx": 96,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "参考[@image:#1:logo参考]中logo的风格，帮我设计我公司的logo，我公司的名字叫“疯狂拓肯”，是一家依托于ai模型进行影像制作，以为客户打造IP为目的的传媒公司。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4d717200-ff9a-4d26-af48-ff91f9ec9c6b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"参考[@image:#1:logo参考]中logo的风格，帮我设计我公司的logo，我公司的名字叫\\\"疯狂拓肯\\\"，是一家依托于ai模型进行影像制作，以为客户打造IP为目的的传媒公司。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2717,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

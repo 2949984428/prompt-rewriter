@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "建筑摄影：日本京都某座著名禅宗寺院的枯山水庭园全景。庭园中白色砂砾被精心耙出同心圆和波纹图案，象征大海与波浪。几块形态各异的苔藓覆盖的岩石错落有致地分布其中，代表岛屿与山峰。庭园四周是低矮的木质回廊，廊柱投下整齐的阴影。背景是一面古朴的土墙，墙头长有青苔。整体画面在秋季午后的斜阳下，砂砾呈现出温暖的米白色，岩石的阴影拉长，营造出极度宁静、禅意深远的东方美学氛围。摄影采用广角镜头，低角度拍摄，强调庭园的几何美感与空间延伸感，色调沉稳内敛，高清晰度。",
+    "size": "2048x2048",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/18a81d32-a1ef-45ce-bee4-7cf6c35cc926/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

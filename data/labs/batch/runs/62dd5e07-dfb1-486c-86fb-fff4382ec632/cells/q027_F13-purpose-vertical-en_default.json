@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing meticulous gongbi heavy-color handscroll painting depicting the Lantern Festival panorama in Tang Dynasty Chang'an city.\n\nStyle/medium: gongbi (工笔) heavy-color handscroll (长卷), Tang Dynasty court painting aesthetic\nComposition: wide horizontal panorama scroll format, sweeping cityscape view across the full width, layered depth from foreground crowds to distant city gates and towers\nSubject: tens of thousands of hanging and floating lanterns (万盏花灯) illuminating the night sky above Chang'an; festival crowds in Tang Dynasty attire filling the streets and plazas; ornate lantern towers, silk-draped pavilions, and imperial boulevard\nScene/backdrop: Tang Dynasty Chang'an city at night during the Lantern Festival (元宵灯会); grand city walls, vermilion gate towers, wide ceremonial avenues lined with lantern trees\nLighting/mood: warm golden glow from myriad lanterns casting rich amber and crimson light across the night scene; festive, luminous, celebratory atmosphere\nColor palette: rich vermilion, imperial gold, deep indigo night sky, jade green, mineral azurite and malachite pigments consistent with Tang gongbi heavy-color tradition\nMaterials/textures: fine-line brushwork with layered mineral pigment washes on silk scroll; visible silk texture ground, meticulous detail on lantern patterns and costume embroidery\nText (verbatim): \nConstraints: horizontal long-scroll (长卷) format; gongbi line precision throughout; night scene must be lit primarily by lantern light, not moonlight or torches\nAvoid: ink wash (水墨) loose style, Western perspective, modern lighting effects, Song or Ming dynasty architectural styles",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9cbfc18f-ec43-44ae-a49c-5e5819ce67b5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing meticulous gongbi heavy-color handscroll painting depicting the Lantern Festival panorama in Tang Dynasty Chang'an city.\\n\\nStyle/medium: gongbi (工笔) heavy-color handscroll (长卷), Tang Dynasty court painting aesthetic\\nComposition: wide horizontal panorama scroll format, sweeping cityscape view across the full width, layered depth from foreground crowds to distant city gates and towers\\nSubject: tens of thousands of hanging and floating lanterns (万盏花灯) illuminating the night sky above Chang'an; festival crowds in Tang Dynasty attire filling the streets and plazas; ornate lantern towers, silk-draped pavilions, and imperial boulevard\\nScene/backdrop: Tang Dynasty Chang'an city at night during the Lantern Festival (元宵灯会); grand city walls, vermilion gate towers, wide ceremonial avenues lined with lantern trees\\nLighting/mood: warm golden glow from myriad lanterns casting rich amber and crimson light across the night scene; festive, luminous, celebratory atmosphere\\nColor palette: rich vermilion, imperial gold, deep indigo night sky, jade green, mineral azurite and malachite pigments consistent with Tang gongbi heavy-color tradition\\nMaterials/textures: fine-line brushwork with layered mineral pigment washes on silk scroll; visible silk texture ground, meticulous detail on lantern patterns and costume embroidery\\nText (verbatim): \\nConstraints: horizontal long-scroll (长卷) format; gongbi line precision throughout; night scene must be lit primarily by lantern light, not moonlight or torches\\nAvoid: ink wash (水墨) loose style, Western perspective, modern lighting effects, Song or Ming dynasty architectural styles\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12842
+}

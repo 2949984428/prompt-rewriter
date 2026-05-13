@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing e-commerce poster for UGREEN NAS brand 618 anniversary sale campaign.\n\nStyle/medium: \nComposition: \nSubject: UGREEN NAS (绿联私有云) brand 618 anniversary promotional poster\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \"绿联私有云\" \"618\" \"周年庆\"\nConstraints: e-commerce banner poster format\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a772d963-3d48-4505-8bef-5bcac1d00bb5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing marketing e-commerce poster for UGREEN NAS brand 618 anniversary sale campaign.\\n\\nStyle/medium: \\nComposition: \\nSubject: UGREEN NAS (绿联私有云) brand 618 anniversary promotional poster\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"绿联私有云\\\" \\\"618\\\" \\\"周年庆\\\"\\nConstraints: e-commerce banner poster format\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4093
+}

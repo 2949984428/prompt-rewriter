@@ -1,0 +1,23 @@
+{
+  "query_idx": 18,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一个有小狗元素，童趣可爱的手绘风甜品蛋糕店",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "https://a.lovart.ai/artifacts/generator/vyL2obk1ip35g3qg.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一个有小狗元素，童趣可爱的手绘风甜品蛋糕店\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5215,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

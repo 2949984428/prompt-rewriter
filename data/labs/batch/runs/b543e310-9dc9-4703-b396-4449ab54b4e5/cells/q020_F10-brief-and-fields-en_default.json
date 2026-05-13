@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for OPPO Find X9 smartphone product launch, brand exposure focused.\n\nStyle/medium: bold product photography with graphic design overlay, commercial advertising aesthetic, high visual impact\nComposition: vertical 9:16 format, centered hero product shot with generous negative space for branding, eye-level product angle\nSubject: OPPO Find X9 smartphone, sleek modern device with reflective glass back, clean edges, premium finish\nScene/backdrop: gradient studio background transitioning from deep navy to electric blue, subtle light rays, abstract geometric elements\nLighting/mood: dramatic rim lighting highlighting device contours, soft fill light on front, futuristic and premium mood\nColor palette: OPPO brand green as accent, deep blues as base, silver/white highlights, high contrast for visual punch\nText (verbatim): \"OPPO Find X9\"\nConstraints: must work at 1080×1920 resolution; brand logo must remain legible at thumbnail size; visual hierarchy prioritizes product over text\nAvoid: cluttered layout, generic stock photo aesthetic, muddy colors, excessive text, watermark, 8K stuffer words",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/42945fc2-e4aa-43d2-9fec-e0218bad6675/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for OPPO Find X9 smartphone product launch, brand exposure focused.\\n\\nStyle/medium: bold product photography with graphic design overlay, commercial advertising aesthetic, high visual impact\\nComposition: vertical 9:16 format, centered hero product shot with generous negative space for branding, eye-level product angle\\nSubject: OPPO Find X9 smartphone, sleek modern device with reflective glass back, clean edges, premium finish\\nScene/backdrop: gradient studio background transitioning from deep navy to electric blue, subtle light rays, abstract geometric elements\\nLighting/mood: dramatic rim lighting highlighting device contours, soft fill light on front, futuristic and premium mood\\nColor palette: OPPO brand green as accent, deep blues as base, silver/white highlights, high contrast for visual punch\\nText (verbatim): \\\"OPPO Find X9\\\"\\nConstraints: must work at 1080×1920 resolution; brand logo must remain legible at thumbnail size; visual hierarchy prioritizes product over text\\nAvoid: cluttered layout, generic stock photo aesthetic, muddy colors, excessive text, watermark, 8K stuffer words\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8619
+}

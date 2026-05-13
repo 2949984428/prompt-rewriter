@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID card for ByteDance (字节跳动), showing both front and back sides.\n\nStyle/medium: photorealistic product photography, corporate ID card mockup with realistic plastic PVC texture\nComposition: flat lay top-down view showing two cards side by side (front and back), clean studio backdrop\nSubject: employee ID badge with lanyard hole, company name \"字节跳动\" visible, employee photo placeholder area, ID number field\nScene/backdrop: neutral gray or white seamless background, subtle shadow beneath cards\nLighting/mood: soft diffused studio lighting from above, minimal shadows, clean corporate aesthetic\nColor palette: ByteDance brand blue and white as base, subtle gradients on card surface\nMaterials/textures: matte PVC plastic with slight gloss at edges, realistic printed ink texture, subtle embossed effect\nText (verbatim): \"字节跳动\"\nConstraints: must show both front and back sides in one image; front side displays employee photo and name; back side displays barcode/QR code and company info\nAvoid: cartoonish rendering, overly glossy plastic, distorted text, watermark, generic template look",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3abf3f91-a5ba-40d9-8713-289513e8fb92/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing employee ID card for ByteDance (字节跳动), showing both front and back sides.\\n\\nStyle/medium: photorealistic product photography, corporate ID card mockup with realistic plastic PVC texture\\nComposition: flat lay top-down view showing two cards side by side (front and back), clean studio backdrop\\nSubject: employee ID badge with lanyard hole, company name \\\"字节跳动\\\" visible, employee photo placeholder area, ID number field\\nScene/backdrop: neutral gray or white seamless background, subtle shadow beneath cards\\nLighting/mood: soft diffused studio lighting from above, minimal shadows, clean corporate aesthetic\\nColor palette: ByteDance brand blue and white as base, subtle gradients on card surface\\nMaterials/textures: matte PVC plastic with slight gloss at edges, realistic printed ink texture, subtle embossed effect\\nText (verbatim): \\\"字节跳动\\\"\\nConstraints: must show both front and back sides in one image; front side displays employee photo and name; back side displays barcode/QR code and company info\\nAvoid: cartoonish rendering, overly glossy plastic, distorted text, watermark, generic template look\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7708
+}

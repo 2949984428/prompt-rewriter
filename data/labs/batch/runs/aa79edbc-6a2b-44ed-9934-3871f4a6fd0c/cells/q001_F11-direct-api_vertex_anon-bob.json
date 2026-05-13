@@ -1,0 +1,23 @@
+{
+  "query_idx": 1,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "为我的公司设计一套 Logo，公司名字是：appkit，请用字母A设计出至少3个方案，风格分别使用Claude品牌、lovart品牌、figma品牌",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A57fd76bb-edb5-44e2-91a4-b728b457bda3/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"为我的公司设计一套 Logo，公司名字是：appkit，请用字母A设计出至少3个方案，风格分别使用Claude品牌、lovart品牌、figma品牌\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4211,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

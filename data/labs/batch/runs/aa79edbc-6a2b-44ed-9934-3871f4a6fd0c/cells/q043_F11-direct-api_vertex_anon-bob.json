@@ -1,0 +1,24 @@
+{
+  "query_idx": 43,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "I need a cool design back and front for a business card for a photographer.\ngo with metallic and dark luxury styling. \nthe back should cotains the logo of photography and it needs to look attractive\nthe front should contain also the logo of photography which you find on fancy business cards and under the logo there is Minyar Photography\nalso the icons for instagram : minyar.guediche.photography and facebook : Minyar-Photographer\nalso an icon for the phone number : 55 43 48 43",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A70a3bbd0-8c90-43b4-b670-f4499261f90e/0.jpg",
+    "/api/image-file/lovart%3A70a3bbd0-8c90-43b4-b670-f4499261f90e/1.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"I need a cool design back and front for a business card for a photographer.\\ngo with metallic and dark luxury styling. \\nthe back should cotains the logo of photography and it needs to look attractive\\nthe front should contain also the logo of photography which you find on fancy business cards and under the logo there is Minyar Photography\\nalso the icons for instagram : minyar.guediche.photography and facebook : Minyar-Photographer\\nalso an icon for the phone number : 55 43 48 43\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3538,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

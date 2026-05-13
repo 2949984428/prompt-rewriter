@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing post-apocalyptic wasteland scene illustration (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 末日废土 (post-apocalyptic wasteland) aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a modified armored vehicle\nScene/backdrop: must include a desolate desert, collapsed city ruins in the distance, yellowish sky, sandstorm atmosphere\nLighting/mood: needs a post-apocalyptic survival tension atmosphere — exact light source mix is yours\nColor palette: needs a yellowish / dusty wasteland direction — exact hex values and ratios are yours\nMaterials/textures: needs a gritty, weathered surface treatment — exact grain / rust / dust level is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/83cbdac5-b081-4a24-a8bc-0677e7ababf9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing post-apocalyptic wasteland scene illustration (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 末日废土 (post-apocalyptic wasteland) aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a modified armored vehicle\\nScene/backdrop: must include a desolate desert, collapsed city ruins in the distance, yellowish sky, sandstorm atmosphere\\nLighting/mood: needs a post-apocalyptic survival tension atmosphere — exact light source mix is yours\\nColor palette: needs a yellowish / dusty wasteland direction — exact hex values and ratios are yours\\nMaterials/textures: needs a gritty, weathered surface treatment — exact grain / rust / dust level is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"auto\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9239
+}

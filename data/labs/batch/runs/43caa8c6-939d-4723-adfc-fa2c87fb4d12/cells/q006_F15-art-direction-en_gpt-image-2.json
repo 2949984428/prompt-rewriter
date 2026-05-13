@@ -1,0 +1,19 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster inspired by the aesthetic of 大话西游, reimagined in 90s Hong Kong cinema style.\n\nStyle/medium: needs a 90s 港片 film aesthetic — exact stylistic execution is yours\nComposition: must include a romantic embrace as the foreground focal point, distant figures in the background\nSubject: must include:\n  - 至尊宝 and 紫霞 sharing a kiss / embrace against a city wall (foreground, primary)\n  - 牛魔王 standing in the distance (background)\n  - 唐僧 standing in the distance (background)\nScene/backdrop: must include a 城墙 (ancient city wall) setting\nLighting/mood: needs a dramatic, romantically charged 90s Hong Kong cinema atmosphere — exact light source mix is yours\nColor palette: needs a warm, faded, filmic direction — exact tones and ratios are yours\nMaterials/textures: must include film grain (胶片颗粒) texture throughout\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://api.openai.com/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster inspired by the aesthetic of 大话西游, reimagined in 90s Hong Kong cinema style.\\n\\nStyle/medium: needs a 90s 港片 film aesthetic — exact stylistic execution is yours\\nComposition: must include a romantic embrace as the foreground focal point, distant figures in the background\\nSubject: must include:\\n  - 至尊宝 and 紫霞 sharing a kiss / embrace against a city wall (foreground, primary)\\n  - 牛魔王 standing in the distance (background)\\n  - 唐僧 standing in the distance (background)\\nScene/backdrop: must include a 城墙 (ancient city wall) setting\\nLighting/mood: needs a dramatic, romantically charged 90s Hong Kong cinema atmosphere — exact light source mix is yours\\nColor palette: needs a warm, faded, filmic direction — exact tones and ratios are yours\\nMaterials/textures: must include film grain (胶片颗粒) texture throughout\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8995
+}

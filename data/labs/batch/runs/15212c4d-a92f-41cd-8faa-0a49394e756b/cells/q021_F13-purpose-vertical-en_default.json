@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3x3 character expression grid for Zhao Ling'er from the Legend of Sword and Fairy IP, designed as a social media character showcase asset.\n\nStyle/medium: 3D animation, Pixar style\nComposition: 3x3 grid layout, 9 equal panels, each panel showing character peeking through a torn hole in white paper\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses (Zhao Ling'er inspired)\nScene/backdrop: white paper background with torn circular holes framing each expression panel\nLighting/mood: bright, cheerful, studio lighting suitable for character expression showcase\nColor palette: vibrant outfit colors — green, red, yellow, black and white stripes, orange, blue, purple, pink, teal\nMaterials/textures: 3D rendered character, soft fabric textures for sweaters/jackets, glossy paper tear edges\nText (verbatim): \nConstraints: 9 distinct expressions and outfits as specified, consistent character base across all panels, torn paper framing maintained throughout grid\nAvoid: realistic photographic style, anime/manga aesthetic, dark or moody lighting",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c8f191b4-32e4-4fe7-b5a9-fdf0ecfd3f81/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 3x3 character expression grid for Zhao Ling'er from the Legend of Sword and Fairy IP, designed as a social media character showcase asset.\\n\\nStyle/medium: 3D animation, Pixar style\\nComposition: 3x3 grid layout, 9 equal panels, each panel showing character peeking through a torn hole in white paper\\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses (Zhao Ling'er inspired)\\nScene/backdrop: white paper background with torn circular holes framing each expression panel\\nLighting/mood: bright, cheerful, studio lighting suitable for character expression showcase\\nColor palette: vibrant outfit colors — green, red, yellow, black and white stripes, orange, blue, purple, pink, teal\\nMaterials/textures: 3D rendered character, soft fabric textures for sweaters/jackets, glossy paper tear edges\\nText (verbatim): \\nConstraints: 9 distinct expressions and outfits as specified, consistent character base across all panels, torn paper framing maintained throughout grid\\nAvoid: realistic photographic style, anime/manga aesthetic, dark or moody lighting\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15378
+}

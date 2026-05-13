@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original sci-fi space illustration featuring an astronaut floating in Earth orbit (all in-image text in Chinese).\n\nStyle/medium: needs a \"壮观震撼\" sci-fi space aesthetic — references in the spirit of NASA Apollo-era photography heritage, Denis Villeneuve's Arrival visual grandeur, 2001: A Space Odyssey compositional scale; exact stylistic execution is yours\nComposition: must include astronaut as focal subject centered or slightly off-center, space station partial structure at frame edges\nSubject: must include a single astronaut floating in Earth orbit, spacesuit with clearly visible surface details\nScene/backdrop: must include Earth below in orbit, the Milky Way and nebulae as a luminous backdrop behind the astronaut\nLighting/mood: must be lit by Earth's reflected light (earthshine) as primary source — exact secondary fill and rim light treatment is yours\nColor palette: needs a deep-space direction with luminous nebula accents — exact hues and ratios are yours\nMaterials/textures: needs a high-detail surface treatment on the spacesuit — exact fabric weave, visor reflection, and panel texture is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6ae49df7-2fa3-4fb4-947d-1c246666f148/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original sci-fi space illustration featuring an astronaut floating in Earth orbit (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"壮观震撼\\\" sci-fi space aesthetic — references in the spirit of NASA Apollo-era photography heritage, Denis Villeneuve's Arrival visual grandeur, 2001: A Space Odyssey compositional scale; exact stylistic execution is yours\\nComposition: must include astronaut as focal subject centered or slightly off-center, space station partial structure at frame edges\\nSubject: must include a single astronaut floating in Earth orbit, spacesuit with clearly visible surface details\\nScene/backdrop: must include Earth below in orbit, the Milky Way and nebulae as a luminous backdrop behind the astronaut\\nLighting/mood: must be lit by Earth's reflected light (earthshine) as primary source — exact secondary fill and rim light treatment is yours\\nColor palette: needs a deep-space direction with luminous nebula accents — exact hues and ratios are yours\\nMaterials/textures: needs a high-detail surface treatment on the spacesuit — exact fabric weave, visor reflection, and panel texture is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10221
+}

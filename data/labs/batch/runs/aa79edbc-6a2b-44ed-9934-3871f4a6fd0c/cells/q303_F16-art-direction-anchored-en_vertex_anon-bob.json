@@ -1,0 +1,23 @@
+{
+  "query_idx": 303,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张夜晚吃烧烤的美食分享图。\n\n风格/媒介:美食摄影，适合 Instagram 分享\n构图:竖版构图，9:16 比例\n主体:烧烤食物，夜晚场景下的烧烤\n场景/背景:夜晚户外或夜市烧烤摊\n光线/氛围:夜晚氛围，烧烤炭火光\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:竖版 9:16 比例\n避免:",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9a0965b1-c1f0-48af-9c3d-dd180335f072/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张夜晚吃烧烤的美食分享图。\\n\\n风格/媒介:美食摄影，适合 Instagram 分享\\n构图:竖版构图，9:16 比例\\n主体:烧烤食物，夜晚场景下的烧烤\\n场景/背景:夜晚户外或夜市烧烤摊\\n光线/氛围:夜晚氛围，烧烤炭火光\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:竖版 9:16 比例\\n避免:\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 12826,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

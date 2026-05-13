@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic sci-fi space scene featuring an astronaut in Earth orbit.\n\nStyle/medium: needs a cinematic sci-fi space aesthetic — exact stylistic execution is yours\nComposition: must include the astronaut as central subject, with space station structure at frame edges\nSubject: must include an astronaut in detailed spacesuit, one\nScene/backdrop: must include Earth orbit setting, the Milky Way and nebulae in the background\nLighting/mood: needs a dramatic epic atmosphere with light from Earth reflection — exact light source balance is yours\nColor palette: needs a cosmic spectacular direction — exact color values and ratios are yours\nMaterials/textures: needs detailed spacesuit surface treatment — exact material finish is yours\nText (verbatim): \nConstraints: must preserve the epic grandeur described\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eff556d1-4328-4a4e-a0b5-5c4ca892defd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic sci-fi space scene featuring an astronaut in Earth orbit.\\n\\nStyle/medium: needs a cinematic sci-fi space aesthetic — exact stylistic execution is yours\\nComposition: must include the astronaut as central subject, with space station structure at frame edges\\nSubject: must include an astronaut in detailed spacesuit, one\\nScene/backdrop: must include Earth orbit setting, the Milky Way and nebulae in the background\\nLighting/mood: needs a dramatic epic atmosphere with light from Earth reflection — exact light source balance is yours\\nColor palette: needs a cosmic spectacular direction — exact color values and ratios are yours\\nMaterials/textures: needs detailed spacesuit surface treatment — exact material finish is yours\\nText (verbatim): \\nConstraints: must preserve the epic grandeur described\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9665
+}

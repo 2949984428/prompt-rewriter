@@ -1,0 +1,23 @@
+{
+  "query_idx": 305,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成微信公众号封面图（2.35:1横版）。\n\n风格/媒介:\n构图:\n  横版宽幅构图，适配微信公众号封面比例\n  标题文字作为视觉核心，排版突出\n主体:微信公众号封面，主视觉围绕 AI 设计与商业落地主题\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):【都用image2，为啥别人能接商单，你不行？你的AI设计不落地】\n约束:文字须完整呈现，不可截断\n避免:",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A61e8d2ba-e775-42e0-88ad-9e5977d0d549/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成微信公众号封面图（2.35:1横版）。\\n\\n风格/媒介:\\n构图:\\n  横版宽幅构图，适配微信公众号封面比例\\n  标题文字作为视觉核心，排版突出\\n主体:微信公众号封面，主视觉围绕 AI 设计与商业落地主题\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):【都用image2，为啥别人能接商单，你不行？你的AI设计不落地】\\n约束:文字须完整呈现，不可截断\\n避免:\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5776,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

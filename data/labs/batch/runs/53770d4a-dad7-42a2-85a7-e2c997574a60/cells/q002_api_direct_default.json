@@ -1,0 +1,23 @@
+{
+  "query_idx": 2,
+  "skill_id": "",
+  "image_model": "",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "这是一张玫瑰花的立体贺卡，请帮我精修，背景改成白底，使其符合亚马逊主图的要求[@image:#1:895A7101]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A61a881fb-55b9-4a51-9741-3efe4d8db08f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"这是一张玫瑰花的立体贺卡，请帮我精修，背景改成白底，使其符合亚马逊主图的要求[@image:#1:895A7101]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6370,
+  "pipeline_id": "api_direct",
+  "pipeline_outputs": null
+}

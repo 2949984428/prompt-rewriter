@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a realistic screenshot of a Douyin (TikTok) live stream featuring a young woman known as \"神仙姐姐\".\n\nStyle/medium: needs a realistic live-stream screenshot aesthetic — exact UI detail level is yours\nComposition: must be a vertical 9:16 live-stream interface with the host centered, holding a sign in front of her\nSubject: must include a young woman (\"神仙姐姐\") holding a handwritten sign facing the camera\nScene/backdrop: needs a typical indoor live-stream room backdrop — exact decor is yours\nLighting/mood: needs a bright, flattering live-stream lighting atmosphere — exact light setup is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include sign text \"今晚直播，欢迎来参亦菲畅聊！\" (on the physical sign the subject is holding); must include typical Douyin live-stream UI overlay elements (viewer count, comments, like icons, etc.)\nConstraints: must preserve the Douyin live-stream UI frame around the scene; sign text must be clearly legible\nAvoid: must avoid blurry or illegible sign text",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c4121eb8-bbfa-48d7-8b81-b807af8f5cb3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a realistic screenshot of a Douyin (TikTok) live stream featuring a young woman known as \\\"神仙姐姐\\\".\\n\\nStyle/medium: needs a realistic live-stream screenshot aesthetic — exact UI detail level is yours\\nComposition: must be a vertical 9:16 live-stream interface with the host centered, holding a sign in front of her\\nSubject: must include a young woman (\\\"神仙姐姐\\\") holding a handwritten sign facing the camera\\nScene/backdrop: needs a typical indoor live-stream room backdrop — exact decor is yours\\nLighting/mood: needs a bright, flattering live-stream lighting atmosphere — exact light setup is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include sign text \\\"今晚直播，欢迎来参亦菲畅聊！\\\" (on the physical sign the subject is holding); must include typical Douyin live-stream UI overlay elements (viewer count, comments, like icons, etc.)\\nConstraints: must preserve the Douyin live-stream UI frame around the scene; sign text must be clearly legible\\nAvoid: must avoid blurry or illegible sign text\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8552
+}

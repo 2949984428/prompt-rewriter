@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a UI mockup for an e-commerce landing page hero section for a Japanese beauty brand.\n\nStyle/medium: clean UI/UX mockup, bright airy feminine aesthetic, web design in the style of Glossier or Mecca landing pages\nComposition: wide hero banner layout with three-column structure (left text content, center model, right product display), desktop viewport framing\nSubject: young East Asian woman smiling and touching her cheek, holding a dropper bottle of moisturizing serum\nScene/backdrop: soft gradient background from white to pale pink, subtle floral accents with purple flowers scattered in corners, generous negative space\nLighting/mood: soft diffused studio lighting, clean and fresh mood, premium beauty product atmosphere\nColor palette: soft pink as primary, white as base, purple flowers as accent, gold for stat card highlights\nText (verbatim): \"LUMEA BEAUTY\", \"特徴\", \"成分\", \"お客様の声\", \"使い方\", \"FAQ\", \"今すぐ試す\", \"鏡を見るたび、うるおう透明感。\", \"乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。\", \"敏感肌OK\", \"高保湿\", \"朝晩使える\", \"美容成分をしっかり届ける\", \"ハリ・ツヤのある印象へ\", \"続けやすいシンプルケア\", \"初回限定で試してみる >\", \"成分をチェック >\", \"送料無料 / 初回限定 / 定期縛りなし\", \"満足度 96%\", \"美容成分 5種配合\", \"愛用者 12,000人突破\", \"うるおい\", \"透明感\", \"使いやすさ\"\nConstraints: all Japanese text must be legible at web resolution; UI elements must follow logical hierarchy; pill badges and stat cards must be clearly readable\nAvoid: cluttered layout, illegible small text, dark or moody lighting, masculine or aggressive styling, generic stock photo aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/59640dfe-671e-4caa-863f-69631a2b8418/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a UI mockup for an e-commerce landing page hero section for a Japanese beauty brand.\\n\\nStyle/medium: clean UI/UX mockup, bright airy feminine aesthetic, web design in the style of Glossier or Mecca landing pages\\nComposition: wide hero banner layout with three-column structure (left text content, center model, right product display), desktop viewport framing\\nSubject: young East Asian woman smiling and touching her cheek, holding a dropper bottle of moisturizing serum\\nScene/backdrop: soft gradient background from white to pale pink, subtle floral accents with purple flowers scattered in corners, generous negative space\\nLighting/mood: soft diffused studio lighting, clean and fresh mood, premium beauty product atmosphere\\nColor palette: soft pink as primary, white as base, purple flowers as accent, gold for stat card highlights\\nText (verbatim): \\\"LUMEA BEAUTY\\\", \\\"特徴\\\", \\\"成分\\\", \\\"お客様の声\\\", \\\"使い方\\\", \\\"FAQ\\\", \\\"今すぐ試す\\\", \\\"鏡を見るたび、うるおう透明感。\\\", \\\"乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。\\\", \\\"敏感肌OK\\\", \\\"高保湿\\\", \\\"朝晩使える\\\", \\\"美容成分をしっかり届ける\\\", \\\"ハリ・ツヤのある印象へ\\\", \\\"続けやすいシンプルケア\\\", \\\"初回限定で試してみる >\\\", \\\"成分をチェック >\\\", \\\"送料無料 / 初回限定 / 定期縛りなし\\\", \\\"満足度 96%\\\", \\\"美容成分 5種配合\\\", \\\"愛用者 12,000人突破\\\", \\\"うるおい\\\", \\\"透明感\\\", \\\"使いやすさ\\\"\\nConstraints: all Japanese text must be legible at web resolution; UI elements must follow logical hierarchy; pill badges and stat cards must be clearly readable\\nAvoid: cluttered layout, illegible small text, dark or moody lighting, masculine or aggressive styling, generic stock photo aesthetic\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 17479
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a cross-border e-commerce promotional campaign.\n\nStyle/medium: needs a layered typographic aesthetic with artistic lettering — exact stylistic execution is yours\nComposition: must be 16:9 aspect ratio, must include layered/stacked typography arrangement, must include products or main subjects partially overlapping/obscuring some text elements\nSubject: must include products or main promotional subjects as focal elements\nScene/backdrop: \nLighting/mood: needs a promotional campaign atmosphere — exact light treatment is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include artistic lettering with stacked/layered typography\nConstraints: must maintain visual complexity without appearing cluttered, must preserve 16:9 aspect ratio\nAvoid: must avoid visual chaos despite complexity",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b1aff33c-04d4-4315-9840-7692f4981657/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for a cross-border e-commerce promotional campaign.\\n\\nStyle/medium: needs a layered typographic aesthetic with artistic lettering — exact stylistic execution is yours\\nComposition: must be 16:9 aspect ratio, must include layered/stacked typography arrangement, must include products or main subjects partially overlapping/obscuring some text elements\\nSubject: must include products or main promotional subjects as focal elements\\nScene/backdrop: \\nLighting/mood: needs a promotional campaign atmosphere — exact light treatment is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include artistic lettering with stacked/layered typography\\nConstraints: must maintain visual complexity without appearing cluttered, must preserve 16:9 aspect ratio\\nAvoid: must avoid visual chaos despite complexity\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14682
+}

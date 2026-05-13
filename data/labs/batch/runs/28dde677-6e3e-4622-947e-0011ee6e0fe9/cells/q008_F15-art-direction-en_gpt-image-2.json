@@ -1,0 +1,21 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign.\n\nStyle/medium: needs a complex-yet-structured commercial poster aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include layered typography stacking with artistic lettering; must include a product or hero subject physically overlapping and partially obscuring some of the type layers\nSubject: must include a hero product or brand subject as the focal element that overlaps the text\nScene/backdrop: \nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs a bold, eye-catching direction suited to 跨境电商 promotions — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must preserve all four compositional rules: (1) artistic lettering present, (2) typography stacking / layering present, (3) visually rich but not chaotic, (4) product/subject overlaps and occludes portions of the type\nAvoid: must avoid cluttered or disorganized layouts despite visual complexity",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Af3edc1c7-c77f-450c-a5d5-5c49ef743a5a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign.\\n\\nStyle/medium: needs a complex-yet-structured commercial poster aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include layered typography stacking with artistic lettering; must include a product or hero subject physically overlapping and partially obscuring some of the type layers\\nSubject: must include a hero product or brand subject as the focal element that overlaps the text\\nScene/backdrop: \\nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs a bold, eye-catching direction suited to 跨境电商 promotions — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must preserve all four compositional rules: (1) artistic lettering present, (2) typography stacking / layering present, (3) visually rich but not chaotic, (4) product/subject overlaps and occludes portions of the type\\nAvoid: must avoid cluttered or disorganized layouts despite visual complexity\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9756
+}

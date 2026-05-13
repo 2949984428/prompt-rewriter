@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing panoramic illustration of the 元宵 (Lantern Festival) in Tang Dynasty 长安城 (Chang'an).\n\nStyle/medium: needs a \"工笔重彩\" (fine-line heavy-color painting) aesthetic rendered as a horizontal handscroll — exact stylistic execution is yours\nComposition: must be a wide horizontal scroll (长卷) composition with a sweeping panoramic view of the city\nSubject: must include thousands of lanterns (万盏花灯) illuminating the night sky, festival crowds, and Tang Dynasty 长安城 architecture\nScene/backdrop: must include 长安城 at night during 元宵 festival — grand city gates, lantern-lined avenues, and celebratory atmosphere\nLighting/mood: needs a warm, luminous night atmosphere lit by massed lantern glow — exact light source mix is yours\nColor palette: needs a rich, jewel-toned \"重彩\" direction — exact pigment choices and ratios are yours\nMaterials/textures: needs a silk or fine paper handscroll surface treatment — exact texture weight is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2c6d8052-cdca-4c75-9d36-9acdd06b0cb2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing panoramic illustration of the 元宵 (Lantern Festival) in Tang Dynasty 长安城 (Chang'an).\\n\\nStyle/medium: needs a \\\"工笔重彩\\\" (fine-line heavy-color painting) aesthetic rendered as a horizontal handscroll — exact stylistic execution is yours\\nComposition: must be a wide horizontal scroll (长卷) composition with a sweeping panoramic view of the city\\nSubject: must include thousands of lanterns (万盏花灯) illuminating the night sky, festival crowds, and Tang Dynasty 长安城 architecture\\nScene/backdrop: must include 长安城 at night during 元宵 festival — grand city gates, lantern-lined avenues, and celebratory atmosphere\\nLighting/mood: needs a warm, luminous night atmosphere lit by massed lantern glow — exact light source mix is yours\\nColor palette: needs a rich, jewel-toned \\\"重彩\\\" direction — exact pigment choices and ratios are yours\\nMaterials/textures: needs a silk or fine paper handscroll surface treatment — exact texture weight is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13710
+}

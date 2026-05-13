@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic poster for a fantasy-romance film in the style of 1990s Hong Kong cinema, featuring two lovers embracing on a city wall.\n\nStyle/medium: 35mm film photography aesthetic, 1990s Hong Kong cinema poster style in the spirit of Wong Kar-wai and Jeff Lau — heavy film grain, slightly faded color, analog warmth\nComposition: mid-shot centered on the embracing couple against the ancient city wall, wide enough to reveal two distant figures standing apart in the background, slight low-angle to emphasize the wall's grandeur\nSubject: a young man in patchwork jester-like costume (至尊宝 archetype) and a ethereal woman in flowing purple robes (紫霞 archetype) locked in a passionate kiss against a weathered stone city wall; in the far background, a large imposing bull-demon figure (牛魔王 archetype) and a monk in white robes (唐僧 archetype) stand silently watching\nScene/backdrop: ancient Chinese fortress city wall at golden hour, crumbling stone battlements, vast open sky behind, dusty haze on the horizon\nLighting/mood: warm amber backlight from a low sun, rim-lighting the couple's silhouettes, melancholic and bittersweet romantic tension, soft lens flare\nColor palette: warm amber and dusty gold dominate, purple accent from the woman's robes, desaturated teal shadows — palette feels sun-bleached and nostalgic\nMaterials/textures: heavy analog film grain overlaid across entire frame, visible halation around bright edges, slight color bleed at highlights, worn poster print texture\nAvoid: CGI-clean renders, oversaturated colors, modern digital sharpness, watermark, generic wuxia poster clichés, lens flare as stuffer",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3d59cadd-b198-41cd-9707-78527d68a141/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing cinematic poster for a fantasy-romance film in the style of 1990s Hong Kong cinema, featuring two lovers embracing on a city wall.\\n\\nStyle/medium: 35mm film photography aesthetic, 1990s Hong Kong cinema poster style in the spirit of Wong Kar-wai and Jeff Lau — heavy film grain, slightly faded color, analog warmth\\nComposition: mid-shot centered on the embracing couple against the ancient city wall, wide enough to reveal two distant figures standing apart in the background, slight low-angle to emphasize the wall's grandeur\\nSubject: a young man in patchwork jester-like costume (至尊宝 archetype) and a ethereal woman in flowing purple robes (紫霞 archetype) locked in a passionate kiss against a weathered stone city wall; in the far background, a large imposing bull-demon figure (牛魔王 archetype) and a monk in white robes (唐僧 archetype) stand silently watching\\nScene/backdrop: ancient Chinese fortress city wall at golden hour, crumbling stone battlements, vast open sky behind, dusty haze on the horizon\\nLighting/mood: warm amber backlight from a low sun, rim-lighting the couple's silhouettes, melancholic and bittersweet romantic tension, soft lens flare\\nColor palette: warm amber and dusty gold dominate, purple accent from the woman's robes, desaturated teal shadows — palette feels sun-bleached and nostalgic\\nMaterials/textures: heavy analog film grain overlaid across entire frame, visible halation around bright edges, slight color bleed at highlights, worn poster print texture\\nAvoid: CGI-clean renders, oversaturated colors, modern digital sharpness, watermark, generic wuxia poster clichés, lens flare as stuffer\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13816
+}

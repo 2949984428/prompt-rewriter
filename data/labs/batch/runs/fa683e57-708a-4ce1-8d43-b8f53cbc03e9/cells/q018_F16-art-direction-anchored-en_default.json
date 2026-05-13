@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a professional product photography scene featuring a smartwatch (all in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"简约商务\" aesthetic — references in the spirit of Apple product photography heritage, Kinfolk magazine still-life editorial style, Scandinavian minimalism; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a smartwatch (one) as the focal product, a coffee cup, and a notebook\nScene/backdrop: must include a marble surface as the base\nLighting/mood: needs natural side-lighting atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a premium surface treatment — exact material sheen and weight is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b11056b7-74e2-4127-a47e-1edff25e60e8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a professional product photography scene featuring a smartwatch (all in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"简约商务\\\" aesthetic — references in the spirit of Apple product photography heritage, Kinfolk magazine still-life editorial style, Scandinavian minimalism; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a smartwatch (one) as the focal product, a coffee cup, and a notebook\\nScene/backdrop: must include a marble surface as the base\\nLighting/mood: needs natural side-lighting atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a premium surface treatment — exact material sheen and weight is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9817
+}

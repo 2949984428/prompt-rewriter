@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a professional food photography shot of a meticulously plated French Michelin three-star main course — sous-vide duck breast with truffle sauce.\n\nStyle/medium: professional commercial food photography, macro close-up with shallow depth of field, high color saturation, editorial food magazine aesthetic\nComposition: macro close-up framing, extreme shallow depth of field, precise focus on duck breast cross-section texture, shallow angle perspective\nSubject: sous-vide duck breast sliced in neat arrangement, golden-brown crispy skin, pink juicy interior, fresh black truffle slices on top\nScene/backdrop: dark marble countertop, fine dining luxury restaurant atmosphere, white bone china plate\nLighting/mood: dramatic side lighting from left, highlighting texture and gloss, warm and luxurious mood\nColor palette: rich golden-brown duck skin, pink meat interior, deep purple chicory, vibrant orange micro carrots, dark marble as neutral base\nMaterials/textures: crispy caramelized skin with visible texture, juicy meat fibers, glossy truffle sauce brush strokes, delicate edible flower petals\nAvoid: flat lighting, oversaturated colors, plastic-looking food, deformed plate edges, watermark, generic stock photo aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/223764a8-9d07-48fb-8197-0907557367f1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a professional food photography shot of a meticulously plated French Michelin three-star main course — sous-vide duck breast with truffle sauce.\\n\\nStyle/medium: professional commercial food photography, macro close-up with shallow depth of field, high color saturation, editorial food magazine aesthetic\\nComposition: macro close-up framing, extreme shallow depth of field, precise focus on duck breast cross-section texture, shallow angle perspective\\nSubject: sous-vide duck breast sliced in neat arrangement, golden-brown crispy skin, pink juicy interior, fresh black truffle slices on top\\nScene/backdrop: dark marble countertop, fine dining luxury restaurant atmosphere, white bone china plate\\nLighting/mood: dramatic side lighting from left, highlighting texture and gloss, warm and luxurious mood\\nColor palette: rich golden-brown duck skin, pink meat interior, deep purple chicory, vibrant orange micro carrots, dark marble as neutral base\\nMaterials/textures: crispy caramelized skin with visible texture, juicy meat fibers, glossy truffle sauce brush strokes, delicate edible flower petals\\nAvoid: flat lighting, oversaturated colors, plastic-looking food, deformed plate edges, watermark, generic stock photo aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9734
+}

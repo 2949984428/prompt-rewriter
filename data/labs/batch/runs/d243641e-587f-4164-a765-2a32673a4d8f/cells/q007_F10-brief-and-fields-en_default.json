@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a photorealistic product shot of a ByteDance employee ID badge, showing both front and back sides.\n\nStyle/medium: photorealistic studio product photography, clean white or light grey background, sharp focus throughout\nComposition: two badges laid flat or slightly angled side by side — front face on the left, back face on the right — top-down or slight 15° overhead angle, 50mm macro lens\nSubject: corporate employee ID badge for ByteDance; front side features the ByteDance logo, a placeholder employee photo portrait, employee name, department, and employee ID number printed in clean sans-serif type; back side features a magnetic stripe or barcode/QR code, company address or policy text, and a clip or lanyard hole at the top\nScene/backdrop: neutral light grey seamless surface, minimal shadow beneath each badge\nLighting/mood: soft diffused overhead studio light, subtle shadow on one side to convey depth and physicality, clean and corporate\nColor palette: white badge base with ByteDance brand colors (black and orange accent) as primary; muted grey background to keep focus on the badge\nMaterials/textures: glossy PVC card surface with slight specular highlight, visible edge thickness, lanyard slot detail\nAvoid: cartoon style, illustrated look, floating badges without surface, distorted text, blurry details, generic placeholder badge design unrelated to ByteDance",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ce1327df-703a-489c-abd4-255e8a3d9678/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a photorealistic product shot of a ByteDance employee ID badge, showing both front and back sides.\\n\\nStyle/medium: photorealistic studio product photography, clean white or light grey background, sharp focus throughout\\nComposition: two badges laid flat or slightly angled side by side — front face on the left, back face on the right — top-down or slight 15° overhead angle, 50mm macro lens\\nSubject: corporate employee ID badge for ByteDance; front side features the ByteDance logo, a placeholder employee photo portrait, employee name, department, and employee ID number printed in clean sans-serif type; back side features a magnetic stripe or barcode/QR code, company address or policy text, and a clip or lanyard hole at the top\\nScene/backdrop: neutral light grey seamless surface, minimal shadow beneath each badge\\nLighting/mood: soft diffused overhead studio light, subtle shadow on one side to convey depth and physicality, clean and corporate\\nColor palette: white badge base with ByteDance brand colors (black and orange accent) as primary; muted grey background to keep focus on the badge\\nMaterials/textures: glossy PVC card surface with slight specular highlight, visible edge thickness, lanyard slot detail\\nAvoid: cartoon style, illustrated look, floating badges without surface, distorted text, blurry details, generic placeholder badge design unrelated to ByteDance\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11594
+}

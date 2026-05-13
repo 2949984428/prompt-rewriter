@@ -1,0 +1,31 @@
+{
+  "id": "ffec0a7f-99ae-430e-b8f1-f9cb5cd497ba",
+  "created_at": "2026-05-08T06:54:11.048Z",
+  "name": "1",
+  "query_mode": "manual",
+  "purpose": "",
+  "queries": [
+    "一个巧克力"
+  ],
+  "skill_ids": [
+    "F10-brief-and-fields-en"
+  ],
+  "scoring_dimensions": [
+    {
+      "id": "overall",
+      "label": "总体观感",
+      "description": ""
+    },
+    {
+      "id": "intent",
+      "label": "意图还原度",
+      "description": "prompt 是否抓住了用户原意"
+    }
+  ],
+  "rewrite_llm": "bedrock/claude-sonnet-4-6",
+  "status": "finished",
+  "include_universal": true,
+  "cell_keys": [
+    "q000_F10-brief-and-fields-en_default"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 251,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:弹唱机白底0283 拷贝] [@image:#2:image] 将图一中的电子琴，参照图二中pad的排列方式排列，最前面的电子琴垂直于画面，另外四个相同的电子琴也键盘朝向镜头，向左侧有序旋转，参考图二的排列方式，产品外观，细节均保持不变，光影也参照图二效果，透视符合实际，4K，高清晰度，Apple风格海报，摄影大师级别，发布在微信公众号",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa3756181-709d-4f63-8225-0d3ec6c328a2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:弹唱机白底0283 拷贝] [@image:#2:image] 将图一中的电子琴，参照图二中pad的排列方式排列，最前面的电子琴垂直于画面，另外四个相同的电子琴也键盘朝向镜头，向左侧有序旋转，参考图二的排列方式，产品外观，细节均保持不变，光影也参照图二效果，透视符合实际，4K，高清晰度，Apple风格海报，摄影大师级别，发布在微信公众号\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3203,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

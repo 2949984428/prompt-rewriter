@@ -1,0 +1,20 @@
+{
+  "query_idx": 29,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing illustration of a dreamy underwater fairy-tale world.\n\nStyle/medium: needs a dreamy fairy-tale aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include a mermaid swimming among coral reefs, glowing jellyfish, and a sunken ship with treasure\nScene/backdrop: must include an underwater world with light rays penetrating from the sea surface\nLighting/mood: needs a dreamlike atmosphere with light rays from above — exact light source mix is yours\nColor palette: needs a vibrant, dreamlike direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b3a15ea3-a3d2-421a-b1e0-1205c6fdeca8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing illustration of a dreamy underwater fairy-tale world.\\n\\nStyle/medium: needs a dreamy fairy-tale aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include a mermaid swimming among coral reefs, glowing jellyfish, and a sunken ship with treasure\\nScene/backdrop: must include an underwater world with light rays penetrating from the sea surface\\nLighting/mood: needs a dreamlike atmosphere with light rays from above — exact light source mix is yours\\nColor palette: needs a vibrant, dreamlike direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8760
+}

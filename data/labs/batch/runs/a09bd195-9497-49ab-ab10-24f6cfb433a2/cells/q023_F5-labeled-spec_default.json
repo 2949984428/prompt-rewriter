@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: tactical gear catalog spread, square crop\nPrimary request: flat-lay display of military tactical equipment arranged in orderly grid\nScene/backdrop: dark matte surface, deep charcoal or black background, clean studio environment\nSubject: assorted firearms (rifles, pistols), ballistic vest with MOLLE webbing, night vision goggles, tactical pouches, magazines, arranged in symmetrical neat rows\nStyle/medium: photorealistic product photography, military catalog aesthetic\nComposition/framing: top-down flat lay, centered arrangement, wide shot showing full layout\nLighting/mood: cold directional lighting from above, hard shadows, dramatic contrast, professional and imposing atmosphere\nColor palette: deep blacks, gunmetal gray, olive drab, muted earth tones, subtle cold highlights\nMaterials/textures: matte carbon fiber, Cordura nylon, anodized aluminum, rubberized grips, ballistic ceramic plates\nConstraints: keep all equipment in sharp focus, maintain orderly military precision in arrangement\nAvoid: warm lighting, cluttered composition, cartoonish rendering, plastic toy appearance, lens flare",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/15736e4f-92a4-4ffd-ae92-a863941af97c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: tactical gear catalog spread, square crop\\nPrimary request: flat-lay display of military tactical equipment arranged in orderly grid\\nScene/backdrop: dark matte surface, deep charcoal or black background, clean studio environment\\nSubject: assorted firearms (rifles, pistols), ballistic vest with MOLLE webbing, night vision goggles, tactical pouches, magazines, arranged in symmetrical neat rows\\nStyle/medium: photorealistic product photography, military catalog aesthetic\\nComposition/framing: top-down flat lay, centered arrangement, wide shot showing full layout\\nLighting/mood: cold directional lighting from above, hard shadows, dramatic contrast, professional and imposing atmosphere\\nColor palette: deep blacks, gunmetal gray, olive drab, muted earth tones, subtle cold highlights\\nMaterials/textures: matte carbon fiber, Cordura nylon, anodized aluminum, rubberized grips, ballistic ceramic plates\\nConstraints: keep all equipment in sharp focus, maintain orderly military precision in arrangement\\nAvoid: warm lighting, cluttered composition, cartoonish rendering, plastic toy appearance, lens flare\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10398
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: commercial interior photography for medical aesthetic clinic brochure\nPrimary request: symmetrical wide shot of a modern minimalist skin treatment room in a high-end medical aesthetic clinic\nScene/backdrop: spacious treatment room with frosted glass sliding door revealing soft hallway light, professional medical environment\nSubject: ergonomic electric treatment bed at center, LED phototherapy device and RF beauty equipment at headboard, large electronic skin analyzer display on wall, floor-to-ceiling skincare display cabinet with premium medical-grade products (hyaluronic acid serums, collagen masks, anti-aging ampoules), shadowless surgical light and smart dimming system on ceiling\nStyle/medium: commercial interior photography, photorealistic architectural visualization\nComposition/framing: symmetrical layout emphasizing professional order, wide establishing shot, centered perspective\nLighting/mood: soft natural medical-grade clean lighting with smooth shadow transitions, adjustable color temperature and brightness\nColor palette: minimalist white + natural wood tones + subtle green accents from plants, moderate saturation\nMaterials/textures: genuine leather bed surface texture, cool metallic sheen on instruments, warm tactile wood elements, frosted glass translucency\nConstraints: maintain symmetrical composition, emphasize \"technology meets nature\" design philosophy, professional and clean atmosphere\nAvoid: cluttered composition, harsh shadows, oversaturated colors, plastic-looking materials, watermark, text overlay",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c7776729-ff5b-4f1c-bb0a-86d6e3720240/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: commercial interior photography for medical aesthetic clinic brochure\\nPrimary request: symmetrical wide shot of a modern minimalist skin treatment room in a high-end medical aesthetic clinic\\nScene/backdrop: spacious treatment room with frosted glass sliding door revealing soft hallway light, professional medical environment\\nSubject: ergonomic electric treatment bed at center, LED phototherapy device and RF beauty equipment at headboard, large electronic skin analyzer display on wall, floor-to-ceiling skincare display cabinet with premium medical-grade products (hyaluronic acid serums, collagen masks, anti-aging ampoules), shadowless surgical light and smart dimming system on ceiling\\nStyle/medium: commercial interior photography, photorealistic architectural visualization\\nComposition/framing: symmetrical layout emphasizing professional order, wide establishing shot, centered perspective\\nLighting/mood: soft natural medical-grade clean lighting with smooth shadow transitions, adjustable color temperature and brightness\\nColor palette: minimalist white + natural wood tones + subtle green accents from plants, moderate saturation\\nMaterials/textures: genuine leather bed surface texture, cool metallic sheen on instruments, warm tactile wood elements, frosted glass translucency\\nConstraints: maintain symmetrical composition, emphasize \\\"technology meets nature\\\" design philosophy, professional and clean atmosphere\\nAvoid: cluttered composition, harsh shadows, oversaturated colors, plastic-looking materials, watermark, text overlay\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13128
+}

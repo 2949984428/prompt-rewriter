@@ -1,0 +1,23 @@
+{
+  "query_idx": 212,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图，提升画质并适配 Instagram Story 格式。\n\n风格/媒介:\n构图:\n主体:保持原图主体不变\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  保留原图内容与风格\n  输出比例适配 Instagram Story（9:16 竖版）\n避免:改变原图构图或主体内容",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acf6a68eb-7b2a-477e-853e-55956522cb4b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图，提升画质并适配 Instagram Story 格式。\\n\\n风格/媒介:\\n构图:\\n主体:保持原图主体不变\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  保留原图内容与风格\\n  输出比例适配 Instagram Story（9:16 竖版）\\n避免:改变原图构图或主体内容\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 5311,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID badge for a fictional company called 字节期动, front and back sides.\n\nStyle/medium: photorealistic product photography, corporate ID card mockup\nSubject: employee badge with photo placeholder, name field, ID number, company logo area, front and back views\nComposition: flat lay product shot, two cards arranged side by side showing front and reverse, top-down perspective\nScene/backdrop: clean neutral surface, subtle shadow beneath cards\nLighting/mood: soft diffused studio lighting from top-left, minimal shadows, professional corporate mood\nColor palette: corporate blue and white as base, subtle gray accents\nMaterials/textures: matte plastic card surface, smooth rounded corners, subtle thickness visible at edges\nText (verbatim): \"字节期动\"\nConstraints: both front and back sides must be visible; realistic card thickness and proportions; readable layout\nAvoid: cartoonish rendering, overly glossy surfaces, distorted text, watermark, 8K stuffer aesthetic",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4fb3ef69-f07c-483b-8fe8-42c9881e4ae7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing employee ID badge for a fictional company called 字节期动, front and back sides.\\n\\nStyle/medium: photorealistic product photography, corporate ID card mockup\\nSubject: employee badge with photo placeholder, name field, ID number, company logo area, front and back views\\nComposition: flat lay product shot, two cards arranged side by side showing front and reverse, top-down perspective\\nScene/backdrop: clean neutral surface, subtle shadow beneath cards\\nLighting/mood: soft diffused studio lighting from top-left, minimal shadows, professional corporate mood\\nColor palette: corporate blue and white as base, subtle gray accents\\nMaterials/textures: matte plastic card surface, smooth rounded corners, subtle thickness visible at edges\\nText (verbatim): \\\"字节期动\\\"\\nConstraints: both front and back sides must be visible; realistic card thickness and proportions; readable layout\\nAvoid: cartoonish rendering, overly glossy surfaces, distorted text, watermark, 8K stuffer aesthetic\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8635
+}

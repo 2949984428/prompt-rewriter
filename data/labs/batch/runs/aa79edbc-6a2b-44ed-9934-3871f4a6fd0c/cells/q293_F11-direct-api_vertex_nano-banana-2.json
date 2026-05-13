@@ -1,0 +1,23 @@
+{
+  "query_idx": 293,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:笑脸图案改色][@image:#2:笑脸图案改色]图像比例调整为小红书封面3﹕4",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A31f7d360-37bd-412a-b110-db16caffe78d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:笑脸图案改色][@image:#2:笑脸图案改色]图像比例调整为小红书封面3﹕4\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4156,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

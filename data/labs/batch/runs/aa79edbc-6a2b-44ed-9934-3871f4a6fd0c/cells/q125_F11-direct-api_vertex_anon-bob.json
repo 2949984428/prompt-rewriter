@@ -1,0 +1,23 @@
+{
+  "query_idx": 125,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:01-主图1]16:9宽屏，生成场景图2张，美式复古轻奢客厅场景，暖棕色调，光线偏暗柔和；画面右侧是融蜡灯产品和蜡烛杯@[@image:#1:01-主图1]，暖光温柔照亮下方琥珀色香薰蜡烛；右侧搭配米白色陶瓷花瓶（插干尤加利叶）、一本英文书籍；左侧是米色布艺沙发，沙发后面是浅米色纱帘，整体氛围温馨治愈，充满复古轻奢感，产品突出，适合亚马逊电商场景图，",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 2,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A569afcbb-9423-4691-9014-78b33c88eebf/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:01-主图1]16:9宽屏，生成场景图2张，美式复古轻奢客厅场景，暖棕色调，光线偏暗柔和；画面右侧是融蜡灯产品和蜡烛杯@[@image:#1:01-主图1]，暖光温柔照亮下方琥珀色香薰蜡烛；右侧搭配米白色陶瓷花瓶（插干尤加利叶）、一本英文书籍；左侧是米色布艺沙发，沙发后面是浅米色纱帘，整体氛围温馨治愈，充满复古轻奢感，产品突出，适合亚马逊电商场景图，\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 2, \"output_format\": \"png\"}",
+  "ms": 3954,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

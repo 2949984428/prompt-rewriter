@@ -1,0 +1,23 @@
+{
+  "query_idx": 299,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Gerar thumbnail de YouTube altamente criativa para convidar o público a assistir ao próximo vídeo.\n\n风格/媒介: thumbnail de YouTube, design editorial criativo\n构图: composição dinâmica e chamativa, elementos visuais que convidem ao clique (call-to-action visual)\n主体: Professora Juliana Freitas em destaque, logotipo integrado ao layout, tema do vídeo como elemento central\n场景/背景: fundo que reforce o tema do vídeo\n光线/氛围: atmosfera convidativa e energética\n色彩方案:\n材质/纹理:\n文字(原样):\n约束: incluir imagem da Professora Juliana Freitas, logotipo e tema do vídeo; formato thumbnail YouTube (proporção 16:9)\n避免: layout genérico ou sem identidade visual clara",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af51563be-ae51-46bf-9383-1dbc00803513/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Gerar thumbnail de YouTube altamente criativa para convidar o público a assistir ao próximo vídeo.\\n\\n风格/媒介: thumbnail de YouTube, design editorial criativo\\n构图: composição dinâmica e chamativa, elementos visuais que convidem ao clique (call-to-action visual)\\n主体: Professora Juliana Freitas em destaque, logotipo integrado ao layout, tema do vídeo como elemento central\\n场景/背景: fundo que reforce o tema do vídeo\\n光线/氛围: atmosfera convidativa e energética\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束: incluir imagem da Professora Juliana Freitas, logotipo e tema do vídeo; formato thumbnail YouTube (proporção 16:9)\\n避免: layout genérico ou sem identidade visual clara\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9902,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

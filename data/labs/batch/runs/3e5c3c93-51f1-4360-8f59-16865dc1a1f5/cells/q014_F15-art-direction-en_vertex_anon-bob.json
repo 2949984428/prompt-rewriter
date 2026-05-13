@@ -1,0 +1,21 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original UI design system showcase illustration featuring a web Dashboard, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\nComposition: must include multi-layer layout presenting web Dashboard, mobile UI, cards, buttons, and controls together in one cohesive system view\nSubject: must include all UI components:\n  - Web Dashboard panel (data visualizations, charts, nav)\n  - Mobile interface screens (at least 2 views)\n  - Card components (various states)\n  - Button components (various states)\n  - Controls / widgets (toggles, sliders, inputs, etc.)\nScene/backdrop: needs a deep dark tech environment — exact background treatment is yours\nLighting/mood: needs a visually striking, high-impact atmosphere with strong depth and hierarchy — exact light source mix is yours\nColor palette: needs a cool-toned tech direction with vivid accent highlights — exact hex values and ratios are yours\nMaterials/textures: needs a sleek, glass-morphism or layered surface treatment — exact sheen and depth is yours\nText (verbatim): \nConstraints: must preserve clear visual hierarchy across all UI layers; all components must read as part of one unified design system\nAvoid: flat, low-contrast, or cluttered layouts that obscure component hierarchy",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A11cc9e87-25fb-448e-9a5d-da53c62ad789/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original UI design system showcase illustration featuring a web Dashboard, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\\nComposition: must include multi-layer layout presenting web Dashboard, mobile UI, cards, buttons, and controls together in one cohesive system view\\nSubject: must include all UI components:\\n  - Web Dashboard panel (data visualizations, charts, nav)\\n  - Mobile interface screens (at least 2 views)\\n  - Card components (various states)\\n  - Button components (various states)\\n  - Controls / widgets (toggles, sliders, inputs, etc.)\\nScene/backdrop: needs a deep dark tech environment — exact background treatment is yours\\nLighting/mood: needs a visually striking, high-impact atmosphere with strong depth and hierarchy — exact light source mix is yours\\nColor palette: needs a cool-toned tech direction with vivid accent highlights — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek, glass-morphism or layered surface treatment — exact sheen and depth is yours\\nText (verbatim): \\nConstraints: must preserve clear visual hierarchy across all UI layers; all components must read as part of one unified design system\\nAvoid: flat, low-contrast, or cluttered layouts that obscure component hierarchy\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8938
+}

@@ -1,0 +1,19 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 工笔重彩 horizontal scroll painting of a 元宵灯会 panorama in 唐代长安城.\n\nStyle/medium: needs a 工笔重彩长卷 aesthetic — exact brushwork, pigment layering, and scroll proportion are yours\nComposition: must be panoramic horizontal scroll (长卷) format\nSubject: must include the 元宵灯会 scene with 万盏花灯 illuminating the night sky\nScene/backdrop: must include 唐代长安城 as the setting\nLighting/mood: needs a lantern-lit night atmosphere with warm, luminous glow — exact light source arrangement is yours\nColor palette: needs a rich, jewel-toned 重彩 direction — exact pigment choices and ratios are yours\nMaterials/textures: needs a traditional silk or paper scroll surface treatment — exact texture weight is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-02-img2-east-us2.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing 工笔重彩 horizontal scroll painting of a 元宵灯会 panorama in 唐代长安城.\\n\\nStyle/medium: needs a 工笔重彩长卷 aesthetic — exact brushwork, pigment layering, and scroll proportion are yours\\nComposition: must be panoramic horizontal scroll (长卷) format\\nSubject: must include the 元宵灯会 scene with 万盏花灯 illuminating the night sky\\nScene/backdrop: must include 唐代长安城 as the setting\\nLighting/mood: needs a lantern-lit night atmosphere with warm, luminous glow — exact light source arrangement is yours\\nColor palette: needs a rich, jewel-toned 重彩 direction — exact pigment choices and ratios are yours\\nMaterials/textures: needs a traditional silk or paper scroll surface treatment — exact texture weight is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7147
+}

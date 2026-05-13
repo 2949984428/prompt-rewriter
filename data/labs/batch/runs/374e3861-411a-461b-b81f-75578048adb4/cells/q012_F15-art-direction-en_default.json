@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing interior illustration of a dark gothic castle.\n\nStyle/medium: needs a dark gothic aesthetic — exact stylistic execution is yours\nComposition: must include towering vaulted ceilings as the dominant architectural feature\nSubject: must include candelabras and iron chains as decorative elements\nScene/backdrop: must be a castle interior with tall vaulted ceilings and stained glass windows\nLighting/mood: needs a mysterious, oppressive atmosphere with blood-red light filtering through stained glass — exact light source mix and shadow density are yours\nColor palette: must be blood-red dominant with heavy shadows\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b9cbfc6b-092a-4bd7-9e2a-c4872a0fa145/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing interior illustration of a dark gothic castle.\\n\\nStyle/medium: needs a dark gothic aesthetic — exact stylistic execution is yours\\nComposition: must include towering vaulted ceilings as the dominant architectural feature\\nSubject: must include candelabras and iron chains as decorative elements\\nScene/backdrop: must be a castle interior with tall vaulted ceilings and stained glass windows\\nLighting/mood: needs a mysterious, oppressive atmosphere with blood-red light filtering through stained glass — exact light source mix and shadow density are yours\\nColor palette: must be blood-red dominant with heavy shadows\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7385
+}

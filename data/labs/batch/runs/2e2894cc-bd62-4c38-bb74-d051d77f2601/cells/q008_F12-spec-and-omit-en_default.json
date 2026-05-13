@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing promotional poster for cross-border e-commerce marketing.\n\nStyle/medium: promotional poster with artistic typography, layered/stacked fonts\nComposition: 16:9 aspect ratio, complex but not cluttered layout, product or subject overlapping/obscuring parts of text\nSubject: product or main subject blocking some text\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: complex composition, artistic typography, font stacking, product/subject overlapping text, 16:9 ratio\nAvoid: cluttered appearance",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8cff88f1-ce95-428a-8d97-ac9478e3f4d2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing promotional poster for cross-border e-commerce marketing.\\n\\nStyle/medium: promotional poster with artistic typography, layered/stacked fonts\\nComposition: 16:9 aspect ratio, complex but not cluttered layout, product or subject overlapping/obscuring parts of text\\nSubject: product or main subject blocking some text\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: complex composition, artistic typography, font stacking, product/subject overlapping text, 16:9 ratio\\nAvoid: cluttered appearance\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7054
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: social-media-cover\nAsset type: Xiaohongshu (小红书) 9-grid cover, vertical format\nPrimary request: collage-style 9-grid layout featuring DJI Pocket 4 product as a casual user-generated content aesthetic\nScene/backdrop: lifestyle flatlays and handheld POV shots, cozy home desk, outdoor street scenes, cafe setting\nSubject: DJI Pocket 4 handheld gimbal camera in various real-life usage scenarios, natural unpolished moments\nStyle/medium: authentic amateur photography, warm and approachable, slightly desaturated film-like tones\nComposition/framing: 9-square grid layout, central title placement, each cell showing different angle or use case\nLighting/mood: soft natural daylight, cozy and relatable, casual everyday vibe\nColor palette: warm beige, soft cream, muted pastels with orange/gray DJI product accents\nMaterials/textures: matte paper textures, fabric surfaces, natural wood, soft shadows\nText (verbatim): \"大强pocket4初体验\"\nConstraints: keep the amateur/casual aesthetic, no overly polished commercial look, cute and distinctive typography for title\nAvoid: professional studio lighting, stock photo aesthetic, generic sans-serif fonts, over-saturated colors, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0b9567a3-c6cb-45c1-a68e-d7bc71820ea0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: social-media-cover\\nAsset type: Xiaohongshu (小红书) 9-grid cover, vertical format\\nPrimary request: collage-style 9-grid layout featuring DJI Pocket 4 product as a casual user-generated content aesthetic\\nScene/backdrop: lifestyle flatlays and handheld POV shots, cozy home desk, outdoor street scenes, cafe setting\\nSubject: DJI Pocket 4 handheld gimbal camera in various real-life usage scenarios, natural unpolished moments\\nStyle/medium: authentic amateur photography, warm and approachable, slightly desaturated film-like tones\\nComposition/framing: 9-square grid layout, central title placement, each cell showing different angle or use case\\nLighting/mood: soft natural daylight, cozy and relatable, casual everyday vibe\\nColor palette: warm beige, soft cream, muted pastels with orange/gray DJI product accents\\nMaterials/textures: matte paper textures, fabric surfaces, natural wood, soft shadows\\nText (verbatim): \\\"大强pocket4初体验\\\"\\nConstraints: keep the amateur/casual aesthetic, no overly polished commercial look, cute and distinctive typography for title\\nAvoid: professional studio lighting, stock photo aesthetic, generic sans-serif fonts, over-saturated colors, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11415
+}

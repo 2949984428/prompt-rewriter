@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic-style scientific visualization combining macro and micro views of the human nervous system.\n\nStyle/medium: scientific infographic blending medical illustration precision with art poster visual impact, inspired by NASA cosmic imagery and vintage anatomy atlases\nComposition: central translucent human silhouette with glowing neural network extending from cerebral cortex through spinal cord to limb extremities, inset zoom panel showing single neuron ultrastructure\nSubject: macro view — luminous blue-white neural pathways resembling cosmic nebulae; micro view — detailed neuron with dendrites, axon, myelin sheath, synaptic vesicles, neurotransmitter particles dispersing across synaptic cleft\nScene/backdrop: deep cosmic black void suggesting infinite space\nLighting/mood: bioluminescent glow emanating from neural pathways, subtle rim lighting on human silhouette, mysterious and awe-inspiring\nColor palette: cool cyan and ice blue as dominant, pale white for neural glow, sparse gold accents for focal points, deep black negative space\nMaterials/textures: semi-transparent organic membranes, phosphorescent fiber-optic neural tracts, crystalline synaptic structures\nConstraints: suitable for educational publishing and medical brand communications; must maintain scientific accuracy in neuron anatomy\nAvoid: cartoon simplification, oversaturated neon colors, cluttered composition, photorealistic skin texture, 8K stuffer language",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/519d619f-3167-4fbe-bd4f-e5890882252a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an infographic-style scientific visualization combining macro and micro views of the human nervous system.\\n\\nStyle/medium: scientific infographic blending medical illustration precision with art poster visual impact, inspired by NASA cosmic imagery and vintage anatomy atlases\\nComposition: central translucent human silhouette with glowing neural network extending from cerebral cortex through spinal cord to limb extremities, inset zoom panel showing single neuron ultrastructure\\nSubject: macro view — luminous blue-white neural pathways resembling cosmic nebulae; micro view — detailed neuron with dendrites, axon, myelin sheath, synaptic vesicles, neurotransmitter particles dispersing across synaptic cleft\\nScene/backdrop: deep cosmic black void suggesting infinite space\\nLighting/mood: bioluminescent glow emanating from neural pathways, subtle rim lighting on human silhouette, mysterious and awe-inspiring\\nColor palette: cool cyan and ice blue as dominant, pale white for neural glow, sparse gold accents for focal points, deep black negative space\\nMaterials/textures: semi-transparent organic membranes, phosphorescent fiber-optic neural tracts, crystalline synaptic structures\\nConstraints: suitable for educational publishing and medical brand communications; must maintain scientific accuracy in neuron anatomy\\nAvoid: cartoon simplification, oversaturated neon colors, cluttered composition, photorealistic skin texture, 8K stuffer language\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10782
+}

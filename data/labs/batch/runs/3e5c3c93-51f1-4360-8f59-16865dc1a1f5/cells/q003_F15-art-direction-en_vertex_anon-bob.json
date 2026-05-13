@@ -1,0 +1,21 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: needs a modern, clean, universally approachable aesthetic — exact stylistic execution is yours\nComposition: must be a square avatar format with a clear focal center suitable for small display sizes\nSubject: must include visual elements representing the three content pillars: new energy vehicles, digital/tech products, and lifestyle goods — balanced and harmonious in a single composition\nScene/backdrop: needs a neutral, platform-agnostic backdrop — exact treatment is yours\nLighting/mood: needs a fresh, energetic, and friendly atmosphere — exact light treatment is yours\nColor palette: needs a vibrant yet universally neutral direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must be culturally neutral and visually inoffensive across both Chinese and international social platforms; must avoid any symbols, gestures, colors, or imagery that carry negative or taboo connotations in any major culture\nAvoid: must avoid religious symbols, politically sensitive imagery, culturally specific taboo colors or gestures, human faces or portraits, and any brand-identifiable product designs",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aae3523d5-062b-4386-9a77-98771b9e2f7b/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit https://aka.ms/aoaicodeofconduct\",\"error_code\":\"API_CALL_ERROR\",\"provider_error_code\":\"Forbidden\",\"http_status_code\":403,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: needs a modern, clean, universally approachable aesthetic — exact stylistic execution is yours\\nComposition: must be a square avatar format with a clear focal center suitable for small display sizes\\nSubject: must include visual elements representing the three content pillars: new energy vehicles, digital/tech products, and lifestyle goods — balanced and harmonious in a single composition\\nScene/backdrop: needs a neutral, platform-agnostic backdrop — exact treatment is yours\\nLighting/mood: needs a fresh, energetic, and friendly atmosphere — exact light treatment is yours\\nColor palette: needs a vibrant yet universally neutral direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must be culturally neutral and visually inoffensive across both Chinese and international social platforms; must avoid any symbols, gestures, colors, or imagery that carry negative or taboo connotations in any major culture\\nAvoid: must avoid religious symbols, politically sensitive imagery, culturally specific taboo colors or gestures, human faces or portraits, and any brand-identifiable product designs\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9689
+}

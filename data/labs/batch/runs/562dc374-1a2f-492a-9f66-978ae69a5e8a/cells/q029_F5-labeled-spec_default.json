@@ -1,0 +1,20 @@
+{
+  "query_idx": 29,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-fantasy\nAsset type: children's book illustration, digital painting\nPrimary request: dreamy underwater fairy-tale world with mermaids swimming among coral reefs, glowing jellyfish, and sunken treasure\nScene/backdrop: enchanted ocean depths with coral reef formations, ancient shipwreck with scattered gold coins and chests, sunbeams piercing from surface\nSubject: graceful mermaids with flowing hair and shimmering tails, translucent bioluminescent jellyfish, colorful tropical fish\nStyle/medium: fantasy digital illustration, whimsical storybook aesthetic, soft painterly style\nComposition/framing: wide establishing shot, diagonal sunbeams creating depth layers\nLighting/mood: ethereal god rays filtering through water, magical bioluminescence, dreamy and wonder-filled atmosphere\nColor palette: iridescent blues and teals, coral pinks and oranges, gold treasure accents, soft violet and cyan glows\nMaterials/textures: silky mermaid tails with scale shimmer, soft jellyfish translucency, weathered wood of shipwreck, smooth pearls and gold\nConstraints: maintain dreamlike quality with all elements harmoniously blended\nAvoid: photorealistic rendering, harsh shadows, cluttered composition, scary or dark tones",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6fba811d-de78-4500-968a-620c4ae6403c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-fantasy\\nAsset type: children's book illustration, digital painting\\nPrimary request: dreamy underwater fairy-tale world with mermaids swimming among coral reefs, glowing jellyfish, and sunken treasure\\nScene/backdrop: enchanted ocean depths with coral reef formations, ancient shipwreck with scattered gold coins and chests, sunbeams piercing from surface\\nSubject: graceful mermaids with flowing hair and shimmering tails, translucent bioluminescent jellyfish, colorful tropical fish\\nStyle/medium: fantasy digital illustration, whimsical storybook aesthetic, soft painterly style\\nComposition/framing: wide establishing shot, diagonal sunbeams creating depth layers\\nLighting/mood: ethereal god rays filtering through water, magical bioluminescence, dreamy and wonder-filled atmosphere\\nColor palette: iridescent blues and teals, coral pinks and oranges, gold treasure accents, soft violet and cyan glows\\nMaterials/textures: silky mermaid tails with scale shimmer, soft jellyfish translucency, weathered wood of shipwreck, smooth pearls and gold\\nConstraints: maintain dreamlike quality with all elements harmoniously blended\\nAvoid: photorealistic rendering, harsh shadows, cluttered composition, scary or dark tones\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12359
+}

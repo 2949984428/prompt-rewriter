@@ -1,0 +1,23 @@
+{
+  "query_idx": 165,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（#1:IMG_1519）。\n\n风格/媒介:产品建模级精修，photorealistic\n构图:\n主体:\n  黑色橡胶轮胎\n  去除刺头、灰尘、指纹，还原崭新质感\n  保留并还原轮胎花纹细节\n场景/背景:亚马逊标准白底\n光线/氛围:\n色彩方案:黑色橡胶质感\n材质/纹理:崭新黑色橡胶，哑光亚光轮胎纹理\n文字(原样):\n约束:\n  精修完美无痕\n  保持产品原有造型与花纹结构不变\n避免:刺头、灰尘、指纹、瑕疵、阴影污渍",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aba0283bf-7a97-4e87-82df-6896a4739e83/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（#1:IMG_1519）。\\n\\n风格/媒介:产品建模级精修，photorealistic\\n构图:\\n主体:\\n  黑色橡胶轮胎\\n  去除刺头、灰尘、指纹，还原崭新质感\\n  保留并还原轮胎花纹细节\\n场景/背景:亚马逊标准白底\\n光线/氛围:\\n色彩方案:黑色橡胶质感\\n材质/纹理:崭新黑色橡胶，哑光亚光轮胎纹理\\n文字(原样):\\n约束:\\n  精修完美无痕\\n  保持产品原有造型与花纹结构不变\\n避免:刺头、灰尘、指纹、瑕疵、阴影污渍\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 6156,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

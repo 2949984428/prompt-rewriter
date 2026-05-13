@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original digital illustration of a 赛博朋克 futuristic city nightscape (all in-image text in Chinese).\n\nStyle/medium: needs a \"赛博朋克\" aesthetic — exact stylistic execution is yours\nComposition: must include towering skyscrapers filling the frame, flying cars weaving between buildings, and ground-level puddles in the foreground reflecting neon lights\nSubject: must include:\n  - dense futuristic skyline with 高楼林立\n  - multiple flying cars in motion through the cityscape\n  - acid rain falling from the sky\n  - ground-level water puddles with neon light reflections\nScene/backdrop: must include a futuristic city at night with acid rain atmosphere\nLighting/mood: needs a 科技感 and 颓废 atmosphere — exact light source mix and neon flicker treatment are yours\nColor palette: must be blue-purple (蓝紫) dominant with neon accent lighting\nMaterials/textures: needs a wet, reflective surface treatment for ground and a hazy rain-diffused atmosphere — exact grain and sheen are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fd5b393a-5a48-4eeb-88b2-0101d2b8f998/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original digital illustration of a 赛博朋克 futuristic city nightscape (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"赛博朋克\\\" aesthetic — exact stylistic execution is yours\\nComposition: must include towering skyscrapers filling the frame, flying cars weaving between buildings, and ground-level puddles in the foreground reflecting neon lights\\nSubject: must include:\\n  - dense futuristic skyline with 高楼林立\\n  - multiple flying cars in motion through the cityscape\\n  - acid rain falling from the sky\\n  - ground-level water puddles with neon light reflections\\nScene/backdrop: must include a futuristic city at night with acid rain atmosphere\\nLighting/mood: needs a 科技感 and 颓废 atmosphere — exact light source mix and neon flicker treatment are yours\\nColor palette: must be blue-purple (蓝紫) dominant with neon accent lighting\\nMaterials/textures: needs a wet, reflective surface treatment for ground and a hazy rain-diffused atmosphere — exact grain and sheen are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10196
+}

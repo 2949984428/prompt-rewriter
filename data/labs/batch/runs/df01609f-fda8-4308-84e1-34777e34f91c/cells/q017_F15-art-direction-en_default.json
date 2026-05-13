@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing abstract expressionist artwork suitable for display in a modern art gallery (all in-image text in Chinese).\n\nStyle/medium: needs an 抽象表现主义 aesthetic — exact stylistic execution is yours\nComposition: needs a dynamic, non-figurative composition filled with emotional energy — exact framing and gesture direction are yours\nSubject: must include no concrete figures or recognizable forms — pure abstraction only\nScene/backdrop: \nLighting/mood: needs a mood of intense emotion and raw energy — exact atmospheric treatment is yours\nColor palette: needs bold, clashing color collisions — exact hues, ratios, and contrasts are yours\nMaterials/textures: needs a fluid, gestural brushwork surface — exact stroke weight, layering, and paint texture are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must contain no representational imagery — abstract only\nAvoid: must avoid any concrete figures, recognizable objects, or literal narrative imagery",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b494087e-66d3-4d1e-93cc-8e3205e60a31/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing abstract expressionist artwork suitable for display in a modern art gallery (all in-image text in Chinese).\\n\\nStyle/medium: needs an 抽象表现主义 aesthetic — exact stylistic execution is yours\\nComposition: needs a dynamic, non-figurative composition filled with emotional energy — exact framing and gesture direction are yours\\nSubject: must include no concrete figures or recognizable forms — pure abstraction only\\nScene/backdrop: \\nLighting/mood: needs a mood of intense emotion and raw energy — exact atmospheric treatment is yours\\nColor palette: needs bold, clashing color collisions — exact hues, ratios, and contrasts are yours\\nMaterials/textures: needs a fluid, gestural brushwork surface — exact stroke weight, layering, and paint texture are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must contain no representational imagery — abstract only\\nAvoid: must avoid any concrete figures, recognizable objects, or literal narrative imagery\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9812
+}

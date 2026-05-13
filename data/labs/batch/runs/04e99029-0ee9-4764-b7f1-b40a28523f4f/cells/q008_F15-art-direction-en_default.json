@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a cross-border e-commerce promotional campaign.\n\nStyle/medium: needs a layered typography aesthetic with artistic lettering — exact stylistic execution is yours\nComposition: must be 16:9 aspect ratio, must include overlapping/stacked typography with product or subject partially obscuring some text, complex but not cluttered\nSubject: must include a product or main subject positioned to block portions of the text\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must preserve layered/artistic typography treatment, text stacking must be visible, partial occlusion by subject must be present, overall complexity without visual chaos\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f46bdd16-3a0a-4b10-b604-efebf4d9498b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster for a cross-border e-commerce promotional campaign.\\n\\nStyle/medium: needs a layered typography aesthetic with artistic lettering — exact stylistic execution is yours\\nComposition: must be 16:9 aspect ratio, must include overlapping/stacked typography with product or subject partially obscuring some text, complex but not cluttered\\nSubject: must include a product or main subject positioned to block portions of the text\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must preserve layered/artistic typography treatment, text stacking must be visible, partial occlusion by subject must be present, overall complexity without visual chaos\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9530
+}

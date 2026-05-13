@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a detailed technical infographic of a Sony A7 camera, fully exploded/disassembled view with all parts labeled by name.\n\nStyle/medium: clean technical illustration, exploded-view diagram in the style of a precision engineering manual, flat vector with subtle depth shading\nComposition: centered exploded-view layout, isometric or slightly angled perspective, each component spatially separated with leader lines pointing to labels\nSubject: Sony A7 mirrorless camera fully disassembled into all individual parts — body shell, sensor unit, shutter mechanism, mirror box, battery compartment, card slot, lens mount, buttons, dials, circuit boards, cables, screws, grip rubber, viewfinder module, LCD screen assembly — each part labeled with its official name in English\nScene/backdrop: clean white or very light gray background, no environment\nLighting/mood: flat, even diffused light, no harsh shadows, technical clarity over atmosphere\nColor palette: neutral gray and black for camera parts, white background, accent color (blue or red) for leader lines and label text\nText (verbatim): \"Sony A7\"\nConstraints: all part labels must be legible; leader lines must clearly connect each label to its corresponding component; layout must not overlap parts or text\nAvoid: photorealistic rendering that obscures part boundaries, decorative backgrounds, missing labels, overlapping text, generic camera silhouette without detail",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5d9171ca-9e78-4568-aabe-045352523903/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a detailed technical infographic of a Sony A7 camera, fully exploded/disassembled view with all parts labeled by name.\\n\\nStyle/medium: clean technical illustration, exploded-view diagram in the style of a precision engineering manual, flat vector with subtle depth shading\\nComposition: centered exploded-view layout, isometric or slightly angled perspective, each component spatially separated with leader lines pointing to labels\\nSubject: Sony A7 mirrorless camera fully disassembled into all individual parts — body shell, sensor unit, shutter mechanism, mirror box, battery compartment, card slot, lens mount, buttons, dials, circuit boards, cables, screws, grip rubber, viewfinder module, LCD screen assembly — each part labeled with its official name in English\\nScene/backdrop: clean white or very light gray background, no environment\\nLighting/mood: flat, even diffused light, no harsh shadows, technical clarity over atmosphere\\nColor palette: neutral gray and black for camera parts, white background, accent color (blue or red) for leader lines and label text\\nText (verbatim): \\\"Sony A7\\\"\\nConstraints: all part labels must be legible; leader lines must clearly connect each label to its corresponding component; layout must not overlap parts or text\\nAvoid: photorealistic rendering that obscures part boundaries, decorative backgrounds, missing labels, overlapping text, generic camera silhouette without detail\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10381
+}

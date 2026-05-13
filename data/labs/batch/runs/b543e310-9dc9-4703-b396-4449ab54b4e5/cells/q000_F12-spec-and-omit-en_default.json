@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for Xiaohongshu featuring bubble tea in a pink girly summer style.\n\nStyle/medium: \nComposition: \nSubject: bubble tea (pearl milk tea)\nScene/backdrop: \nLighting/mood: summer freshness\nColor palette: pink, girly aesthetic\nMaterials/textures: \nText (verbatim): 小红书\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/94d61894-7a93-42d5-87bf-1ea7060d6ae7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for Xiaohongshu featuring bubble tea in a pink girly summer style.\\n\\nStyle/medium: \\nComposition: \\nSubject: bubble tea (pearl milk tea)\\nScene/backdrop: \\nLighting/mood: summer freshness\\nColor palette: pink, girly aesthetic\\nMaterials/textures: \\nText (verbatim): 小红书\\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5018
+}

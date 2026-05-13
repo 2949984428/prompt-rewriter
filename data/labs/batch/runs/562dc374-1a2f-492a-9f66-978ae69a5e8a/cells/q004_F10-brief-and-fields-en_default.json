@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial food photography shot of a Japanese tonkotsu ramen bowl with chopsticks lifting noodles.\n\nStyle/medium: food editorial photography, Japanese culinary magazine aesthetic, photorealistic\nComposition: tight close-up macro shot, shallow depth of field, 85mm lens equivalent, chopsticks entering frame from upper right\nSubject: tonkotsu ramen with rich milky pork bone broth, visible chashu slices, soft-boiled ajitsuke tamago with runny yolk, nori sheets, chopped scallions, steam rising\nScene/backdrop: dark wooden table surface, heavily blurred restaurant interior background\nLighting/mood: soft diffused side lighting from upper left, warm highlights on broth surface, appetizing and intimate\nColor palette: creamy off-white broth as base, rich brown chashu, golden yolk, dark green nori, bright green scallions as accents\nMaterials/textures: glossy broth sheen, tender meat fibers, silky noodle strands, steam wisps\nAvoid: plastic-looking food, oversaturated colors, watermarks, text overlays, generic stock photo aesthetic",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2e32c3cc-15e8-4948-aee8-b33922dab126/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial food photography shot of a Japanese tonkotsu ramen bowl with chopsticks lifting noodles.\\n\\nStyle/medium: food editorial photography, Japanese culinary magazine aesthetic, photorealistic\\nComposition: tight close-up macro shot, shallow depth of field, 85mm lens equivalent, chopsticks entering frame from upper right\\nSubject: tonkotsu ramen with rich milky pork bone broth, visible chashu slices, soft-boiled ajitsuke tamago with runny yolk, nori sheets, chopped scallions, steam rising\\nScene/backdrop: dark wooden table surface, heavily blurred restaurant interior background\\nLighting/mood: soft diffused side lighting from upper left, warm highlights on broth surface, appetizing and intimate\\nColor palette: creamy off-white broth as base, rich brown chashu, golden yolk, dark green nori, bright green scallions as accents\\nMaterials/textures: glossy broth sheen, tender meat fibers, silky noodle strands, steam wisps\\nAvoid: plastic-looking food, oversaturated colors, watermarks, text overlays, generic stock photo aesthetic\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10136
+}

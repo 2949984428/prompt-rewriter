@@ -1,0 +1,23 @@
+{
+  "query_idx": 193,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张小红书商品主图。\n\n风格/媒介：电商场景合成图，photorealistic\n构图：1:1 方形构图，保留场景合成图[@image:#1]中的人物与场景，人物完整出镜，包包作为视觉重点\n主体：人物（保持[@image:#1]中的服装与场景不变）手持或背负包包[@image:#2]\n场景/背景：与[@image:#1]场景保持一致\n光线/氛围：与[@image:#1]保持一致\n色彩方案：\n材质/纹理：包包细节参考[@image:#2]白底精修图\n文字(原样)：\n约束：\n  人物服装、场景不变\n  包包须与[@image:#2]一致\n  包包为画面视觉重心\n避免：改变人物服装或场景风格",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4c70c1b7-7b51-4db1-8b4b-d939f36dd10f/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张小红书商品主图。\\n\\n风格/媒介：电商场景合成图，photorealistic\\n构图：1:1 方形构图，保留场景合成图[@image:#1]中的人物与场景，人物完整出镜，包包作为视觉重点\\n主体：人物（保持[@image:#1]中的服装与场景不变）手持或背负包包[@image:#2]\\n场景/背景：与[@image:#1]场景保持一致\\n光线/氛围：与[@image:#1]保持一致\\n色彩方案：\\n材质/纹理：包包细节参考[@image:#2]白底精修图\\n文字(原样)：\\n约束：\\n  人物服装、场景不变\\n  包包须与[@image:#2]一致\\n  包包为画面视觉重心\\n避免：改变人物服装或场景风格\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7508,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial still-life photograph of a rough ceramic vase on a weathered wooden table (all in-image text in Chinese).\n\nStyle/medium: needs a \"侘寂\" (wabi-sabi) aesthetic — exact stylistic execution is yours\nComposition: must include the vase as focal subject centered on the table, with natural light raking in diagonally from a window\nSubject: must include a rough stoneware/coarse-clay vase (one) with dry bare branches arranged inside\nScene/backdrop: must include a weathered wooden table surface with visible age marks and patina\nLighting/mood: needs a natural window-light atmosphere with raking diagonal light that emphasizes texture, imperfection, and the passage of time — exact light source mix is yours\nColor palette: needs a muted, desaturated, earthy direction — exact tones and ratios are yours\nMaterials/textures: needs a surface treatment that foregrounds imperfection — rough clay, worn wood grain, dry brittle branches — exact grain and sheen levels are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must emphasize the beauty of imperfection and traces of time throughout the image\nAvoid: must avoid overly polished, glossy, or artificially perfect surfaces; must avoid studio-lit or commercial-product aesthetics",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/38a2393a-9e0a-4dd5-8e11-0f78e342f6ab/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial still-life photograph of a rough ceramic vase on a weathered wooden table (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"侘寂\\\" (wabi-sabi) aesthetic — exact stylistic execution is yours\\nComposition: must include the vase as focal subject centered on the table, with natural light raking in diagonally from a window\\nSubject: must include a rough stoneware/coarse-clay vase (one) with dry bare branches arranged inside\\nScene/backdrop: must include a weathered wooden table surface with visible age marks and patina\\nLighting/mood: needs a natural window-light atmosphere with raking diagonal light that emphasizes texture, imperfection, and the passage of time — exact light source mix is yours\\nColor palette: needs a muted, desaturated, earthy direction — exact tones and ratios are yours\\nMaterials/textures: needs a surface treatment that foregrounds imperfection — rough clay, worn wood grain, dry brittle branches — exact grain and sheen levels are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must emphasize the beauty of imperfection and traces of time throughout the image\\nAvoid: must avoid overly polished, glossy, or artificially perfect surfaces; must avoid studio-lit or commercial-product aesthetics\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12530
+}

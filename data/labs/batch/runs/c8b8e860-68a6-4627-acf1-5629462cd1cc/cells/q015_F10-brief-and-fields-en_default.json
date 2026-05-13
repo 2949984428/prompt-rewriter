@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing screenshot of a Douyin live stream featuring a female streamer called 神仙姐姐.\n\nStyle/medium: mobile UI screenshot, Douyin live interface mockup, clean digital interface\nComposition: 9:16 vertical aspect ratio, full-screen mobile view, streamer centered in frame with live chat and interaction buttons visible at bottom\nSubject: female streamer 神仙姐姐 holding a sign/board in her hands, elegant appearance, engaging expression, positioned in upper-middle of frame\nScene/backdrop: typical live streaming room interior with soft decorative background, ring light reflection visible\nLighting/mood: soft diffused ring light on streamer's face, warm and inviting atmosphere suitable for casual chatting\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: UI elements must resemble actual Douyin live interface including viewer count, gift buttons, comment section; text on sign must be clearly readable\nAvoid: blurry text, distorted facial features, cluttered interface, watermark from other platforms, overly dramatic lighting",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ae73aee9-25cf-4a9a-9e3c-833864b202b9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing screenshot of a Douyin live stream featuring a female streamer called 神仙姐姐.\\n\\nStyle/medium: mobile UI screenshot, Douyin live interface mockup, clean digital interface\\nComposition: 9:16 vertical aspect ratio, full-screen mobile view, streamer centered in frame with live chat and interaction buttons visible at bottom\\nSubject: female streamer 神仙姐姐 holding a sign/board in her hands, elegant appearance, engaging expression, positioned in upper-middle of frame\\nScene/backdrop: typical live streaming room interior with soft decorative background, ring light reflection visible\\nLighting/mood: soft diffused ring light on streamer's face, warm and inviting atmosphere suitable for casual chatting\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: UI elements must resemble actual Douyin live interface including viewer count, gift buttons, comment section; text on sign must be clearly readable\\nAvoid: blurry text, distorted facial features, cluttered interface, watermark from other platforms, overly dramatic lighting\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15802
+}

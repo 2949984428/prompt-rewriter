@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic concept art, wide panoramic\nPrimary request: panoramic view of a Mars colony in 2387 with transparent dome cities, solar arrays, and terraforming structures\nScene/backdrop: Martian red desert landscape, Olympus Mons visible in the distance, orange-red Martian sky\nSubject: massive transparent geodesic dome city with lush vegetation and high-rise buildings inside, giant solar collection arrays and atmospheric processors operating outside, team of explorers in advanced spacesuits conducting geological surveys, multiple six-wheeled Mars rovers\nStyle/medium: photorealistic CGI, hard sci-fi aesthetic, realistic rendering\nComposition/framing: wide panoramic shot, establishing view showing scale and depth\nLighting/mood: Martian daylight simulation, dramatic atmospheric haze, epic and futuristic\nColor palette: ochre red, orange-yellow, silver-gray, muted Martian tones\nMaterials/textures: transparent polymer dome surfaces, metallic solar panels, dusty red regolith, advanced composite spacesuit materials\nConstraints: maintain scientific accuracy for Mars environment, keep Olympus Mons visible in background, preserve hard sci-fi realism\nAvoid: fantasy elements, Earth-like blue sky, cartoonish proportions, lens flare abuse, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/965a2dc7-645b-4555-9dfb-b96e4fa911e2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic concept art, wide panoramic\\nPrimary request: panoramic view of a Mars colony in 2387 with transparent dome cities, solar arrays, and terraforming structures\\nScene/backdrop: Martian red desert landscape, Olympus Mons visible in the distance, orange-red Martian sky\\nSubject: massive transparent geodesic dome city with lush vegetation and high-rise buildings inside, giant solar collection arrays and atmospheric processors operating outside, team of explorers in advanced spacesuits conducting geological surveys, multiple six-wheeled Mars rovers\\nStyle/medium: photorealistic CGI, hard sci-fi aesthetic, realistic rendering\\nComposition/framing: wide panoramic shot, establishing view showing scale and depth\\nLighting/mood: Martian daylight simulation, dramatic atmospheric haze, epic and futuristic\\nColor palette: ochre red, orange-yellow, silver-gray, muted Martian tones\\nMaterials/textures: transparent polymer dome surfaces, metallic solar panels, dusty red regolith, advanced composite spacesuit materials\\nConstraints: maintain scientific accuracy for Mars environment, keep Olympus Mons visible in background, preserve hard sci-fi realism\\nAvoid: fantasy elements, Earth-like blue sky, cartoonish proportions, lens flare abuse, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11244
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide for an automotive brand launch campaign.\n\nStyle/medium: needs a cinematic, high-impact visual aesthetic with a translucent / atmospheric quality — exact stylistic execution is yours\nComposition: must be a wide horizontal cover layout with title and subtitle positioned to complement the hero background\nSubject: must include 长安起源Q06 as the hero subject\nScene/backdrop: needs a dramatic, immersive backdrop that feels premium and brand-aligned — exact scene treatment is yours\nLighting/mood: needs a breathtaking, awe-inspiring atmosphere — exact light source mix and mood intensity are yours\nColor palette: needs a direction aligned with automotive brand prestige — exact palette and ratios are yours\nMaterials/textures: needs a sense of depth and translucency in the background — exact surface treatment is yours\nText (verbatim): must include \"长安起源Q06\" (primary title), \"9月正式上市\" (subtitle)\nConstraints: must preserve the PPT cover format (16:9 wide), title and subtitle must be legible against the background\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A127f28f2-2a8c-4f66-9e5e-14e46bc09ecc/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-04-img2-sweden.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide for an automotive brand launch campaign.\\n\\nStyle/medium: needs a cinematic, high-impact visual aesthetic with a translucent / atmospheric quality — exact stylistic execution is yours\\nComposition: must be a wide horizontal cover layout with title and subtitle positioned to complement the hero background\\nSubject: must include 长安起源Q06 as the hero subject\\nScene/backdrop: needs a dramatic, immersive backdrop that feels premium and brand-aligned — exact scene treatment is yours\\nLighting/mood: needs a breathtaking, awe-inspiring atmosphere — exact light source mix and mood intensity are yours\\nColor palette: needs a direction aligned with automotive brand prestige — exact palette and ratios are yours\\nMaterials/textures: needs a sense of depth and translucency in the background — exact surface treatment is yours\\nText (verbatim): must include \\\"长安起源Q06\\\" (primary title), \\\"9月正式上市\\\" (subtitle)\\nConstraints: must preserve the PPT cover format (16:9 wide), title and subtitle must be legible against the background\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8463
+}

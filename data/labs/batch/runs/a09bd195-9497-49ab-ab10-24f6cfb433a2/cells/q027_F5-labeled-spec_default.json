@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: character-illustration\nAsset type: game splash art / character splash, vertical portrait\nPrimary request: mysterious oriental ancient-style female character playing guqin in bamboo forest under moonlight, ethereal and immortal aura\nScene/backdrop: dense bamboo forest at night, moonlight filtering through bamboo leaves creating dappled shadows on ground\nSubject: Hanfu-clad young woman with flowing wide sleeves, elegant posture seated playing guqin, long flowing hair and ribbons, serene expression\nStyle/medium: Chinese ink wash painting meets modern game illustration, ethereal fantasy art\nComposition/framing: medium shot with environmental context, vertical format, subject slightly off-center with bamboo framing\nLighting/mood: soft moonlight with dramatic leaf-cast shadows, mystical and serene atmosphere\nColor palette: deep jade greens, moonlight silver-white, ink black, muted gold accents on Hanfu\nMaterials/textures: flowing silk Hanfu with subtle embroidery, glossy bamboo stalks, polished wooden guqin\nConstraints: maintain traditional Hanfu silhouette with wide sleeves, ensure guqin is correctly depicted, keep ethereal floating ribbon elements\nAvoid: modern clothing elements, anime-style oversized eyes, cluttered background, bright artificial colors, western fantasy armor",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/043ad11c-bcba-4420-86b5-b5a0189bac01/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: character-illustration\\nAsset type: game splash art / character splash, vertical portrait\\nPrimary request: mysterious oriental ancient-style female character playing guqin in bamboo forest under moonlight, ethereal and immortal aura\\nScene/backdrop: dense bamboo forest at night, moonlight filtering through bamboo leaves creating dappled shadows on ground\\nSubject: Hanfu-clad young woman with flowing wide sleeves, elegant posture seated playing guqin, long flowing hair and ribbons, serene expression\\nStyle/medium: Chinese ink wash painting meets modern game illustration, ethereal fantasy art\\nComposition/framing: medium shot with environmental context, vertical format, subject slightly off-center with bamboo framing\\nLighting/mood: soft moonlight with dramatic leaf-cast shadows, mystical and serene atmosphere\\nColor palette: deep jade greens, moonlight silver-white, ink black, muted gold accents on Hanfu\\nMaterials/textures: flowing silk Hanfu with subtle embroidery, glossy bamboo stalks, polished wooden guqin\\nConstraints: maintain traditional Hanfu silhouette with wide sleeves, ensure guqin is correctly depicted, keep ethereal floating ribbon elements\\nAvoid: modern clothing elements, anime-style oversized eyes, cluttered background, bright artificial colors, western fantasy armor\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11139
+}

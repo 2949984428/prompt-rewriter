@@ -1,0 +1,23 @@
+{
+  "query_idx": 93,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "为品牌“环形空间”生成一套完整的品牌物料套装展示图，像一页成熟的品牌系统提案。品牌定位：专业设计工作室品牌 品牌气质：极简、现代、潮流、工业、专业、未来、科技 主色系：黑色、白色、灰色 辅助色：橙色、蓝色、紫色，需要包含以下物料：1.品牌海报 2.购物袋 3.品牌贴纸 4.品牌网站",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A17783469-100f-424e-91de-f5a89b26ef02/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"为品牌\\\"环形空间\\\"生成一套完整的品牌物料套装展示图，像一页成熟的品牌系统提案。品牌定位：专业设计工作室品牌 品牌气质：极简、现代、潮流、工业、专业、未来、科技 主色系：黑色、白色、灰色 辅助色：橙色、蓝色、紫色，需要包含以下物料：1.品牌海报 2.购物袋 3.品牌贴纸 4.品牌网站\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8932,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

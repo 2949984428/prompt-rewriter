@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior scene illustration of a Nordic home living room (all in-image text in Chinese).\n\nStyle/medium: needs a \"极简主义\" Nordic aesthetic — references in the spirit of MUJI spatial design philosophy, Scandinavian 1970s functional interior tradition, Kinfolk magazine editorial photography; exact stylistic execution is yours\nComposition: \nSubject: must include a gray fabric sofa, green plants, and a floor lamp as key furnishing elements\nScene/backdrop: must include white walls, light wood-tone flooring, and a large window with sunlight streaming in\nLighting/mood: needs a clean, bright, warm and cozy atmosphere — exact light source mix is yours\nColor palette: needs a direction of white, light wood tones, soft gray, and natural green — exact ratios and values are yours\nMaterials/textures: needs a soft, natural surface treatment (fabric, wood grain, linen) — exact grain and sheen is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/475f5bfd-3eca-4e92-be2d-19603792abd8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an interior scene illustration of a Nordic home living room (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"极简主义\\\" Nordic aesthetic — references in the spirit of MUJI spatial design philosophy, Scandinavian 1970s functional interior tradition, Kinfolk magazine editorial photography; exact stylistic execution is yours\\nComposition: \\nSubject: must include a gray fabric sofa, green plants, and a floor lamp as key furnishing elements\\nScene/backdrop: must include white walls, light wood-tone flooring, and a large window with sunlight streaming in\\nLighting/mood: needs a clean, bright, warm and cozy atmosphere — exact light source mix is yours\\nColor palette: needs a direction of white, light wood tones, soft gray, and natural green — exact ratios and values are yours\\nMaterials/textures: needs a soft, natural surface treatment (fabric, wood grain, linen) — exact grain and sheen is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8616
+}

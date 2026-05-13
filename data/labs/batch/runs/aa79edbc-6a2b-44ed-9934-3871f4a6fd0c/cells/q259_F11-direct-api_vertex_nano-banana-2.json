@@ -1,0 +1,23 @@
+{
+  "query_idx": 259,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Instagram Story - Nouveau Design Vitamine E] it looks so childish i want something professional for a high quality instagram page try the background to be blanc cassé",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3bcf0471-b418-4ffb-8a0f-8e3e1c5189de/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Instagram Story - Nouveau Design Vitamine E] it looks so childish i want something professional for a high quality instagram page try the background to be blanc cassé\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2816,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

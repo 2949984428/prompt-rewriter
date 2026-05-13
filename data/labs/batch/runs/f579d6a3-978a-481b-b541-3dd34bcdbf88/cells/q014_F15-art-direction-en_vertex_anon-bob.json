@@ -1,0 +1,21 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original UI design system showcase illustration featuring a web Dashboard, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\nComposition: must include multiple UI panels arranged in layered hierarchy — web Dashboard, mobile screens, cards, buttons, and controls all visible together\nSubject: must include:\n  - Web Dashboard panel\n  - Mobile interface screens\n  - Card components\n  - Button components\n  - UI controls / widgets\nScene/backdrop: needs a deep tech-dark environment — exact backdrop treatment is yours\nLighting/mood: needs a visually striking, high-impact atmosphere with strong depth and layering — exact light source mix is yours\nColor palette: needs a cool-toned tech direction — exact accent colors, gradients, and contrast ratios are yours\nMaterials/textures: needs a sleek, glass-morphism or sharp-edge surface treatment — exact sheen and depth is yours\nText (verbatim): \nConstraints: must preserve all five UI component categories; must convey strong visual hierarchy and tech sophistication\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A1ce6583f-029c-430c-9a55-cc0397c2eccb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original UI design system showcase illustration featuring a web Dashboard, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\\nComposition: must include multiple UI panels arranged in layered hierarchy — web Dashboard, mobile screens, cards, buttons, and controls all visible together\\nSubject: must include:\\n  - Web Dashboard panel\\n  - Mobile interface screens\\n  - Card components\\n  - Button components\\n  - UI controls / widgets\\nScene/backdrop: needs a deep tech-dark environment — exact backdrop treatment is yours\\nLighting/mood: needs a visually striking, high-impact atmosphere with strong depth and layering — exact light source mix is yours\\nColor palette: needs a cool-toned tech direction — exact accent colors, gradients, and contrast ratios are yours\\nMaterials/textures: needs a sleek, glass-morphism or sharp-edge surface treatment — exact sheen and depth is yours\\nText (verbatim): \\nConstraints: must preserve all five UI component categories; must convey strong visual hierarchy and tech sophistication\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7761
+}

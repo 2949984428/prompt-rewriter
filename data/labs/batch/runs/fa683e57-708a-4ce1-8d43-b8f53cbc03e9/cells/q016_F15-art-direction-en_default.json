@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a scene illustration of a warm family dinner gathering (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a warm, lived-in family-dinner aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a family gathered around a table, raising cups in celebration, expressions of joy and togetherness\nScene/backdrop: must include a Chinese round table (中式圆桌) with a steaming hotpot (火锅), walls covered with photos\nLighting/mood: needs warm yellow lighting with a cozy,烟火气 atmosphere — exact light source placement is yours\nColor palette: needs a warm yellow direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7e91559f-1cc2-4402-aa08-0be1fdbb5773/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a scene illustration of a warm family dinner gathering (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a warm, lived-in family-dinner aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a family gathered around a table, raising cups in celebration, expressions of joy and togetherness\\nScene/backdrop: must include a Chinese round table (中式圆桌) with a steaming hotpot (火锅), walls covered with photos\\nLighting/mood: needs warm yellow lighting with a cozy,烟火气 atmosphere — exact light source placement is yours\\nColor palette: needs a warm yellow direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9960
+}

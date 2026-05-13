@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial travel photography scene of a tropical resort pool.\n\nStyle/medium: needs a high-saturation tropical resort aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include an infinity pool, lounge chairs with umbrellas, coconut trees\nScene/backdrop: must include ocean view beyond the infinity pool, blue sky with white clouds\nLighting/mood: needs a bright, inviting vacation atmosphere — exact light source mix is yours\nColor palette: must be high-saturation direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1df97b8e-5da4-4194-8bd4-a534ab907cb5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial travel photography scene of a tropical resort pool.\\n\\nStyle/medium: needs a high-saturation tropical resort aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include an infinity pool, lounge chairs with umbrellas, coconut trees\\nScene/backdrop: must include ocean view beyond the infinity pool, blue sky with white clouds\\nLighting/mood: needs a bright, inviting vacation atmosphere — exact light source mix is yours\\nColor palette: must be high-saturation direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7456
+}

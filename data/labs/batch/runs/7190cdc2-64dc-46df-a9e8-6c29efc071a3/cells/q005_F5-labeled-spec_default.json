@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: architectural-visualization\nAsset type: professional architectural rendering, hero image\nPrimary request: modern minimalist villa perched on a tropical coastal cliff at golden hour\nScene/backdrop: dramatic coastal cliff overlooking tropical ocean, distant sailboats on the water, spectacular sunset sky with layered clouds\nSubject: pure white fair-faced concrete structure with floor-to-ceiling glass curtain walls, infinity pool extending from terrace visually merging with sea level, water reflecting orange-red sunset glow\nStyle/medium: photorealistic architectural visualization, professional 3D render\nComposition/framing: three-point perspective, wide establishing shot, balanced foreground-to-background depth\nLighting/mood: golden hour sunset lighting, soft warm ambient glow, dramatic sky illumination, luxurious resort atmosphere\nColor palette: warm orange-red sunset reflections, pure white concrete, deep blue ocean, golden sky gradients, lush tropical greens\nMaterials/textures: smooth fair-faced concrete, reflective glass, rippling pool water, teak wood lounge furniture, tropical foliage\nConstraints: maintain seamless indoor-outdoor visual flow, preserve infinity pool horizon illusion, keep minimalist aesthetic\nAvoid: cartoonish rendering, oversaturated colors, cluttered composition, artificial lighting artifacts",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/31f67ba8-2cfa-4dbd-a344-be237c2f179e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: architectural-visualization\\nAsset type: professional architectural rendering, hero image\\nPrimary request: modern minimalist villa perched on a tropical coastal cliff at golden hour\\nScene/backdrop: dramatic coastal cliff overlooking tropical ocean, distant sailboats on the water, spectacular sunset sky with layered clouds\\nSubject: pure white fair-faced concrete structure with floor-to-ceiling glass curtain walls, infinity pool extending from terrace visually merging with sea level, water reflecting orange-red sunset glow\\nStyle/medium: photorealistic architectural visualization, professional 3D render\\nComposition/framing: three-point perspective, wide establishing shot, balanced foreground-to-background depth\\nLighting/mood: golden hour sunset lighting, soft warm ambient glow, dramatic sky illumination, luxurious resort atmosphere\\nColor palette: warm orange-red sunset reflections, pure white concrete, deep blue ocean, golden sky gradients, lush tropical greens\\nMaterials/textures: smooth fair-faced concrete, reflective glass, rippling pool water, teak wood lounge furniture, tropical foliage\\nConstraints: maintain seamless indoor-outdoor visual flow, preserve infinity pool horizon illusion, keep minimalist aesthetic\\nAvoid: cartoonish rendering, oversaturated colors, cluttered composition, artificial lighting artifacts\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14334
+}

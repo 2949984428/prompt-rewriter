@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media avatar for a content creator focused on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: needs a modern, clean, globally neutral aesthetic — exact stylistic execution is yours\nComposition: must be centered and balanced, optimized for small circular avatar crop\nSubject: must include visual elements representing three content pillars: new energy / electric vehicles, digital/tech products, and lifestyle goods — unified into one cohesive icon or illustration\nScene/backdrop: \nLighting/mood: needs a friendly, approachable atmosphere — exact mood execution is yours\nColor palette: needs a vibrant yet universally harmonious direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must be culturally neutral and inoffensive across all major global markets and social platforms (CN, US, EU, Middle East, Southeast Asia); must avoid any symbols, gestures, colors, or imagery associated with political, religious, or culturally sensitive taboos in any major region; must work visually at small sizes (avatar thumbnail scale)\nAvoid: must avoid human figures, hands, flags, religious symbols, politically charged iconography, and any single-culture-specific motifs that may alienate international audiences",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a23ea2d8-0bb8-43d7-9ba0-744ac06b0054/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing social media avatar for a content creator focused on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: needs a modern, clean, globally neutral aesthetic — exact stylistic execution is yours\\nComposition: must be centered and balanced, optimized for small circular avatar crop\\nSubject: must include visual elements representing three content pillars: new energy / electric vehicles, digital/tech products, and lifestyle goods — unified into one cohesive icon or illustration\\nScene/backdrop: \\nLighting/mood: needs a friendly, approachable atmosphere — exact mood execution is yours\\nColor palette: needs a vibrant yet universally harmonious direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must be culturally neutral and inoffensive across all major global markets and social platforms (CN, US, EU, Middle East, Southeast Asia); must avoid any symbols, gestures, colors, or imagery associated with political, religious, or culturally sensitive taboos in any major region; must work visually at small sizes (avatar thumbnail scale)\\nAvoid: must avoid human figures, hands, flags, religious symbols, politically charged iconography, and any single-culture-specific motifs that may alienate international audiences\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11033
+}

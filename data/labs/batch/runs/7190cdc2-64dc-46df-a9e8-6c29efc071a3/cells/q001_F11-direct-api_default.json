@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "一位身着传统汉服的年轻女子站在江南古镇的石拱桥上，手持一把绘有青花瓷纹样的油纸伞，伞面半遮面容，眼神温柔而悠远。桥下流水潺潺，乌篷船缓缓驶过，船夫头戴斗笠，身姿从容。两岸白墙黛瓦的徽派建筑倒映水中，粉墙上爬满了青藤，木质窗棂雕刻着精细的花鸟纹样。天空阴云密布，细雨如丝，整个画面笼罩在一层朦胧的烟雨之中。风格参考中国工笔画与写意水墨的融合，色调淡雅，意境深远，充满东方美学韵味。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/11b1ffe8-8962-4d1b-aaae-a2eca58c0169/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

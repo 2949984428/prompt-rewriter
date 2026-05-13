@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial photo, travel magazine cover\nPrimary request: red convertible driving on Route 66 at sunset, evoking freedom and wanderlust\nScene/backdrop: American Southwest desert landscape, endless highway stretching to horizon, scattered saguaro cacti and tumbleweeds\nSubject: vintage red convertible with top down, chrome details gleaming, driver silhouette visible\nStyle/medium: 35mm film photography, retro Americana aesthetic, Kodachrome color grading\nComposition/framing: wide shot, low horizon line, car positioned in lower third moving toward vanishing point, 28mm wide-angle lens\nLighting/mood: golden hour sunset, warm orange-red sky gradients, long dramatic shadows, nostalgic and liberating atmosphere\nColor palette: burnt orange sky + deep red convertible + dusty beige desert + sage green cacti + warm amber highlights\nMaterials/textures: weathered asphalt with cracks, dusty desert sand, glossy car paint with sun reflections, spiky cactus surfaces\nConstraints: maintain the iconic Route 66 road sign visible in distance, keep warm sunset tones dominant\nAvoid: oversaturated neon colors, modern cars, urban elements, flat lighting, artificial HDR look",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/25931e3a-f412-4230-a146-fa3afb78f07a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: photorealistic-natural\\nAsset type: editorial photo, travel magazine cover\\nPrimary request: red convertible driving on Route 66 at sunset, evoking freedom and wanderlust\\nScene/backdrop: American Southwest desert landscape, endless highway stretching to horizon, scattered saguaro cacti and tumbleweeds\\nSubject: vintage red convertible with top down, chrome details gleaming, driver silhouette visible\\nStyle/medium: 35mm film photography, retro Americana aesthetic, Kodachrome color grading\\nComposition/framing: wide shot, low horizon line, car positioned in lower third moving toward vanishing point, 28mm wide-angle lens\\nLighting/mood: golden hour sunset, warm orange-red sky gradients, long dramatic shadows, nostalgic and liberating atmosphere\\nColor palette: burnt orange sky + deep red convertible + dusty beige desert + sage green cacti + warm amber highlights\\nMaterials/textures: weathered asphalt with cracks, dusty desert sand, glossy car paint with sun reflections, spiky cactus surfaces\\nConstraints: maintain the iconic Route 66 road sign visible in distance, keep warm sunset tones dominant\\nAvoid: oversaturated neon colors, modern cars, urban elements, flat lighting, artificial HDR look\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9768
+}

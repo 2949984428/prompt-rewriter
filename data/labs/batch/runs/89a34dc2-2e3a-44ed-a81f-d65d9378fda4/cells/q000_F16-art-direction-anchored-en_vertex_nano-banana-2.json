@@ -1,0 +1,23 @@
+{
+  "query_idx": 0,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个现代 logo，基于参考图中的 North Western Bus logo。\n\n风格/媒介:现代 logo 设计\n构图:\n主体:North Western Bus logo 的现代化重新设计\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:参考上传的 North Western Bus logo 图片，保留品牌核心识别元素\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acf929c38-0477-45a3-a6d8-5a3741f183f7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个现代 logo，基于参考图中的 North Western Bus logo。\\n\\n风格/媒介:现代 logo 设计\\n构图:\\n主体:North Western Bus logo 的现代化重新设计\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:参考上传的 North Western Bus logo 图片，保留品牌核心识别元素\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5270,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

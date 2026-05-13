@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a social media cover announcing GPT-image-2 launch on Lovart platform, targeting Xiaohongshu audience.\n\nStyle/medium: high-end editorial magazine cover aesthetic, clean minimalist design with bold typography\nComposition: diagonal layout with dynamic tension, main text angled 15-30 degrees from bottom-left to top-right, ample negative space\nSubject: bold headline typography featuring \"GPT-image-2\" and \"Lovart\" as focal points, modern sans-serif typeface\nScene/backdrop: abstract gradient or solid premium color field with subtle texture, no clutter\nLighting/mood: flat even lighting, sophisticated and confident mood\nColor palette: high-contrast pairing of deep charcoal or navy base with vivid accent (electric coral or acid green), pure white for secondary text\nText (verbatim): \"GPT-image-2\", \"Lovart\"\nConstraints: must work as 3:4 vertical cover format; text must remain legible at thumbnail size\nAvoid: busy backgrounds, drop shadows on text, generic stock imagery, multiple fonts, low contrast combinations",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3e487e2e-4a96-4f7d-b32f-b090dbf64160/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a social media cover announcing GPT-image-2 launch on Lovart platform, targeting Xiaohongshu audience.\\n\\nStyle/medium: high-end editorial magazine cover aesthetic, clean minimalist design with bold typography\\nComposition: diagonal layout with dynamic tension, main text angled 15-30 degrees from bottom-left to top-right, ample negative space\\nSubject: bold headline typography featuring \\\"GPT-image-2\\\" and \\\"Lovart\\\" as focal points, modern sans-serif typeface\\nScene/backdrop: abstract gradient or solid premium color field with subtle texture, no clutter\\nLighting/mood: flat even lighting, sophisticated and confident mood\\nColor palette: high-contrast pairing of deep charcoal or navy base with vivid accent (electric coral or acid green), pure white for secondary text\\nText (verbatim): \\\"GPT-image-2\\\", \\\"Lovart\\\"\\nConstraints: must work as 3:4 vertical cover format; text must remain legible at thumbnail size\\nAvoid: busy backgrounds, drop shadows on text, generic stock imagery, multiple fonts, low contrast combinations\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11329
+}

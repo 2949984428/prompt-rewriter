@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing editorial photo for a Weibo news/hot topic banner.\n\nStyle/medium: documentary photography, on-site mobile phone capture aesthetic\nComposition: 16:9 wide banner, horizontal extension, ample negative space for text overlay\nSubject: city skyline at dusk, pedestrians in motion, distant skyscrapers reflecting sunset\nScene/backdrop: urban twilight cityscape, neon lights beginning to glow, sunset glow reflecting on high-rise buildings\nLighting/mood: dramatic light and shadow contrast, golden hour transitioning to neon, authentic on-site atmosphere\nColor palette: warm sunset tones blending with cool neon\nMaterials/textures: \nText (verbatim): \"城市里的安静时刻\", \"黄昏，总能治愈一天的匆忙\", \"@龙爪槐守望者real · 生活观察\"\nConstraints: 16:9 aspect ratio, wide banner format, professional editorial quality, suitable for Weibo news/hot topic post\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/166f5325-c713-48bf-8518-ecb5c5f879f6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing editorial photo for a Weibo news/hot topic banner.\\n\\nStyle/medium: documentary photography, on-site mobile phone capture aesthetic\\nComposition: 16:9 wide banner, horizontal extension, ample negative space for text overlay\\nSubject: city skyline at dusk, pedestrians in motion, distant skyscrapers reflecting sunset\\nScene/backdrop: urban twilight cityscape, neon lights beginning to glow, sunset glow reflecting on high-rise buildings\\nLighting/mood: dramatic light and shadow contrast, golden hour transitioning to neon, authentic on-site atmosphere\\nColor palette: warm sunset tones blending with cool neon\\nMaterials/textures: \\nText (verbatim): \\\"城市里的安静时刻\\\", \\\"黄昏，总能治愈一天的匆忙\\\", \\\"@龙爪槐守望者real · 生活观察\\\"\\nConstraints: 16:9 aspect ratio, wide banner format, professional editorial quality, suitable for Weibo news/hot topic post\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10290
+}

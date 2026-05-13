@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a social media cover announcing GPT-image-2 launch on Lovart platform.\n\nStyle/medium: editorial magazine cover aesthetic, high-fashion layout sensibility, clean graphic design\nComposition: diagonal composition with dynamic visual flow from corner to corner, balanced asymmetry\nSubject: bold typographic announcement featuring \"GPT-image-2\" and \"Lovart\" as hero text, modern sans-serif type hierarchy\nScene/backdrop: minimal abstract background with subtle geometric elements or gradient field\nLighting/mood: high contrast dramatic lighting, editorial magazine atmosphere\nColor palette: high-contrast accent colors, limited palette with one bold accent against neutral base\nText (verbatim): \"GPT-image-2\", \"Lovart\"\nConstraints: must work as 小红书 cover format; text must remain legible at thumbnail size; diagonal energy must not compromise readability\nAvoid: cluttered layout, low contrast text, generic stock imagery, Behance overused templates, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ffa04d47-8e5c-4620-8699-ef4f6e05cd09/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for a social media cover announcing GPT-image-2 launch on Lovart platform.\\n\\nStyle/medium: editorial magazine cover aesthetic, high-fashion layout sensibility, clean graphic design\\nComposition: diagonal composition with dynamic visual flow from corner to corner, balanced asymmetry\\nSubject: bold typographic announcement featuring \\\"GPT-image-2\\\" and \\\"Lovart\\\" as hero text, modern sans-serif type hierarchy\\nScene/backdrop: minimal abstract background with subtle geometric elements or gradient field\\nLighting/mood: high contrast dramatic lighting, editorial magazine atmosphere\\nColor palette: high-contrast accent colors, limited palette with one bold accent against neutral base\\nText (verbatim): \\\"GPT-image-2\\\", \\\"Lovart\\\"\\nConstraints: must work as 小红书 cover format; text must remain legible at thumbnail size; diagonal energy must not compromise readability\\nAvoid: cluttered layout, low contrast text, generic stock imagery, Behance overused templates, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9252
+}

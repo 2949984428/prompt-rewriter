@@ -1,0 +1,23 @@
+{
+  "query_idx": 13,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成 Frontier 公司 logo 标准化制图。\n\n风格/媒介:标准化 logo 制图，平面矢量风格\n构图:logo 居中，标准化展示版式\n主体:Frontier 公司 logo，参考上传的两张参考图（#1 Group 79、#2 Group 79-1）\n场景/背景:纯白色背景\n光线/氛围:\n色彩方案:\n  #1A395F\n  #436792\n  #A3C0D9\n材质/纹理:\n文字(原样):Frontier\n约束:\n  严格遵照参考图中的 logo 造型与结构\n  颜色仅使用指定三色\n避免:阴影、渐变、多余装饰元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae49b0c2e-e393-4272-ad23-ae31b07cda21/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成 Frontier 公司 logo 标准化制图。\\n\\n风格/媒介:标准化 logo 制图，平面矢量风格\\n构图:logo 居中，标准化展示版式\\n主体:Frontier 公司 logo，参考上传的两张参考图（#1 Group 79、#2 Group 79-1）\\n场景/背景:纯白色背景\\n光线/氛围:\\n色彩方案:\\n  #1A395F\\n  #436792\\n  #A3C0D9\\n材质/纹理:\\n文字(原样):Frontier\\n约束:\\n  严格遵照参考图中的 logo 造型与结构\\n  颜色仅使用指定三色\\n避免:阴影、渐变、多余装饰元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 14186,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

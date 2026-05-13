@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing promotional poster for cross-border e-commerce sales, intended for social media advertising.\n\nStyle/medium: promotional poster with artistic typography, layered font composition\nComposition: 16:9 aspect ratio, complex but organized layout with text layers overlapping and interweaving, products or main subjects partially obscuring some text elements\nSubject: cross-border e-commerce promotional content with featured products or brand elements\nScene/backdrop: dynamic commercial backdrop supporting the layered text and product arrangement\nLighting/mood: energetic, promotional atmosphere balancing visual density with clarity\nColor palette: vibrant promotional colors (red, orange, gold accents typical of sales campaigns)\nMaterials/textures: layered paper/cardstock feel for stacked typography, product photography textures\nText (verbatim): \nConstraints: must include artistic typography, layered/stacked fonts, complex but not cluttered composition, products or subjects must partially block some text, 16:9 ratio\nAvoid: chaotic clutter, illegible text, flat single-layer design, Western-only aesthetic ignoring cross-border context",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f7ba2cb7-3f6c-4d70-863a-e4f811715f5a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing promotional poster for cross-border e-commerce sales, intended for social media advertising.\\n\\nStyle/medium: promotional poster with artistic typography, layered font composition\\nComposition: 16:9 aspect ratio, complex but organized layout with text layers overlapping and interweaving, products or main subjects partially obscuring some text elements\\nSubject: cross-border e-commerce promotional content with featured products or brand elements\\nScene/backdrop: dynamic commercial backdrop supporting the layered text and product arrangement\\nLighting/mood: energetic, promotional atmosphere balancing visual density with clarity\\nColor palette: vibrant promotional colors (red, orange, gold accents typical of sales campaigns)\\nMaterials/textures: layered paper/cardstock feel for stacked typography, product photography textures\\nText (verbatim): \\nConstraints: must include artistic typography, layered/stacked fonts, complex but not cluttered composition, products or subjects must partially block some text, 16:9 ratio\\nAvoid: chaotic clutter, illegible text, flat single-layer design, Western-only aesthetic ignoring cross-border context\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11197
+}

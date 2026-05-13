@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original e-commerce hero image for a smartwatch worn on a wrist in an active fitness scenario.\n\nStyle/medium: product photography with dynamic motion blur, tech-forward aesthetic, fitness lifestyle editorial\nComposition: close-up wrist shot, smartwatch face clearly visible, shallow depth of field isolating the product\nSubject: modern smartwatch with digital display, worn on an athletic wrist, showing workout metrics or time\nScene/backdrop: blurred gym environment with indistinct exercise equipment, shallow depth of field\nLighting/mood: cool-toned tech lighting with blue and cyan accents, high-contrast highlights, energetic and futuristic atmosphere\nColor palette: cool blues and cyans as dominant tones, neutral grays from gym equipment, subtle warm skin tone accents\nMaterials/textures: brushed metal smartwatch case, smooth silicone band, sweat droplets on skin, matte gym floor texture\nAvoid: warm golden hour lighting, over-sharpening, watermark, generic stock photo feel, cluttered background details",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b48f5261-7b5c-4822-b0ff-c9abe63d1cc3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original e-commerce hero image for a smartwatch worn on a wrist in an active fitness scenario.\\n\\nStyle/medium: product photography with dynamic motion blur, tech-forward aesthetic, fitness lifestyle editorial\\nComposition: close-up wrist shot, smartwatch face clearly visible, shallow depth of field isolating the product\\nSubject: modern smartwatch with digital display, worn on an athletic wrist, showing workout metrics or time\\nScene/backdrop: blurred gym environment with indistinct exercise equipment, shallow depth of field\\nLighting/mood: cool-toned tech lighting with blue and cyan accents, high-contrast highlights, energetic and futuristic atmosphere\\nColor palette: cool blues and cyans as dominant tones, neutral grays from gym equipment, subtle warm skin tone accents\\nMaterials/textures: brushed metal smartwatch case, smooth silicone band, sweat droplets on skin, matte gym floor texture\\nAvoid: warm golden hour lighting, over-sharpening, watermark, generic stock photo feel, cluttered background details\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10956
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: documentary aerial photography, environmental editorial\nPrimary request: aerial view of the boundary between Amazon rainforest and modern agricultural development zone\nScene/backdrop: high-altitude perspective showing the stark contrast between untouched jungle and farmland extending to horizon, with a dirt road winding through\nSubject: left side shows dense virgin tropical rainforest with layered canopy and emergent Brazil nut trees; right side shows geometric soybean fields in varying growth stages from fresh green to dry yellow; clear boundary with charred black soil and felled trees; red dust rising from trucks on the dirt road\nStyle/medium: documentary photography, photojournalistic aerial survey\nComposition/framing: top-down aerial view, wide establishing shot, drone perspective\nLighting/mood: natural daylight, clear atmospheric conditions, somber and thought-provoking mood highlighting environmental tension\nColor palette: deep forest greens + fresh and dry crop yellows + burnt black + reddish-brown earth tones + pale sky blue\nMaterials/textures: dense irregular tree canopy texture, geometric crop field patterns, rough charred earth, fine red dust particles\nConstraints: maintain the stark contrast between natural forest and agricultural development as the central visual narrative\nAvoid: oversaturated colors, artificial-looking boundaries, cartoonish rendering, watermark, text overlay",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/800bbd84-28f5-43f8-8489-59eaee0446c2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: documentary aerial photography, environmental editorial\\nPrimary request: aerial view of the boundary between Amazon rainforest and modern agricultural development zone\\nScene/backdrop: high-altitude perspective showing the stark contrast between untouched jungle and farmland extending to horizon, with a dirt road winding through\\nSubject: left side shows dense virgin tropical rainforest with layered canopy and emergent Brazil nut trees; right side shows geometric soybean fields in varying growth stages from fresh green to dry yellow; clear boundary with charred black soil and felled trees; red dust rising from trucks on the dirt road\\nStyle/medium: documentary photography, photojournalistic aerial survey\\nComposition/framing: top-down aerial view, wide establishing shot, drone perspective\\nLighting/mood: natural daylight, clear atmospheric conditions, somber and thought-provoking mood highlighting environmental tension\\nColor palette: deep forest greens + fresh and dry crop yellows + burnt black + reddish-brown earth tones + pale sky blue\\nMaterials/textures: dense irregular tree canopy texture, geometric crop field patterns, rough charred earth, fine red dust particles\\nConstraints: maintain the stark contrast between natural forest and agricultural development as the central visual narrative\\nAvoid: oversaturated colors, artificial-looking boundaries, cartoonish rendering, watermark, text overlay\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11182
+}

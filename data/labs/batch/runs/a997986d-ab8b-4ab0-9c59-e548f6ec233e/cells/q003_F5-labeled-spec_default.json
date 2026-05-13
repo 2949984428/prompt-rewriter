@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: professional food photography, commercial editorial\nPrimary request: macro close-up of a Michelin three-star French dish — slow-cooked duck breast with truffle sauce, precisely plated\nScene/backdrop: dark marble countertop, luxury fine-dining restaurant ambiance\nSubject: sliced duck breast arranged neatly, golden-brown crispy skin, pink juicy interior, micro vegetable garden garnish including mini carrots, purple radicchio leaves, edible flowers, fresh black truffle slices on top, artistic truffle sauce brushstroke on white bone china plate edge\nStyle/medium: professional commercial food photography, photorealistic\nComposition/framing: macro close-up, shallow depth of field, sharp focus on duck breast cross-section texture\nLighting/mood: side lighting, dramatic highlights, luxurious and sophisticated atmosphere\nColor palette: rich saturated colors — golden-brown skin, pink meat, deep green microgreens, purple radicchio, white bone china, dark marble background\nMaterials/textures: crispy caramelized skin, tender juicy meat, glossy truffle sauce, smooth porcelain, rough marble\nConstraints: keep the duck breast cross-section as the focal point, maintain high color saturation, professional commercial grade\nAvoid: overcooked gray meat, plastic-looking food, flat lighting, cluttered composition, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ff2c32cc-2a8f-4547-a561-b76dcebd2476/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: professional food photography, commercial editorial\\nPrimary request: macro close-up of a Michelin three-star French dish — slow-cooked duck breast with truffle sauce, precisely plated\\nScene/backdrop: dark marble countertop, luxury fine-dining restaurant ambiance\\nSubject: sliced duck breast arranged neatly, golden-brown crispy skin, pink juicy interior, micro vegetable garden garnish including mini carrots, purple radicchio leaves, edible flowers, fresh black truffle slices on top, artistic truffle sauce brushstroke on white bone china plate edge\\nStyle/medium: professional commercial food photography, photorealistic\\nComposition/framing: macro close-up, shallow depth of field, sharp focus on duck breast cross-section texture\\nLighting/mood: side lighting, dramatic highlights, luxurious and sophisticated atmosphere\\nColor palette: rich saturated colors — golden-brown skin, pink meat, deep green microgreens, purple radicchio, white bone china, dark marble background\\nMaterials/textures: crispy caramelized skin, tender juicy meat, glossy truffle sauce, smooth porcelain, rough marble\\nConstraints: keep the duck breast cross-section as the focal point, maintain high color saturation, professional commercial grade\\nAvoid: overcooked gray meat, plastic-looking food, flat lighting, cluttered composition, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11315
+}

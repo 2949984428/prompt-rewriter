@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for bubble tea in pink kawaii summer style for Xiaohongshu (Little Red Book) content.\n\nStyle/medium: flat illustration with soft gradients, pastel kawaii aesthetic, social media content design\nComposition: centered product shot with negative space for text overlay, 3:4 vertical ratio\nSubject: bubble tea in clear plastic cup with visible tapioca pearls, condensation droplets on cup surface, decorative straw\nScene/backdrop: minimal abstract pink gradient background with subtle bokeh light circles suggesting summer freshness\nLighting/mood: soft diffused daylight, bright and airy, cheerful and refreshing summer vibe\nColor palette: dominant soft pink and blush tones, milky beige for tea, dark brown pearls as contrast accent, hints of mint or aqua for coolness\nMaterials/textures: glossy plastic cup surface, liquid transparency, chewy pearl texture, soft matte background\nConstraints: must work as Xiaohongshu cover image with space for headline text overlay at top or bottom\nAvoid: photorealistic photography style, harsh shadows, cluttered backgrounds, generic stock photo look, 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d9136981-27e7-42cc-91c3-808e5cbaf399/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for bubble tea in pink kawaii summer style for Xiaohongshu (Little Red Book) content.\\n\\nStyle/medium: flat illustration with soft gradients, pastel kawaii aesthetic, social media content design\\nComposition: centered product shot with negative space for text overlay, 3:4 vertical ratio\\nSubject: bubble tea in clear plastic cup with visible tapioca pearls, condensation droplets on cup surface, decorative straw\\nScene/backdrop: minimal abstract pink gradient background with subtle bokeh light circles suggesting summer freshness\\nLighting/mood: soft diffused daylight, bright and airy, cheerful and refreshing summer vibe\\nColor palette: dominant soft pink and blush tones, milky beige for tea, dark brown pearls as contrast accent, hints of mint or aqua for coolness\\nMaterials/textures: glossy plastic cup surface, liquid transparency, chewy pearl texture, soft matte background\\nConstraints: must work as Xiaohongshu cover image with space for headline text overlay at top or bottom\\nAvoid: photorealistic photography style, harsh shadows, cluttered backgrounds, generic stock photo look, 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10445
+}

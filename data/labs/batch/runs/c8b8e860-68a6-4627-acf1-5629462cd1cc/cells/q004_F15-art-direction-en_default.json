@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a PPT cover slide for the automotive launch announcement of \"长安起源Q06\".\n\nStyle/medium: needs a premium automotive launch aesthetic — exact stylistic execution is yours\nComposition: must include large primary title centered or prominent, smaller subtitle below or supporting\nSubject: must include the vehicle launch theme \"长安起源Q06 9月上市\"\nScene/backdrop: needs a transparent, awe-inspiring visual atmosphere — exact background imagery is yours\nLighting/mood: needs a premium, impactful atmosphere — exact light treatment is yours\nColor palette: needs a brand-aligned direction — exact color values are yours\nMaterials/textures: \nText (verbatim): must include \"长安起源Q06\" (primary title), \"9月上市\" or launch date subtitle\nConstraints: must be suitable for PPT cover format, premium automotive brand tone\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/24ce0b99-2fe8-4ff0-9e8f-54ca9de3391a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design a PPT cover slide for the automotive launch announcement of \\\"长安起源Q06\\\".\\n\\nStyle/medium: needs a premium automotive launch aesthetic — exact stylistic execution is yours\\nComposition: must include large primary title centered or prominent, smaller subtitle below or supporting\\nSubject: must include the vehicle launch theme \\\"长安起源Q06 9月上市\\\"\\nScene/backdrop: needs a transparent, awe-inspiring visual atmosphere — exact background imagery is yours\\nLighting/mood: needs a premium, impactful atmosphere — exact light treatment is yours\\nColor palette: needs a brand-aligned direction — exact color values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"长安起源Q06\\\" (primary title), \\\"9月上市\\\" or launch date subtitle\\nConstraints: must be suitable for PPT cover format, premium automotive brand tone\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 20111
+}

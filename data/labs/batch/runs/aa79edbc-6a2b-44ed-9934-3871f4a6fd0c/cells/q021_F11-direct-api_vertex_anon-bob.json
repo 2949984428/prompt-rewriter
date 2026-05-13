@@ -1,0 +1,23 @@
+{
+  "query_idx": 21,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image]将图1做简化，线条和色块更清晰，然后和文字“泰香记”相结合的logo设计，要求有新中式的风格，",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A038d14b4-eb77-4cf8-96b2-4509ace36852/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image]将图1做简化，线条和色块更清晰，然后和文字\\\"泰香记\\\"相结合的logo设计，要求有新中式的风格，\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5370,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

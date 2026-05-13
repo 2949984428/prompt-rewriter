@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial still life photography, fine art print\nPrimary request: wabi-sabi still life composition emphasizing imperfect beauty and traces of time\nScene/backdrop: weathered wooden table with visible grain, patina, and wear marks, minimal interior setting\nSubject: coarse pottery vase with rough texture and irregular glaze, dried bare branches arranged inside\nStyle/medium: fine art still life photography, wabi-sabi aesthetic\nComposition/framing: medium close-up, eye-level perspective, intentional asymmetry and negative space\nLighting/mood: soft natural daylight streaming diagonally from window, gentle shadows, contemplative and serene atmosphere\nColor palette: muted earth tones, warm browns, off-whites, subtle grays, desaturated palette\nMaterials/textures: rough unglazed clay vase, brittle dried twigs, aged wood with cracks and stains\nConstraints: preserve the imperfect, aged quality of all elements; avoid symmetry and polished perfection\nAvoid: glossy finishes, vibrant colors, symmetrical composition, plastic textures, over-sharpening",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/12ea07e4-fe5c-475b-9ef4-38dd3caa5e5e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial still life photography, fine art print\\nPrimary request: wabi-sabi still life composition emphasizing imperfect beauty and traces of time\\nScene/backdrop: weathered wooden table with visible grain, patina, and wear marks, minimal interior setting\\nSubject: coarse pottery vase with rough texture and irregular glaze, dried bare branches arranged inside\\nStyle/medium: fine art still life photography, wabi-sabi aesthetic\\nComposition/framing: medium close-up, eye-level perspective, intentional asymmetry and negative space\\nLighting/mood: soft natural daylight streaming diagonally from window, gentle shadows, contemplative and serene atmosphere\\nColor palette: muted earth tones, warm browns, off-whites, subtle grays, desaturated palette\\nMaterials/textures: rough unglazed clay vase, brittle dried twigs, aged wood with cracks and stains\\nConstraints: preserve the imperfect, aged quality of all elements; avoid symmetry and polished perfection\\nAvoid: glossy finishes, vibrant colors, symmetrical composition, plastic textures, over-sharpening\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11841
+}

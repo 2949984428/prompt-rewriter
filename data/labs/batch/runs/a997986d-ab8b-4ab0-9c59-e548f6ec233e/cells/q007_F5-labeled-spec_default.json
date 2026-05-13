@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: architectural photography, fine art print\nPrimary request: panoramic view of a famous Zen temple's karesansui (dry landscape) garden in Kyoto, Japan\nScene/backdrop: traditional Japanese Zen temple courtyard with low wooden corridor, ancient earthen wall with moss on top\nSubject: meticulously raked white gravel forming concentric circles and ripple patterns symbolizing ocean waves, moss-covered rocks of various shapes representing islands and mountain peaks\nStyle/medium: architectural photography, wide-angle lens, low-angle perspective\nComposition/framing: wide-angle panoramic shot, low angle emphasizing geometric patterns and spatial depth\nLighting/mood: autumn afternoon slanting sunlight, warm beige-white gravel, elongated rock shadows, serene and profound Zen atmosphere\nColor palette: warm beige-white gravel, deep green moss, weathered wood browns, muted earthen wall tones, soft autumn gold\nMaterials/textures: smooth raked gravel with precise patterns, rough moss-covered stone, aged wooden corridor, textured earthen wall with moss\nConstraints: preserve the concentric ripple patterns in gravel, maintain the low wooden corridor shadows, keep the mossy rocks as focal points\nAvoid: oversaturated colors, modern elements, people, artificial lighting, distorted perspective, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b4fa1a68-0ccf-49c4-bc10-d650f1cfc1fe/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: architectural photography, fine art print\\nPrimary request: panoramic view of a famous Zen temple's karesansui (dry landscape) garden in Kyoto, Japan\\nScene/backdrop: traditional Japanese Zen temple courtyard with low wooden corridor, ancient earthen wall with moss on top\\nSubject: meticulously raked white gravel forming concentric circles and ripple patterns symbolizing ocean waves, moss-covered rocks of various shapes representing islands and mountain peaks\\nStyle/medium: architectural photography, wide-angle lens, low-angle perspective\\nComposition/framing: wide-angle panoramic shot, low angle emphasizing geometric patterns and spatial depth\\nLighting/mood: autumn afternoon slanting sunlight, warm beige-white gravel, elongated rock shadows, serene and profound Zen atmosphere\\nColor palette: warm beige-white gravel, deep green moss, weathered wood browns, muted earthen wall tones, soft autumn gold\\nMaterials/textures: smooth raked gravel with precise patterns, rough moss-covered stone, aged wooden corridor, textured earthen wall with moss\\nConstraints: preserve the concentric ripple patterns in gravel, maintain the low wooden corridor shadows, keep the mossy rocks as focal points\\nAvoid: oversaturated colors, modern elements, people, artificial lighting, distorted perspective, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14861
+}

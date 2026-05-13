@@ -1,0 +1,23 @@
+{
+  "query_idx": 262,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "图片描述：\n\n超市货架场景，一位中年女性的手拿着贴有黄色促销标签的商品，背景是模糊的超市货架和\"促销\"红色字样，暖黄色灯光营造温馨氛围，生活化摄影风格，真实感强，不要过度美化\n\n风格关键词： 真实、生活化、暖色调、超市环境\n\n尺寸： 900×500（微信公众号头条封面推荐尺寸）",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A30879b19-32e6-4138-97a8-a50a08498890/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"图片描述：\\n\\n超市货架场景，一位中年女性的手拿着贴有黄色促销标签的商品，背景是模糊的超市货架和\\\"促销\\\"红色字样，暖黄色灯光营造温馨氛围，生活化摄影风格，真实感强，不要过度美化\\n\\n风格关键词： 真实、生活化、暖色调、超市环境\\n\\n尺寸： 900×500（微信公众号头条封面推荐尺寸）\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3286,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

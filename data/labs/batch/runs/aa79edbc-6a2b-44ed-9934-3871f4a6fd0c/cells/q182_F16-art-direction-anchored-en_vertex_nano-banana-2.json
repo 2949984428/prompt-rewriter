@@ -1,0 +1,23 @@
+{
+  "query_idx": 182,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（亚马逊主图_透明星星自动浇水器_v2）。\n\n风格/媒介:\n构图:\n主体:透明星星自动浇水器亚马逊主图\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:将图片放大至 2048x2048，保持原图内容不变\n避免:",
+    "size": "2048x2048",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5aab806c-4a08-4af9-ae86-77fa4895b168/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（亚马逊主图_透明星星自动浇水器_v2）。\\n\\n风格/媒介:\\n构图:\\n主体:透明星星自动浇水器亚马逊主图\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:将图片放大至 2048x2048，保持原图内容不变\\n避免:\", \"size\": \"2048x2048\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7232,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

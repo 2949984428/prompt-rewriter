@@ -94,6 +94,7 @@ export function formatRunRecordToBatchRunRecord(
     image_model_ids: modelIds,
     test_kind: "skill",
     pipeline_ids: [],
+    cell_keys: [], // adapter 出的虚拟 record,不落盘,cell_keys 留空即可
   };
 }
 

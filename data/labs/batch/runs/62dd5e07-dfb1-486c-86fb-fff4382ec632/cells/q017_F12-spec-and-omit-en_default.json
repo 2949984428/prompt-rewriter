@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing tri-fold travel brochure design for a 4-day 3-night Hangzhou tourism guide, floating above cardstock.\n\nStyle/medium: tri-fold brochure illustration with realistic Hangzhou city map as background, landmark icons, floating on cardstock\nComposition: three-panel fold layout; each panel features a different day's route with map lines and scenic spot markers; brochure floats above cardstock surface\nSubject: Hangzhou 4-day 3-night travel itinerary brochure — Day 1: West Lake Classic (断桥残雪, 白堤, 孤山, 曲院风荷, 苏堤春晓, 花港观鱼, 雷峰塔, 柳浪闻莺); Day 2: Zen Hangzhou (灵隐寺, 飞来峰, 法喜寺, 宋城); Day 3: 九溪十八涧, 龙井村, 十里琅珰, 云栖竹径; Day 4: Option A 拱宸桥/桥西历史街区 or Option B 西溪湿地\nScene/backdrop: authentic Hangzhou city map as the main background layer, with West Lake, rivers, and street grid visible; brochure rests/floats above a cardstock surface\nLighting/mood: \nColor palette: \nMaterials/textures: printed paper brochure with fold creases; cardstock base beneath; map cartography texture\nText (verbatim): \"断桥残雪\" \"白堤\" \"孤山\" \"曲院风荷\" \"苏堤春晓\" \"花港观鱼\" \"雷峰塔\" \"柳浪闻莺\" \"灵隐寺\" \"飞来峰\" \"法喜寺\" \"宋城\" \"九溪十八涧\" \"龙井村\" \"云栖竹径\" \"西溪湿地\" \"拱宸桥\" \"杭州4天3晚旅游攻略\"\nConstraints: brochure must show tri-fold structure clearly; famous scenic spots must have distinctive landmark icons or illustrations on the brochure panels; Hangzhou real map geography must be recognizable\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ee879403-73cf-47c4-b98b-be7e2d8d3bb0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing tri-fold travel brochure design for a 4-day 3-night Hangzhou tourism guide, floating above cardstock.\\n\\nStyle/medium: tri-fold brochure illustration with realistic Hangzhou city map as background, landmark icons, floating on cardstock\\nComposition: three-panel fold layout; each panel features a different day's route with map lines and scenic spot markers; brochure floats above cardstock surface\\nSubject: Hangzhou 4-day 3-night travel itinerary brochure — Day 1: West Lake Classic (断桥残雪, 白堤, 孤山, 曲院风荷, 苏堤春晓, 花港观鱼, 雷峰塔, 柳浪闻莺); Day 2: Zen Hangzhou (灵隐寺, 飞来峰, 法喜寺, 宋城); Day 3: 九溪十八涧, 龙井村, 十里琅珰, 云栖竹径; Day 4: Option A 拱宸桥/桥西历史街区 or Option B 西溪湿地\\nScene/backdrop: authentic Hangzhou city map as the main background layer, with West Lake, rivers, and street grid visible; brochure rests/floats above a cardstock surface\\nLighting/mood: \\nColor palette: \\nMaterials/textures: printed paper brochure with fold creases; cardstock base beneath; map cartography texture\\nText (verbatim): \\\"断桥残雪\\\" \\\"白堤\\\" \\\"孤山\\\" \\\"曲院风荷\\\" \\\"苏堤春晓\\\" \\\"花港观鱼\\\" \\\"雷峰塔\\\" \\\"柳浪闻莺\\\" \\\"灵隐寺\\\" \\\"飞来峰\\\" \\\"法喜寺\\\" \\\"宋城\\\" \\\"九溪十八涧\\\" \\\"龙井村\\\" \\\"云栖竹径\\\" \\\"西溪湿地\\\" \\\"拱宸桥\\\" \\\"杭州4天3晚旅游攻略\\\"\\nConstraints: brochure must show tri-fold structure clearly; famous scenic spots must have distinctive landmark icons or illustrations on the brochure panels; Hangzhou real map geography must be recognizable\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12257
+}

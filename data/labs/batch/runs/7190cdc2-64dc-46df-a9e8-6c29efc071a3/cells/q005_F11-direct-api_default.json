@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "建筑效果图风格，展示一栋位于热带海滨悬崖上的现代极简主义别墅。建筑主体为纯白色清水混凝土结构，大面积落地玻璃幕墙将室内外景观无缝融合。无边际泳池从露台延伸至视觉上与海平面相接，水面倒映着夕阳的橙红色光芒。室外平台摆放着极简风格的柚木躺椅和遮阳伞，周围种植着热带棕榈树和龙血树。远处海面上帆船点点，天空云彩壮观，呈现出黄昏时分的绚烂色彩。画面采用三点透视构图，专业建筑渲染质感，光影细腻，整体传达出高端度假的奢适氛围。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c7283e9f-71d0-4b01-8592-7fb2da1002f1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

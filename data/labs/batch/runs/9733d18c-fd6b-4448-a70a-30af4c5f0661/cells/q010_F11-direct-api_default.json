@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "游戏概念原画：中世纪奇幻风格的巨龙巢穴场景。在一座活火山的熔岩洞穴深处，一条体型庞大的古龙盘踞在金币和宝物堆积成的山丘之上。龙鳞呈现深红与黑色交织的色彩，双翼展开遮蔽了大半洞穴空间，眼睛发出炽热的金色光芒。洞穴四壁有熔岩流淌，橙红色的光芒映照在龙鳞上形成复杂的光影效果。宝物堆中可见各种奇异的魔法器物、古代盔甲和发光的魔法宝石。远处洞穴入口透进一缕月光，与熔岩的暖光形成冷暖对比。整体风格参考《龙与地下城》的经典奇幻美学，写实风格渲染，色彩以深红、橙金、黑色为主，画面气势磅礴，充满史诗感，专业游戏概念原画级别。",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1870b967-d1a4-405a-b757-5d77b6a06521/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

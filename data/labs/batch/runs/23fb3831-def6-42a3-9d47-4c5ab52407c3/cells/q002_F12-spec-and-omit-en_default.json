@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an editorial photo for a Weibo news/trending post, city skyline at dusk.\n\nStyle/medium: photojournalistic documentary style, shot on mobile phone, sharp details\nComposition: wide horizontal frame, 16:9, skyline as main subject with room for text overlay\nSubject: city skyline at dusk, pedestrians hurrying, tall buildings reflecting sunset glow, neon lights gradually lighting up\nScene/backdrop: urban dusk, golden hour transitioning to neon night, distant skyscrapers with sunset reflections\nLighting/mood: dramatic light-shadow contrast, warm sunset glow mixed with emerging neon, strong sense of real on-site presence\nColor palette: \nMaterials/textures: \nText (verbatim): \"城市里的安静时刻\" / \"黄昏，总能治愈一天的匆忙\" / \"@龙爪槐守望者real · 生活观察\"\nConstraints: text \"城市里的安静时刻\" in prominent position using bold or modern typeface; \"黄昏，总能治愈一天的匆忙\" as subtitle; \"@龙爪槐守望者real · 生活观察\" as watermark at bottom-right; sufficient negative space for text\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8ceea432-2729-40a5-ab7f-3274147f99cf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an editorial photo for a Weibo news/trending post, city skyline at dusk.\\n\\nStyle/medium: photojournalistic documentary style, shot on mobile phone, sharp details\\nComposition: wide horizontal frame, 16:9, skyline as main subject with room for text overlay\\nSubject: city skyline at dusk, pedestrians hurrying, tall buildings reflecting sunset glow, neon lights gradually lighting up\\nScene/backdrop: urban dusk, golden hour transitioning to neon night, distant skyscrapers with sunset reflections\\nLighting/mood: dramatic light-shadow contrast, warm sunset glow mixed with emerging neon, strong sense of real on-site presence\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"城市里的安静时刻\\\" / \\\"黄昏，总能治愈一天的匆忙\\\" / \\\"@龙爪槐守望者real · 生活观察\\\"\\nConstraints: text \\\"城市里的安静时刻\\\" in prominent position using bold or modern typeface; \\\"黄昏，总能治愈一天的匆忙\\\" as subtitle; \\\"@龙爪槐守望者real · 生活观察\\\" as watermark at bottom-right; sufficient negative space for text\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8776
+}

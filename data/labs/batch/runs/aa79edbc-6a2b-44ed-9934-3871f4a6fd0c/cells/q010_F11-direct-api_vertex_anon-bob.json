@@ -1,0 +1,23 @@
+{
+  "query_idx": 10,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1: Image 1][@image:#2: Image 2][@image:#3: Image 3]帮我根据这些品牌L0GO和插画，生成组合/单个的样机图，专业布光，专业产品摄影，米色背景，包含咖啡杯，笔记本以及眼罩、毛绒围巾、可爱毛绒手提包包、围裙等，契合IP形象的文创定位",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8798e41c-85fe-4bd0-8871-d380558fbee0/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1: Image 1][@image:#2: Image 2][@image:#3: Image 3]帮我根据这些品牌L0GO和插画，生成组合/单个的样机图，专业布光，专业产品摄影，米色背景，包含咖啡杯，笔记本以及眼罩、毛绒围巾、可爱毛绒手提包包、围裙等，契合IP形象的文创定位\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4377,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

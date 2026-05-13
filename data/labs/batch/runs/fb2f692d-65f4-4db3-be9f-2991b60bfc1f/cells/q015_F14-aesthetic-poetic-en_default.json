@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 9:16 vertical screenshot of a Douyin livestream featuring \"神仙姐姐\" holding a sign, for social media sharing on Chinese short-video platforms.\n\nStyle/medium: mobile livestream interface screenshot, authentic Douyin UI with real-time interaction elements\nComposition: vertical 9:16 frame, streamer centered in the video feed area, livestream UI overlay with viewer count, comments scrolling, gift buttons at bottom\nSubject: 神仙姐姐 (the ethereal beauty persona) holding a rectangular sign at chest level, gentle welcoming expression, elegant styling\nScene/backdrop: soft-lit indoor streaming setup, warm ambient background with subtle bokeh\nLighting/mood: the warm intimacy of a late-night livestream, soft ring-light glow on the face, cozy and inviting\nColor palette: warm skin tones balanced with the cool blue glow of screen light, Douyin's signature interface colors\nMaterials/textures: \nText (verbatim): 今晚直播，欢迎来参亦菲畅聊！\nConstraints: 9:16 vertical aspect ratio, authentic Douyin livestream UI elements visible (viewer count, comment section, interaction buttons), sign text clearly legible\nAvoid: Western streaming platform UI (Twitch/YouTube), broken Chinese characters, cluttered interface blocking the subject, harsh overexposure",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cd2f6020-70bd-47a9-8d40-af0a7c9d9230/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a 9:16 vertical screenshot of a Douyin livestream featuring \\\"神仙姐姐\\\" holding a sign, for social media sharing on Chinese short-video platforms.\\n\\nStyle/medium: mobile livestream interface screenshot, authentic Douyin UI with real-time interaction elements\\nComposition: vertical 9:16 frame, streamer centered in the video feed area, livestream UI overlay with viewer count, comments scrolling, gift buttons at bottom\\nSubject: 神仙姐姐 (the ethereal beauty persona) holding a rectangular sign at chest level, gentle welcoming expression, elegant styling\\nScene/backdrop: soft-lit indoor streaming setup, warm ambient background with subtle bokeh\\nLighting/mood: the warm intimacy of a late-night livestream, soft ring-light glow on the face, cozy and inviting\\nColor palette: warm skin tones balanced with the cool blue glow of screen light, Douyin's signature interface colors\\nMaterials/textures: \\nText (verbatim): 今晚直播，欢迎来参亦菲畅聊！\\nConstraints: 9:16 vertical aspect ratio, authentic Douyin livestream UI elements visible (viewer count, comment section, interaction buttons), sign text clearly legible\\nAvoid: Western streaming platform UI (Twitch/YouTube), broken Chinese characters, cluttered interface blocking the subject, harsh overexposure\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7865
+}

@@ -1,0 +1,32 @@
+{
+  "query_idx": 272,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:包包多角度产品展示图][@image:#2:帽子多角度产品展示图]把包包和帽子生成[@image:#3: Image]这种风格的摆拍图，我要用来发小红书笔记，生成10张单张的9:16的图，不要拼图，4k高清画质",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 10,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ace25321f-5f73-4e04-b2c2-c3a1d7c802f0/0.png",
+    "/api/image-file/lovart%3Ace25321f-5f73-4e04-b2c2-c3a1d7c802f0/1.png",
+    "/api/image-file/lovart%3Ace25321f-5f73-4e04-b2c2-c3a1d7c802f0/2.png",
+    "/api/image-file/lovart%3Ace25321f-5f73-4e04-b2c2-c3a1d7c802f0/3.png",
+    "/api/image-file/lovart%3Ace25321f-5f73-4e04-b2c2-c3a1d7c802f0/4.png",
+    "/api/image-file/lovart%3Ace25321f-5f73-4e04-b2c2-c3a1d7c802f0/5.png",
+    "/api/image-file/lovart%3Ace25321f-5f73-4e04-b2c2-c3a1d7c802f0/6.png",
+    "/api/image-file/lovart%3Ace25321f-5f73-4e04-b2c2-c3a1d7c802f0/7.png",
+    "/api/image-file/lovart%3Ace25321f-5f73-4e04-b2c2-c3a1d7c802f0/8.png",
+    "/api/image-file/lovart%3Ace25321f-5f73-4e04-b2c2-c3a1d7c802f0/9.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:包包多角度产品展示图][@image:#2:帽子多角度产品展示图]把包包和帽子生成[@image:#3: Image]这种风格的摆拍图，我要用来发小红书笔记，生成10张单张的9:16的图，不要拼图，4k高清画质\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 10, \"output_format\": \"png\"}",
+  "ms": 3567,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

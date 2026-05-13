@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-childrens-book\nAsset type: children's picture book spread, double-page illustration\nPrimary request: a whimsical forest concert with cute animals playing instruments\nScene/backdrop: enchanted forest clearing with fairy-tale mushroom houses and a rainbow arching overhead\nSubject: cute rabbit playing cello, squirrel playing flute, gathered forest animals as audience\nStyle/medium: children's book illustration, whimsical and storybook aesthetic, soft watercolor textures\nComposition/framing: wide scene showing the full forest clearing, mid-distance view capturing both performers and background\nLighting/mood: bright and cheerful daylight, magical and joyful atmosphere\nColor palette: vivid and bright colors - lush greens, rainbow spectrum, warm earth tones, cheerful pastels\nMaterials/textures: soft painted textures, rounded friendly shapes, smooth watercolor washes\nConstraints: keep all animals cute and friendly with expressive faces, maintain child-appropriate whimsical style\nAvoid: realistic proportions, dark shadows, scary elements, photorealistic rendering, cluttered composition",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e63605e0-c479-4719-b114-349a91cf9d17/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-childrens-book\\nAsset type: children's picture book spread, double-page illustration\\nPrimary request: a whimsical forest concert with cute animals playing instruments\\nScene/backdrop: enchanted forest clearing with fairy-tale mushroom houses and a rainbow arching overhead\\nSubject: cute rabbit playing cello, squirrel playing flute, gathered forest animals as audience\\nStyle/medium: children's book illustration, whimsical and storybook aesthetic, soft watercolor textures\\nComposition/framing: wide scene showing the full forest clearing, mid-distance view capturing both performers and background\\nLighting/mood: bright and cheerful daylight, magical and joyful atmosphere\\nColor palette: vivid and bright colors - lush greens, rainbow spectrum, warm earth tones, cheerful pastels\\nMaterials/textures: soft painted textures, rounded friendly shapes, smooth watercolor washes\\nConstraints: keep all animals cute and friendly with expressive faces, maintain child-appropriate whimsical style\\nAvoid: realistic proportions, dark shadows, scary elements, photorealistic rendering, cluttered composition\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9072
+}

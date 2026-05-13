@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Douyin (TikTok) live-stream screenshot featuring a young woman resembling a celestial beauty (神仙姐姐) holding a sign during a live broadcast, in 9:16 vertical format.\n\nStyle/medium: photorealistic Douyin live-stream UI screenshot\nComposition: vertical 9:16 frame, streamer centered or slightly lower-center, Douyin live-stream UI overlay (viewer count, comment bar, gift animations, red heart icons, username badges) visible around the edges\nSubject: a beautiful young woman (神仙姐姐 aesthetic — ethereal, fair-skinned, elegant) holding a handwritten or printed sign with both hands, facing the camera with a warm smile\nScene/backdrop: typical indoor live-stream setup — soft ring-light glow, blurred background suggesting a cozy room or studio\nLighting/mood: soft, flattering ring-light illumination, warm and welcoming atmosphere\nColor palette: soft warm tones, with Douyin UI elements in black/red/white\nMaterials/textures: \nText (verbatim): sign text reads \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: Douyin live-stream UI chrome must be visible (top bar with streamer name, bottom comment input bar, floating emoji/gift icons); sign must be legible and held prominently in frame\nAvoid: generic stock-photo look, missing UI overlay, blurry or illegible sign text",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0ac2d614-f5dc-4f45-8563-ffe62035e137/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing Douyin (TikTok) live-stream screenshot featuring a young woman resembling a celestial beauty (神仙姐姐) holding a sign during a live broadcast, in 9:16 vertical format.\\n\\nStyle/medium: photorealistic Douyin live-stream UI screenshot\\nComposition: vertical 9:16 frame, streamer centered or slightly lower-center, Douyin live-stream UI overlay (viewer count, comment bar, gift animations, red heart icons, username badges) visible around the edges\\nSubject: a beautiful young woman (神仙姐姐 aesthetic — ethereal, fair-skinned, elegant) holding a handwritten or printed sign with both hands, facing the camera with a warm smile\\nScene/backdrop: typical indoor live-stream setup — soft ring-light glow, blurred background suggesting a cozy room or studio\\nLighting/mood: soft, flattering ring-light illumination, warm and welcoming atmosphere\\nColor palette: soft warm tones, with Douyin UI elements in black/red/white\\nMaterials/textures: \\nText (verbatim): sign text reads \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: Douyin live-stream UI chrome must be visible (top bar with streamer name, bottom comment input bar, floating emoji/gift icons); sign must be legible and held prominently in frame\\nAvoid: generic stock-photo look, missing UI overlay, blurry or illegible sign text\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11153
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic still of a hyper-futuristic Shibuya Crossing in a cyberpunk Tokyo.\n\nStyle/medium: cinematic still, photorealistic with film grain texture, inspired by Blade Runner 2049 and Ghost in the Shell aesthetic\nComposition: ultra-wide-angle fisheye lens perspective, extreme low-angle looking upward at skyscrapers, deep depth of field capturing foreground to background detail\nSubject: dense crowd of pedestrians mixed with humanoid androids, some wearing AR glasses and luminescent futuristic clothing, walking across the iconic intersection\nScene/backdrop: hyper-futuristic Shibuya Crossing at night, towering skyscrapers with wall-to-wall holographic advertising screens covering every facade\nLighting/mood: harsh neon glow from thousands of screens, blue-violet and orange-red light pollution washing over the street, oppressive and tense atmosphere\nColor palette: cool blue-violet as dominant base, warm orange-red neon as accent highlights, wet asphalt reflecting both color families\nMaterials/textures: wet reflective pavement mirroring all overhead lights, holographic screen surfaces with slight pixelation, luminescent fabric textures on clothing\nText (verbatim): \"日文、英文、中文\"\nConstraints: maintain fisheye distortion throughout frame; all three scripts (Japanese, English, Chinese) must appear on signage\nAvoid: 8K stuffer language, plastic-looking crowds, deformed anatomy, oversaturated candy colors, clean daylight, cheerful mood",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f47131cf-b9fd-4e62-bafc-22c635fc99dc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing cinematic still of a hyper-futuristic Shibuya Crossing in a cyberpunk Tokyo.\\n\\nStyle/medium: cinematic still, photorealistic with film grain texture, inspired by Blade Runner 2049 and Ghost in the Shell aesthetic\\nComposition: ultra-wide-angle fisheye lens perspective, extreme low-angle looking upward at skyscrapers, deep depth of field capturing foreground to background detail\\nSubject: dense crowd of pedestrians mixed with humanoid androids, some wearing AR glasses and luminescent futuristic clothing, walking across the iconic intersection\\nScene/backdrop: hyper-futuristic Shibuya Crossing at night, towering skyscrapers with wall-to-wall holographic advertising screens covering every facade\\nLighting/mood: harsh neon glow from thousands of screens, blue-violet and orange-red light pollution washing over the street, oppressive and tense atmosphere\\nColor palette: cool blue-violet as dominant base, warm orange-red neon as accent highlights, wet asphalt reflecting both color families\\nMaterials/textures: wet reflective pavement mirroring all overhead lights, holographic screen surfaces with slight pixelation, luminescent fabric textures on clothing\\nText (verbatim): \\\"日文、英文、中文\\\"\\nConstraints: maintain fisheye distortion throughout frame; all three scripts (Japanese, English, Chinese) must appear on signage\\nAvoid: 8K stuffer language, plastic-looking crowds, deformed anatomy, oversaturated candy colors, clean daylight, cheerful mood\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13043
+}

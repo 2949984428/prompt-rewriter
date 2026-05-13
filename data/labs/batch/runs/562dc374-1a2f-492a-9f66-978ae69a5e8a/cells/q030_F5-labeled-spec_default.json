@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: documentary street photography, editorial photo\nPrimary request: documentary-style street scene of morning ritual bathing in the Ganges River, Varanasi\nScene/backdrop: Ganges River at dawn, ancient ghats of Varanasi, wooden boats emerging from morning mist\nSubject: devoted Hindu devotees performing ritual bathing, traditional attire, serene expressions, wooden rowboats\nStyle/medium: documentary street photography, photojournalistic, film grain texture\nComposition/framing: wide environmental shot, 35mm lens, layered depth with foreground bathers and background boats\nLighting/mood: warm golden hour sunlight piercing through morning fog, soft diffused light, ethereal and spiritual atmosphere\nColor palette: warm amber and gold tones, muted earthy browns, soft blue-gray mist\nMaterials/textures: weathered wooden boats, wet traditional fabrics, rippling water surface, stone ghats\nConstraints: maintain authentic cultural atmosphere, keep the misty morning ambiance\nAvoid: oversaturated colors, modern elements, plastic objects, deformed hands, artificial HDR look",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aac55951-9a45-43a2-8cb5-3ce499c1e698/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: documentary street photography, editorial photo\\nPrimary request: documentary-style street scene of morning ritual bathing in the Ganges River, Varanasi\\nScene/backdrop: Ganges River at dawn, ancient ghats of Varanasi, wooden boats emerging from morning mist\\nSubject: devoted Hindu devotees performing ritual bathing, traditional attire, serene expressions, wooden rowboats\\nStyle/medium: documentary street photography, photojournalistic, film grain texture\\nComposition/framing: wide environmental shot, 35mm lens, layered depth with foreground bathers and background boats\\nLighting/mood: warm golden hour sunlight piercing through morning fog, soft diffused light, ethereal and spiritual atmosphere\\nColor palette: warm amber and gold tones, muted earthy browns, soft blue-gray mist\\nMaterials/textures: weathered wooden boats, wet traditional fabrics, rippling water surface, stone ghats\\nConstraints: maintain authentic cultural atmosphere, keep the misty morning ambiance\\nAvoid: oversaturated colors, modern elements, plastic objects, deformed hands, artificial HDR look\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10757
+}

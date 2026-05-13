@@ -1,0 +1,20 @@
+{
+  "query_idx": 31,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior illustration of a new-Chinese-style tea room space.\n\nStyle/medium: needs a \"新中式\" aesthetic with \"禅意\" mood — references in the spirit of 宋画 ink-and-color tradition, 明代文人家具 scholarly design heritage, 苏州园林 window-framing composition; exact stylistic execution is yours\nComposition: must include window framing with bamboo shadows visible outside\nSubject: must include 原木茶台 (one), 紫砂壶 and tea cups set, 盆景 (one)\nScene/backdrop: must include 书法卷轴 on the wall, window with 竹影婆娑 outside\nLighting/mood: needs a contemplative, serene atmosphere — exact light source mix is yours\nColor palette: needs an earthy, muted direction — exact hex values are yours\nMaterials/textures: needs natural wood and ceramic surface treatment — exact grain and sheen is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5f5c90b0-2dd7-4607-83d6-732e7cf7fbe1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an interior illustration of a new-Chinese-style tea room space.\\n\\nStyle/medium: needs a \\\"新中式\\\" aesthetic with \\\"禅意\\\" mood — references in the spirit of 宋画 ink-and-color tradition, 明代文人家具 scholarly design heritage, 苏州园林 window-framing composition; exact stylistic execution is yours\\nComposition: must include window framing with bamboo shadows visible outside\\nSubject: must include 原木茶台 (one), 紫砂壶 and tea cups set, 盆景 (one)\\nScene/backdrop: must include 书法卷轴 on the wall, window with 竹影婆娑 outside\\nLighting/mood: needs a contemplative, serene atmosphere — exact light source mix is yours\\nColor palette: needs an earthy, muted direction — exact hex values are yours\\nMaterials/textures: needs natural wood and ceramic surface treatment — exact grain and sheen is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9880
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 112,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成亚马逊产品主图 —— 户外帐篷。\n\n风格/媒介: 产品电商摄影，photorealistic\n构图: 侧面视角，展示帐篷整体轮廓与稳定性\n主体: 户外帐篷，通风口开启，内部可见小毯子和图画书\n场景/背景: 草坪/露营地 + 蓝天，搭配野餐垫、藤编篮子和雏菊\n光线/氛围: 明亮自然光，突出帐篷防风防晒特性\n色彩方案:\n材质/纹理:\n文字(原样):\n约束: 参考上传产品图的帐篷外观、颜色与结构\n避免: 暗光、室内场景、杂乱背景",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A76509055-a42e-4885-95d1-310f1aa5c5e0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成亚马逊产品主图 —— 户外帐篷。\\n\\n风格/媒介: 产品电商摄影，photorealistic\\n构图: 侧面视角，展示帐篷整体轮廓与稳定性\\n主体: 户外帐篷，通风口开启，内部可见小毯子和图画书\\n场景/背景: 草坪/露营地 + 蓝天，搭配野餐垫、藤编篮子和雏菊\\n光线/氛围: 明亮自然光，突出帐篷防风防晒特性\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束: 参考上传产品图的帐篷外观、颜色与结构\\n避免: 暗光、室内场景、杂乱背景\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8521,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

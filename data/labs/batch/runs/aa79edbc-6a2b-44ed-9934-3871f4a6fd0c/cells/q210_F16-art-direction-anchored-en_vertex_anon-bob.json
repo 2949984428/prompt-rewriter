@@ -1,0 +1,23 @@
+{
+  "query_idx": 210,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Instagram 帖子配图。\n\n风格/媒介: 社交媒体配图风格\n构图: 视觉重心突出，适合 Instagram 方图比例\n主体: Instagram post 主题\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样): Let's make new\n约束: 适配 Instagram 正方形格式\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5ed1d950-0c70-440c-b98f-248c8721a85c/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Instagram 帖子配图。\\n\\n风格/媒介: 社交媒体配图风格\\n构图: 视觉重心突出，适合 Instagram 方图比例\\n主体: Instagram post 主题\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样): Let's make new\\n约束: 适配 Instagram 正方形格式\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3958,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

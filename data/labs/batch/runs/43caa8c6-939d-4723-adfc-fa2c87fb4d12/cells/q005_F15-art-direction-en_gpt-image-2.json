@@ -1,0 +1,19 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing educational infographic explaining the definitions of and relationships between a set of AI-related concepts.\n\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\nComposition: must include each concept as a labeled node with definition snippets, connected by relationship lines/arrows showing how concepts relate to each other\nSubject: must include all 7 concepts as labeled nodes with brief definitions and visual icons:\n  - AI\n  - MCP\n  - AI Agent\n  - OpenClaw\n  - AI Skill\n  - 蒸馏\n  - CLI\nScene/backdrop: needs a light, approachable infographic layout — exact background treatment is yours\nLighting/mood: \nColor palette: needs a friendly, easy-to-read direction — exact palette is yours\nMaterials/textures: needs a hand-drawn / sketchy texture feel — exact line weight and paper grain are yours\nText (verbatim): must include all 7 concept labels: \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must preserve all 7 concept nodes with visible relationship connectors between them; layout must be readable and approachable for a general audience\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit https://aka.ms/aoaicodeofconduct\",\"error_code\":\"API_CALL_ERROR\",\"provider_error_code\":\"Forbidden\",\"http_status_code\":403,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing educational infographic explaining the definitions of and relationships between a set of AI-related concepts.\\n\\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\\nComposition: must include each concept as a labeled node with definition snippets, connected by relationship lines/arrows showing how concepts relate to each other\\nSubject: must include all 7 concepts as labeled nodes with brief definitions and visual icons:\\n  - AI\\n  - MCP\\n  - AI Agent\\n  - OpenClaw\\n  - AI Skill\\n  - 蒸馏\\n  - CLI\\nScene/backdrop: needs a light, approachable infographic layout — exact background treatment is yours\\nLighting/mood: \\nColor palette: needs a friendly, easy-to-read direction — exact palette is yours\\nMaterials/textures: needs a hand-drawn / sketchy texture feel — exact line weight and paper grain are yours\\nText (verbatim): must include all 7 concept labels: \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must preserve all 7 concept nodes with visible relationship connectors between them; layout must be readable and approachable for a general audience\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9701
+}

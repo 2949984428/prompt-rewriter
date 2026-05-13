@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing photorealistic employee ID badge design for ByteDance (字节跳动), showing both front and back sides.\n\nStyle/medium: photorealistic product shot, corporate ID badge\nComposition: two badge panels side by side — left panel showing front face, right panel showing back face — on a neutral surface\nSubject: ByteDance (字节跳动) employee ID badge, front and back; front side includes company logo area, employee photo placeholder, name field, department field, employee ID number field; back side includes barcode or QR code area, company address or policy text area, magnetic stripe or chip detail\nScene/backdrop: clean neutral light background, badge lying flat or slightly elevated\nLighting/mood: soft diffused light, subtle shadow beneath badge to convey physical depth and realism\nColor palette: corporate white and black base with ByteDance brand accent colors (orange-red tones)\nMaterials/textures: glossy PVC card surface, printed ink texture, lanyard hole at top, realistic card edge thickness visible\nText (verbatim): 字节跳动\nConstraints: both front and back sides must be clearly visible and legible; badge proportions must match standard CR80 card (85.6mm × 54mm)\nAvoid: cartoon or flat illustration style, blurry text, generic placeholder badge with no brand identity",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c842bbd3-2204-4d66-a7cf-c94a4462145f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing photorealistic employee ID badge design for ByteDance (字节跳动), showing both front and back sides.\\n\\nStyle/medium: photorealistic product shot, corporate ID badge\\nComposition: two badge panels side by side — left panel showing front face, right panel showing back face — on a neutral surface\\nSubject: ByteDance (字节跳动) employee ID badge, front and back; front side includes company logo area, employee photo placeholder, name field, department field, employee ID number field; back side includes barcode or QR code area, company address or policy text area, magnetic stripe or chip detail\\nScene/backdrop: clean neutral light background, badge lying flat or slightly elevated\\nLighting/mood: soft diffused light, subtle shadow beneath badge to convey physical depth and realism\\nColor palette: corporate white and black base with ByteDance brand accent colors (orange-red tones)\\nMaterials/textures: glossy PVC card surface, printed ink texture, lanyard hole at top, realistic card edge thickness visible\\nText (verbatim): 字节跳动\\nConstraints: both front and back sides must be clearly visible and legible; badge proportions must match standard CR80 card (85.6mm × 54mm)\\nAvoid: cartoon or flat illustration style, blurry text, generic placeholder badge with no brand identity\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12632
+}

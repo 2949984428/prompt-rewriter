@@ -1,0 +1,23 @@
+{
+  "query_idx": 42,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Crie uma camisa inspirada na camisa da seleção brasileira para a Solucione. Use esta logo em anexo. Seja criativo, use a logo como um padrão se repetindo pela camisa. A camisa precisa ser minimalista e parecer item exclusivo.[@image:#1:Logo] （附带 1 张参考图：[参考图#1]）",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A34f4eccc-a8e0-477d-b470-5a94b7d5f80b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Crie uma camisa inspirada na camisa da seleção brasileira para a Solucione. Use esta logo em anexo. Seja criativo, use a logo como um padrão se repetindo pela camisa. A camisa precisa ser minimalista e parecer item exclusivo.[@image:#1:Logo]\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8463,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

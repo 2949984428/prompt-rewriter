@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a red convertible driving along Route 66 in a retro Americana road-trip scene.\n\nStyle/medium: photorealistic 35mm film photography with vintage Americana aesthetic, warm Kodachrome color grading, evoking 1960s–70s road-trip photography\nComposition: wide-angle side-tracking shot, car centered in frame, open road stretching to the horizon, vast sky occupying upper half\nSubject: cherry-red classic American convertible in motion, top down, open road ahead, sense of speed and freedom\nScene/backdrop: Route 66 desert highway, arid flatlands flanked by saguaro cacti and dry scrubland, distant mesa silhouettes\nLighting/mood: golden-hour sunset light raking low across the desert, sky blazing in deep orange and crimson, long dramatic shadows across the asphalt, mood of liberation and wanderlust\nColor palette: burnt orange and crimson sky as dominant field, cherry red car as hero accent, muted sand and sage desert as neutral ground\nMaterials/textures: weathered asphalt with faded center-line markings, dusty desert earth, sun-bleached cacti\nAvoid: modern SUVs or electric vehicles, overcast sky, cool blue tones, neon colors, deformed wheels, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/55f06943-abba-4189-9f20-9aedc8e3bbc1/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a red convertible driving along Route 66 in a retro Americana road-trip scene.\\n\\nStyle/medium: photorealistic 35mm film photography with vintage Americana aesthetic, warm Kodachrome color grading, evoking 1960s–70s road-trip photography\\nComposition: wide-angle side-tracking shot, car centered in frame, open road stretching to the horizon, vast sky occupying upper half\\nSubject: cherry-red classic American convertible in motion, top down, open road ahead, sense of speed and freedom\\nScene/backdrop: Route 66 desert highway, arid flatlands flanked by saguaro cacti and dry scrubland, distant mesa silhouettes\\nLighting/mood: golden-hour sunset light raking low across the desert, sky blazing in deep orange and crimson, long dramatic shadows across the asphalt, mood of liberation and wanderlust\\nColor palette: burnt orange and crimson sky as dominant field, cherry red car as hero accent, muted sand and sage desert as neutral ground\\nMaterials/textures: weathered asphalt with faded center-line markings, dusty desert earth, sun-bleached cacti\\nAvoid: modern SUVs or electric vehicles, overcast sky, cool blue tones, neon colors, deformed wheels, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 10045
+}

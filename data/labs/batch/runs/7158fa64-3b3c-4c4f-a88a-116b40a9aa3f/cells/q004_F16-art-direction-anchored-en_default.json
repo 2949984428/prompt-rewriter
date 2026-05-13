@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a PPT cover slide for the automotive brand launch announcement.\n\nStyle/medium: needs a \"通透震撼\" aesthetic — references in the spirit of Apple product launch keynote visuals, Tesla minimalist automotive photography, contemporary Chinese automotive brand campaign cinematography; exact stylistic execution is yours\nComposition: must include prominent title placement with supporting subtitle below, clean negative space for brand presence\nSubject: must include the automotive launch theme as focal subject\nScene/backdrop: needs an atmospheric, expansive backdrop — exact environment is yours\nLighting/mood: needs a luminous, dramatic atmosphere — exact lighting treatment is yours\nColor palette: needs a brand-aligned palette — exact color choices are yours\nMaterials/textures: \nText (verbatim): must include \"长安起源Q06将于9月上市\" (title/subtitle distribution is yours)\nConstraints: must preserve brand tone appropriateness for automotive sector\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dc1414a3-60c5-4cf5-8b10-0030944d0837/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a PPT cover slide for the automotive brand launch announcement.\\n\\nStyle/medium: needs a \\\"通透震撼\\\" aesthetic — references in the spirit of Apple product launch keynote visuals, Tesla minimalist automotive photography, contemporary Chinese automotive brand campaign cinematography; exact stylistic execution is yours\\nComposition: must include prominent title placement with supporting subtitle below, clean negative space for brand presence\\nSubject: must include the automotive launch theme as focal subject\\nScene/backdrop: needs an atmospheric, expansive backdrop — exact environment is yours\\nLighting/mood: needs a luminous, dramatic atmosphere — exact lighting treatment is yours\\nColor palette: needs a brand-aligned palette — exact color choices are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"长安起源Q06将于9月上市\\\" (title/subtitle distribution is yours)\\nConstraints: must preserve brand tone appropriateness for automotive sector\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11289
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 296,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Facebook 社交媒体推广帖图。\n\n风格/媒介:社交媒体推广图，参考网站视觉风格 https://khalilsamara.github.io/comfort-time-center/en/index.html\n构图:适合 Facebook 帖子比例，视觉重心突出，信息层次清晰\n主体:Comfort Time Center 品牌推广内容，使用参考 logo（#1）的品牌识别元素\n场景/背景:\n光线/氛围:舒适、温馨的品牌氛围\n色彩方案:与参考网站品牌配色保持一致\n材质/纹理:\n文字(原样):Comfort Time Center\n约束:\n  参考上传的 logo 图（#1）保留品牌识别元素\n  适配 Facebook 帖子展示尺寸\n避免:与品牌调性不符的视觉元素",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A298c345b-2a10-456d-8b92-571156ee3334/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Facebook 社交媒体推广帖图。\\n\\n风格/媒介:社交媒体推广图，参考网站视觉风格 https://khalilsamara.github.io/comfort-time-center/en/index.html\\n构图:适合 Facebook 帖子比例，视觉重心突出，信息层次清晰\\n主体:Comfort Time Center 品牌推广内容，使用参考 logo（#1）的品牌识别元素\\n场景/背景:\\n光线/氛围:舒适、温馨的品牌氛围\\n色彩方案:与参考网站品牌配色保持一致\\n材质/纹理:\\n文字(原样):Comfort Time Center\\n约束:\\n  参考上传的 logo 图（#1）保留品牌识别元素\\n  适配 Facebook 帖子展示尺寸\\n避免:与品牌调性不符的视觉元素\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7011,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

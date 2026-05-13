@@ -1,0 +1,18 @@
+{
+  "query_idx": 12,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a WeChat official account article cover image for a fragrance new product launch campaign.\n\nStyle/medium: needs a \"高级质感风\" aesthetic — references in the spirit of 2010s Kinfolk magazine editorial minimalism, Aesop brand visual identity (muted luxury packaging), 新中式 refined ink-wash commercial art direction; exact stylistic execution is yours\nComposition: must be centered composition with the title as the dominant focal element\nSubject: must include the fragrance product \"染秋\" as the subject, with the title text as the hero\nScene/backdrop: needs an autumn-toned atmospheric backdrop — exact scene treatment is yours\nLighting/mood: needs a refined, warm, and quietly luxurious mood — exact lighting is yours\nColor palette: needs an autumn-inspired palette (warm amber, muted gold, deep earthy tones) — exact palette is yours\nMaterials/textures: needs a premium tactile quality — exact material treatment is yours\nText (verbatim): must include \"染秋\" (large, primary title), \"秋意染染 时光留香\" (secondary subtitle)\nConstraints: must be horizontal format sized for 900×500 WeChat article cover; title must be prominently legible\nAvoid: cluttered layout, overly bright or saturated colors, generic stock-photo feel",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-02-img2-poland.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create a WeChat official account article cover image for a fragrance new product launch campaign.\\n\\nStyle/medium: needs a \\\"高级质感风\\\" aesthetic — references in the spirit of 2010s Kinfolk magazine editorial minimalism, Aesop brand visual identity (muted luxury packaging), 新中式 refined ink-wash commercial art direction; exact stylistic execution is yours\\nComposition: must be centered composition with the title as the dominant focal element\\nSubject: must include the fragrance product \\\"染秋\\\" as the subject, with the title text as the hero\\nScene/backdrop: needs an autumn-toned atmospheric backdrop — exact scene treatment is yours\\nLighting/mood: needs a refined, warm, and quietly luxurious mood — exact lighting is yours\\nColor palette: needs an autumn-inspired palette (warm amber, muted gold, deep earthy tones) — exact palette is yours\\nMaterials/textures: needs a premium tactile quality — exact material treatment is yours\\nText (verbatim): must include \\\"染秋\\\" (large, primary title), \\\"秋意染染 时光留香\\\" (secondary subtitle)\\nConstraints: must be horizontal format sized for 900×500 WeChat article cover; title must be prominently legible\\nAvoid: cluttered layout, overly bright or saturated colors, generic stock-photo feel\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9689
+}

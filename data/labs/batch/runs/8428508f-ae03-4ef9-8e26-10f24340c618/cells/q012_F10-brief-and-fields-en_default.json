@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster (WeChat article cover) for a fragrance brand new-product launch titled \"染秋 - 秋意染染 时光留香\".\n\nStyle/medium: high-end editorial flat design, luxury fragrance campaign aesthetic in the spirit of Hermès or Jo Malone seasonal print ads, refined and restrained\nComposition: centered composition, headline text as the dominant focal element, symmetrical balance with generous negative space framing the center\nSubject: fragrance product launch visual for \"染秋\", headline \"染秋 - 秋意染染 时光留香\" as the hero typographic element, supported by subtle autumnal decorative motifs (fallen leaves, amber mist, or ink-wash texture)\nScene/backdrop: abstract autumnal atmosphere — warm amber and deep ochre gradient wash, soft bokeh or ink-diffusion background suggesting late-autumn light\nLighting/mood: soft diffused golden-hour warmth, low contrast, serene and nostalgic mood evoking the slow passage of time\nColor palette: deep amber and burnt sienna as dominant tones, ivory or champagne white for text contrast, muted sage or dusty rose as a secondary accent\nMaterials/textures: subtle paper grain or silk-weave texture overlay, delicate ink-wash brushstroke details\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: headline must be the largest and most legible element; layout must fit a 900×500 horizontal banner format; text must remain crisp and unobscured by background elements\nAvoid: cluttered composition, overly saturated colors, generic stock-photo autumn leaves, drop shadows that cheapen the luxury feel, watermarks, 8K stuffer aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/552fb945-435a-4f0e-a76a-7c48f29500ff/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster (WeChat article cover) for a fragrance brand new-product launch titled \\\"染秋 - 秋意染染 时光留香\\\".\\n\\nStyle/medium: high-end editorial flat design, luxury fragrance campaign aesthetic in the spirit of Hermès or Jo Malone seasonal print ads, refined and restrained\\nComposition: centered composition, headline text as the dominant focal element, symmetrical balance with generous negative space framing the center\\nSubject: fragrance product launch visual for \\\"染秋\\\", headline \\\"染秋 - 秋意染染 时光留香\\\" as the hero typographic element, supported by subtle autumnal decorative motifs (fallen leaves, amber mist, or ink-wash texture)\\nScene/backdrop: abstract autumnal atmosphere — warm amber and deep ochre gradient wash, soft bokeh or ink-diffusion background suggesting late-autumn light\\nLighting/mood: soft diffused golden-hour warmth, low contrast, serene and nostalgic mood evoking the slow passage of time\\nColor palette: deep amber and burnt sienna as dominant tones, ivory or champagne white for text contrast, muted sage or dusty rose as a secondary accent\\nMaterials/textures: subtle paper grain or silk-weave texture overlay, delicate ink-wash brushstroke details\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: headline must be the largest and most legible element; layout must fit a 900×500 horizontal banner format; text must remain crisp and unobscured by background elements\\nAvoid: cluttered composition, overly saturated colors, generic stock-photo autumn leaves, drop shadows that cheapen the luxury feel, watermarks, 8K stuffer aesthetic\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13253
+}

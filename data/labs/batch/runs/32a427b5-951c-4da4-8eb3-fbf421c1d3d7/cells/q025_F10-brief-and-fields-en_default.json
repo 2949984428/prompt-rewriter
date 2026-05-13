@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing 9-grid cover image for a Xiaohongshu (Little Red Book) personal media account.\n\nStyle/medium: Xiaohongshu aesthetic, authentic amateur creator vibe, playful and approachable, flat illustration with subtle texture\nComposition: 3x3 grid layout, centered title block spanning the middle row, product placement in focal grid cells, portrait orientation optimized for mobile feed\nSubject: DJI Pocket 4 camera as hero product, casual lifestyle context suggesting first-time user experience, relatable everyday setting\nScene/backdrop: soft neutral background with gentle gradient or subtle pattern, clean grid separators, cozy indoor or outdoor casual environment hints\nLighting/mood: soft diffused natural light, warm and friendly, approachable and genuine amateur creator atmosphere\nColor palette: soft pastels as base with one accent color for product highlight, warm tones to convey trust and authenticity\nText (verbatim): \"大疆pocket4初体验\"\nConstraints: font must be cute and differentiated from standard sans-serif; grid must be clearly readable as 9-square layout; amateur aesthetic must feel authentic not polished\nAvoid: overly professional studio lighting; generic corporate fonts; stock photo perfection; excessive filters; cluttered composition; Behance-style hyper-polished look",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c18cae5a-8fc1-487b-a4c0-0082446e018d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing 9-grid cover image for a Xiaohongshu (Little Red Book) personal media account.\\n\\nStyle/medium: Xiaohongshu aesthetic, authentic amateur creator vibe, playful and approachable, flat illustration with subtle texture\\nComposition: 3x3 grid layout, centered title block spanning the middle row, product placement in focal grid cells, portrait orientation optimized for mobile feed\\nSubject: DJI Pocket 4 camera as hero product, casual lifestyle context suggesting first-time user experience, relatable everyday setting\\nScene/backdrop: soft neutral background with gentle gradient or subtle pattern, clean grid separators, cozy indoor or outdoor casual environment hints\\nLighting/mood: soft diffused natural light, warm and friendly, approachable and genuine amateur creator atmosphere\\nColor palette: soft pastels as base with one accent color for product highlight, warm tones to convey trust and authenticity\\nText (verbatim): \\\"大疆pocket4初体验\\\"\\nConstraints: font must be cute and differentiated from standard sans-serif; grid must be clearly readable as 9-square layout; amateur aesthetic must feel authentic not polished\\nAvoid: overly professional studio lighting; generic corporate fonts; stock photo perfection; excessive filters; cluttered composition; Behance-style hyper-polished look\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11537
+}

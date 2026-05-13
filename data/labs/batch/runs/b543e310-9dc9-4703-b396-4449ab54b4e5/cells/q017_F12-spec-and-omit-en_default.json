@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing trifold travel brochure for a 4-day Hangzhou itinerary, with real Hangzhou map as background, famous landmarks floating on cardstock.\n\nStyle/medium: trifold brochure design, map-based infographic\nComposition: three-panel fold layout, landmarks floating above cardstock\nSubject: Hangzhou 4-day travel itinerary (West Lake, Lingyin Temple, Jiuxi, Grand Canal/Xixi Wetland)\nScene/backdrop: authentic Hangzhou city map as background\nLighting/mood: \nColor palette: \nMaterials/textures: cardstock paper texture, floating landmark illustrations\nText (verbatim): \"第一天：西湖经典游\" \"断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺\" \"第二天：禅意杭州\" \"灵隐寺→飞来峰造像→法喜寺→宋城\" \"第三天：九溪烟树\" \"九溪十八涧→龙井村→十里琅珰→云栖竹径\" \"第四天：文艺收官\"\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/152d9b83-a5eb-46e6-92f7-02c5a01f1112/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing trifold travel brochure for a 4-day Hangzhou itinerary, with real Hangzhou map as background, famous landmarks floating on cardstock.\\n\\nStyle/medium: trifold brochure design, map-based infographic\\nComposition: three-panel fold layout, landmarks floating above cardstock\\nSubject: Hangzhou 4-day travel itinerary (West Lake, Lingyin Temple, Jiuxi, Grand Canal/Xixi Wetland)\\nScene/backdrop: authentic Hangzhou city map as background\\nLighting/mood: \\nColor palette: \\nMaterials/textures: cardstock paper texture, floating landmark illustrations\\nText (verbatim): \\\"第一天：西湖经典游\\\" \\\"断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺\\\" \\\"第二天：禅意杭州\\\" \\\"灵隐寺→飞来峰造像→法喜寺→宋城\\\" \\\"第三天：九溪烟树\\\" \\\"九溪十八涧→龙井村→十里琅珰→云栖竹径\\\" \\\"第四天：文艺收官\\\"\\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8620
+}

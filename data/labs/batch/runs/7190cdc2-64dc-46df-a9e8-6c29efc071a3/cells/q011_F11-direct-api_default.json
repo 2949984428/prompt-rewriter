@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "水彩插画风格，描绘一个欧洲小镇的夏日午后。画面中心是一家开在转角处的小书店，橱窗里摆满了各色书籍，门口摆着几盆盛开的天竺葵，红色花朵在阳光下鲜艳欲滴。书店旁边是一家咖啡馆，露天座位上坐着几位悠闲的顾客，有人在读报，有人在低声交谈，桌上摆着咖啡杯和可颂面包。街道由古老的鹅卵石铺就，两侧建筑外墙颜色各异，有奶油黄、粉橙色和淡蓝色。天空湛蓝，白云蓬松，阳光投下清晰的影子。整体风格轻盈明快，笔触灵动，水色晕染自然，充满生活气息与文艺情调。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6fb54968-3571-43ae-82bd-f077e7b8d42b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

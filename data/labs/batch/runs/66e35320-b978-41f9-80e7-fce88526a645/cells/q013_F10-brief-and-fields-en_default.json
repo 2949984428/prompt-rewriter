@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a gaming monitor launch event.\n\nStyle/medium: minimalist luxury poster design, clean sans-serif typography, Apple/Dyson product launch aesthetic\nComposition: rule of thirds layout, title anchored at top third intersection, product focal point at lower third\nSubject: bold headline \"8k GGU 电竞显示器 1000hz\" as dominant visual element\nScene/backdrop: pure minimal background, generous negative space, subtle gradient or solid color\nLighting/mood: soft diffused studio lighting, premium and sophisticated atmosphere\nColor palette: high contrast monochrome or near-monochrome with single accent color, restrained and premium\nText (verbatim): \"8k GGU 电竞显示器 1000hz\", \"全球首发全新面板 低延迟 完美色彩\"\nConstraints: vertical 9:16 aspect ratio optimized for short video cover; headline must be immediately readable at thumbnail size; maximum visual impact through typography scale\nAvoid: cluttered layout, multiple competing focal points, decorative ornaments, busy patterns, generic gaming RGB aesthetic, stock photo feel",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8697c7d9-b910-4b3a-b81a-b5f7f4304a27/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a gaming monitor launch event.\\n\\nStyle/medium: minimalist luxury poster design, clean sans-serif typography, Apple/Dyson product launch aesthetic\\nComposition: rule of thirds layout, title anchored at top third intersection, product focal point at lower third\\nSubject: bold headline \\\"8k GGU 电竞显示器 1000hz\\\" as dominant visual element\\nScene/backdrop: pure minimal background, generous negative space, subtle gradient or solid color\\nLighting/mood: soft diffused studio lighting, premium and sophisticated atmosphere\\nColor palette: high contrast monochrome or near-monochrome with single accent color, restrained and premium\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\", \\\"全球首发全新面板 低延迟 完美色彩\\\"\\nConstraints: vertical 9:16 aspect ratio optimized for short video cover; headline must be immediately readable at thumbnail size; maximum visual impact through typography scale\\nAvoid: cluttered layout, multiple competing focal points, decorative ornaments, busy patterns, generic gaming RGB aesthetic, stock photo feel\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8430
+}

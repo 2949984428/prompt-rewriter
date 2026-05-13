@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: luxury commercial product photography\nPrimary request: macro close-up still life of a high-end tourbillon mechanical watch\nScene/backdrop: dark carbon fiber textured surface, shallow depth of field with blurred background\nSubject: Swiss luxury tourbillon wristwatch, 42mm skeleton dial revealing intricate mechanical movement including balance wheel, hairspring, gear train and tourbillon mechanism, 18K rose gold case with diamond-set bezel, deep brown crocodile leather strap\nStyle/medium: professional jewelry photography, macro product shot\nComposition/framing: top-down macro shot, sharp focus on tourbillon mechanism, shallow depth of field\nLighting/mood: professional jewelry lighting setup with multi-angle softboxes, even highlights on metal surfaces without overexposure, precise illumination to showcase mechanical details\nColor palette: warm rose gold + deep brown leather + carbon fiber black + silver/steel mechanical components\nMaterials/textures: polished 18K rose gold with diamond reflections, genuine crocodile leather grain, carbon fiber weave, brushed and polished steel movement parts\nConstraints: focus must be on tourbillon mechanism, accurate color reproduction for luxury commercial standards\nAvoid: plastic appearance, uneven lighting, overexposed highlights, distracting background elements, cheap material look",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2bf7fbf4-d6ad-4c61-b5e3-f4ef9b889bd4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: luxury commercial product photography\\nPrimary request: macro close-up still life of a high-end tourbillon mechanical watch\\nScene/backdrop: dark carbon fiber textured surface, shallow depth of field with blurred background\\nSubject: Swiss luxury tourbillon wristwatch, 42mm skeleton dial revealing intricate mechanical movement including balance wheel, hairspring, gear train and tourbillon mechanism, 18K rose gold case with diamond-set bezel, deep brown crocodile leather strap\\nStyle/medium: professional jewelry photography, macro product shot\\nComposition/framing: top-down macro shot, sharp focus on tourbillon mechanism, shallow depth of field\\nLighting/mood: professional jewelry lighting setup with multi-angle softboxes, even highlights on metal surfaces without overexposure, precise illumination to showcase mechanical details\\nColor palette: warm rose gold + deep brown leather + carbon fiber black + silver/steel mechanical components\\nMaterials/textures: polished 18K rose gold with diamond reflections, genuine crocodile leather grain, carbon fiber weave, brushed and polished steel movement parts\\nConstraints: focus must be on tourbillon mechanism, accurate color reproduction for luxury commercial standards\\nAvoid: plastic appearance, uneven lighting, overexposed highlights, distracting background elements, cheap material look\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10728
+}

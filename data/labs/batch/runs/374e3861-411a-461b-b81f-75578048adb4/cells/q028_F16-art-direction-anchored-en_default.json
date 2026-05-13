@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a professional gym scene featuring an athlete performing a deadlift.\n\nStyle/medium: needs an \"工业风\" aesthetic with masculine energy — references in the spirit of 1990s New York loft conversion photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 gym interior design movement; exact stylistic execution is yours\nComposition: must capture the deadlift moment with emphasis on muscular definition\nSubject: must include an athlete with defined muscle lines performing a deadlift\nScene/backdrop: must include a professional gym with industrial-style interior design\nLighting/mood: needs a cool-toned atmosphere emphasizing sweat and power aesthetics — exact light source mix is yours\nColor palette: needs a cool-toned direction — exact hex values are yours\nMaterials/textures: needs raw industrial surface treatment — exact grain / sheen / weight is yours\nText (verbatim): \nConstraints: must preserve the sense of sweat and power beauty, masculine energy\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cd432d20-735c-43b9-b2ad-736a2e4f18c8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a professional gym scene featuring an athlete performing a deadlift.\\n\\nStyle/medium: needs an \\\"工业风\\\" aesthetic with masculine energy — references in the spirit of 1990s New York loft conversion photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 gym interior design movement; exact stylistic execution is yours\\nComposition: must capture the deadlift moment with emphasis on muscular definition\\nSubject: must include an athlete with defined muscle lines performing a deadlift\\nScene/backdrop: must include a professional gym with industrial-style interior design\\nLighting/mood: needs a cool-toned atmosphere emphasizing sweat and power aesthetics — exact light source mix is yours\\nColor palette: needs a cool-toned direction — exact hex values are yours\\nMaterials/textures: needs raw industrial surface treatment — exact grain / sheen / weight is yours\\nText (verbatim): \\nConstraints: must preserve the sense of sweat and power beauty, masculine energy\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11185
+}

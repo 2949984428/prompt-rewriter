@@ -1,0 +1,23 @@
+{
+  "query_idx": 34,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use the attached logo as the exact base and develop it into a stronger brand-ready version.\n\nKeep:\n- the same overall logo concept\n- the two tilted capsule/ticket shapes\n- the playful dynamic composition\n- the main color idea\n- the overall friendly and experiential feeling\n\nRefine mainly the Hebrew title typography: \"קפסולת הזמן\".\n\nCreate a custom Hebrew wordmark that feels:\nunique,\nbrand-specific,\nrounded,\nbold,\nplayful but controlled,\nmodern,\ninnovative,\nand highly memorable.\n\nDo not use a generic rounded Hebrew font.\nMake it feel like the lettering was specially designed for this project.\n\nFocus on giving distinctive personality to letters like:\nק, פ, ס, ת, ז, מ, ן\n\nThe typography should stay friendly and approachable, but feel much more iconic and branded.\n\nAvoid:\nchildish cartoon style,\ngeneric bubble font,\nhandwritten look,\nornamental tricks,\nor overly decorative details.\n\nThe result should feel like a custom logo wordmark for a cultural-experiential Israeli project.\n[@image:#1:image]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A28e06ac8-b579-4911-9348-9e1cdc6ce3dd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use the attached logo as the exact base and develop it into a stronger brand-ready version.\\n\\nKeep:\\n- the same overall logo concept\\n- the two tilted capsule/ticket shapes\\n- the playful dynamic composition\\n- the main color idea\\n- the overall friendly and experiential feeling\\n\\nRefine mainly the Hebrew title typography: \\\"קפסולת הזמן\\\".\\n\\nCreate a custom Hebrew wordmark that feels:\\nunique,\\nbrand-specific,\\nrounded,\\nbold,\\nplayful but controlled,\\nmodern,\\ninnovative,\\nand highly memorable.\\n\\nDo not use a generic rounded Hebrew font.\\nMake it feel like the lettering was specially designed for this project.\\n\\nFocus on giving distinctive personality to letters like:\\nק, פ, ס, ת, ז, מ, ן\\n\\nThe typography should stay friendly and approachable, but feel much more iconic and branded.\\n\\nAvoid:\\nchildish cartoon style,\\ngeneric bubble font,\\nhandwritten look,\\nornamental tricks,\\nor overly decorative details.\\n\\nThe result should feel like a custom logo wordmark for a cultural-experiential Israeli project.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4519,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

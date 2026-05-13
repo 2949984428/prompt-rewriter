@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: architectural-concept\nAsset type: concept art, digital illustration\nPrimary request: futuristic floating building with streamlined white architecture, surrounded by drones and holographic projections, clean energy facilities, sustainable urban development vision\nScene/backdrop: sky cityscape, floating platforms, renewable energy infrastructure, atmospheric clouds\nSubject: sleek white streamlined building suspended in mid-air, futuristic architecture with smooth curves\nStyle/medium: digital concept art, futuristic architectural visualization, sci-fi illustration\nComposition/framing: wide establishing shot, low angle looking up at floating structure\nLighting/mood: soft ambient daylight with subtle tech glow, optimistic and aspirational mood\nColor palette: clean white architecture, sky blue gradients, soft cyan holographic accents, silver drones\nMaterials/textures: smooth matte white surfaces, translucent holographic displays, metallic drone bodies\nConstraints: maintain floating effect with no visible support, emphasize sustainable energy elements\nAvoid: dark dystopian atmosphere, cluttered composition, deformed architecture, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1c389d6c-e222-4790-9965-51699d20641b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: architectural-concept\\nAsset type: concept art, digital illustration\\nPrimary request: futuristic floating building with streamlined white architecture, surrounded by drones and holographic projections, clean energy facilities, sustainable urban development vision\\nScene/backdrop: sky cityscape, floating platforms, renewable energy infrastructure, atmospheric clouds\\nSubject: sleek white streamlined building suspended in mid-air, futuristic architecture with smooth curves\\nStyle/medium: digital concept art, futuristic architectural visualization, sci-fi illustration\\nComposition/framing: wide establishing shot, low angle looking up at floating structure\\nLighting/mood: soft ambient daylight with subtle tech glow, optimistic and aspirational mood\\nColor palette: clean white architecture, sky blue gradients, soft cyan holographic accents, silver drones\\nMaterials/textures: smooth matte white surfaces, translucent holographic displays, metallic drone bodies\\nConstraints: maintain floating effect with no visible support, emphasize sustainable energy elements\\nAvoid: dark dystopian atmosphere, cluttered composition, deformed architecture, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8534
+}

@@ -1,0 +1,19 @@
+{
+  "query_idx": 13,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a short-video vertical cover for a gaming monitor product launch.\n\nStyle/medium: needs a minimalist, premium aesthetic — exact stylistic execution is yours\nComposition: must use rule-of-thirds layout with large-type headline as the visual anchor\nSubject: must include the GGU gaming monitor as hero product\nScene/backdrop: \nLighting/mood: needs a high-impact, eye-catching atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"8k GGU 电竞显示器 1000hz\" (large, primary headline), \"全球首发全新面板 低延迟 完美色彩\" (secondary, subtitle)\nConstraints: must preserve all text verbatim; headline must be visually dominant and attention-grabbing\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-04-img2-east-us2.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create a short-video vertical cover for a gaming monitor product launch.\\n\\nStyle/medium: needs a minimalist, premium aesthetic — exact stylistic execution is yours\\nComposition: must use rule-of-thirds layout with large-type headline as the visual anchor\\nSubject: must include the GGU gaming monitor as hero product\\nScene/backdrop: \\nLighting/mood: needs a high-impact, eye-catching atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"8k GGU 电竞显示器 1000hz\\\" (large, primary headline), \\\"全球首发全新面板 低延迟 完美色彩\\\" (secondary, subtitle)\\nConstraints: must preserve all text verbatim; headline must be visually dominant and attention-grabbing\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6729
+}

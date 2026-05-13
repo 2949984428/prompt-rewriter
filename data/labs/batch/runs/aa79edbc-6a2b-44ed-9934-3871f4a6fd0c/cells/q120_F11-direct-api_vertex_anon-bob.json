@@ -1,0 +1,23 @@
+{
+  "query_idx": 120,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:IMG_8420]这是主体产品猫咪玩具，保持产品细节结构不变！[@image:#2:6d2548c3-9f76-463e-920f-6d51f3da5d6d]这是猫咪角度和构图视角参考，图1主体产品放在室内地板上，俯视角度，右下角一只浅色布偶猫趴在玩具旁边抬头望向上方，表情可爱灵动，帮我生成亚马逊电商图。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4806da41-e9fd-4d33-b2fd-9e5d04a2f457/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:IMG_8420]这是主体产品猫咪玩具，保持产品细节结构不变！[@image:#2:6d2548c3-9f76-463e-920f-6d51f3da5d6d]这是猫咪角度和构图视角参考，图1主体产品放在室内地板上，俯视角度，右下角一只浅色布偶猫趴在玩具旁边抬头望向上方，表情可爱灵动，帮我生成亚马逊电商图。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3539,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

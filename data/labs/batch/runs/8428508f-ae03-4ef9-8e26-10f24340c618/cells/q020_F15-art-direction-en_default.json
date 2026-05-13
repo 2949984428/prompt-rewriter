@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing full-screen smartphone advertisement banner for a flagship phone launch campaign, designed as a mobile screen screenshot format.\n\nStyle/medium: needs a high-impact brand-exposure visual aesthetic — exact stylistic execution is yours\nComposition: must be full-screen vertical layout optimized for mobile display, with hero product centered and brand elements prominent\nSubject: must include a flagship smartphone as the hero product, front-and-center\nScene/backdrop: needs a dramatic, high-contrast backdrop — exact environment is yours\nLighting/mood: needs a visually striking, high-impact atmosphere — exact light source mix is yours\nColor palette: needs a premium flagship-launch direction — exact hex values and ratios are yours\nMaterials/textures: needs a sleek, high-tech surface treatment — exact finish is yours\nText (verbatim): must include \"OPPO Find X9\" (large, primary), \"OPPO\" (brand wordmark)\nConstraints: must be 1080×1920 portrait format; must read as a realistic mobile full-screen ad screenshot\nAvoid: must avoid cluttered layout; must avoid low-end or budget-phone visual cues",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5d0e0869-3219-4252-ab64-84a16a06e157/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing full-screen smartphone advertisement banner for a flagship phone launch campaign, designed as a mobile screen screenshot format.\\n\\nStyle/medium: needs a high-impact brand-exposure visual aesthetic — exact stylistic execution is yours\\nComposition: must be full-screen vertical layout optimized for mobile display, with hero product centered and brand elements prominent\\nSubject: must include a flagship smartphone as the hero product, front-and-center\\nScene/backdrop: needs a dramatic, high-contrast backdrop — exact environment is yours\\nLighting/mood: needs a visually striking, high-impact atmosphere — exact light source mix is yours\\nColor palette: needs a premium flagship-launch direction — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek, high-tech surface treatment — exact finish is yours\\nText (verbatim): must include \\\"OPPO Find X9\\\" (large, primary), \\\"OPPO\\\" (brand wordmark)\\nConstraints: must be 1080×1920 portrait format; must read as a realistic mobile full-screen ad screenshot\\nAvoid: must avoid cluttered layout; must avoid low-end or budget-phone visual cues\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10463
+}

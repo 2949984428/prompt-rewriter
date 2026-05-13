@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing cover image for Xiaohongshu (Little Red Book) featuring bubble tea, targeting a pink feminine aesthetic with summer refreshment vibes.\n\nStyle/medium: lifestyle product photography, soft editorial aesthetic inspired by Korean beauty brand campaigns, pastel-forward visual language\nComposition: top-down flat lay or 45-degree angle, centered bubble tea cup as hero, generous negative space for text overlay\nSubject: tall clear plastic cup of bubble tea with visible tapioca pearls, condensation droplets on cup surface, sealed with branded lid\nScene/backdrop: clean pastel pink surface or marble texture, scattered summer props (sunglasses, flower petals, ice cubes)\nLighting/mood: bright soft diffused daylight, high-key cheerful atmosphere, summer freshness\nColor palette: soft pink as dominant base, creamy beige from milk tea, dark brown pearls as contrast, white highlights\nMaterials/textures: smooth glossy plastic cup, chewy tapioca pearls visible through liquid, water condensation droplets, soft fabric or paper backdrop\nAvoid: cluttered composition, harsh shadows, muted colors, generic stock photo feel, text watermarks, dark moody lighting",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eef0db6c-ff45-4824-b9a7-0be148265b1c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing cover image for Xiaohongshu (Little Red Book) featuring bubble tea, targeting a pink feminine aesthetic with summer refreshment vibes.\\n\\nStyle/medium: lifestyle product photography, soft editorial aesthetic inspired by Korean beauty brand campaigns, pastel-forward visual language\\nComposition: top-down flat lay or 45-degree angle, centered bubble tea cup as hero, generous negative space for text overlay\\nSubject: tall clear plastic cup of bubble tea with visible tapioca pearls, condensation droplets on cup surface, sealed with branded lid\\nScene/backdrop: clean pastel pink surface or marble texture, scattered summer props (sunglasses, flower petals, ice cubes)\\nLighting/mood: bright soft diffused daylight, high-key cheerful atmosphere, summer freshness\\nColor palette: soft pink as dominant base, creamy beige from milk tea, dark brown pearls as contrast, white highlights\\nMaterials/textures: smooth glossy plastic cup, chewy tapioca pearls visible through liquid, water condensation droplets, soft fabric or paper backdrop\\nAvoid: cluttered composition, harsh shadows, muted colors, generic stock photo feel, text watermarks, dark moody lighting\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10519
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 17,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a logo for \"O Conselho Star\" — a group of women entrepreneurs and businesswomen who support each other in business growth, leadership, mentoring, and strategy.\n\n风格/媒介: logo design, elegant and sophisticated, feminine yet authoritative\n构图: clean, balanced composition suitable for a brand identity; symbol or emblem that conveys unity, intelligence, and collective strength\n主体: logo for \"O Conselho Star\" — grupo de mulheres inteligentes\n场景/背景: transparent or white background\n光线/氛围: refined, empowering, prestigious\n色彩方案: off-white and gold only\n材质/纹理: smooth, flat or subtle metallic gold accents\n文字(原样): O Conselho Star\n约束: must work as a standalone logo mark; off-white and gold palette strictly\n避免: busy backgrounds, photographic elements, gradients unrelated to gold, bright or saturated colors",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4e292dce-dbd6-48bc-ab6d-31bf5c4f00f6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a logo for \\\"O Conselho Star\\\" — a group of women entrepreneurs and businesswomen who support each other in business growth, leadership, mentoring, and strategy.\\n\\n风格/媒介: logo design, elegant and sophisticated, feminine yet authoritative\\n构图: clean, balanced composition suitable for a brand identity; symbol or emblem that conveys unity, intelligence, and collective strength\\n主体: logo for \\\"O Conselho Star\\\" — grupo de mulheres inteligentes\\n场景/背景: transparent or white background\\n光线/氛围: refined, empowering, prestigious\\n色彩方案: off-white and gold only\\n材质/纹理: smooth, flat or subtle metallic gold accents\\n文字(原样): O Conselho Star\\n约束: must work as a standalone logo mark; off-white and gold palette strictly\\n避免: busy backgrounds, photographic elements, gradients unrelated to gold, bright or saturated colors\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8777,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

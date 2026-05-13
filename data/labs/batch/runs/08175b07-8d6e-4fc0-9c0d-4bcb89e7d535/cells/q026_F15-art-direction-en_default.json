@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a PPT cover slide for a domestic China fundraising roadshow announcing GPT 5.5, featuring speaker Sam Altman.\n\nStyle/medium: needs a China VC roadshow aesthetic — exact stylistic execution is yours\nComposition: must be PPT cover slide layout with title area and speaker attribution\nSubject: must include Sam Altman as the featured speaker\nScene/backdrop: needs a professional China tech/finance roadshow atmosphere — exact backdrop treatment is yours\nLighting/mood: needs a confident, high-stakes pitch atmosphere — exact lighting treatment is yours\nColor palette: needs a GP-appropriate professional direction — exact color values are yours\nMaterials/textures: \nText (verbatim): must include \"GPT 5.5\" and \"奥特曼\" (speaker name)\nConstraints: must align with China domestic roadshow conventions and GP fund aesthetics\nAvoid: must avoid Silicon Valley-style casual visuals, must avoid Western-centric design cliches",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b53c327d-3734-4247-8660-a3caa2088244/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a PPT cover slide for a domestic China fundraising roadshow announcing GPT 5.5, featuring speaker Sam Altman.\\n\\nStyle/medium: needs a China VC roadshow aesthetic — exact stylistic execution is yours\\nComposition: must be PPT cover slide layout with title area and speaker attribution\\nSubject: must include Sam Altman as the featured speaker\\nScene/backdrop: needs a professional China tech/finance roadshow atmosphere — exact backdrop treatment is yours\\nLighting/mood: needs a confident, high-stakes pitch atmosphere — exact lighting treatment is yours\\nColor palette: needs a GP-appropriate professional direction — exact color values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT 5.5\\\" and \\\"奥特曼\\\" (speaker name)\\nConstraints: must align with China domestic roadshow conventions and GP fund aesthetics\\nAvoid: must avoid Silicon Valley-style casual visuals, must avoid Western-centric design cliches\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11265
+}

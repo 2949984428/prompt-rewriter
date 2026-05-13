@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of emperor penguins on Antarctic blue ice under midnight sun for a National Geographic cover.\n\nStyle/medium: photorealistic nature documentary photography, National Geographic editorial aesthetic, wide-angle landscape with wildlife\nComposition: ultra-wide angle shot, foreground close-up of several emperor penguins with detailed plumage, mid-ground showing hundreds of penguins in formation marching across sea ice, distant icebergs on the horizon\nSubject: emperor penguins with black-and-white feathers and orange-yellow beaks, adult penguins with chicks huddled at their feet, hundreds of penguins in a spectacular queue\nScene/backdrop: Ross Ice Shelf region Antarctica, massive blue glacier with varying shades from light blue to deep sapphire, ice crevasses emitting mysterious blue light, icebergs floating on calm polar sea, midnight sun low on horizon\nLighting/mood: polar midnight sun casting pale golden light across the scene, warm-cool color interplay, ethereal and otherworldly atmosphere\nColor palette: dominant glacier blues ranging from pale to deep sapphire, warm pale gold sky tones, black and white penguin plumage with orange-yellow beak accents\nMaterials/textures: crystalline ice with visible depth and translucency, individual penguin feathers with natural sheen, smooth sea ice surface\nAvoid: oversaturated colors, artificial HDR look, plastic-looking feathers, deformed animals, watermark, 8K stuffer text\n",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/046b32a4-6237-43f8-b92e-14f8d06e8457/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of emperor penguins on Antarctic blue ice under midnight sun for a National Geographic cover.\\n\\nStyle/medium: photorealistic nature documentary photography, National Geographic editorial aesthetic, wide-angle landscape with wildlife\\nComposition: ultra-wide angle shot, foreground close-up of several emperor penguins with detailed plumage, mid-ground showing hundreds of penguins in formation marching across sea ice, distant icebergs on the horizon\\nSubject: emperor penguins with black-and-white feathers and orange-yellow beaks, adult penguins with chicks huddled at their feet, hundreds of penguins in a spectacular queue\\nScene/backdrop: Ross Ice Shelf region Antarctica, massive blue glacier with varying shades from light blue to deep sapphire, ice crevasses emitting mysterious blue light, icebergs floating on calm polar sea, midnight sun low on horizon\\nLighting/mood: polar midnight sun casting pale golden light across the scene, warm-cool color interplay, ethereal and otherworldly atmosphere\\nColor palette: dominant glacier blues ranging from pale to deep sapphire, warm pale gold sky tones, black and white penguin plumage with orange-yellow beak accents\\nMaterials/textures: crystalline ice with visible depth and translucency, individual penguin feathers with natural sheen, smooth sea ice surface\\nAvoid: oversaturated colors, artificial HDR look, plastic-looking feathers, deformed animals, watermark, 8K stuffer text\\n\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11324
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster for \"大话西游\" reimagined in 1990s Hong Kong cinema style, featuring Zhizunbao and Zixia embracing and kissing against a city wall, with the Bull Demon King and Tang Seng standing in the distance.\n\nStyle/medium: 1990s Hong Kong film poster, film grain, analog photography aesthetic\nComposition: foreground couple (至尊宝 and 紫霞) in close embrace and kiss against a weathered city wall, mid-to-far background figures of 牛魔王 and 唐僧 standing apart, cinematic wide framing\nSubject: 至尊宝 and 紫霞 kissing against a city wall in the foreground; 牛魔王 and 唐僧 standing silently in the far background\nScene/backdrop: ancient city wall, dusk or night atmosphere evoking 90s HK wuxia-fantasy mood\nLighting/mood: warm amber and deep shadow contrast, melancholic and romantic, 90s Hong Kong film noir-fantasy tone\nColor palette: faded warm amber, dusty rose, deep shadow blacks — desaturated with analog color shift\nMaterials/textures: heavy film grain overlay, slight halation on highlights, worn poster print texture\nText (verbatim): 大话西游\nConstraints: must read as a period-accurate 1990s Hong Kong movie poster; film grain must be visible and prominent\nAvoid: modern CGI gloss, clean digital look, oversaturated colors, Western fantasy poster style",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a35af7fe-2964-4848-9d4a-e823250b777c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster for \\\"大话西游\\\" reimagined in 1990s Hong Kong cinema style, featuring Zhizunbao and Zixia embracing and kissing against a city wall, with the Bull Demon King and Tang Seng standing in the distance.\\n\\nStyle/medium: 1990s Hong Kong film poster, film grain, analog photography aesthetic\\nComposition: foreground couple (至尊宝 and 紫霞) in close embrace and kiss against a weathered city wall, mid-to-far background figures of 牛魔王 and 唐僧 standing apart, cinematic wide framing\\nSubject: 至尊宝 and 紫霞 kissing against a city wall in the foreground; 牛魔王 and 唐僧 standing silently in the far background\\nScene/backdrop: ancient city wall, dusk or night atmosphere evoking 90s HK wuxia-fantasy mood\\nLighting/mood: warm amber and deep shadow contrast, melancholic and romantic, 90s Hong Kong film noir-fantasy tone\\nColor palette: faded warm amber, dusty rose, deep shadow blacks — desaturated with analog color shift\\nMaterials/textures: heavy film grain overlay, slight halation on highlights, worn poster print texture\\nText (verbatim): 大话西游\\nConstraints: must read as a period-accurate 1990s Hong Kong movie poster; film grain must be visible and prominent\\nAvoid: modern CGI gloss, clean digital look, oversaturated colors, Western fantasy poster style\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9917
+}

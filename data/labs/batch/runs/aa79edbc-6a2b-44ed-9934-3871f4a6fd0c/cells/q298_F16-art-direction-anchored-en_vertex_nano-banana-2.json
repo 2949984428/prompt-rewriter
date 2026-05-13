@@ -1,0 +1,23 @@
+{
+  "query_idx": 298,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张财经直播间现场场景图，皮克斯3D风格，主播为反派形象。\n\n风格/媒介:皮克斯3D动画风格，参考《猎魔女团》角色造型气质\n构图:16:9横构图，直播间现场全景\n主体:反派形象主播，站/坐于直播台前\n场景/背景:财经直播间，背景板上有K线图\n光线/氛围:直播间室内灯光氛围\n色彩方案:\n材质/纹理:皮克斯3D渲染质感\n文字(原样):\n约束:\n避免:写实摄影风格",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7556b6c7-ed6f-4ca2-a208-0d0e51415711/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张财经直播间现场场景图，皮克斯3D风格，主播为反派形象。\\n\\n风格/媒介:皮克斯3D动画风格，参考《猎魔女团》角色造型气质\\n构图:16:9横构图，直播间现场全景\\n主体:反派形象主播，站/坐于直播台前\\n场景/背景:财经直播间，背景板上有K线图\\n光线/氛围:直播间室内灯光氛围\\n色彩方案:\\n材质/纹理:皮克斯3D渲染质感\\n文字(原样):\\n约束:\\n避免:写实摄影风格\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5172,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

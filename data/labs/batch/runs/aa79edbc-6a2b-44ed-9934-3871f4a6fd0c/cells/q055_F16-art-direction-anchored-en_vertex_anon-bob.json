@@ -1,0 +1,23 @@
+{
+  "query_idx": 55,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计字体 logo —— 弈博教育。\n\n风格/媒介:现代审美，简洁，平面 logo 设计\n构图:字体为主体，图形元素适度结合，整体平衡\n主体:弈博教育 logo，融合医疗器材与文具元素的图形符号\n场景/背景:\n光线/氛围:\n色彩方案:蓝色与绿色邻近色搭配\n材质/纹理:\n文字(原样):弈博教育\n约束:logo 风格，矢量平面，图文结合适度，不过度堆砌元素\n避免:复杂装饰、写实风格、多余背景",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5c1cb920-fa88-4047-ad86-389a3190cc61/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计字体 logo —— 弈博教育。\\n\\n风格/媒介:现代审美，简洁，平面 logo 设计\\n构图:字体为主体，图形元素适度结合，整体平衡\\n主体:弈博教育 logo，融合医疗器材与文具元素的图形符号\\n场景/背景:\\n光线/氛围:\\n色彩方案:蓝色与绿色邻近色搭配\\n材质/纹理:\\n文字(原样):弈博教育\\n约束:logo 风格，矢量平面，图文结合适度，不过度堆砌元素\\n避免:复杂装饰、写实风格、多余背景\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5821,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

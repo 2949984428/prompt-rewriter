@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a Xiaohongshu (Little Red Book) cover image featuring the DJI Pocket 4 camera.\n\nStyle/medium: Xiaohongshu creator aesthetic, authentic amateur (素人) style, playful and approachable visual language, flat illustration with subtle depth\nComposition: 9-grid layout structure, centered title placement, product hero shot in focal zone, vertical mobile-optimized format\nSubject: DJI Pocket 4 camera as the featured product, displayed naturally as if in casual everyday use\nScene/backdrop: clean minimal backdrop suggesting personal content creator space, soft neutral tones\nLighting/mood: bright natural daylight feel, friendly and inviting, approachable creator energy\nColor palette: soft pastels with one accent color for product highlight, warm and welcoming tones\nText (verbatim): \"大强pocket4初体验\"\nConstraints: font must be cute and differentiated; must read clearly as Xiaohongshu cover thumbnail at small size; maintain authentic amateur creator aesthetic without overly polished commercial look\nAvoid: stock photo aesthetic; generic sans-serif fonts; overly corporate styling; cluttered layout; professional studio lighting clichés",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9a74987a-3f93-4e8e-96a7-3ac34fc9bb37/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for a Xiaohongshu (Little Red Book) cover image featuring the DJI Pocket 4 camera.\\n\\nStyle/medium: Xiaohongshu creator aesthetic, authentic amateur (素人) style, playful and approachable visual language, flat illustration with subtle depth\\nComposition: 9-grid layout structure, centered title placement, product hero shot in focal zone, vertical mobile-optimized format\\nSubject: DJI Pocket 4 camera as the featured product, displayed naturally as if in casual everyday use\\nScene/backdrop: clean minimal backdrop suggesting personal content creator space, soft neutral tones\\nLighting/mood: bright natural daylight feel, friendly and inviting, approachable creator energy\\nColor palette: soft pastels with one accent color for product highlight, warm and welcoming tones\\nText (verbatim): \\\"大强pocket4初体验\\\"\\nConstraints: font must be cute and differentiated; must read clearly as Xiaohongshu cover thumbnail at small size; maintain authentic amateur creator aesthetic without overly polished commercial look\\nAvoid: stock photo aesthetic; generic sans-serif fonts; overly corporate styling; cluttered layout; professional studio lighting clichés\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11663
+}

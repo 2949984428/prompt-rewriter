@@ -1,0 +1,23 @@
+{
+  "query_idx": 154,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成[@image:#1:耳环分镜6_回眸瞬间_正确尺寸][@image:#2:C型耳环轻奢静物图-角度3]\n这个耳环的商品淘宝详情页，参考[@image:#3:乌龙茶手链电商详情页]\n这个模板，产品信息：产品名称：露思\n金属材质：铜镀铂金 耳针s925银\n其他材质：无\n产品尺寸：直径3cm[@image:#2:C型耳环轻奢静物图-角度3]",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae4f799e1-a62f-4106-8fc2-e15501584c85/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成[@image:#1:耳环分镜6_回眸瞬间_正确尺寸][@image:#2:C型耳环轻奢静物图-角度3]\\n这个耳环的商品淘宝详情页，参考[@image:#3:乌龙茶手链电商详情页]\\n这个模板，产品信息：产品名称：露思\\n金属材质：铜镀铂金 耳针s925银\\n其他材质：无\\n产品尺寸：直径3cm[@image:#2:C型耳环轻奢静物图-角度3]\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3253,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

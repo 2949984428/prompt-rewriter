@@ -1,0 +1,19 @@
+{
+  "query_idx": 5,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "手绘风格信息图，图文并茂，浅显易懂，展示以下概念的定义和它们之间的关系：\n\n【概念列表】\n1. AI (人工智能)\n2. MCP (Model Context Protocol)\n3. AI Agent (AI智能体)\n4. OpenClaw\n5. AI Skill (AI技能)\n6. 蒸馏 (知识蒸馏)\n7. CLI (命令行界面)\n\n【设计要求】\n- 整体采用手绘/涂鸦风格，线条自然随意\n- 每个概念配一个简洁的图标或简笔画\n- 用箭头、连线或气泡展示概念之间的层级和关联关系\n- 添加简短的中文说明文字解释每个概念\n- 配色温暖友好，背景可以是浅色纸张纹理\n- 布局清晰，便于理解技术概念之间的逻辑关系\n- 可以包含思维导图式的分支结构\n\nOriginal request: \"生成一个解释如下概念的定义和概念之间关系的信息图，手绘风格，图文并茂，浅显易懂，概念有：AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI\"",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-02-img2-west-us3.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"手绘风格信息图，图文并茂，浅显易懂，展示以下概念的定义和它们之间的关系：\\n\\n【概念列表】\\n1. AI (人工智能)\\n2. MCP (Model Context Protocol)\\n3. AI Agent (AI智能体)\\n4. OpenClaw\\n5. AI Skill (AI技能)\\n6. 蒸馏 (知识蒸馏)\\n7. CLI (命令行界面)\\n\\n【设计要求】\\n- 整体采用手绘/涂鸦风格，线条自然随意\\n- 每个概念配一个简洁的图标或简笔画\\n- 用箭头、连线或气泡展示概念之间的层级和关联关系\\n- 添加简短的中文说明文字解释每个概念\\n- 配色温暖友好，背景可以是浅色纸张纹理\\n- 布局清晰，便于理解技术概念之间的逻辑关系\\n- 可以包含思维导图式的分支结构\\n\\nOriginal request: \\\"生成一个解释如下概念的定义和概念之间关系的信息图，手绘风格，图文并茂，浅显易懂，概念有：AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI\\\"\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 6453
+}

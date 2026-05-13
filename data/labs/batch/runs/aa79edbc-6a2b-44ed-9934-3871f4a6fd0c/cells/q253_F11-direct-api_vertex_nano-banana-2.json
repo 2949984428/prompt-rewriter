@@ -1,0 +1,23 @@
+{
+  "query_idx": 253,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Mark Generation] 去掉和费用相关的内容，防止小红书审核不通过",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A63ccc3ec-d245-47c5-9ac1-383f574ba721/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Mark Generation] 去掉和费用相关的内容，防止小红书审核不通过\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5264,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

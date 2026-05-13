@@ -1,0 +1,23 @@
+{
+  "query_idx": 61,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "A dynamic yet profoundly sophisticated monochrome logo, solid black and white. It features five abstracted, sweeping vector forms (like dynamic arrows or chevrons) that are not simply lines, but conceptual layers in synchronized motion. Their overlapping intersections create a complex, almost kinetic geometric pattern that converges at a single point, symbolizing unified purpose and forward momentum. Purely flat, high-definition lines, clean crisp edges, no text.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6e560ba4-d5a9-4050-8430-262144a71cbc/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"A dynamic yet profoundly sophisticated monochrome logo, solid black and white. It features five abstracted, sweeping vector forms (like dynamic arrows or chevrons) that are not simply lines, but conceptual layers in synchronized motion. Their overlapping intersections create a complex, almost kinetic geometric pattern that converges at a single point, symbolizing unified purpose and forward momentum. Purely flat, high-definition lines, clean crisp edges, no text.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3827,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\n\nStyle/medium: needs a technical exploded-view illustration aesthetic — exact stylistic execution is yours\nComposition: must be an exploded/disassembled layout with all parts spread out and clearly separated, connected by alignment guides or lines\nSubject: must include the Sony A7 camera fully disassembled into all its individual components with each part labeled by name\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include labeled part names for every component (e.g., sensor, shutter, lens mount, body shell, viewfinder, dials, buttons, battery compartment, card slot, PCB, mirror mechanism, etc.)\nConstraints: must preserve accurate part layout consistent with the Sony A7 body structure; all labels must be legible and clearly associated with their respective parts\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af0dfc298-41a1-46a6-8222-31a1956ca513/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\\n\\nStyle/medium: needs a technical exploded-view illustration aesthetic — exact stylistic execution is yours\\nComposition: must be an exploded/disassembled layout with all parts spread out and clearly separated, connected by alignment guides or lines\\nSubject: must include the Sony A7 camera fully disassembled into all its individual components with each part labeled by name\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include labeled part names for every component (e.g., sensor, shutter, lens mount, body shell, viewfinder, dials, buttons, battery compartment, card slot, PCB, mirror mechanism, etc.)\\nConstraints: must preserve accurate part layout consistent with the Sony A7 body structure; all labels must be legible and clearly associated with their respective parts\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7767
+}

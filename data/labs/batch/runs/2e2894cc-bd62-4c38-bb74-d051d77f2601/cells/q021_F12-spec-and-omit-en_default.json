@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3x3 character expression grid for Zhao Ling'er from the Legend of Sword and Fairy IP.\n\nStyle/medium: 3D animation, Pixar style\nComposition: 3x3 grid layout, 9 panels, each panel showing character peeking through a torn hole in white paper\nSubject: Zhao Ling'er (young woman with voluminous dark wavy hair and round wire-rimmed glasses) in 9 different expressions and outfits\nScene/backdrop: white paper with torn circular holes as framing device\nLighting/mood: \nColor palette: green, red, yellow, black and white, orange, blue, purple, pink, teal (one per panel)\nMaterials/textures: \nText (verbatim): \nConstraints: top-left: winking, adjusting glasses, green sweater; top-center: smirking, lowering dark sunglasses, red leather jacket; top-right: thinking, finger on chin, yellow hoodie; middle-left: big smile, arms resting on edge, black and white striped shirt; middle-center: smiling, thumbs up, orange button-up shirt; middle-right: neutral, drinking boba tea, blue sweater; bottom-left: happy, waving, purple sweater vest over white shirt; bottom-center: laughing with eyes closed, arms crossed, pink cardigan; bottom-right: silly, poking cheeks, teal sweater\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6d5134b6-068d-4d04-b421-bfeb4bc00e13/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 3x3 character expression grid for Zhao Ling'er from the Legend of Sword and Fairy IP.\\n\\nStyle/medium: 3D animation, Pixar style\\nComposition: 3x3 grid layout, 9 panels, each panel showing character peeking through a torn hole in white paper\\nSubject: Zhao Ling'er (young woman with voluminous dark wavy hair and round wire-rimmed glasses) in 9 different expressions and outfits\\nScene/backdrop: white paper with torn circular holes as framing device\\nLighting/mood: \\nColor palette: green, red, yellow, black and white, orange, blue, purple, pink, teal (one per panel)\\nMaterials/textures: \\nText (verbatim): \\nConstraints: top-left: winking, adjusting glasses, green sweater; top-center: smirking, lowering dark sunglasses, red leather jacket; top-right: thinking, finger on chin, yellow hoodie; middle-left: big smile, arms resting on edge, black and white striped shirt; middle-center: smiling, thumbs up, orange button-up shirt; middle-right: neutral, drinking boba tea, blue sweater; bottom-left: happy, waving, purple sweater vest over white shirt; bottom-center: laughing with eyes closed, arms crossed, pink cardigan; bottom-right: silly, poking cheeks, teal sweater\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11400
+}

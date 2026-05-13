@@ -1,0 +1,23 @@
+{
+  "query_idx": 271,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一个宝可梦卡牌系列海报用作线下活动，要求有视觉冲击力，比例4:3",
+    "size": "1536x1152",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7c2298a3-4897-4310-ab55-5dc714c1913f/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一个宝可梦卡牌系列海报用作线下活动，要求有视觉冲击力，比例4:3\", \"size\": \"1536x1152\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2951,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

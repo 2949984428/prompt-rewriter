@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "绘制一张微观世界的特写，一滴水珠中的倒影，周围是草叶和露珠，背景虚化呈圆形光斑，展现自然界的精致与神奇，适合作为手机壁纸",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bb1f1e3b-3e69-4ab4-8b04-f9460991e3e2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

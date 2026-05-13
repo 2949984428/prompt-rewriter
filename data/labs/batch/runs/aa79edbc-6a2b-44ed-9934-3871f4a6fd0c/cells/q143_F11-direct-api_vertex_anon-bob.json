@@ -1,0 +1,23 @@
+{
+  "query_idx": 143,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:1-保湿精萃水][@image:#2:30612a5a8cb7e8f86ed6d9626e20f050a8021a097a25a-KmFUor]用图1的产品参考图2的设计风格，设计京东产品详情页长图，最少 4 张包含（场景 + 细节 + 尺寸 + 卖点）体现产品脸部补水保湿功能，8k高清画质",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A55775541-a3c4-4206-9ffb-1f0f2a931a7e/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:1-保湿精萃水][@image:#2:30612a5a8cb7e8f86ed6d9626e20f050a8021a097a25a-KmFUor]用图1的产品参考图2的设计风格，设计京东产品详情页长图，最少 4 张包含（场景 + 细节 + 尺寸 + 卖点）体现产品脸部补水保湿功能，8k高清画质\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5615,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

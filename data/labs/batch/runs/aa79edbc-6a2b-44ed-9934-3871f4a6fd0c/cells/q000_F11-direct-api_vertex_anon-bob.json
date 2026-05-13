@@ -1,0 +1,26 @@
+{
+  "query_idx": 0,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个logo要求简洁扁平化，蓝色或着红色，最多可用奥运五色，字母包含TJTC四个字母，视觉效果好",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A83597774-ee01-4332-a3c8-af3cca3632b7/0.jpg",
+    "/api/image-file/lovart%3A83597774-ee01-4332-a3c8-af3cca3632b7/1.jpg",
+    "/api/image-file/lovart%3A83597774-ee01-4332-a3c8-af3cca3632b7/2.jpg",
+    "/api/image-file/lovart%3A83597774-ee01-4332-a3c8-af3cca3632b7/3.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个logo要求简洁扁平化，蓝色或着红色，最多可用奥运五色，字母包含TJTC四个字母，视觉效果好\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3672,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

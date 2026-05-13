@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a social media cover announcing GPT-image-2 launch on Lovart.\n\nStyle/medium: high-end magazine aesthetic\nComposition: diagonal composition\nSubject: GPT-image-2 and Lovart platform launch announcement\nScene/backdrop: \nLighting/mood: high contrast with accent colors\nColor palette: \nMaterials/textures: \nText (verbatim): \"GPT-image-2\" \"Lovart\"\nConstraints: designed for Xiaohongshu cover format\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/49255a9c-e744-461f-8dc5-aca013af0ea1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for a social media cover announcing GPT-image-2 launch on Lovart.\\n\\nStyle/medium: high-end magazine aesthetic\\nComposition: diagonal composition\\nSubject: GPT-image-2 and Lovart platform launch announcement\\nScene/backdrop: \\nLighting/mood: high contrast with accent colors\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"GPT-image-2\\\" \\\"Lovart\\\"\\nConstraints: designed for Xiaohongshu cover format\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5609
+}

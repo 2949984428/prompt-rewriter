@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a concept art illustration of futuristic architecture (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a futuristic architectural aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a streamlined white building floating in mid-air, drones, holographic projections, clean energy facilities\nScene/backdrop: must include an aerial/sky context with sustainable city development vision elements\nLighting/mood: needs a sustainable-future atmosphere — exact light source mix is yours\nColor palette: needs a white-dominant direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dccdc221-d404-4504-ac1d-886b20cb9042/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a concept art illustration of futuristic architecture (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a futuristic architectural aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a streamlined white building floating in mid-air, drones, holographic projections, clean energy facilities\\nScene/backdrop: must include an aerial/sky context with sustainable city development vision elements\\nLighting/mood: needs a sustainable-future atmosphere — exact light source mix is yours\\nColor palette: needs a white-dominant direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8030
+}

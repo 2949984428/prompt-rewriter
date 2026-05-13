@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: interior design editorial photo, lifestyle magazine shot\nPrimary request: French romantic bedroom scene with canopy bed, vintage vanity, and Paris street view through window\nScene/backdrop: elegant Parisian bedroom with tall windows overlooking classic Paris streetscape, Haussmann architecture visible outside\nSubject: four-poster canopy bed with flowing sheer curtains, antique vanity table with ornate mirror, scattered rose petals on bed and floor\nStyle/medium: editorial interior photography, soft romantic aesthetic\nComposition/framing: medium wide shot capturing bed as focal point, window to one side, balanced room layout\nLighting/mood: soft morning light streaming through window, gentle and dreamy atmosphere, warm and lazy mood\nColor palette: soft cream and ivory tones, dusty rose accents, warm golden morning light, muted sage greens\nMaterials/textures: flowing sheer fabric canopy, polished antique wood furniture, crisp linen bedding, delicate rose petals, wrought iron balcony railing visible through window\nConstraints: maintain elegant and languid atmosphere, keep Paris street view clearly visible through window\nAvoid: harsh shadows, cluttered composition, modern furniture, plastic textures, oversaturated colors",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/495e0657-847b-4e43-accc-16d8fe8a69b1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: interior design editorial photo, lifestyle magazine shot\\nPrimary request: French romantic bedroom scene with canopy bed, vintage vanity, and Paris street view through window\\nScene/backdrop: elegant Parisian bedroom with tall windows overlooking classic Paris streetscape, Haussmann architecture visible outside\\nSubject: four-poster canopy bed with flowing sheer curtains, antique vanity table with ornate mirror, scattered rose petals on bed and floor\\nStyle/medium: editorial interior photography, soft romantic aesthetic\\nComposition/framing: medium wide shot capturing bed as focal point, window to one side, balanced room layout\\nLighting/mood: soft morning light streaming through window, gentle and dreamy atmosphere, warm and lazy mood\\nColor palette: soft cream and ivory tones, dusty rose accents, warm golden morning light, muted sage greens\\nMaterials/textures: flowing sheer fabric canopy, polished antique wood furniture, crisp linen bedding, delicate rose petals, wrought iron balcony railing visible through window\\nConstraints: maintain elegant and languid atmosphere, keep Paris street view clearly visible through window\\nAvoid: harsh shadows, cluttered composition, modern furniture, plastic textures, oversaturated colors\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10473
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 67,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1: Image][@image:#2: Image]根据图片logo设计风格，重新设计logo：黑白：设计内核：鱼篓是最直接呼应“摸鱼”的传统旧物，同时它也是装载的容器。 图形解构：提取竹编鱼篓的“交叉编织纹理”。用现代化的网格线（Grid）或者几根交叉的斜线来代表鱼篓的抽象结构。 摸鱼意象（线条融合）：线条的下半部分是规整的网格（鱼篓），但线条向上延伸时，突然变得柔和灵动，交织成一片极简的茶叶，或者一条鱼的流线型轮廓。仿佛是鱼从规矩的网格中跃出。，竹篓中有\"摸鱼儿”品牌名中某一个字的字形进行结合",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa07b8d59-4d54-4e45-bd0a-dcbb6af00f95/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1: Image][@image:#2: Image]根据图片logo设计风格，重新设计logo：黑白：设计内核：鱼篓是最直接呼应\\\"摸鱼\\\"的传统旧物，同时它也是装载的容器。 图形解构：提取竹编鱼篓的\\\"交叉编织纹理\\\"。用现代化的网格线（Grid）或者几根交叉的斜线来代表鱼篓的抽象结构。 摸鱼意象（线条融合）：线条的下半部分是规整的网格（鱼篓），但线条向上延伸时，突然变得柔和灵动，交织成一片极简的茶叶，或者一条鱼的流线型轮廓。仿佛是鱼从规矩的网格中跃出。，竹篓中有\\\"摸鱼儿\\\"品牌名中某一个字的字形进行结合\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4443,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

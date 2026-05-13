@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing educational infographic card for children explaining the Battle of Red Cliffs from the Three Kingdoms period.\n\nStyle/medium: flat vector illustration, children's educational infographic style, friendly cartoon aesthetic with simplified character designs\nComposition: single large knowledge card layout, title banner at top, main story illustration occupying center-left, bullet points column on right side\nSubject: Three Kingdoms Battle of Red Cliffs (赤壁之战), featuring simplified cartoon depictions of Zhuge Liang, Zhou Yu, and the fire attack on Cao Cao's fleet\nScene/backdrop: dramatic river battle scene with burning ships, simplified cartoon clouds and water, clear visual storytelling for young learners\nColor palette: warm oranges and reds for fire elements, cool blues for water, earth tones for characters, high contrast for readability\nText (verbatim): \"赤壁之战\"\nConstraints: must be readable at card size; title must be prominent and clear; bullet points must use proper punctuation; all text legible for children\nAvoid: violent or scary imagery; overly complex details; small unreadable text; realistic gore; dark or muddy colors",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4d495298-ecb6-4897-8443-793b28a6e33b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing educational infographic card for children explaining the Battle of Red Cliffs from the Three Kingdoms period.\\n\\nStyle/medium: flat vector illustration, children's educational infographic style, friendly cartoon aesthetic with simplified character designs\\nComposition: single large knowledge card layout, title banner at top, main story illustration occupying center-left, bullet points column on right side\\nSubject: Three Kingdoms Battle of Red Cliffs (赤壁之战), featuring simplified cartoon depictions of Zhuge Liang, Zhou Yu, and the fire attack on Cao Cao's fleet\\nScene/backdrop: dramatic river battle scene with burning ships, simplified cartoon clouds and water, clear visual storytelling for young learners\\nColor palette: warm oranges and reds for fire elements, cool blues for water, earth tones for characters, high contrast for readability\\nText (verbatim): \\\"赤壁之战\\\"\\nConstraints: must be readable at card size; title must be prominent and clear; bullet points must use proper punctuation; all text legible for children\\nAvoid: violent or scary imagery; overly complex details; small unreadable text; realistic gore; dark or muddy colors\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10145
+}

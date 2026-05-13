@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing travel brochure for a 4-day 3-night Hangzhou itinerary.\n\nStyle/medium: trifold brochure, real Hangzhou map as background, suspended on cardstock\nComposition: tri-fold layout with floating landmarks\nSubject: 4-day Hangzhou travel guide with famous scenic spots as location markers\nScene/backdrop: Hangzhou city map background with iconic landmarks floating above cardstock\nLighting/mood: \nColor palette: \nMaterials/textures: cardstock base with floating landmark elements\nText (verbatim): \"第一天：西湖经典游，打卡教科书里的江南\" \"断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺\" \"第二天：禅意杭州，穿越千年宋韵\" \"灵隐寺→飞来峰造像→法喜寺→宋城\" \"第三天：九溪烟树徒步，做一日茶山散人\" \"九溪十八涧→龙井村→十里琅珰→云栖竹径\" \"第四天：文艺收官，解锁杭州AB面\"\nConstraints: real Hangzhou map as main visual thread, famous landmarks must have distinctive landmark features\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a63cbbe2-969e-4233-b6f3-3b2204c82dba/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing travel brochure for a 4-day 3-night Hangzhou itinerary.\\n\\nStyle/medium: trifold brochure, real Hangzhou map as background, suspended on cardstock\\nComposition: tri-fold layout with floating landmarks\\nSubject: 4-day Hangzhou travel guide with famous scenic spots as location markers\\nScene/backdrop: Hangzhou city map background with iconic landmarks floating above cardstock\\nLighting/mood: \\nColor palette: \\nMaterials/textures: cardstock base with floating landmark elements\\nText (verbatim): \\\"第一天：西湖经典游，打卡教科书里的江南\\\" \\\"断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺\\\" \\\"第二天：禅意杭州，穿越千年宋韵\\\" \\\"灵隐寺→飞来峰造像→法喜寺→宋城\\\" \\\"第三天：九溪烟树徒步，做一日茶山散人\\\" \\\"九溪十八涧→龙井村→十里琅珰→云栖竹径\\\" \\\"第四天：文艺收官，解锁杭州AB面\\\"\\nConstraints: real Hangzhou map as main visual thread, famous landmarks must have distinctive landmark features\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9491
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a UI design system for web dashboard, mobile interface, cards, buttons, and controls in classic minimalist tech style.\n\nStyle/medium: clean flat UI design system, classic minimalist tech aesthetic, modern SaaS dashboard UI kit, Figma-style components\nComposition: comprehensive component library layout showing web dashboard mockup, mobile interface, card components, button variants, and form controls arranged in organized grid\nSubject: UI component collection including data visualization cards, navigation bars, toggle switches, input fields, primary/secondary buttons, stat cards, and mobile screens\nScene/backdrop: neutral light gray canvas background with subtle grid system, organized spacing showing design system hierarchy\nLighting/mood: clean even lighting, professional product presentation, crisp and precise\nColor palette: deep navy and charcoal as primary, electric blue as accent, white and light gray for surfaces, high contrast for hierarchy\nMaterials/textures: smooth matte surfaces, subtle shadows for depth, clean vector edges, no gradients unless essential\nConstraints: all components must be scalable vector-based; maintain 8px grid alignment; support dark mode variant\nAvoid: skeuomorphic textures; drop shadows heavier than 8px; more than 3 accent colors; decorative flourishes; 3D effects; glassmorphism blur",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/de419e3b-63f0-45c4-b2f5-bd8d13412a8f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a UI design system for web dashboard, mobile interface, cards, buttons, and controls in classic minimalist tech style.\\n\\nStyle/medium: clean flat UI design system, classic minimalist tech aesthetic, modern SaaS dashboard UI kit, Figma-style components\\nComposition: comprehensive component library layout showing web dashboard mockup, mobile interface, card components, button variants, and form controls arranged in organized grid\\nSubject: UI component collection including data visualization cards, navigation bars, toggle switches, input fields, primary/secondary buttons, stat cards, and mobile screens\\nScene/backdrop: neutral light gray canvas background with subtle grid system, organized spacing showing design system hierarchy\\nLighting/mood: clean even lighting, professional product presentation, crisp and precise\\nColor palette: deep navy and charcoal as primary, electric blue as accent, white and light gray for surfaces, high contrast for hierarchy\\nMaterials/textures: smooth matte surfaces, subtle shadows for depth, clean vector edges, no gradients unless essential\\nConstraints: all components must be scalable vector-based; maintain 8px grid alignment; support dark mode variant\\nAvoid: skeuomorphic textures; drop shadows heavier than 8px; more than 3 accent colors; decorative flourishes; 3D effects; glassmorphism blur\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10937
+}

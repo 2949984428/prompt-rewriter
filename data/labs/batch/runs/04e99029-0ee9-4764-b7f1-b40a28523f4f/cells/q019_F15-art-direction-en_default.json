@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for UGREEN NAS brand 618 Anniversary Sale e-commerce announcement.\n\nStyle/medium: needs an e-commerce promotional aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include UGREEN NAS product context as the focal subject\nScene/backdrop: \nLighting/mood: needs a celebratory sale atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"绿联私有云\" (brand name), \"618\" (sale event), \"周年庆\" (anniversary celebration)\nConstraints: must preserve e-commerce poster format suitable for online announcement\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bf08f705-e629-4ad2-b373-8978fba1b26d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for UGREEN NAS brand 618 Anniversary Sale e-commerce announcement.\\n\\nStyle/medium: needs an e-commerce promotional aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include UGREEN NAS product context as the focal subject\\nScene/backdrop: \\nLighting/mood: needs a celebratory sale atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"绿联私有云\\\" (brand name), \\\"618\\\" (sale event), \\\"周年庆\\\" (anniversary celebration)\\nConstraints: must preserve e-commerce poster format suitable for online announcement\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7083
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "中国传统节日——元宵节的热闹街市场景，工笔重彩画风格。画面中央是一条张灯结彩的古代街道，两侧店铺林立，挂满了各式各样的红灯笼、宫灯和走马灯，灯光将夜空映照得通红。街道上人声鼎沸，男女老少身着节日盛装，孩童手提兔子灯嬉戏追逐，小贩叫卖汤圆、糖葫芦和花灯。远处有舞龙舞狮的队伍，锣鼓喧天，烟花在夜空中绽放。画面构图饱满，人物众多，细节丰富，色彩以红、金、橙为主调，充满喜庆热烈的节日气氛，笔触精细，参考《清明上河图》的叙事性构图方式。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bc530f1c-d21c-40e7-890f-c19e498fa665/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

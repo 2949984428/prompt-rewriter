@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for UGREEN NAS brand 618 anniversary celebration e-commerce announcement.\n\nStyle/medium: commercial e-commerce poster, bold graphic design with tech-forward aesthetic, clean modern typography\nComposition: centered layout with strong visual hierarchy, headline prominent at top, product/brand element as focal point, CTA area at bottom\nSubject: UGREEN NAS private cloud product imagery or abstract cloud/storage iconography, celebrating 618 anniversary milestone\nScene/backdrop: minimal studio backdrop or gradient background, uncluttered to emphasize product and promotional message\nLighting/mood: bright even studio lighting, energetic and celebratory atmosphere suitable for sales event\nColor palette: UGREEN brand green as anchor, vibrant accent colors for 618 celebration theme, high contrast for readability\nText (verbatim): \"绿联私有云\" \"618\" \"周年庆\"\nConstraints: must work as square social media post and vertical e-commerce banner; text must remain legible at thumbnail size\nAvoid: generic stock photo aesthetic; cluttered compositions; low contrast text; watermark overlays; excessive decorative elements that distract from CTA",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/57004bd8-bfda-4b7e-86ac-ed9087e14d66/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing marketing poster for UGREEN NAS brand 618 anniversary celebration e-commerce announcement.\\n\\nStyle/medium: commercial e-commerce poster, bold graphic design with tech-forward aesthetic, clean modern typography\\nComposition: centered layout with strong visual hierarchy, headline prominent at top, product/brand element as focal point, CTA area at bottom\\nSubject: UGREEN NAS private cloud product imagery or abstract cloud/storage iconography, celebrating 618 anniversary milestone\\nScene/backdrop: minimal studio backdrop or gradient background, uncluttered to emphasize product and promotional message\\nLighting/mood: bright even studio lighting, energetic and celebratory atmosphere suitable for sales event\\nColor palette: UGREEN brand green as anchor, vibrant accent colors for 618 celebration theme, high contrast for readability\\nText (verbatim): \\\"绿联私有云\\\" \\\"618\\\" \\\"周年庆\\\"\\nConstraints: must work as square social media post and vertical e-commerce banner; text must remain legible at thumbnail size\\nAvoid: generic stock photo aesthetic; cluttered compositions; low contrast text; watermark overlays; excessive decorative elements that distract from CTA\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12037
+}

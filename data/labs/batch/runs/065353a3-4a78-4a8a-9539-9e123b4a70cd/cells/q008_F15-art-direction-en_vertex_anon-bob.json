@@ -1,0 +1,21 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign with a complex but structured visual composition.\n\nStyle/medium: needs a bold, editorial 跨境电商 promotional aesthetic with artistic lettering and typographic layering — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include typographic stacking (字体堆叠) with a product or hero subject physically overlapping and partially obscuring the background type layers\nSubject: must include a product or hero subject as the focal element that occludes portions of the lettered background\nScene/backdrop: \nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs a vibrant, attention-grabbing direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): must include artistic display lettering (艺术字) integrated into the composition as stacked typographic layers\nConstraints: must preserve visual complexity without clutter — hierarchy must remain legible despite layering; product/subject must visibly overlap at least one text layer\nAvoid: flat or sparse layouts; chaotic illegible compositions",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5d7befad-abd6-4141-a23c-003007f9c583/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign with a complex but structured visual composition.\\n\\nStyle/medium: needs a bold, editorial 跨境电商 promotional aesthetic with artistic lettering and typographic layering — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include typographic stacking (字体堆叠) with a product or hero subject physically overlapping and partially obscuring the background type layers\\nSubject: must include a product or hero subject as the focal element that occludes portions of the lettered background\\nScene/backdrop: \\nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs a vibrant, attention-grabbing direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include artistic display lettering (艺术字) integrated into the composition as stacked typographic layers\\nConstraints: must preserve visual complexity without clutter — hierarchy must remain legible despite layering; product/subject must visibly overlap at least one text layer\\nAvoid: flat or sparse layouts; chaotic illegible compositions\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15101
+}

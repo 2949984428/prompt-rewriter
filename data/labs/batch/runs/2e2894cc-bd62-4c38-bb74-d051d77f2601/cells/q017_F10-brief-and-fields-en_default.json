@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing travel brochure design for a 4-day 3-night Hangzhou itinerary, featuring a real map of Hangzhou as the main visual thread.\n\nStyle/medium: editorial travel brochure mockup, three-panel tri-fold layout, realistic paper craft aesthetic with die-cut elements\nComposition: top-down flat lay view of three folded brochure panels, each panel floating above textured kraft card stock base with soft shadow separation\nSubject: authentic Hangzhou city map as background layer with famous landmarks (West Lake, Lingyin Temple, Longjing Village, Grand Canal, Xixi Wetland) rendered as 3D embossed icons and illustrated landmarks rising above the paper surface\nScene/backdrop: clean studio tabletop setting, subtle depth of field, professional product photography lighting\nLighting/mood: soft diffused overhead light with gentle shadows, warm and inviting travel inspiration mood\nColor palette: muted kraft paper browns as base, fresh jade green and lake blue accents for water elements, terracotta for temple markers, cream for text areas\nMaterials/textures: matte uncoated paper stock, subtle linen texture on card base, semi-gloss map print layer, embossed metallic foil highlights on landmark icons\nText (verbatim): \"第一天：西湖经典游，打卡教科书里的江南 ‌路线：断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺\" / \"第二天：禅意杭州，穿越千年宋韵 ‌路线：灵隐寺→飞来峰造像→法喜寺→宋城\" / \"第三天：九溪烟树徒步，做一日茶山散人 ‌路线：九溪十八涧→龙井村→十里琅珰→云栖竹径\" / \"第四天：文艺收官，解锁杭州AB面\"\nConstraints: must clearly show three distinct folded panels; landmarks must be recognizable silhouettes; map must be geographically accurate Hangzhou layout; floating effect achieved through realistic shadow casting\nAvoid: generic stock travel imagery; blurry map details; plastic-looking 3D elements; cluttered text layout; Behance generic brochure style",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7d2f52be-eed2-43c7-a285-a0b7bdef06e7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing travel brochure design for a 4-day 3-night Hangzhou itinerary, featuring a real map of Hangzhou as the main visual thread.\\n\\nStyle/medium: editorial travel brochure mockup, three-panel tri-fold layout, realistic paper craft aesthetic with die-cut elements\\nComposition: top-down flat lay view of three folded brochure panels, each panel floating above textured kraft card stock base with soft shadow separation\\nSubject: authentic Hangzhou city map as background layer with famous landmarks (West Lake, Lingyin Temple, Longjing Village, Grand Canal, Xixi Wetland) rendered as 3D embossed icons and illustrated landmarks rising above the paper surface\\nScene/backdrop: clean studio tabletop setting, subtle depth of field, professional product photography lighting\\nLighting/mood: soft diffused overhead light with gentle shadows, warm and inviting travel inspiration mood\\nColor palette: muted kraft paper browns as base, fresh jade green and lake blue accents for water elements, terracotta for temple markers, cream for text areas\\nMaterials/textures: matte uncoated paper stock, subtle linen texture on card base, semi-gloss map print layer, embossed metallic foil highlights on landmark icons\\nText (verbatim): \\\"第一天：西湖经典游，打卡教科书里的江南 ‌路线：断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺\\\" / \\\"第二天：禅意杭州，穿越千年宋韵 ‌路线：灵隐寺→飞来峰造像→法喜寺→宋城\\\" / \\\"第三天：九溪烟树徒步，做一日茶山散人 ‌路线：九溪十八涧→龙井村→十里琅珰→云栖竹径\\\" / \\\"第四天：文艺收官，解锁杭州AB面\\\"\\nConstraints: must clearly show three distinct folded panels; landmarks must be recognizable silhouettes; map must be geographically accurate Hangzhou layout; floating effect achieved through realistic shadow casting\\nAvoid: generic stock travel imagery; blurry map details; plastic-looking 3D elements; cluttered text layout; Behance generic brochure style\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 18057
+}

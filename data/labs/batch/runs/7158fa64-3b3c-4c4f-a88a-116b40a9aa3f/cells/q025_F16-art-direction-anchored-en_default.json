@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 小红书 cover image for a user-generated-content creator account.\n\nStyle/medium: needs a \"素人风格\" (authentic user-generated content) aesthetic — references in the spirit of 2010s-2020s Chinese social media KOL content, 小红书 lifestyle creator grid layouts, casual smartphone photography culture; exact stylistic execution is yours\nComposition: must be 9-grid (九宫格) layout format\nSubject: must feature the DJI Pocket 4 product as the central focus\nScene/backdrop: \nLighting/mood: needs an approachable, relatable atmosphere — exact mood is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" as the central title text, with cute and differentiated typography\nConstraints: must be 小红书 cover image format (vertical), 9-grid layout structure preserved\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/240fb946-d717-442c-98ee-ffc88b9e51a4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 小红书 cover image for a user-generated-content creator account.\\n\\nStyle/medium: needs a \\\"素人风格\\\" (authentic user-generated content) aesthetic — references in the spirit of 2010s-2020s Chinese social media KOL content, 小红书 lifestyle creator grid layouts, casual smartphone photography culture; exact stylistic execution is yours\\nComposition: must be 9-grid (九宫格) layout format\\nSubject: must feature the DJI Pocket 4 product as the central focus\\nScene/backdrop: \\nLighting/mood: needs an approachable, relatable atmosphere — exact mood is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" as the central title text, with cute and differentiated typography\\nConstraints: must be 小红书 cover image format (vertical), 9-grid layout structure preserved\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13938
+}

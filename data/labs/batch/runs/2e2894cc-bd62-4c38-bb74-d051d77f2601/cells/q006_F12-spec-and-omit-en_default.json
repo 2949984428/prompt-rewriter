@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing movie poster for \"大话西游\" in 1990s Hong Kong cinema style.\n\nStyle/medium: 1990s Hong Kong cinema style, film grain\nComposition: \nSubject: 至尊宝 and 紫霞 embracing and kissing on a city wall, 牛魔王 and 唐僧 standing in the distance\nScene/backdrop: ancient Chinese city wall\nLighting/mood: \nColor palette: \nMaterials/textures: film grain\nText (verbatim): 大话西游\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/43575bf9-a1c0-4a27-a14e-7415d5ce2d3c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an original, non-infringing movie poster for \\\"大话西游\\\" in 1990s Hong Kong cinema style.\\n\\nStyle/medium: 1990s Hong Kong cinema style, film grain\\nComposition: \\nSubject: 至尊宝 and 紫霞 embracing and kissing on a city wall, 牛魔王 and 唐僧 standing in the distance\\nScene/backdrop: ancient Chinese city wall\\nLighting/mood: \\nColor palette: \\nMaterials/textures: film grain\\nText (verbatim): 大话西游\\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6550
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster reimagining the visual world of 大话西游 in 1990s Hong Kong cinema style.\n\nStyle/medium: needs a \"90年代港片风格\" aesthetic — references in the spirit of 1990s Hong Kong cinema cinematography (王家卫 / 刘镇伟 era), 王家卫 film poster print tradition, 1990s HK commercial film photography with heavy film grain; exact stylistic execution is yours\nComposition: must include a close romantic embrace as the foreground focal point, with two distant figures standing in the background\nSubject: must include 至尊宝 and 紫霞 locked in an embrace kiss against a city wall (foreground), 牛魔王 and 唐僧 standing apart in the far background\nScene/backdrop: must include a weathered city wall as the embrace backdrop, open distance behind\nLighting/mood: needs a warm, hazy, melancholic dusk atmosphere — exact light quality is yours\nColor palette: needs a faded, saturated warm-tone palette evoking 1990s HK film stock — exact tones are yours\nMaterials/textures: must include heavy film grain and film-stock texture throughout\nText (verbatim): \nConstraints: \nAvoid: direct reproduction of any copyrighted film stills or character likenesses from the original production",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/49f25ebd-4dad-4760-9770-c0a6c84355cc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster reimagining the visual world of 大话西游 in 1990s Hong Kong cinema style.\\n\\nStyle/medium: needs a \\\"90年代港片风格\\\" aesthetic — references in the spirit of 1990s Hong Kong cinema cinematography (王家卫 / 刘镇伟 era), 王家卫 film poster print tradition, 1990s HK commercial film photography with heavy film grain; exact stylistic execution is yours\\nComposition: must include a close romantic embrace as the foreground focal point, with two distant figures standing in the background\\nSubject: must include 至尊宝 and 紫霞 locked in an embrace kiss against a city wall (foreground), 牛魔王 and 唐僧 standing apart in the far background\\nScene/backdrop: must include a weathered city wall as the embrace backdrop, open distance behind\\nLighting/mood: needs a warm, hazy, melancholic dusk atmosphere — exact light quality is yours\\nColor palette: needs a faded, saturated warm-tone palette evoking 1990s HK film stock — exact tones are yours\\nMaterials/textures: must include heavy film grain and film-stock texture throughout\\nText (verbatim): \\nConstraints: \\nAvoid: direct reproduction of any copyrighted film stills or character likenesses from the original production\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11021
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a domestic Chinese fundraising roadshow presentation cover, featuring GPT-5.5 launch announcement with speaker Sam Altman.\n\nStyle/medium: clean corporate PPT cover design, Chinese tech startup aesthetic, professional investor deck style\nSubject: bold headline \"GPT 5.5 发布\" as central focal point, speaker name \"奥特曼\" positioned below as keynote presenter, modern tech brand feel\nComposition: centered layout with generous top margin for projector safe zone, headline dominates upper half, speaker credit in lower third\nScene/backdrop: abstract gradient or subtle geometric pattern suggesting AI/neural networks, minimal to avoid distraction\nColor palette: professional blue or tech-forward gradient (deep blue to electric blue) with white text, or red/gold accent for Chinese market gravitas\nText (verbatim): \"GPT 5.5 发布\", \"奥特曼\"\nConstraints: must work as 16:9 presentation slide cover; text must remain legible when projected; design must appeal to Chinese GP/VC investors\nAvoid: cluttered layout; cartoonish AI imagery; Western stock photos; excessive decoration; generic startup clichés (rocket ships, lightbulbs)",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8e08cf90-3356-4eee-8ef3-728b540cf4df/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for a domestic Chinese fundraising roadshow presentation cover, featuring GPT-5.5 launch announcement with speaker Sam Altman.\\n\\nStyle/medium: clean corporate PPT cover design, Chinese tech startup aesthetic, professional investor deck style\\nSubject: bold headline \\\"GPT 5.5 发布\\\" as central focal point, speaker name \\\"奥特曼\\\" positioned below as keynote presenter, modern tech brand feel\\nComposition: centered layout with generous top margin for projector safe zone, headline dominates upper half, speaker credit in lower third\\nScene/backdrop: abstract gradient or subtle geometric pattern suggesting AI/neural networks, minimal to avoid distraction\\nColor palette: professional blue or tech-forward gradient (deep blue to electric blue) with white text, or red/gold accent for Chinese market gravitas\\nText (verbatim): \\\"GPT 5.5 发布\\\", \\\"奥特曼\\\"\\nConstraints: must work as 16:9 presentation slide cover; text must remain legible when projected; design must appeal to Chinese GP/VC investors\\nAvoid: cluttered layout; cartoonish AI imagery; Western stock photos; excessive decoration; generic startup clichés (rocket ships, lightbulbs)\"}",
+  "ms": 6500
+}

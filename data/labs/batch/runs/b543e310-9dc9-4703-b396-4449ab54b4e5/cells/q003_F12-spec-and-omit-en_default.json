@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing avatar/logo for a social media content creator focused on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: \nComposition: \nSubject: social media avatar for new energy vehicles, digital products, and lifestyle content creator\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: culturally neutral design suitable for both Chinese and international social platforms, avoiding symbols that may offend specific groups\nAvoid: culturally sensitive symbols, religious imagery, political references, region-specific controversial elements",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dc4b48dd-5170-42d8-a9ae-aefb4dbf97b8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing avatar/logo for a social media content creator focused on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: \\nComposition: \\nSubject: social media avatar for new energy vehicles, digital products, and lifestyle content creator\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: culturally neutral design suitable for both Chinese and international social platforms, avoiding symbols that may offend specific groups\\nAvoid: culturally sensitive symbols, religious imagery, political references, region-specific controversial elements\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 6897
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: documentary street photography, editorial photo\nPrimary request: documentary-style scene of devotees performing morning ritual bath in the Ganges River at Varanasi\nScene/backdrop: Varanasi ghats at dawn, ancient stone steps leading to the river, traditional wooden boats floating on misty water\nSubject: devotees in traditional Indian attire performing morning ablutions, silhouettes and figures emerging from morning mist\nStyle/medium: documentary photography, photojournalistic style, film grain texture\nComposition/framing: wide establishing shot, environmental portrait, layered depth with foreground devotees and background boats\nLighting/mood: warm golden hour sunlight piercing through morning fog, soft diffused light, serene and spiritual atmosphere\nColor palette: warm amber and gold tones, soft blues and grays from the mist, earthy browns of the ghats\nMaterials/textures: weathered stone steps, rippling water surface, traditional cotton fabrics, wooden boat hulls\nConstraints: preserve the authentic cultural atmosphere of Varanasi, keep the misty river ambiance\nAvoid: oversaturated colors, tourist postcard clichés, plastic-looking water, artificial poses",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ea9d8563-fdc1-43d6-9f8f-e1137c36855b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: documentary street photography, editorial photo\\nPrimary request: documentary-style scene of devotees performing morning ritual bath in the Ganges River at Varanasi\\nScene/backdrop: Varanasi ghats at dawn, ancient stone steps leading to the river, traditional wooden boats floating on misty water\\nSubject: devotees in traditional Indian attire performing morning ablutions, silhouettes and figures emerging from morning mist\\nStyle/medium: documentary photography, photojournalistic style, film grain texture\\nComposition/framing: wide establishing shot, environmental portrait, layered depth with foreground devotees and background boats\\nLighting/mood: warm golden hour sunlight piercing through morning fog, soft diffused light, serene and spiritual atmosphere\\nColor palette: warm amber and gold tones, soft blues and grays from the mist, earthy browns of the ghats\\nMaterials/textures: weathered stone steps, rippling water surface, traditional cotton fabrics, wooden boat hulls\\nConstraints: preserve the authentic cultural atmosphere of Varanasi, keep the misty river ambiance\\nAvoid: oversaturated colors, tourist postcard clichés, plastic-looking water, artificial poses\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10597
+}

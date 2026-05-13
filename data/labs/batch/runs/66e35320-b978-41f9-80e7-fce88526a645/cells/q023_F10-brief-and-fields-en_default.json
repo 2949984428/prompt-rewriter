@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational infographic card for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era.\n\nStyle/medium: flat vector educational illustration, single large knowledge card layout, cartoon storybook style with friendly rounded shapes, age-appropriate for children\nSubject: Battle of Red Cliffs (赤壁之战) historical event with simplified narrative elements — fire ships, river battle, key figures depicted as stylized cartoon characters\nComposition: single large rectangular knowledge card, title area at top, main illustration occupying center-right, bullet-point summary list on left side with clear punctuation\nScene/backdrop: simplified Yangtze River setting with stylized boats, flames, and sky, clean background without clutter\nColor palette: warm oranges and reds for fire elements, cool blues for water, neutral background for readability, high contrast for text legibility\nText (verbatim): \"赤壁之战\"\nConstraints: title must be prominent and readable; key points must be listed beside illustration with proper punctuation; visual storytelling must be clear for children; single card format only\nAvoid: realistic violence or gore; complex military details unsuitable for children; cluttered layout; multiple cards or pages; tiny illegible text",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b6fcab23-b3e4-49eb-9e16-fa1d02d95309/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an educational infographic card for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era.\\n\\nStyle/medium: flat vector educational illustration, single large knowledge card layout, cartoon storybook style with friendly rounded shapes, age-appropriate for children\\nSubject: Battle of Red Cliffs (赤壁之战) historical event with simplified narrative elements — fire ships, river battle, key figures depicted as stylized cartoon characters\\nComposition: single large rectangular knowledge card, title area at top, main illustration occupying center-right, bullet-point summary list on left side with clear punctuation\\nScene/backdrop: simplified Yangtze River setting with stylized boats, flames, and sky, clean background without clutter\\nColor palette: warm oranges and reds for fire elements, cool blues for water, neutral background for readability, high contrast for text legibility\\nText (verbatim): \\\"赤壁之战\\\"\\nConstraints: title must be prominent and readable; key points must be listed beside illustration with proper punctuation; visual storytelling must be clear for children; single card format only\\nAvoid: realistic violence or gore; complex military details unsuitable for children; cluttered layout; multiple cards or pages; tiny illegible text\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9807
+}

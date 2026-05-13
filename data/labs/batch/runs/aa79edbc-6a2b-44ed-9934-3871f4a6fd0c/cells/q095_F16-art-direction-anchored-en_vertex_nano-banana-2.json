@@ -1,0 +1,23 @@
+{
+  "query_idx": 95,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计 Logo —— 品牌\"江南世家\"重新设计竖版 Logo。\n\n风格/媒介：Logo 设计，参考原图的书法波浪风格\n构图：竖版构图\n主体：品牌名\"江南世家\"\n场景/背景：\n光线/氛围：\n色彩方案：\n材质/纹理：\n文字（原样）：江南世家\n约束：参考上传的原版 Logo 图片，保留竖版排版结构\n避免：",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8572584b-5aac-49e8-aa3c-9a4870d16d81/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计 Logo —— 品牌\\\"江南世家\\\"重新设计竖版 Logo。\\n\\n风格/媒介：Logo 设计，参考原图的书法波浪风格\\n构图：竖版构图\\n主体：品牌名\\\"江南世家\\\"\\n场景/背景：\\n光线/氛围：\\n色彩方案：\\n材质/纹理：\\n文字（原样）：江南世家\\n约束：参考上传的原版 Logo 图片，保留竖版排版结构\\n避免：\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4785,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 287,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张商用宣传图 —— 以 #1 图中的产品为主体，采用 #2 图的视觉风格，neo brutalism 风格，适配微信朋友圈发布比例。\n\n风格/媒介:\n  neo brutalism 风格\n  参考 #2 图的整体视觉风格\n构图:\n  适配微信朋友圈正方形或竖版比例\n  产品作为视觉主体\n主体:\n  #1 图中的产品\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  商用宣传图用途\n  风格须贴合 neo brutalism 特征（粗边框、高对比、平面感、强排版）\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A380536f8-bd20-4cef-81e7-0aa36fb4e35a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张商用宣传图 —— 以 #1 图中的产品为主体，采用 #2 图的视觉风格，neo brutalism 风格，适配微信朋友圈发布比例。\\n\\n风格/媒介:\\n  neo brutalism 风格\\n  参考 #2 图的整体视觉风格\\n构图:\\n  适配微信朋友圈正方形或竖版比例\\n  产品作为视觉主体\\n主体:\\n  #1 图中的产品\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  商用宣传图用途\\n  风格须贴合 neo brutalism 特征（粗边框、高对比、平面感、强排版）\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 13388,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

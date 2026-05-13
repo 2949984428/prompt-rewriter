@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID card for ByteDance (字节跳动), front and back views, photorealistic product shot.\n\nStyle/medium: photorealistic product photography, corporate ID card mockup with real-world depth and shadow\nComposition: flat-lay top-down view showing both front and back sides of the ID card side by side, slight rotation for natural presentation, soft shadow beneath\nSubject: standard PVC employee badge with rounded corners, visible card thickness edge, realistic lanyard hole, subtle surface reflections\nScene/backdrop: clean neutral surface (light gray desk or white paper), minimal distraction, shallow depth keeping cards sharp\nLighting/mood: soft diffused studio light from upper left, gentle gradient across card surface, professional corporate atmosphere\nColor palette: white card base with ByteDance blue (#3C8CFF) as primary accent, black text, subtle gray tones for secondary elements\nMaterials/textures: matte laminated PVC surface with slight gloss at light angles, realistic ink printing texture, subtle embossed effect on logo area\nText (verbatim): \"字节跳动\"\nConstraints: both front and back must be visible in one frame; front shows photo placeholder, name, department, employee number; back shows company logo and barcode/QR area\nAvoid: flat vector illustration style, cartoon rendering, watermark, over-saturated colors, plastic toy appearance, missing back side",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/edc9d306-090e-4dfa-9782-2f35fb84efbb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing employee ID card for ByteDance (字节跳动), front and back views, photorealistic product shot.\\n\\nStyle/medium: photorealistic product photography, corporate ID card mockup with real-world depth and shadow\\nComposition: flat-lay top-down view showing both front and back sides of the ID card side by side, slight rotation for natural presentation, soft shadow beneath\\nSubject: standard PVC employee badge with rounded corners, visible card thickness edge, realistic lanyard hole, subtle surface reflections\\nScene/backdrop: clean neutral surface (light gray desk or white paper), minimal distraction, shallow depth keeping cards sharp\\nLighting/mood: soft diffused studio light from upper left, gentle gradient across card surface, professional corporate atmosphere\\nColor palette: white card base with ByteDance blue (#3C8CFF) as primary accent, black text, subtle gray tones for secondary elements\\nMaterials/textures: matte laminated PVC surface with slight gloss at light angles, realistic ink printing texture, subtle embossed effect on logo area\\nText (verbatim): \\\"字节跳动\\\"\\nConstraints: both front and back must be visible in one frame; front shows photo placeholder, name, department, employee number; back shows company logo and barcode/QR area\\nAvoid: flat vector illustration style, cartoon rendering, watermark, over-saturated colors, plastic toy appearance, missing back side\"}",
+  "ms": 11591
+}

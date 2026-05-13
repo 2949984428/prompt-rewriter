@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a scene illustration of a vintage American road-trip moment (any in-image text in English, if rendered).\n\nStyle/medium: needs a vintage American road-trip aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a red convertible car (one)\nScene/backdrop: must include Route 66, desert landscape with cacti on both sides, sunset sky dyed orange-red\nLighting/mood: needs a free-spirited atmosphere — exact light source mix is yours\nColor palette: must be orange-red dominant from sunset\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to English\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b1cc84e4-b8ea-407f-9d46-171be6476ea9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a scene illustration of a vintage American road-trip moment (any in-image text in English, if rendered).\\n\\nStyle/medium: needs a vintage American road-trip aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a red convertible car (one)\\nScene/backdrop: must include Route 66, desert landscape with cacti on both sides, sunset sky dyed orange-red\\nLighting/mood: needs a free-spirited atmosphere — exact light source mix is yours\\nColor palette: must be orange-red dominant from sunset\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to English\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8178
+}

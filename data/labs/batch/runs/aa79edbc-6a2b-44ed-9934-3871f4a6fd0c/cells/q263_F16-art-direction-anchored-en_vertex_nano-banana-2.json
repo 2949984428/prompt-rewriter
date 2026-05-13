@@ -1,0 +1,23 @@
+{
+  "query_idx": 263,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "編輯這張海報，使整體視覺效果更精緻細膩。\n\n風格/媒介:\n構圖:\n主體:海報\n場景/背景:\n光線/氛圍:\n色彩方案:\n材質/紋理:\n文字(原樣):\n約束:\n  參考原圖 #1 的內容與版式\n  保留原有設計元素與佈局\n  適合微博發布尺寸（9:16 豎版）\n避免:粗糙、生硬的視覺效果",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aea903b7c-8249-4932-b678-067c099fbf5a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"編輯這張海報，使整體視覺效果更精緻細膩。\\n\\n風格/媒介:\\n構圖:\\n主體:海報\\n場景/背景:\\n光線/氛圍:\\n色彩方案:\\n材質/紋理:\\n文字(原樣):\\n約束:\\n  參考原圖 #1 的內容與版式\\n  保留原有設計元素與佈局\\n  適合微博發布尺寸（9:16 豎版）\\n避免:粗糙、生硬的視覺效果\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 5736,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

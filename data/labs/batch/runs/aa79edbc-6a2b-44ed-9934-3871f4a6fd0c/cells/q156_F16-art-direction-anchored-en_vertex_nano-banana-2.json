@@ -1,0 +1,23 @@
+{
+  "query_idx": 156,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成耳机壳的宣传 TikTok Shop 详情页图。\n\n风格/媒介：电商详情页图，产品宣传图\n构图：竖版长图，产品为主体，突出展示耳机壳细节与整体造型\n主体：图片中的耳机壳产品\n场景/背景：简洁干净的背景，衬托产品\n光线/氛围：明亮清晰，适合电商展示\n色彩方案：\n材质/纹理：\n文字(原样)：TikTok Shop\n约束：比例 9:21 竖版长图，保留原耳机壳的外观、颜色与细节\n避免：杂乱背景，遮挡产品主体",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acf8511cd-d1f8-4dfb-83cd-ea01f3794282/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成耳机壳的宣传 TikTok Shop 详情页图。\\n\\n风格/媒介：电商详情页图，产品宣传图\\n构图：竖版长图，产品为主体，突出展示耳机壳细节与整体造型\\n主体：图片中的耳机壳产品\\n场景/背景：简洁干净的背景，衬托产品\\n光线/氛围：明亮清晰，适合电商展示\\n色彩方案：\\n材质/纹理：\\n文字(原样)：TikTok Shop\\n约束：比例 9:21 竖版长图，保留原耳机壳的外观、颜色与细节\\n避免：杂乱背景，遮挡产品主体\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6141,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

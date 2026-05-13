@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an e-commerce promotional poster for cross-border shopping campaign, designed for social media sharing, in the layered typographic spirit of contemporary commercial collage.\n\nStyle/medium: commercial poster design with the dimensional typography and intentional clutter-control of modern collage art, where letterforms become architectural elements\nComposition: 16:9 horizontal format, layered text blocks stacked at varying depths, product or hero subject positioned to partially obscure mid-ground typography, foreground and background elements creating three distinct planes\nSubject: hero product or promotional figure positioned to break the text layers, creating visual tension between commerce and art\nScene/backdrop: promotional environment with stacked typographic elements forming the structural backbone of the image\nLighting/mood: the controlled chaos of a well-curated sale, energetic but not frantic, with each layer holding its own breathing room\nColor palette: saturated promotional tones balanced by neutral anchors, the warmth of urgency tempered by cool restraint\nMaterials/textures: dimensional letterforms with subtle shadow and weight, the tactile quality of cut-paper collage translated to digital precision\nText (verbatim): \nConstraints: 16:9 aspect ratio, complex but not cluttered, at least one product or subject overlapping typography, multiple font layers with clear hierarchy\nAvoid: true chaos without hierarchy, flat single-plane composition, decorative elements without commercial purpose, generic stock aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/975bee80-df7f-4728-8327-6b3e15742752/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an e-commerce promotional poster for cross-border shopping campaign, designed for social media sharing, in the layered typographic spirit of contemporary commercial collage.\\n\\nStyle/medium: commercial poster design with the dimensional typography and intentional clutter-control of modern collage art, where letterforms become architectural elements\\nComposition: 16:9 horizontal format, layered text blocks stacked at varying depths, product or hero subject positioned to partially obscure mid-ground typography, foreground and background elements creating three distinct planes\\nSubject: hero product or promotional figure positioned to break the text layers, creating visual tension between commerce and art\\nScene/backdrop: promotional environment with stacked typographic elements forming the structural backbone of the image\\nLighting/mood: the controlled chaos of a well-curated sale, energetic but not frantic, with each layer holding its own breathing room\\nColor palette: saturated promotional tones balanced by neutral anchors, the warmth of urgency tempered by cool restraint\\nMaterials/textures: dimensional letterforms with subtle shadow and weight, the tactile quality of cut-paper collage translated to digital precision\\nText (verbatim): \\nConstraints: 16:9 aspect ratio, complex but not cluttered, at least one product or subject overlapping typography, multiple font layers with clear hierarchy\\nAvoid: true chaos without hierarchy, flat single-plane composition, decorative elements without commercial purpose, generic stock aesthetic\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12914
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial portrait photo, cinematic still\nPrimary request: retro film-style street portrait of a young woman leaning against a neon sign on a Hong Kong street at night, 1990s era\nScene/backdrop: 1990s Hong Kong street at night, hazy neon-lit alley, blurred storefronts with Chinese signage in background\nSubject: young woman in a denim jacket, leaning casually against a glowing neon sign, relaxed and nostalgic expression\nStyle/medium: 35mm analog film photography, vintage grain, retro cinematic\nComposition/framing: medium shot, slight low-angle, shallow depth of field, subject centered against neon glow\nLighting/mood: warm neon ambient light, soft haze and lens bloom, moody and melancholic, nostalgic atmosphere\nColor palette: warm amber and orange tones, faded reds and yellows from neon signs, muted shadows with slight green cast\nMaterials/textures: heavy film grain, faded color saturation, slight vignette, halation around light sources, worn denim texture\nConstraints: no modern elements, no smartphones, keep 1990s Hong Kong aesthetic throughout\nAvoid: clean digital sharpness, cold blue tones, over-exposed highlights, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/9e873e2b-7e9c-46ab-9943-5c0a114568a8/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial portrait photo, cinematic still\\nPrimary request: retro film-style street portrait of a young woman leaning against a neon sign on a Hong Kong street at night, 1990s era\\nScene/backdrop: 1990s Hong Kong street at night, hazy neon-lit alley, blurred storefronts with Chinese signage in background\\nSubject: young woman in a denim jacket, leaning casually against a glowing neon sign, relaxed and nostalgic expression\\nStyle/medium: 35mm analog film photography, vintage grain, retro cinematic\\nComposition/framing: medium shot, slight low-angle, shallow depth of field, subject centered against neon glow\\nLighting/mood: warm neon ambient light, soft haze and lens bloom, moody and melancholic, nostalgic atmosphere\\nColor palette: warm amber and orange tones, faded reds and yellows from neon signs, muted shadows with slight green cast\\nMaterials/textures: heavy film grain, faded color saturation, slight vignette, halation around light sources, worn denim texture\\nConstraints: no modern elements, no smartphones, keep 1990s Hong Kong aesthetic throughout\\nAvoid: clean digital sharpness, cold blue tones, over-exposed highlights, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 9021
+}

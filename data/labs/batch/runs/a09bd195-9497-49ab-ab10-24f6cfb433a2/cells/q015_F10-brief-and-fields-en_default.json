@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial illustration of a steampunk mechanical apparatus.\n\nStyle/medium: steampunk illustration, intricate mechanical engineering art, Victorian industrial aesthetic\nComposition: detailed cross-section view showing internal mechanisms, balanced arrangement of components\nSubject: complex mechanical apparatus with interlocking gears, brass pipes, pressure gauges, and dials\nScene/backdrop: neutral background to emphasize the machinery, subtle workshop atmosphere\nLighting/mood: warm ambient light highlighting metallic surfaces, nostalgic and precise atmosphere\nColor palette: warm brass and copper tones as base, aged bronze accents, dark iron contrast\nMaterials/textures: polished brass with patina, copper tubing with rivets, engraved Victorian decorative motifs, visible gear teeth and mechanical joints\nAvoid: modern plastic materials, clean minimalist surfaces, electric blue LEDs, generic sci-fi aesthetics",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a042dded-85b1-4008-9e68-6e10aa0cec5d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing editorial illustration of a steampunk mechanical apparatus.\\n\\nStyle/medium: steampunk illustration, intricate mechanical engineering art, Victorian industrial aesthetic\\nComposition: detailed cross-section view showing internal mechanisms, balanced arrangement of components\\nSubject: complex mechanical apparatus with interlocking gears, brass pipes, pressure gauges, and dials\\nScene/backdrop: neutral background to emphasize the machinery, subtle workshop atmosphere\\nLighting/mood: warm ambient light highlighting metallic surfaces, nostalgic and precise atmosphere\\nColor palette: warm brass and copper tones as base, aged bronze accents, dark iron contrast\\nMaterials/textures: polished brass with patina, copper tubing with rivets, engraved Victorian decorative motifs, visible gear teeth and mechanical joints\\nAvoid: modern plastic materials, clean minimalist surfaces, electric blue LEDs, generic sci-fi aesthetics\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7991
+}

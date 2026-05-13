@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID badge for a company named \"字节期动\", showing both front and back sides.\n\nStyle/medium: needs a realistic ID badge aesthetic — exact stylistic execution is yours\nComposition: must show both front and back sides of the badge\nSubject: must include the company name \"字节期动\"\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include \"字节期动\"\nConstraints: must be realistic in appearance, both sides visible\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/70a76cb1-9317-4972-902b-6c92db40f8ad/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing employee ID badge for a company named \\\"字节期动\\\", showing both front and back sides.\\n\\nStyle/medium: needs a realistic ID badge aesthetic — exact stylistic execution is yours\\nComposition: must show both front and back sides of the badge\\nSubject: must include the company name \\\"字节期动\\\"\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"字节期动\\\"\\nConstraints: must be realistic in appearance, both sides visible\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7942
+}

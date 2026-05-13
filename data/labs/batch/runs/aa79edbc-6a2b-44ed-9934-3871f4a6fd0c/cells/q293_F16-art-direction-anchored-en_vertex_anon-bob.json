@@ -1,0 +1,23 @@
+{
+  "query_idx": 293,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图，将图像比例调整为小红书封面 3:4。\n\n风格/媒介:\n构图:3:4 竖版构图（小红书封面比例）\n主体:笑脸图案改色\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:仅调整比例，其余内容保持不变\n避免:",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9abac6aa-6505-490e-9dfc-c50afba7af2c/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图，将图像比例调整为小红书封面 3:4。\\n\\n风格/媒介:\\n构图:3:4 竖版构图（小红书封面比例）\\n主体:笑脸图案改色\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:仅调整比例，其余内容保持不变\\n避免:\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6989,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

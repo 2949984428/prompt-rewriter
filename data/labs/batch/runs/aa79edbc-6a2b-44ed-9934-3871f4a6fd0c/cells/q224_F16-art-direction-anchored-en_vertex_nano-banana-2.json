@@ -1,0 +1,23 @@
+{
+  "query_idx": 224,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张静态 Facebook 原生广告图。\n\n风格/媒介:\n  平面广告，手写风格文字，紧迫感扁平风格\n构图:\n  顶部大标题粗体斜体\n  副标题稍小位于主标题下方\n  中央并排两块产品皂条照片\n  右下角圆角徽章\n  底部通栏 CTA 横条\n  白色背景\n主体:\n  两块 DermaVe 绿色皂条产品照，并排居中\n场景/背景:\n  纯白背景\n光线/氛围:\n  扁平紧迫感风格\n色彩方案:\n  主色绿色 #6aaa64，强调色橙色 #f0a500，白色背景\n材质/纹理:\n文字(原样):\n  顶部大标题（粗体斜体手写感）：\"Tu te grattes en cachette depuis des années ?\"\n  副标题（较小）：\"Les crèmes soulagent 3 jours. Puis ça recommence.\"\n  划线价格（红色删除线）：\"59,80€\"\n  主价格（深色粗体）：\"17€ / savon\"\n  右下角徽章（橙色圆角药丸形）：\"Économisé 35€ !!!\"\n  底部绿色 CTA 横条：\"1 ACHETÉ = 1 OFFERT\"\n约束:\n  文字均以手写风格呈现\n  价格区域同时显示划线旧价与突出新价\n  徽章为橙色圆角胶囊形状，位于右下角\n  底部 CTA 横条为绿色 #6aaa64 通栏\n避免:\n  摄影写实背景\n  多余装饰元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A986e5577-aa8c-4427-9117-56fa0dc65b34/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张静态 Facebook 原生广告图。\\n\\n风格/媒介:\\n  平面广告，手写风格文字，紧迫感扁平风格\\n构图:\\n  顶部大标题粗体斜体\\n  副标题稍小位于主标题下方\\n  中央并排两块产品皂条照片\\n  右下角圆角徽章\\n  底部通栏 CTA 横条\\n  白色背景\\n主体:\\n  两块 DermaVe 绿色皂条产品照，并排居中\\n场景/背景:\\n  纯白背景\\n光线/氛围:\\n  扁平紧迫感风格\\n色彩方案:\\n  主色绿色 #6aaa64，强调色橙色 #f0a500，白色背景\\n材质/纹理:\\n文字(原样):\\n  顶部大标题（粗体斜体手写感）：\\\"Tu te grattes en cachette depuis des années ?\\\"\\n  副标题（较小）：\\\"Les crèmes soulagent 3 jours. Puis ça recommence.\\\"\\n  划线价格（红色删除线）：\\\"59,80€\\\"\\n  主价格（深色粗体）：\\\"17€ / savon\\\"\\n  右下角徽章（橙色圆角药丸形）：\\\"Économisé 35€ !!!\\\"\\n  底部绿色 CTA 横条：\\\"1 ACHETÉ = 1 OFFERT\\\"\\n约束:\\n  文字均以手写风格呈现\\n  价格区域同时显示划线旧价与突出新价\\n  徽章为橙色圆角胶囊形状，位于右下角\\n  底部 CTA 横条为绿色 #6aaa64 通栏\\n避免:\\n  摄影写实背景\\n  多余装饰元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 11690,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

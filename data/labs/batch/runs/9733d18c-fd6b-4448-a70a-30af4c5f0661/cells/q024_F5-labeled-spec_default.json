@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: scientific visualization, educational poster\nPrimary request: spectacular cosmic view of the Milky Way's central region with supermassive black hole at center, surrounded by hot accretion disk emitting intense orange-red and white radiation, gravitational lensing creating Einstein ring, billions of stars from blue-white young hot stars to orange-red aging giants, spectacular gas pillars at edges showing red/orange/purple emission nebula colors, two colliding galaxies with tidal tails in distance\nScene/backdrop: deep space black background with countless star points and colorful nebulae, galactic center environment\nSubject: supermassive black hole with bright accretion disk, Einstein ring from gravitational lensing, star field with diverse stellar populations, emission nebula gas pillars, merging galaxy pair\nStyle/medium: Hubble Space Telescope and James Webb Space Telescope photography style, scientific visualization, photorealistic astronomical illustration\nComposition/framing: wide cosmic vista, centered on galactic core, deep field perspective\nLighting/mood: intense radiation from accretion disk, glowing nebulae, dramatic stellar illumination, awe-inspiring and scientifically accurate\nColor palette: deep space black base, orange-red and white accretion disk glow, blue-white to orange-red stellar spectrum, red/orange/purple emission nebulae\nMaterials/textures: glowing plasma, stellar atmospheres, gas clouds, gravitational distortion effects\nConstraints: maintain scientific accuracy, show gravitational lensing effects, include diverse stellar types, preserve emission nebula color characteristics\nAvoid: cartoonish rendering, inaccurate scale relationships, oversaturated colors, fantasy elements, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6cc20d92-8c43-4fd7-af57-800b34d6140a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: scientific visualization, educational poster\\nPrimary request: spectacular cosmic view of the Milky Way's central region with supermassive black hole at center, surrounded by hot accretion disk emitting intense orange-red and white radiation, gravitational lensing creating Einstein ring, billions of stars from blue-white young hot stars to orange-red aging giants, spectacular gas pillars at edges showing red/orange/purple emission nebula colors, two colliding galaxies with tidal tails in distance\\nScene/backdrop: deep space black background with countless star points and colorful nebulae, galactic center environment\\nSubject: supermassive black hole with bright accretion disk, Einstein ring from gravitational lensing, star field with diverse stellar populations, emission nebula gas pillars, merging galaxy pair\\nStyle/medium: Hubble Space Telescope and James Webb Space Telescope photography style, scientific visualization, photorealistic astronomical illustration\\nComposition/framing: wide cosmic vista, centered on galactic core, deep field perspective\\nLighting/mood: intense radiation from accretion disk, glowing nebulae, dramatic stellar illumination, awe-inspiring and scientifically accurate\\nColor palette: deep space black base, orange-red and white accretion disk glow, blue-white to orange-red stellar spectrum, red/orange/purple emission nebulae\\nMaterials/textures: glowing plasma, stellar atmospheres, gas clouds, gravitational distortion effects\\nConstraints: maintain scientific accuracy, show gravitational lensing effects, include diverse stellar types, preserve emission nebula color characteristics\\nAvoid: cartoonish rendering, inaccurate scale relationships, oversaturated colors, fantasy elements, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15421
+}

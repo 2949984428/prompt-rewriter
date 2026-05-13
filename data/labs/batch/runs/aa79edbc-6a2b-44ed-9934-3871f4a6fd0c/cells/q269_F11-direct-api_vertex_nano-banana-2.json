@@ -1,0 +1,23 @@
+{
+  "query_idx": 269,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "creeaza un banner facebook post cu anunt de transmisie live 26 aprilie, ora 12.00, a festivalului masa pascala pe pagina bisericii Sfântul cuvios Arsenie cel Mare din Cornesti[@image:#1:Screenshot 2026-04-25 at 15]  atasez imaginea bisericii ca referinta, sa arate premium cu efect de golden hour si ideea de concert si festival, unde vor fi colective de muzica populara si bucate traditionale din diferite regiuni",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A608347c5-58a0-45dc-a086-f4c951949653/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"creeaza un banner facebook post cu anunt de transmisie live 26 aprilie, ora 12.00, a festivalului masa pascala pe pagina bisericii Sfântul cuvios Arsenie cel Mare din Cornesti[@image:#1:Screenshot 2026-04-25 at 15]  atasez imaginea bisericii ca referinta, sa arate premium cu efect de golden hour si ideea de concert si festival, unde vor fi colective de muzica populara si bucate traditionale din diferite regiuni\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5843,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

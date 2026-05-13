@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Instagram-style photo of trendy coffee and desserts in a Korean café aesthetic, shot as if with a smartphone.\n\nStyle/medium: smartphone photography, casual Instagram aesthetic, Korean café lifestyle shot, clean and bright with slight desaturation\nComposition: overhead flat-lay angle, smartphone camera perspective, shallow depth of field with one main focus\nSubject: iced latte in a glass cup with visible layers, small dessert plate with pastel-colored cake or pastry, ceramic saucer, minimal props\nScene/backdrop: light wooden café table, soft natural window light, blurred minimalist Korean café interior background, no people\nLighting/mood: soft diffused daylight from side window, bright and airy, cozy and inviting\nColor palette: warm beige and cream base, soft pastel accents from dessert, muted greens from plant in background, cool coffee brown\nMaterials/textures: frosted glass condensation, smooth ceramic glaze, soft cake sponge texture, visible wood grain\nConstraints: photo must include hand-drawn annotation overlay in white sketch lines with Japanese handwritten text (70% hiragana, 30% simple kanji); rough uneven stroke style; contour lines tracing object outlines; arrows and dashed lines for visual guidance; short diary-like comments about taste, texture, mood; decorative elements like steam, sparkles, hearts, small emoticons used sparingly with intentional white space; Instagram story / rough magazine notes aesthetic; stylish yet relaxed vibe\nAvoid: cluttered composition, harsh shadows, oversaturated colors, watermark, 8K stuffer aesthetic, photorealistic skin or people",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3c8fd2df-ad42-4fb4-b219-99fe74235251/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing Instagram-style photo of trendy coffee and desserts in a Korean café aesthetic, shot as if with a smartphone.\\n\\nStyle/medium: smartphone photography, casual Instagram aesthetic, Korean café lifestyle shot, clean and bright with slight desaturation\\nComposition: overhead flat-lay angle, smartphone camera perspective, shallow depth of field with one main focus\\nSubject: iced latte in a glass cup with visible layers, small dessert plate with pastel-colored cake or pastry, ceramic saucer, minimal props\\nScene/backdrop: light wooden café table, soft natural window light, blurred minimalist Korean café interior background, no people\\nLighting/mood: soft diffused daylight from side window, bright and airy, cozy and inviting\\nColor palette: warm beige and cream base, soft pastel accents from dessert, muted greens from plant in background, cool coffee brown\\nMaterials/textures: frosted glass condensation, smooth ceramic glaze, soft cake sponge texture, visible wood grain\\nConstraints: photo must include hand-drawn annotation overlay in white sketch lines with Japanese handwritten text (70% hiragana, 30% simple kanji); rough uneven stroke style; contour lines tracing object outlines; arrows and dashed lines for visual guidance; short diary-like comments about taste, texture, mood; decorative elements like steam, sparkles, hearts, small emoticons used sparingly with intentional white space; Instagram story / rough magazine notes aesthetic; stylish yet relaxed vibe\\nAvoid: cluttered composition, harsh shadows, oversaturated colors, watermark, 8K stuffer aesthetic, photorealistic skin or people\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15360
+}

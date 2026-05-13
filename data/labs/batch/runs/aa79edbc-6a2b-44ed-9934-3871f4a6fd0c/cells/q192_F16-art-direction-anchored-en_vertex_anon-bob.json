@@ -1,0 +1,23 @@
+{
+  "query_idx": 192,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成毛毡拉旗电商主图 —— 第一张正面白底图。\n\n风格/媒介:Etsy 欧美电商产品摄影风格，photorealistic\n构图:产品正面居中，白色纯底，拉旗完整展示\n主体:万圣节毛毡三角拉旗串，颜色与数量与参考图保持一致，无缝纫工艺\n场景/背景:纯白背景\n光线/氛围:均匀柔和的产品棚拍光\n色彩方案:保持参考图拉旗原色\n材质/纹理:毛毡材质，无缝纫工艺\n文字(原样):\n约束:拉旗位置、颜色、数量与参考图完全一致；图片比例 1:1\n避免:阴影过重、背景杂乱、缝纫线迹",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A02d8b396-c5dd-4eb2-98de-02f052bf85d3/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成毛毡拉旗电商主图 —— 第一张正面白底图。\\n\\n风格/媒介:Etsy 欧美电商产品摄影风格，photorealistic\\n构图:产品正面居中，白色纯底，拉旗完整展示\\n主体:万圣节毛毡三角拉旗串，颜色与数量与参考图保持一致，无缝纫工艺\\n场景/背景:纯白背景\\n光线/氛围:均匀柔和的产品棚拍光\\n色彩方案:保持参考图拉旗原色\\n材质/纹理:毛毡材质，无缝纫工艺\\n文字(原样):\\n约束:拉旗位置、颜色、数量与参考图完全一致；图片比例 1:1\\n避免:阴影过重、背景杂乱、缝纫线迹\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9544,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

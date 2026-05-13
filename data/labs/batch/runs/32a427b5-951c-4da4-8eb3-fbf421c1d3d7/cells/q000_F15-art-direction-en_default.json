@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a social media cover image for Xiaohongshu featuring bubble tea.\n\nStyle/medium: needs a \"pink girly\" aesthetic — exact stylistic interpretation is yours\nComposition: \nSubject: must include bubble tea (pearl milk tea) as the focal subject\nScene/backdrop: needs a summer coolness atmosphere — exact setting is yours\nLighting/mood: needs a refreshing summer vibe — exact light treatment is yours\nColor palette: needs a pink direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0b55c18f-3dff-4941-bc7b-6aed644a67e0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a social media cover image for Xiaohongshu featuring bubble tea.\\n\\nStyle/medium: needs a \\\"pink girly\\\" aesthetic — exact stylistic interpretation is yours\\nComposition: \\nSubject: must include bubble tea (pearl milk tea) as the focal subject\\nScene/backdrop: needs a summer coolness atmosphere — exact setting is yours\\nLighting/mood: needs a refreshing summer vibe — exact light treatment is yours\\nColor palette: needs a pink direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7000
+}

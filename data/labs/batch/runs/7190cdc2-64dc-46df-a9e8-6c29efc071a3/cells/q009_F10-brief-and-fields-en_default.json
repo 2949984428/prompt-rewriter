@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic concept art for a female warrior character from a desert civilization.\n\nStyle/medium: game concept art in the visual direction of Assassin's Creed Origins, photorealistic rendering with painterly brushwork\nComposition: medium shot at eye level, three-quarter view, 85mm equivalent lens, character centered on elevated platform\nSubject: female warrior with pronounced facial structure, resolute eyes, tribal forehead tattoos, wearing armor of brass plate scales mixed with golden silk, edges of plates carved with ancient cuneiform runes\nScene/backdrop: desert ruins with crumbling massive stone columns, half-buried ancient temple in sand, distant sandstorm approaching, ominous orange-yellow sky\nLighting/mood: dramatic theatrical lighting, strong sunlight casting sharp shadows, warm golden rim light, impending storm creates tension\nColor palette: dominant warm orange-yellow sky and sand, brass and gold armor as focal point, turquoise and carnelian accents on weapon\nMaterials/textures: weathered brass with engraved cuneiform, lustrous golden silk fabric, polished turquoise and red agate inlays on scabbard, rough sandstone ruins\nConstraints: must include crescent-shaped curved blade with turquoise and carnelian-inlaid scabbard at waist\nAvoid: generic fantasy armor, anachronistic elements, deformed anatomy, plastic-looking materials, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/58f088e2-af37-4b93-959f-b6c773479421/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing cinematic concept art for a female warrior character from a desert civilization.\\n\\nStyle/medium: game concept art in the visual direction of Assassin's Creed Origins, photorealistic rendering with painterly brushwork\\nComposition: medium shot at eye level, three-quarter view, 85mm equivalent lens, character centered on elevated platform\\nSubject: female warrior with pronounced facial structure, resolute eyes, tribal forehead tattoos, wearing armor of brass plate scales mixed with golden silk, edges of plates carved with ancient cuneiform runes\\nScene/backdrop: desert ruins with crumbling massive stone columns, half-buried ancient temple in sand, distant sandstorm approaching, ominous orange-yellow sky\\nLighting/mood: dramatic theatrical lighting, strong sunlight casting sharp shadows, warm golden rim light, impending storm creates tension\\nColor palette: dominant warm orange-yellow sky and sand, brass and gold armor as focal point, turquoise and carnelian accents on weapon\\nMaterials/textures: weathered brass with engraved cuneiform, lustrous golden silk fabric, polished turquoise and red agate inlays on scabbard, rough sandstone ruins\\nConstraints: must include crescent-shaped curved blade with turquoise and carnelian-inlaid scabbard at waist\\nAvoid: generic fantasy armor, anachronistic elements, deformed anatomy, plastic-looking materials, watermark\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11909
+}

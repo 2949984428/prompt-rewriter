@@ -1,0 +1,23 @@
+{
+  "query_idx": 218,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张抖音个人主页背景图。\n\n风格/媒介:简约风格，平面设计\n构图:画面简洁，留白充足\n主体:以手机壳相关元素（如轮廓线、图案、色块）隐喻表达\"卖手机壳\"的主题，不出现实物手机壳\n场景/背景:简约背景\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  中文风格表达\n  不出现手机壳实物\n  适配抖音背景图横幅比例\n避免:手机壳实物图片",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6fedf4aa-0f97-4869-a28d-de23ca21e2ba/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一张抖音个人主页背景图。\\n\\n风格/媒介:简约风格，平面设计\\n构图:画面简洁，留白充足\\n主体:以手机壳相关元素（如轮廓线、图案、色块）隐喻表达\\\"卖手机壳\\\"的主题，不出现实物手机壳\\n场景/背景:简约背景\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  中文风格表达\\n  不出现手机壳实物\\n  适配抖音背景图横幅比例\\n避免:手机壳实物图片\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10249,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

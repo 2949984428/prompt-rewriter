@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: poster-design\nAsset type: movie poster, 1990s Hong Kong cinema revival\nPrimary request: A Chinese Odyssey poster restyled as 90s Hong Kong film, the Cowboy (至尊宝) and Fairy Zixia (紫霞) kissing on the city wall, Bull Demon King (牛魔王) and Tang Monk (唐僧) standing in the distance\nScene/backdrop: ancient Chinese fortress wall at sunset, dramatic sky with warm orange and purple clouds, silhouettes of Bull Demon King and Tang Monk in the far background\nSubject: young couple in passionate embrace and kiss on the wall, man in monkey king warrior costume, woman in flowing fairy dress with flowing ribbons\nStyle/medium: 35mm film photography, 1990s Hong Kong wuxia cinema aesthetic, vintage film poster\nComposition/framing: wide cinematic shot, medium distance, couple centered on the wall with depth showing distant figures\nLighting/mood: golden hour sunset, dramatic rim lighting, romantic and nostalgic atmosphere\nColor palette: warm golden orange, deep purple, teal shadows, vintage film color grading\nMaterials/textures: film grain texture throughout, slightly faded colors, matte paper poster finish\nText (verbatim): \"大话西游\"\nConstraints: keep 至尊宝 and 紫霞 as the central focus with clear silhouettes of 牛魔王 and 唐僧 in background, maintain 90s Hong Kong film poster aesthetic\nAvoid: modern digital clean look, oversaturated colors, missing film grain, deformed faces, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b92ef1e9-0ff1-4742-9986-0c473435c836/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: poster-design\\nAsset type: movie poster, 1990s Hong Kong cinema revival\\nPrimary request: A Chinese Odyssey poster restyled as 90s Hong Kong film, the Cowboy (至尊宝) and Fairy Zixia (紫霞) kissing on the city wall, Bull Demon King (牛魔王) and Tang Monk (唐僧) standing in the distance\\nScene/backdrop: ancient Chinese fortress wall at sunset, dramatic sky with warm orange and purple clouds, silhouettes of Bull Demon King and Tang Monk in the far background\\nSubject: young couple in passionate embrace and kiss on the wall, man in monkey king warrior costume, woman in flowing fairy dress with flowing ribbons\\nStyle/medium: 35mm film photography, 1990s Hong Kong wuxia cinema aesthetic, vintage film poster\\nComposition/framing: wide cinematic shot, medium distance, couple centered on the wall with depth showing distant figures\\nLighting/mood: golden hour sunset, dramatic rim lighting, romantic and nostalgic atmosphere\\nColor palette: warm golden orange, deep purple, teal shadows, vintage film color grading\\nMaterials/textures: film grain texture throughout, slightly faded colors, matte paper poster finish\\nText (verbatim): \\\"大话西游\\\"\\nConstraints: keep 至尊宝 and 紫霞 as the central focus with clear silhouettes of 牛魔王 and 唐僧 in background, maintain 90s Hong Kong film poster aesthetic\\nAvoid: modern digital clean look, oversaturated colors, missing film grain, deformed faces, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9938
+}

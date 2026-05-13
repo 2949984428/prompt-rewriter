@@ -1,0 +1,23 @@
+{
+  "query_idx": 119,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "这个是一个（外挂鸟窝)，帮我为这个产品生成新的商品主图，符合天猫平台要求，要求不要改变产品主体样貌，可以增加新的背景和使用场景图，生成不同的风格的 5 张，其中产品白底主图一张，细节图一张，尺寸图一张（参考所给尺寸，单位不要出错)，使用场景图两张（包含有鹦鹉，是在家内鸟笼外挂置）[@image:#1:image] [@image:#2:image]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae3a3e36c-5bd7-4b29-a075-c4437720e0f6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"这个是一个（外挂鸟窝)，帮我为这个产品生成新的商品主图，符合天猫平台要求，要求不要改变产品主体样貌，可以增加新的背景和使用场景图，生成不同的风格的 5 张，其中产品白底主图一张，细节图一张，尺寸图一张（参考所给尺寸，单位不要出错)，使用场景图两张（包含有鹦鹉，是在家内鸟笼外挂置）\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7169,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

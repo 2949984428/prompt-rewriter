@@ -1,0 +1,23 @@
+{
+  "query_idx": 91,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a bold badge-style logo for an HVAC training brand.\n\n风格/媒介: industrial badge logo, strong branding, uniform-ready, aggressive; clean vector; optimized for embroidery, uniforms, trucks\n构图:\n  thick-bordered shield or badge outer shape\n  crown integrated into the top border\n  central HVAC icon — bold, thick lines, readable at distance\n  laurel branches embedded into side borders, not floating\n  small stars aligned in the upper section\n  bottom ribbon or line for secondary text\n主体: logo for \"Electro Rey LLC\" — HVAC training brand\n场景/背景: transparent / none\n光线/氛围:\n色彩方案:\n  deep navy #0A1F3D\n  industrial gold #CFAF5A\n  white #FFFFFF\n  high contrast, no gradients\n材质/纹理: flat vector, no thin lines, strong silhouette\n文字(原样):\n  \"ELECTRO REY\" — arc or strong horizontal lockup, dominant size\n  \"LLC\" — integrated cleanly under main name\n  \"Salmo 91\" — inside small bottom ribbon, minimal presence\n约束:\n  no thin lines\n  no gradients\n  scalable and readable at small sizes\n  \"Salmo 91\" kept minimal, no religious styling dominance\n避免: clutter, over-decoration, floating decorative elements, thin strokes",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A92df0d67-cc5f-48d8-9aac-c0b288a9ba9e/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a bold badge-style logo for an HVAC training brand.\\n\\n风格/媒介: industrial badge logo, strong branding, uniform-ready, aggressive; clean vector; optimized for embroidery, uniforms, trucks\\n构图:\\n  thick-bordered shield or badge outer shape\\n  crown integrated into the top border\\n  central HVAC icon — bold, thick lines, readable at distance\\n  laurel branches embedded into side borders, not floating\\n  small stars aligned in the upper section\\n  bottom ribbon or line for secondary text\\n主体: logo for \\\"Electro Rey LLC\\\" — HVAC training brand\\n场景/背景: transparent / none\\n光线/氛围:\\n色彩方案:\\n  deep navy #0A1F3D\\n  industrial gold #CFAF5A\\n  white #FFFFFF\\n  high contrast, no gradients\\n材质/纹理: flat vector, no thin lines, strong silhouette\\n文字(原样):\\n  \\\"ELECTRO REY\\\" — arc or strong horizontal lockup, dominant size\\n  \\\"LLC\\\" — integrated cleanly under main name\\n  \\\"Salmo 91\\\" — inside small bottom ribbon, minimal presence\\n约束:\\n  no thin lines\\n  no gradients\\n  scalable and readable at small sizes\\n  \\\"Salmo 91\\\" kept minimal, no religious styling dominance\\n避免: clutter, over-decoration, floating decorative elements, thin strokes\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 12253,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for a WeChat public account article cover about the \"染秋\" fragrance launch.\n\nStyle/medium: premium editorial design with sophisticated typography, high-end beauty brand aesthetic, subtle texture overlays\nComposition: centered layout with title as the focal point, balanced negative space around the main text block\nSubject: elegant Chinese typography \"染秋 - 秋意染染 时光留香\" as the hero element, refined and prominent\nScene/backdrop: soft gradient or subtle autumn-inspired abstract background, minimal and uncluttered to keep focus on text\nLighting/mood: soft diffused lighting creating gentle depth, warm and inviting atmosphere suggesting autumn warmth\nColor palette: warm earthy tones (amber, rust, cream) with subtle gold accents, harmonious and premium feel\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title must be the dominant visual element; design must remain legible at 900x500px; maintain premium brand aesthetic\nAvoid: cluttered backgrounds; competing visual elements that distract from title; generic stock imagery; low contrast text; overly decorative borders",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/21e6634d-48ce-4be8-bc72-c991d83cc2fa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing marketing poster for a WeChat public account article cover about the \\\"染秋\\\" fragrance launch.\\n\\nStyle/medium: premium editorial design with sophisticated typography, high-end beauty brand aesthetic, subtle texture overlays\\nComposition: centered layout with title as the focal point, balanced negative space around the main text block\\nSubject: elegant Chinese typography \\\"染秋 - 秋意染染 时光留香\\\" as the hero element, refined and prominent\\nScene/backdrop: soft gradient or subtle autumn-inspired abstract background, minimal and uncluttered to keep focus on text\\nLighting/mood: soft diffused lighting creating gentle depth, warm and inviting atmosphere suggesting autumn warmth\\nColor palette: warm earthy tones (amber, rust, cream) with subtle gold accents, harmonious and premium feel\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title must be the dominant visual element; design must remain legible at 900x500px; maintain premium brand aesthetic\\nAvoid: cluttered backgrounds; competing visual elements that distract from title; generic stock imagery; low contrast text; overly decorative borders\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8427
+}

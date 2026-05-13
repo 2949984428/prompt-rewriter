@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an employee ID badge for 字节跳动, showing both front and back sides.\n\nStyle/medium: needs a \"corporate tech\" aesthetic — references in the spirit of Apple employee badge minimalism, Google campus credential design, contemporary fintech card finishes; exact stylistic execution is yours\nComposition: must include both front and back sides of the badge visible\nSubject: must include 字节跳动 employee badge as the focal subject\nScene/backdrop: \nLighting/mood: needs a photorealistic presentation — exact lighting setup is yours\nColor palette: \nMaterials/textures: needs realistic plastic card material with lanyard — exact finish is yours\nText (verbatim): must include \"字节跳动\" (company name)\nConstraints: must show both front and back sides of the badge\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8ddabd06-7dc7-4512-b11a-7ad5a462486a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an employee ID badge for 字节跳动, showing both front and back sides.\\n\\nStyle/medium: needs a \\\"corporate tech\\\" aesthetic — references in the spirit of Apple employee badge minimalism, Google campus credential design, contemporary fintech card finishes; exact stylistic execution is yours\\nComposition: must include both front and back sides of the badge visible\\nSubject: must include 字节跳动 employee badge as the focal subject\\nScene/backdrop: \\nLighting/mood: needs a photorealistic presentation — exact lighting setup is yours\\nColor palette: \\nMaterials/textures: needs realistic plastic card material with lanyard — exact finish is yours\\nText (verbatim): must include \\\"字节跳动\\\" (company name)\\nConstraints: must show both front and back sides of the badge\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9375
+}

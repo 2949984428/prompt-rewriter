@@ -1,0 +1,23 @@
+{
+  "query_idx": 190,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑参考图（#1 与 #2）生成 Shopee 产品主图。\n\n风格/媒介:电商产品主图，photorealistic\n构图:1:1 正方形构图，产品居中\n主体:保持产品原有特征不变，不改变产品造型、颜色、细节\n场景/背景:\n光线/氛围:加深光影效果\n色彩方案:\n材质/纹理:\n文字(原样):DIOR（商标，置于画面正上方）\n约束:\n  参考图 #1 与 #2 的产品特征须完整保留\n  图片用途为 Shopee 产品主图\n避免:改变产品外观特征",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0c2341f7-cb00-49f5-979b-a77a26b4460e/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑参考图（#1 与 #2）生成 Shopee 产品主图。\\n\\n风格/媒介:电商产品主图，photorealistic\\n构图:1:1 正方形构图，产品居中\\n主体:保持产品原有特征不变，不改变产品造型、颜色、细节\\n场景/背景:\\n光线/氛围:加深光影效果\\n色彩方案:\\n材质/纹理:\\n文字(原样):DIOR（商标，置于画面正上方）\\n约束:\\n  参考图 #1 与 #2 的产品特征须完整保留\\n  图片用途为 Shopee 产品主图\\n避免:改变产品外观特征\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5592,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

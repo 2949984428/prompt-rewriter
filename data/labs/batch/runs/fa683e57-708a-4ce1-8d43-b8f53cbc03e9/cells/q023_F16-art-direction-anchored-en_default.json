@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a tactical gear showcase display featuring firearms, body armor, and night-vision equipment (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"硬核军事\" tactical aesthetic — references in the spirit of Tom Clancy military-tech concept art, 1990s military equipment catalog photography, Call of Duty loadout UI design; exact stylistic execution is yours\nComposition: must be an organized grid or symmetrical arrangement of tactical gear pieces\nSubject: must include firearms, ballistic vest, and night-vision goggles arranged neatly\nScene/backdrop: must be a dark background setting\nLighting/mood: needs a cold, professional, authoritative atmosphere — exact light source mix is yours\nColor palette: needs a cold/cool direction — exact hex values are yours\nMaterials/textures: must include tactical fabric textures, matte metal finishes, and technical equipment surfaces\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ae934699-119e-4fa6-963c-25711b443e17/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a tactical gear showcase display featuring firearms, body armor, and night-vision equipment (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"硬核军事\\\" tactical aesthetic — references in the spirit of Tom Clancy military-tech concept art, 1990s military equipment catalog photography, Call of Duty loadout UI design; exact stylistic execution is yours\\nComposition: must be an organized grid or symmetrical arrangement of tactical gear pieces\\nSubject: must include firearms, ballistic vest, and night-vision goggles arranged neatly\\nScene/backdrop: must be a dark background setting\\nLighting/mood: needs a cold, professional, authoritative atmosphere — exact light source mix is yours\\nColor palette: needs a cold/cool direction — exact hex values are yours\\nMaterials/textures: must include tactical fabric textures, matte metal finishes, and technical equipment surfaces\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15417
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 小红书-style vertical cover image for a 素人 (everyday creator) media post featuring the 大疆 Pocket 4.\n\nStyle/medium: needs a \"素人风格\" 小红书 aesthetic — exact stylistic execution is yours\nComposition: must be a 九宫格 (3×3 grid) layout arranged as a single vertical cover image\nSubject: must include the 大疆 Pocket 4 as the featured product, prominently displayed\nScene/backdrop: needs a casual, everyday-creator atmosphere — exact setting is yours\nLighting/mood: needs a bright, approachable 素人 vibe — exact light treatment is yours\nColor palette: needs a fresh, youthful direction fitting 小红书 aesthetics — exact palette is yours\nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" as the central title (large, primary, cute and differentiated font style)\nConstraints: must preserve 九宫格 grid structure visible across the full vertical cover; title centered\nAvoid: overly polished commercial or studio look; avoid generic stock-photo feel",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A264ace19-fcd7-4eb5-98a9-59cbeec962b5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 小红书-style vertical cover image for a 素人 (everyday creator) media post featuring the 大疆 Pocket 4.\\n\\nStyle/medium: needs a \\\"素人风格\\\" 小红书 aesthetic — exact stylistic execution is yours\\nComposition: must be a 九宫格 (3×3 grid) layout arranged as a single vertical cover image\\nSubject: must include the 大疆 Pocket 4 as the featured product, prominently displayed\\nScene/backdrop: needs a casual, everyday-creator atmosphere — exact setting is yours\\nLighting/mood: needs a bright, approachable 素人 vibe — exact light treatment is yours\\nColor palette: needs a fresh, youthful direction fitting 小红书 aesthetics — exact palette is yours\\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" as the central title (large, primary, cute and differentiated font style)\\nConstraints: must preserve 九宫格 grid structure visible across the full vertical cover; title centered\\nAvoid: overly polished commercial or studio look; avoid generic stock-photo feel\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8562
+}

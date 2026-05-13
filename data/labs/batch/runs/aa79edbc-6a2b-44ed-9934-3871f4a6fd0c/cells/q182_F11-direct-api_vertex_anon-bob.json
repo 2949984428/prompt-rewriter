@@ -1,0 +1,23 @@
+{
+  "query_idx": 182,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:亚马逊主图_透明星星自动浇水器_v2] 将亚马逊的图片放大到2048x2048",
+    "size": "2048x2048",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aef69646e-7ceb-469e-b5c1-51d5c72bf0b0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:亚马逊主图_透明星星自动浇水器_v2] 将亚马逊的图片放大到2048x2048\", \"size\": \"2048x2048\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3201,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original children's picture book illustration of a chubby brown bear collecting acorns in an autumn forest.\n\nStyle/medium: children's picture book illustration, blend of Studio Ghibli animation warmth with Nordic folk art simplicity, rounded soft linework, high color saturation, cute and cozy aesthetic suitable for ages 3-6\nComposition: medium shot centered on the bear, eye-level perspective, gentle depth of field with soft background elements\nSubject: round chubby brown bear with rosy pink cheeks, adorable expression, wearing blue striped overalls and a slightly oversized red beret, holding a pile of acorns in chubby paws\nScene/backdrop: warm autumn forest with golden and orange fallen leaves scattered around bear's feet, dappled sunlight filtering through tree canopy, small wooden cabin with smoke rising from chimney in the distance\nLighting/mood: warm golden hour sunlight creating soft dappled patterns through leaves, cozy and heartwarming atmosphere\nColor palette: warm autumn golds and oranges as base, rich browns for bear fur, bright blue for overalls, vivid red for beret, soft rosy pink for cheeks\nMaterials/textures: soft rounded brushstrokes, matte paper texture, gentle color blending without harsh edges\nAvoid: realistic fur texture, sharp angular lines, dark shadows, complex perspective, watermark, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/677e7776-6bc1-492d-9b02-64a04d31f4f7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original children's picture book illustration of a chubby brown bear collecting acorns in an autumn forest.\\n\\nStyle/medium: children's picture book illustration, blend of Studio Ghibli animation warmth with Nordic folk art simplicity, rounded soft linework, high color saturation, cute and cozy aesthetic suitable for ages 3-6\\nComposition: medium shot centered on the bear, eye-level perspective, gentle depth of field with soft background elements\\nSubject: round chubby brown bear with rosy pink cheeks, adorable expression, wearing blue striped overalls and a slightly oversized red beret, holding a pile of acorns in chubby paws\\nScene/backdrop: warm autumn forest with golden and orange fallen leaves scattered around bear's feet, dappled sunlight filtering through tree canopy, small wooden cabin with smoke rising from chimney in the distance\\nLighting/mood: warm golden hour sunlight creating soft dappled patterns through leaves, cozy and heartwarming atmosphere\\nColor palette: warm autumn golds and oranges as base, rich browns for bear fur, bright blue for overalls, vivid red for beret, soft rosy pink for cheeks\\nMaterials/textures: soft rounded brushstrokes, matte paper texture, gentle color blending without harsh edges\\nAvoid: realistic fur texture, sharp angular lines, dark shadows, complex perspective, watermark, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11221
+}

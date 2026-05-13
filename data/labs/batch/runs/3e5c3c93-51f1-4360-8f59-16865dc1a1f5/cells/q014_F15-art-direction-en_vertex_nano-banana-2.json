@@ -1,0 +1,21 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original UI design system showcase illustration featuring a web Dashboard, mobile interface, cards, buttons, and controls.\n\nStyle/medium: needs a classic minimal tech aesthetic — exact stylistic execution is yours\nComposition: must include multi-layer layout with web Dashboard panel, mobile interface frame, card components, button sets, and control widgets arranged in a structured system overview\nSubject: must include all UI components:\n  Dashboard: full web dashboard panel with data visualizations\n  Mobile: mobile interface screen\n  Components: cards / buttons / controls / widgets\nScene/backdrop: needs a deep-tech dark environment — exact backdrop treatment is yours\nLighting/mood: needs a visually striking, high-impact atmosphere with strong depth and hierarchy — exact light source mix is yours\nColor palette: needs a cool-toned tech direction with high contrast and luminous accent elements — exact hex values and ratios are yours\nMaterials/textures: needs a sleek, glass-morphism or layered surface treatment — exact sheen and depth are yours\nText (verbatim): \nConstraints: must preserve clear visual hierarchy across all UI layers; all components must read as a cohesive design system\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2ee05c76-837e-40a9-9e3a-072bd45dabe1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original UI design system showcase illustration featuring a web Dashboard, mobile interface, cards, buttons, and controls.\\n\\nStyle/medium: needs a classic minimal tech aesthetic — exact stylistic execution is yours\\nComposition: must include multi-layer layout with web Dashboard panel, mobile interface frame, card components, button sets, and control widgets arranged in a structured system overview\\nSubject: must include all UI components:\\n  Dashboard: full web dashboard panel with data visualizations\\n  Mobile: mobile interface screen\\n  Components: cards / buttons / controls / widgets\\nScene/backdrop: needs a deep-tech dark environment — exact backdrop treatment is yours\\nLighting/mood: needs a visually striking, high-impact atmosphere with strong depth and hierarchy — exact light source mix is yours\\nColor palette: needs a cool-toned tech direction with high contrast and luminous accent elements — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek, glass-morphism or layered surface treatment — exact sheen and depth are yours\\nText (verbatim): \\nConstraints: must preserve clear visual hierarchy across all UI layers; all components must read as a cohesive design system\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12526
+}

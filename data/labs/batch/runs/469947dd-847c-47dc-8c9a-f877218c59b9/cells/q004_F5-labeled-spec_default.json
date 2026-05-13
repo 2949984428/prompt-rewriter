@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: e-commerce hero banner, JD Digital channel\nPrimary request: gaming smartphone floating at 45-degree angle with dynamic RGB lighting effects\nScene/backdrop: cyberpunk neon cityscape at night, towering skyscrapers with holographic ads, rain-slicked streets, dense urban sprawl\nSubject: sleek gaming smartphone with aggressive angular design, illuminated RGB strips along edges, reflective glass back panel, screen showing game UI\nStyle/medium: 3D product render with photorealistic materials, cinematic cyberpunk aesthetic\nComposition/framing: dynamic 45-degree floating angle, wide hero shot, shallow depth of field with bokeh city lights\nLighting/mood: dramatic neon lighting with cyan and magenta glow, volumetric fog, high contrast, energetic and futuristic mood\nColor palette: electric cyan + hot magenta + deep purple + neon orange accents against dark blue night sky\nMaterials/textures: brushed metal frame, glossy RGB strips, matte glass back, rain droplets, wet asphalt reflections\nConstraints: phone must be the clear focal point, RGB lighting must be visible and vibrant, maintain 45-degree angle\nAvoid: flat lighting, plastic-looking materials, cluttered composition, washed-out colors, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/77291e3d-1327-4925-a89f-3b6aaff022cd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero banner, JD Digital channel\\nPrimary request: gaming smartphone floating at 45-degree angle with dynamic RGB lighting effects\\nScene/backdrop: cyberpunk neon cityscape at night, towering skyscrapers with holographic ads, rain-slicked streets, dense urban sprawl\\nSubject: sleek gaming smartphone with aggressive angular design, illuminated RGB strips along edges, reflective glass back panel, screen showing game UI\\nStyle/medium: 3D product render with photorealistic materials, cinematic cyberpunk aesthetic\\nComposition/framing: dynamic 45-degree floating angle, wide hero shot, shallow depth of field with bokeh city lights\\nLighting/mood: dramatic neon lighting with cyan and magenta glow, volumetric fog, high contrast, energetic and futuristic mood\\nColor palette: electric cyan + hot magenta + deep purple + neon orange accents against dark blue night sky\\nMaterials/textures: brushed metal frame, glossy RGB strips, matte glass back, rain droplets, wet asphalt reflections\\nConstraints: phone must be the clear focal point, RGB lighting must be visible and vibrant, maintain 45-degree angle\\nAvoid: flat lighting, plastic-looking materials, cluttered composition, washed-out colors, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10834
+}

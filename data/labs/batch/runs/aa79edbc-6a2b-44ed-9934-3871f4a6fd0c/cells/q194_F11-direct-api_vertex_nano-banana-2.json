@@ -1,0 +1,23 @@
+{
+  "query_idx": 194,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "我的产品图[@image:#1:1]，参考图：[@image:#2:microphone for iphone][@image:#3:5][@image:#4:61ja8dLZ4CL][@image:#5:71ceXqURtYL]，卖点：ONE-RECEIVER, TWO-USER RECORDING】 This 2-in-1 wireless lavalier system includes two transmitters and one receiver, allowing two creators to record simultaneously. (Compatible with iPhone 15/16/17 and all USB-C Android smartphones)\n【AI PRO NOISE CANCELLING & HD SOUND】 Equipped with high-sensitivity omnidirectional pickup and a smart noise reduction chip, our microphone filters background noise. (Features LED Status Display for battery and pairing monitoring)\n【164FT STABLE RANGE & ZERO DELAY】 Experience freedom of recording with a stable 164ft (50m) transmission range. Powered by advanced 2.4GHz technology, the ABYLFE wireless microphone ensures crystal-clear audio even in complex environments. (Ideal for outdoor vlogging and Real-time Live Streaming)\n【INNOVATIVE MAGNETIC DESIGN & CLIP-FREE】 Revolutionize your look with our powerful magnetic back. No more bulky clips sagging your collar or damaging fabrics. This mini mic snaps securely to any clothing, providing a sleek appearance on camera. (Includes Mute Button for instant privacy control)，生成亚马逊图片",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa953266b-719f-4a98-8d6f-aa648afc06bc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"我的产品图[@image:#1:1]，参考图：[@image:#2:microphone for iphone][@image:#3:5][@image:#4:61ja8dLZ4CL][@image:#5:71ceXqURtYL]，卖点：ONE-RECEIVER, TWO-USER RECORDING】 This 2-in-1 wireless lavalier system includes two transmitters and one receiver, allowing two creators to record simultaneously. (Compatible with iPhone 15/16/17 and all USB-C Android smartphones)\\n【AI PRO NOISE CANCELLING & HD SOUND】 Equipped with high-sensitivity omnidirectional pickup and a smart noise reduction chip, our microphone filters background noise. (Features LED Status Display for battery and pairing monitoring)\\n【164FT STABLE RANGE & ZERO DELAY】 Experience freedom of recording with a stable 164ft (50m) transmission range. Powered by advanced 2.4GHz technology, the ABYLFE wireless microphone ensures crystal-clear audio even in complex environments. (Ideal for outdoor vlogging and Real-time Live Streaming)\\n【INNOVATIVE MAGNETIC DESIGN & CLIP-FREE】 Revolutionize your look with our powerful magnetic back. No more bulky clips sagging your collar or damaging fabrics. This mini mic snaps securely to any clothing, providing a sleek appearance on camera. (Includes Mute Button for instant privacy control)，生成亚马逊图片\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4750,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

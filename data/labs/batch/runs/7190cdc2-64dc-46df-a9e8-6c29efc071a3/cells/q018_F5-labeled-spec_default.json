@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: high-end jewelry brand campaign, luxury advertising still\nPrimary request: editorial jewelry portrait of a sapphire and diamond set inspired by deep ocean, featuring necklace, earrings and bracelet on an elegant East Asian model\nScene/backdrop: luxury yacht deck at night, gentle sea breeze, deep dark ocean and starry sky in background\nSubject: sophisticated East Asian female model with fair porcelain skin, wearing deep blue strapless evening gown; jewelry set includes necklace with 15-carat Sri Lankan royal blue sapphire center stone surrounded by 8 carats of pear and round brilliant diamonds, platinum setting with intricate wave and coral engravings, plus matching earrings and bracelet, gems sparkling brilliantly at neck and ears\nStyle/medium: high-end jewelry advertising photography, Cartier and Tiffany top-tier campaign aesthetic\nComposition/framing: medium close-up, three-quarter portrait, jewelry as focal point, shallow depth of field\nLighting/mood: professional multi-angle jewelry lighting system, precise accent lighting to maximize gem fire and brilliance, soft fill light on model, luxurious and mysterious atmosphere\nColor palette: deep royal blue sapphire + brilliant white diamonds + platinum silver + midnight navy gown + dark ocean blues + starlight whites\nMaterials/textures: faceted sapphire with velvety depth, scintillating diamond facets, polished platinum with fine engraving detail, silk gown fabric, polished yacht deck\nConstraints: keep the 15-carat Sri Lankan royal blue sapphire as hero stone, preserve the wave and coral engraving details on platinum setting, maintain jewelry as primary focal point\nAvoid: cheap costume jewelry look, plastic gems, overexposed highlights losing gem detail, cluttered background, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5406af9e-5b6c-4e97-9d03-d9e7af900305/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: high-end jewelry brand campaign, luxury advertising still\\nPrimary request: editorial jewelry portrait of a sapphire and diamond set inspired by deep ocean, featuring necklace, earrings and bracelet on an elegant East Asian model\\nScene/backdrop: luxury yacht deck at night, gentle sea breeze, deep dark ocean and starry sky in background\\nSubject: sophisticated East Asian female model with fair porcelain skin, wearing deep blue strapless evening gown; jewelry set includes necklace with 15-carat Sri Lankan royal blue sapphire center stone surrounded by 8 carats of pear and round brilliant diamonds, platinum setting with intricate wave and coral engravings, plus matching earrings and bracelet, gems sparkling brilliantly at neck and ears\\nStyle/medium: high-end jewelry advertising photography, Cartier and Tiffany top-tier campaign aesthetic\\nComposition/framing: medium close-up, three-quarter portrait, jewelry as focal point, shallow depth of field\\nLighting/mood: professional multi-angle jewelry lighting system, precise accent lighting to maximize gem fire and brilliance, soft fill light on model, luxurious and mysterious atmosphere\\nColor palette: deep royal blue sapphire + brilliant white diamonds + platinum silver + midnight navy gown + dark ocean blues + starlight whites\\nMaterials/textures: faceted sapphire with velvety depth, scintillating diamond facets, polished platinum with fine engraving detail, silk gown fabric, polished yacht deck\\nConstraints: keep the 15-carat Sri Lankan royal blue sapphire as hero stone, preserve the wave and coral engraving details on platinum setting, maintain jewelry as primary focal point\\nAvoid: cheap costume jewelry look, plastic gems, overexposed highlights losing gem detail, cluttered background, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14403
+}

@@ -1,0 +1,22 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster inspired by the aesthetic of 大话西游, reimagined in 90s Hong Kong cinema style.\n\nStyle/medium: needs a 90s 港片 film aesthetic — exact stylistic execution is yours\nComposition: must include a romantic embrace as the focal foreground, two figures in the distance behind\nSubject: must include 至尊宝 and 紫霞 kissing against a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\nScene/backdrop: must include a dramatic city wall setting evoking the world of 大话西游\nLighting/mood: needs a cinematic, emotionally charged 90s Hong Kong film atmosphere — exact light source mix is yours\nColor palette: needs a direction evoking 90s Hong Kong film stock warmth and fade — exact tones are yours\nMaterials/textures: needs a film-grain texture treatment — exact grain level and film stock character are yours\nText (verbatim): \nConstraints: \nAvoid: must avoid modern CGI-clean aesthetics, must avoid contemporary poster design conventions",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac3bbdfca-bd1b-4278-a15d-7dd54997527e/0.png",
+    "/api/image-file/lovart%3Ac3bbdfca-bd1b-4278-a15d-7dd54997527e/1.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster inspired by the aesthetic of 大话西游, reimagined in 90s Hong Kong cinema style.\\n\\nStyle/medium: needs a 90s 港片 film aesthetic — exact stylistic execution is yours\\nComposition: must include a romantic embrace as the focal foreground, two figures in the distance behind\\nSubject: must include 至尊宝 and 紫霞 kissing against a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\\nScene/backdrop: must include a dramatic city wall setting evoking the world of 大话西游\\nLighting/mood: needs a cinematic, emotionally charged 90s Hong Kong film atmosphere — exact light source mix is yours\\nColor palette: needs a direction evoking 90s Hong Kong film stock warmth and fade — exact tones are yours\\nMaterials/textures: needs a film-grain texture treatment — exact grain level and film stock character are yours\\nText (verbatim): \\nConstraints: \\nAvoid: must avoid modern CGI-clean aesthetics, must avoid contemporary poster design conventions\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8973
+}

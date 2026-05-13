@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for the brand \"RAN QIU\" (all in-image text in Chinese).\n\nStyle/medium: needs an \"东方美学\" (Eastern aesthetics), minimalist, natural-poetic, warm-healing aesthetic — exact stylistic execution is yours\nComposition: must include generous negative space with shallow depth-of-field treatment\nSubject: must include the \"RAN QIU\" brand mark as focal element\nScene/backdrop: needs a warm autumn atmosphere with natural elements — exact setting is yours\nLighting/mood: needs golden-hour, warm-healing atmosphere — exact light source mix is yours\nColor palette: must include #8B3A1E (deep autumn brown-red), #E8DCCB (beige), #D4A574 (golden brown)\nMaterials/textures: \nText (verbatim): must include \"RAN QIU\"\nConstraints: must include all in-image text in Chinese by default; must preserve the exact brand mark \"RAN QIU\"; must maintain generous negative space and shallow depth-of-field visual language\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7ee70c38-2830-4e87-a8e2-8e4b0c3d41f1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for the brand \\\"RAN QIU\\\" (all in-image text in Chinese).\\n\\nStyle/medium: needs an \\\"东方美学\\\" (Eastern aesthetics), minimalist, natural-poetic, warm-healing aesthetic — exact stylistic execution is yours\\nComposition: must include generous negative space with shallow depth-of-field treatment\\nSubject: must include the \\\"RAN QIU\\\" brand mark as focal element\\nScene/backdrop: needs a warm autumn atmosphere with natural elements — exact setting is yours\\nLighting/mood: needs golden-hour, warm-healing atmosphere — exact light source mix is yours\\nColor palette: must include #8B3A1E (deep autumn brown-red), #E8DCCB (beige), #D4A574 (golden brown)\\nMaterials/textures: \\nText (verbatim): must include \\\"RAN QIU\\\"\\nConstraints: must include all in-image text in Chinese by default; must preserve the exact brand mark \\\"RAN QIU\\\"; must maintain generous negative space and shallow depth-of-field visual language\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14382
+}

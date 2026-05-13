@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a luxury beauty product ad for a premium serum bottle, suitable for social media marketing.\n\nStyle/medium: high-end beauty product photography, editorial luxury aesthetic, photorealistic\nComposition: product-centered hero shot, slightly above eye level, soft focus on background, shallow depth of field\nSubject: glass serum bottle with pale golden liquid visible through clear glass, elegant minimalist bottle design\nScene/backdrop: soft pink gradient background, scattered rose petals around the base, water droplets splashing mid-air\nLighting/mood: soft diffused natural light from the side, gentle highlights on glass surface, warm and luxurious atmosphere\nColor palette: soft blush pink as dominant base, pale gold liquid as focal accent, subtle rose petal pinks, clean white highlights\nMaterials/textures: transparent glass with refractive quality, liquid viscosity visible, delicate rose petal velvet texture, crisp water droplets\nAvoid: harsh shadows, plastic-looking bottle, oversaturated colors, watermark, generic stock photo aesthetic, 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fb983b9d-3405-40a6-bc13-3965ef815de8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a luxury beauty product ad for a premium serum bottle, suitable for social media marketing.\\n\\nStyle/medium: high-end beauty product photography, editorial luxury aesthetic, photorealistic\\nComposition: product-centered hero shot, slightly above eye level, soft focus on background, shallow depth of field\\nSubject: glass serum bottle with pale golden liquid visible through clear glass, elegant minimalist bottle design\\nScene/backdrop: soft pink gradient background, scattered rose petals around the base, water droplets splashing mid-air\\nLighting/mood: soft diffused natural light from the side, gentle highlights on glass surface, warm and luxurious atmosphere\\nColor palette: soft blush pink as dominant base, pale gold liquid as focal accent, subtle rose petal pinks, clean white highlights\\nMaterials/textures: transparent glass with refractive quality, liquid viscosity visible, delicate rose petal velvet texture, crisp water droplets\\nAvoid: harsh shadows, plastic-looking bottle, oversaturated colors, watermark, generic stock photo aesthetic, 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9149
+}

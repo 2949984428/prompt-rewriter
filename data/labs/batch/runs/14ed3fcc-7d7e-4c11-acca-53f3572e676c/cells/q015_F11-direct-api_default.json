@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "体育运动摄影：NBA总决赛高光时刻。一位身穿23号球衣的球星在对方两名防守球员的包夹下腾空而起，完成一记震撼全场的扣篮。球员身体在空中呈现出完美的运动弧线，肌肉线条在灯光下清晰可见，表情充满爆发力与专注。背景是爆满的球场观众席，数万名观众起立欢呼，闪光灯如同星海般闪烁。地板上的球场标线和品牌LOGO清晰可见。摄影采用超高速快门凝固运动瞬间，1/2000秒曝光，画面锐利无运动模糊。打光采用专业体育场馆的多点高亮度照明，色温统一。构图采用低角度仰拍，强调球员的高度和爆发力，背景观众席形成壮观的虚化效果，专业体育摄影级别。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ae1bcfb6-e933-471b-a0bd-a4ddf8ed6b97/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

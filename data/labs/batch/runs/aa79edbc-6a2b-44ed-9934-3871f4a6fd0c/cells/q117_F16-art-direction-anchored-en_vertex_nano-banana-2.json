@@ -1,0 +1,23 @@
+{
+  "query_idx": 117,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an Amazon main product image for a grilling pan / baking tray.\n\nStyle/medium: clean white-background product photography, photorealistic\nComposition: centered single product, full item visible, slight 3/4 angle to show depth and texture\nSubject: grilling pan / baking tray, standalone, no props\nScene/backdrop: pure white background\nLighting/mood: soft even studio lighting, no harsh shadows\nColor palette: neutral, true-to-product tones\nMaterials/textures: visible non-stick coating surface, metal construction\nText (verbatim):\nConstraints: no brand name, no model number, no logo; product must be the sole focus\nAvoid:岩谷, IWATANI, any model number, background clutter, human hands",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A441cd0cb-23ca-4ccd-880d-ebebf8f8cf4b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an Amazon main product image for a grilling pan / baking tray.\\n\\nStyle/medium: clean white-background product photography, photorealistic\\nComposition: centered single product, full item visible, slight 3/4 angle to show depth and texture\\nSubject: grilling pan / baking tray, standalone, no props\\nScene/backdrop: pure white background\\nLighting/mood: soft even studio lighting, no harsh shadows\\nColor palette: neutral, true-to-product tones\\nMaterials/textures: visible non-stick coating surface, metal construction\\nText (verbatim):\\nConstraints: no brand name, no model number, no logo; product must be the sole focus\\nAvoid:岩谷, IWATANI, any model number, background clutter, human hands\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8780,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

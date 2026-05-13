@@ -1,0 +1,23 @@
+{
+  "query_idx": 292,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个手语\"温暖\"词条 icon，用于 YouTube 国际化手语内容。\n\n风格/媒介: 参考上传图片中的手语手势风格（手语\"我爱你\"手势图）\n构图: 小尺寸 icon 构图，主体居中，适合放在词条文字前方\n主体: 表达\"温暖\"含义的国际化手语手势\n场景/背景: 简洁背景，适合 icon 使用\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  参考上传的手语\"我爱你\"手势图的视觉风格\n  适配 YouTube 平台展示，icon 格式\n避免: 复杂背景；与手语手势无关的装饰元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A50c56c74-b4c8-4305-a7b0-03cfb57c5381/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个手语\\\"温暖\\\"词条 icon，用于 YouTube 国际化手语内容。\\n\\n风格/媒介: 参考上传图片中的手语手势风格（手语\\\"我爱你\\\"手势图）\\n构图: 小尺寸 icon 构图，主体居中，适合放在词条文字前方\\n主体: 表达\\\"温暖\\\"含义的国际化手语手势\\n场景/背景: 简洁背景，适合 icon 使用\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  参考上传的手语\\\"我爱你\\\"手势图的视觉风格\\n  适配 YouTube 平台展示，icon 格式\\n避免: 复杂背景；与手语手势无关的装饰元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12085,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

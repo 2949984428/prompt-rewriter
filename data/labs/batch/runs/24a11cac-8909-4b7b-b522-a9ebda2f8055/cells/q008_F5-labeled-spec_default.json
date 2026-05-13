@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: interior design editorial photo, landscape crop\nPrimary request: industrial-style café interior with raw concrete walls, exposed metal pipes, vintage leather sofa, large windows with natural light, and black-and-white photography prints on the wall\nScene/backdrop: spacious café interior, raw exposed concrete walls, overhead metal ductwork and pipes, large floor-to-ceiling windows letting in soft daylight\nSubject: vintage worn leather sofa as focal furniture piece, industrial metal shelving, concrete floor, black-and-white framed photography prints arranged on the wall\nStyle/medium: photorealistic architectural interior photography, editorial\nComposition/framing: wide-angle interior shot, 24mm lens, slight perspective depth, balanced symmetry\nLighting/mood: soft diffused natural light streaming through large windows, warm ambient fill, moody yet refined — rough and stylish atmosphere\nColor palette: raw concrete grey + aged brown leather + matte black metal + warm natural light highlights\nMaterials/textures: bare concrete with visible formwork marks, brushed and patinated metal pipes, cracked and worn leather upholstery, matte industrial flooring\nConstraints: preserve the industrial-chic aesthetic balance — gritty raw materials coexisting with curated gallery-style wall art\nAvoid: overly polished or sterile look, plastic surfaces, artificial neon lighting, cluttered or messy composition",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1babbacf-2249-4483-a453-b56b3acacb93/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: interior design editorial photo, landscape crop\\nPrimary request: industrial-style café interior with raw concrete walls, exposed metal pipes, vintage leather sofa, large windows with natural light, and black-and-white photography prints on the wall\\nScene/backdrop: spacious café interior, raw exposed concrete walls, overhead metal ductwork and pipes, large floor-to-ceiling windows letting in soft daylight\\nSubject: vintage worn leather sofa as focal furniture piece, industrial metal shelving, concrete floor, black-and-white framed photography prints arranged on the wall\\nStyle/medium: photorealistic architectural interior photography, editorial\\nComposition/framing: wide-angle interior shot, 24mm lens, slight perspective depth, balanced symmetry\\nLighting/mood: soft diffused natural light streaming through large windows, warm ambient fill, moody yet refined — rough and stylish atmosphere\\nColor palette: raw concrete grey + aged brown leather + matte black metal + warm natural light highlights\\nMaterials/textures: bare concrete with visible formwork marks, brushed and patinated metal pipes, cracked and worn leather upholstery, matte industrial flooring\\nConstraints: preserve the industrial-chic aesthetic balance — gritty raw materials coexisting with curated gallery-style wall art\\nAvoid: overly polished or sterile look, plastic surfaces, artificial neon lighting, cluttered or messy composition\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10410
+}

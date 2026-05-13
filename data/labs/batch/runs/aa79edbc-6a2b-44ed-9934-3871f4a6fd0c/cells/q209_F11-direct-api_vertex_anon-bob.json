@@ -1,0 +1,23 @@
+{
+  "query_idx": 209,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "把[@image:#1: Image]的文件夹放到[@image:#2:未标题-2]的红色框内，消除红色框\"并且生成一张符合shopee平台主图场景图的",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A70d2a501-ad2f-4c30-a821-8a0fb5ac0350/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"把[@image:#1: Image]的文件夹放到[@image:#2:未标题-2]的红色框内，消除红色框\\\"并且生成一张符合shopee平台主图场景图的\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2948,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

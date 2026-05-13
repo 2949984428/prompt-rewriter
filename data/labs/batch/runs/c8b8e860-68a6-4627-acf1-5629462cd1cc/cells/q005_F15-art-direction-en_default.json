@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic explaining technical concepts and their relationships.\n\nStyle/medium: needs a hand-drawn sketch aesthetic — exact line weight and texture is yours\nComposition: must include a visual diagram showing relationships between all concepts\nSubject: must include all 7 concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: needs a hand-drawn surface treatment — exact paper texture and ink quality is yours\nText (verbatim): must include \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must preserve all 7 concepts and their interconnections, must be easy to understand with illustrations\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c2a3c84a-95ea-4de9-8f96-d1b051fcc66e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an infographic explaining technical concepts and their relationships.\\n\\nStyle/medium: needs a hand-drawn sketch aesthetic — exact line weight and texture is yours\\nComposition: must include a visual diagram showing relationships between all concepts\\nSubject: must include all 7 concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: needs a hand-drawn surface treatment — exact paper texture and ink quality is yours\\nText (verbatim): must include \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must preserve all 7 concepts and their interconnections, must be easy to understand with illustrations\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14878
+}

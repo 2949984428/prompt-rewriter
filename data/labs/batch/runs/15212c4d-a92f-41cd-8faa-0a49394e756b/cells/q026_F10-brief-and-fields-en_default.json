@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing presentation cover slide for a domestic Chinese fundraising roadshow, announcing GPT-5.5 launch with speaker Sam Altman.\n\nStyle/medium: clean corporate PPT cover design, Chinese tech startup aesthetic (similar to Sequoia China or Hillhouse Capital portfolio deck style), modern sans-serif typography\nComposition: centered layout with generous white space, title block positioned upper-middle, speaker name at bottom, professional keynote slide proportions\nSubject: \"GPT-5.5 发布\" as main headline, \"Sam Altman\" as speaker attribution, subtle tech-forward visual element suggesting AI advancement\nScene/backdrop: minimalist gradient background (deep blue to soft gray), subtle geometric patterns or neural network-inspired abstract shapes, no photography\nColor palette: professional tech blue as primary, white and light gray as secondary, single accent color (teal or electric blue) for emphasis\nText (verbatim): \"GPT-5.5发布\" \"奥特曼\"\nConstraints: must follow Chinese domestic roadshow conventions (clean, trustworthy, institutional GP aesthetic); text must be bilingual-ready layout; scalable for 16:9 projection\nAvoid: cluttered decoration; cartoonish AI robots; stock photo of people; gradient overload; Western startup clichés (rocket ships, unicorns); Behance trendy 3D renders",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f828ecca-e335-4d0b-97b9-70d965e6f89d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing presentation cover slide for a domestic Chinese fundraising roadshow, announcing GPT-5.5 launch with speaker Sam Altman.\\n\\nStyle/medium: clean corporate PPT cover design, Chinese tech startup aesthetic (similar to Sequoia China or Hillhouse Capital portfolio deck style), modern sans-serif typography\\nComposition: centered layout with generous white space, title block positioned upper-middle, speaker name at bottom, professional keynote slide proportions\\nSubject: \\\"GPT-5.5 发布\\\" as main headline, \\\"Sam Altman\\\" as speaker attribution, subtle tech-forward visual element suggesting AI advancement\\nScene/backdrop: minimalist gradient background (deep blue to soft gray), subtle geometric patterns or neural network-inspired abstract shapes, no photography\\nColor palette: professional tech blue as primary, white and light gray as secondary, single accent color (teal or electric blue) for emphasis\\nText (verbatim): \\\"GPT-5.5发布\\\" \\\"奥特曼\\\"\\nConstraints: must follow Chinese domestic roadshow conventions (clean, trustworthy, institutional GP aesthetic); text must be bilingual-ready layout; scalable for 16:9 projection\\nAvoid: cluttered decoration; cartoonish AI robots; stock photo of people; gradient overload; Western startup clichés (rocket ships, unicorns); Behance trendy 3D renders\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11845
+}

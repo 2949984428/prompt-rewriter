@@ -1,0 +1,25 @@
+{
+  "query_idx": 5,
+  "skill_id": "",
+  "image_model": "",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:耳夹白底图]根据图1生成3张场景图，3:4比例，背面金属有根金属条，参考[@image:#2:耳夹暗调场景图6]，保持产品细节不变，发布在淘宝平台上",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 3,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A690952e0-deb3-427a-bb18-6c9df133b1e1/0.png",
+    "/api/image-file/igw%3A690952e0-deb3-427a-bb18-6c9df133b1e1/1.png",
+    "/api/image-file/igw%3A690952e0-deb3-427a-bb18-6c9df133b1e1/2.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:耳夹白底图]根据图1生成3张场景图，3:4比例，背面金属有根金属条，参考[@image:#2:耳夹暗调场景图6]，保持产品细节不变，发布在淘宝平台上\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 3, \"output_format\": \"png\"}",
+  "ms": 3863,
+  "pipeline_id": "api_direct",
+  "pipeline_outputs": null
+}

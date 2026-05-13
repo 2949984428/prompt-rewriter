@@ -1,0 +1,18 @@
+{
+  "query_idx": 19,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic still of a dragon and knight battle scene in a fantasy setting.\n\nStyle/medium: fantasy digital painting, epic cinematic illustration in the spirit of Frank Frazetta and Greg Rutkowski\nComposition: dynamic wide-angle action shot, low angle looking up at the dragon, 24mm lens, sweeping diagonal lines suggesting motion, epic scale\nSubject: massive dragon mid-roar with flames erupting from its jaws, armored knight charging forward with shield raised and sword drawn\nScene/backdrop: burning medieval castle ruins, lightning storm raging across a dark sky, smoke and embers filling the air\nLighting/mood: dramatic rim lighting from fire below, harsh lightning flashes as key light, ominous and intense atmosphere\nColor palette: warm orange and red flames as primary light source, cool blue lightning as accent, deep shadows with purple undertones\nMaterials/textures: scaly dragon hide with iridescent quality, battered metal armor with battle-worn patina, stone castle textures\nAvoid: deformed anatomy, plastic-looking fire, over-lit scene, watermark, generic mobile game aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_666e4f9bef5e46ea8791ef45ee5dfd7f.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"Create an original, non-infringing cinematic still of a dragon and knight battle scene in a fantasy setting.\\n\\nStyle/medium: fantasy digital painting, epic cinematic illustration in the spirit of Frank Frazetta and Greg Rutkowski\\nComposition: dynamic wide-angle action shot, low angle looking up at the dragon, 24mm lens, sweeping diagonal lines suggesting motion, epic scale\\nSubject: massive dragon mid-roar with flames erupting from its jaws, armored knight charging forward with shield raised and sword drawn\\nScene/backdrop: burning medieval castle ruins, lightning storm raging across a dark sky, smoke and embers filling the air\\nLighting/mood: dramatic rim lighting from fire below, harsh lightning flashes as key light, ominous and intense atmosphere\\nColor palette: warm orange and red flames as primary light source, cool blue lightning as accent, deep shadows with purple undertones\\nMaterials/textures: scaly dragon hide with iridescent quality, battered metal armor with battle-worn patina, stone castle textures\\nAvoid: deformed anatomy, plastic-looking fire, over-lit scene, watermark, generic mobile game aesthetic\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11165
+}

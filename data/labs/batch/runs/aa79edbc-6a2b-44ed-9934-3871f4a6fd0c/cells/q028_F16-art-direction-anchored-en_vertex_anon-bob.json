@@ -1,0 +1,23 @@
+{
+  "query_idx": 28,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计品牌 logo 与品牌字——护肤品品牌 Henyuhielle。\n\n风格/媒介: 简约、经典、雅致\n构图: logo 与品牌字组合排版，整体干净留白\n主体: 品牌 logo 及品牌字体设计，品牌名称 Henyuhielle\n场景/背景: 纯净背景\n光线/氛围: 雅致、克制\n色彩方案:\n材质/纹理:\n文字(原样): Henyuhielle\n约束: 护肤品品牌定位，风格需简约经典雅致\n避免: 繁复装饰、多余图形元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Afa608f77-49d2-4bbf-9ecd-7d4a4bfc1aa2/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计品牌 logo 与品牌字——护肤品品牌 Henyuhielle。\\n\\n风格/媒介: 简约、经典、雅致\\n构图: logo 与品牌字组合排版，整体干净留白\\n主体: 品牌 logo 及品牌字体设计，品牌名称 Henyuhielle\\n场景/背景: 纯净背景\\n光线/氛围: 雅致、克制\\n色彩方案:\\n材质/纹理:\\n文字(原样): Henyuhielle\\n约束: 护肤品品牌定位，风格需简约经典雅致\\n避免: 繁复装饰、多余图形元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6343,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

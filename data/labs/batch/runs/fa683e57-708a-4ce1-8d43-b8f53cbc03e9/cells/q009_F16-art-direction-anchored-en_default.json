@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a hyper-realistic jewelry close-up photograph of a sapphire ring with diamond setting (any in-image text in Chinese, if rendered).\n\nStyle/medium: must be hyper-realistic\nComposition: must be close-up macro detail shot\nSubject: must include a sapphire ring with diamond setting as the focal subject\nScene/backdrop: must include black velvet background\nLighting/mood: needs a fire-and-brilliance atmosphere with light refracting inside the gemstone — exact light source setup is yours\nColor palette: \nMaterials/textures: must include sapphire gemstone with internal light refraction and fire, diamond accents, black velvet surface — exact surface treatment is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c7bfd4df-39d0-447b-8773-91a7930900d9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a hyper-realistic jewelry close-up photograph of a sapphire ring with diamond setting (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: must be hyper-realistic\\nComposition: must be close-up macro detail shot\\nSubject: must include a sapphire ring with diamond setting as the focal subject\\nScene/backdrop: must include black velvet background\\nLighting/mood: needs a fire-and-brilliance atmosphere with light refracting inside the gemstone — exact light source setup is yours\\nColor palette: \\nMaterials/textures: must include sapphire gemstone with internal light refraction and fire, diamond accents, black velvet surface — exact surface treatment is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12911
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 12,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing WeChat official account article cover image for a fragrance new-product launch campaign titled \"染秋\".\n\nStyle/medium: needs a high-end, luxurious quality aesthetic — exact stylistic execution is yours\nComposition: must be centered composition with the title as the dominant focal element\nSubject: must include the 染秋 fragrance new-product launch theme\nScene/backdrop: needs an autumnal atmospheric backdrop — exact scene treatment is yours\nLighting/mood: needs a refined, premium mood — exact light source mix is yours\nColor palette: needs a warm autumnal direction — exact hex values and ratios are yours\nMaterials/textures: needs a high-quality, tactile surface treatment — exact grain / sheen / weight is yours\nText (verbatim): must include \"染秋\" (large, primary title), \"秋意染染 时光留香\" (secondary subtitle)\nConstraints: must preserve 900×500 horizontal aspect ratio; title must be visually prominent and legible\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A64c43ebd-39bc-4482-95be-8e1e948f495d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing WeChat official account article cover image for a fragrance new-product launch campaign titled \\\"染秋\\\".\\n\\nStyle/medium: needs a high-end, luxurious quality aesthetic — exact stylistic execution is yours\\nComposition: must be centered composition with the title as the dominant focal element\\nSubject: must include the 染秋 fragrance new-product launch theme\\nScene/backdrop: needs an autumnal atmospheric backdrop — exact scene treatment is yours\\nLighting/mood: needs a refined, premium mood — exact light source mix is yours\\nColor palette: needs a warm autumnal direction — exact hex values and ratios are yours\\nMaterials/textures: needs a high-quality, tactile surface treatment — exact grain / sheen / weight is yours\\nText (verbatim): must include \\\"染秋\\\" (large, primary title), \\\"秋意染染 时光留香\\\" (secondary subtitle)\\nConstraints: must preserve 900×500 horizontal aspect ratio; title must be visually prominent and legible\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6622
+}

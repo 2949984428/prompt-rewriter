@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing educational infographic illustrating definitions and relationships among 7 concepts: AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI.\n\nStyle/medium: needs a \"手绘风格\" aesthetic — references in the spirit of Sketchnotes visual note-taking tradition, RSA Animate whiteboard illustration style, 2010s tech explainer hand-drawn infographic zine culture; exact stylistic execution is yours\nComposition: must include all 7 concept nodes with connecting lines or arrows showing relationships between them, laid out as a concept map or relationship diagram\nSubject: must include all 7 concepts with short definition labels and relationship annotations:\n  AI — artificial intelligence, the foundational concept\n  MCP — model context protocol, connects AI to tools/data\n  AI Agent — autonomous AI that acts using skills and tools\n  OpenClaw — an AI-related platform or framework\n  AI Skill — a discrete capability unit used by AI Agents\n  蒸馏 — knowledge distillation, compressing model knowledge\n  CLI — command-line interface, a text-based interaction layer\nScene/backdrop: light paper or whiteboard texture background\nLighting/mood: friendly, approachable, educational tone — clear and easy to understand\nColor palette: needs a soft, readable palette — exact color choices are yours\nMaterials/textures: hand-drawn ink lines, sketch hatching, doodle-style icons alongside each concept node\nText (verbatim): must include concept labels verbatim: \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: all 7 concepts must be visible and legible; relationships between concepts must be visually indicated\nAvoid: overly dense or cluttered layout, dark or heavy backgrounds, purely abstract decoration with no explanatory content",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/15d749db-6290-4a97-bb93-7a0396e1902c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing educational infographic illustrating definitions and relationships among 7 concepts: AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI.\\n\\nStyle/medium: needs a \\\"手绘风格\\\" aesthetic — references in the spirit of Sketchnotes visual note-taking tradition, RSA Animate whiteboard illustration style, 2010s tech explainer hand-drawn infographic zine culture; exact stylistic execution is yours\\nComposition: must include all 7 concept nodes with connecting lines or arrows showing relationships between them, laid out as a concept map or relationship diagram\\nSubject: must include all 7 concepts with short definition labels and relationship annotations:\\n  AI — artificial intelligence, the foundational concept\\n  MCP — model context protocol, connects AI to tools/data\\n  AI Agent — autonomous AI that acts using skills and tools\\n  OpenClaw — an AI-related platform or framework\\n  AI Skill — a discrete capability unit used by AI Agents\\n  蒸馏 — knowledge distillation, compressing model knowledge\\n  CLI — command-line interface, a text-based interaction layer\\nScene/backdrop: light paper or whiteboard texture background\\nLighting/mood: friendly, approachable, educational tone — clear and easy to understand\\nColor palette: needs a soft, readable palette — exact color choices are yours\\nMaterials/textures: hand-drawn ink lines, sketch hatching, doodle-style icons alongside each concept node\\nText (verbatim): must include concept labels verbatim: \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: all 7 concepts must be visible and legible; relationships between concepts must be visually indicated\\nAvoid: overly dense or cluttered layout, dark or heavy backgrounds, purely abstract decoration with no explanatory content\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15407
+}

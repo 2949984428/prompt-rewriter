@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a social media cover image for Xiaohongshu (小红书) featuring bubble tea (all in-image text in Chinese).\n\nStyle/medium: needs a \"粉色少女风\" (pink girly) aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include pearl milk tea (珍珠奶茶) as the focal subject\nScene/backdrop: needs a summer-cool atmosphere — exact setting is yours\nLighting/mood: needs a \"夏日清凉感\" (summer freshness/coolness) atmosphere — exact light source mix is yours\nColor palette: needs a pink direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/30c8ae50-d52e-40b4-b799-d990bbd73f52/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a social media cover image for Xiaohongshu (小红书) featuring bubble tea (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"粉色少女风\\\" (pink girly) aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include pearl milk tea (珍珠奶茶) as the focal subject\\nScene/backdrop: needs a summer-cool atmosphere — exact setting is yours\\nLighting/mood: needs a \\\"夏日清凉感\\\" (summer freshness/coolness) atmosphere — exact light source mix is yours\\nColor palette: needs a pink direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13556
+}

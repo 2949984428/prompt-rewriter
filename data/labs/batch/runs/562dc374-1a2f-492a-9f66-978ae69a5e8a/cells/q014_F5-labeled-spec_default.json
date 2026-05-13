@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: mobile wallpaper, 9:16 portrait\nPrimary request: macro close-up of a water droplet reflecting the surrounding world, with grass blades and dew drops\nScene/backdrop: meadow grass with morning dew, circular bokeh background\nSubject: single water droplet as the focal point, showing inverted reflection of sky and grass, surrounded by fresh green grass blades and smaller dew drops\nStyle/medium: macro photography, nature documentary style\nComposition/framing: extreme close-up macro, shallow depth of field, droplet centered\nLighting/mood: soft diffused morning light, gentle and ethereal, magical atmosphere\nColor palette: fresh greens, crystal clear water, soft blue sky reflections, warm golden bokeh circles\nMaterials/textures: transparent water droplet with surface tension, delicate grass blades with fine veins, soft circular bokeh\nConstraints: keep the water droplet as the hero element with visible internal reflection, background must show circular bokeh\nAvoid: harsh shadows, oversaturated colors, artificial elements, flat lighting",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1ab669ad-0b73-42fc-800c-b0f0de0e9015/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: mobile wallpaper, 9:16 portrait\\nPrimary request: macro close-up of a water droplet reflecting the surrounding world, with grass blades and dew drops\\nScene/backdrop: meadow grass with morning dew, circular bokeh background\\nSubject: single water droplet as the focal point, showing inverted reflection of sky and grass, surrounded by fresh green grass blades and smaller dew drops\\nStyle/medium: macro photography, nature documentary style\\nComposition/framing: extreme close-up macro, shallow depth of field, droplet centered\\nLighting/mood: soft diffused morning light, gentle and ethereal, magical atmosphere\\nColor palette: fresh greens, crystal clear water, soft blue sky reflections, warm golden bokeh circles\\nMaterials/textures: transparent water droplet with surface tension, delicate grass blades with fine veins, soft circular bokeh\\nConstraints: keep the water droplet as the hero element with visible internal reflection, background must show circular bokeh\\nAvoid: harsh shadows, oversaturated colors, artificial elements, flat lighting\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9803
+}

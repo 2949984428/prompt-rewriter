@@ -1,0 +1,21 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign.\n\nStyle/medium: needs a complex-yet-structured commercial poster aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include layered typography stacking with artistic lettering; must have a product or hero subject physically overlapping and partially obscuring some of the type layers\nSubject: must include a hero product or focal subject that overlaps the text layers\nScene/backdrop: \nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs a vibrant, attention-grabbing direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include artistic lettering (艺术字); must include font/type stacking (字体堆叠); composition must feel visually rich and complex but remain organized and non-chaotic; product/subject must occlude portions of the background type\nAvoid: visual clutter or disorganized layout",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Af61248e6-91d9-4fa7-ab3c-cee9fffef30f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign.\\n\\nStyle/medium: needs a complex-yet-structured commercial poster aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include layered typography stacking with artistic lettering; must have a product or hero subject physically overlapping and partially obscuring some of the type layers\\nSubject: must include a hero product or focal subject that overlaps the text layers\\nScene/backdrop: \\nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs a vibrant, attention-grabbing direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include artistic lettering (艺术字); must include font/type stacking (字体堆叠); composition must feel visually rich and complex but remain organized and non-chaotic; product/subject must occlude portions of the background type\\nAvoid: visual clutter or disorganized layout\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8121
+}

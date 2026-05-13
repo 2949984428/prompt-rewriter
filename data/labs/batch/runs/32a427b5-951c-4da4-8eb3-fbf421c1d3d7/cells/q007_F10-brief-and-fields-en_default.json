@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing technical infographic of a Sony A7 camera with all parts labeled by name.\n\nStyle/medium: clean technical illustration with exploded-view diagram, isometric perspective, reminiscent of Haynes manual diagrams or iFixit teardown visuals\nComposition: central exploded view with camera body at center, parts radiating outward in layers, labels connected by thin leader lines, ample white space for readability\nSubject: Sony A7 mirrorless camera deconstructed into component parts including sensor, shutter mechanism, EVF, LCD screen, battery, lens mount, dials, buttons, and internal circuit boards\nScene/backdrop: neutral light gray gradient background, no environmental context, pure technical documentation style\nLighting/mood: soft even studio lighting from top-left, minimal shadows, clinical and educational mood\nColor palette: metallic silver and black for camera parts, blue accent for highlights, dark gray text for labels, white background\nMaterials/textures: brushed aluminum for body shell, matte black plastic for grip, glass for sensor cover, visible screw heads and connectors\nText (verbatim): \"Sony A7\"\nConstraints: all major components must be clearly separated and labeled with readable part names; diagram must function as educational reference\nAvoid: photorealistic rendering, cluttered composition, missing labels, copyright Sony logos, 3D render stuffer aesthetic, gradients on parts",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eb76c522-395e-494c-8737-740cff12351c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing technical infographic of a Sony A7 camera with all parts labeled by name.\\n\\nStyle/medium: clean technical illustration with exploded-view diagram, isometric perspective, reminiscent of Haynes manual diagrams or iFixit teardown visuals\\nComposition: central exploded view with camera body at center, parts radiating outward in layers, labels connected by thin leader lines, ample white space for readability\\nSubject: Sony A7 mirrorless camera deconstructed into component parts including sensor, shutter mechanism, EVF, LCD screen, battery, lens mount, dials, buttons, and internal circuit boards\\nScene/backdrop: neutral light gray gradient background, no environmental context, pure technical documentation style\\nLighting/mood: soft even studio lighting from top-left, minimal shadows, clinical and educational mood\\nColor palette: metallic silver and black for camera parts, blue accent for highlights, dark gray text for labels, white background\\nMaterials/textures: brushed aluminum for body shell, matte black plastic for grip, glass for sensor cover, visible screw heads and connectors\\nText (verbatim): \\\"Sony A7\\\"\\nConstraints: all major components must be clearly separated and labeled with readable part names; diagram must function as educational reference\\nAvoid: photorealistic rendering, cluttered composition, missing labels, copyright Sony logos, 3D render stuffer aesthetic, gradients on parts\"}",
+  "ms": 11315
+}

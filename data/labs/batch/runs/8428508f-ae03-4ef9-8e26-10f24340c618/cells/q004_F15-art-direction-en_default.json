@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide for an automotive brand launch campaign.\n\nStyle/medium: needs a cinematic, high-impact visual aesthetic with a translucent/luminous quality — exact stylistic execution is yours\nComposition: must be a wide-format cover slide layout with title and subtitle prominently placed\nSubject: must include the car model \"长安起源Q06\" as the hero subject\nScene/backdrop: needs a dramatic, immersive backdrop that feels expansive and brand-premium — exact environment is yours\nLighting/mood: needs a visually stunning, awe-inspiring atmosphere with a sense of depth and translucency — exact light source mix is yours\nColor palette: needs a direction aligned with automotive brand prestige — exact palette and ratios are yours\nMaterials/textures: needs a sense of glass-like clarity and visual depth in the background treatment — exact surface execution is yours\nText (verbatim): must include \"长安起源Q06\" (primary title, large), \"9月上市\" (subtitle, secondary)\nConstraints: must preserve PPT cover proportions (16:9 widescreen), title and subtitle must be legible against the background\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/23155193-4d52-4c30-b8d0-bcda0fcc0fb1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide for an automotive brand launch campaign.\\n\\nStyle/medium: needs a cinematic, high-impact visual aesthetic with a translucent/luminous quality — exact stylistic execution is yours\\nComposition: must be a wide-format cover slide layout with title and subtitle prominently placed\\nSubject: must include the car model \\\"长安起源Q06\\\" as the hero subject\\nScene/backdrop: needs a dramatic, immersive backdrop that feels expansive and brand-premium — exact environment is yours\\nLighting/mood: needs a visually stunning, awe-inspiring atmosphere with a sense of depth and translucency — exact light source mix is yours\\nColor palette: needs a direction aligned with automotive brand prestige — exact palette and ratios are yours\\nMaterials/textures: needs a sense of glass-like clarity and visual depth in the background treatment — exact surface execution is yours\\nText (verbatim): must include \\\"长安起源Q06\\\" (primary title, large), \\\"9月上市\\\" (subtitle, secondary)\\nConstraints: must preserve PPT cover proportions (16:9 widescreen), title and subtitle must be legible against the background\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8300
+}

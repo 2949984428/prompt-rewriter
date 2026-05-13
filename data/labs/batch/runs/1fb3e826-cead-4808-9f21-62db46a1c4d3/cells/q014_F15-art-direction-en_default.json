@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original UI design system showcase illustration featuring a web Dashboard, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\nComposition: must include multiple UI asset types arranged in a layered, hierarchical layout — web Dashboard, mobile interface, cards, buttons, and controls all visible\nSubject: must include:\n  - Web Dashboard panel\n  - Mobile interface screen\n  - Card components\n  - Button components\n  - UI controls / widgets\nScene/backdrop: needs a deep tech-atmosphere backdrop — exact environment treatment is yours\nLighting/mood: needs a visually striking, high-impact tech atmosphere with strong depth and layering — exact light source mix is yours\nColor palette: needs a cool-toned tech direction — exact palette and accent ratios are yours\nMaterials/textures: needs a sleek, high-gloss surface treatment with strong visual hierarchy — exact finish and depth is yours\nText (verbatim): \nConstraints: must preserve all five UI asset categories; visual hierarchy and depth layers must be clearly readable\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8e0d716f-4768-4016-bd8f-16b3cdefbad6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original UI design system showcase illustration featuring a web Dashboard, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\\nComposition: must include multiple UI asset types arranged in a layered, hierarchical layout — web Dashboard, mobile interface, cards, buttons, and controls all visible\\nSubject: must include:\\n  - Web Dashboard panel\\n  - Mobile interface screen\\n  - Card components\\n  - Button components\\n  - UI controls / widgets\\nScene/backdrop: needs a deep tech-atmosphere backdrop — exact environment treatment is yours\\nLighting/mood: needs a visually striking, high-impact tech atmosphere with strong depth and layering — exact light source mix is yours\\nColor palette: needs a cool-toned tech direction — exact palette and accent ratios are yours\\nMaterials/textures: needs a sleek, high-gloss surface treatment with strong visual hierarchy — exact finish and depth is yours\\nText (verbatim): \\nConstraints: must preserve all five UI asset categories; visual hierarchy and depth layers must be clearly readable\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9655
+}

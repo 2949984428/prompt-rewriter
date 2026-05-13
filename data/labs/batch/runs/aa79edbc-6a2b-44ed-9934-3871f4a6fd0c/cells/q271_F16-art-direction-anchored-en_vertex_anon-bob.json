@@ -1,0 +1,23 @@
+{
+  "query_idx": 271,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张宝可梦卡牌系列海报，用作线下活动。\n\n风格/媒介:视觉冲击力强的活动海报\n构图:4:3 横向构图，画面饱满有张力\n主体:宝可梦卡牌系列主题元素\n场景/背景:\n光线/氛围:充满活力、适合线下活动推广的氛围\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:用于线下活动宣传\n避免:",
+    "size": "1536x1152",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3a33c67d-f15c-42b6-a6e1-aa8a9ae4ac9b/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张宝可梦卡牌系列海报，用作线下活动。\\n\\n风格/媒介:视觉冲击力强的活动海报\\n构图:4:3 横向构图，画面饱满有张力\\n主体:宝可梦卡牌系列主题元素\\n场景/背景:\\n光线/氛围:充满活力、适合线下活动推广的氛围\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:用于线下活动宣传\\n避免:\", \"size\": \"1536x1152\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5052,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

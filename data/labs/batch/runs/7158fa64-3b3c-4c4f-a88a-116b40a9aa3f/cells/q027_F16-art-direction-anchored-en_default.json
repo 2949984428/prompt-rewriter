@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a panoramic scroll illustration of the Tang Dynasty Chang'an Lantern Festival.\n\nStyle/medium: must be 工笔重彩长卷 — references in the spirit of 唐代壁画 tomb painting tradition, 张萱/周昉 court figure painting heritage, 清明上河图 scroll narrative structure; exact stylistic execution is yours\nComposition: must be a horizontal scroll format capturing the panoramic cityscape\nSubject: must include thousands of lanterns illuminating the night sky, the lantern festival atmosphere of 唐代长安城\nScene/backdrop: must include the cityscape of 唐代长安城 at night during the Lantern Festival\nLighting/mood: needs a luminous night festival atmosphere with lantern glow — exact light distribution is yours\nColor palette: must be rich and saturated as per 工笔重彩 tradition\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eec1fcdf-d4af-473c-afd6-370e03be9b7b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a panoramic scroll illustration of the Tang Dynasty Chang'an Lantern Festival.\\n\\nStyle/medium: must be 工笔重彩长卷 — references in the spirit of 唐代壁画 tomb painting tradition, 张萱/周昉 court figure painting heritage, 清明上河图 scroll narrative structure; exact stylistic execution is yours\\nComposition: must be a horizontal scroll format capturing the panoramic cityscape\\nSubject: must include thousands of lanterns illuminating the night sky, the lantern festival atmosphere of 唐代长安城\\nScene/backdrop: must include the cityscape of 唐代长安城 at night during the Lantern Festival\\nLighting/mood: needs a luminous night festival atmosphere with lantern glow — exact light distribution is yours\\nColor palette: must be rich and saturated as per 工笔重彩 tradition\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10427
+}

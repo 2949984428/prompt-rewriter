@@ -1,0 +1,23 @@
+{
+  "query_idx": 116,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张产品展示台电商图。\n\n风格/媒介:简约风格，电商产品图\n构图:产品置于展示台上，画面简洁，留有足够空间突出产品\n主体:用户上传的产品（图片 #1）\n场景/背景:简约展示台，背景干净\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  使用图片 #1 中的产品\n  符合天猫平台电商图要求（主体清晰、背景简洁、无过度装饰）\n避免:杂乱背景、过多装饰元素",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Abcec976f-b8d0-4e8d-812a-e778b4954280/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张产品展示台电商图。\\n\\n风格/媒介:简约风格，电商产品图\\n构图:产品置于展示台上，画面简洁，留有足够空间突出产品\\n主体:用户上传的产品（图片 #1）\\n场景/背景:简约展示台，背景干净\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  使用图片 #1 中的产品\\n  符合天猫平台电商图要求（主体清晰、背景简洁、无过度装饰）\\n避免:杂乱背景、过多装饰元素\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8148,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

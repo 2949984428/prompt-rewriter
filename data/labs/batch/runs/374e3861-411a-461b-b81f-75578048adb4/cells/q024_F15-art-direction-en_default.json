@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an illustration of a cozy cat daily scene.\n\nStyle/medium: needs a \"治愈系\" (healing/wholesome) aesthetic — exact stylistic execution is yours\nComposition: must include the cat resting on a windowsill as the focal point, window framing the outdoor view\nSubject: must include an orange tabby cat (one), fluffy fur texture\nScene/backdrop: must include a snowy winter street view outside the window, warm indoor setting inside\nLighting/mood: needs a warm, cozy atmosphere with soft sunlight — exact light source mix is yours\nColor palette: needs a warm-cool contrast direction (warm interior vs. cool winter exterior) — exact hex values are yours\nMaterials/textures: must include fluffy/furry surface treatment — exact softness level is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7e93a94a-64d3-4f2e-a7f3-d26726028480/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an illustration of a cozy cat daily scene.\\n\\nStyle/medium: needs a \\\"治愈系\\\" (healing/wholesome) aesthetic — exact stylistic execution is yours\\nComposition: must include the cat resting on a windowsill as the focal point, window framing the outdoor view\\nSubject: must include an orange tabby cat (one), fluffy fur texture\\nScene/backdrop: must include a snowy winter street view outside the window, warm indoor setting inside\\nLighting/mood: needs a warm, cozy atmosphere with soft sunlight — exact light source mix is yours\\nColor palette: needs a warm-cool contrast direction (warm interior vs. cool winter exterior) — exact hex values are yours\\nMaterials/textures: must include fluffy/furry surface treatment — exact softness level is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14484
+}

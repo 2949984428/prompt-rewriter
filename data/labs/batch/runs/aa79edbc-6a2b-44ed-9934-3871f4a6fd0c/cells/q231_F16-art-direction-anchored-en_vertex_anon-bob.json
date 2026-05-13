@@ -1,0 +1,23 @@
+{
+  "query_idx": 231,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Instagram 用正方形产品海报。\n\n风格/媒介:涂鸦手绘风\n构图:活泼有活力的背景构图，卖点文字与产品主体合理排布\n主体:挪威三文鱼冻干产品，画面元素参考上传的三文鱼参考图\n场景/背景:活泼有活力的手绘涂鸦背景\n光线/氛围:活泼、有活力\n色彩方案:\n材质/纹理:手绘涂鸦质感\n文字(原样):挪威三文魚凍乾　買三送一\n约束:\n  1:1 正方形构图，适用于 Instagram\n  文字内容须包含「挪威三文魚凍乾」与「買三送一」卖点\n  整体视觉风格、产品形态与色彩参考 @image:#1:三文魚 20.04\n避免:写实摄影风格；过于沉闷或低饱和的配色",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A475b24eb-b0ab-4452-aa18-64a832c66ed7/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Instagram 用正方形产品海报。\\n\\n风格/媒介:涂鸦手绘风\\n构图:活泼有活力的背景构图，卖点文字与产品主体合理排布\\n主体:挪威三文鱼冻干产品，画面元素参考上传的三文鱼参考图\\n场景/背景:活泼有活力的手绘涂鸦背景\\n光线/氛围:活泼、有活力\\n色彩方案:\\n材质/纹理:手绘涂鸦质感\\n文字(原样):挪威三文魚凍乾　買三送一\\n约束:\\n  1:1 正方形构图，适用于 Instagram\\n  文字内容须包含「挪威三文魚凍乾」与「買三送一」卖点\\n  整体视觉风格、产品形态与色彩参考 @image:#1:三文魚 20.04\\n避免:写实摄影风格；过于沉闷或低饱和的配色\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7908,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

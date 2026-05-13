@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a fictional social media screenshot mockup of a TikTok (抖音) live stream featuring a young woman resembling a \"fairy sister\" (神仙姐姐) style celebrity.\n\nStyle/medium: needs a realistic mobile screenshot aesthetic — exact UI detail execution is yours\nComposition: must be 9:16 vertical, full-screen TikTok live stream interface with typical live stream UI overlays (viewer count, comments, gift animations, username bar)\nSubject: must include a young woman with an ethereal, fairy-like appearance holding up a handwritten or printed sign with both hands\nScene/backdrop: needs a live stream room atmosphere — exact background decor is yours\nLighting/mood: needs a soft, flattering live stream lighting atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign held by the subject; must include typical 抖音 live stream UI text elements (e.g. 直播中, viewer count placeholder)\nConstraints: must preserve the 9:16 aspect ratio; sign text must be clearly legible; TikTok/抖音 live stream UI layout must be recognizable\nAvoid: must avoid any real celebrity likeness; must avoid blurry or illegible sign text",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/72ba0ef9-f663-4265-b269-78bda6361710/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a fictional social media screenshot mockup of a TikTok (抖音) live stream featuring a young woman resembling a \\\"fairy sister\\\" (神仙姐姐) style celebrity.\\n\\nStyle/medium: needs a realistic mobile screenshot aesthetic — exact UI detail execution is yours\\nComposition: must be 9:16 vertical, full-screen TikTok live stream interface with typical live stream UI overlays (viewer count, comments, gift animations, username bar)\\nSubject: must include a young woman with an ethereal, fairy-like appearance holding up a handwritten or printed sign with both hands\\nScene/backdrop: needs a live stream room atmosphere — exact background decor is yours\\nLighting/mood: needs a soft, flattering live stream lighting atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign held by the subject; must include typical 抖音 live stream UI text elements (e.g. 直播中, viewer count placeholder)\\nConstraints: must preserve the 9:16 aspect ratio; sign text must be clearly legible; TikTok/抖音 live stream UI layout must be recognizable\\nAvoid: must avoid any real celebrity likeness; must avoid blurry or illegible sign text\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8278
+}

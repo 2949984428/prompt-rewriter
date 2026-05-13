@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a children's picture book illustration of a forest scene with cute animals holding a concert.\n\nStyle/medium: needs a children's picture book aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include a rabbit playing cello, a squirrel playing flute, and other cute animals (multiple)\nScene/backdrop: must include a fairytale mushroom house and rainbow in the background\nLighting/mood: needs a cheerful, whimsical atmosphere — exact light source mix is yours\nColor palette: needs bright, vibrant, playful colors — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/432a5fe0-5730-4e1b-b337-940f6c9aac44/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a children's picture book illustration of a forest scene with cute animals holding a concert.\\n\\nStyle/medium: needs a children's picture book aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include a rabbit playing cello, a squirrel playing flute, and other cute animals (multiple)\\nScene/backdrop: must include a fairytale mushroom house and rainbow in the background\\nLighting/mood: needs a cheerful, whimsical atmosphere — exact light source mix is yours\\nColor palette: needs bright, vibrant, playful colors — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8324
+}

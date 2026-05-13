@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: fantasy-illustration\nAsset type: epic fantasy battle scene, wide cinematic composition\nPrimary request: a dragon breathing fire locked in combat with a knight charging with a shield, set against a burning castle and lightning-filled sky\nScene/backdrop: medieval castle engulfed in flames, stormy sky with dramatic lightning strikes, ash and embers in the air\nSubject: a massive dragon exhaling a torrent of fire toward a heavily armored knight; knight in full plate armor charging forward with a large shield raised, dynamic forward momentum\nStyle/medium: fantasy digital illustration, painterly epic style\nComposition/framing: wide-angle dynamic composition, low-angle perspective emphasizing scale, strong diagonal lines conveying motion and tension\nLighting/mood: dramatic mixed lighting — fierce orange fire glow from dragon breath and burning castle, cold blue-white lightning flashes, high contrast, epic and intense atmosphere\nColor palette: deep crimson and orange fire tones, stormy dark blue-grey sky, silver armor highlights, charred black ruins\nMaterials/textures: scaled dragon hide with iridescent sheen, battle-worn plate armor with dents and scratches, stone castle walls crumbling in flames\nConstraints: dragon and knight must both be clearly visible and in active combat poses; fire breath must connect the two figures dramatically\nAvoid: static poses, cartoonish proportions, flat lighting, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6037c566-a738-477a-8a7e-4cad2c634da6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: fantasy-illustration\\nAsset type: epic fantasy battle scene, wide cinematic composition\\nPrimary request: a dragon breathing fire locked in combat with a knight charging with a shield, set against a burning castle and lightning-filled sky\\nScene/backdrop: medieval castle engulfed in flames, stormy sky with dramatic lightning strikes, ash and embers in the air\\nSubject: a massive dragon exhaling a torrent of fire toward a heavily armored knight; knight in full plate armor charging forward with a large shield raised, dynamic forward momentum\\nStyle/medium: fantasy digital illustration, painterly epic style\\nComposition/framing: wide-angle dynamic composition, low-angle perspective emphasizing scale, strong diagonal lines conveying motion and tension\\nLighting/mood: dramatic mixed lighting — fierce orange fire glow from dragon breath and burning castle, cold blue-white lightning flashes, high contrast, epic and intense atmosphere\\nColor palette: deep crimson and orange fire tones, stormy dark blue-grey sky, silver armor highlights, charred black ruins\\nMaterials/textures: scaled dragon hide with iridescent sheen, battle-worn plate armor with dents and scratches, stone castle walls crumbling in flames\\nConstraints: dragon and knight must both be clearly visible and in active combat poses; fire breath must connect the two figures dramatically\\nAvoid: static poses, cartoonish proportions, flat lighting, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15669
+}

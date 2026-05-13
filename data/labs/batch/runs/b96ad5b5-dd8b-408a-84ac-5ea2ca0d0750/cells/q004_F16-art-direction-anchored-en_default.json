@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a PPT cover slide for the \"长安起源Q06\" vehicle launch announcement (all in-image text in Chinese).\n\nStyle/medium: needs a \"通透震撼\" aesthetic with automotive premium brand tone — references in the spirit of Polestar minimalist product photography, Audi e-tron launch campaign visual language, Chinese EV brand NIO's clean tech aesthetic; exact stylistic execution is yours\nComposition: must include prominent title and subtitle placement for PPT cover format\nSubject: must include \"长安起源Q06\" as the primary subject\nScene/backdrop: needs an open, immersive backdrop — exact environment is yours\nLighting/mood: needs a premium, aspirational atmosphere — exact light treatment is yours\nColor palette: needs a direction that aligns with automotive premium brand identity — exact values are yours\nMaterials/textures: \nText (verbatim): must include \"长安起源Q06将于9月上市\" (title), with supporting subtitle placement\nConstraints: must include all in-image text in Chinese by default; must preserve \"长安起源Q06\" brand name and \"9月上市\" launch timing\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e1f00550-fd64-4566-8825-ec68f0c7e631/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a PPT cover slide for the \\\"长安起源Q06\\\" vehicle launch announcement (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"通透震撼\\\" aesthetic with automotive premium brand tone — references in the spirit of Polestar minimalist product photography, Audi e-tron launch campaign visual language, Chinese EV brand NIO's clean tech aesthetic; exact stylistic execution is yours\\nComposition: must include prominent title and subtitle placement for PPT cover format\\nSubject: must include \\\"长安起源Q06\\\" as the primary subject\\nScene/backdrop: needs an open, immersive backdrop — exact environment is yours\\nLighting/mood: needs a premium, aspirational atmosphere — exact light treatment is yours\\nColor palette: needs a direction that aligns with automotive premium brand identity — exact values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"长安起源Q06将于9月上市\\\" (title), with supporting subtitle placement\\nConstraints: must include all in-image text in Chinese by default; must preserve \\\"长安起源Q06\\\" brand name and \\\"9月上市\\\" launch timing\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12245
+}

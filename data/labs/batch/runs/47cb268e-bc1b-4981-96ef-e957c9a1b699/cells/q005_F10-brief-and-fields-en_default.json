@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic explaining the definitions of and relationships among AI concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI.\n\nStyle/medium: hand-drawn illustration style, sketch-like linework with loose ink strokes, educational explainer infographic in the spirit of sketchnote / visual thinking\nComposition: vertical layout with each concept in its own labeled node or bubble, connected by annotated arrows showing relationships, balanced use of whitespace between sections\nSubject: seven interconnected concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — each with a short definition label and a small illustrative icon or doodle\nScene/backdrop: clean off-white paper-texture background, no photographic environment\nLighting/mood: flat, bright, approachable and friendly; no shadows or dramatic lighting\nColor palette: warm off-white base with 4–5 accent colors (e.g. teal, coral, amber, soft purple) used consistently per concept node to aid visual separation\nMaterials/textures: hand-drawn ink line texture, subtle paper grain, occasional hatching for depth\nText (verbatim): \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: all seven concept labels must be legible at thumbnail size; relationship arrows must be annotated with brief connector phrases; definitions must be readable short phrases, not full paragraphs\nAvoid: photorealistic rendering, 3D effects, corporate slide aesthetic, clipart icons, overly dense text blocks, generic Behance flat-design style",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/983fbfba-e10d-4544-bd54-75a9c317aebf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an infographic explaining the definitions of and relationships among AI concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI.\\n\\nStyle/medium: hand-drawn illustration style, sketch-like linework with loose ink strokes, educational explainer infographic in the spirit of sketchnote / visual thinking\\nComposition: vertical layout with each concept in its own labeled node or bubble, connected by annotated arrows showing relationships, balanced use of whitespace between sections\\nSubject: seven interconnected concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — each with a short definition label and a small illustrative icon or doodle\\nScene/backdrop: clean off-white paper-texture background, no photographic environment\\nLighting/mood: flat, bright, approachable and friendly; no shadows or dramatic lighting\\nColor palette: warm off-white base with 4–5 accent colors (e.g. teal, coral, amber, soft purple) used consistently per concept node to aid visual separation\\nMaterials/textures: hand-drawn ink line texture, subtle paper grain, occasional hatching for depth\\nText (verbatim): \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: all seven concept labels must be legible at thumbnail size; relationship arrows must be annotated with brief connector phrases; definitions must be readable short phrases, not full paragraphs\\nAvoid: photorealistic rendering, 3D effects, corporate slide aesthetic, clipart icons, overly dense text blocks, generic Behance flat-design style\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12864
+}

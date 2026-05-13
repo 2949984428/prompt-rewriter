@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: digital illustration\nAsset type: fantasy illustration, epic scene\nPrimary request: deep-sea fantasy world with ancient underwater ruins and bioluminescent creatures\nScene/backdrop: ancient civilization ruins at thousands of meters deep ocean floor, massive stone columns and arches covered in coral and sea anemones, ruins scattered across the seabed\nSubject: mermaid princess in ancient attire inspecting a mysterious rune-carved stone tablet at center, giant jellyfish emitting blue-purple glow, transparent deep-sea fish with self-luminous organs, giant octopus tentacles reaching from darkness in the distance\nStyle/medium: digital painting, highly detailed fantasy art\nComposition/framing: wide establishing shot, layered depth from foreground ruins to distant darkness\nLighting/mood: bioluminescent glow creating ethereal atmosphere, mysterious and dreamlike\nColor palette: deep blue-black base with bioluminescent accents of cyan-green, purple, and golden light points\nMaterials/textures: weathered ancient stone with coral overgrowth, translucent jellyfish bells, iridescent fish scales\nConstraints: maintain the mermaid princess as focal point, preserve the ancient rune tablet detail, ensure bioluminescent creatures are clearly visible\nAvoid: flat lighting, oversaturated colors, cartoonish proportions, cluttered composition without focal point",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ed87d835-35cc-455b-a18b-5b074417f6bd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: digital illustration\\nAsset type: fantasy illustration, epic scene\\nPrimary request: deep-sea fantasy world with ancient underwater ruins and bioluminescent creatures\\nScene/backdrop: ancient civilization ruins at thousands of meters deep ocean floor, massive stone columns and arches covered in coral and sea anemones, ruins scattered across the seabed\\nSubject: mermaid princess in ancient attire inspecting a mysterious rune-carved stone tablet at center, giant jellyfish emitting blue-purple glow, transparent deep-sea fish with self-luminous organs, giant octopus tentacles reaching from darkness in the distance\\nStyle/medium: digital painting, highly detailed fantasy art\\nComposition/framing: wide establishing shot, layered depth from foreground ruins to distant darkness\\nLighting/mood: bioluminescent glow creating ethereal atmosphere, mysterious and dreamlike\\nColor palette: deep blue-black base with bioluminescent accents of cyan-green, purple, and golden light points\\nMaterials/textures: weathered ancient stone with coral overgrowth, translucent jellyfish bells, iridescent fish scales\\nConstraints: maintain the mermaid princess as focal point, preserve the ancient rune tablet detail, ensure bioluminescent creatures are clearly visible\\nAvoid: flat lighting, oversaturated colors, cartoonish proportions, cluttered composition without focal point\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15226
+}

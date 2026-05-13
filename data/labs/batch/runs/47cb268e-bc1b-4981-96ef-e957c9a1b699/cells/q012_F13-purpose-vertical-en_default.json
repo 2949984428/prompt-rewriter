@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing WeChat Official Account article cover image for a fragrance new-product launch titled \"染秋 - 秋意染染 时光留香\".\n\nStyle/medium: premium editorial banner, high-end luxury aesthetic\nComposition: centered composition, headline text as the dominant visual anchor\nSubject: fragrance new-product launch \"染秋香氛新品发布\", with the title \"染秋 - 秋意染染 时光留香\" prominently displayed\nScene/backdrop: autumnal atmosphere evoking dyed foliage and lingering fragrance\nLighting/mood: warm, soft, refined — evoking autumn light and sensory elegance\nColor palette: deep amber, burnt sienna, muted gold, and warm ivory tones\nMaterials/textures: smooth paper or fabric texture with subtle depth, no harsh gradients\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title text must be the visual focal point; layout optimized for 900×500 horizontal banner ratio\nAvoid: cluttered layout, generic stock-photo autumn clichés, cold or desaturated tones, overly decorative fonts that reduce legibility",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/14f01f79-6981-438c-9285-6eb4bfa15974/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing WeChat Official Account article cover image for a fragrance new-product launch titled \\\"染秋 - 秋意染染 时光留香\\\".\\n\\nStyle/medium: premium editorial banner, high-end luxury aesthetic\\nComposition: centered composition, headline text as the dominant visual anchor\\nSubject: fragrance new-product launch \\\"染秋香氛新品发布\\\", with the title \\\"染秋 - 秋意染染 时光留香\\\" prominently displayed\\nScene/backdrop: autumnal atmosphere evoking dyed foliage and lingering fragrance\\nLighting/mood: warm, soft, refined — evoking autumn light and sensory elegance\\nColor palette: deep amber, burnt sienna, muted gold, and warm ivory tones\\nMaterials/textures: smooth paper or fabric texture with subtle depth, no harsh gradients\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title text must be the visual focal point; layout optimized for 900×500 horizontal banner ratio\\nAvoid: cluttered layout, generic stock-photo autumn clichés, cold or desaturated tones, overly decorative fonts that reduce legibility\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7604
+}

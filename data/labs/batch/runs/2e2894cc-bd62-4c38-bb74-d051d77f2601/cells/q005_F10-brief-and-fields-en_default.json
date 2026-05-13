@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic explaining technical concepts and their relationships for a tech education context.\n\nStyle/medium: hand-drawn illustration style, sketchy marker and pencil aesthetic, casual whiteboard explainer visual language\nSubject: six interconnected tech concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — arranged as a concept map with simple icons for each term\nComposition: top-down hierarchical layout with AI at the top as the umbrella concept, branching to sub-concepts below, clear visual connectors showing relationships\nScene/backdrop: clean white or light cream paper texture background, minimal distractions\nColor palette: limited palette of 3-4 friendly colors (soft blue, warm orange, muted green) with black ink outlines, color used to group related concepts\nText (verbatim): \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: Chinese characters must be legible at small sizes; icons must be simple line drawings; diagram must work in grayscale\nAvoid: photorealistic rendering; complex 3D effects; excessive decoration; unreadable handwriting fonts; gradient overload",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2b967f96-0314-49e6-9034-94b0484f47c3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing infographic explaining technical concepts and their relationships for a tech education context.\\n\\nStyle/medium: hand-drawn illustration style, sketchy marker and pencil aesthetic, casual whiteboard explainer visual language\\nSubject: six interconnected tech concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — arranged as a concept map with simple icons for each term\\nComposition: top-down hierarchical layout with AI at the top as the umbrella concept, branching to sub-concepts below, clear visual connectors showing relationships\\nScene/backdrop: clean white or light cream paper texture background, minimal distractions\\nColor palette: limited palette of 3-4 friendly colors (soft blue, warm orange, muted green) with black ink outlines, color used to group related concepts\\nText (verbatim): \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: Chinese characters must be legible at small sizes; icons must be simple line drawings; diagram must work in grayscale\\nAvoid: photorealistic rendering; complex 3D effects; excessive decoration; unreadable handwriting fonts; gradient overload\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10770
+}

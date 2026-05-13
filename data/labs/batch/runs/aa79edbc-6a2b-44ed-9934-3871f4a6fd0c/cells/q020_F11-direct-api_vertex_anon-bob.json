@@ -1,0 +1,23 @@
+{
+  "query_idx": 20,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "帮我设计一个企业logo。我的主营业务是冬虫夏草批发",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6490cc4f-685a-480d-9468-6cb976dc0822/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"帮我设计一个企业logo。我的主营业务是冬虫夏草批发\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3107,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

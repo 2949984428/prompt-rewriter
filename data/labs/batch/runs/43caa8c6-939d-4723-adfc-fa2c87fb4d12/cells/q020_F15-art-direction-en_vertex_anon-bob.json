@@ -1,0 +1,21 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing full-screen mobile advertisement screenshot for a flagship smartphone launch campaign.\n\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\nComposition: must be full-screen vertical layout, immersive edge-to-edge\nSubject: must include a flagship smartphone as the hero product, prominently centered\nScene/backdrop: needs a dramatic, visually striking backdrop — exact scene treatment is yours\nLighting/mood: needs a high visual-impact atmosphere with strong brand presence — exact light source mix is yours\nColor palette: needs a bold, premium direction — exact hex values and ratios are yours\nMaterials/textures: needs a sleek, premium surface treatment — exact finish and sheen are yours\nText (verbatim): must include \"OPPO Find X9 Pro\" (large, primary hero text), \"OPPO\" (brand wordmark)\nConstraints: must preserve 1080×1920 portrait aspect ratio; layout must read as a realistic in-app or web-feed full-screen brand ad screenshot\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A42554651-c9e0-45ac-b40f-d301de758c9d/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing full-screen mobile advertisement screenshot for a flagship smartphone launch campaign.\\n\\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\\nComposition: must be full-screen vertical layout, immersive edge-to-edge\\nSubject: must include a flagship smartphone as the hero product, prominently centered\\nScene/backdrop: needs a dramatic, visually striking backdrop — exact scene treatment is yours\\nLighting/mood: needs a high visual-impact atmosphere with strong brand presence — exact light source mix is yours\\nColor palette: needs a bold, premium direction — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek, premium surface treatment — exact finish and sheen are yours\\nText (verbatim): must include \\\"OPPO Find X9 Pro\\\" (large, primary hero text), \\\"OPPO\\\" (brand wordmark)\\nConstraints: must preserve 1080×1920 portrait aspect ratio; layout must read as a realistic in-app or web-feed full-screen brand ad screenshot\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8399
+}

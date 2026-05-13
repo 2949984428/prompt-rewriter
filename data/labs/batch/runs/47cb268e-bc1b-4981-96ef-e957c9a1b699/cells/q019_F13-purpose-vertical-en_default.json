@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing e-commerce promotional poster for UGREEN NAS (绿联私有云) brand 618 anniversary sale campaign.\n\nStyle/medium: e-commerce key visual poster, tech-consumer brand promotional aesthetic\nComposition: vertical poster layout, hero product (NAS device) centered or prominently featured, bold headline zone at top, promotional badge / burst element for 618 anniversary, CTA area at bottom\nSubject: UGREEN NAS private cloud storage device as hero product, 618周年庆 sale event\nScene/backdrop: clean dark or deep-tech gradient background suggesting cloud / data / connectivity\nLighting/mood: vibrant, energetic, festive — tech-launch excitement with sale urgency\nColor palette: UGREEN brand green as primary accent, deep navy or dark background, gold or bright yellow for 618 anniversary highlight\nMaterials/textures: glossy product render, subtle light-ray or particle effects suggesting digital cloud\nText (verbatim): 绿联私有云  618周年庆\nConstraints: product must be clearly legible, brand color green must appear prominently, 618 badge must be visually dominant\nAvoid: generic stock-photo lifestyle scenes, cluttered layout, Western e-commerce style, mismatched colors that conflict with UGREEN green identity",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fd5b6114-f40a-4101-aaf6-deaf2c04751c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing e-commerce promotional poster for UGREEN NAS (绿联私有云) brand 618 anniversary sale campaign.\\n\\nStyle/medium: e-commerce key visual poster, tech-consumer brand promotional aesthetic\\nComposition: vertical poster layout, hero product (NAS device) centered or prominently featured, bold headline zone at top, promotional badge / burst element for 618 anniversary, CTA area at bottom\\nSubject: UGREEN NAS private cloud storage device as hero product, 618周年庆 sale event\\nScene/backdrop: clean dark or deep-tech gradient background suggesting cloud / data / connectivity\\nLighting/mood: vibrant, energetic, festive — tech-launch excitement with sale urgency\\nColor palette: UGREEN brand green as primary accent, deep navy or dark background, gold or bright yellow for 618 anniversary highlight\\nMaterials/textures: glossy product render, subtle light-ray or particle effects suggesting digital cloud\\nText (verbatim): 绿联私有云  618周年庆\\nConstraints: product must be clearly legible, brand color green must appear prominently, 618 badge must be visually dominant\\nAvoid: generic stock-photo lifestyle scenes, cluttered layout, Western e-commerce style, mismatched colors that conflict with UGREEN green identity\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10883
+}

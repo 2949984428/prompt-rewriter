@@ -1,0 +1,23 @@
+{
+  "query_idx": 219,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图，调整为 16:9 比例，适配 YouTube 缩略图。\n\n风格/媒介:\n构图:16:9 横版构图，适配 YouTube 缩略图\n主体:保持原图主体内容不变\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  保留原图所有视觉元素\n  仅调整比例与裁切/扩展以适配 16:9\n避免:",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A738cfe70-8dc7-46df-b21b-dca8be359510/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图，调整为 16:9 比例，适配 YouTube 缩略图。\\n\\n风格/媒介:\\n构图:16:9 横版构图，适配 YouTube 缩略图\\n主体:保持原图主体内容不变\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  保留原图所有视觉元素\\n  仅调整比例与裁切/扩展以适配 16:9\\n避免:\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 6358,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: fine-art gallery piece\nAsset type: abstract expressionist painting, gallery-ready\nPrimary request: bold color collision with flowing brushstrokes, non-representational composition full of emotion and energy\nScene/backdrop: clean gallery wall context, minimal framing\nSubject: purely abstract forms, gestural marks, energetic color fields without recognizable imagery\nStyle/medium: abstract expressionism, acrylic on canvas, gestural painting\nComposition/framing: large-scale canvas format, dynamic asymmetrical balance\nLighting/mood: dramatic gallery lighting highlighting texture and impasto, contemplative and intense atmosphere\nColor palette: vibrant clashing primaries, saturated oranges against deep blues, hot reds meeting cool greens, high chroma contrast\nMaterials/textures: thick impasto, visible brushwork, layered paint drips, canvas weave\nConstraints: maintain pure abstraction with no figurative elements, emphasize emotional intensity through color relationships\nAvoid: recognizable objects, photorealistic rendering, digital smoothness, pastel tones, literal representation",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6a6e41b7-b284-4b88-a286-295e710c9cb5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: fine-art gallery piece\\nAsset type: abstract expressionist painting, gallery-ready\\nPrimary request: bold color collision with flowing brushstrokes, non-representational composition full of emotion and energy\\nScene/backdrop: clean gallery wall context, minimal framing\\nSubject: purely abstract forms, gestural marks, energetic color fields without recognizable imagery\\nStyle/medium: abstract expressionism, acrylic on canvas, gestural painting\\nComposition/framing: large-scale canvas format, dynamic asymmetrical balance\\nLighting/mood: dramatic gallery lighting highlighting texture and impasto, contemplative and intense atmosphere\\nColor palette: vibrant clashing primaries, saturated oranges against deep blues, hot reds meeting cool greens, high chroma contrast\\nMaterials/textures: thick impasto, visible brushwork, layered paint drips, canvas weave\\nConstraints: maintain pure abstraction with no figurative elements, emphasize emotional intensity through color relationships\\nAvoid: recognizable objects, photorealistic rendering, digital smoothness, pastel tones, literal representation\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9172
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 22,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original editorial-style photo of Korean cafe coffee and desserts, with hand-drawn white-pen annotation overlays, styled for Instagram — no people.\n\nStyle/medium: needs a Korean-cafe smartphone-shot aesthetic with hand-drawn white-pen annotation overlay — exact stylistic execution is yours\nComposition: must include hand-drawn white outlines tracing each object's silhouette, arrow/dashed-line sight guides connecting annotations to subjects, and deliberate negative space to avoid overcrowding\nSubject: must include stylish coffee drink(s) and dessert(s) typical of a Korean cafe, no people\nScene/backdrop: must include a Korean cafe setting as context\nLighting/mood: needs a soft, fashionable cafe atmosphere — exact light source mix is yours\nColor palette: needs a muted, trendy Korean-cafe direction — exact tones and ratios are yours\nMaterials/textures: needs a rough, slightly uneven single-stroke white-pen line quality for all annotations — exact line weight is yours\nText (verbatim): must include handwritten Japanese annotations (7割ひらがな・3割かんじ) in diary/monologue tone for each element — verbatim examples per category:\n  飲み物 → taste/temperature/mood (e.g. 「さっぱり」「やさしい甘さ」「ほっとする…」)\n  食べ物 → texture/deliciousness (e.g. 「しっとり」「さいこう」)\n  空間 → atmosphere (e.g. 「落ち着く」「いい時間」)\n  全体 → one-line summary (e.g. 「幸せすぎた〜」)\n  decorative elements: steam wisps ♡ sparkles ✦ small emoticons — used sparingly\nConstraints: must preserve Instagram Stories / rough-magazine-notes finish; annotation lines must look hand-drawn (one-stroke, slightly uneven), not digital-clean; white pen style throughout; no over-decoration — keep breathing room\nAvoid: people or human figures; overly polished digital vector lines; cluttered annotations that fill all negative space",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4c826860-0fac-4974-8751-c866f20397c6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original editorial-style photo of Korean cafe coffee and desserts, with hand-drawn white-pen annotation overlays, styled for Instagram — no people.\\n\\nStyle/medium: needs a Korean-cafe smartphone-shot aesthetic with hand-drawn white-pen annotation overlay — exact stylistic execution is yours\\nComposition: must include hand-drawn white outlines tracing each object's silhouette, arrow/dashed-line sight guides connecting annotations to subjects, and deliberate negative space to avoid overcrowding\\nSubject: must include stylish coffee drink(s) and dessert(s) typical of a Korean cafe, no people\\nScene/backdrop: must include a Korean cafe setting as context\\nLighting/mood: needs a soft, fashionable cafe atmosphere — exact light source mix is yours\\nColor palette: needs a muted, trendy Korean-cafe direction — exact tones and ratios are yours\\nMaterials/textures: needs a rough, slightly uneven single-stroke white-pen line quality for all annotations — exact line weight is yours\\nText (verbatim): must include handwritten Japanese annotations (7割ひらがな・3割かんじ) in diary/monologue tone for each element — verbatim examples per category:\\n  飲み物 → taste/temperature/mood (e.g. 「さっぱり」「やさしい甘さ」「ほっとする…」)\\n  食べ物 → texture/deliciousness (e.g. 「しっとり」「さいこう」)\\n  空間 → atmosphere (e.g. 「落ち着く」「いい時間」)\\n  全体 → one-line summary (e.g. 「幸せすぎた〜」)\\n  decorative elements: steam wisps ♡ sparkles ✦ small emoticons — used sparingly\\nConstraints: must preserve Instagram Stories / rough-magazine-notes finish; annotation lines must look hand-drawn (one-stroke, slightly uneven), not digital-clean; white pen style throughout; no over-decoration — keep breathing room\\nAvoid: people or human figures; overly polished digital vector lines; cluttered annotations that fill all negative space\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 16146
+}

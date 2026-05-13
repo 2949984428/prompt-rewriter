@@ -1,0 +1,23 @@
+{
+  "query_idx": 0,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个 Logo —— 包含字母 TJTC。\n\n风格/媒介:简洁扁平化 logo 设计\n构图:视觉效果好，字母排列均衡\n主体:字母 TJTC 组成的 logo\n场景/背景:透明或纯色背景\n光线/氛围:\n色彩方案:蓝色或红色为主，最多使用奥运五色（蓝、黄、黑、绿、红）\n材质/纹理:扁平化，无渐变无阴影\n文字(原样):TJTC\n约束:最多五色，保持简洁\n避免:复杂装饰、写实纹理、渐变、阴影",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3c8a4ad6-ba6a-44bb-bc97-b36e3da55cf6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个 Logo —— 包含字母 TJTC。\\n\\n风格/媒介:简洁扁平化 logo 设计\\n构图:视觉效果好，字母排列均衡\\n主体:字母 TJTC 组成的 logo\\n场景/背景:透明或纯色背景\\n光线/氛围:\\n色彩方案:蓝色或红色为主，最多使用奥运五色（蓝、黄、黑、绿、红）\\n材质/纹理:扁平化，无渐变无阴影\\n文字(原样):TJTC\\n约束:最多五色，保持简洁\\n避免:复杂装饰、写实纹理、渐变、阴影\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7059,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

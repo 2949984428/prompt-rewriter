@@ -1,0 +1,19 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign.\n\nStyle/medium: needs a complex-yet-structured commercial poster aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include layered typography with product/hero subject physically overlapping and partially obscuring the stacked letterforms\nSubject: must include a product or hero subject as the focal element, positioned to overlap the text layers\nScene/backdrop: \nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs a bold, eye-catching commercial direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include decorative art-lettering and stacked typographic layers as core design elements (exact copy is yours)\nConstraints: must preserve: (1) artistic/display lettering present, (2) stacked font layering visible, (3) composition is visually rich but not chaotic, (4) product/subject overlaps and occludes portions of the type\nAvoid: flat or sparse layouts; cluttered illegible chaos",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit https://aka.ms/aoaicodeofconduct\",\"error_code\":\"API_CALL_ERROR\",\"provider_error_code\":\"Forbidden\",\"http_status_code\":403,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign.\\n\\nStyle/medium: needs a complex-yet-structured commercial poster aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include layered typography with product/hero subject physically overlapping and partially obscuring the stacked letterforms\\nSubject: must include a product or hero subject as the focal element, positioned to overlap the text layers\\nScene/backdrop: \\nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs a bold, eye-catching commercial direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include decorative art-lettering and stacked typographic layers as core design elements (exact copy is yours)\\nConstraints: must preserve: (1) artistic/display lettering present, (2) stacked font layering visible, (3) composition is visually rich but not chaotic, (4) product/subject overlaps and occludes portions of the type\\nAvoid: flat or sparse layouts; cluttered illegible chaos\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7897
+}

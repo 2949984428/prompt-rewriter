@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "水彩插画风格：欧洲小镇的普罗旺斯薰衣草田园风光。在法国南部的一个宁静小镇郊外，大片紫色薰衣草田延伸至远方的山丘。田间有一条蜿蜒的碎石小路，路旁是高大的柏树排列成行。远处山坡上有一座石砌的古老磨坊，橙色屋顶在阳光下格外醒目。天空是明媚的蔚蓝色，点缀着几朵蓬松的白云。画面前景有一位戴着草帽的老农正在薰衣草田间劳作，旁边停着一辆装满薰衣草束的木质手推车。整体采用透明水彩技法，色彩通透明亮，笔触轻盈，紫色、蓝色、绿色和橙色形成和谐的色彩搭配，充满法式田园生活的浪漫气息，插画风格温馨治愈。",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a009b41f-68e3-4ba3-9a99-fcad062f35d5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

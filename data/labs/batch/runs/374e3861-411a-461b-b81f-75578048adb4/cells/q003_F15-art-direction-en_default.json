@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design illustration of a minimalist Nordic living room scene.\n\nStyle/medium: needs a minimalist Nordic aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include a grey fabric sofa, green plants, and a floor lamp\nScene/backdrop: must include white walls, light wood flooring, and large windows with sunlight streaming in\nLighting/mood: needs a bright, warm, and cozy atmosphere — exact light source mix is yours\nColor palette: needs a clean and bright direction — exact values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1d8d99c5-e3e4-41ea-a3e2-a6f4afbc9025/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an interior design illustration of a minimalist Nordic living room scene.\\n\\nStyle/medium: needs a minimalist Nordic aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include a grey fabric sofa, green plants, and a floor lamp\\nScene/backdrop: must include white walls, light wood flooring, and large windows with sunlight streaming in\\nLighting/mood: needs a bright, warm, and cozy atmosphere — exact light source mix is yours\\nColor palette: needs a clean and bright direction — exact values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8661
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster / PPT cover slide for a domestic China roadshow fundraising event announcing \"GPT5.5发布\".\n\nStyle/medium: corporate roadshow PPT cover, China domestic investor presentation style\nComposition: \nSubject: keynote speaker 奥特曼 (Sam Altman), GPT5.5 launch announcement\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \"GPT5.5发布\"、\"演讲人：奥特曼\"\nConstraints: must match China domestic GP/LP roadshow aesthetics — formal, authoritative, investor-facing tone\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a297176d-cfaa-4a1d-9293-2081bb8db242/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster / PPT cover slide for a domestic China roadshow fundraising event announcing \\\"GPT5.5发布\\\".\\n\\nStyle/medium: corporate roadshow PPT cover, China domestic investor presentation style\\nComposition: \\nSubject: keynote speaker 奥特曼 (Sam Altman), GPT5.5 launch announcement\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"GPT5.5发布\\\"、\\\"演讲人：奥特曼\\\"\\nConstraints: must match China domestic GP/LP roadshow aesthetics — formal, authoritative, investor-facing tone\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5248
+}

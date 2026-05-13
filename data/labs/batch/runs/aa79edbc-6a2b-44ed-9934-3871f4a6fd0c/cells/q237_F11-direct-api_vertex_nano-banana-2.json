@@ -1,0 +1,23 @@
+{
+  "query_idx": 237,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "劳动节海报，加logo[@image:#1:image]，logo放在图顶部居中 标题：鹿得陪你抵达每一个诗和远方（艺术字）设计：背景是山水风景，心电图线条勾勒一下山峰的外边缘，发布于于微信朋友圈",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4b7d9bb4-2ee9-49f1-80b3-fd13263fdcb8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"劳动节海报，加logo[@image:#1:image]，logo放在图顶部居中 标题：鹿得陪你抵达每一个诗和远方（艺术字）设计：背景是山水风景，心电图线条勾勒一下山峰的外边缘，发布于于微信朋友圈\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2906,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

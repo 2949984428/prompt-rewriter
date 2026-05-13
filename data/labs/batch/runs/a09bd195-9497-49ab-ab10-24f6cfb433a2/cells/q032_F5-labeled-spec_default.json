@@ -1,0 +1,20 @@
+{
+  "query_idx": 32,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: surrealist-art\nAsset type: fine art print, conceptual illustration\nPrimary request: dreamscape with giant moon rising from ocean, flying whales, melting clocks, and stairway leading into clouds, full of philosophical depth and visual impact\nScene/backdrop: vast night ocean meeting infinite sky, celestial void, ethereal cloud formations\nSubject: colossal luminous moon emerging from dark waters, majestic whales swimming through air, Salvador Dalí-style melting pocket watches draped over floating objects, impossible Escher-like staircase ascending into misty clouds\nStyle/medium: surrealist painting, dreamlike illustration, mixed with photorealistic elements\nComposition/framing: wide panoramic view, multiple focal points creating visual journey from sea to sky\nLighting/mood: dramatic chiaroscuro, moonlight casting long shadows, mysterious and contemplative atmosphere\nColor palette: deep indigo and midnight blue ocean, silver and pale gold moonlight, warm amber from melting clocks, soft violet and cream clouds\nMaterials/textures: smooth reflective water surface, luminous moon with crater details, fluid melting metal of clocks, soft billowing cloud textures\nConstraints: maintain surrealist logic where impossible elements feel naturally integrated, keep philosophical mood without being literal\nAvoid: cartoonish rendering, cluttered composition, literal interpretation of dream symbols, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fb2a90f8-a0e4-4f84-babd-dc240f9bd5a9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: surrealist-art\\nAsset type: fine art print, conceptual illustration\\nPrimary request: dreamscape with giant moon rising from ocean, flying whales, melting clocks, and stairway leading into clouds, full of philosophical depth and visual impact\\nScene/backdrop: vast night ocean meeting infinite sky, celestial void, ethereal cloud formations\\nSubject: colossal luminous moon emerging from dark waters, majestic whales swimming through air, Salvador Dalí-style melting pocket watches draped over floating objects, impossible Escher-like staircase ascending into misty clouds\\nStyle/medium: surrealist painting, dreamlike illustration, mixed with photorealistic elements\\nComposition/framing: wide panoramic view, multiple focal points creating visual journey from sea to sky\\nLighting/mood: dramatic chiaroscuro, moonlight casting long shadows, mysterious and contemplative atmosphere\\nColor palette: deep indigo and midnight blue ocean, silver and pale gold moonlight, warm amber from melting clocks, soft violet and cream clouds\\nMaterials/textures: smooth reflective water surface, luminous moon with crater details, fluid melting metal of clocks, soft billowing cloud textures\\nConstraints: maintain surrealist logic where impossible elements feel naturally integrated, keep philosophical mood without being literal\\nAvoid: cartoonish rendering, cluttered composition, literal interpretation of dream symbols, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13600
+}

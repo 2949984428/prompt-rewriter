@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster (short-video vertical cover) for \"8k GGU 电竞显示器 1000hz\", a gaming monitor product launch.\n\nStyle/medium: minimalist high-end flat design, clean typographic hierarchy, inspired by Apple product launch key visuals\nComposition: rule-of-thirds vertical layout — bold headline occupies upper third, product visual anchors center third, tagline sits in lower third; 9:16 aspect ratio\nSubject: gaming monitor with ultra-thin bezels, glowing screen emitting vivid color, positioned as hero product; oversized bold headline text as primary visual anchor\nScene/backdrop: deep matte black background with subtle dark gradient, no clutter\nLighting/mood: single cool-blue rim light on monitor edges, soft ambient glow from screen surface, high-tech and premium mood\nColor palette: deep black as dominant base, electric blue and white as accent hierarchy, minimal use of vivid color to keep premium restraint\nText (verbatim): \"8k GGU 电竞显示器 1000hz\" as main headline (oversized, bold, eye-catching); \"全球首发全新面板 低延迟 完美色彩\" as subtitle\nConstraints: headline must be the largest typographic element on the canvas; layout must hold visual clarity as a mobile thumbnail at small sizes; no more than three type sizes on screen\nAvoid: busy backgrounds, lens flares as filler, gradient rainbow overload, generic gaming RGB cliché, cluttered layout, drop shadows on text",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/34ec7776-cdc1-4776-8d5c-31a47df9a76d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster (short-video vertical cover) for \\\"8k GGU 电竞显示器 1000hz\\\", a gaming monitor product launch.\\n\\nStyle/medium: minimalist high-end flat design, clean typographic hierarchy, inspired by Apple product launch key visuals\\nComposition: rule-of-thirds vertical layout — bold headline occupies upper third, product visual anchors center third, tagline sits in lower third; 9:16 aspect ratio\\nSubject: gaming monitor with ultra-thin bezels, glowing screen emitting vivid color, positioned as hero product; oversized bold headline text as primary visual anchor\\nScene/backdrop: deep matte black background with subtle dark gradient, no clutter\\nLighting/mood: single cool-blue rim light on monitor edges, soft ambient glow from screen surface, high-tech and premium mood\\nColor palette: deep black as dominant base, electric blue and white as accent hierarchy, minimal use of vivid color to keep premium restraint\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\" as main headline (oversized, bold, eye-catching); \\\"全球首发全新面板 低延迟 完美色彩\\\" as subtitle\\nConstraints: headline must be the largest typographic element on the canvas; layout must hold visual clarity as a mobile thumbnail at small sizes; no more than three type sizes on screen\\nAvoid: busy backgrounds, lens flares as filler, gradient rainbow overload, generic gaming RGB cliché, cluttered layout, drop shadows on text\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12410
+}

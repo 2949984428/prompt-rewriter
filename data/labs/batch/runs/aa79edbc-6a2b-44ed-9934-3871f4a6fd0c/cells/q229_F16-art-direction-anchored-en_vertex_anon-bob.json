@@ -1,0 +1,23 @@
+{
+  "query_idx": 229,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（花漾春日春种酵醒）。\n\n风格/媒介:\n构图:\n  在画面合适位置叠加文字\n  保持原图整体构图不变\n主体:原图内容保持不变\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):鲁B山东大葱包×香葱种子种一株香葱，春日食光更有滋味\n约束:\n  小红书竖版比例\n  图片内容、色彩、构图均保持不变\n  文字放置于画面视觉合适位置，不遮挡核心主体\n避免:改动原图任何内容",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab514f834-0222-47a7-b964-c986d9e6901b/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（花漾春日春种酵醒）。\\n\\n风格/媒介:\\n构图:\\n  在画面合适位置叠加文字\\n  保持原图整体构图不变\\n主体:原图内容保持不变\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):鲁B山东大葱包×香葱种子种一株香葱，春日食光更有滋味\\n约束:\\n  小红书竖版比例\\n  图片内容、色彩、构图均保持不变\\n  文字放置于画面视觉合适位置，不遮挡核心主体\\n避免:改动原图任何内容\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5128,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

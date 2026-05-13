@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a medical education infographic showing a 3D visualization of the human cardiovascular system with cross-sectional heart anatomy.\n\nStyle/medium: photorealistic medical illustration in the spirit of Frank Netter's anatomical precision, modern 3D rendered textures suitable for educational use\nComposition: centered anatomical view with heart bisected to reveal internal chambers, surrounding major vessels arranged in anatomical position\nSubject: human heart with four chambers (left/right atrium, left/right ventricle), cardiac valves, myocardial fiber textures visible, coronary arteries highlighted in gold on heart surface\nScene/backdrop: dark gradient background to maximize anatomical contrast, clean negative space reserved for text annotations\nLighting/mood: clinical directional lighting from upper left, subtle rim light to define vessel edges, focused illumination on cardiac structures\nColor palette: arterial system in vivid red, venous system in deep blue, coronary arteries in gold highlight, dark neutral background\nMaterials/textures: realistic myocardial fiber striations, translucent vessel walls with subtle specularity, smooth 3D rendered organ surfaces\nText (verbatim): \"左右心房、左右心室\"\nConstraints: must include clear visual separation between atria and ventricles, valve positions accurately depicted, blood flow direction indicated by arrows with subtle glow effects,预留标注文字空间\nAvoid: cartoonish simplification, inaccurate anatomy, cluttered background, watermark, decorative flourishes, 8K stuffer aesthetic",
+    "size": "1536x1152",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2d9c35cd-2f07-4358-a847-99051e08672d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a medical education infographic showing a 3D visualization of the human cardiovascular system with cross-sectional heart anatomy.\\n\\nStyle/medium: photorealistic medical illustration in the spirit of Frank Netter's anatomical precision, modern 3D rendered textures suitable for educational use\\nComposition: centered anatomical view with heart bisected to reveal internal chambers, surrounding major vessels arranged in anatomical position\\nSubject: human heart with four chambers (left/right atrium, left/right ventricle), cardiac valves, myocardial fiber textures visible, coronary arteries highlighted in gold on heart surface\\nScene/backdrop: dark gradient background to maximize anatomical contrast, clean negative space reserved for text annotations\\nLighting/mood: clinical directional lighting from upper left, subtle rim light to define vessel edges, focused illumination on cardiac structures\\nColor palette: arterial system in vivid red, venous system in deep blue, coronary arteries in gold highlight, dark neutral background\\nMaterials/textures: realistic myocardial fiber striations, translucent vessel walls with subtle specularity, smooth 3D rendered organ surfaces\\nText (verbatim): \\\"左右心房、左右心室\\\"\\nConstraints: must include clear visual separation between atria and ventricles, valve positions accurately depicted, blood flow direction indicated by arrows with subtle glow effects,预留标注文字空间\\nAvoid: cartoonish simplification, inaccurate anatomy, cluttered background, watermark, decorative flourishes, 8K stuffer aesthetic\",\"size\":\"1536x1152\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12154
+}

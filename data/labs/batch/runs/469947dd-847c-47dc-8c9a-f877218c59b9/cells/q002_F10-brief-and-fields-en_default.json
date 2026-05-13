@@ -1,0 +1,23 @@
+{
+  "query_idx": 2,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo for an autumn/winter fashion e-commerce hero banner, featuring a model in a camel wool coat.\n\nStyle/medium: fashion editorial photography, premium brand campaign aesthetic\nComposition: full-body shot with model walking toward camera, slight low angle, medium telephoto lens for flattering proportions\nSubject: model wearing camel-colored wool overcoat, relaxed confident stride, natural movement in fabric\nScene/backdrop: urban street covered with fallen autumn leaves, late afternoon setting\nLighting/mood: warm golden hour backlight, sun flare from behind, soft rim light on coat edges, cozy and elevated atmosphere\nColor palette: warm amber and honey tones as base, camel coat as anchor, golden highlights, muted browns and oranges from leaves\nMaterials/textures: visible wool texture with natural weave, crisp fallen leaves with dry edges, soft bokeh in background\nAvoid: oversaturated colors, harsh flash, plastic-looking fabric, generic stock photo feel, watermark, text overlay",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/91fff54f-a290-49f3-90ae-284bc7f5d4e3/0.png"
+  ],
+  "scores": {
+    "intent": 4.5,
+    "overall": 4
+  },
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo for an autumn/winter fashion e-commerce hero banner, featuring a model in a camel wool coat.\\n\\nStyle/medium: fashion editorial photography, premium brand campaign aesthetic\\nComposition: full-body shot with model walking toward camera, slight low angle, medium telephoto lens for flattering proportions\\nSubject: model wearing camel-colored wool overcoat, relaxed confident stride, natural movement in fabric\\nScene/backdrop: urban street covered with fallen autumn leaves, late afternoon setting\\nLighting/mood: warm golden hour backlight, sun flare from behind, soft rim light on coat edges, cozy and elevated atmosphere\\nColor palette: warm amber and honey tones as base, camel coat as anchor, golden highlights, muted browns and oranges from leaves\\nMaterials/textures: visible wool texture with natural weave, crisp fallen leaves with dry edges, soft bokeh in background\\nAvoid: oversaturated colors, harsh flash, plastic-looking fabric, generic stock photo feel, watermark, text overlay\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14084
+}

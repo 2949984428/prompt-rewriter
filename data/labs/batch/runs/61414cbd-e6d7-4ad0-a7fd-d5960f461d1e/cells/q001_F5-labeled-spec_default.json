@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: UI-design-system\nAsset type: design system components, multi-device mockups\nPrimary request: classic minimalist tech-style UI design system including web Dashboard, mobile interface, cards, buttons, controls\nScene/backdrop: clean workspace environment with subtle grid patterns, floating component showcase\nSubject: comprehensive UI component library - dashboard layout with data visualization, mobile app screens, modular cards, CTA buttons, input controls, toggle switches, navigation elements\nStyle/medium: modern UI/UX design, glassmorphism accents, subtle gradients, crisp vector graphics\nComposition/framing: multi-panel layout showing component variations, organized grid system, device mockups with perspective\nLighting/mood: soft ambient glow, subtle rim lighting on components, futuristic and sophisticated atmosphere\nColor palette: deep navy blue + electric cyan + soft white + charcoal gray + subtle purple accents\nMaterials/textures: frosted glass effects, smooth matte surfaces, subtle noise texture, clean sans-serif typography\nConstraints: maintain visual consistency across all components, keep hierarchy clear and scannable\nAvoid: skeuomorphic textures, cluttered layouts, excessive decoration, drop shadows that look dated",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5ba04df3-3ccb-43fe-bcfb-6d9603d270c5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: UI-design-system\\nAsset type: design system components, multi-device mockups\\nPrimary request: classic minimalist tech-style UI design system including web Dashboard, mobile interface, cards, buttons, controls\\nScene/backdrop: clean workspace environment with subtle grid patterns, floating component showcase\\nSubject: comprehensive UI component library - dashboard layout with data visualization, mobile app screens, modular cards, CTA buttons, input controls, toggle switches, navigation elements\\nStyle/medium: modern UI/UX design, glassmorphism accents, subtle gradients, crisp vector graphics\\nComposition/framing: multi-panel layout showing component variations, organized grid system, device mockups with perspective\\nLighting/mood: soft ambient glow, subtle rim lighting on components, futuristic and sophisticated atmosphere\\nColor palette: deep navy blue + electric cyan + soft white + charcoal gray + subtle purple accents\\nMaterials/textures: frosted glass effects, smooth matte surfaces, subtle noise texture, clean sans-serif typography\\nConstraints: maintain visual consistency across all components, keep hierarchy clear and scannable\\nAvoid: skeuomorphic textures, cluttered layouts, excessive decoration, drop shadows that look dated\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10395
+}

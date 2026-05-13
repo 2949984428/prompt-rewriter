@@ -1,0 +1,18 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a traditional Hindu morning prayer ceremony on the Varanasi ghats along the Ganges River.\n\nStyle/medium: documentary humanistic photography, 35mm film aesthetic with rich saturated colors, in the spirit of Steve McCurry's India work\nComposition: golden ratio framing, shallow depth of field, foreground with blurred flower petals, mid-ground featuring the central priest figure, background showing the distant riverbank silhouette\nSubject: elderly priest in orange saffron robes holding a brass oil lamp, surrounded by devotees performing rituals\nScene/backdrop: Varanasi ghats at dawn, hundreds of Hindu devotees gathered on stone steps, some bathing in the river, others praying with folded hands, some lighting oil lamps to float on water\nLighting/mood: golden hour sunrise light from the horizon casting warm tones across the scene, soft diffused morning light mixed with rising incense smoke creating ethereal atmosphere\nColor palette: warm golden sunrise as dominant tone, orange saffron robes as anchor, brass and copper metallic accents, soft pink and cream flower petals, deep blue-green river reflections\nMaterials/textures: weathered stone steps, brass oil lamps with patina, flowing water with floating flower offerings, billowing incense smoke, coarse cotton fabric of robes\nAvoid: oversaturated HDR look, plastic textures, deformed hands, watermarked text, 8K stuffer aesthetic, artificial sharpening\n",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_a2cc053b02c444f6a1a0224728217d5f.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an editorial photo of a traditional Hindu morning prayer ceremony on the Varanasi ghats along the Ganges River.\\n\\nStyle/medium: documentary humanistic photography, 35mm film aesthetic with rich saturated colors, in the spirit of Steve McCurry's India work\\nComposition: golden ratio framing, shallow depth of field, foreground with blurred flower petals, mid-ground featuring the central priest figure, background showing the distant riverbank silhouette\\nSubject: elderly priest in orange saffron robes holding a brass oil lamp, surrounded by devotees performing rituals\\nScene/backdrop: Varanasi ghats at dawn, hundreds of Hindu devotees gathered on stone steps, some bathing in the river, others praying with folded hands, some lighting oil lamps to float on water\\nLighting/mood: golden hour sunrise light from the horizon casting warm tones across the scene, soft diffused morning light mixed with rising incense smoke creating ethereal atmosphere\\nColor palette: warm golden sunrise as dominant tone, orange saffron robes as anchor, brass and copper metallic accents, soft pink and cream flower petals, deep blue-green river reflections\\nMaterials/textures: weathered stone steps, brass oil lamps with patina, flowing water with floating flower offerings, billowing incense smoke, coarse cotton fabric of robes\\nAvoid: oversaturated HDR look, plastic textures, deformed hands, watermarked text, 8K stuffer aesthetic, artificial sharpening\\n\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11504
+}

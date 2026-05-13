@@ -1,0 +1,23 @@
+{
+  "query_idx": 14,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Concevoir une planche de moodboard, schémas heuristiques, esquisses et plusieurs propositions de logo pour une marque de pâtisseries arabes revisitées en design moderne.\n\n风格/媒介: Luxe minimaliste, mélange tradition orientale et modernité, rendu plat de type planche de design / brand identity sheet\n构图:\n  Planche complète incluant : moodboard d'ambiance, schémas heuristiques, esquisses de concepts, et plusieurs variantes de logo\n  Organisation claire en zones distinctes sur la planche\n主体:\n  Logo Option 1 : forme de gâteau stylisé intégrant un motif géométrique arabe\n  Logo Option 2 : mot \"سحر\" en calligraphie moderne avec touche minimaliste\n  Logo Option 3 : une goutte de miel qui forme un motif oriental\n  Esquisses et schémas heuristiques illustrant le concept de la marque\n  Moodboard d'ambiance visuelle autour des desserts arabes (baklava, makrout…) revisités\n场景/背景: Fond neutre adapté à une planche de présentation de marque\n光线/氛围: Élégant, raffiné, intemporel\n色彩方案:\n  Noir (élégance)\n  Doré (tradition + luxe)\n  Beige miel\n  Vert pistache\n材质/纹理: Motifs géométriques arabes, calligraphie, ornements orientaux stylisés\n文字(原样): سحر\n约束:\n  Inclure les trois options de logo distinctes\n  Inclure moodboard, schémas heuristiques et esquisses sur la même planche\n避免: Photographies réalistes de pâtisseries, style chargé ou baroque, couleurs non spécifiées",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7e5c431f-589b-4837-bf42-11e071027e63/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Concevoir une planche de moodboard, schémas heuristiques, esquisses et plusieurs propositions de logo pour une marque de pâtisseries arabes revisitées en design moderne.\\n\\n风格/媒介: Luxe minimaliste, mélange tradition orientale et modernité, rendu plat de type planche de design / brand identity sheet\\n构图:\\n  Planche complète incluant : moodboard d'ambiance, schémas heuristiques, esquisses de concepts, et plusieurs variantes de logo\\n  Organisation claire en zones distinctes sur la planche\\n主体:\\n  Logo Option 1 : forme de gâteau stylisé intégrant un motif géométrique arabe\\n  Logo Option 2 : mot \\\"سحر\\\" en calligraphie moderne avec touche minimaliste\\n  Logo Option 3 : une goutte de miel qui forme un motif oriental\\n  Esquisses et schémas heuristiques illustrant le concept de la marque\\n  Moodboard d'ambiance visuelle autour des desserts arabes (baklava, makrout…) revisités\\n场景/背景: Fond neutre adapté à une planche de présentation de marque\\n光线/氛围: Élégant, raffiné, intemporel\\n色彩方案:\\n  Noir (élégance)\\n  Doré (tradition + luxe)\\n  Beige miel\\n  Vert pistache\\n材质/纹理: Motifs géométriques arabes, calligraphie, ornements orientaux stylisés\\n文字(原样): سحر\\n约束:\\n  Inclure les trois options de logo distinctes\\n  Inclure moodboard, schémas heuristiques et esquisses sur la même planche\\n避免: Photographies réalistes de pâtisseries, style chargé ou baroque, couleurs non spécifiées\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12472,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

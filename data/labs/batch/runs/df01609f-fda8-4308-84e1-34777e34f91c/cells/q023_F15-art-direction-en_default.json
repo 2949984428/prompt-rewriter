@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing tactical equipment display illustration with a hardcore military aesthetic (all in-image text in Chinese).\n\nStyle/medium: needs a hardcore military / tactical gear showcase aesthetic — exact stylistic execution is yours\nComposition: must include firearms, ballistic vests, and night-vision devices arranged in an orderly, systematic layout\nSubject: must include:\n  - various firearms (rifles, handguns, etc.)\n  - ballistic / plate-carrier vests\n  - night-vision devices / goggles\nScene/backdrop: must include a dark, deep-toned background\nLighting/mood: needs a cold, stern, authoritative atmosphere — exact light source mix and shadow treatment are yours\nColor palette: needs a dark, desaturated direction with cold tones — exact palette and ratios are yours\nMaterials/textures: needs hard metallic and tactical fabric surface treatment — exact grain and sheen are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/46dcb872-6aa6-4dfb-8bc3-e8feab38e377/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing tactical equipment display illustration with a hardcore military aesthetic (all in-image text in Chinese).\\n\\nStyle/medium: needs a hardcore military / tactical gear showcase aesthetic — exact stylistic execution is yours\\nComposition: must include firearms, ballistic vests, and night-vision devices arranged in an orderly, systematic layout\\nSubject: must include:\\n  - various firearms (rifles, handguns, etc.)\\n  - ballistic / plate-carrier vests\\n  - night-vision devices / goggles\\nScene/backdrop: must include a dark, deep-toned background\\nLighting/mood: needs a cold, stern, authoritative atmosphere — exact light source mix and shadow treatment are yours\\nColor palette: needs a dark, desaturated direction with cold tones — exact palette and ratios are yours\\nMaterials/textures: needs hard metallic and tactical fabric surface treatment — exact grain and sheen are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 19391
+}

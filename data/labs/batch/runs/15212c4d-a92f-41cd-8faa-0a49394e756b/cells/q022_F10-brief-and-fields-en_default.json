@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Korean café lifestyle photo with annotated hand-drawn notes, styled for Instagram Stories.\n\nStyle/medium: smartphone editorial photography with digital hand-drawn sketch overlay, Korean café aesthetic, flat-lay and 45-degree angle shots, soft matte filter\nComposition: top-down flat lay and eye-level 45° angle, smartphone lens perspective, shallow depth of field with soft bokeh\nSubject: iced latte in clear glass with visible layers, croffle or Korean-style dessert on ceramic plate, minimalist tableware\nScene/backdrop: Korean café interior with warm wood tones, soft natural light from window, clean minimal background with negative space\nLighting/mood: soft diffused daylight, gentle shadows, cozy and relaxed atmosphere\nColor palette: warm cream and beige base, soft brown coffee tones, muted pastel accents, white negative space\nMaterials/textures: frosted glass, ceramic glaze, flaky pastry texture, smooth wooden table surface\nText (verbatim): \"【描写规则】・像用白色笔画出那样的细手绘线条・一笔写成风格的粗糙、略微不均匀・像描摹物体外周那样添加轮廓线・用箭头或虚线制造视线引导【文本规则】・日语手写文字（平假名7成、简单汉字3成）・简短，像自言自语一样的评论・语气是\"日记・一言・情感寄托\"【评论生成规则】・饮料 → 味道・温度・心情（例：清爽、温柔的甜味）・食物 → 口感・美味（例：湿润、最高）・空间 → 氛围（例：放松、美好时光）・整体 → 一言总结（例：幸福过头了～）【装饰】・蒸汽、闪闪发光、心形、小表情符号等适度添加・不过度，留出\"空白\"【完成风格】・Instagram故事风、杂志的粗糙笔记风・时尚且轻松的氛围\"\nConstraints: must include hand-drawn annotation overlay with thin white sketch lines, rough single-stroke style, Japanese handwritten text (70% hiragana, 30% simple kanji), arrows and dotted lines for visual guidance, minimal decorative elements (steam, sparkles, hearts, small emoticons) with intentional negative space\nAvoid: photorealistic AI perfection, overly clean digital lines, cluttered composition, 8K stuffer aesthetic, watermark, text in wrong language",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d238c0fd-4d82-4873-bcdd-0b97aeaf3646/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a Korean café lifestyle photo with annotated hand-drawn notes, styled for Instagram Stories.\\n\\nStyle/medium: smartphone editorial photography with digital hand-drawn sketch overlay, Korean café aesthetic, flat-lay and 45-degree angle shots, soft matte filter\\nComposition: top-down flat lay and eye-level 45° angle, smartphone lens perspective, shallow depth of field with soft bokeh\\nSubject: iced latte in clear glass with visible layers, croffle or Korean-style dessert on ceramic plate, minimalist tableware\\nScene/backdrop: Korean café interior with warm wood tones, soft natural light from window, clean minimal background with negative space\\nLighting/mood: soft diffused daylight, gentle shadows, cozy and relaxed atmosphere\\nColor palette: warm cream and beige base, soft brown coffee tones, muted pastel accents, white negative space\\nMaterials/textures: frosted glass, ceramic glaze, flaky pastry texture, smooth wooden table surface\\nText (verbatim): \\\"【描写规则】・像用白色笔画出那样的细手绘线条・一笔写成风格的粗糙、略微不均匀・像描摹物体外周那样添加轮廓线・用箭头或虚线制造视线引导【文本规则】・日语手写文字（平假名7成、简单汉字3成）・简短，像自言自语一样的评论・语气是\\\"日记・一言・情感寄托\\\"【评论生成规则】・饮料 → 味道・温度・心情（例：清爽、温柔的甜味）・食物 → 口感・美味（例：湿润、最高）・空间 → 氛围（例：放松、美好时光）・整体 → 一言总结（例：幸福过头了～）【装饰】・蒸汽、闪闪发光、心形、小表情符号等适度添加・不过度，留出\\\"空白\\\"【完成风格】・Instagram故事风、杂志的粗糙笔记风・时尚且轻松的氛围\\\"\\nConstraints: must include hand-drawn annotation overlay with thin white sketch lines, rough single-stroke style, Japanese handwritten text (70% hiragana, 30% simple kanji), arrows and dotted lines for visual guidance, minimal decorative elements (steam, sparkles, hearts, small emoticons) with intentional negative space\\nAvoid: photorealistic AI perfection, overly clean digital lines, cluttered composition, 8K stuffer aesthetic, watermark, text in wrong language\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 17240
+}

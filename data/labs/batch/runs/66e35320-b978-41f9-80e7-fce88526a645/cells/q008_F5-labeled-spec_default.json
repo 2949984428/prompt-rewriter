@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: promotional-poster\nAsset type: e-commerce marketing poster, 16:9 landscape\nPrimary request: complex but organized promotional poster for cross-border e-commerce sale with artistic typography and layered text effects\nScene/backdrop: dynamic commercial backdrop with depth layers, abstract geometric shapes and gradient flows\nSubject: product showcase (headphones or smartwatch) overlapping and partially obscuring artistic text, creating depth\nStyle/medium: modern graphic design, digital illustration, layered typography poster\nComposition/framing: 16:9 landscape, balanced chaos with focal product in foreground, text layers receding into background\nLighting/mood: vibrant energetic lighting with subtle shadows for depth, exciting promotional atmosphere\nColor palette: bold primary colors with complementary accents, high contrast for readability\nMaterials/textures: glossy product surfaces, matte paper texture for text, subtle grain overlay\nText (verbatim): \"跨境电商促销海报\"\nConstraints: must have artistic typography, must have layered/stacked fonts, product must partially block some text, complex but not cluttered\nAvoid: pure chaos without hierarchy, flat design without depth, unreadable text, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/afd78157-cbc4-4482-84b1-504ed9425d05/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: promotional-poster\\nAsset type: e-commerce marketing poster, 16:9 landscape\\nPrimary request: complex but organized promotional poster for cross-border e-commerce sale with artistic typography and layered text effects\\nScene/backdrop: dynamic commercial backdrop with depth layers, abstract geometric shapes and gradient flows\\nSubject: product showcase (headphones or smartwatch) overlapping and partially obscuring artistic text, creating depth\\nStyle/medium: modern graphic design, digital illustration, layered typography poster\\nComposition/framing: 16:9 landscape, balanced chaos with focal product in foreground, text layers receding into background\\nLighting/mood: vibrant energetic lighting with subtle shadows for depth, exciting promotional atmosphere\\nColor palette: bold primary colors with complementary accents, high contrast for readability\\nMaterials/textures: glossy product surfaces, matte paper texture for text, subtle grain overlay\\nText (verbatim): \\\"跨境电商促销海报\\\"\\nConstraints: must have artistic typography, must have layered/stacked fonts, product must partially block some text, complex but not cluttered\\nAvoid: pure chaos without hierarchy, flat design without depth, unreadable text, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10218
+}

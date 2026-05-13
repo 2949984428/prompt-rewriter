@@ -1,0 +1,23 @@
+{
+  "query_idx": 273,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Edit the attached water bottle image into an Instagram post.\n\nStyle/medium: photorealistic, similar visual style to the reference pattern image\nComposition: 4:5 aspect ratio, Instagram post framing\nSubject: the attached water bottle (no logo), styled similarly to the reference pattern image\nScene/backdrop:\nLighting/mood:\nColor palette:\nMaterials/textures:\nText (verbatim):\nConstraints:\n  use the provided water bottle image as the main subject\n  replicate the overall composition and visual treatment from the reference pattern image\n  no logo on the bottle\nAvoid:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A04afb9ea-f456-4e51-8735-0430e2e28f78/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Edit the attached water bottle image into an Instagram post.\\n\\nStyle/medium: photorealistic, similar visual style to the reference pattern image\\nComposition: 4:5 aspect ratio, Instagram post framing\\nSubject: the attached water bottle (no logo), styled similarly to the reference pattern image\\nScene/backdrop:\\nLighting/mood:\\nColor palette:\\nMaterials/textures:\\nText (verbatim):\\nConstraints:\\n  use the provided water bottle image as the main subject\\n  replicate the overall composition and visual treatment from the reference pattern image\\n  no logo on the bottle\\nAvoid:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 9408,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

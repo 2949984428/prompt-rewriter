@@ -1,0 +1,23 @@
+{
+  "query_idx": 78,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image] 参考这个风格，设计一个餐饮品牌LOGO：聚辉轩",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A81204c9e-e3ed-41b6-bb6d-208e4831b7b2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image] 参考这个风格，设计一个餐饮品牌LOGO：聚辉轩\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3035,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

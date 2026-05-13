@@ -1,0 +1,23 @@
+{
+  "query_idx": 118,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成亚马逊电商详情页海报图 —— 多用水管扳手核心卖点主视觉海报。\n\n风格/媒介: 电商详情页主图海报，写实摄影风格，视觉冲击力强\n构图:\n  产品居中大图展示，占画面主体\n  核心卖点文案分布四周或底部\n  大标题加粗无衬线字体，样式醒目\n主体:\n  多用水管扳手产品图（使用提供的产品图）\n  突出核心卖点：智能增压自锁、军工合金钢、一机抵12套工具、德系省力臂、防伤咬合内衬、全域耐腐防爆\n场景/背景: 德国家庭水管维修真实使用场景，占满100%背景\n光线/氛围: 强烈工业感光线，视觉冲击力强\n色彩方案: 工业感深色调为主，金属质感高亮\n材质/纹理: 金属质感，高碳合金钢光泽\n文字(原样):\n  大标题（德语）：Universeller Rohrzangenschlüssel\n  副标题：GS-Zertifiziert · TÜV Rheinland · VDA\n  卖点标签：Selbstsichernd · Militärqualität · 12-in-1 · Ergonomisch · Kratzfrei · Korrosionsbeständig\n约束:\n  文字使用无衬线字体，大标题加粗\n  产品图必须使用提供的真实产品图\n  背景场景图占100%\n避免: 卡通风格，低质感，模糊产品",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Adf7f5e94-606f-4d98-85a0-7dfc934ec1ad/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成亚马逊电商详情页海报图 —— 多用水管扳手核心卖点主视觉海报。\\n\\n风格/媒介: 电商详情页主图海报，写实摄影风格，视觉冲击力强\\n构图:\\n  产品居中大图展示，占画面主体\\n  核心卖点文案分布四周或底部\\n  大标题加粗无衬线字体，样式醒目\\n主体:\\n  多用水管扳手产品图（使用提供的产品图）\\n  突出核心卖点：智能增压自锁、军工合金钢、一机抵12套工具、德系省力臂、防伤咬合内衬、全域耐腐防爆\\n场景/背景: 德国家庭水管维修真实使用场景，占满100%背景\\n光线/氛围: 强烈工业感光线，视觉冲击力强\\n色彩方案: 工业感深色调为主，金属质感高亮\\n材质/纹理: 金属质感，高碳合金钢光泽\\n文字(原样):\\n  大标题（德语）：Universeller Rohrzangenschlüssel\\n  副标题：GS-Zertifiziert · TÜV Rheinland · VDA\\n  卖点标签：Selbstsichernd · Militärqualität · 12-in-1 · Ergonomisch · Kratzfrei · Korrosionsbeständig\\n约束:\\n  文字使用无衬线字体，大标题加粗\\n  产品图必须使用提供的真实产品图\\n  背景场景图占100%\\n避免: 卡通风格，低质感，模糊产品\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 18163,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

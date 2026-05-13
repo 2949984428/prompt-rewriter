@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing product shot for a luxury perfume e-commerce hero visual.\n\nStyle/medium: high-end product photography, editorial fragrance campaign aesthetic\nComposition: centered product shot, slightly elevated camera angle, medium focal length, shallow depth of field isolating the bottle\nSubject: elegant perfume bottle with clean glass surface and refined silhouette\nScene/backdrop: black velvet fabric surface, scattered golden glitter particles around the bottle, dark void background\nLighting/mood: single spotlight from above creating dramatic chiaroscuro, strong contrast between highlight and deep shadow, mysterious and luxurious nocturnal atmosphere\nColor palette: deep black as dominant base, warm gold accents from glitter, subtle reflections on glass\nMaterials/textures: soft plush velvet pile, fine golden shimmer particles, smooth glass surface with light refraction\nAvoid: flat lighting, overexposed highlights, cluttered composition, generic stock photo aesthetic, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bc3f3275-57ce-4ccf-a9fe-49e0aa8bc36d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing product shot for a luxury perfume e-commerce hero visual.\\n\\nStyle/medium: high-end product photography, editorial fragrance campaign aesthetic\\nComposition: centered product shot, slightly elevated camera angle, medium focal length, shallow depth of field isolating the bottle\\nSubject: elegant perfume bottle with clean glass surface and refined silhouette\\nScene/backdrop: black velvet fabric surface, scattered golden glitter particles around the bottle, dark void background\\nLighting/mood: single spotlight from above creating dramatic chiaroscuro, strong contrast between highlight and deep shadow, mysterious and luxurious nocturnal atmosphere\\nColor palette: deep black as dominant base, warm gold accents from glitter, subtle reflections on glass\\nMaterials/textures: soft plush velvet pile, fine golden shimmer particles, smooth glass surface with light refraction\\nAvoid: flat lighting, overexposed highlights, cluttered composition, generic stock photo aesthetic, watermark\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 20283
+}

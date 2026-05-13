@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original marketing poster (Xiaohongshu / RedNote 9-grid cover image) for a grassroots content creator account called \"小书素人媒体\", featuring the DJI Pocket 4 camera.\n\nStyle/medium: Xiaohongshu (小红书) ugc-influencer flat editorial style, warm and approachable, hand-crafted feel with cute kawaii typography touches, differentiated from generic tech review aesthetics\nComposition: vertical 9-grid cover layout (3×3 tile-friendly single frame), product DJI Pocket 4 prominently displayed in center-lower zone, title text anchored in the center band, generous breathing room around elements\nSubject: DJI Pocket 4 handheld camera as hero product, styled casually as if held or placed by a real person (grassroots / 素人 vibe), no overly polished studio setup\nScene/backdrop: soft pastel or warm neutral background suggesting a cozy lifestyle setting — desk, fabric, or flat-lay surface; no busy environment\nLighting/mood: soft diffused natural light, warm and inviting, low contrast, friendly and relatable mood\nColor palette: warm cream or blush as base, DJI Pocket 4 device color as accent anchor, one pop color (coral or mint) for title text contrast\nText (verbatim): \"大强pocket4初体验\" as the central headline; \"小书素人媒体\" as sub-brand label\nConstraints: title text \"大强pocket4初体验\" must use a cute, rounded, playful display typeface — visually differentiated from standard sans-serif tech fonts; layout must remain readable when tiled as a 9-grid cover on Xiaohongshu\nAvoid: cold tech-magazine aesthetic, harsh studio lighting, generic white background product shot, corporate font styles, watermarks, clutter",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bc8d4a0d-236d-4f84-a0f7-82b8992040d2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original marketing poster (Xiaohongshu / RedNote 9-grid cover image) for a grassroots content creator account called \\\"小书素人媒体\\\", featuring the DJI Pocket 4 camera.\\n\\nStyle/medium: Xiaohongshu (小红书) ugc-influencer flat editorial style, warm and approachable, hand-crafted feel with cute kawaii typography touches, differentiated from generic tech review aesthetics\\nComposition: vertical 9-grid cover layout (3×3 tile-friendly single frame), product DJI Pocket 4 prominently displayed in center-lower zone, title text anchored in the center band, generous breathing room around elements\\nSubject: DJI Pocket 4 handheld camera as hero product, styled casually as if held or placed by a real person (grassroots / 素人 vibe), no overly polished studio setup\\nScene/backdrop: soft pastel or warm neutral background suggesting a cozy lifestyle setting — desk, fabric, or flat-lay surface; no busy environment\\nLighting/mood: soft diffused natural light, warm and inviting, low contrast, friendly and relatable mood\\nColor palette: warm cream or blush as base, DJI Pocket 4 device color as accent anchor, one pop color (coral or mint) for title text contrast\\nText (verbatim): \\\"大强pocket4初体验\\\" as the central headline; \\\"小书素人媒体\\\" as sub-brand label\\nConstraints: title text \\\"大强pocket4初体验\\\" must use a cute, rounded, playful display typeface — visually differentiated from standard sans-serif tech fonts; layout must remain readable when tiled as a 9-grid cover on Xiaohongshu\\nAvoid: cold tech-magazine aesthetic, harsh studio lighting, generic white background product shot, corporate font styles, watermarks, clutter\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14600
+}

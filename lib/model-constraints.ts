@@ -33,6 +33,9 @@ const ReferenceImageConstraintsSchema = z.object({
   min_dimension_px: z.number().int().positive().optional(),
   // 是否支持 multi-reference(blend);某些 image-modify 模型只接 1 张
   supports_multi: z.boolean().default(true),
+  // 2026-05-13:Lovart Agent 收 inputArgs 时参考图的真实字段名(从 schema property 直接取)
+  // image-router Lovart 分支直接用这个塞,不再靠 includes 猜或 alias 翻译
+  field_name: z.enum(["image", "image_url", "image_urls", "images"]).optional(),
 });
 
 const OutputConstraintsSchema = z.object({
@@ -175,19 +178,34 @@ export function constraintsFromSchema(
     out.output = { ...(out.output ?? {}), resolutions: res };
   }
 
-  // 参考图张数 + 是否支持
-  if (props.image) {
+  // 参考图字段名 + 张数 + 是否支持
+  // schema 的真实 property 名直接当 field_name,image-router 用这个塞 inputArgs,
+  // 不再靠运行时 includes() 猜或做 alias 翻译
+  if (props.image_url) {
+    out.reference_image = {
+      ...(out.reference_image ?? {}),
+      field_name: "image_url",
+      supports_multi: false,
+    };
+  } else if (props.image_urls) {
+    out.reference_image = {
+      ...(out.reference_image ?? {}),
+      field_name: "image_urls",
+      supports_multi: true,
+    };
+  } else if (props.images) {
+    out.reference_image = {
+      ...(out.reference_image ?? {}),
+      field_name: "images",
+      supports_multi: true,
+    };
+  } else if (props.image) {
     const maxItems = props.image.maxItems;
     out.reference_image = {
       ...(out.reference_image ?? {}),
+      field_name: "image",
       ...(maxItems ? { max_count: maxItems } : {}),
       supports_multi: (maxItems ?? 1) > 1,
-    };
-  }
-  if (props.image_url || props.image_urls) {
-    out.reference_image = {
-      ...(out.reference_image ?? {}),
-      supports_multi: Boolean(props.image_urls),
     };
   }
 

@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a professional gym scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs an \"工业风\" aesthetic with \"阳刚之气\" mood — references in the spirit of Brutalist architecture photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 warehouse-conversion design movement; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a muscular athlete performing a deadlift, with visible sweat and defined muscle lines\nScene/backdrop: must include a professional gym interior with industrial-style decor\nLighting/mood: needs a cold-toned lighting atmosphere — exact light source mix is yours\nColor palette: needs a cool-toned direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c3b339b8-2815-4058-b7ec-3e49483403f0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a professional gym scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs an \\\"工业风\\\" aesthetic with \\\"阳刚之气\\\" mood — references in the spirit of Brutalist architecture photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 warehouse-conversion design movement; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a muscular athlete performing a deadlift, with visible sweat and defined muscle lines\\nScene/backdrop: must include a professional gym interior with industrial-style decor\\nLighting/mood: needs a cold-toned lighting atmosphere — exact light source mix is yours\\nColor palette: needs a cool-toned direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9997
+}

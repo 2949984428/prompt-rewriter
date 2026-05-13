@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial documentary photography\nPrimary request: morning prayer ceremony at Varanasi's Ganges River ghats with hundreds of Hindu devotees\nScene/backdrop: ancient stone ghats along the Ganges River at dawn, misty atmosphere, distant riverbank silhouette\nSubject: elderly priest in orange saffron robes holding a brass oil lamp, surrounded by devotees bathing in river, praying with folded hands, floating offerings\nStyle/medium: documentary film photography, rich saturated colors, film grain texture\nComposition/framing: golden ratio composition, shallow depth of field with blurred flower petals in foreground, priest as mid-ground subject, riverbank silhouette in background\nLighting/mood: warm golden sunrise light from horizon, ethereal smoke from ritual fires, spiritual and reverent atmosphere\nColor palette: warm golden sunrise tones, orange saffron robes, copper brass accents, soft blue river reflections\nMaterials/textures: weathered stone ghats, flowing water surface with floating marigold offerings, brass oil lamps, billowing incense smoke\nConstraints: maintain documentary authenticity, preserve the scale of hundreds of devotees, keep the priest as central focal point\nAvoid: oversaturated HDR look, plastic skin textures, modern clothing anachronisms, watermark, oversharpening",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bbc0fb52-4353-4eb7-a42c-848f943ffb4a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial documentary photography\\nPrimary request: morning prayer ceremony at Varanasi's Ganges River ghats with hundreds of Hindu devotees\\nScene/backdrop: ancient stone ghats along the Ganges River at dawn, misty atmosphere, distant riverbank silhouette\\nSubject: elderly priest in orange saffron robes holding a brass oil lamp, surrounded by devotees bathing in river, praying with folded hands, floating offerings\\nStyle/medium: documentary film photography, rich saturated colors, film grain texture\\nComposition/framing: golden ratio composition, shallow depth of field with blurred flower petals in foreground, priest as mid-ground subject, riverbank silhouette in background\\nLighting/mood: warm golden sunrise light from horizon, ethereal smoke from ritual fires, spiritual and reverent atmosphere\\nColor palette: warm golden sunrise tones, orange saffron robes, copper brass accents, soft blue river reflections\\nMaterials/textures: weathered stone ghats, flowing water surface with floating marigold offerings, brass oil lamps, billowing incense smoke\\nConstraints: maintain documentary authenticity, preserve the scale of hundreds of devotees, keep the priest as central focal point\\nAvoid: oversaturated HDR look, plastic skin textures, modern clothing anachronisms, watermark, oversharpening\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11438
+}

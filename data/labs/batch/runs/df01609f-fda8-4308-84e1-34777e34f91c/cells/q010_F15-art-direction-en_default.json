@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original post-apocalyptic scene illustration set in a desolate wasteland (all in-image text in Chinese).\n\nStyle/medium: needs a 末日废土 aesthetic — exact stylistic execution is yours\nComposition: must include armored vehicle in foreground, collapsed city ruins in far background, vast desert in between\nSubject: must include a heavily modified armored vehicle (one) in a desolate desert\nScene/backdrop: must include a barren desert landscape with collapsed urban ruins in the distance, windblown sand and dust filling the air\nLighting/mood: needs a tense, end-of-world survival atmosphere — exact light source mix is yours\nColor palette: needs a dusty yellow-brown, overcast direction — exact hex values and ratios are yours\nMaterials/textures: needs a gritty, weathered, sand-blasted surface treatment — exact grain and wear level is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3ff23ade-f842-40cd-a78e-b655c6afac4b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original post-apocalyptic scene illustration set in a desolate wasteland (all in-image text in Chinese).\\n\\nStyle/medium: needs a 末日废土 aesthetic — exact stylistic execution is yours\\nComposition: must include armored vehicle in foreground, collapsed city ruins in far background, vast desert in between\\nSubject: must include a heavily modified armored vehicle (one) in a desolate desert\\nScene/backdrop: must include a barren desert landscape with collapsed urban ruins in the distance, windblown sand and dust filling the air\\nLighting/mood: needs a tense, end-of-world survival atmosphere — exact light source mix is yours\\nColor palette: needs a dusty yellow-brown, overcast direction — exact hex values and ratios are yours\\nMaterials/textures: needs a gritty, weathered, sand-blasted surface treatment — exact grain and wear level is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10462
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 224,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张静态 Facebook 原生广告图（竖版海报风格）。\n\n风格/媒介:\n  平面广告，手写风格文字，扁平紧迫感设计风格\n  白色背景，绿色(#6aaa64)与橙色(#f0a500)点缀\n\n构图:\n  顶部大标题区域\n  中央产品图区域（两块肥皂并排）\n  价格展示区域（划线价 + 优惠价）\n  右下角徽章\n  底部 CTA 横条\n\n主体:\n  两块 DermaVe 绿色肥皂产品照并排居中\n\n场景/背景:\n  白色背景\n\n光线/氛围:\n  扁平风格，无戏剧性光影\n\n色彩方案:\n  白色背景，绿色 #6aaa64，橙色 #f0a500，深色文字，红色划线价\n\n材质/纹理:\n  手写风格文字笔触\n\n文字(原样):\n  顶部粗体斜体大标题：\"Tu te grattes en cachette depuis des années ?\"\n  副标题较小：\"Les crèmes soulagent 3 jours. Puis ça recommence.\"\n  划线价红色：\"59,80€\"\n  粗体深色价格：\"17€ / savon\"\n  右下角橙色圆角徽章：\"Économisé 35€ !!!\"\n  底部绿色 CTA 横条：\"1 ACHETÉ = 1 OFFERT\"\n\n约束:\n  所有文字以手写风格呈现\n  CTA 横条背景为绿色 #6aaa64\n  徽章为橙色 #f0a500 圆角胶囊形\n\n避免:\n  复杂背景或渐变\n  写实摄影光效",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A18540ea3-f820-4996-aa1d-27c18d8611bc/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张静态 Facebook 原生广告图（竖版海报风格）。\\n\\n风格/媒介:\\n  平面广告，手写风格文字，扁平紧迫感设计风格\\n  白色背景，绿色(#6aaa64)与橙色(#f0a500)点缀\\n\\n构图:\\n  顶部大标题区域\\n  中央产品图区域（两块肥皂并排）\\n  价格展示区域（划线价 + 优惠价）\\n  右下角徽章\\n  底部 CTA 横条\\n\\n主体:\\n  两块 DermaVe 绿色肥皂产品照并排居中\\n\\n场景/背景:\\n  白色背景\\n\\n光线/氛围:\\n  扁平风格，无戏剧性光影\\n\\n色彩方案:\\n  白色背景，绿色 #6aaa64，橙色 #f0a500，深色文字，红色划线价\\n\\n材质/纹理:\\n  手写风格文字笔触\\n\\n文字(原样):\\n  顶部粗体斜体大标题：\\\"Tu te grattes en cachette depuis des années ?\\\"\\n  副标题较小：\\\"Les crèmes soulagent 3 jours. Puis ça recommence.\\\"\\n  划线价红色：\\\"59,80€\\\"\\n  粗体深色价格：\\\"17€ / savon\\\"\\n  右下角橙色圆角徽章：\\\"Économisé 35€ !!!\\\"\\n  底部绿色 CTA 横条：\\\"1 ACHETÉ = 1 OFFERT\\\"\\n\\n约束:\\n  所有文字以手写风格呈现\\n  CTA 横条背景为绿色 #6aaa64\\n  徽章为橙色 #f0a500 圆角胶囊形\\n\\n避免:\\n  复杂背景或渐变\\n  写实摄影光效\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 11185,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

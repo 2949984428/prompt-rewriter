@@ -1,0 +1,23 @@
+{
+  "query_idx": 199,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑详情页图片（图二）。\n\n风格/媒介:\n构图:\n主体:将图一人物所佩戴的夹耳式耳机替换为图二中的夹耳式耳机\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  保持亚马逊详情页所有内容不变\n  保持图片比例不变\n  仅替换耳机，其余元素保持原样\n避免:",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1a140ef7-7d60-4d8e-85ae-2820d293d6fb/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑详情页图片（图二）。\\n\\n风格/媒介:\\n构图:\\n主体:将图一人物所佩戴的夹耳式耳机替换为图二中的夹耳式耳机\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  保持亚马逊详情页所有内容不变\\n  保持图片比例不变\\n  仅替换耳机，其余元素保持原样\\n避免:\", \"size\": \"auto\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 4663,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

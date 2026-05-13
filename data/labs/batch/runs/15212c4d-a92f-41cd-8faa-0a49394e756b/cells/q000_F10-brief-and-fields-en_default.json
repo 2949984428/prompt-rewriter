@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a bubble tea product, targeting Xiaohongshu (Little Red Book) lifestyle platform.\n\nStyle/medium: lifestyle product photography, soft pastel aesthetic, influencer-style content shot\nComposition: centered flat-lay or 45-degree angle, shallow depth of field, product as hero\nSubject: pearl milk tea (boba tea) in a clear cup showing tapioca pearls, condensation droplets on cup surface\nScene/backdrop: clean minimal surface with soft pink props (flowers, macarons, or stationery), airy negative space\nLighting/mood: bright natural daylight, soft diffused window light, fresh and breezy summer atmosphere\nColor palette: soft pink dominant with cream white and pearl beige accents, warm brown tea tones\nMaterials/textures: glossy plastic cup, chewy tapioca pearls visible through liquid, water condensation beads\nText (verbatim): \"小红书种草封面\"\nAvoid: dark moody lighting, cluttered composition, artificial studio flash, generic stock photo aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/161efd4a-375b-4b3d-8f80-bacaa39b6852/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a bubble tea product, targeting Xiaohongshu (Little Red Book) lifestyle platform.\\n\\nStyle/medium: lifestyle product photography, soft pastel aesthetic, influencer-style content shot\\nComposition: centered flat-lay or 45-degree angle, shallow depth of field, product as hero\\nSubject: pearl milk tea (boba tea) in a clear cup showing tapioca pearls, condensation droplets on cup surface\\nScene/backdrop: clean minimal surface with soft pink props (flowers, macarons, or stationery), airy negative space\\nLighting/mood: bright natural daylight, soft diffused window light, fresh and breezy summer atmosphere\\nColor palette: soft pink dominant with cream white and pearl beige accents, warm brown tea tones\\nMaterials/textures: glossy plastic cup, chewy tapioca pearls visible through liquid, water condensation beads\\nText (verbatim): \\\"小红书种草封面\\\"\\nAvoid: dark moody lighting, cluttered composition, artificial studio flash, generic stock photo aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9406
+}

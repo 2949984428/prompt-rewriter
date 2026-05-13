@@ -1,0 +1,29 @@
+{
+  "query_idx": 117,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "这款商品为烤盘，销售到美国，语言用英语，帮我生成一组亚马逊套图，涵盖主图、生活方式、卖点总览、场景图、材质工艺、尺寸参数。图文不能出现岩谷和IWATANI还有产品型号。[@image:#1:10][@image:#2:11][@image:#3:12][@image:#4:22][@image:#5:33][@image:#6:44][@image:#7:55][@image:#8:66][@image:#9:77][@image:#10:88]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aae49884d-e994-4a04-88b9-1d4b03b63e44/0.jpg",
+    "/api/image-file/lovart%3Aae49884d-e994-4a04-88b9-1d4b03b63e44/1.jpg",
+    "/api/image-file/lovart%3Aae49884d-e994-4a04-88b9-1d4b03b63e44/2.jpg",
+    "/api/image-file/lovart%3Aae49884d-e994-4a04-88b9-1d4b03b63e44/3.jpg",
+    "/api/image-file/lovart%3Aae49884d-e994-4a04-88b9-1d4b03b63e44/4.jpg",
+    "/api/image-file/lovart%3Aae49884d-e994-4a04-88b9-1d4b03b63e44/5.jpg",
+    "/api/image-file/lovart%3Aae49884d-e994-4a04-88b9-1d4b03b63e44/6.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"这款商品为烤盘，销售到美国，语言用英语，帮我生成一组亚马逊套图，涵盖主图、生活方式、卖点总览、场景图、材质工艺、尺寸参数。图文不能出现岩谷和IWATANI还有产品型号。[@image:#1:10][@image:#2:11][@image:#3:12][@image:#4:22][@image:#5:33][@image:#6:44][@image:#7:55][@image:#8:66][@image:#9:77][@image:#10:88]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7611,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

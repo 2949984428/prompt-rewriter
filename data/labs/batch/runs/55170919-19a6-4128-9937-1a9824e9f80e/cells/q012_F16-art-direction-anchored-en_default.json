@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a WeChat Official Account article cover image for a fragrance product launch (all in-image text in Chinese).\n\nStyle/medium: needs a \"高级质感风\" aesthetic — references in the spirit of Aesop brand visual heritage, Kinfolk magazine editorial photography, 2010s minimalist luxury skincare campaigns; exact stylistic execution is yours\nComposition: must be centered composition with the headline as the dominant focal point\nSubject: must include the fragrance product context as the focal subject\nScene/backdrop: \nLighting/mood: needs an autumnal, refined atmosphere — exact light source mix is yours\nColor palette: needs a warm autumn direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"染秋\" (main headline, prominent), \"秋意染染 时光留香\" (subheadline)\nConstraints: must include all in-image text in Chinese by default; must preserve 900x500 aspect ratio; headline must be the dominant visual element\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3c85ad4a-54f4-4fdb-a575-a45e882d666f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a WeChat Official Account article cover image for a fragrance product launch (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"高级质感风\\\" aesthetic — references in the spirit of Aesop brand visual heritage, Kinfolk magazine editorial photography, 2010s minimalist luxury skincare campaigns; exact stylistic execution is yours\\nComposition: must be centered composition with the headline as the dominant focal point\\nSubject: must include the fragrance product context as the focal subject\\nScene/backdrop: \\nLighting/mood: needs an autumnal, refined atmosphere — exact light source mix is yours\\nColor palette: needs a warm autumn direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"染秋\\\" (main headline, prominent), \\\"秋意染染 时光留香\\\" (subheadline)\\nConstraints: must include all in-image text in Chinese by default; must preserve 900x500 aspect ratio; headline must be the dominant visual element\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9450
+}

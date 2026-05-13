@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial photo, cinematic still\nPrimary request: vintage American road trip scene with a red convertible driving on Route 66 at sunset\nScene/backdrop: Route 66 highway stretching through desert landscape, scattered cacti and tumbleweeds, distant mesas\nSubject: classic red convertible (open top), driver silhouette, motion blur suggesting speed and freedom\nStyle/medium: 35mm film photography, vintage Americana aesthetic, warm nostalgic tone\nComposition/framing: wide shot from rear three-quarter angle, low horizon line, 35mm lens\nLighting/mood: golden hour sunset, dramatic orange-red sky gradients, long shadows, warm rim light on car, carefree and liberating atmosphere\nColor palette: burnt orange sky + deep red convertible + warm desert browns + sage green cacti + golden highlights\nMaterials/textures: weathered asphalt, dusty desert sand, glossy car paint, spiky cactus textures\nConstraints: preserve the Route 66 signage or road context, keep the sunset as dominant color driver\nAvoid: modern cars, urban elements, oversaturated neon colors, cartoonish rendering, lens flare abuse",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/554278c7-e8d8-479b-bc9c-add9ccae2618/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial photo, cinematic still\\nPrimary request: vintage American road trip scene with a red convertible driving on Route 66 at sunset\\nScene/backdrop: Route 66 highway stretching through desert landscape, scattered cacti and tumbleweeds, distant mesas\\nSubject: classic red convertible (open top), driver silhouette, motion blur suggesting speed and freedom\\nStyle/medium: 35mm film photography, vintage Americana aesthetic, warm nostalgic tone\\nComposition/framing: wide shot from rear three-quarter angle, low horizon line, 35mm lens\\nLighting/mood: golden hour sunset, dramatic orange-red sky gradients, long shadows, warm rim light on car, carefree and liberating atmosphere\\nColor palette: burnt orange sky + deep red convertible + warm desert browns + sage green cacti + golden highlights\\nMaterials/textures: weathered asphalt, dusty desert sand, glossy car paint, spiky cactus textures\\nConstraints: preserve the Route 66 signage or road context, keep the sunset as dominant color driver\\nAvoid: modern cars, urban elements, oversaturated neon colors, cartoonish rendering, lens flare abuse\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10013
+}

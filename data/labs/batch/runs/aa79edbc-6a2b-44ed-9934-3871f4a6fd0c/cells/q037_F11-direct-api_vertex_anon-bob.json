@@ -1,0 +1,23 @@
+{
+  "query_idx": 37,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:617611a0-4f9d-4287-8bf5-5aac390c7089 (1)][@image:#2:53f4eb76-320e-4537-ac66-4c0b5137898f] 为闵行区“美好教育”设计一套品牌视觉识别系统。该教育品牌代表上海市闵行区的教育“丰盈的生长、灵动的创造、温暖的联结”我想用石库门的元素组成一个“m”形的门，也代表闵行区的第一个字母，用向上的线条表示生长，用纸飞机或者风筝表示灵动，用飘带，桥梁表示连结，尝试不同的组合生成类似参考图构图和色系的品牌logo",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0d96cccb-8e75-494d-91fb-e676f7081152/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:617611a0-4f9d-4287-8bf5-5aac390c7089 (1)][@image:#2:53f4eb76-320e-4537-ac66-4c0b5137898f] 为闵行区\\\"美好教育\\\"设计一套品牌视觉识别系统。该教育品牌代表上海市闵行区的教育\\\"丰盈的生长、灵动的创造、温暖的联结\\\"我想用石库门的元素组成一个\\\"m\\\"形的门，也代表闵行区的第一个字母，用向上的线条表示生长，用纸飞机或者风筝表示灵动，用飘带，桥梁表示连结，尝试不同的组合生成类似参考图构图和色系的品牌logo\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4303,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

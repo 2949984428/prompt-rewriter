@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: tactical gear flat-lay display, square crop\nPrimary request: hardcore military-style tactical equipment showcase — various firearms, bulletproof vests, and night-vision devices arranged in a neat, orderly layout\nScene/backdrop: dark matte surface, deep charcoal or near-black background with subtle texture\nSubject: assorted rifles and handguns, modular bulletproof vests with MOLLE webbing, night-vision goggles — all arranged symmetrically in a flat-lay composition\nStyle/medium: photorealistic product photography, flat-lay editorial\nComposition/framing: top-down overhead shot, wide frame, items evenly spaced with precise alignment\nLighting/mood: cold, hard directional side lighting with sharp shadows; austere, authoritative, and imposing atmosphere\nColor palette: deep charcoal black background + matte olive drab / coyote tan / dark grey gear + cool steel metallic highlights\nMaterials/textures: matte polymer firearm bodies, woven ballistic nylon vest panels, rubberized night-vision housing, brushed metal barrels\nConstraints: all items must appear inert and static in a display context; no human figures; clean flat-lay arrangement\nAvoid: cartoonish rendering, warm or soft lighting, cluttered disorganized layout, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/460a6fad-ddc1-4649-8525-07c5e7cf5ea8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: tactical gear flat-lay display, square crop\\nPrimary request: hardcore military-style tactical equipment showcase — various firearms, bulletproof vests, and night-vision devices arranged in a neat, orderly layout\\nScene/backdrop: dark matte surface, deep charcoal or near-black background with subtle texture\\nSubject: assorted rifles and handguns, modular bulletproof vests with MOLLE webbing, night-vision goggles — all arranged symmetrically in a flat-lay composition\\nStyle/medium: photorealistic product photography, flat-lay editorial\\nComposition/framing: top-down overhead shot, wide frame, items evenly spaced with precise alignment\\nLighting/mood: cold, hard directional side lighting with sharp shadows; austere, authoritative, and imposing atmosphere\\nColor palette: deep charcoal black background + matte olive drab / coyote tan / dark grey gear + cool steel metallic highlights\\nMaterials/textures: matte polymer firearm bodies, woven ballistic nylon vest panels, rubberized night-vision housing, brushed metal barrels\\nConstraints: all items must appear inert and static in a display context; no human figures; clean flat-lay arrangement\\nAvoid: cartoonish rendering, warm or soft lighting, cluttered disorganized layout, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8998
+}

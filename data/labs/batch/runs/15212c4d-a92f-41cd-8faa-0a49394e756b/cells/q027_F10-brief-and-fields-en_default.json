@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing panoramic illustration of the Lantern Festival in Tang Dynasty Chang'an, a traditional Chinese long scroll painting.\n\nStyle/medium: gongbi zhongcai (meticulous brushwork with heavy colors), traditional Chinese handscroll painting, Tang Dynasty court painting tradition, architectural precision with delicate figure rendering\nComposition: bird's-eye panoramic view sweeping across the entire cityscape, horizontal scroll format, multiple focal points showing layers of streets, palaces, and crowds\nSubject: Tang Dynasty Chang'an city during Lantern Festival night, thousands of illuminated lanterns hanging across streets and buildings, crowds in traditional Tang costumes enjoying the festival, palace architecture with upturned eaves\nScene/backdrop: imperial capital cityscape with palace complexes, wide avenues, market districts, city gates visible in distance, festive decorations strung between structures\nLighting/mood: warm golden glow from countless lanterns reflecting on faces and streets, deep indigo night sky as contrast, celebratory and majestic atmosphere\nColor palette: mineral pigments in vermilion, azurite blue, malachite green, gold leaf accents, warm lantern orange against cool night blues\nMaterials/textures: silk scroll surface quality, visible brushwork in architectural lines, layered color washes for depth, fine ink outlines defining forms\nConstraints: must maintain horizontal scroll reading flow from right to left; architectural proportions must reflect Tang Dynasty conventions\nAvoid: anachronistic elements; modern lighting; photographic realism; Western perspective; anime style; generic clip art lanterns",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ed3ddc4b-2e5a-4cbd-a4ed-52e385564c80/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing panoramic illustration of the Lantern Festival in Tang Dynasty Chang'an, a traditional Chinese long scroll painting.\\n\\nStyle/medium: gongbi zhongcai (meticulous brushwork with heavy colors), traditional Chinese handscroll painting, Tang Dynasty court painting tradition, architectural precision with delicate figure rendering\\nComposition: bird's-eye panoramic view sweeping across the entire cityscape, horizontal scroll format, multiple focal points showing layers of streets, palaces, and crowds\\nSubject: Tang Dynasty Chang'an city during Lantern Festival night, thousands of illuminated lanterns hanging across streets and buildings, crowds in traditional Tang costumes enjoying the festival, palace architecture with upturned eaves\\nScene/backdrop: imperial capital cityscape with palace complexes, wide avenues, market districts, city gates visible in distance, festive decorations strung between structures\\nLighting/mood: warm golden glow from countless lanterns reflecting on faces and streets, deep indigo night sky as contrast, celebratory and majestic atmosphere\\nColor palette: mineral pigments in vermilion, azurite blue, malachite green, gold leaf accents, warm lantern orange against cool night blues\\nMaterials/textures: silk scroll surface quality, visible brushwork in architectural lines, layered color washes for depth, fine ink outlines defining forms\\nConstraints: must maintain horizontal scroll reading flow from right to left; architectural proportions must reflect Tang Dynasty conventions\\nAvoid: anachronistic elements; modern lighting; photographic realism; Western perspective; anime style; generic clip art lanterns\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14920
+}

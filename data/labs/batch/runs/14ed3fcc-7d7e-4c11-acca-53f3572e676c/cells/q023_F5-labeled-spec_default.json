@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: packaging design presentation / commercial product photography composite\nPrimary request: full set of four premium organic matcha product packaging displayed together — matcha powder, matcha chocolate, matcha cookies, and matcha tea bags — neatly arranged on a light wood surface\nScene/backdrop: light-toned natural wood tabletop, clean and minimal; scattered fresh tea leaves and loose matcha powder as decorative accents\nSubject: four product packages in a cohesive series design, upright and neatly aligned; each package features a hand-drawn illustration of a matcha tea garden with clean elegant linework; trilingual product name typography (Chinese / English / Japanese) using a combination of serif and handwritten typefaces\nStyle/medium: product mockup composite blending commercial product photography realism with graphic design presentation; Japanese minimalist aesthetic meets contemporary design sensibility\nComposition/framing: slightly elevated three-quarter angle, wide enough to show all four products together, balanced symmetrical arrangement\nLighting/mood: soft diffused natural light, clean and refined, fresh and elegant atmosphere\nColor palette: layered matcha green tones (deep forest green to pale celadon) as dominant; off-white / cream as secondary; gold foil accents for details\nMaterials/textures: matte paper packaging with subtle tactile texture; fine traditional Japanese pattern (wagara) printed as background texture on each pack; gold detail lines\nConstraints: all four products must be clearly visible and identifiable; packaging must feel cohesive as a series; trilingual labeling must be legible\nAvoid: glossy plastic packaging, cluttered background, overly saturated colors, Western-style packaging aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c824d740-54b4-4c26-9e65-3166091bc161/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: packaging design presentation / commercial product photography composite\\nPrimary request: full set of four premium organic matcha product packaging displayed together — matcha powder, matcha chocolate, matcha cookies, and matcha tea bags — neatly arranged on a light wood surface\\nScene/backdrop: light-toned natural wood tabletop, clean and minimal; scattered fresh tea leaves and loose matcha powder as decorative accents\\nSubject: four product packages in a cohesive series design, upright and neatly aligned; each package features a hand-drawn illustration of a matcha tea garden with clean elegant linework; trilingual product name typography (Chinese / English / Japanese) using a combination of serif and handwritten typefaces\\nStyle/medium: product mockup composite blending commercial product photography realism with graphic design presentation; Japanese minimalist aesthetic meets contemporary design sensibility\\nComposition/framing: slightly elevated three-quarter angle, wide enough to show all four products together, balanced symmetrical arrangement\\nLighting/mood: soft diffused natural light, clean and refined, fresh and elegant atmosphere\\nColor palette: layered matcha green tones (deep forest green to pale celadon) as dominant; off-white / cream as secondary; gold foil accents for details\\nMaterials/textures: matte paper packaging with subtle tactile texture; fine traditional Japanese pattern (wagara) printed as background texture on each pack; gold detail lines\\nConstraints: all four products must be clearly visible and identifiable; packaging must feel cohesive as a series; trilingual labeling must be legible\\nAvoid: glossy plastic packaging, cluttered background, overly saturated colors, Western-style packaging aesthetic\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16272
+}

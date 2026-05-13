@@ -1,0 +1,15 @@
+{
+  "query_idx": 43,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"Design a luxury photographer business card — BACK side.\\n\\nStyle/medium: metallic dark luxury, high-end business card design, flat print-ready\\nComposition: centered layout, bold and attractive, logo as the hero element\\nSubject: large decorative photography logo / emblem centered on the back — ornate, elegant, suitable for a luxury photography brand\\nScene/backdrop: deep dark background (near black)\\nLighting/mood: metallic sheen, luxurious, sophisticated\\nColor palette: dark charcoal / near-black background with gold or silver metallic accents\\nMaterials/textures: metallic foil-like texture on logo and decorative elements\\nText (verbatim):\\nConstraints: back side only — no contact info, no name; logo must look attractive and premium\\nAvoid: cluttered layout, cheap or flat look, neon colors\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}{\"prompt\": \"Design a luxury photographer business card — FRONT side.\\n\\nStyle/medium: metallic dark luxury, high-end business card design, flat print-ready\\nComposition:\\n  centered vertical layout\\n  photography logo at the top center\\n  brand name below the logo\\n  social media icons with handles below the name\\n  phone icon with number at the bottom\\nSubject:\\n  elegant photography logo / emblem at the top (ornate, fancy, suitable for luxury photography brand)\\n  brand name: Minyar Photography\\n  Instagram icon with handle: minyar.guediche.photography\\n  Facebook icon with handle: Minyar-Photographer\\n  phone icon with number: 55 43 48 43\\nScene/backdrop: deep dark background (near black)\\nLighting/mood: metallic sheen, luxurious, sophisticated\\nColor palette: dark charcoal / near-black background with gold or silver metallic accents\\nMaterials/textures: metallic foil-like texture on logo, text, and icons\\nText (verbatim):\\n  Minyar Photography\\n  minyar.guediche.photography\\n  Minyar-Photographer\\n  55 43 48 43\\nConstraints: front side only; all text and icons must be clearly legible; icons for Instagram, Facebook, and phone must be recognizable\\nAvoid: cluttered layout, cheap or flat look, neon colors, missing any of the listed contact details\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 13271,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

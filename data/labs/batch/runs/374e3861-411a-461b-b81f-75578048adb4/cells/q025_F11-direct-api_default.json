@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张未来主义风格的建筑概念图，流线型的白色建筑悬浮在空中，周围有无人机和全息投影，清洁能源设施，体现可持续城市发展愿景",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c122b136-2c2a-447f-b73f-391db3c6e652/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张未来主义风格的建筑概念图，流线型的白色建筑悬浮在空中，周围有无人机和全息投影，清洁能源设施，体现可持续城市发展愿景\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8936
+}

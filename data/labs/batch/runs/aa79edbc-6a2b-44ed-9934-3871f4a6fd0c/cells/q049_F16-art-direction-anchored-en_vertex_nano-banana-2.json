@@ -1,0 +1,23 @@
+{
+  "query_idx": 49,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "로고 디자인 — 남녀 데이팅 서비스 \"마주봄\".\n\n풍격/매체: 로고 디자인, 추상적 조형\n구도: 두 형태가 서로 마주보는 대칭 또는 대향 구조\n주체: 남녀가 서로 바라보는 모양을 추상적으로 표현한 심볼 마크\n배경/장면: 단색 또는 여백 배경\n조명/분위기:\n색상 방안: 붉은 계열 메인 컬러\n재질/질감: 플랫 벡터\n텍스트(원문): 마주봄\n제약: 직관적인 인물 묘사 없이 추상 형태로만 표현\n피할 것: 사실적 인물 일러스트, 사진적 표현",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A27eaa86e-aa73-4b50-8f4e-6e213bf075e0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"로고 디자인 — 남녀 데이팅 서비스 \\\"마주봄\\\".\\n\\n풍격/매체: 로고 디자인, 추상적 조형\\n구도: 두 형태가 서로 마주보는 대칭 또는 대향 구조\\n주체: 남녀가 서로 바라보는 모양을 추상적으로 표현한 심볼 마크\\n배경/장면: 단색 또는 여백 배경\\n조명/분위기:\\n색상 방안: 붉은 계열 메인 컬러\\n재질/질감: 플랫 벡터\\n텍스트(원문): 마주봄\\n제약: 직관적인 인물 묘사 없이 추상 형태로만 표현\\n피할 것: 사실적 인물 일러스트, 사진적 표현\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8008,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

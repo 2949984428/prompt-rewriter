@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for the Changan Qiyuan Q06 vehicle launch announcement.\n\nStyle/medium: clean corporate presentation cover design, editorial layout with subtle depth and transparency effects, modern Chinese automotive branding aesthetic\nComposition: wide landscape format with title and subtitle prominently placed in upper-left or centered, generous negative space for text overlay, layered translucent background elements\nSubject: Changan Qiyuan Q06 vehicle silhouette or abstract automotive form, subtle and elegant rather than dominant\nScene/backdrop: ethereal atmospheric background with depth — soft gradients, light rays, or misty landscape suggesting origin and journey, translucent layered effects creating \"通透\" (transparency) sensation\nLighting/mood: soft diffused natural light, serene and premium mood, sense of anticipation and new beginnings\nColor palette: deep navy or midnight blue as base, silver or white accents, subtle warm highlights suggesting sunrise/dawn\nText (verbatim): \"长安起源Q06将于9月上市\"\nConstraints: must accommodate both main title and subtitle placement; background must remain readable when text overlaid; suitable for 16:9 presentation slide format\nAvoid: busy cluttered backgrounds, aggressive sporty aesthetics, cartoonish vehicle illustrations, watermark, generic stock photo look",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/97a4968b-6da0-4c52-9170-43c0f67cbd9f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing marketing poster for the Changan Qiyuan Q06 vehicle launch announcement.\\n\\nStyle/medium: clean corporate presentation cover design, editorial layout with subtle depth and transparency effects, modern Chinese automotive branding aesthetic\\nComposition: wide landscape format with title and subtitle prominently placed in upper-left or centered, generous negative space for text overlay, layered translucent background elements\\nSubject: Changan Qiyuan Q06 vehicle silhouette or abstract automotive form, subtle and elegant rather than dominant\\nScene/backdrop: ethereal atmospheric background with depth — soft gradients, light rays, or misty landscape suggesting origin and journey, translucent layered effects creating \\\"通透\\\" (transparency) sensation\\nLighting/mood: soft diffused natural light, serene and premium mood, sense of anticipation and new beginnings\\nColor palette: deep navy or midnight blue as base, silver or white accents, subtle warm highlights suggesting sunrise/dawn\\nText (verbatim): \\\"长安起源Q06将于9月上市\\\"\\nConstraints: must accommodate both main title and subtitle placement; background must remain readable when text overlaid; suitable for 16:9 presentation slide format\\nAvoid: busy cluttered backgrounds, aggressive sporty aesthetics, cartoonish vehicle illustrations, watermark, generic stock photo look\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10377
+}

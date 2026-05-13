@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: Instagram story photo with hand-drawn annotations\nPrimary request: Korean cafe aesthetic coffee and dessert flat-lay with white hand-drawn sketch lines, arrows, dotted lines, Japanese handwritten annotations, and decorative doodles\nScene/backdrop: minimalist marble or light wood cafe table, soft natural window light, Korean cafe interior blur\nSubject: iced latte in clear glass with visible layers, croissant or macaron on ceramic plate, small vase with dried flowers, clean composition without people\nStyle/medium: smartphone photography aesthetic, hand-drawn illustration overlay, sketch-like white line art, magazine rough-note style\nComposition/framing: top-down flat-lay, smartphone camera perspective, generous negative space for annotations\nLighting/mood: soft diffused natural daylight, bright and airy, cozy and relaxed atmosphere\nColor palette: warm beige, soft cream, muted pastels, white sketch lines on slightly desaturated photo\nMaterials/textures: glossy ceramic, flaky pastry, glass condensation, marble grain, paper-like sketch texture\nText (verbatim): 「さわやか」「しっとり」「リラックス」「しあわせすぎ～」「やさしいあまみ」「さいこう」「すてきなじかん」\nConstraints: no people in frame, hand-drawn lines must look like white pen sketch, annotations in Japanese (70% hiragana, 30% simple kanji), maintain Instagram story proportions with blank space\nAvoid: photorealistic human hands, overly perfect digital lines, cluttered composition, watermark, 8K, ultra-detailed, masterpiece",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/983e1eeb-9e53-45fa-b77d-3c0b3fed7ee8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: Instagram story photo with hand-drawn annotations\\nPrimary request: Korean cafe aesthetic coffee and dessert flat-lay with white hand-drawn sketch lines, arrows, dotted lines, Japanese handwritten annotations, and decorative doodles\\nScene/backdrop: minimalist marble or light wood cafe table, soft natural window light, Korean cafe interior blur\\nSubject: iced latte in clear glass with visible layers, croissant or macaron on ceramic plate, small vase with dried flowers, clean composition without people\\nStyle/medium: smartphone photography aesthetic, hand-drawn illustration overlay, sketch-like white line art, magazine rough-note style\\nComposition/framing: top-down flat-lay, smartphone camera perspective, generous negative space for annotations\\nLighting/mood: soft diffused natural daylight, bright and airy, cozy and relaxed atmosphere\\nColor palette: warm beige, soft cream, muted pastels, white sketch lines on slightly desaturated photo\\nMaterials/textures: glossy ceramic, flaky pastry, glass condensation, marble grain, paper-like sketch texture\\nText (verbatim): 「さわやか」「しっとり」「リラックス」「しあわせすぎ～」「やさしいあまみ」「さいこう」「すてきなじかん」\\nConstraints: no people in frame, hand-drawn lines must look like white pen sketch, annotations in Japanese (70% hiragana, 30% simple kanji), maintain Instagram story proportions with blank space\\nAvoid: photorealistic human hands, overly perfect digital lines, cluttered composition, watermark, 8K, ultra-detailed, masterpiece\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 23443
+}

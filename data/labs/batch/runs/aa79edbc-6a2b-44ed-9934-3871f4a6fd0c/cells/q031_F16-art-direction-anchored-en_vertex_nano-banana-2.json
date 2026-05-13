@@ -1,0 +1,23 @@
+{
+  "query_idx": 31,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个玩具公司的 logo，英文字母为 ZD。\n\n风格/媒介:\n  简约 logo 设计\n  有创新感和设计感\n  字母造型偏抽象，不直接写实\n\n构图:\n  整体性强，各元素融合为一体\n  水滴元素与字母 ZD 有机结合，融入字形轮廓或笔画之中，而非单独附加\n\n主体:\n  英文字母 ZD\n  水滴元素融合进字母造型，不割裂\n\n场景/背景:\n\n光线/氛围:\n\n色彩方案:\n\n材质/纹理:\n\n文字(原样): ZD\n\n约束:\n  边缘圆润，不要锋利尖角\n  水滴不能作为独立装饰叠加，必须与字母形态融为一体\n  整体感强，不割裂\n\n避免:\n  锋利边缘\n  水滴单独悬挂或附加在字母旁\n  过于复杂的装饰",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6a9e791e-f5b8-4e49-8524-efe5d49789d0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个玩具公司的 logo，英文字母为 ZD。\\n\\n风格/媒介:\\n  简约 logo 设计\\n  有创新感和设计感\\n  字母造型偏抽象，不直接写实\\n\\n构图:\\n  整体性强，各元素融合为一体\\n  水滴元素与字母 ZD 有机结合，融入字形轮廓或笔画之中，而非单独附加\\n\\n主体:\\n  英文字母 ZD\\n  水滴元素融合进字母造型，不割裂\\n\\n场景/背景:\\n\\n光线/氛围:\\n\\n色彩方案:\\n\\n材质/纹理:\\n\\n文字(原样): ZD\\n\\n约束:\\n  边缘圆润，不要锋利尖角\\n  水滴不能作为独立装饰叠加，必须与字母形态融为一体\\n  整体感强，不割裂\\n\\n避免:\\n  锋利边缘\\n  水滴单独悬挂或附加在字母旁\\n  过于复杂的装饰\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 12887,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

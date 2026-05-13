@@ -1,0 +1,21 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide for a product launch campaign featuring 长安起源Q06.\n\nStyle/medium: needs a cinematic, visually striking presentation-cover aesthetic — exact stylistic execution is yours\nComposition: must include a large hero background image with title and subtitle overlaid in a brand-aligned hierarchy\nSubject: must include 长安起源Q06 as the hero subject\nScene/backdrop: needs a grand, immersive backdrop — exact environment and depth treatment are yours\nLighting/mood: needs a dramatic, awe-inspiring atmosphere — exact light source mix and intensity are yours\nColor palette: needs a direction that feels premium and brand-coherent for 长安起源Q06 — exact palette and ratios are yours\nMaterials/textures: needs a sense of translucency and visual depth in the background — exact layering and sheen are yours\nText (verbatim): must include \"长安起源Q06\" (large, primary title), \"9月正式上市\" (subtitle)\nConstraints: must follow PPT cover proportions (16:9 landscape); title and subtitle must be legible against the background\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5602d54e-660b-451e-a4ee-5d6aa320aef9/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide for a product launch campaign featuring 长安起源Q06.\\n\\nStyle/medium: needs a cinematic, visually striking presentation-cover aesthetic — exact stylistic execution is yours\\nComposition: must include a large hero background image with title and subtitle overlaid in a brand-aligned hierarchy\\nSubject: must include 长安起源Q06 as the hero subject\\nScene/backdrop: needs a grand, immersive backdrop — exact environment and depth treatment are yours\\nLighting/mood: needs a dramatic, awe-inspiring atmosphere — exact light source mix and intensity are yours\\nColor palette: needs a direction that feels premium and brand-coherent for 长安起源Q06 — exact palette and ratios are yours\\nMaterials/textures: needs a sense of translucency and visual depth in the background — exact layering and sheen are yours\\nText (verbatim): must include \\\"长安起源Q06\\\" (large, primary title), \\\"9月正式上市\\\" (subtitle)\\nConstraints: must follow PPT cover proportions (16:9 landscape); title and subtitle must be legible against the background\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10826
+}

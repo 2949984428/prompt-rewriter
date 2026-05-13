@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a gaming monitor launch.\n\nStyle/medium: clean minimalist graphic design, premium tech brand aesthetic, editorial typography\nComposition: rule of thirds layout, large headline in upper third, product specs in lower third, generous negative space\nSubject: bold typographic headline \"8k GGU 电竞显示器 1000hz\" as hero element, clean sans-serif typeface\nScene/backdrop: solid neutral background (deep charcoal or pure white), no environmental context\nLighting/mood: flat even lighting, crisp and professional, confident and premium\nColor palette: monochromatic base with single accent color (electric blue or neon green) for emphasis\nText (verbatim): \"8k GGU 电竞显示器 1000hz\", \"全球首发全新面板 低延迟 完美色彩\"\nConstraints: must scale to 9:16 vertical format; headline must dominate frame for thumbnail readability; all Chinese text preserved exactly\nAvoid: busy backgrounds, gradients unless essential, generic gaming RGB overload, 3D renders, cluttered layouts, stock photo elements",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/79c8f931-f775-4cd7-b172-eefe329d3b1c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for a gaming monitor launch.\\n\\nStyle/medium: clean minimalist graphic design, premium tech brand aesthetic, editorial typography\\nComposition: rule of thirds layout, large headline in upper third, product specs in lower third, generous negative space\\nSubject: bold typographic headline \\\"8k GGU 电竞显示器 1000hz\\\" as hero element, clean sans-serif typeface\\nScene/backdrop: solid neutral background (deep charcoal or pure white), no environmental context\\nLighting/mood: flat even lighting, crisp and professional, confident and premium\\nColor palette: monochromatic base with single accent color (electric blue or neon green) for emphasis\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\", \\\"全球首发全新面板 低延迟 完美色彩\\\"\\nConstraints: must scale to 9:16 vertical format; headline must dominate frame for thumbnail readability; all Chinese text preserved exactly\\nAvoid: busy backgrounds, gradients unless essential, generic gaming RGB overload, 3D renders, cluttered layouts, stock photo elements\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9700
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "使用详细的步骤图，解说一下如何在docker容器里部署hermes，并\n且接入glmcodingplan，标注为清晰的1234步骤",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a49239f1-6763-48c9-ba72-6913402c9b4c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"使用详细的步骤图，解说一下如何在docker容器里部署hermes，并且接入glmcodingplan，标注为清晰的1234步骤\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 4811
+}

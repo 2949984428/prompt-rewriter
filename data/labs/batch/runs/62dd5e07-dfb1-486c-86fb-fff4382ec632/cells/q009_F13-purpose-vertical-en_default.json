@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing brand promotional poster for RAN QIU, designed for print and social media use with an Eastern-aesthetic, minimalist visual language.\n\nStyle/medium: minimalist poster with Eastern aesthetic, natural poetry sensibility, warm-healing tone, generous negative space, shallow depth of field\nComposition: ample white space, single focal subject centered or offset with breathing room, shallow depth of field framing\nSubject: brand mark \"RAN QIU\" integrated with natural autumnal elements (dried botanicals, fallen leaves, soft textures)\nScene/backdrop: quiet, poetic autumn atmosphere — understated, serene, no busy backgrounds\nLighting/mood: golden hour warmth, soft diffused light, tranquil and healing\nColor palette: #8B3A1E (deep autumn brick-red), #E8DCCB (cream beige), #D4A574 (golden amber-brown); warm tones throughout\nMaterials/textures: natural paper-like textures, organic botanical surfaces\nText (verbatim): RAN QIU\nConstraints: brand colors must dominate; negative space must be generous; no harsh shadows or high-contrast drama; Eastern minimalist restraint throughout\nAvoid: busy backgrounds, cold or desaturated tones, Western luxury poster clichés, overcrowded layout, neon or synthetic colors",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7385af5e-a82e-413e-aefd-06e152acb089/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing brand promotional poster for RAN QIU, designed for print and social media use with an Eastern-aesthetic, minimalist visual language.\\n\\nStyle/medium: minimalist poster with Eastern aesthetic, natural poetry sensibility, warm-healing tone, generous negative space, shallow depth of field\\nComposition: ample white space, single focal subject centered or offset with breathing room, shallow depth of field framing\\nSubject: brand mark \\\"RAN QIU\\\" integrated with natural autumnal elements (dried botanicals, fallen leaves, soft textures)\\nScene/backdrop: quiet, poetic autumn atmosphere — understated, serene, no busy backgrounds\\nLighting/mood: golden hour warmth, soft diffused light, tranquil and healing\\nColor palette: #8B3A1E (deep autumn brick-red), #E8DCCB (cream beige), #D4A574 (golden amber-brown); warm tones throughout\\nMaterials/textures: natural paper-like textures, organic botanical surfaces\\nText (verbatim): RAN QIU\\nConstraints: brand colors must dominate; negative space must be generous; no harsh shadows or high-contrast drama; Eastern minimalist restraint throughout\\nAvoid: busy backgrounds, cold or desaturated tones, Western luxury poster clichés, overcrowded layout, neon or synthetic colors\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9717
+}

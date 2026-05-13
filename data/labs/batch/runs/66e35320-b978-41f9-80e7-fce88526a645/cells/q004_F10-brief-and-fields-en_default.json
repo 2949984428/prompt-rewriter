@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for the Changan Origin Q06 automotive launch announcement.\n\nStyle/medium: clean corporate presentation cover design, modern automotive marketing aesthetic, subtle gradient overlays\nSubject: bold headline \"长安起源Q06将于9月上市\" as central focal point, with elegant subheading placeholder below\nComposition: centered typography with generous breathing room, landscape orientation optimized for 16:9 presentation slide\nScene/backdrop: ethereal abstract background suggesting forward motion and innovation — soft light rays, subtle particle effects, translucent layers creating depth without distraction\nLighting/mood: soft diffused ambient light from upper left, creating gentle glow around text, professional and aspirational mood\nColor palette: deep navy or charcoal as base, electric blue or silver as accent for tech-forward automotive feel, white for text legibility\nText (verbatim): \"长安起源Q06将于9月上市\"\nConstraints: must remain legible when projected; background must not compete with headline readability; suitable for corporate presentation use\nAvoid: cluttered composition, overly saturated colors, generic stock photo aesthetic, watermark, 3D car render unless specified",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9403c797-7d5b-4a97-ab7f-8070d7e4d1e0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing marketing poster for the Changan Origin Q06 automotive launch announcement.\\n\\nStyle/medium: clean corporate presentation cover design, modern automotive marketing aesthetic, subtle gradient overlays\\nSubject: bold headline \\\"长安起源Q06将于9月上市\\\" as central focal point, with elegant subheading placeholder below\\nComposition: centered typography with generous breathing room, landscape orientation optimized for 16:9 presentation slide\\nScene/backdrop: ethereal abstract background suggesting forward motion and innovation — soft light rays, subtle particle effects, translucent layers creating depth without distraction\\nLighting/mood: soft diffused ambient light from upper left, creating gentle glow around text, professional and aspirational mood\\nColor palette: deep navy or charcoal as base, electric blue or silver as accent for tech-forward automotive feel, white for text legibility\\nText (verbatim): \\\"长安起源Q06将于9月上市\\\"\\nConstraints: must remain legible when projected; background must not compete with headline readability; suitable for corporate presentation use\\nAvoid: cluttered composition, overly saturated colors, generic stock photo aesthetic, watermark, 3D car render unless specified\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8885
+}

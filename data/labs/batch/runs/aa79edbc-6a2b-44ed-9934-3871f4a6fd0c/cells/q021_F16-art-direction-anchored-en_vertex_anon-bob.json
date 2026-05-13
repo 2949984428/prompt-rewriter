@@ -1,0 +1,23 @@
+{
+  "query_idx": 21,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一款结合图1简化图形与文字\"泰香记\"的 logo。\n\n风格/媒介:新中式风格 logo 设计\n构图:\n  图形与文字\"泰香记\"相结合\n  线条与色块清晰简洁\n主体:\n  以图1为基础的简化图形（线条更清晰、色块更明确）\n  文字\"泰香记\"\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):泰香记\n约束:\n  保留图1的核心视觉元素，做简化处理\n  图形与文字需整合为一体的 logo 构图\n避免:繁复装饰、模糊线条、西式风格",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa57cff51-bc75-4295-b7e8-dbf73b731a6c/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一款结合图1简化图形与文字\\\"泰香记\\\"的 logo。\\n\\n风格/媒介:新中式风格 logo 设计\\n构图:\\n  图形与文字\\\"泰香记\\\"相结合\\n  线条与色块清晰简洁\\n主体:\\n  以图1为基础的简化图形（线条更清晰、色块更明确）\\n  文字\\\"泰香记\\\"\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):泰香记\\n约束:\\n  保留图1的核心视觉元素，做简化处理\\n  图形与文字需整合为一体的 logo 构图\\n避免:繁复装饰、模糊线条、西式风格\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 6427,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

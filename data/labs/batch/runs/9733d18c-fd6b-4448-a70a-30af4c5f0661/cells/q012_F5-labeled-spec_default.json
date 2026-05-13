@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial documentary photography, golden ratio composition\nPrimary request: dawn prayer ceremony at Varanasi's Ganges River ghats, capturing the spiritual atmosphere of hundreds of Hindu devotees\nScene/backdrop: ancient stone ghats along the Ganges River at dawn, misty river surface with floating oil lamps, distant silhouette of the opposite riverbank\nSubject: elderly priest in orange saffron robes at center, holding a copper oil lamp amid rising incense smoke; surrounding devotees bathing in river, praying with folded hands, floating flower offerings\nStyle/medium: 35mm film documentary photography, rich saturated colors, film grain texture\nComposition/framing: golden ratio composition, foreground with blurred flower petals, midground focused on priest and devotees, background showing riverbank silhouette, wide establishing shot\nLighting/mood: golden hour sunrise light from horizon casting warm amber tones across the scene, soft diffused morning light with atmospheric haze, reverent and serene mood\nColor palette: warm golden amber + burnt orange saffron robes + copper metallic tones + soft rose pink from flower offerings + muted blue-gray water reflections\nMaterials/textures: coarse woven saffron fabric, weathered copper oil lamp with patina, smooth river water with gentle ripples, delicate flower petals, rough ancient stone steps\nConstraints: maintain the priest as central focal point, preserve the documentary authenticity of the ritual, keep the layered depth with foreground/midground/background separation\nAvoid: oversaturated neon colors, plastic-looking textures, modern elements, staged poses, artificial lighting, oversharpening, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/06a964ad-d034-4624-ad88-83df9518ebc5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial documentary photography, golden ratio composition\\nPrimary request: dawn prayer ceremony at Varanasi's Ganges River ghats, capturing the spiritual atmosphere of hundreds of Hindu devotees\\nScene/backdrop: ancient stone ghats along the Ganges River at dawn, misty river surface with floating oil lamps, distant silhouette of the opposite riverbank\\nSubject: elderly priest in orange saffron robes at center, holding a copper oil lamp amid rising incense smoke; surrounding devotees bathing in river, praying with folded hands, floating flower offerings\\nStyle/medium: 35mm film documentary photography, rich saturated colors, film grain texture\\nComposition/framing: golden ratio composition, foreground with blurred flower petals, midground focused on priest and devotees, background showing riverbank silhouette, wide establishing shot\\nLighting/mood: golden hour sunrise light from horizon casting warm amber tones across the scene, soft diffused morning light with atmospheric haze, reverent and serene mood\\nColor palette: warm golden amber + burnt orange saffron robes + copper metallic tones + soft rose pink from flower offerings + muted blue-gray water reflections\\nMaterials/textures: coarse woven saffron fabric, weathered copper oil lamp with patina, smooth river water with gentle ripples, delicate flower petals, rough ancient stone steps\\nConstraints: maintain the priest as central focal point, preserve the documentary authenticity of the ritual, keep the layered depth with foreground/midground/background separation\\nAvoid: oversaturated neon colors, plastic-looking textures, modern elements, staged poses, artificial lighting, oversharpening, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13092
+}

@@ -1,0 +1,24 @@
+{
+  "query_idx": 263,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "編輯這張海報，使整體視覺效果更精緻細膩。\n\n風格/媒介:\n構圖:\n主體:海報\n場景/背景:\n光線/氛圍:\n色彩方案:\n材質/紋理:\n文字(原樣):\n約束:\n  基於原圖進行優化，保留原有構圖與內容\n  適合微博發布尺寸（橫版或方形）\n避免:粗糙、視覺效果醜陋的處理",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A55b72776-650c-4816-9f0c-8b6481fb1141/0.png",
+    "/api/image-file/lovart%3A55b72776-650c-4816-9f0c-8b6481fb1141/1.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"編輯這張海報，使整體視覺效果更精緻細膩。\\n\\n風格/媒介:\\n構圖:\\n主體:海報\\n場景/背景:\\n光線/氛圍:\\n色彩方案:\\n材質/紋理:\\n文字(原樣):\\n約束:\\n  基於原圖進行優化，保留原有構圖與內容\\n  適合微博發布尺寸（橫版或方形）\\n避免:粗糙、視覺效果醜陋的處理\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 5685,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

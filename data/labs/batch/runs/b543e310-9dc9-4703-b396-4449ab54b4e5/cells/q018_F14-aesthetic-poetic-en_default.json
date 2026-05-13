@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an e-commerce landing page hero section mockup for LUMEA BEAUTY, a Japanese beauty brand, designed for conversion-focused beauty commerce.\n\nStyle/medium: clean e-commerce UI mockup with airy editorial photography, feminine beauty aesthetic\nComposition: hero section layout with left content column, center model/product focus, right floating stat cards, bottom benefit cards row\nSubject: young East Asian woman smiling and touching her cheek, holding a moisturizing boost serum dropper bottle, product packaging box visible\nScene/backdrop: bright studio environment with soft floral accents and purple flowers\nLighting/mood: soft diffused lighting creating an airy, welcoming atmosphere\nColor palette: soft pink and white with purple floral notes, warm feminine tones\nMaterials/textures: \nText (verbatim): \n  Header — LUMEA BEAUTY logo, navigation: 特徴 / 成分 / お客様の声 / 使い方 / FAQ, CTA: 今すぐ試す\n  Hero headline: 鏡を見るたび、うるおう透明感。\n  Subheadline: 乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。\n  Feature badges: 敏感肌OK / 高保湿 / 朝晩使える\n  Bullet points: 美容成分をしっかり届ける / ハリ・ツヤのある印象へ / 続けやすいシンプルケア\n  CTA buttons: 初回限定で試してみる > / 成分をチェック >\n  Trust badges: 送料無料 / 初回限定 / 定期縛りなし\n  Stat cards: 満足度 96% / 美容成分 5種配合 / 愛用者 12,000人突破\n  Bottom benefit cards: うるおい / 透明感 / 使いやすさ\nConstraints: left column contains all text hierarchy clearly, center model holds product, right stat cards as floating white rounded rectangles with gold accents, bottom benefit cards as horizontal white rounded rectangles with icons\nAvoid: dark or moody lighting, cluttered composition, masculine aesthetics, low-contrast text",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/80bf2853-ae5b-41cb-82fb-b7b03f139efd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an e-commerce landing page hero section mockup for LUMEA BEAUTY, a Japanese beauty brand, designed for conversion-focused beauty commerce.\\n\\nStyle/medium: clean e-commerce UI mockup with airy editorial photography, feminine beauty aesthetic\\nComposition: hero section layout with left content column, center model/product focus, right floating stat cards, bottom benefit cards row\\nSubject: young East Asian woman smiling and touching her cheek, holding a moisturizing boost serum dropper bottle, product packaging box visible\\nScene/backdrop: bright studio environment with soft floral accents and purple flowers\\nLighting/mood: soft diffused lighting creating an airy, welcoming atmosphere\\nColor palette: soft pink and white with purple floral notes, warm feminine tones\\nMaterials/textures: \\nText (verbatim): \\n  Header — LUMEA BEAUTY logo, navigation: 特徴 / 成分 / お客様の声 / 使い方 / FAQ, CTA: 今すぐ試す\\n  Hero headline: 鏡を見るたび、うるおう透明感。\\n  Subheadline: 乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。\\n  Feature badges: 敏感肌OK / 高保湿 / 朝晩使える\\n  Bullet points: 美容成分をしっかり届ける / ハリ・ツヤのある印象へ / 続けやすいシンプルケア\\n  CTA buttons: 初回限定で試してみる > / 成分をチェック >\\n  Trust badges: 送料無料 / 初回限定 / 定期縛りなし\\n  Stat cards: 満足度 96% / 美容成分 5種配合 / 愛用者 12,000人突破\\n  Bottom benefit cards: うるおい / 透明感 / 使いやすさ\\nConstraints: left column contains all text hierarchy clearly, center model holds product, right stat cards as floating white rounded rectangles with gold accents, bottom benefit cards as horizontal white rounded rectangles with icons\\nAvoid: dark or moody lighting, cluttered composition, masculine aesthetics, low-contrast text\"}",
+  "ms": 12684
+}

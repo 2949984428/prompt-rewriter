@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic poster illustrating step-by-step instructions for deploying Hermes inside a Docker container and integrating GLMCodingPlan, with clearly labeled steps 1 2 3 4.\n\nStyle/medium: clean flat vector infographic, technical documentation style, isometric icon accents\nComposition: vertical single-column layout, each step in its own numbered panel, top-to-bottom reading flow\nSubject: four clearly labeled steps — Step 1: pull/build Docker image for Hermes; Step 2: run and configure the Docker container; Step 3: install and configure GLMCodingPlan inside the container; Step 4: verify integration and test connection — each panel contains a simplified terminal/command illustration and a short label\nScene/backdrop: neutral light gray background, subtle grid or blueprint texture\nLighting/mood: flat, no shadows, clean technical clarity\nColor palette: deep navy blue as primary structural color, bright teal as accent for step numbers, white for panel backgrounds, monochrome code snippets\nText (verbatim): \"1\" \"2\" \"3\" \"4\" \"Hermes\" \"Docker\" \"GLMCodingPlan\"\nConstraints: step numbers must be visually prominent and unambiguous; layout must read clearly at A4 print size; icons must remain legible at small scale\nAvoid: gradients, photorealistic textures, decorative flourishes, cluttered backgrounds, generic Behance poster style, stuffer aesthetic",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2d9b5aeb-ab92-43d8-a467-fab6a8b796bc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an infographic poster illustrating step-by-step instructions for deploying Hermes inside a Docker container and integrating GLMCodingPlan, with clearly labeled steps 1 2 3 4.\\n\\nStyle/medium: clean flat vector infographic, technical documentation style, isometric icon accents\\nComposition: vertical single-column layout, each step in its own numbered panel, top-to-bottom reading flow\\nSubject: four clearly labeled steps — Step 1: pull/build Docker image for Hermes; Step 2: run and configure the Docker container; Step 3: install and configure GLMCodingPlan inside the container; Step 4: verify integration and test connection — each panel contains a simplified terminal/command illustration and a short label\\nScene/backdrop: neutral light gray background, subtle grid or blueprint texture\\nLighting/mood: flat, no shadows, clean technical clarity\\nColor palette: deep navy blue as primary structural color, bright teal as accent for step numbers, white for panel backgrounds, monochrome code snippets\\nText (verbatim): \\\"1\\\" \\\"2\\\" \\\"3\\\" \\\"4\\\" \\\"Hermes\\\" \\\"Docker\\\" \\\"GLMCodingPlan\\\"\\nConstraints: step numbers must be visually prominent and unambiguous; layout must read clearly at A4 print size; icons must remain legible at small scale\\nAvoid: gradients, photorealistic textures, decorative flourishes, cluttered backgrounds, generic Behance poster style, stuffer aesthetic\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10090
+}

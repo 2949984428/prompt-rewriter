@@ -1,0 +1,23 @@
+{
+  "query_idx": 165,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（#1:IMG_1519）。\n\n风格/媒介:产品建模级精修，photorealistic\n构图:\n主体:\n  黑色橡胶轮胎\n  去除产品上的刺头、灰尘、指纹\n  还原轮胎花纹细节\n  崭新质感效果\n场景/背景:纯白背景（亚马逊白底图规格）\n光线/氛围:\n色彩方案:黑色橡胶质感\n材质/纹理:崭新黑色橡胶，轮胎花纹清晰可见\n文字(原样):\n约束:\n  精修完美无痕\n  保留原始产品造型与角度不变\n  仅修复瑕疵，不改变产品结构\n避免:刺头、灰尘、指纹、划痕、任何瑕疵残留",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A30950bfe-a6b0-43ec-818d-43560169eda3/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（#1:IMG_1519）。\\n\\n风格/媒介:产品建模级精修，photorealistic\\n构图:\\n主体:\\n  黑色橡胶轮胎\\n  去除产品上的刺头、灰尘、指纹\\n  还原轮胎花纹细节\\n  崭新质感效果\\n场景/背景:纯白背景（亚马逊白底图规格）\\n光线/氛围:\\n色彩方案:黑色橡胶质感\\n材质/纹理:崭新黑色橡胶，轮胎花纹清晰可见\\n文字(原样):\\n约束:\\n  精修完美无痕\\n  保留原始产品造型与角度不变\\n  仅修复瑕疵，不改变产品结构\\n避免:刺头、灰尘、指纹、划痕、任何瑕疵残留\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5969,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

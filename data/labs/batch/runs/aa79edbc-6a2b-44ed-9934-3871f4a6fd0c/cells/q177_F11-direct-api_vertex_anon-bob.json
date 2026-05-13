@@ -1,0 +1,23 @@
+{
+  "query_idx": 177,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "基于 [@image:#1:reference_layout] 的版式与B端逻辑，为以下标题生成1688高转化主图，主标题需带白色描边与黄色圆角实框，副标题加粗展示：\n\n标题内容：\n卡通魔术贴章 PVC软胶创意趣味图案背包装饰贴潮牌配饰散装批发\n军迷战术装备 PVC软胶魔术贴臂章3D浮雕徽章背心配件东莞厂家\n户外冲锋衣臂章 PVC软胶魔术贴反光贴章防水耐磨团队标识批量定做",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3cdbf0db-8973-49e9-b30c-d018d96cc6f7/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"基于 [@image:#1:reference_layout] 的版式与B端逻辑，为以下标题生成1688高转化主图，主标题需带白色描边与黄色圆角实框，副标题加粗展示：\\n\\n标题内容：\\n卡通魔术贴章 PVC软胶创意趣味图案背包装饰贴潮牌配饰散装批发\\n军迷战术装备 PVC软胶魔术贴臂章3D浮雕徽章背心配件东莞厂家\\n户外冲锋衣臂章 PVC软胶魔术贴反光贴章防水耐磨团队标识批量定做\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4793,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

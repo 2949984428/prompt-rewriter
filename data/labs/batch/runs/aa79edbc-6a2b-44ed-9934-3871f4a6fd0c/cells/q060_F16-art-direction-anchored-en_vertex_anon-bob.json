@@ -1,0 +1,23 @@
+{
+  "query_idx": 60,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一款姓氏 logo。\n\n风格/媒介:\n  中式文化风格 logo 设计\n  融合传统文化内涵与手工感\n  参考图示风格：笔墨质感、印章感或篆刻风格\n构图:\n  以\"徐\"字为核心视觉主体\n  可结合食养、手工相关图形元素作辅助\n主体:\n  姓氏\"徐\"\n  突出食养、手工两大主题\n场景/背景:\n  纯色或留白背景，适合 logo 呈现\n光线/氛围:\n  沉稳、有文化底蕴的氛围\n色彩方案:\n材质/纹理:\n  手工感、笔墨感或篆刻纹理\n文字(原样): 徐\n约束:\n  logo 设计，需具备识别性与文化内涵\n  风格参考 #1 #2 #3 #4 所示图像\n避免:\n  过于现代扁平化、无文化感的设计",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Afab5b7d3-4cf3-4c13-94ec-e6eef2ae181e/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一款姓氏 logo。\\n\\n风格/媒介:\\n  中式文化风格 logo 设计\\n  融合传统文化内涵与手工感\\n  参考图示风格：笔墨质感、印章感或篆刻风格\\n构图:\\n  以\\\"徐\\\"字为核心视觉主体\\n  可结合食养、手工相关图形元素作辅助\\n主体:\\n  姓氏\\\"徐\\\"\\n  突出食养、手工两大主题\\n场景/背景:\\n  纯色或留白背景，适合 logo 呈现\\n光线/氛围:\\n  沉稳、有文化底蕴的氛围\\n色彩方案:\\n材质/纹理:\\n  手工感、笔墨感或篆刻纹理\\n文字(原样): 徐\\n约束:\\n  logo 设计，需具备识别性与文化内涵\\n  风格参考 #1 #2 #3 #4 所示图像\\n避免:\\n  过于现代扁平化、无文化感的设计\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7960,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

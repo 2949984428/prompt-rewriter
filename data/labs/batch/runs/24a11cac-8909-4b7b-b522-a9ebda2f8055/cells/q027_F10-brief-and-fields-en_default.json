@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original character illustration for a Chinese xianxia-style game, featuring a hanfu-clad woman playing a guqin in a bamboo forest under moonlight.\n\nStyle/medium: detailed 2D game character art (立绘 / key visual), ink-wash painting textures blended with digital illustration, reminiscent of Chinese mobile game concept art with ethereal atmosphere\nComposition: full-body or three-quarter portrait, centered subject with generous negative space, slightly low camera angle to emphasize flowing robes and otherworldly presence\nSubject: elegant young woman in layered, flowing hanfu with long billowing sleeves (衣袂飘飘), seated or kneeling before a guqin, fingers poised on the strings, serene and mysterious expression\nScene/backdrop: dense bamboo grove at night, tall stalks receding into darkness, fallen leaves and mist at ground level\nLighting/mood: cool blue-white moonlight filtering through bamboo canopy, casting dappled, fragmented shadow patterns (斑驳光影) across her robes and the ground; soft, otherworldly, and tranquil\nColor palette: deep midnight blue and jade green as environment base, luminous silver-white moonlight as the key light accent, warm ivory and gold embroidery on the hanfu as contrast\nMaterials/textures: sheer silk fabric with visible translucency and fine embroidered patterns, smooth lacquered guqin surface, rough bamboo bark in background\nAvoid: modern clothing details, Western fantasy armor, harsh hard shadows, over-saturated neon colors, watermark, generic anime face without character distinction",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/898b00b3-db72-412c-b022-9c5c805de6b3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original character illustration for a Chinese xianxia-style game, featuring a hanfu-clad woman playing a guqin in a bamboo forest under moonlight.\\n\\nStyle/medium: detailed 2D game character art (立绘 / key visual), ink-wash painting textures blended with digital illustration, reminiscent of Chinese mobile game concept art with ethereal atmosphere\\nComposition: full-body or three-quarter portrait, centered subject with generous negative space, slightly low camera angle to emphasize flowing robes and otherworldly presence\\nSubject: elegant young woman in layered, flowing hanfu with long billowing sleeves (衣袂飘飘), seated or kneeling before a guqin, fingers poised on the strings, serene and mysterious expression\\nScene/backdrop: dense bamboo grove at night, tall stalks receding into darkness, fallen leaves and mist at ground level\\nLighting/mood: cool blue-white moonlight filtering through bamboo canopy, casting dappled, fragmented shadow patterns (斑驳光影) across her robes and the ground; soft, otherworldly, and tranquil\\nColor palette: deep midnight blue and jade green as environment base, luminous silver-white moonlight as the key light accent, warm ivory and gold embroidery on the hanfu as contrast\\nMaterials/textures: sheer silk fabric with visible translucency and fine embroidered patterns, smooth lacquered guqin surface, rough bamboo bark in background\\nAvoid: modern clothing details, Western fantasy armor, harsh hard shadows, over-saturated neon colors, watermark, generic anime face without character distinction\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 21049
+}

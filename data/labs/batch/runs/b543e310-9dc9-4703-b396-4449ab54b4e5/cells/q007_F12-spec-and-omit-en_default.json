@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic for a detailed exploded view of a Sony A7 camera showing all its parts with their names.\n\nStyle/medium: infographic, exploded view diagram\nComposition: \nSubject: Sony A7 camera with all internal and external parts labeled\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): Sony A7\nConstraints: detailed breakdown, all parts named with labels\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b087b096-0fc0-4470-9db9-179506a95911/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing infographic for a detailed exploded view of a Sony A7 camera showing all its parts with their names.\\n\\nStyle/medium: infographic, exploded view diagram\\nComposition: \\nSubject: Sony A7 camera with all internal and external parts labeled\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): Sony A7\\nConstraints: detailed breakdown, all parts named with labels\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5670
+}

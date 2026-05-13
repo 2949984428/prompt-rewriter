@@ -1,0 +1,21 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing detailed exploded-view illustration of a Sony A7 camera showing all its components with labeled part names.\n\nStyle/medium: needs a technical exploded-diagram aesthetic — exact stylistic execution is yours\nComposition: must be an exploded/disassembled view with all parts spread out and connected by guide lines to their labels\nSubject: must include the Sony A7 camera fully disassembled into all major and minor components, each labeled with its part name\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include part name labels for every visible component (e.g. sensor, shutter, lens mount, battery, viewfinder, body shell, buttons, dials, PCB, etc.)\nConstraints: must preserve accurate part layout consistent with the Sony A7 body structure; all parts must be clearly identifiable and labeled\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A93dd35e4-9863-4b39-a81f-a40ef77fba89/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing detailed exploded-view illustration of a Sony A7 camera showing all its components with labeled part names.\\n\\nStyle/medium: needs a technical exploded-diagram aesthetic — exact stylistic execution is yours\\nComposition: must be an exploded/disassembled view with all parts spread out and connected by guide lines to their labels\\nSubject: must include the Sony A7 camera fully disassembled into all major and minor components, each labeled with its part name\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include part name labels for every visible component (e.g. sensor, shutter, lens mount, battery, viewfinder, body shell, buttons, dials, PCB, etc.)\\nConstraints: must preserve accurate part layout consistent with the Sony A7 body structure; all parts must be clearly identifiable and labeled\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8589
+}

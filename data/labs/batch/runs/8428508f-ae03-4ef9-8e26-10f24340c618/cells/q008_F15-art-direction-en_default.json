@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a cross-border e-commerce campaign.\n\nStyle/medium: needs a bold, commercial promotional aesthetic with artistic typography and layered type stacking — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include layered typographic stacking with product/hero subject physically overlapping and occluding portions of the background text layers\nSubject: must include a hero product or focal subject that breaks in front of the type layers\nScene/backdrop: needs a visually rich, complex backdrop — exact scene is yours\nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs a vibrant, attention-grabbing direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must preserve: (1) artistic display lettering as a design element, (2) typographic stacking / layered text depth, (3) product/subject overlapping text, (4) composition is complex but visually organized — not chaotic\nAvoid: must avoid flat, sparse, or minimalist layouts; must avoid cluttered illegible chaos",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6d9b9824-05de-47f3-92f1-b21b6de1bf62/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a cross-border e-commerce campaign.\\n\\nStyle/medium: needs a bold, commercial promotional aesthetic with artistic typography and layered type stacking — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include layered typographic stacking with product/hero subject physically overlapping and occluding portions of the background text layers\\nSubject: must include a hero product or focal subject that breaks in front of the type layers\\nScene/backdrop: needs a visually rich, complex backdrop — exact scene is yours\\nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs a vibrant, attention-grabbing direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must preserve: (1) artistic display lettering as a design element, (2) typographic stacking / layered text depth, (3) product/subject overlapping text, (4) composition is complex but visually organized — not chaotic\\nAvoid: must avoid flat, sparse, or minimalist layouts; must avoid cluttered illegible chaos\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8214
+}

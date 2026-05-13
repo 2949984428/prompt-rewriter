@@ -1,0 +1,23 @@
+{
+  "query_idx": 147,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张拼多多电商详情促销海报。\n\n风格/媒介: 参考 #1 图的风格与排版\n构图: 参考 #1 图的构图与排版布局，1:1 比例\n主体: 以 #2 图中的产品/主体为核心\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  参考 #1 图的风格与排版，不照搬，生成全新图\n  以 #2 图的产品/主体为内容主体\n  适配拼多多平台发布\n避免: 直接复制 #1 图的文字或具体画面元素",
+    "size": "2048x2048",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad38d505e-0154-473f-ad4d-7cf3a4f294fb/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张拼多多电商详情促销海报。\\n\\n风格/媒介: 参考 #1 图的风格与排版\\n构图: 参考 #1 图的构图与排版布局，1:1 比例\\n主体: 以 #2 图中的产品/主体为核心\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  参考 #1 图的风格与排版，不照搬，生成全新图\\n  以 #2 图的产品/主体为内容主体\\n  适配拼多多平台发布\\n避免: 直接复制 #1 图的文字或具体画面元素\", \"size\": \"2048x2048\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5680,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

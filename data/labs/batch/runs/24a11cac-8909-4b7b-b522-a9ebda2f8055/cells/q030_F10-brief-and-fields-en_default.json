@@ -1,0 +1,18 @@
+{
+  "query_idx": 30,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an editorial documentary photo of a morning bathing ritual on the Ganges River in Varanasi, India, filled with exotic cultural atmosphere.\n\nStyle/medium: 35mm documentary street photography, photorealistic, in the spirit of Steve McCurry's South Asia reportage — grain-textured, emotionally raw\nComposition: wide establishing shot with layered foreground pilgrims and mid-ground boats, slight low angle, 35mm lens, deep depth of field to capture crowd density\nSubject: devout Hindu pilgrims wading into the Ganges at dawn, hands clasped in prayer, draped in vivid saris and dhotis, faces lit with spiritual devotion\nScene/backdrop: Varanasi ghats at early morning, ancient stone steps descending into the river, ornate temple silhouettes in the background, morning mist drifting across the water surface\nLighting/mood: warm golden sunrise light raking across the scene from low on the horizon, soft diffused haze from river mist, amber and saffron tones, reverent and timeless mood\nColor palette: warm saffron and amber as dominant tones anchored by the golden light, deep ochre stone steps, muted cool mist as contrast, pops of vivid sari colors\nMaterials/textures: weathered sandstone ghats with moss and water stains, wet fabric clinging to skin, rippling river surface catching early light, visible film grain\nAvoid: tourist-brochure gloss, over-saturated HDR look, deformed figures, floating limbs, generic stock-photo composition, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_44922e9edb9747e09faa9beb5ef1a96b.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an editorial documentary photo of a morning bathing ritual on the Ganges River in Varanasi, India, filled with exotic cultural atmosphere.\\n\\nStyle/medium: 35mm documentary street photography, photorealistic, in the spirit of Steve McCurry's South Asia reportage — grain-textured, emotionally raw\\nComposition: wide establishing shot with layered foreground pilgrims and mid-ground boats, slight low angle, 35mm lens, deep depth of field to capture crowd density\\nSubject: devout Hindu pilgrims wading into the Ganges at dawn, hands clasped in prayer, draped in vivid saris and dhotis, faces lit with spiritual devotion\\nScene/backdrop: Varanasi ghats at early morning, ancient stone steps descending into the river, ornate temple silhouettes in the background, morning mist drifting across the water surface\\nLighting/mood: warm golden sunrise light raking across the scene from low on the horizon, soft diffused haze from river mist, amber and saffron tones, reverent and timeless mood\\nColor palette: warm saffron and amber as dominant tones anchored by the golden light, deep ochre stone steps, muted cool mist as contrast, pops of vivid sari colors\\nMaterials/textures: weathered sandstone ghats with moss and water stains, wet fabric clinging to skin, rippling river surface catching early light, visible film grain\\nAvoid: tourist-brochure gloss, over-saturated HDR look, deformed figures, floating limbs, generic stock-photo composition, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 13572
+}

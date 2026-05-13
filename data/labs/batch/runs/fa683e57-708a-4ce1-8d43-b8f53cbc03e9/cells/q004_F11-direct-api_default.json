@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "绘制一张美食摄影风格的日式拉面特写，浓郁的豚骨汤底，上面铺着叉烧、溏心蛋、海苔和葱花，筷子夹起面条，热气腾腾，背景虚化，食欲感十足",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ef5c04dc-d421-4613-9875-64938b3a810c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"绘制一张美食摄影风格的日式拉面特写，浓郁的豚骨汤底，上面铺着叉烧、溏心蛋、海苔和葱花，筷子夹起面条，热气腾腾，背景虚化，食欲感十足\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7095
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 小红书-style cover image (vertical, 9-grid format) for a 素人 creator post featuring the 大疆 Pocket 4.\n\nStyle/medium: needs a \"素人风格\" 小红书 aesthetic — exact stylistic execution is yours\nComposition: must be a 9-grid (九宫格) vertical cover layout with the product as a featured visual element\nSubject: must include the 大疆 Pocket 4 as the hero product, presented in a casual, everyday 素人 creator context\nScene/backdrop: needs a lifestyle / everyday backdrop fitting 素人 小红书 content — exact scene is yours\nLighting/mood: needs a bright, approachable, natural-light atmosphere — exact light source mix is yours\nColor palette: needs a fresh, youthful direction fitting 小红书 素人 aesthetics — exact palette is yours\nMaterials/textures: \nText (verbatim): must include \"大疆Pocket4初体验\" (large, centered, primary title) — font must feel cute (可爱) and visually differentiated (差异化)\nConstraints: must be vertical portrait format; 9-grid cover composition must be clearly structured; title text must be prominently centered\nAvoid: overly polished commercial advertising look; avoid studio-style product photography feel",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Ab21eb9de-05b3-4b54-8327-76b13e4f7a69/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 小红书-style cover image (vertical, 9-grid format) for a 素人 creator post featuring the 大疆 Pocket 4.\\n\\nStyle/medium: needs a \\\"素人风格\\\" 小红书 aesthetic — exact stylistic execution is yours\\nComposition: must be a 9-grid (九宫格) vertical cover layout with the product as a featured visual element\\nSubject: must include the 大疆 Pocket 4 as the hero product, presented in a casual, everyday 素人 creator context\\nScene/backdrop: needs a lifestyle / everyday backdrop fitting 素人 小红书 content — exact scene is yours\\nLighting/mood: needs a bright, approachable, natural-light atmosphere — exact light source mix is yours\\nColor palette: needs a fresh, youthful direction fitting 小红书 素人 aesthetics — exact palette is yours\\nMaterials/textures: \\nText (verbatim): must include \\\"大疆Pocket4初体验\\\" (large, centered, primary title) — font must feel cute (可爱) and visually differentiated (差异化)\\nConstraints: must be vertical portrait format; 9-grid cover composition must be clearly structured; title text must be prominently centered\\nAvoid: overly polished commercial advertising look; avoid studio-style product photography feel\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9103
+}

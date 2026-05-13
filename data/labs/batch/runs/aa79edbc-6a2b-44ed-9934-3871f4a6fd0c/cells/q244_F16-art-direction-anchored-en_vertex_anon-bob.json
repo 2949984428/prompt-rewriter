@@ -1,0 +1,23 @@
+{
+  "query_idx": 244,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（#1:Gemini_Generated_Image_3odpof3odpof3odp）。\n\n风格/媒介:\n构图:\n主体:保持原图主体自然不变\n场景/背景:\n光线/氛围:柔和均衡的光线\n色彩方案:保留原始色彩，调整亮度与对比度使画面干净清爽\n材质/纹理:增强清晰度，细节更精致\n文字(原样):\n约束:\n  保留所有原始细节与色彩\n  添加细腻的阴影与轻微景深感\n  竖版构图，适配 Instagram 帖子尺寸（1080×1350）\n避免:改变主体外观或原图构图",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9663107f-06f0-4383-b664-ffebddc52b9a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（#1:Gemini_Generated_Image_3odpof3odpof3odp）。\\n\\n风格/媒介:\\n构图:\\n主体:保持原图主体自然不变\\n场景/背景:\\n光线/氛围:柔和均衡的光线\\n色彩方案:保留原始色彩，调整亮度与对比度使画面干净清爽\\n材质/纹理:增强清晰度，细节更精致\\n文字(原样):\\n约束:\\n  保留所有原始细节与色彩\\n  添加细腻的阴影与轻微景深感\\n  竖版构图，适配 Instagram 帖子尺寸（1080×1350）\\n避免:改变主体外观或原图构图\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 9589,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

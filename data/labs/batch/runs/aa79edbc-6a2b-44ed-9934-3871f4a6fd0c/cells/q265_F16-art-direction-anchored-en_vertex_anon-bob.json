@@ -1,0 +1,23 @@
+{
+  "query_idx": 265,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（模特身上穿腰部加热带的图）。\n\n风格/媒介:\n构图:\n主体:将模特身上的旗袍替换成第二张图中的旗袍\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  参考第二张图中旗袍的款式、颜色、纹样\n  模特姿态、场景、背景及其他内容保持不变\n避免:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7d62b069-ee41-4984-baa2-ee8d1108f0fe/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（模特身上穿腰部加热带的图）。\\n\\n风格/媒介:\\n构图:\\n主体:将模特身上的旗袍替换成第二张图中的旗袍\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  参考第二张图中旗袍的款式、颜色、纹样\\n  模特姿态、场景、背景及其他内容保持不变\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 4846,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

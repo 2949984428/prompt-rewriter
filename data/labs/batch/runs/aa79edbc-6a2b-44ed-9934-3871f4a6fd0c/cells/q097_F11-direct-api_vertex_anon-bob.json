@@ -1,0 +1,23 @@
+{
+  "query_idx": 97,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Minimalist logo design for a mobile app called \"Spritr\". \nTheme: nightlife, parties, social drinking. \nIcon: a sleek modern bottle being opened, with liquid splash forming a subtle flame or energy wave. \nStyle: flat design, vector, clean lines, high contrast. \nColors: dark background (black or deep purple) with neon accents (electric blue, pink, or green). \nTypography: bold, modern sans-serif font, slightly futuristic. \nVibe: similar to Tinder-style branding, trendy, youthful, tech startup. \nCentered composition, logo + icon combination.\n\nno text. just a slick design to catch the attention",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5cf1fde0-2c32-464f-8710-66dd9b010662/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Minimalist logo design for a mobile app called \\\"Spritr\\\". \\nTheme: nightlife, parties, social drinking. \\nIcon: a sleek modern bottle being opened, with liquid splash forming a subtle flame or energy wave. \\nStyle: flat design, vector, clean lines, high contrast. \\nColors: dark background (black or deep purple) with neon accents (electric blue, pink, or green). \\nTypography: bold, modern sans-serif font, slightly futuristic. \\nVibe: similar to Tinder-style branding, trendy, youthful, tech startup. \\nCentered composition, logo + icon combination.\\n\\nno text. just a slick design to catch the attention\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3297,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

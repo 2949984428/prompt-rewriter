@@ -1,0 +1,18 @@
+{
+  "query_idx": 8,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a promotional poster for cross-border e-commerce marketing.\n\nStyle/medium: needs a \"bold commercial typography\" aesthetic — references in the spirit of David Carson experimental editorial layouts, 1990s Japanese graphic design poster tradition, contemporary brutalist web design; exact stylistic execution is yours\nComposition: must be 16:9 aspect ratio, must include layered typography with overlapping text elements, must include a product or subject partially obscuring some text layers\nSubject: must include a product or main subject as focal element that blocks portions of the typography\nScene/backdrop: \nLighting/mood: needs a promotional energy — exact atmosphere is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include artistic typography treatment, must include stacked/layered font composition\nConstraints: must maintain visual complexity without appearing cluttered, 16:9 aspect ratio, typography must be layered and overlapping\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_99440689ebdf48f7a860538a008fd7fb.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create a promotional poster for cross-border e-commerce marketing.\\n\\nStyle/medium: needs a \\\"bold commercial typography\\\" aesthetic — references in the spirit of David Carson experimental editorial layouts, 1990s Japanese graphic design poster tradition, contemporary brutalist web design; exact stylistic execution is yours\\nComposition: must be 16:9 aspect ratio, must include layered typography with overlapping text elements, must include a product or subject partially obscuring some text layers\\nSubject: must include a product or main subject as focal element that blocks portions of the typography\\nScene/backdrop: \\nLighting/mood: needs a promotional energy — exact atmosphere is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include artistic typography treatment, must include stacked/layered font composition\\nConstraints: must maintain visual complexity without appearing cluttered, 16:9 aspect ratio, typography must be layered and overlapping\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10862
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID card design for a fictional company called 字节期动, front and back views.\n\nStyle/medium: photorealistic product mockup, corporate ID card design, clean modern aesthetic\nSubject: employee ID card showing portrait photo area, name field, ID number, company logo placeholder, front and back views\nComposition: flat lay, two cards side by side (front and back), top-down view, slight perspective angle\nScene/backdrop: neutral gray surface, soft shadow beneath cards\nLighting/mood: soft diffused studio light from top-left, clean professional mood\nColor palette: white card base with subtle blue accent, black text, corporate blue\nMaterials/textures: matte plastic card surface, subtle rounded corners, slight card thickness visible\nText (verbatim): \"字节期动\"\nConstraints: front must include photo placeholder and name field; back must include barcode/QR area and terms; both sides must match corporate branding\nAvoid: 8K stuffer words, watermark, generic template look, overly glossy finish",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b65d2865-1c0a-410c-bc2f-e9431525ff5c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing employee ID card design for a fictional company called 字节期动, front and back views.\\n\\nStyle/medium: photorealistic product mockup, corporate ID card design, clean modern aesthetic\\nSubject: employee ID card showing portrait photo area, name field, ID number, company logo placeholder, front and back views\\nComposition: flat lay, two cards side by side (front and back), top-down view, slight perspective angle\\nScene/backdrop: neutral gray surface, soft shadow beneath cards\\nLighting/mood: soft diffused studio light from top-left, clean professional mood\\nColor palette: white card base with subtle blue accent, black text, corporate blue\\nMaterials/textures: matte plastic card surface, subtle rounded corners, slight card thickness visible\\nText (verbatim): \\\"字节期动\\\"\\nConstraints: front must include photo placeholder and name field; back must include barcode/QR area and terms; both sides must match corporate branding\\nAvoid: 8K stuffer words, watermark, generic template look, overly glossy finish\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8961
+}

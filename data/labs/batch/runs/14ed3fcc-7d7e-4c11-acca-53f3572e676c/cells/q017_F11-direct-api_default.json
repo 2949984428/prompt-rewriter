@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "医疗健康科普插画：人体心血管系统的3D可视化示意图。以高度写实的医学插画风格，展示人体心脏及主要血管系统的精细解剖结构。心脏被切开展示内部四个腔室的结构，包括左右心房、左右心室，以及各瓣膜的位置和形态。主动脉、肺动脉、上下腔静脉等主要血管以不同颜色区分——动脉系统用鲜红色，静脉系统用深蓝色。血液流动方向用箭头和动态光效标注。心肌纤维的纹理清晰可见，冠状动脉在心脏表面的走行路径用金色高亮标注。整体背景为深色，使解剖结构更加突出清晰。风格参考Netter医学插画的精准写实风格，同时加入现代3D渲染的质感，适合医学教育使用，标注文字预留空间。",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6323b320-f348-4ebf-851f-3e7a2635b2ae/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

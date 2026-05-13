@@ -1,0 +1,18 @@
+{
+  "query_idx": 23,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a tactical equipment display illustration featuring firearms, body armor, and night-vision gear arranged in a professional layout (all in-image text in Chinese).\n\nStyle/medium: needs a \"硬核军事风格\" aesthetic — references in the spirit of Jane's Defence Weekly editorial photography, 1980s–1990s Cold War military equipment catalogs, Tom Clancy novel cover art; exact stylistic execution is yours\nComposition: must be a flat-lay or grid arrangement with all equipment items neatly aligned\nSubject: must include the following tactical equipment:\n  Firearms: multiple firearms (rifles, handguns) arranged in an orderly display\n  Armor: tactical body armor / bulletproof vest\n  Optics: night-vision goggles / NVG monocular\nScene/backdrop: must include a deep dark background (near-black or dark matte surface)\nLighting/mood: needs a cold, severe, high-authority atmosphere — exact light source mix is yours\nColor palette: needs a dark, desaturated, cold-tone direction — exact hex values and ratios are yours\nMaterials/textures: needs a hard matte surface treatment with metallic and ballistic-fabric detail — exact grain / sheen / weight is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: must avoid cartoonish or stylized rendering; must avoid warm or soft lighting; must avoid cluttered or disorganized layout",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_b5f44f429e954ea19b79975b683b673f. safety_violations=[illicit].\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create a tactical equipment display illustration featuring firearms, body armor, and night-vision gear arranged in a professional layout (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"硬核军事风格\\\" aesthetic — references in the spirit of Jane's Defence Weekly editorial photography, 1980s–1990s Cold War military equipment catalogs, Tom Clancy novel cover art; exact stylistic execution is yours\\nComposition: must be a flat-lay or grid arrangement with all equipment items neatly aligned\\nSubject: must include the following tactical equipment:\\n  Firearms: multiple firearms (rifles, handguns) arranged in an orderly display\\n  Armor: tactical body armor / bulletproof vest\\n  Optics: night-vision goggles / NVG monocular\\nScene/backdrop: must include a deep dark background (near-black or dark matte surface)\\nLighting/mood: needs a cold, severe, high-authority atmosphere — exact light source mix is yours\\nColor palette: needs a dark, desaturated, cold-tone direction — exact hex values and ratios are yours\\nMaterials/textures: needs a hard matte surface treatment with metallic and ballistic-fabric detail — exact grain / sheen / weight is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: must avoid cartoonish or stylized rendering; must avoid warm or soft lighting; must avoid cluttered or disorganized layout\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12230
+}

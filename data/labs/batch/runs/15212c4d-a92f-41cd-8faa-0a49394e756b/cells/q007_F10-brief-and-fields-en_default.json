@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic illustration showing a detailed exploded-view breakdown of a Sony A7 camera with all parts labeled.\n\nStyle/medium: technical illustration, exploded-view diagram, clean vector style with subtle shading, product manual aesthetic\nComposition: centered exploded-view arrangement, parts radiating outward from center in logical disassembly order, isometric perspective\nSubject: Sony A7 mirrorless camera, showing all internal and external components including sensor, shutter mechanism, lens mount, EVF, rear LCD, battery compartment, circuit boards, buttons, dials, and screws\nScene/backdrop: clean white or light gray gradient background, minimal to keep focus on technical details\nLighting/mood: soft even studio lighting, no harsh shadows, professional technical documentation feel\nColor palette: Sony A7 body in matte black, metallic silver accents for internal parts, color-coded component groups for clarity\nMaterials/textures: matte black magnesium alloy body, metallic circuit boards, glass sensor cover, rubber grip texture\nText (verbatim): \"Sony A7\"\nConstraints: all major components must be clearly separated and labeled with lines pointing to each part; labels should use Spanish terminology as implied by the query language\nAvoid: photorealistic rendering, 3D render noise, cluttered overlapping parts, missing labels, generic camera silhouette without detail",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/408cddc2-21b9-4962-be1d-197bd12e01b7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an infographic illustration showing a detailed exploded-view breakdown of a Sony A7 camera with all parts labeled.\\n\\nStyle/medium: technical illustration, exploded-view diagram, clean vector style with subtle shading, product manual aesthetic\\nComposition: centered exploded-view arrangement, parts radiating outward from center in logical disassembly order, isometric perspective\\nSubject: Sony A7 mirrorless camera, showing all internal and external components including sensor, shutter mechanism, lens mount, EVF, rear LCD, battery compartment, circuit boards, buttons, dials, and screws\\nScene/backdrop: clean white or light gray gradient background, minimal to keep focus on technical details\\nLighting/mood: soft even studio lighting, no harsh shadows, professional technical documentation feel\\nColor palette: Sony A7 body in matte black, metallic silver accents for internal parts, color-coded component groups for clarity\\nMaterials/textures: matte black magnesium alloy body, metallic circuit boards, glass sensor cover, rubber grip texture\\nText (verbatim): \\\"Sony A7\\\"\\nConstraints: all major components must be clearly separated and labeled with lines pointing to each part; labels should use Spanish terminology as implied by the query language\\nAvoid: photorealistic rendering, 3D render noise, cluttered overlapping parts, missing labels, generic camera silhouette without detail\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11447
+}

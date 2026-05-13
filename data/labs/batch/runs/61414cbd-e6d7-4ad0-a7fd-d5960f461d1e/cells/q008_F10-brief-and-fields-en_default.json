@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3x3 character expression grid for 赵灵儿 from 仙剑奇侠传.\n\nStyle/medium: 3D animation, Pixar-style character design, expressive cartoon rendering with soft subsurface scattering\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses as base character, 赵灵儿-inspired features including traditional Chinese aesthetic elements, 9 distinct expression panels\nComposition: 3x3 grid layout with equal square panels, each panel showing character peeking through a torn hole in white paper, consistent framing across all 9 cells, head-and-shoulders crop\nScene/backdrop: plain white paper background with torn circular holes, each panel isolated with clean white border separation, minimal environmental distraction\nLighting/mood: soft diffused studio lighting from upper left, warm and friendly atmosphere, gentle shadows inside paper holes\nColor palette: varied outfit colors per panel (green, red, yellow, black/white, orange, blue, purple, pink, teal) against neutral white paper base\nMaterials/textures: matte paper texture with torn fibrous edges, smooth skin with subtle specular highlights, fabric textures for different outfits\nConstraints: must maintain character likeness consistency across all 9 panels; each panel must show the torn paper hole framing device; expressions must be clearly readable at thumbnail size\nAvoid: photorealistic skin pores; anime cel-shading; inconsistent character proportions between panels; cluttered backgrounds; watermark text",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/957ac991-47fc-47d3-b394-56e85a111689/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing 3x3 character expression grid for 赵灵儿 from 仙剑奇侠传.\\n\\nStyle/medium: 3D animation, Pixar-style character design, expressive cartoon rendering with soft subsurface scattering\\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses as base character, 赵灵儿-inspired features including traditional Chinese aesthetic elements, 9 distinct expression panels\\nComposition: 3x3 grid layout with equal square panels, each panel showing character peeking through a torn hole in white paper, consistent framing across all 9 cells, head-and-shoulders crop\\nScene/backdrop: plain white paper background with torn circular holes, each panel isolated with clean white border separation, minimal environmental distraction\\nLighting/mood: soft diffused studio lighting from upper left, warm and friendly atmosphere, gentle shadows inside paper holes\\nColor palette: varied outfit colors per panel (green, red, yellow, black/white, orange, blue, purple, pink, teal) against neutral white paper base\\nMaterials/textures: matte paper texture with torn fibrous edges, smooth skin with subtle specular highlights, fabric textures for different outfits\\nConstraints: must maintain character likeness consistency across all 9 panels; each panel must show the torn paper hole framing device; expressions must be clearly readable at thumbnail size\\nAvoid: photorealistic skin pores; anime cel-shading; inconsistent character proportions between panels; cluttered backgrounds; watermark text\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 19051
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing WeChat Official Account article cover image for a fragrance new-product launch titled \"染秋 - 秋意染染 时光留香\".\n\nStyle/medium: premium editorial cover, high-end luxury texture aesthetic\nComposition: centered composition with title as the dominant visual element\nSubject: fragrance product launch theme — \"染秋\" new fragrance, evoking autumn color and lingering scent\nScene/backdrop: soft autumnal atmosphere — warm amber and golden tones suggesting fallen leaves, drifting fragrance\nLighting/mood: warm, refined, slightly moody; soft diffused light with gentle depth\nColor palette: warm amber, deep ochre, muted gold, soft cream — autumn palette\nMaterials/textures: smooth matte surface with subtle paper or fabric texture; elegant typographic treatment\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title text must be prominently displayed and legible; centered layout; aspect ratio 900×500 (16:9-ish wide banner)\nAvoid: busy backgrounds that compete with the title, cold or neon colors, generic stock-photo autumn clichés",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b5390f91-39e1-4165-8cbf-00fe47aec985/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing WeChat Official Account article cover image for a fragrance new-product launch titled \\\"染秋 - 秋意染染 时光留香\\\".\\n\\nStyle/medium: premium editorial cover, high-end luxury texture aesthetic\\nComposition: centered composition with title as the dominant visual element\\nSubject: fragrance product launch theme — \\\"染秋\\\" new fragrance, evoking autumn color and lingering scent\\nScene/backdrop: soft autumnal atmosphere — warm amber and golden tones suggesting fallen leaves, drifting fragrance\\nLighting/mood: warm, refined, slightly moody; soft diffused light with gentle depth\\nColor palette: warm amber, deep ochre, muted gold, soft cream — autumn palette\\nMaterials/textures: smooth matte surface with subtle paper or fabric texture; elegant typographic treatment\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title text must be prominently displayed and legible; centered layout; aspect ratio 900×500 (16:9-ish wide banner)\\nAvoid: busy backgrounds that compete with the title, cold or neon colors, generic stock-photo autumn clichés\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8061
+}

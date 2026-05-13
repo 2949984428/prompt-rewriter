@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "使用单张大知识卡片的样式，面向儿童群体，进清楚三国赤壁之战的故\n事。标题清晰，要点在旁边列好并标点，知识卡片以卡通画故事的形式\n展开。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/490ecc4f-a19b-49e7-9a3b-1e60c462b552/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"使用单张大知识卡片的样式，面向儿童群体，进清楚三国赤壁之战的故事。标题清晰，要点在旁边列好并标点，知识卡片以卡通画故事的形式展开。\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2669
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 178,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1: Image]要保持 图1这个角度不变  只添加场景 并融合自然   高端亚马逊主图产品摄影，哑光黑色胖胎电动自行车置于标志性的美式草原公路场景中。严格保持参考图的产品结构、透视角度和构图。采用高端户外生活方式品牌的拍摄风格，符合北美和欧洲中产阶级审美。  给我修改后的提示词方案",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A39c21f3f-9d4a-467b-bf5d-97c1c88fd4dd/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1: Image]要保持 图1这个角度不变  只添加场景 并融合自然   高端亚马逊主图产品摄影，哑光黑色胖胎电动自行车置于标志性的美式草原公路场景中。严格保持参考图的产品结构、透视角度和构图。采用高端户外生活方式品牌的拍摄风格，符合北美和欧洲中产阶级审美。  给我修改后的提示词方案\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4651,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

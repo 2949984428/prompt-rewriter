@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing brand color and typography guideline poster for RAN QIU, a Chinese autumn fragrance brand.\n\nStyle/medium: editorial brand guideline poster, minimalist layout design, clean Swiss-style typography system\nComposition: centered layout with generous white space, three distinct sections stacked vertically (primary color / secondary colors / typography), grid-based alignment\nSubject: brand color swatches with hex codes, type specimen showing \"染秋\" and \"RAN QIU\" in both Chinese and Latin scripts, seasonal autumn visual cues\nScene/backdrop: neutral off-white or cream paper texture, subtle shadow depth for printed material feel\nColor palette: warm autumn tones derived from osmanthus gold, persimmon orange, maple red, amber brown as primary; muted complementary neutrals as secondary\nText (verbatim): \"染秋\", \"RAN QIU\", \"桂花乌龙\", \"琥珀枫叶\", \"柿霜暮色\"\nConstraints: must display primary color + secondary colors + typography specifications clearly; Chinese characters must be legible at all sizes; suitable for brand book printing\nAvoid: gradients unless essential for color demonstration; cluttered layouts; generic sans-serif without character; Behance trendy style; 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2a0b91d1-aec6-4749-83a1-9e443d0626d5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing brand color and typography guideline poster for RAN QIU, a Chinese autumn fragrance brand.\\n\\nStyle/medium: editorial brand guideline poster, minimalist layout design, clean Swiss-style typography system\\nComposition: centered layout with generous white space, three distinct sections stacked vertically (primary color / secondary colors / typography), grid-based alignment\\nSubject: brand color swatches with hex codes, type specimen showing \\\"染秋\\\" and \\\"RAN QIU\\\" in both Chinese and Latin scripts, seasonal autumn visual cues\\nScene/backdrop: neutral off-white or cream paper texture, subtle shadow depth for printed material feel\\nColor palette: warm autumn tones derived from osmanthus gold, persimmon orange, maple red, amber brown as primary; muted complementary neutrals as secondary\\nText (verbatim): \\\"染秋\\\", \\\"RAN QIU\\\", \\\"桂花乌龙\\\", \\\"琥珀枫叶\\\", \\\"柿霜暮色\\\"\\nConstraints: must display primary color + secondary colors + typography specifications clearly; Chinese characters must be legible at all sizes; suitable for brand book printing\\nAvoid: gradients unless essential for color demonstration; cluttered layouts; generic sans-serif without character; Behance trendy style; 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10356
+}

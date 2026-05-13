@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/36dff638-7329-4eff-9ec5-d70a679d535a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"小红书种草封面，珍珠奶茶，粉色少女风，，夏日清凉感\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 3298
+}

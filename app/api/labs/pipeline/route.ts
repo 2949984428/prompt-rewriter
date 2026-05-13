@@ -19,6 +19,46 @@ import { pipelineDefinition, type PipelineCtx } from "@/lib/pipeline/steps";
 import { writeExperimentRecord } from "@/lib/experiments/store";
 import type { ExperimentRecord } from "@/lib/schema";
 import { uploadDataUrlToR2 } from "@/lib/r2";
+import { getGeneratorsSchema, resolveSchemaKey } from "@/lib/lovart-agent-client";
+
+// 前置 validate:有参考图时,确认 model 在 Lovart schema 中声明了 image* 字段。
+// 不支持 → 直接 400 拒绝,让用户知道选错模型(而不是让请求漏到生图层 silent fail)
+async function validateImageEditSupport(
+  model: string,
+  hasRef: boolean,
+): Promise<{ ok: true } | { ok: false; reason: string }> {
+  if (!hasRef) return { ok: true };
+  // gpt-image-2(无前缀)走 IGW,不查 Lovart schema;放行交给 IGW 后端兜底
+  if (!model.includes("/")) return { ok: true };
+  try {
+    const schema = await getGeneratorsSchema();
+    const key = resolveSchemaKey(model, schema);
+    if (!key) {
+      return {
+        ok: false,
+        reason: `Lovart Agent generator "${model}" 在 schema 中找不到对应 component`,
+      };
+    }
+    const props = schema.components.schemas[key]?.properties ?? {};
+    const hasImageField =
+      "image_url" in props ||
+      "image_urls" in props ||
+      "images" in props ||
+      "image" in props;
+    if (!hasImageField) {
+      return {
+        ok: false,
+        reason: `Model "${model}" 不支持图生图(schema 未声明 image_url/image_urls/image/images 字段)。请换支持的模型`,
+      };
+    }
+    return { ok: true };
+  } catch (e) {
+    return {
+      ok: false,
+      reason: `校验 Lovart schema 失败:${e instanceof Error ? e.message : String(e)}`,
+    };
+  }
+}
 import {
   resolve as resolveStrategy,
   list as registryList,
@@ -105,6 +145,24 @@ export async function POST(req: NextRequest) {
     );
   }
 
+  // 前置 validate:有参考图时,model 必须在 Lovart schema 中声明 image* 字段。
+  // 不通过直接 400,让用户在跑批前就知道"模型不支持图生图,换一个"
+  const validation = await validateImageEditSupport(
+    body.image_model || "gpt-image-2",
+    referenceImages.length > 0,
+  );
+  if (!validation.ok) {
+    return Response.json(
+      {
+        error: "model 不支持当前 reference_images 模式",
+        detail: validation.reason,
+      },
+      { status: 400 },
+    );
+  }
+
+  // image-router 直接按 schema 真名塞字段(image_url/image_urls/image/images),
+  // 不再依赖白名单或自动切模型 —— 用户选啥跑啥
   const initialCtx: PipelineCtx = {
     query: body.query,
     searchModel: body.llm_model_search || body.llm_model,
@@ -130,6 +188,8 @@ export async function POST(req: NextRequest) {
       inputs: {
         query: body.query,
         function_call_count: body.function_call_count,
+        // 2026-05-13:把已转好的 R2 公网 URL 落进 record,让 replay 能看到参考图(URL 短,不会爆 record 体积)
+        reference_image_urls: referenceImages,
       },
       config_snapshot: {
         strategy_versions: {},
@@ -183,6 +243,7 @@ export async function POST(req: NextRequest) {
             inputs: {
               query: body.query,
               function_call_count: body.function_call_count,
+              reference_image_urls: referenceImages,
             },
             config_snapshot: {
               strategy_versions: {},
@@ -297,6 +358,7 @@ export async function POST(req: NextRequest) {
             inputs: {
               query: body.query,
               function_call_count: body.function_call_count,
+              reference_image_urls: referenceImages,
             },
             config_snapshot: {
               // strategy_versions: Phase 2 整合后由 step-strategy-pack 写入 ctx,这里读
@@ -363,6 +425,7 @@ export async function POST(req: NextRequest) {
             inputs: {
               query: body.query,
               function_call_count: body.function_call_count,
+              reference_image_urls: referenceImages,
             },
             config_snapshot: {
               strategy_versions: {},

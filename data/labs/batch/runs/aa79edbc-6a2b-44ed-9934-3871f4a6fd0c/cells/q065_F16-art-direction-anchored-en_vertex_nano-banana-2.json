@@ -1,0 +1,23 @@
+{
+  "query_idx": 65,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一款工作室品牌 Logo。\n\n风格/媒介: 平面设计风格，Logo 设计\n构图: 图形与文字结合，构图简洁有力\n主体: 工作室 Logo，品牌名称为 SoooWhat Studio\n场景/背景: 纯色或透明背景\n光线/氛围: \n色彩方案: 黑绿或蓝黄，对比度强\n材质/纹理: \n文字(原样): SoooWhat Studio\n约束: 体现平面设计、视觉设计、陈列设计、品牌设计的综合创意属性\n避免: 写实风格、摄影感、复杂渐变、低对比度配色",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5cd2b0b4-0c9b-44cc-95aa-4b85ae48040e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一款工作室品牌 Logo。\\n\\n风格/媒介: 平面设计风格，Logo 设计\\n构图: 图形与文字结合，构图简洁有力\\n主体: 工作室 Logo，品牌名称为 SoooWhat Studio\\n场景/背景: 纯色或透明背景\\n光线/氛围: \\n色彩方案: 黑绿或蓝黄，对比度强\\n材质/纹理: \\n文字(原样): SoooWhat Studio\\n约束: 体现平面设计、视觉设计、陈列设计、品牌设计的综合创意属性\\n避免: 写实风格、摄影感、复杂渐变、低对比度配色\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6565,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

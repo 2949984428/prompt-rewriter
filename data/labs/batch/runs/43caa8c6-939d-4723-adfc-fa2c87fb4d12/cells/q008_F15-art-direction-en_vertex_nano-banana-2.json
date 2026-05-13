@@ -1,0 +1,21 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign.\n\nStyle/medium: needs a complex-yet-structured editorial poster aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include layered typography with product/hero subject physically overlapping and occluding some letterforms; overall composition must feel rich and dense but visually organized, not chaotic\nSubject: must include a product or hero subject as the focal element that breaks in front of the type layers\nScene/backdrop: \nLighting/mood: needs a promotional, high-energy atmosphere — exact light source mix is yours\nColor palette: needs a bold, attention-grabbing direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): must include decorative/artistic display lettering and stacked multi-layer typography (exact copy is yours — treat as design elements)\nConstraints: must preserve all four structural rules: (1) artistic/display lettering present, (2) font stacking / layered type treatment, (3) complex but not cluttered composition, (4) product or subject occludes part of the type\nAvoid: visual clutter, flat or monotonous layouts, uniform single-layer text treatment",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A00a6cca3-e7a8-41d3-adbf-09407522ddc6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign.\\n\\nStyle/medium: needs a complex-yet-structured editorial poster aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include layered typography with product/hero subject physically overlapping and occluding some letterforms; overall composition must feel rich and dense but visually organized, not chaotic\\nSubject: must include a product or hero subject as the focal element that breaks in front of the type layers\\nScene/backdrop: \\nLighting/mood: needs a promotional, high-energy atmosphere — exact light source mix is yours\\nColor palette: needs a bold, attention-grabbing direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include decorative/artistic display lettering and stacked multi-layer typography (exact copy is yours — treat as design elements)\\nConstraints: must preserve all four structural rules: (1) artistic/display lettering present, (2) font stacking / layered type treatment, (3) complex but not cluttered composition, (4) product or subject occludes part of the type\\nAvoid: visual clutter, flat or monotonous layouts, uniform single-layer text treatment\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9546
+}

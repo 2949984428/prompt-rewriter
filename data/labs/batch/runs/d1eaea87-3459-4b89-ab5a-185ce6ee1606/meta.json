@@ -1,0 +1,35 @@
+{
+  "id": "d1eaea87-3459-4b89-ab5a-185ce6ee1606",
+  "created_at": "2026-04-27T08:15:47.919Z",
+  "name": "smoke-1777277747",
+  "query_mode": "derive",
+  "purpose": "咖啡馆主视觉海报对比测试",
+  "queries": [
+    "一张充满文艺气息的咖啡馆主视觉海报，画面中心是一杯拉花精致的热拿铁，咖啡杯放置在复古木质桌面上，背景是温暖的橙黄色调暖光，浅焦虚化效果，整体风格偏日系小清新，适合张贴于咖啡馆入口或社交媒体宣传，画面比例9:16竖版，文字留白区域在上方三分之一处",
+    "现代简约风格咖啡馆主视觉海报，俯拍视角，桌面平铺构图，包含一杯黑咖啡、几颗咖啡豆、一本翻开的书和一支钢笔，黑白灰冷色调为主，局部点缀深红色咖啡液，光线来自左侧自然窗光，高对比度硬朗阴影，整体传递出都市精英的品质生活感"
+  ],
+  "skill_ids": [
+    "F2-cinematic",
+    "F9-brief-and-fields"
+  ],
+  "scoring_dimensions": [
+    {
+      "id": "overall",
+      "label": "总体观感",
+      "description": ""
+    },
+    {
+      "id": "intent",
+      "label": "意图还原度",
+      "description": "prompt 是否抓住测试目的"
+    }
+  ],
+  "rewrite_llm": "",
+  "status": "finished",
+  "cell_keys": [
+    "q000_F2-cinematic_default",
+    "q000_F9-brief-and-fields_default",
+    "q001_F2-cinematic_default",
+    "q001_F9-brief-and-fields_default"
+  ]
+}

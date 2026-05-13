@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing avatar icon for a content creator account focused on new energy vehicles, digital gadgets, and lifestyle products — suitable for both Chinese and international social platforms.\n\nStyle/medium: clean flat vector illustration, icon-grade simplicity, modern tech-lifestyle aesthetic\nSubject: a compact symbolic composition combining a sleek EV silhouette, a small digital device (phone or earbuds), and a lifestyle accent (e.g. a leaf or spark), unified into one cohesive mark with balanced negative space\nComposition: centered square-safe layout with generous padding, icon readable at 200×200 px thumbnail size\nColor palette: electric blue as dominant brand color, soft white as background, a single warm accent (amber or mint green) for the lifestyle element — no red-green-only combinations that may cause accessibility issues\nConstraints: must work as a circular crop (common on social platforms); no human faces, no religious symbols, no national flags, no culturally specific gestures; monochrome version must remain legible\nAvoid: gradients that muddy at small sizes, overly complex line art, photorealistic textures, culturally divisive imagery, generic Behance flat-icon clichés, stuffer aesthetics",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9359da03-3867-414c-8396-a055b4114eae/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing avatar icon for a content creator account focused on new energy vehicles, digital gadgets, and lifestyle products — suitable for both Chinese and international social platforms.\\n\\nStyle/medium: clean flat vector illustration, icon-grade simplicity, modern tech-lifestyle aesthetic\\nSubject: a compact symbolic composition combining a sleek EV silhouette, a small digital device (phone or earbuds), and a lifestyle accent (e.g. a leaf or spark), unified into one cohesive mark with balanced negative space\\nComposition: centered square-safe layout with generous padding, icon readable at 200×200 px thumbnail size\\nColor palette: electric blue as dominant brand color, soft white as background, a single warm accent (amber or mint green) for the lifestyle element — no red-green-only combinations that may cause accessibility issues\\nConstraints: must work as a circular crop (common on social platforms); no human faces, no religious symbols, no national flags, no culturally specific gestures; monochrome version must remain legible\\nAvoid: gradients that muddy at small sizes, overly complex line art, photorealistic textures, culturally divisive imagery, generic Behance flat-icon clichés, stuffer aesthetics\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9678
+}

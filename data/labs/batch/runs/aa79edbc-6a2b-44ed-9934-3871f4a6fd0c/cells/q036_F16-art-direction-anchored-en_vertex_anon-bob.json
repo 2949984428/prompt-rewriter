@@ -1,0 +1,23 @@
+{
+  "query_idx": 36,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一套品牌周边设计方案 —— 基于上传的 Lovart Logo。\n\n风格/媒介: 与 Logo 保持一致的品牌视觉风格\n构图: 展示多件周边产品的整体陈列\n主体: 品牌周边套装，包含常见周边品类（如马克杯、T恤、手提袋、贴纸、笔记本等），均应用 Lovart Logo\n场景/背景:\n光线/氛围:\n色彩方案: 沿用 Lovart Logo 的品牌色\n材质/纹理:\n文字(原样): Lovart\n约束:\n  以上传的 Lovart Logo 为视觉锚点\n  Logo 图形与文字在各周边上保持清晰可辨\n避免: 改动或扭曲 Logo 本身的造型与比例",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A804caed9-3b78-4dc5-849c-6380af5e7f4c/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一套品牌周边设计方案 —— 基于上传的 Lovart Logo。\\n\\n风格/媒介: 与 Logo 保持一致的品牌视觉风格\\n构图: 展示多件周边产品的整体陈列\\n主体: 品牌周边套装，包含常见周边品类（如马克杯、T恤、手提袋、贴纸、笔记本等），均应用 Lovart Logo\\n场景/背景:\\n光线/氛围:\\n色彩方案: 沿用 Lovart Logo 的品牌色\\n材质/纹理:\\n文字(原样): Lovart\\n约束:\\n  以上传的 Lovart Logo 为视觉锚点\\n  Logo 图形与文字在各周边上保持清晰可辨\\n避免: 改动或扭曲 Logo 本身的造型与比例\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8508,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

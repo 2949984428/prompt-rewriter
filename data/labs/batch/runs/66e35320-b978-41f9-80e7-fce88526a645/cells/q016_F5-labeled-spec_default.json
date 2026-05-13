@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: museum exhibition panel, educational infographic\nPrimary request: Chinese ethnic minority costume illustrated breakdown infographic in museum collection style\nScene/backdrop: museum display panel with rice paper / silk paper texture background in off-white, pale tea, and cream tones, clean and archival\nSubject: Miao/Hmong silver-embroidered festival costume with pleated skirt, silver headdress, and embroidered jacket as central full-body figure in standing pose\nStyle/medium: technical illustration mixed with photorealistic rendering, archival museum documentation style, restrained and scholarly aesthetic\nComposition/framing: structured infographic layout with labeled zones - top header, left structural breakdown with callout lines, upper-right material texture samples, mid-right color palette and pattern meaning section, bottom wearing sequence flowchart\nLighting/mood: even diffused museum lighting, neutral and professional atmosphere, no dramatic shadows\nColor palette: archival paper tones (off-white, beige, pale tea) + costume colors (indigo blue, silver, red embroidery, black cloth)\nMaterials/textures: hand-woven hemp cloth, wax-resist dyed indigo fabric, hand-hammered silver ornaments, silk embroidery threads, detailed close-up swatches\nText (verbatim): \"中国少数民族服饰\"\nConstraints: all text must be clear simplified Chinese characters, proper structural labeling, authentic material representation, museum-grade presentation\nAvoid: poster aesthetic, studio portrait feel, e-commerce layout, anime style, cosplay vibe, messy labels, incorrect structures, blurry text, fake materials, excessive decoration, English or pinyin text",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ca8a9fa3-2df3-44fe-b291-8a6d88c17497/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: museum exhibition panel, educational infographic\\nPrimary request: Chinese ethnic minority costume illustrated breakdown infographic in museum collection style\\nScene/backdrop: museum display panel with rice paper / silk paper texture background in off-white, pale tea, and cream tones, clean and archival\\nSubject: Miao/Hmong silver-embroidered festival costume with pleated skirt, silver headdress, and embroidered jacket as central full-body figure in standing pose\\nStyle/medium: technical illustration mixed with photorealistic rendering, archival museum documentation style, restrained and scholarly aesthetic\\nComposition/framing: structured infographic layout with labeled zones - top header, left structural breakdown with callout lines, upper-right material texture samples, mid-right color palette and pattern meaning section, bottom wearing sequence flowchart\\nLighting/mood: even diffused museum lighting, neutral and professional atmosphere, no dramatic shadows\\nColor palette: archival paper tones (off-white, beige, pale tea) + costume colors (indigo blue, silver, red embroidery, black cloth)\\nMaterials/textures: hand-woven hemp cloth, wax-resist dyed indigo fabric, hand-hammered silver ornaments, silk embroidery threads, detailed close-up swatches\\nText (verbatim): \\\"中国少数民族服饰\\\"\\nConstraints: all text must be clear simplified Chinese characters, proper structural labeling, authentic material representation, museum-grade presentation\\nAvoid: poster aesthetic, studio portrait feel, e-commerce layout, anime style, cosplay vibe, messy labels, incorrect structures, blurry text, fake materials, excessive decoration, English or pinyin text\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13307
+}

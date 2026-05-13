@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "创作一幅中国传统水墨风格的山水画，远山如黛，云雾缭绕，近处有松树和茅草屋，一位老者正在溪边垂钓，画面留白得当，意境空灵悠远，体现东方美学",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/77c39ff6-b7fb-45d6-a3ac-c0f69708b92c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"创作一幅中国传统水墨风格的山水画，远山如黛，云雾缭绕，近处有松树和茅草屋，一位老者正在溪边垂钓，画面留白得当，意境空灵悠远，体现东方美学\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5441
+}

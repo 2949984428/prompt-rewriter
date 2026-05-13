@@ -1,0 +1,20 @@
+{
+  "query_idx": 29,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing fantasy illustration of an underwater world (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 梦幻童话 (dreamy fairy-tale) aesthetic — exact stylistic execution is yours\nComposition: needs a sweeping underwater scene with multiple focal points — exact framing and depth layering are yours\nSubject: must include:\n  - a mermaid swimming among coral reefs\n  - glowing jellyfish\n  - a sunken shipwreck with treasure\nScene/backdrop: must include an underwater world with sunlight rays piercing down from the ocean surface, coral reef environment\nLighting/mood: needs a dreamy, luminous atmosphere with light shafts from above and bioluminescent glow — exact light source mix is yours\nColor palette: needs a vivid, kaleidoscopic dream-like direction — exact hues and ratios are yours\nMaterials/textures: needs an illustrative, painterly surface treatment — exact texture and finish are yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d4fa6157-93c8-4a26-a919-9959d2687430/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing fantasy illustration of an underwater world (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 梦幻童话 (dreamy fairy-tale) aesthetic — exact stylistic execution is yours\\nComposition: needs a sweeping underwater scene with multiple focal points — exact framing and depth layering are yours\\nSubject: must include:\\n  - a mermaid swimming among coral reefs\\n  - glowing jellyfish\\n  - a sunken shipwreck with treasure\\nScene/backdrop: must include an underwater world with sunlight rays piercing down from the ocean surface, coral reef environment\\nLighting/mood: needs a dreamy, luminous atmosphere with light shafts from above and bioluminescent glow — exact light source mix is yours\\nColor palette: needs a vivid, kaleidoscopic dream-like direction — exact hues and ratios are yours\\nMaterials/textures: needs an illustrative, painterly surface treatment — exact texture and finish are yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7690
+}

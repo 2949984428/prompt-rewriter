@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a movie poster for \"大话西游\" (A Chinese Odyssey) reimagined in 90s Hong Kong cinema style, featuring the iconic city wall embrace, in the grainy romance of golden-era Cantonese film.\n\nStyle/medium: 90s Hong Kong cinema poster with the tactile grain and saturated warmth of Cantonese golden-era film stock, evoking the romantic melancholy of Wong Kar-wai's contemporaries\nComposition: the lovers at center frame on ancient city wall, elevated and isolated; the antagonist and monk as distant silhouettes below, creating visual hierarchy through scale and depth\nSubject: 至尊宝 (Zhi Zunbao / Monkey King) and 紫霞 (Zi Xia) in their famous embrace on the city wall, distant 牛魔王 (Bull Demon King) and 唐僧 (Tang Monk) standing below as witness figures\nScene/backdrop: ancient Chinese city wall at dusk, the vast sky swallowing the horizon, distant desert or wasteland below the wall\nLighting/mood: the honeyed melancholy of 90s Hong Kong romance cinema, golden hour bleeding into purple dusk, a held breath between comedy and tragedy\nColor palette: warm amber and honey tones against deepening purple-blue sky, the saturated yet slightly faded palette of aged film stock\nMaterials/textures: 35mm film grain, slight color separation, the soft texture of projected celluloid\nText (verbatim): 大话西游\nConstraints: 90s Hong Kong cinema aesthetic, all four characters present and positioned as described, film grain visible\nAvoid: modern digital crispness, contemporary Chinese blockbuster aesthetic, overly clean or glossy finish",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8176d64d-ebfb-4846-a3d6-acfeb5e367ca/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a movie poster for \\\"大话西游\\\" (A Chinese Odyssey) reimagined in 90s Hong Kong cinema style, featuring the iconic city wall embrace, in the grainy romance of golden-era Cantonese film.\\n\\nStyle/medium: 90s Hong Kong cinema poster with the tactile grain and saturated warmth of Cantonese golden-era film stock, evoking the romantic melancholy of Wong Kar-wai's contemporaries\\nComposition: the lovers at center frame on ancient city wall, elevated and isolated; the antagonist and monk as distant silhouettes below, creating visual hierarchy through scale and depth\\nSubject: 至尊宝 (Zhi Zunbao / Monkey King) and 紫霞 (Zi Xia) in their famous embrace on the city wall, distant 牛魔王 (Bull Demon King) and 唐僧 (Tang Monk) standing below as witness figures\\nScene/backdrop: ancient Chinese city wall at dusk, the vast sky swallowing the horizon, distant desert or wasteland below the wall\\nLighting/mood: the honeyed melancholy of 90s Hong Kong romance cinema, golden hour bleeding into purple dusk, a held breath between comedy and tragedy\\nColor palette: warm amber and honey tones against deepening purple-blue sky, the saturated yet slightly faded palette of aged film stock\\nMaterials/textures: 35mm film grain, slight color separation, the soft texture of projected celluloid\\nText (verbatim): 大话西游\\nConstraints: 90s Hong Kong cinema aesthetic, all four characters present and positioned as described, film grain visible\\nAvoid: modern digital crispness, contemporary Chinese blockbuster aesthetic, overly clean or glossy finish\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14400
+}

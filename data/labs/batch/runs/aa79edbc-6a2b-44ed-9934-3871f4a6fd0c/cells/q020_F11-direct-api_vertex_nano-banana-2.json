@@ -1,0 +1,23 @@
+{
+  "query_idx": 20,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "帮我设计一个企业logo。我的主营业务是冬虫夏草批发",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aae946923-aa21-4c44-861c-c5e54ebc2ed8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"帮我设计一个企业logo。我的主营业务是冬虫夏草批发\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8690,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

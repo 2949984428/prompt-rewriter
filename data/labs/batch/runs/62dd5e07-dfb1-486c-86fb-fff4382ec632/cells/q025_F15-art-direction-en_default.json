@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Xiaohongshu (小红书) style 9-grid cover vertical image for a grassroots creator account featuring the DJI Pocket 4.\n\nStyle/medium: needs a \"素人\" (everyday grassroots creator) Xiaohongshu aesthetic — exact stylistic execution is yours\nComposition: must be a 9-grid layout (九宫格) formatted as a single vertical cover image, product DJI Pocket 4 prominently featured in the center area\nSubject: must include the DJI Pocket 4 camera as the hero product\nScene/backdrop: needs a casual, relatable everyday backdrop fitting the 素人 creator vibe — exact scene is yours\nLighting/mood: needs a bright, approachable, lifestyle atmosphere — exact light treatment is yours\nColor palette: needs a fresh, cute, and differentiated direction — exact palette is yours\nMaterials/textures: \nText (verbatim): must include central title text \"大强pocket4初体验\"\nConstraints: must preserve 9-grid (九宫格) cover structure; title text must be centered and prominent; font style must feel cute (可爱) and visually differentiated from standard Xiaohongshu covers\nAvoid: overly polished commercial photography look; avoid corporate or brand-official aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/53d17301-2981-45ab-aacc-548912a8d255/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing Xiaohongshu (小红书) style 9-grid cover vertical image for a grassroots creator account featuring the DJI Pocket 4.\\n\\nStyle/medium: needs a \\\"素人\\\" (everyday grassroots creator) Xiaohongshu aesthetic — exact stylistic execution is yours\\nComposition: must be a 9-grid layout (九宫格) formatted as a single vertical cover image, product DJI Pocket 4 prominently featured in the center area\\nSubject: must include the DJI Pocket 4 camera as the hero product\\nScene/backdrop: needs a casual, relatable everyday backdrop fitting the 素人 creator vibe — exact scene is yours\\nLighting/mood: needs a bright, approachable, lifestyle atmosphere — exact light treatment is yours\\nColor palette: needs a fresh, cute, and differentiated direction — exact palette is yours\\nMaterials/textures: \\nText (verbatim): must include central title text \\\"大强pocket4初体验\\\"\\nConstraints: must preserve 9-grid (九宫格) cover structure; title text must be centered and prominent; font style must feel cute (可爱) and visually differentiated from standard Xiaohongshu covers\\nAvoid: overly polished commercial photography look; avoid corporate or brand-official aesthetic\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7544
+}

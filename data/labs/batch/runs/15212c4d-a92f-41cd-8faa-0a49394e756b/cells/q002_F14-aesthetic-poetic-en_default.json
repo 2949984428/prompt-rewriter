@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a professional documentary-style banner image for Weibo news/hot-topic feature, in the tension between urban urgency and fleeting stillness.\n\nStyle/medium: documentary street photography with the grain and chromatic honesty of contemporary Chinese photojournalism, designed for social media impact\nComposition: 16:9 wide panoramic format, generous negative space on the left third for headline overlay, horizon line at lower third, depth layers from foreground pedestrians to midground buildings to distant skyline\nSubject: city skyline at dusk with neon signs flickering on, pedestrians in motion blur, high-rise buildings catching the last amber reflection of sunset\nScene/backdrop: urban downtown street at the threshold between day and night, glass facades mirroring the dying light, neon storefronts beginning their evening glow\nLighting/mood: the dramatic contrast between warm sunset gold and cool neon blue, the quiet melancholy of a city exhaling after the workday\nColor palette: amber-gold sunset bleeding into electric blue neon, the chromatic tension between natural dusk and artificial light\nMaterials/textures: the crisp glass reflection of skyscrapers, the soft motion blur of passing figures, the grain of authentic documentary capture\nText (verbatim): 大标题 \"城市里的安静时刻\" | 副文 \"黄昏，总能治愈一天的匆忙\" | 水印 \"@龙爪槐守望者real · 生活观察\"\nConstraints: 16:9 aspect ratio, wide horizontal composition, ample negative space for text overlay, authentic on-scene documentary feel\nAvoid: oversaturated HDR, artificial sharpening artifacts, generic stock-photo city aesthetic, 8K stuffer language",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/23f0b27b-a4a7-4d70-b142-ebd7e3ecb91e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a professional documentary-style banner image for Weibo news/hot-topic feature, in the tension between urban urgency and fleeting stillness.\\n\\nStyle/medium: documentary street photography with the grain and chromatic honesty of contemporary Chinese photojournalism, designed for social media impact\\nComposition: 16:9 wide panoramic format, generous negative space on the left third for headline overlay, horizon line at lower third, depth layers from foreground pedestrians to midground buildings to distant skyline\\nSubject: city skyline at dusk with neon signs flickering on, pedestrians in motion blur, high-rise buildings catching the last amber reflection of sunset\\nScene/backdrop: urban downtown street at the threshold between day and night, glass facades mirroring the dying light, neon storefronts beginning their evening glow\\nLighting/mood: the dramatic contrast between warm sunset gold and cool neon blue, the quiet melancholy of a city exhaling after the workday\\nColor palette: amber-gold sunset bleeding into electric blue neon, the chromatic tension between natural dusk and artificial light\\nMaterials/textures: the crisp glass reflection of skyscrapers, the soft motion blur of passing figures, the grain of authentic documentary capture\\nText (verbatim): 大标题 \\\"城市里的安静时刻\\\" | 副文 \\\"黄昏，总能治愈一天的匆忙\\\" | 水印 \\\"@龙爪槐守望者real · 生活观察\\\"\\nConstraints: 16:9 aspect ratio, wide horizontal composition, ample negative space for text overlay, authentic on-scene documentary feel\\nAvoid: oversaturated HDR, artificial sharpening artifacts, generic stock-photo city aesthetic, 8K stuffer language\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15151
+}

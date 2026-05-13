@@ -1,0 +1,18 @@
+{
+  "query_idx": 6,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing movie poster for \"大话西游\" in 90s Hong Kong cinema style.\n\nStyle/medium: 90s Hong Kong cinema, film grain\nComposition: \nSubject: 至尊宝 and 紫霞 embracing and kissing on a city wall, 牛魔王 and 唐僧 standing in the distance\nScene/backdrop: ancient Chinese city wall\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 大话西游\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_9bba600574ae4ed2bbf3e4d4c5d90739.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"Design an original, non-infringing movie poster for \\\"大话西游\\\" in 90s Hong Kong cinema style.\\n\\nStyle/medium: 90s Hong Kong cinema, film grain\\nComposition: \\nSubject: 至尊宝 and 紫霞 embracing and kissing on a city wall, 牛魔王 and 唐僧 standing in the distance\\nScene/backdrop: ancient Chinese city wall\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 大话西游\\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5988
+}

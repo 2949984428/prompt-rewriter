@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-scene\nAsset type: editorial illustration, square crop\nPrimary request: fresh Japanese-style cherry blossom season campus scene with a schoolgirl in sailor uniform standing in front of a school building, petals falling, gentle breeze, bright sunshine, youthful atmosphere\nScene/backdrop: Japanese high school campus exterior, school building facade in background, cherry blossom trees lining the path, soft bokeh of pink petals in the air\nSubject: young schoolgirl in classic white-and-navy sailor uniform (セーラー服), long hair gently blown by breeze, soft smile, standing naturally in front of the school building\nStyle/medium: Japanese anime-inspired illustration, clean linework, soft watercolor-like coloring, shoujo manga aesthetic\nComposition/framing: medium full-body shot, slight low-angle, subject centered with cherry blossom canopy overhead\nLighting/mood: bright warm spring sunlight, soft golden-hour glow, cheerful and nostalgic, youthful and refreshing\nColor palette: soft pink cherry blossoms, white and navy sailor uniform, pale blue sky, warm golden sunlight, light green foliage accents\nMaterials/textures: smooth illustration finish, delicate petal scatter, soft fabric folds on uniform, flowing hair strands\nAvoid: dark or gloomy atmosphere, overly sexualized pose, deformed hands, cluttered background",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/73572e56-7f9c-40f6-9fee-91d2a016c7e3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-scene\\nAsset type: editorial illustration, square crop\\nPrimary request: fresh Japanese-style cherry blossom season campus scene with a schoolgirl in sailor uniform standing in front of a school building, petals falling, gentle breeze, bright sunshine, youthful atmosphere\\nScene/backdrop: Japanese high school campus exterior, school building facade in background, cherry blossom trees lining the path, soft bokeh of pink petals in the air\\nSubject: young schoolgirl in classic white-and-navy sailor uniform (セーラー服), long hair gently blown by breeze, soft smile, standing naturally in front of the school building\\nStyle/medium: Japanese anime-inspired illustration, clean linework, soft watercolor-like coloring, shoujo manga aesthetic\\nComposition/framing: medium full-body shot, slight low-angle, subject centered with cherry blossom canopy overhead\\nLighting/mood: bright warm spring sunlight, soft golden-hour glow, cheerful and nostalgic, youthful and refreshing\\nColor palette: soft pink cherry blossoms, white and navy sailor uniform, pale blue sky, warm golden sunlight, light green foliage accents\\nMaterials/textures: smooth illustration finish, delicate petal scatter, soft fabric folds on uniform, flowing hair strands\\nAvoid: dark or gloomy atmosphere, overly sexualized pose, deformed hands, cluttered background\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8906
+}

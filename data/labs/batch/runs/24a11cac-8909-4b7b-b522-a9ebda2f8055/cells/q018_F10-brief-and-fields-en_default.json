@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a product shot of a smartwatch placed on a marble surface, styled in a minimal business aesthetic.\n\nStyle/medium: photorealistic product photography, clean editorial style with restrained composition\nComposition: three-quarter overhead angle, 50mm prime lens, shallow depth of field with watch as primary focal point\nSubject: smartwatch with polished casing and visible screen detail, resting flat on white/grey marble surface; a ceramic coffee cup and a closed notebook positioned alongside as supporting props\nScene/backdrop: minimal indoor tabletop setting, neutral background, no clutter\nLighting/mood: soft natural side light from a window, gentle diffused shadows, calm and refined business mood\nColor palette: cool marble white and grey as base, warm coffee-brown as secondary accent, metallic silver of watch as hero tone\nMaterials/textures: marble veining on surface, matte leather or fabric notebook cover, ceramic cup glaze, brushed metal watch case\nAvoid: artificial studio flash look, busy backgrounds, lens flare, watermark, over-saturated colors, cluttered props",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a115047a-342d-494f-b385-1dc884bc4ed4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a product shot of a smartwatch placed on a marble surface, styled in a minimal business aesthetic.\\n\\nStyle/medium: photorealistic product photography, clean editorial style with restrained composition\\nComposition: three-quarter overhead angle, 50mm prime lens, shallow depth of field with watch as primary focal point\\nSubject: smartwatch with polished casing and visible screen detail, resting flat on white/grey marble surface; a ceramic coffee cup and a closed notebook positioned alongside as supporting props\\nScene/backdrop: minimal indoor tabletop setting, neutral background, no clutter\\nLighting/mood: soft natural side light from a window, gentle diffused shadows, calm and refined business mood\\nColor palette: cool marble white and grey as base, warm coffee-brown as secondary accent, metallic silver of watch as hero tone\\nMaterials/textures: marble veining on surface, matte leather or fabric notebook cover, ceramic cup glaze, brushed metal watch case\\nAvoid: artificial studio flash look, busy backgrounds, lens flare, watermark, over-saturated colors, cluttered props\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8916
+}

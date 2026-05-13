@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a French romantic bedroom scene with a four-poster bed and Paris street view outside the window.\n\nStyle/medium: editorial interior photography, French romantic style, soft vintage aesthetic reminiscent of Parisian apartments\nComposition: medium shot from the foot of the bed, slightly angled to capture both the four-poster bed and the window view, natural perspective\nSubject: four-poster bed with flowing sheer canopy drapes, vintage vanity table with ornate mirror, scattered rose petals on bed and floor\nScene/backdrop: Parisian bedroom interior with tall windows, Eiffel Tower or classic Haussmann buildings visible outside, morning atmosphere\nLighting/mood: soft morning sunlight filtering through sheer curtains, warm and diffused, creating an elegant and languid atmosphere\nColor palette: warm cream and ivory as base, soft rose pink accents, muted gold touches, gentle morning light tones\nMaterials/textures: flowing linen and silk fabrics, polished antique wood, delicate lace, soft rose petals, sheer voile curtains\nAvoid: harsh shadows, modern furniture, cluttered composition, oversaturated colors, plastic textures, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ca7f3264-d129-4be7-a38a-4fef12a419c1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a French romantic bedroom scene with a four-poster bed and Paris street view outside the window.\\n\\nStyle/medium: editorial interior photography, French romantic style, soft vintage aesthetic reminiscent of Parisian apartments\\nComposition: medium shot from the foot of the bed, slightly angled to capture both the four-poster bed and the window view, natural perspective\\nSubject: four-poster bed with flowing sheer canopy drapes, vintage vanity table with ornate mirror, scattered rose petals on bed and floor\\nScene/backdrop: Parisian bedroom interior with tall windows, Eiffel Tower or classic Haussmann buildings visible outside, morning atmosphere\\nLighting/mood: soft morning sunlight filtering through sheer curtains, warm and diffused, creating an elegant and languid atmosphere\\nColor palette: warm cream and ivory as base, soft rose pink accents, muted gold touches, gentle morning light tones\\nMaterials/textures: flowing linen and silk fabrics, polished antique wood, delicate lace, soft rose petals, sheer voile curtains\\nAvoid: harsh shadows, modern furniture, cluttered composition, oversaturated colors, plastic textures, watermark\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9450
+}

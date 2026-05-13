@@ -1,0 +1,21 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing educational infographic explaining AI-related concepts and their relationships.\n\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\nComposition: must include each concept as a labeled node with definition text and visual connectors showing relationships between nodes\nSubject: must include all 7 concepts with definitions and relationship lines:\n  - AI\n  - MCP\n  - AI Agent\n  - OpenClaw\n  - AI Skill\n  - 蒸馏\n  - CLI\nScene/backdrop: \nLighting/mood: \nColor palette: needs a light, approachable direction — exact color choices are yours\nMaterials/textures: needs a hand-drawn / sketchbook surface treatment — exact line weight and paper texture are yours\nText (verbatim): must include all 7 concept labels: \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must preserve all 7 concepts; each concept must have a short definition and at least one visible relationship connector to related concepts; layout must be readable and beginner-friendly\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A44a115f8-9c8c-4804-b3bc-84d49ddb7658/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing educational infographic explaining AI-related concepts and their relationships.\\n\\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\\nComposition: must include each concept as a labeled node with definition text and visual connectors showing relationships between nodes\\nSubject: must include all 7 concepts with definitions and relationship lines:\\n  - AI\\n  - MCP\\n  - AI Agent\\n  - OpenClaw\\n  - AI Skill\\n  - 蒸馏\\n  - CLI\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a light, approachable direction — exact color choices are yours\\nMaterials/textures: needs a hand-drawn / sketchbook surface treatment — exact line weight and paper texture are yours\\nText (verbatim): must include all 7 concept labels: \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must preserve all 7 concepts; each concept must have a short definition and at least one visible relationship connector to related concepts; layout must be readable and beginner-friendly\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8079
+}

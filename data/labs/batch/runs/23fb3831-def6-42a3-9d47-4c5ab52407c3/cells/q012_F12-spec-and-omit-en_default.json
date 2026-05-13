@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing cover image for a WeChat public article about a new fragrance product launch \"染秋\".\n\nStyle/medium: high-end luxury editorial, premium texture aesthetic\nComposition: centered composition, title text prominently featured\nSubject: fragrance new product launch themed \"染秋香氛新品发布\"\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title text must be visually prominent and legible; aspect ratio approximately 9:5 (900×500)\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5b67ea4e-a145-49c4-8479-98a7c123fd0c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing cover image for a WeChat public article about a new fragrance product launch \\\"染秋\\\".\\n\\nStyle/medium: high-end luxury editorial, premium texture aesthetic\\nComposition: centered composition, title text prominently featured\\nSubject: fragrance new product launch themed \\\"染秋香氛新品发布\\\"\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title text must be visually prominent and legible; aspect ratio approximately 9:5 (900×500)\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6539
+}

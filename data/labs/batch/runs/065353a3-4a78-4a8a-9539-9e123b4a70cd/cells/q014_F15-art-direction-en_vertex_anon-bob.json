@@ -1,0 +1,21 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original UI design system showcase illustration featuring Dashboard, mobile interface, cards, buttons, and controls.\n\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\nComposition: must include multi-layer layout showcasing all UI components together — exact arrangement is yours\nSubject: must include all UI components:\n  - 网页 Dashboard (data panels, charts, nav)\n  - 移动端界面 (mobile screen mockup)\n  - 卡片 (card components)\n  - 按钮 (button states)\n  - 控件 (UI controls / toggles / sliders)\nScene/backdrop: needs a deep tech-space backdrop — exact environment is yours\nLighting/mood: needs a visually striking, high-contrast, layered atmosphere with strong 科技感 — exact light source mix is yours\nColor palette: needs a cool-toned tech direction with vivid accent highlights — exact hex values and ratios are yours\nMaterials/textures: needs a sleek glass-morphism or frosted-panel surface treatment — exact sheen and depth are yours\nText (verbatim): \nConstraints: must preserve visual hierarchy across all component layers; all UI components listed above must be legible and distinct\nAvoid: flat or dull presentation; cluttered illegible layout",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8cb106d6-4464-4b23-ac48-19a57450f1b7/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original UI design system showcase illustration featuring Dashboard, mobile interface, cards, buttons, and controls.\\n\\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\\nComposition: must include multi-layer layout showcasing all UI components together — exact arrangement is yours\\nSubject: must include all UI components:\\n  - 网页 Dashboard (data panels, charts, nav)\\n  - 移动端界面 (mobile screen mockup)\\n  - 卡片 (card components)\\n  - 按钮 (button states)\\n  - 控件 (UI controls / toggles / sliders)\\nScene/backdrop: needs a deep tech-space backdrop — exact environment is yours\\nLighting/mood: needs a visually striking, high-contrast, layered atmosphere with strong 科技感 — exact light source mix is yours\\nColor palette: needs a cool-toned tech direction with vivid accent highlights — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek glass-morphism or frosted-panel surface treatment — exact sheen and depth are yours\\nText (verbatim): \\nConstraints: must preserve visual hierarchy across all component layers; all UI components listed above must be legible and distinct\\nAvoid: flat or dull presentation; cluttered illegible layout\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9409
+}

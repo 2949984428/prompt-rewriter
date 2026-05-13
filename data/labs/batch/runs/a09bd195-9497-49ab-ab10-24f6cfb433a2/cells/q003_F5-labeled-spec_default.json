@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: interior-design-render\nAsset type: editorial interior photo, portfolio-ready\nPrimary request: minimalist Scandinavian living room with clean lines and cozy atmosphere\nScene/backdrop: bright airy living room with large floor-to-ceiling windows, white plaster walls, light oak flooring\nSubject: grey fabric sofa as central furniture piece, potted green plant, modern floor lamp with simple silhouette\nStyle/medium: photorealistic interior photography, Nordic minimalism\nComposition/framing: wide establishing shot, balanced symmetrical layout, natural sight lines toward window\nLighting/mood: soft natural sunlight streaming through large windows, warm and inviting, gentle shadows\nColor palette: pure white walls, pale oak wood tones, muted grey sofa, fresh green plant accents\nMaterials/textures: matte plaster wall, smooth oak floor grain, woven fabric upholstery, ceramic planter, brushed metal lamp base\nConstraints: maintain clean uncluttered aesthetic, emphasize natural light and material authenticity\nAvoid: cluttered decor, heavy furniture, artificial lighting dominance, overly saturated colors, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2e75b8b1-aaa1-4248-ab5d-d10fa7ca904f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: interior-design-render\\nAsset type: editorial interior photo, portfolio-ready\\nPrimary request: minimalist Scandinavian living room with clean lines and cozy atmosphere\\nScene/backdrop: bright airy living room with large floor-to-ceiling windows, white plaster walls, light oak flooring\\nSubject: grey fabric sofa as central furniture piece, potted green plant, modern floor lamp with simple silhouette\\nStyle/medium: photorealistic interior photography, Nordic minimalism\\nComposition/framing: wide establishing shot, balanced symmetrical layout, natural sight lines toward window\\nLighting/mood: soft natural sunlight streaming through large windows, warm and inviting, gentle shadows\\nColor palette: pure white walls, pale oak wood tones, muted grey sofa, fresh green plant accents\\nMaterials/textures: matte plaster wall, smooth oak floor grain, woven fabric upholstery, ceramic planter, brushed metal lamp base\\nConstraints: maintain clean uncluttered aesthetic, emphasize natural light and material authenticity\\nAvoid: cluttered decor, heavy furniture, artificial lighting dominance, overly saturated colors, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9421
+}

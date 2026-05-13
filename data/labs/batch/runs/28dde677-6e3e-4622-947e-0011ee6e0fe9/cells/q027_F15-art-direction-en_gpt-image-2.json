@@ -1,0 +1,21 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 工笔重彩 long-scroll illustration of a 元宵灯会 panorama in 唐代长安城.\n\nStyle/medium: needs a 工笔重彩长卷 aesthetic — exact brushwork, pigment layering, and scroll proportion are yours\nComposition: must be panoramic long-scroll (横卷) format\nSubject: must include the 元宵灯会 scene with 万盏花灯 filling the night sky and streets of 长安城\nScene/backdrop: must include 唐代长安城 at night, lanterns illuminating the cityscape\nLighting/mood: needs a warm, festive night atmosphere lit by countless lanterns — exact light diffusion and glow treatment are yours\nColor palette: needs a rich, luminous direction befitting 重彩 — exact pigment choices and ratios are yours\nMaterials/textures: needs a traditional silk or paper scroll surface treatment — exact texture weight is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Ac62971ab-d698-4e48-a102-d8010961088a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 工笔重彩 long-scroll illustration of a 元宵灯会 panorama in 唐代长安城.\\n\\nStyle/medium: needs a 工笔重彩长卷 aesthetic — exact brushwork, pigment layering, and scroll proportion are yours\\nComposition: must be panoramic long-scroll (横卷) format\\nSubject: must include the 元宵灯会 scene with 万盏花灯 filling the night sky and streets of 长安城\\nScene/backdrop: must include 唐代长安城 at night, lanterns illuminating the cityscape\\nLighting/mood: needs a warm, festive night atmosphere lit by countless lanterns — exact light diffusion and glow treatment are yours\\nColor palette: needs a rich, luminous direction befitting 重彩 — exact pigment choices and ratios are yours\\nMaterials/textures: needs a traditional silk or paper scroll surface treatment — exact texture weight is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7898
+}

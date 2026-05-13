@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic aerial photograph of a modern international metropolis core business district at night.\n\nStyle/medium: cinematic aerial photography, cyberpunk color grading, long exposure technique, drone photography aesthetic\nComposition: high-angle bird's-eye view, wide establishing shot capturing entire cityscape, centered on iconic supertall skyscraper\nSubject: iconic supertall skyscraper with sweeping searchlight beams at its apex piercing the night sky\nScene/backdrop: bustling core business district with countless glass curtain wall skyscrapers, busy highways with flowing red and white light trails, distant harbor with giant cruise ships docked, massive neon billboards illuminating the sky\nLighting/mood: high contrast, dramatic artificial city lights against deep night, searchlight beams cutting through darkness, neon glow reflecting off glass surfaces\nColor palette: dominant blue-purple tones with cyan and magenta accents, warm red and white light trails as contrast elements, deep blacks in shadow areas\nMaterials/textures: reflective glass facades, smooth asphalt highways, metallic steel structures, glossy water surface in harbor\nAvoid: oversaturated colors, cartoonish rendering, deformed architecture, watermark, 8K stuffer aesthetic, generic stock photo look",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/470b1ee4-72cc-4fde-89ea-2ee3779fd36b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic aerial photograph of a modern international metropolis core business district at night.\\n\\nStyle/medium: cinematic aerial photography, cyberpunk color grading, long exposure technique, drone photography aesthetic\\nComposition: high-angle bird's-eye view, wide establishing shot capturing entire cityscape, centered on iconic supertall skyscraper\\nSubject: iconic supertall skyscraper with sweeping searchlight beams at its apex piercing the night sky\\nScene/backdrop: bustling core business district with countless glass curtain wall skyscrapers, busy highways with flowing red and white light trails, distant harbor with giant cruise ships docked, massive neon billboards illuminating the sky\\nLighting/mood: high contrast, dramatic artificial city lights against deep night, searchlight beams cutting through darkness, neon glow reflecting off glass surfaces\\nColor palette: dominant blue-purple tones with cyan and magenta accents, warm red and white light trails as contrast elements, deep blacks in shadow areas\\nMaterials/textures: reflective glass facades, smooth asphalt highways, metallic steel structures, glossy water surface in harbor\\nAvoid: oversaturated colors, cartoonish rendering, deformed architecture, watermark, 8K stuffer aesthetic, generic stock photo look\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10226
+}

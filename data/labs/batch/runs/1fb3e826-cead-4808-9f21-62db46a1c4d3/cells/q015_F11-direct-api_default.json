@@ -1,0 +1,18 @@
+{
+  "query_idx": 15,
+  "skill_id": "F11-direct-api",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "9:16的图片比例，生成一张抖音直播的截图，里面是神仙姐姐在直播\n神仙姐姐手里掌着牌子，牌子里写着今晚直播，欢迎来参亦菲畅聊！",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-04-img2-sweden.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"9:16的图片比例，生成一张抖音直播的截图，里面是神仙姐姐在直播\\n神仙姐姐手里掌着牌子，牌子里写着今晚直播，欢迎来参亦菲畅聊！\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4792
+}

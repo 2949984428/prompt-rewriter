@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design illustration of a French romantic bedroom scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 法式浪漫 aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a four-poster bed with sheer canopy, vintage dressing table, scattered rose petals\nScene/backdrop: must include Paris street view visible through the window\nLighting/mood: must be soft morning light with an elegant and lazy atmosphere\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/59cebd57-940a-473b-8fb8-fd2fab205499/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an interior design illustration of a French romantic bedroom scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 法式浪漫 aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a four-poster bed with sheer canopy, vintage dressing table, scattered rose petals\\nScene/backdrop: must include Paris street view visible through the window\\nLighting/mood: must be soft morning light with an elegant and lazy atmosphere\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7515
+}

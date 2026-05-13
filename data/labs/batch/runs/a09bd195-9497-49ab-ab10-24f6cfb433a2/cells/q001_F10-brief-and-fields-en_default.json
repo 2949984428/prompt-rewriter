@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic still of a cyberpunk future city at night.\n\nStyle/medium: cinematic concept art, cyberpunk aesthetic inspired by Blade Runner and Akira, photorealistic rendering\nComposition: wide establishing shot, low angle looking up at towering skyscrapers, 24mm wide-angle lens, deep depth of field\nSubject: dense cluster of futuristic megastructures with flying cars weaving between buildings, rain-soaked streets below\nScene/backdrop: dystopian metropolis at night, layered vertical architecture, dense urban sprawl, perpetual rain\nLighting/mood: harsh neon signs casting colored glow, wet surfaces reflecting light, atmospheric haze, melancholic and dystopian\nColor palette: deep blue and purple as dominant base, cyan and magenta neon accents, warm orange street lights as contrast\nMaterials/textures: wet asphalt with puddles, corroded metal surfaces, glowing LED panels, rain droplets on glass\nAvoid: clean utopian aesthetic, daylight, cheerful mood, generic sci-fi, 8K stuffer words",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/70569e47-f682-472d-9108-16d63298b23c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing cinematic still of a cyberpunk future city at night.\\n\\nStyle/medium: cinematic concept art, cyberpunk aesthetic inspired by Blade Runner and Akira, photorealistic rendering\\nComposition: wide establishing shot, low angle looking up at towering skyscrapers, 24mm wide-angle lens, deep depth of field\\nSubject: dense cluster of futuristic megastructures with flying cars weaving between buildings, rain-soaked streets below\\nScene/backdrop: dystopian metropolis at night, layered vertical architecture, dense urban sprawl, perpetual rain\\nLighting/mood: harsh neon signs casting colored glow, wet surfaces reflecting light, atmospheric haze, melancholic and dystopian\\nColor palette: deep blue and purple as dominant base, cyan and magenta neon accents, warm orange street lights as contrast\\nMaterials/textures: wet asphalt with puddles, corroded metal surfaces, glowing LED panels, rain droplets on glass\\nAvoid: clean utopian aesthetic, daylight, cheerful mood, generic sci-fi, 8K stuffer words\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9880
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 61,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a monochrome logo — five abstracted, sweeping vector forms.\n\nStyle/medium: flat vector logo, purely flat, clean crisp edges\nComposition:\n  five abstracted sweeping forms resembling dynamic arrows or chevrons\n  overlapping intersections create a complex kinetic geometric pattern\n  forms converge at a single point\nSubject: abstract logo mark symbolizing unified purpose and forward momentum\nScene/backdrop:\nLighting/mood: dynamic yet profoundly sophisticated\nColor palette: solid black and white only, monochrome\nMaterials/textures: high-definition lines, no gradients, no texture\nText (verbatim):\nConstraints: no text, no letterforms\nAvoid: gray tones, drop shadows, decorative elements, realistic or 3D rendering",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac6f70d79-ff4c-4ab9-9e0b-13e9b16b717e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a monochrome logo — five abstracted, sweeping vector forms.\\n\\nStyle/medium: flat vector logo, purely flat, clean crisp edges\\nComposition:\\n  five abstracted sweeping forms resembling dynamic arrows or chevrons\\n  overlapping intersections create a complex kinetic geometric pattern\\n  forms converge at a single point\\nSubject: abstract logo mark symbolizing unified purpose and forward momentum\\nScene/backdrop:\\nLighting/mood: dynamic yet profoundly sophisticated\\nColor palette: solid black and white only, monochrome\\nMaterials/textures: high-definition lines, no gradients, no texture\\nText (verbatim):\\nConstraints: no text, no letterforms\\nAvoid: gray tones, drop shadows, decorative elements, realistic or 3D rendering\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 13391,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

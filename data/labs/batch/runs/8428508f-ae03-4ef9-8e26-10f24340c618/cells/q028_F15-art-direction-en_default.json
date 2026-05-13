@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a realistic employee ID badge design for \"字节跳动\" (ByteDance), showing both front and back sides.\n\nStyle/medium: needs a realistic, physical-object photography aesthetic — exact stylistic execution is yours\nComposition: must include both front and back sides of the badge displayed together\nSubject: must include a corporate employee ID badge for \"字节跳动\"\nScene/backdrop: needs a clean, professional backdrop — exact surface and setting are yours\nLighting/mood: needs a realistic product-photography atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a realistic hard plastic card surface with lanyard hole — exact finish (matte/gloss) is yours\nText (verbatim): must include \"字节跳动\" on the badge\nConstraints: must show both front and back faces of the badge clearly\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aa2bbb75-ba50-4438-9bfa-c6fb20d812fa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a realistic employee ID badge design for \\\"字节跳动\\\" (ByteDance), showing both front and back sides.\\n\\nStyle/medium: needs a realistic, physical-object photography aesthetic — exact stylistic execution is yours\\nComposition: must include both front and back sides of the badge displayed together\\nSubject: must include a corporate employee ID badge for \\\"字节跳动\\\"\\nScene/backdrop: needs a clean, professional backdrop — exact surface and setting are yours\\nLighting/mood: needs a realistic product-photography atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a realistic hard plastic card surface with lanyard hole — exact finish (matte/gloss) is yours\\nText (verbatim): must include \\\"字节跳动\\\" on the badge\\nConstraints: must show both front and back faces of the badge clearly\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10297
+}

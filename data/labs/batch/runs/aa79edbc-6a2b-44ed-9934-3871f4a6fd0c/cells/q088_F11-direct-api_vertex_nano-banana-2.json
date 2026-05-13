@@ -1,0 +1,23 @@
+{
+  "query_idx": 88,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "write this logo to look like it's written with soy sauce like the second reference attached with a top view angle[@image:#1:logo][@image:#2:9e859b7a88bdd672dbac93b0ac1cd5e5]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa9f09429-0cd9-4796-92e7-d211c1f4a5fd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"write this logo to look like it's written with soy sauce like the second reference attached with a top view angle[@image:#1:logo][@image:#2:9e859b7a88bdd672dbac93b0ac1cd5e5]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4493,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

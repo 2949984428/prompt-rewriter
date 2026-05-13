@@ -1,0 +1,23 @@
+{
+  "query_idx": 32,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Cria pra mim uma logo de uma doceria com o nome doces da Lis, uma fonte fofa e bonita, um gatinho marrom encima, com um lírio amarelo na cabeça, o gatinho tem o estilo puxado pra hello Kitty and friends. O fundo deve ser amarelo bebê e rosa candy, o gatinho deve ser em um tom chocolate.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1101beb9-6925-41dc-a04b-16c25dddcdf7/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Cria pra mim uma logo de uma doceria com o nome doces da Lis, uma fonte fofa e bonita, um gatinho marrom encima, com um lírio amarelo na cabeça, o gatinho tem o estilo puxado pra hello Kitty and friends. O fundo deve ser amarelo bebê e rosa candy, o gatinho deve ser em um tom chocolate.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4126,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

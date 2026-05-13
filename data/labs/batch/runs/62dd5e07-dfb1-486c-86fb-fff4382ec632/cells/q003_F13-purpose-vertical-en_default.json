@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, consumer electronics, and lifestyle products — suitable for both Chinese and international platforms.\n\nStyle/medium: flat illustration avatar, clean icon-style design\nComposition: centered, square-safe composition with balanced visual weight, icon readable at small sizes\nSubject: a stylized abstract emblem combining motifs of an electric vehicle silhouette, a circuit/tech element, and a lifestyle spark or leaf — unified into a single cohesive mark\nScene/backdrop: solid or minimal gradient background, no scene\nLighting/mood: friendly, approachable, modern\nColor palette: clean blue-green and white with a warm accent (e.g., soft amber or mint), universally neutral — no red-green-only combinations, no culturally charged color schemes\nMaterials/textures: flat vector with subtle depth, no photorealistic texture\nText (verbatim): \nConstraints: must read clearly at 100×100 px thumbnail size; no human face, no religious symbols, no national flags, no hand gestures; culturally neutral for CN / US / EU / SEA / Middle East audiences\nAvoid: overly complex detail that collapses at small size, culturally specific iconography, any symbol that could be misread as political or offensive across regions, stock-photo realism",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/58520718-8d67-435f-9935-9679122bfab1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, consumer electronics, and lifestyle products — suitable for both Chinese and international platforms.\\n\\nStyle/medium: flat illustration avatar, clean icon-style design\\nComposition: centered, square-safe composition with balanced visual weight, icon readable at small sizes\\nSubject: a stylized abstract emblem combining motifs of an electric vehicle silhouette, a circuit/tech element, and a lifestyle spark or leaf — unified into a single cohesive mark\\nScene/backdrop: solid or minimal gradient background, no scene\\nLighting/mood: friendly, approachable, modern\\nColor palette: clean blue-green and white with a warm accent (e.g., soft amber or mint), universally neutral — no red-green-only combinations, no culturally charged color schemes\\nMaterials/textures: flat vector with subtle depth, no photorealistic texture\\nText (verbatim): \\nConstraints: must read clearly at 100×100 px thumbnail size; no human face, no religious symbols, no national flags, no hand gestures; culturally neutral for CN / US / EU / SEA / Middle East audiences\\nAvoid: overly complex detail that collapses at small size, culturally specific iconography, any symbol that could be misread as political or offensive across regions, stock-photo realism\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9968
+}

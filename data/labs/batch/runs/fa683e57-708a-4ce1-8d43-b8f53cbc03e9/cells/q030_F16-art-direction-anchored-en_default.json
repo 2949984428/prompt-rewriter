@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a documentary-style street-photography image of Varanasi morning rituals on the Ganges (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"documentary street photography\" aesthetic — references in the spirit of Henri Cartier-Bresson (decisive moment composition), Steve McCurry's India color work, Raghu Rai's Indian street documentation; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include devout devotees performing morning rituals, boats on the river\nScene/backdrop: must include the Ganges at Varanasi in morning mist\nLighting/mood: needs a warm-toned morning light atmosphere — exact light source mix is yours\nColor palette: must be warm-toned direction\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/590f910f-f22f-4585-9ecc-085afeea8ad1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a documentary-style street-photography image of Varanasi morning rituals on the Ganges (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"documentary street photography\\\" aesthetic — references in the spirit of Henri Cartier-Bresson (decisive moment composition), Steve McCurry's India color work, Raghu Rai's Indian street documentation; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include devout devotees performing morning rituals, boats on the river\\nScene/backdrop: must include the Ganges at Varanasi in morning mist\\nLighting/mood: needs a warm-toned morning light atmosphere — exact light source mix is yours\\nColor palette: must be warm-toned direction\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10131
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a professional product photography scene featuring a smartwatch on a marble surface (all in-image text in Chinese).\n\nStyle/medium: needs a \"简约商务\" aesthetic — references in the spirit of Swiss International Typographic Style (clean product staging), MUJI product photography heritage, 2010s Kinfolk magazine still-life visual culture; exact stylistic execution is yours\nComposition: needs a side-lit natural light composition — exact framing and angle are yours\nSubject: must include the smartwatch as the hero product, a coffee cup, and a notebook arranged on a marble surface\nScene/backdrop: must include a marble tabletop surface\nLighting/mood: must be natural light from the side — exact light quality and shadow treatment are yours\nColor palette: needs a clean, neutral direction that emphasizes product texture — exact tones are yours\nMaterials/textures: needs a premium surface treatment — exact marble grain, matte/gloss contrast, and material weight are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/845fccc3-84e5-422c-b42a-6e5f577edb3e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a professional product photography scene featuring a smartwatch on a marble surface (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"简约商务\\\" aesthetic — references in the spirit of Swiss International Typographic Style (clean product staging), MUJI product photography heritage, 2010s Kinfolk magazine still-life visual culture; exact stylistic execution is yours\\nComposition: needs a side-lit natural light composition — exact framing and angle are yours\\nSubject: must include the smartwatch as the hero product, a coffee cup, and a notebook arranged on a marble surface\\nScene/backdrop: must include a marble tabletop surface\\nLighting/mood: must be natural light from the side — exact light quality and shadow treatment are yours\\nColor palette: needs a clean, neutral direction that emphasizes product texture — exact tones are yours\\nMaterials/textures: needs a premium surface treatment — exact marble grain, matte/gloss contrast, and material weight are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8926
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 144,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:11] 这款商品为手机壳，销售到马来西亚，帮我生成一套Tik tok shop套图（包含主图 + 辅图 + 详情），涵盖主图、生活方式、卖点总览、场景图，图片比例1：1，分辨率1K。图片风格适合手机壳类型，不要出现文字和人，可以出现人手拿着手机的样式",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A799127b0-6e48-4372-8f2b-712acefaca11/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:11] 这款商品为手机壳，销售到马来西亚，帮我生成一套Tik tok shop套图（包含主图 + 辅图 + 详情），涵盖主图、生活方式、卖点总览、场景图，图片比例1：1，分辨率1K。图片风格适合手机壳类型，不要出现文字和人，可以出现人手拿着手机的样式\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4827,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

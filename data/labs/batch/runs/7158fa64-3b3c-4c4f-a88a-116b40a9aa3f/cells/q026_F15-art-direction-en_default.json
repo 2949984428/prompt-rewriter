@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a pitch deck cover slide for a domestic China fundraising announcement featuring a keynote speaker named 奥特曼.\n\nStyle/medium: needs a China VC/PE roadshow aesthetic — exact stylistic execution is yours\nComposition: must include prominent keynote speaker placement and event title hierarchy\nSubject: must include 奥特曼 as the keynote speaker\nScene/backdrop: must reflect China domestic roadshow context\nLighting/mood: needs a professional, high-stakes investment atmosphere — exact light treatment is yours\nColor palette: needs a GP-appropriate sophisticated direction — exact color values are yours\nMaterials/textures: \nText (verbatim): must include \"奥特曼\" (keynote speaker name)\nConstraints: must align with China domestic roadshow conventions and GP tone expectations\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/db069ceb-0ec8-4cde-bb7e-939dc1c687fd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a pitch deck cover slide for a domestic China fundraising announcement featuring a keynote speaker named 奥特曼.\\n\\nStyle/medium: needs a China VC/PE roadshow aesthetic — exact stylistic execution is yours\\nComposition: must include prominent keynote speaker placement and event title hierarchy\\nSubject: must include 奥特曼 as the keynote speaker\\nScene/backdrop: must reflect China domestic roadshow context\\nLighting/mood: needs a professional, high-stakes investment atmosphere — exact light treatment is yours\\nColor palette: needs a GP-appropriate sophisticated direction — exact color values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"奥特曼\\\" (keynote speaker name)\\nConstraints: must align with China domestic roadshow conventions and GP tone expectations\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13594
+}

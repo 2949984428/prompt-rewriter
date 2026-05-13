@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original architectural concept illustration of a futuristic sustainable city vision (all in-image text in Chinese).\n\nStyle/medium: needs a 未来主义 architectural concept aesthetic — exact stylistic execution is yours\nComposition: needs a wide, expansive framing that conveys aerial grandeur — exact framing and angle are yours\nSubject: must include:\n  - a streamlined white building floating / elevated in the air\n  - drones surrounding the structure\n  - holographic projections around the building\n  - clean energy facilities (solar, wind, or equivalent)\nScene/backdrop: needs a futuristic city skyline backdrop conveying a 可持续城市发展 vision — exact environment is yours\nLighting/mood: needs a clean, visionary, optimistic atmosphere — exact light source mix is yours\nColor palette: needs a direction anchored in white and luminous tones with accent energy colors — exact palette and ratios are yours\nMaterials/textures: needs a sleek, smooth, high-tech surface treatment — exact material finish is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: dystopian or dark atmosphere; clutter that obscures the architectural subject",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/25652c57-bab3-44a9-8408-4bd0b741d3dc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original architectural concept illustration of a futuristic sustainable city vision (all in-image text in Chinese).\\n\\nStyle/medium: needs a 未来主义 architectural concept aesthetic — exact stylistic execution is yours\\nComposition: needs a wide, expansive framing that conveys aerial grandeur — exact framing and angle are yours\\nSubject: must include:\\n  - a streamlined white building floating / elevated in the air\\n  - drones surrounding the structure\\n  - holographic projections around the building\\n  - clean energy facilities (solar, wind, or equivalent)\\nScene/backdrop: needs a futuristic city skyline backdrop conveying a 可持续城市发展 vision — exact environment is yours\\nLighting/mood: needs a clean, visionary, optimistic atmosphere — exact light source mix is yours\\nColor palette: needs a direction anchored in white and luminous tones with accent energy colors — exact palette and ratios are yours\\nMaterials/textures: needs a sleek, smooth, high-tech surface treatment — exact material finish is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: dystopian or dark atmosphere; clutter that obscures the architectural subject\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14011
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a social media avatar/profile picture for a content creator focused on new energy vehicles, digital tech products, and lifestyle goods (all in-image text in Chinese).\n\nStyle/medium: needs a \"universally accessible, cross-cultural\" aesthetic — references in the spirit of Swiss International Style (neutral, geometric clarity), MUJI brand identity (minimal, warm neutrality), contemporary tech startup branding (Apple/Google design heritage); exact stylistic execution is yours\nComposition: centered, balanced framing suitable for circular crop (avatar format)\nSubject: must include abstract/geometric visual elements suggesting mobility/tech/lifestyle without specific cultural symbols\nScene/backdrop: clean, neutral background — exact treatment is yours\nLighting/mood: needs a professional, approachable atmosphere — exact light source mix is yours\nColor palette: needs a neutral, globally harmonious direction avoiding region-specific color taboos — exact hex values are yours\nMaterials/textures: needs a clean, modern surface treatment — exact finish is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must avoid culturally specific symbols, religious iconography, hand gestures, or color combinations that could offend in any major cultural region; must work harmoniously when cropped to circular avatar format\nAvoid: must avoid specific cultural/religious symbols, national flags, hand gestures with regional meanings, color combinations with negative associations in any major culture, text-heavy designs that don't scale to small sizes",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e0d2e672-1d64-47d6-9941-13473132d4bc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a social media avatar/profile picture for a content creator focused on new energy vehicles, digital tech products, and lifestyle goods (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"universally accessible, cross-cultural\\\" aesthetic — references in the spirit of Swiss International Style (neutral, geometric clarity), MUJI brand identity (minimal, warm neutrality), contemporary tech startup branding (Apple/Google design heritage); exact stylistic execution is yours\\nComposition: centered, balanced framing suitable for circular crop (avatar format)\\nSubject: must include abstract/geometric visual elements suggesting mobility/tech/lifestyle without specific cultural symbols\\nScene/backdrop: clean, neutral background — exact treatment is yours\\nLighting/mood: needs a professional, approachable atmosphere — exact light source mix is yours\\nColor palette: needs a neutral, globally harmonious direction avoiding region-specific color taboos — exact hex values are yours\\nMaterials/textures: needs a clean, modern surface treatment — exact finish is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must avoid culturally specific symbols, religious iconography, hand gestures, or color combinations that could offend in any major cultural region; must work harmoniously when cropped to circular avatar format\\nAvoid: must avoid specific cultural/religious symbols, national flags, hand gestures with regional meanings, color combinations with negative associations in any major culture, text-heavy designs that don't scale to small sizes\"}",
+  "ms": 24409
+}

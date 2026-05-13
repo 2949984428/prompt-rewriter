@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing panoramic illustration of the Tang Dynasty Chang'an Lantern Festival.\n\nStyle/medium: must be gongbi heavy-color (工笔重彩) long scroll aesthetic\nComposition: needs a sweeping panoramic cityscape view — exact framing and focal points are yours\nSubject: must include tens of thousands of lanterns illuminating the night sky, the lantern festival atmosphere\nScene/backdrop: must include Tang Dynasty Chang'an cityscape, night sky filled with lanterns\nLighting/mood: needs a festive night atmosphere with warm lantern glow — exact light source mix is yours\nColor palette: needs a rich, saturated heavy-color direction — exact pigment choices and ratios are yours\nMaterials/textures: needs traditional Chinese painting surface treatment — exact brushwork and paper texture are yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ae15e86c-f51a-46ad-a3ab-5318e12f984a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing panoramic illustration of the Tang Dynasty Chang'an Lantern Festival.\\n\\nStyle/medium: must be gongbi heavy-color (工笔重彩) long scroll aesthetic\\nComposition: needs a sweeping panoramic cityscape view — exact framing and focal points are yours\\nSubject: must include tens of thousands of lanterns illuminating the night sky, the lantern festival atmosphere\\nScene/backdrop: must include Tang Dynasty Chang'an cityscape, night sky filled with lanterns\\nLighting/mood: needs a festive night atmosphere with warm lantern glow — exact light source mix is yours\\nColor palette: needs a rich, saturated heavy-color direction — exact pigment choices and ratios are yours\\nMaterials/textures: needs traditional Chinese painting surface treatment — exact brushwork and paper texture are yours\\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9251
+}

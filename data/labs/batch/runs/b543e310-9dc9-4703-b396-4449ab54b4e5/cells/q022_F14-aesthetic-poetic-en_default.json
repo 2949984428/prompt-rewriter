@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a lifestyle photo of Korean café-style iced coffee and dessert, shot on smartphone for Instagram sharing, then overlaid with meaningful hand-drawn annotations on each element, in the casual rough-note style of magazine editorials.\n\nStyle/medium: smartphone lifestyle photography with hand-drawn annotation overlay, the rough pen-and-ink honesty of editorial margin notes, Instagram Story casualness\nComposition: top-down or slight angle smartphone shot, coffee and dessert as central subjects, generous negative space for annotation breathing room\nSubject: iced coffee in glass with visible layers, Korean-style dessert (likely croffle or bingsu), clean café table surface\nScene/backdrop: minimalist Korean café interior, soft natural window light, no people\nLighting/mood: the gentle warmth of afternoon café light, quiet contentment of a solo treat\nColor palette: warm cream and coffee brown in conversation with cool glass transparency, the comfort of a slow afternoon\nMaterials/textures: glossy iced coffee surface, crisp dessert texture, matte paper-like annotation lines\nText (verbatim): 日语手写注释 (平假名7成、简单汉字3成) — 饮料：「さっぱり」「やさしい甘み」 / 食物：「しっとり」「さいこう」 / 空间：「リラックス」「いい時間」 / 整体：「しあわせすぎる～」\nConstraints: white thin hand-drawn lines like pen sketch, rough uneven one-stroke style, contour lines tracing object edges, arrows and dotted lines for eye guidance, steam/sparkles/hearts/emojis as decoration with留白, no people visible, smartphone camera aesthetic\nAvoid: over-decorated chaos, losing the留白, professional studio lighting, Western café aesthetic, too much text",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/613ca81b-96fa-43a2-a2f4-f494286831a1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a lifestyle photo of Korean café-style iced coffee and dessert, shot on smartphone for Instagram sharing, then overlaid with meaningful hand-drawn annotations on each element, in the casual rough-note style of magazine editorials.\\n\\nStyle/medium: smartphone lifestyle photography with hand-drawn annotation overlay, the rough pen-and-ink honesty of editorial margin notes, Instagram Story casualness\\nComposition: top-down or slight angle smartphone shot, coffee and dessert as central subjects, generous negative space for annotation breathing room\\nSubject: iced coffee in glass with visible layers, Korean-style dessert (likely croffle or bingsu), clean café table surface\\nScene/backdrop: minimalist Korean café interior, soft natural window light, no people\\nLighting/mood: the gentle warmth of afternoon café light, quiet contentment of a solo treat\\nColor palette: warm cream and coffee brown in conversation with cool glass transparency, the comfort of a slow afternoon\\nMaterials/textures: glossy iced coffee surface, crisp dessert texture, matte paper-like annotation lines\\nText (verbatim): 日语手写注释 (平假名7成、简单汉字3成) — 饮料：「さっぱり」「やさしい甘み」 / 食物：「しっとり」「さいこう」 / 空间：「リラックス」「いい時間」 / 整体：「しあわせすぎる～」\\nConstraints: white thin hand-drawn lines like pen sketch, rough uneven one-stroke style, contour lines tracing object edges, arrows and dotted lines for eye guidance, steam/sparkles/hearts/emojis as decoration with留白, no people visible, smartphone camera aesthetic\\nAvoid: over-decorated chaos, losing the留白, professional studio lighting, Western café aesthetic, too much text\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11058
+}

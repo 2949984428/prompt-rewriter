@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing gongbi (工笔) handscroll painting depicting the Lantern Festival night scene in Tang Dynasty Chang'an city.\n\nStyle/medium: needs a 工笔重彩 (gongbi heavy-color) handscroll aesthetic — exact brushwork fineness and pigment layering are yours\nComposition: must be a panoramic horizontal handscroll format (长卷)\nSubject: must include the full panorama of Tang Dynasty Chang'an city during the Lantern Festival, with ten thousand lanterns (万盏花灯) illuminating the night sky\nScene/backdrop: must include Tang Dynasty Chang'an cityscape at night, streets and architecture filled with lanterns\nLighting/mood: needs a warm, luminous night atmosphere lit entirely by massed lantern glow — exact light diffusion is yours\nColor palette: needs a rich, jewel-toned 重彩 direction — exact pigment choices and ratios are yours\nMaterials/textures: needs a traditional silk or paper handscroll surface treatment — exact texture weight is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/403314b4-d2bf-4d84-af77-ee56e80875b7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing gongbi (工笔) handscroll painting depicting the Lantern Festival night scene in Tang Dynasty Chang'an city.\\n\\nStyle/medium: needs a 工笔重彩 (gongbi heavy-color) handscroll aesthetic — exact brushwork fineness and pigment layering are yours\\nComposition: must be a panoramic horizontal handscroll format (长卷)\\nSubject: must include the full panorama of Tang Dynasty Chang'an city during the Lantern Festival, with ten thousand lanterns (万盏花灯) illuminating the night sky\\nScene/backdrop: must include Tang Dynasty Chang'an cityscape at night, streets and architecture filled with lanterns\\nLighting/mood: needs a warm, luminous night atmosphere lit entirely by massed lantern glow — exact light diffusion is yours\\nColor palette: needs a rich, jewel-toned 重彩 direction — exact pigment choices and ratios are yours\\nMaterials/textures: needs a traditional silk or paper handscroll surface treatment — exact texture weight is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7882
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing promotional poster for the brand \"RAN QIU\".\n\nStyle/medium: needs an Eastern aesthetic with minimalist, natural-poetic, warm-healing sensibility — exact stylistic execution is yours\nComposition: needs generous negative space with shallow depth of field — exact framing tightness is yours\nSubject: must include the \"RAN QIU\" brand mark\nScene/backdrop: needs a warm autumn atmosphere with natural elements — exact botanical selection and arrangement is yours\nLighting/mood: needs golden hour warmth with a poetic, serene atmosphere — exact light source mix is yours\nColor palette: must include #8B3A1E (deep autumn brown-red), #E8DCCB (beige), #D4A574 (golden brown) — exact ratios are yours\nMaterials/textures: \nText (verbatim): must include \"RAN QIU\"\nConstraints: must preserve generous negative space, warm color direction, shallow depth of field aesthetic\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/13da8427-ac72-4d18-b88f-dc5956a5fe77/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing promotional poster for the brand \\\"RAN QIU\\\".\\n\\nStyle/medium: needs an Eastern aesthetic with minimalist, natural-poetic, warm-healing sensibility — exact stylistic execution is yours\\nComposition: needs generous negative space with shallow depth of field — exact framing tightness is yours\\nSubject: must include the \\\"RAN QIU\\\" brand mark\\nScene/backdrop: needs a warm autumn atmosphere with natural elements — exact botanical selection and arrangement is yours\\nLighting/mood: needs golden hour warmth with a poetic, serene atmosphere — exact light source mix is yours\\nColor palette: must include #8B3A1E (deep autumn brown-red), #E8DCCB (beige), #D4A574 (golden brown) — exact ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"RAN QIU\\\"\\nConstraints: must preserve generous negative space, warm color direction, shallow depth of field aesthetic\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8747
+}

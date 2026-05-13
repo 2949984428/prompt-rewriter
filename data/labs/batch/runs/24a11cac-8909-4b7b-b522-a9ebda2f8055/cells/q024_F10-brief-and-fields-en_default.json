@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original illustration of a cozy healing-style scene featuring an orange tabby cat lounging on a windowsill in winter.\n\nStyle/medium: soft digital illustration, healing (iyashikei) aesthetic, warm painterly brushwork reminiscent of Japanese slice-of-life art\nComposition: medium shot from slightly below eye level, cat centered on windowsill, window frame as natural border dividing warm interior and cold exterior\nSubject: fluffy orange tabby cat lying stretched out on a wooden windowsill, eyes half-closed in contentment, thick soft fur with visible individual strands\nScene/backdrop: cozy indoor room with warm ambient glow on the interior side; outside the window, a quiet winter street with gently falling snow, muted grey-blue tones\nLighting/mood: warm golden indoor light wrapping the cat from behind and below, cold diffused daylight from the snowy street outside, tender and heart-softening mood\nColor palette: warm amber and cream tones dominate the interior; the cat's orange fur glows as the focal anchor; cool pale blue and white for the snowy exterior, creating a gentle warm-cool contrast\nMaterials/textures: ultra-fluffy fur with soft downy texture, frosted glass condensation on window edges, smooth worn wood of the windowsill\nAvoid: harsh outlines, dark or moody atmosphere, photorealistic rendering, watermark, stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/505b5b32-b44c-4426-b43d-90a53db81f8a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original illustration of a cozy healing-style scene featuring an orange tabby cat lounging on a windowsill in winter.\\n\\nStyle/medium: soft digital illustration, healing (iyashikei) aesthetic, warm painterly brushwork reminiscent of Japanese slice-of-life art\\nComposition: medium shot from slightly below eye level, cat centered on windowsill, window frame as natural border dividing warm interior and cold exterior\\nSubject: fluffy orange tabby cat lying stretched out on a wooden windowsill, eyes half-closed in contentment, thick soft fur with visible individual strands\\nScene/backdrop: cozy indoor room with warm ambient glow on the interior side; outside the window, a quiet winter street with gently falling snow, muted grey-blue tones\\nLighting/mood: warm golden indoor light wrapping the cat from behind and below, cold diffused daylight from the snowy street outside, tender and heart-softening mood\\nColor palette: warm amber and cream tones dominate the interior; the cat's orange fur glows as the focal anchor; cool pale blue and white for the snowy exterior, creating a gentle warm-cool contrast\\nMaterials/textures: ultra-fluffy fur with soft downy texture, frosted glass condensation on window edges, smooth worn wood of the windowsill\\nAvoid: harsh outlines, dark or moody atmosphere, photorealistic rendering, watermark, stuffer aesthetic\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13789
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original infographic explaining the definitions of and relationships between the following concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI.\n\nStyle/medium: hand-drawn illustration style infographic\nComposition: multi-section layout with diagrams and text, showing concept relationships\nSubject: concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — their definitions and interconnections\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: hand-drawn lines, sketch-style icons\nText (verbatim): \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: visually accessible and easy to understand; each concept labeled with its name and a brief visual definition; relationships between concepts shown with arrows or connectors\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fb813f43-76db-40a3-b267-10225b8480ca/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an original infographic explaining the definitions of and relationships between the following concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI.\\n\\nStyle/medium: hand-drawn illustration style infographic\\nComposition: multi-section layout with diagrams and text, showing concept relationships\\nSubject: concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — their definitions and interconnections\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: hand-drawn lines, sketch-style icons\\nText (verbatim): \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: visually accessible and easy to understand; each concept labeled with its name and a brief visual definition; relationships between concepts shown with arrows or connectors\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6360
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 102,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个以字母「Y」为核心的 LOGO。\n\n风格/媒介:矢量 logo 设计，简洁大气，有设计感，适合商标注册\n构图:以字母 Y 为主体，造型简练，正负空间处理得当，整体可独立成形\n主体:字母「Y」的创意变形或几何化处理\n场景/背景:纯净背景，突出 logo 本身\n光线/氛围:\n色彩方案:单色或双色，便于激光雕刻和镶嵌工艺还原\n材质/纹理:适配激光雕刻与镶嵌工艺，线条清晰，无细碎装饰\n文字(原样):Y\n约束:造型需具备可注册商标的独特性；线条粗细适中，适合雕刻工艺；避免渐变和复杂纹理\n避免:过于繁复的装饰元素、细线条、渐变色、栅格化效果",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Adccefa8d-2bb4-40cb-a82c-b94bceabfb5c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个以字母「Y」为核心的 LOGO。\\n\\n风格/媒介:矢量 logo 设计，简洁大气，有设计感，适合商标注册\\n构图:以字母 Y 为主体，造型简练，正负空间处理得当，整体可独立成形\\n主体:字母「Y」的创意变形或几何化处理\\n场景/背景:纯净背景，突出 logo 本身\\n光线/氛围:\\n色彩方案:单色或双色，便于激光雕刻和镶嵌工艺还原\\n材质/纹理:适配激光雕刻与镶嵌工艺，线条清晰，无细碎装饰\\n文字(原样):Y\\n约束:造型需具备可注册商标的独特性；线条粗细适中，适合雕刻工艺；避免渐变和复杂纹理\\n避免:过于繁复的装饰元素、细线条、渐变色、栅格化效果\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9494,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

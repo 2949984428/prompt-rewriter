@@ -1,0 +1,23 @@
+{
+  "query_idx": 284,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "参考这几张 [@image:#1:f410d17a2a017992e90821a547a134d0][@image:#2:c1fd0037e42de60dc91b7dff8b9f9237][@image:#3:f8a86fba58755973651f91049d069b1c][@image:#4:a71f2bd9332555e810b34253ad7ab50c]\r\n[@image:#5:353c170d9644a4c8d7dbf48e7b126e7b]ins风的图片风格，帮我生成礼盒手串的ins图。礼盒的盒子是[@image:#6:27567fcd2d977ea8bc2e7dcc4b467df2][@image:#5:353c170d9644a4c8d7dbf48e7b126e7b]，手串是\r\n[@image:#7:白羊][@image:#8:天蝎][@image:#9:处女]，可以任意选一款手串生成，整体视觉色调要带有疗愈、ins风、高级、有氛围，生6张不同的ins礼盒展示图。图片比例2:3。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 6,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acb869a27-329d-4425-b99b-fa9b522aaa2d/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"参考这几张 [@image:#1:f410d17a2a017992e90821a547a134d0][@image:#2:c1fd0037e42de60dc91b7dff8b9f9237][@image:#3:f8a86fba58755973651f91049d069b1c][@image:#4:a71f2bd9332555e810b34253ad7ab50c]\\n[@image:#5:353c170d9644a4c8d7dbf48e7b126e7b]ins风的图片风格，帮我生成礼盒手串的ins图。礼盒的盒子是[@image:#6:27567fcd2d977ea8bc2e7dcc4b467df2][@image:#5:353c170d9644a4c8d7dbf48e7b126e7b]，手串是\\n[@image:#7:白羊][@image:#8:天蝎][@image:#9:处女]，可以任意选一款手串生成，整体视觉色调要带有疗愈、ins风、高级、有氛围，生6张不同的ins礼盒展示图。图片比例2:3。\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 6, \"output_format\": \"png\"}",
+  "ms": 24016,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

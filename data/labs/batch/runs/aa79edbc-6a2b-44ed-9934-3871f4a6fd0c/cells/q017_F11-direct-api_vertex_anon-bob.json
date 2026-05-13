@@ -1,0 +1,27 @@
+{
+  "query_idx": 17,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "estou criando um novo neg￳cio, que surgiu ap￳s participar de um evento para empreendedoras, e tivemos a ideia de formar um grupo de mulheres empresarias e empreendedoras, onde iremos nos ajudar, com estruturas em nossos neg￳cios, e chamamos de O conselho Star - grupo de mulheres inteligentes, com identidades diferentes, mas que juntas formamos um conselho, e podemos ajudar umas as outras a alavancar nossos neg￳cios, e validar novas ideias, direcionamentos corporativos, experiencias, lideran￧a, processos, gest￣o, mkt , rede social, entre outras.\n\nCom isso, vamos estender nosso conhecimento, e venderemos nosso mastermind para outra mulheres empreendedoras, atraves de eventos presenciais com experiencias e palestras, e juntas ao final teremos mentoradas, e plataforma com cursos e aulas, com solu￧￵es de como estruturar seu neg￳cio para crescer.\n\nQueremos logo, cores offwite com dourado",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A72094dd8-589d-4eb4-a39d-83afa8e95e45/0.jpg",
+    "/api/image-file/lovart%3A72094dd8-589d-4eb4-a39d-83afa8e95e45/1.jpg",
+    "/api/image-file/lovart%3A72094dd8-589d-4eb4-a39d-83afa8e95e45/2.jpg",
+    "/api/image-file/lovart%3A72094dd8-589d-4eb4-a39d-83afa8e95e45/3.jpg",
+    "/api/image-file/lovart%3A72094dd8-589d-4eb4-a39d-83afa8e95e45/4.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"estou criando um novo neg￳cio, que surgiu ap￳s participar de um evento para empreendedoras, e tivemos a ideia de formar um grupo de mulheres empresarias e empreendedoras, onde iremos nos ajudar, com estruturas em nossos neg￳cios, e chamamos de O conselho Star - grupo de mulheres inteligentes, com identidades diferentes, mas que juntas formamos um conselho, e podemos ajudar umas as outras a alavancar nossos neg￳cios, e validar novas ideias, direcionamentos corporativos, experiencias, lideran￧a, processos, gest￣o, mkt , rede social, entre outras.\\n\\nCom isso, vamos estender nosso conhecimento, e venderemos nosso mastermind para outra mulheres empreendedoras, atraves de eventos presenciais com experiencias e palestras, e juntas ao final teremos mentoradas, e plataforma com cursos e aulas, com solu￧￵es de como estruturar seu neg￳cio para crescer.\\n\\nQueremos logo, cores offwite com dourado\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5123,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

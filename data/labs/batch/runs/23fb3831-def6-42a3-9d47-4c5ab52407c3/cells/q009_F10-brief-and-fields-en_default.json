@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original marketing poster for the brand RAN QIU, evoking warm autumnal poetry and Eastern minimalist aesthetics.\n\nStyle/medium: flat editorial poster with Eastern minimalist sensibility, generous negative space, inspired by Japanese wabi-sabi and Chinese ink-wash restraint\nComposition: centered vertical layout with ample white space, shallow depth of field implied through soft background blur, golden-hour warmth permeating the frame\nSubject: brand identity \"RAN QIU\" as the visual anchor, surrounded by sparse natural elements — dried botanicals, fallen leaves, or a single branch — arranged with deliberate negative space\nScene/backdrop: clean, near-white or warm mist background suggesting an open autumnal landscape, no busy detail\nLighting/mood: soft diffused golden-hour light, warm and healing, gentle shadows, tranquil and poetic atmosphere\nColor palette: #8B3A1E (deep autumn rust-red) as the dominant accent, #E8DCCB (warm beige) as the base ground, #D4A574 (golden tan) as the mid-tone bridge — colors applied sparingly to reinforce warmth without saturation overload\nText (verbatim): \"RAN QIU\"\nConstraints: brand mark \"RAN QIU\" must be legible and prominent; color palette strictly limited to #8B3A1E, #E8DCCB, #D4A574 plus near-white; negative space must occupy at least 40% of the frame\nAvoid: busy backgrounds, cold or blue tones, neon, gradients, over-ornamentation, Western maximalist poster layouts, generic Behance flat design clichés",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/37e13677-8028-45ad-bfc8-ba1bf5708845/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original marketing poster for the brand RAN QIU, evoking warm autumnal poetry and Eastern minimalist aesthetics.\\n\\nStyle/medium: flat editorial poster with Eastern minimalist sensibility, generous negative space, inspired by Japanese wabi-sabi and Chinese ink-wash restraint\\nComposition: centered vertical layout with ample white space, shallow depth of field implied through soft background blur, golden-hour warmth permeating the frame\\nSubject: brand identity \\\"RAN QIU\\\" as the visual anchor, surrounded by sparse natural elements — dried botanicals, fallen leaves, or a single branch — arranged with deliberate negative space\\nScene/backdrop: clean, near-white or warm mist background suggesting an open autumnal landscape, no busy detail\\nLighting/mood: soft diffused golden-hour light, warm and healing, gentle shadows, tranquil and poetic atmosphere\\nColor palette: #8B3A1E (deep autumn rust-red) as the dominant accent, #E8DCCB (warm beige) as the base ground, #D4A574 (golden tan) as the mid-tone bridge — colors applied sparingly to reinforce warmth without saturation overload\\nText (verbatim): \\\"RAN QIU\\\"\\nConstraints: brand mark \\\"RAN QIU\\\" must be legible and prominent; color palette strictly limited to #8B3A1E, #E8DCCB, #D4A574 plus near-white; negative space must occupy at least 40% of the frame\\nAvoid: busy backgrounds, cold or blue tones, neon, gradients, over-ornamentation, Western maximalist poster layouts, generic Behance flat design clichés\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11889
+}

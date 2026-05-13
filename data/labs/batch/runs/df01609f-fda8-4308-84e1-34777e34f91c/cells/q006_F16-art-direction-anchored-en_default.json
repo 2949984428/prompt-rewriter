@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial street portrait of a young woman in 1990s 香港 at night (all in-image text in Chinese).\n\nStyle/medium: needs a \"复古胶片\" aesthetic — references in the spirit of 1990s 香港 cinema visual language (王家卫《重庆森林》era), Nan Goldin intimate analog street photography, 1990s Japanese city pop album cover art; exact stylistic execution is yours\nComposition: must include the young woman leaning against a neon sign as the anchored pose\nSubject: must include a young woman wearing a denim jacket, leaning against a neon sign\nScene/backdrop: must include 1990s 香港 street at night with neon signage environment\nLighting/mood: needs a hazy nocturnal atmosphere with cinematic grain and nostalgic mood — exact light source mix is yours\nColor palette: needs a warm-toned direction — exact hue ratios and grain overlay are yours\nMaterials/textures: needs a film-grain, analog texture treatment — exact grain level and halation is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/42594fe3-42e8-4dad-9903-bf3a4f50571c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial street portrait of a young woman in 1990s 香港 at night (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"复古胶片\\\" aesthetic — references in the spirit of 1990s 香港 cinema visual language (王家卫《重庆森林》era), Nan Goldin intimate analog street photography, 1990s Japanese city pop album cover art; exact stylistic execution is yours\\nComposition: must include the young woman leaning against a neon sign as the anchored pose\\nSubject: must include a young woman wearing a denim jacket, leaning against a neon sign\\nScene/backdrop: must include 1990s 香港 street at night with neon signage environment\\nLighting/mood: needs a hazy nocturnal atmosphere with cinematic grain and nostalgic mood — exact light source mix is yours\\nColor palette: needs a warm-toned direction — exact hue ratios and grain overlay are yours\\nMaterials/textures: needs a film-grain, analog texture treatment — exact grain level and halation is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 25522
+}

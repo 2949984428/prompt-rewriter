@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an Instagram-style lifestyle photo of a Korean café scene featuring specialty coffee and dessert, shot on smartphone.\n\nStyle/medium: smartphone photography with hand-drawn annotation overlay, Instagram story aesthetic, casual lifestyle editorial, journal-style sketch marks in white thin lines\nComposition: top-down flat lay or 45-degree angle, shallow depth of field, coffee cup and dessert as hero objects on marble or wood table\nSubject: latte art coffee in ceramic cup, Korean-style dessert (possibly bingsu or pastry), minimal table setting with spoon and napkin\nScene/backdrop: bright Korean café interior with soft bokeh, clean minimal aesthetic, no people\nLighting/mood: natural daylight from window, soft and airy, warm and inviting atmosphere\nColor palette: warm browns from coffee, creamy whites, soft pastels from dessert, natural wood tones\nMaterials/textures: ceramic glaze, frothy milk foam, dessert texture, paper or fabric napkin\nText (verbatim): \"清爽\" \"温柔的甜味\" \"湿润\" \"最高\" \"放松\" \"美好时光\" \"幸福过头了～\"\nAnnotations: white thin sketch lines outlining objects, single-stroke rough uneven style, arrows and dashed lines for visual guidance, Japanese handwritten text (70% hiragana, 30% simple kanji), short diary-style comments, steam wisps, sparkles, small hearts and emoji decorations, intentional white space, magazine rough note aesthetic\nConstraints: annotations must feel hand-drawn not digital, text must be Japanese script as specified, maintain fashionable yet relaxed vibe\nAvoid: heavy digital filters, cluttered composition, realistic 3D rendered annotations, English text, over-decoration without breathing room",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/047eb008-bc8c-487f-b4b1-df0fcc431def/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an Instagram-style lifestyle photo of a Korean café scene featuring specialty coffee and dessert, shot on smartphone.\\n\\nStyle/medium: smartphone photography with hand-drawn annotation overlay, Instagram story aesthetic, casual lifestyle editorial, journal-style sketch marks in white thin lines\\nComposition: top-down flat lay or 45-degree angle, shallow depth of field, coffee cup and dessert as hero objects on marble or wood table\\nSubject: latte art coffee in ceramic cup, Korean-style dessert (possibly bingsu or pastry), minimal table setting with spoon and napkin\\nScene/backdrop: bright Korean café interior with soft bokeh, clean minimal aesthetic, no people\\nLighting/mood: natural daylight from window, soft and airy, warm and inviting atmosphere\\nColor palette: warm browns from coffee, creamy whites, soft pastels from dessert, natural wood tones\\nMaterials/textures: ceramic glaze, frothy milk foam, dessert texture, paper or fabric napkin\\nText (verbatim): \\\"清爽\\\" \\\"温柔的甜味\\\" \\\"湿润\\\" \\\"最高\\\" \\\"放松\\\" \\\"美好时光\\\" \\\"幸福过头了～\\\"\\nAnnotations: white thin sketch lines outlining objects, single-stroke rough uneven style, arrows and dashed lines for visual guidance, Japanese handwritten text (70% hiragana, 30% simple kanji), short diary-style comments, steam wisps, sparkles, small hearts and emoji decorations, intentional white space, magazine rough note aesthetic\\nConstraints: annotations must feel hand-drawn not digital, text must be Japanese script as specified, maintain fashionable yet relaxed vibe\\nAvoid: heavy digital filters, cluttered composition, realistic 3D rendered annotations, English text, over-decoration without breathing room\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14589
+}

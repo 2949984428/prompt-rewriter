@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing employee ID card for \"字节跳动\" (ByteDance) — front and back views (all in-image text in Chinese).\n\nStyle/medium: needs a photorealistic corporate ID card aesthetic — exact card stock and finish are yours\nComposition: must include front side and back side of the ID card visible\nSubject: must include \"字节跳动\" brand identity as the focal subject\nScene/backdrop: \nLighting/mood: needs a realistic studio lighting atmosphere — exact light source placement is yours\nColor palette: \nMaterials/textures: needs realistic plastic/card material treatment — exact surface texture and sheen are yours\nText (verbatim): must include \"字节跳动\" and related employee ID card text elements\nConstraints: must include all in-image text in Chinese by default; must show both front and back sides of the ID card\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b6d9a188-a77d-4a7b-8caa-e5c1d985347c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing employee ID card for \\\"字节跳动\\\" (ByteDance) — front and back views (all in-image text in Chinese).\\n\\nStyle/medium: needs a photorealistic corporate ID card aesthetic — exact card stock and finish are yours\\nComposition: must include front side and back side of the ID card visible\\nSubject: must include \\\"字节跳动\\\" brand identity as the focal subject\\nScene/backdrop: \\nLighting/mood: needs a realistic studio lighting atmosphere — exact light source placement is yours\\nColor palette: \\nMaterials/textures: needs realistic plastic/card material treatment — exact surface texture and sheen are yours\\nText (verbatim): must include \\\"字节跳动\\\" and related employee ID card text elements\\nConstraints: must include all in-image text in Chinese by default; must show both front and back sides of the ID card\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9152
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing interior design illustration of an industrial-style cafe.\n\nStyle/medium: needs an \"industrial\" aesthetic with rugged sophistication — references in the spirit of 1990s New York loft conversion photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 cafe interior design movement; exact stylistic execution is yours\nComposition: \nSubject: must include exposed concrete walls, metal pipes, vintage leather sofa, large windows with natural light, black-and-white photography on walls\nScene/backdrop: must include a cafe interior with industrial architectural elements\nLighting/mood: needs a natural light atmosphere with rugged sophistication — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a raw, tactile surface treatment — exact grain / sheen / weight is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/72409966-c0fd-401f-a7af-2b875005a37b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing interior design illustration of an industrial-style cafe.\\n\\nStyle/medium: needs an \\\"industrial\\\" aesthetic with rugged sophistication — references in the spirit of 1990s New York loft conversion photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 cafe interior design movement; exact stylistic execution is yours\\nComposition: \\nSubject: must include exposed concrete walls, metal pipes, vintage leather sofa, large windows with natural light, black-and-white photography on walls\\nScene/backdrop: must include a cafe interior with industrial architectural elements\\nLighting/mood: needs a natural light atmosphere with rugged sophistication — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a raw, tactile surface treatment — exact grain / sheen / weight is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8401
+}

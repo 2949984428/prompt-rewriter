@@ -1,0 +1,23 @@
+{
+  "query_idx": 206,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:手持风扇_3D渲染_高清]优化产品的3d渲染细节，极致优化产品吊带的细节纹理，去掉绳子，抠出主体，作为阿阿里巴巴的主图，白底图",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A51aa8735-5772-4cf9-ab3b-4a2c1b03ac5d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:手持风扇_3D渲染_高清]优化产品的3d渲染细节，极致优化产品吊带的细节纹理，去掉绳子，抠出主体，作为阿阿里巴巴的主图，白底图\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3156,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

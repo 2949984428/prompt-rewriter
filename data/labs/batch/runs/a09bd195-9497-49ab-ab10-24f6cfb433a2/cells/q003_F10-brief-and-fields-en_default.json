@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing editorial photo for a Scandinavian minimalist living room scene.\n\nStyle/medium: photorealistic interior photography, clean Nordic minimalism, soft natural aesthetic\nComposition: wide-angle establishing shot, eye-level perspective, balanced symmetrical layout with sofa as anchor\nSubject: grey fabric sofa with clean lines, potted green plant, tall floor lamp with simple silhouette\nScene/backdrop: bright white walls, light oak wood flooring, large window with abundant natural light, airy open space\nLighting/mood: soft morning sunlight streaming through large window, diffused daylight, warm and inviting atmosphere\nColor palette: warm white walls as base, light oak wood as secondary, grey sofa as neutral anchor, green plant as organic accent\nMaterials/textures: matte white plaster wall, natural oak wood grain, soft woven fabric upholstery, glossy green leaves, brushed metal lamp base\nAvoid: cluttered decor, dark shadows, synthetic materials, ornate furniture, busy patterns, artificial lighting dominance",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cdbd4705-593d-4c4e-b801-564d4395971b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing editorial photo for a Scandinavian minimalist living room scene.\\n\\nStyle/medium: photorealistic interior photography, clean Nordic minimalism, soft natural aesthetic\\nComposition: wide-angle establishing shot, eye-level perspective, balanced symmetrical layout with sofa as anchor\\nSubject: grey fabric sofa with clean lines, potted green plant, tall floor lamp with simple silhouette\\nScene/backdrop: bright white walls, light oak wood flooring, large window with abundant natural light, airy open space\\nLighting/mood: soft morning sunlight streaming through large window, diffused daylight, warm and inviting atmosphere\\nColor palette: warm white walls as base, light oak wood as secondary, grey sofa as neutral anchor, green plant as organic accent\\nMaterials/textures: matte white plaster wall, natural oak wood grain, soft woven fabric upholstery, glossy green leaves, brushed metal lamp base\\nAvoid: cluttered decor, dark shadows, synthetic materials, ornate furniture, busy patterns, artificial lighting dominance\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8607
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a luxury product shot of a high-end Swiss tourbillon wristwatch for commercial editorial use.\n\nStyle/medium: luxury commercial product photography, macro still life, photorealistic\nComposition: macro close-up at 90 degrees overhead, table-top flat lay, shallow depth of field with focus on tourbillon mechanism\nSubject: 42mm tourbillon wristwatch with skeleton dial exposing movement, 18K rose gold case, diamond-set bezel, dark brown crocodile leather strap\nScene/backdrop: dark carbon fiber textured surface, heavily blurred background\nLighting/mood: multi-angle softbox lighting, even highlights on metal surfaces without overexposure, precise detail on mechanical components\nColor palette: warm rose gold as anchor, deep brown leather, dark carbon gray, diamond sparkle as accent\nMaterials/textures: brushed 18K rose gold case, diamond facets, genuine crocodile leather grain, exposed mechanical movement with polished steel gears, balance wheel, hairspring, tourbillon cage\nConstraints: focus must land precisely on the tourbillon mechanism; color accuracy critical for luxury commercial use\nAvoid: plastic textures, overexposed metal, cartoonish rendering, 8K stuffer labels, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/63eb268f-dd3a-4a6a-93e6-bae18719253d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a luxury product shot of a high-end Swiss tourbillon wristwatch for commercial editorial use.\\n\\nStyle/medium: luxury commercial product photography, macro still life, photorealistic\\nComposition: macro close-up at 90 degrees overhead, table-top flat lay, shallow depth of field with focus on tourbillon mechanism\\nSubject: 42mm tourbillon wristwatch with skeleton dial exposing movement, 18K rose gold case, diamond-set bezel, dark brown crocodile leather strap\\nScene/backdrop: dark carbon fiber textured surface, heavily blurred background\\nLighting/mood: multi-angle softbox lighting, even highlights on metal surfaces without overexposure, precise detail on mechanical components\\nColor palette: warm rose gold as anchor, deep brown leather, dark carbon gray, diamond sparkle as accent\\nMaterials/textures: brushed 18K rose gold case, diamond facets, genuine crocodile leather grain, exposed mechanical movement with polished steel gears, balance wheel, hairspring, tourbillon cage\\nConstraints: focus must land precisely on the tourbillon mechanism; color accuracy critical for luxury commercial use\\nAvoid: plastic textures, overexposed metal, cartoonish rendering, 8K stuffer labels, watermark\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10508
+}

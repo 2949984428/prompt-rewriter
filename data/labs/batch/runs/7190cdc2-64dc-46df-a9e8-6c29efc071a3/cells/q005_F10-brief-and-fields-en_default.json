@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an architectural visualization render of a modern minimalist villa perched on a tropical coastal cliff.\n\nStyle/medium: architectural visualization render, professional photorealistic CGI, clean lines and refined surfaces\nComposition: three-point perspective, wide-angle establishing shot, camera positioned at elevated viewpoint overlooking sea\nSubject: pure white fair-faced concrete villa with floor-to-ceiling glass curtain walls, seamless indoor-outdoor integration\nScene/backdrop: tropical coastal cliff setting, infinity pool extending from terrace to visually merge with sea horizon, distant sailboats on water, dramatic sunset sky with spectacular clouds\nLighting/mood: golden hour sunset, warm orange-red light reflecting on pool surface, soft ambient glow, luxurious resort atmosphere\nColor palette: warm orange and coral sunset tones against cool white concrete and blue sea, lush green tropical foliage as accent\nMaterials/textures: smooth white concrete with subtle aggregate texture, reflective glass panels, teak wood lounge furniture, rippling water surface\nAvoid: cartoonish rendering, oversaturated colors, artificial lighting artifacts, cluttered composition, generic stock photo aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eeca4d38-e81f-4902-86f1-56e6de9380ec/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an architectural visualization render of a modern minimalist villa perched on a tropical coastal cliff.\\n\\nStyle/medium: architectural visualization render, professional photorealistic CGI, clean lines and refined surfaces\\nComposition: three-point perspective, wide-angle establishing shot, camera positioned at elevated viewpoint overlooking sea\\nSubject: pure white fair-faced concrete villa with floor-to-ceiling glass curtain walls, seamless indoor-outdoor integration\\nScene/backdrop: tropical coastal cliff setting, infinity pool extending from terrace to visually merge with sea horizon, distant sailboats on water, dramatic sunset sky with spectacular clouds\\nLighting/mood: golden hour sunset, warm orange-red light reflecting on pool surface, soft ambient glow, luxurious resort atmosphere\\nColor palette: warm orange and coral sunset tones against cool white concrete and blue sea, lush green tropical foliage as accent\\nMaterials/textures: smooth white concrete with subtle aggregate texture, reflective glass panels, teak wood lounge furniture, rippling water surface\\nAvoid: cartoonish rendering, oversaturated colors, artificial lighting artifacts, cluttered composition, generic stock photo aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9263
+}

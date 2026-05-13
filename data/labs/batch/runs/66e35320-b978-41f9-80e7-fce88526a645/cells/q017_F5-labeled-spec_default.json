@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: travel brochure, tri-fold leaflet mockup\nPrimary request: a realistic tri-fold travel brochure for \"杭州市4天3晚\" (Hangzhou 4-day 3-night itinerary) floating above kraft paper card, with famous landmarks as 3D pins/markers\nScene/backdrop: authentic Hangzhou city map as the main background, with the tri-fold brochure suspended/floating above textured kraft cardboard\nSubject: tri-fold travel brochure featuring 4-day itinerary with landmark icons for 断桥残雪, 雷峰塔, 灵隐寺, 九溪烟树, 西溪湿地, each destination marked with distinctive landmark symbols (pagoda, bridge, temple, bamboo forest, wetland)\nStyle/medium: photorealistic product mockup, editorial photography, paper craft aesthetic\nComposition/framing: top-down angled view, showing the tri-fold brochure partially open with visible itinerary sections, floating 2cm above kraft paper base\nLighting/mood: soft studio lighting with gentle shadows, clean and premium travel guide aesthetic\nColor palette: warm kraft brown + Hangzhou map blues and greens + white brochure with accent colors for each district\nMaterials/textures: realistic paper texture for brochure, matte kraft cardboard, glossy map print, subtle embossing on landmark icons\nText (verbatim): \"杭州市4天3晚\", \"第一天：西湖经典游\", \"断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺\", \"第二天：禅意杭州\", \"灵隐寺→飞来峰造像→法喜寺→宋城\", \"第三天：九溪烟树徒步\", \"九溪十八涧→龙井村→十里琅珰→云栖竹径\", \"第四天：文艺收官\"\nConstraints: must show authentic Hangzhou map as background, tri-fold format clearly visible, landmarks must have distinctive visual markers\nAvoid: generic travel icons, blurry map details, flat 2D presentation without depth, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c946bc9b-27f3-42a6-9739-e98f6c575a9e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: travel brochure, tri-fold leaflet mockup\\nPrimary request: a realistic tri-fold travel brochure for \\\"杭州市4天3晚\\\" (Hangzhou 4-day 3-night itinerary) floating above kraft paper card, with famous landmarks as 3D pins/markers\\nScene/backdrop: authentic Hangzhou city map as the main background, with the tri-fold brochure suspended/floating above textured kraft cardboard\\nSubject: tri-fold travel brochure featuring 4-day itinerary with landmark icons for 断桥残雪, 雷峰塔, 灵隐寺, 九溪烟树, 西溪湿地, each destination marked with distinctive landmark symbols (pagoda, bridge, temple, bamboo forest, wetland)\\nStyle/medium: photorealistic product mockup, editorial photography, paper craft aesthetic\\nComposition/framing: top-down angled view, showing the tri-fold brochure partially open with visible itinerary sections, floating 2cm above kraft paper base\\nLighting/mood: soft studio lighting with gentle shadows, clean and premium travel guide aesthetic\\nColor palette: warm kraft brown + Hangzhou map blues and greens + white brochure with accent colors for each district\\nMaterials/textures: realistic paper texture for brochure, matte kraft cardboard, glossy map print, subtle embossing on landmark icons\\nText (verbatim): \\\"杭州市4天3晚\\\", \\\"第一天：西湖经典游\\\", \\\"断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺\\\", \\\"第二天：禅意杭州\\\", \\\"灵隐寺→飞来峰造像→法喜寺→宋城\\\", \\\"第三天：九溪烟树徒步\\\", \\\"九溪十八涧→龙井村→十里琅珰→云栖竹径\\\", \\\"第四天：文艺收官\\\"\\nConstraints: must show authentic Hangzhou map as background, tri-fold format clearly visible, landmarks must have distinctive visual markers\\nAvoid: generic travel icons, blurry map details, flat 2D presentation without depth, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12765
+}

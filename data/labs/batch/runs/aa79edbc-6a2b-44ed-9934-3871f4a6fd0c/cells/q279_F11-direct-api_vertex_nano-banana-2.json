@@ -1,0 +1,23 @@
+{
+  "query_idx": 279,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Image] 2K 解析度，然後改成白人小嬰孩，表情是用力誇張，兩個一起拉小熊玩偶，小嬰孩是拿著頭的位置，小狗咬著腳的位置，請幫我設計這個場景合適的youtube shorts 封面",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Adf88f55d-4041-49c8-b74e-49a89127cce3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Image] 2K 解析度，然後改成白人小嬰孩，表情是用力誇張，兩個一起拉小熊玩偶，小嬰孩是拿著頭的位置，小狗咬著腳的位置，請幫我設計這個場景合適的youtube shorts 封面\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5833,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

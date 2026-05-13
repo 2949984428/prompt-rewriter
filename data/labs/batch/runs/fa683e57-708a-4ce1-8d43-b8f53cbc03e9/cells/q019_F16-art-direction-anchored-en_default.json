@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an epic battle scene illustration of a dragon and knight (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"奇幻\" (fantasy) aesthetic — references in the spirit of Frank Frazetta's heroic fantasy illustration, 1980s Dragonlance book cover art, Studio Ghibli's Mononoke epic scale; exact stylistic execution is yours\nComposition: needs an epic, dynamic framing — exact angle and dramatic tension is yours\nSubject: must include a dragon breathing fire and a knight charging with shield\nScene/backdrop: must include a burning castle and lightning-streaked sky\nLighting/mood: needs an epic, dramatic atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b3324819-cd24-4f79-a3ce-e6bc4b9b7241/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an epic battle scene illustration of a dragon and knight (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"奇幻\\\" (fantasy) aesthetic — references in the spirit of Frank Frazetta's heroic fantasy illustration, 1980s Dragonlance book cover art, Studio Ghibli's Mononoke epic scale; exact stylistic execution is yours\\nComposition: needs an epic, dynamic framing — exact angle and dramatic tension is yours\\nSubject: must include a dragon breathing fire and a knight charging with shield\\nScene/backdrop: must include a burning castle and lightning-streaked sky\\nLighting/mood: needs an epic, dramatic atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11541
+}

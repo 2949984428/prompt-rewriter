@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: social-media-cover-design\nAsset type: Xiaohongshu (小红书) style vertical cover image, 9-grid layout (九宫格), single-tile portrait crop\nPrimary request: design a Xiaohongshu amateur/素人 influencer-style book/post cover featuring DJI Pocket 4 as the hero product, with cute differentiated title typography\nScene/backdrop: bright, clean lifestyle backdrop typical of 小红书 素人 aesthetic — soft pastel tones, minimal clutter, slightly warm ambient light\nSubject: DJI Pocket 4 camera prominently displayed at center-foreground; overall composition styled as a 素人 (everyday amateur creator) Xiaohongshu post cover\nStyle/medium: flat digital illustration mixed with photo-collage aesthetic, 小红书 素人 style — soft, approachable, youthful, slightly handcrafted feel\nComposition/framing: vertical portrait (2:3), nine-grid (九宫格) single-panel layout, DJI Pocket 4 centered in lower-middle zone, title text occupying upper-center area\nLighting/mood: soft diffused natural light, warm and cheerful, approachable and casual mood\nColor palette: pastel pink, cream white, warm beige, light mint accents — typical 小红书 素人 palette\nMaterials/textures: smooth matte background with subtle paper or linen texture, soft drop shadow under product\nText (verbatim): \"大疆pocket4初体验\"\nTypography: cute, playful, differentiated font style — mix of rounded bubble letterforms and hand-lettering feel; title text large and bold at center-top; Chinese characters styled with kawaii/cute personality\nConstraints: DJI Pocket 4 must be clearly recognizable; text \"大疆pocket4初体验\" must appear verbatim and be the dominant headline; layout must feel like an authentic 小红书 素人 cover\nAvoid: overly polished commercial ad look, dark or moody lighting, serif formal fonts, cluttered background",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/32f3d2e8-05c8-42e6-b6de-a140eaca5e9e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: social-media-cover-design\\nAsset type: Xiaohongshu (小红书) style vertical cover image, 9-grid layout (九宫格), single-tile portrait crop\\nPrimary request: design a Xiaohongshu amateur/素人 influencer-style book/post cover featuring DJI Pocket 4 as the hero product, with cute differentiated title typography\\nScene/backdrop: bright, clean lifestyle backdrop typical of 小红书 素人 aesthetic — soft pastel tones, minimal clutter, slightly warm ambient light\\nSubject: DJI Pocket 4 camera prominently displayed at center-foreground; overall composition styled as a 素人 (everyday amateur creator) Xiaohongshu post cover\\nStyle/medium: flat digital illustration mixed with photo-collage aesthetic, 小红书 素人 style — soft, approachable, youthful, slightly handcrafted feel\\nComposition/framing: vertical portrait (2:3), nine-grid (九宫格) single-panel layout, DJI Pocket 4 centered in lower-middle zone, title text occupying upper-center area\\nLighting/mood: soft diffused natural light, warm and cheerful, approachable and casual mood\\nColor palette: pastel pink, cream white, warm beige, light mint accents — typical 小红书 素人 palette\\nMaterials/textures: smooth matte background with subtle paper or linen texture, soft drop shadow under product\\nText (verbatim): \\\"大疆pocket4初体验\\\"\\nTypography: cute, playful, differentiated font style — mix of rounded bubble letterforms and hand-lettering feel; title text large and bold at center-top; Chinese characters styled with kawaii/cute personality\\nConstraints: DJI Pocket 4 must be clearly recognizable; text \\\"大疆pocket4初体验\\\" must appear verbatim and be the dominant headline; layout must feel like an authentic 小红书 素人 cover\\nAvoid: overly polished commercial ad look, dark or moody lighting, serif formal fonts, cluttered background\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16008
+}

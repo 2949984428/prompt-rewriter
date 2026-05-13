@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID badge for a tech company named \"字节期动\", showing both front and back sides.\n\nStyle/medium: photorealistic ID badge\nComposition: front and back sides shown\nSubject: employee ID badge for \"字节期动\"\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \"字节期动\"\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/24338cf3-2a9f-48ce-a31b-edcad2dc4db6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing employee ID badge for a tech company named \\\"字节期动\\\", showing both front and back sides.\\n\\nStyle/medium: photorealistic ID badge\\nComposition: front and back sides shown\\nSubject: employee ID badge for \\\"字节期动\\\"\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"字节期动\\\"\\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 4871
+}

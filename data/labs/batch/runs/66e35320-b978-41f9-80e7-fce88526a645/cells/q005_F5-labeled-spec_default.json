@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: educational infographic, square crop\nPrimary request: hand-drawn style infographic explaining definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, CLI\nScene/backdrop: clean white paper texture, sketchbook aesthetic with subtle grid lines\nSubject: conceptual diagram showing 7 tech terms (AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, CLI) with connecting lines and simple icons\nStyle/medium: hand-drawn illustration, sketch style with pencil/ink texture, infographic layout\nComposition/framing: top-down view, organized flowchart structure with clear hierarchy\nLighting/mood: soft natural daylight, friendly and approachable educational tone\nColor palette: muted pastels with black ink lines, occasional soft blue and orange accents\nMaterials/textures: paper grain texture, hand-drawn line quality, marker highlights\nText (verbatim): \"AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI\"\nConstraints: keep all 7 terms clearly visible with their definitions, show logical connections between related concepts, maintain hand-drawn aesthetic throughout\nAvoid: corporate flat design, 3D renders, photorealistic elements, cluttered layout, overly complex diagrams",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/651842e7-c864-41b7-942f-b33d7ef5d4f1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: educational infographic, square crop\\nPrimary request: hand-drawn style infographic explaining definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, CLI\\nScene/backdrop: clean white paper texture, sketchbook aesthetic with subtle grid lines\\nSubject: conceptual diagram showing 7 tech terms (AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, CLI) with connecting lines and simple icons\\nStyle/medium: hand-drawn illustration, sketch style with pencil/ink texture, infographic layout\\nComposition/framing: top-down view, organized flowchart structure with clear hierarchy\\nLighting/mood: soft natural daylight, friendly and approachable educational tone\\nColor palette: muted pastels with black ink lines, occasional soft blue and orange accents\\nMaterials/textures: paper grain texture, hand-drawn line quality, marker highlights\\nText (verbatim): \\\"AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI\\\"\\nConstraints: keep all 7 terms clearly visible with their definitions, show logical connections between related concepts, maintain hand-drawn aesthetic throughout\\nAvoid: corporate flat design, 3D renders, photorealistic elements, cluttered layout, overly complex diagrams\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13495
+}

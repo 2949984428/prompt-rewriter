@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a panoramic illustration of the Tang Dynasty Chang'an Lantern Festival at night (all in-image text in Chinese).\n\nStyle/medium: must be 工笔重彩长卷 (meticulous brushwork with heavy colors, handscroll format)\nComposition: needs a sweeping panoramic view of 长安城 at night — exact framing and perspective are yours\nSubject: must include countless lanterns (万盏花灯) illuminating the night sky\nScene/backdrop: must include Tang Dynasty Chang'an cityscape at night during the Lantern Festival\nLighting/mood: needs a luminous night atmosphere with thousands of lanterns — exact light distribution is yours\nColor palette: needs a rich, saturated 重彩 direction — exact pigment choices are yours\nMaterials/textures: needs traditional 工笔 painting surface treatment — exact paper/silk texture is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must preserve Tang Dynasty era accuracy and lantern festival atmosphere\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9c4cce9c-3bf9-4ea4-92d6-9b25a4bff19e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a panoramic illustration of the Tang Dynasty Chang'an Lantern Festival at night (all in-image text in Chinese).\\n\\nStyle/medium: must be 工笔重彩长卷 (meticulous brushwork with heavy colors, handscroll format)\\nComposition: needs a sweeping panoramic view of 长安城 at night — exact framing and perspective are yours\\nSubject: must include countless lanterns (万盏花灯) illuminating the night sky\\nScene/backdrop: must include Tang Dynasty Chang'an cityscape at night during the Lantern Festival\\nLighting/mood: needs a luminous night atmosphere with thousands of lanterns — exact light distribution is yours\\nColor palette: needs a rich, saturated 重彩 direction — exact pigment choices are yours\\nMaterials/textures: needs traditional 工笔 painting surface treatment — exact paper/silk texture is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must preserve Tang Dynasty era accuracy and lantern festival atmosphere\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10133
+}

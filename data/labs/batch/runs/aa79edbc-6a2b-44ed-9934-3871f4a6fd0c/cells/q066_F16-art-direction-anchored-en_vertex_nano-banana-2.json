@@ -1,0 +1,23 @@
+{
+  "query_idx": 66,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成柠檬茶饮品牌延展物料。\n\n风格/媒介:\n  品牌视觉物料延展\n  高级感，无土味，克制而精致\n构图:\n  基于参考图 #1 和 #2 中的辅助图形与品牌 logo 进行延展\n  物料版式合理，视觉层次清晰\n主体:\n  柠檬茶饮品牌物料\n  融入品牌辅助图形与 logo 元素\n场景/背景:\n光线/氛围:高级、干净、品牌感强\n色彩方案:\n  延续参考图中的品牌色系\n材质/纹理:\n文字(原样):\n约束:\n  严格参考上传的两张图（辅助图形 + 品牌 logo）中的视觉语言\n  保持品牌一致性，不引入与参考图风格相悖的元素\n避免:\n  土味设计\n  过度装饰\n  廉价感配色或字体",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0e26ab7e-e212-43e8-8844-005b55adca29/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成柠檬茶饮品牌延展物料。\\n\\n风格/媒介:\\n  品牌视觉物料延展\\n  高级感，无土味，克制而精致\\n构图:\\n  基于参考图 #1 和 #2 中的辅助图形与品牌 logo 进行延展\\n  物料版式合理，视觉层次清晰\\n主体:\\n  柠檬茶饮品牌物料\\n  融入品牌辅助图形与 logo 元素\\n场景/背景:\\n光线/氛围:高级、干净、品牌感强\\n色彩方案:\\n  延续参考图中的品牌色系\\n材质/纹理:\\n文字(原样):\\n约束:\\n  严格参考上传的两张图（辅助图形 + 品牌 logo）中的视觉语言\\n  保持品牌一致性，不引入与参考图风格相悖的元素\\n避免:\\n  土味设计\\n  过度装饰\\n  廉价感配色或字体\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9742,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-artwork\nAsset type: traditional Chinese scroll painting, panoramic composition\nPrimary request: elaborate \"Hundred Birds Worshipping the Phoenix\" scene in gongbi heavy-color style\nScene/backdrop: ethereal immortal mountain landscape with misty clouds and rosy dawn glow, ancient pines and cypresses, exotic flowers and rare plants scattered throughout\nSubject: a pair of phoenixes at center with wings spread soaring through clouds - male phoenix with vermilion red, golden yellow, and emerald green plumage; female phoenix with pink-purple, silver-white, and cyan-blue feathers, both responding to each other. Surrounded by dozens of rare birds: peacocks with fanned tails, dancing cranes, golden pheasants foraging, playful parrots, each bird in distinct lifelike poses\nStyle/medium: traditional Chinese gongbi heavy-color painting (工笔重彩), meticulous brushwork with fine flowing lines, rich and gorgeous colors, gold powder outlining feather details\nComposition/framing: panoramic scroll format, phoenixes as central focal point with birds radiating outward in layered depth\nLighting/mood: soft diffused celestial light through cloud layers, auspicious and majestic atmosphere\nColor palette: vermilion red, golden yellow, emerald green, pink-purple, silver-white, cyan-blue, with gold accents on feathers\nMaterials/textures: silk scroll texture, mineral pigment saturation, delicate feather rendering with individual strand details, metallic gold linework\nConstraints: maintain traditional Chinese painting aesthetics, phoenix pair must be central and prominent, all birds must be identifiable species with accurate anatomy\nAvoid: Western realistic shading, photographic depth of field, modern digital effects, anachronistic elements, cartoon simplification",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cffbf67c-828a-479f-b5b2-7b5973d3987c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-artwork\\nAsset type: traditional Chinese scroll painting, panoramic composition\\nPrimary request: elaborate \\\"Hundred Birds Worshipping the Phoenix\\\" scene in gongbi heavy-color style\\nScene/backdrop: ethereal immortal mountain landscape with misty clouds and rosy dawn glow, ancient pines and cypresses, exotic flowers and rare plants scattered throughout\\nSubject: a pair of phoenixes at center with wings spread soaring through clouds - male phoenix with vermilion red, golden yellow, and emerald green plumage; female phoenix with pink-purple, silver-white, and cyan-blue feathers, both responding to each other. Surrounded by dozens of rare birds: peacocks with fanned tails, dancing cranes, golden pheasants foraging, playful parrots, each bird in distinct lifelike poses\\nStyle/medium: traditional Chinese gongbi heavy-color painting (工笔重彩), meticulous brushwork with fine flowing lines, rich and gorgeous colors, gold powder outlining feather details\\nComposition/framing: panoramic scroll format, phoenixes as central focal point with birds radiating outward in layered depth\\nLighting/mood: soft diffused celestial light through cloud layers, auspicious and majestic atmosphere\\nColor palette: vermilion red, golden yellow, emerald green, pink-purple, silver-white, cyan-blue, with gold accents on feathers\\nMaterials/textures: silk scroll texture, mineral pigment saturation, delicate feather rendering with individual strand details, metallic gold linework\\nConstraints: maintain traditional Chinese painting aesthetics, phoenix pair must be central and prominent, all birds must be identifiable species with accurate anatomy\\nAvoid: Western realistic shading, photographic depth of field, modern digital effects, anachronistic elements, cartoon simplification\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14168
+}

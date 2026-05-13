@@ -1,0 +1,23 @@
+{
+  "query_idx": 134,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图\n[@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@image:#3:衣架]图中产品",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac5f7fd85-8971-4e6c-9d6a-d18bc55a4d80/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图\\n[@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@image:#3:衣架]图中产品\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2863,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

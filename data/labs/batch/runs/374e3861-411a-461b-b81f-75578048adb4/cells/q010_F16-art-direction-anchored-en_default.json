@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing post-apocalyptic wasteland scene illustration.\n\nStyle/medium: needs a \"末日废土\" (post-apocalyptic wasteland) aesthetic — references in the spirit of Mad Max Fury Road vehicle design, 1970s-1980s dystopian sci-fi book cover art, S.T.A.L.K.E.R. Eastern European decay atmosphere; exact stylistic execution is yours\nComposition: \nSubject: must include a modified armored vehicle as the focal subject\nScene/backdrop: must include a desolate desert landscape with collapsed city ruins in the distance, yellowish sky, sandstorm atmosphere\nLighting/mood: needs a tense survival atmosphere with apocalyptic tension — exact light source mix is yours\nColor palette: needs a yellowish, dusty direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9ddce41b-bd4a-459d-8f3e-255a17ed9797/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing post-apocalyptic wasteland scene illustration.\\n\\nStyle/medium: needs a \\\"末日废土\\\" (post-apocalyptic wasteland) aesthetic — references in the spirit of Mad Max Fury Road vehicle design, 1970s-1980s dystopian sci-fi book cover art, S.T.A.L.K.E.R. Eastern European decay atmosphere; exact stylistic execution is yours\\nComposition: \\nSubject: must include a modified armored vehicle as the focal subject\\nScene/backdrop: must include a desolate desert landscape with collapsed city ruins in the distance, yellowish sky, sandstorm atmosphere\\nLighting/mood: needs a tense survival atmosphere with apocalyptic tension — exact light source mix is yours\\nColor palette: needs a yellowish, dusty direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9982
+}

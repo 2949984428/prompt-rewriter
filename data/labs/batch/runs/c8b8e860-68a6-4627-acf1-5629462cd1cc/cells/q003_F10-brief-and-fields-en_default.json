@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing logo for a tech-lifestyle content creator brand focused on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: clean flat vector logo, modern geometric minimalism, universal appeal across cultures, Apple-inspired restraint\nSubject: abstract pictorial mark suggesting energy flow or connectivity, balanced with simple wordmark, scalable silhouette\nComposition: centered mark with generous padding, works in square crop for all social platforms\nColor palette: neutral base (deep navy or charcoal) with one accent color (electric blue or soft teal), avoids red/green cultural triggers\nConstraints: must read clearly at 32x32 pixels; monochrome version must work without color; no culturally sensitive symbols or religious imagery\nAvoid: specific vehicle silhouettes that could be brand-specific; lightning bolts; gradients; flags; hand gestures; religious symbols; text in any language; complex illustrations; Behance generic flat style",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8034458d-3e8b-4618-b17f-f3d6f7b6f260/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing logo for a tech-lifestyle content creator brand focused on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: clean flat vector logo, modern geometric minimalism, universal appeal across cultures, Apple-inspired restraint\\nSubject: abstract pictorial mark suggesting energy flow or connectivity, balanced with simple wordmark, scalable silhouette\\nComposition: centered mark with generous padding, works in square crop for all social platforms\\nColor palette: neutral base (deep navy or charcoal) with one accent color (electric blue or soft teal), avoids red/green cultural triggers\\nConstraints: must read clearly at 32x32 pixels; monochrome version must work without color; no culturally sensitive symbols or religious imagery\\nAvoid: specific vehicle silhouettes that could be brand-specific; lightning bolts; gradients; flags; hand gestures; religious symbols; text in any language; complex illustrations; Behance generic flat style\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 20455
+}

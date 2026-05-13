@@ -1,0 +1,23 @@
+{
+  "query_idx": 96,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计 logo —— \"疯狂拓肯\"传媒公司。\n\n风格/媒介: 参考 @image:#1:logo参考 中 logo 的风格\n构图:\n主体: 公司 logo，公司名称\"疯狂拓肯\"\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样): 疯狂拓肯\n约束:\n  公司业务：依托 AI 模型进行影像制作，以为客户打造 IP 为目的的传媒公司\n  logo 设计需体现 AI 影像 / IP 打造 / 传媒属性\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0aed0d9f-984d-45a7-bb2b-cc43d09f9981/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计 logo —— \\\"疯狂拓肯\\\"传媒公司。\\n\\n风格/媒介: 参考 @image:#1:logo参考 中 logo 的风格\\n构图:\\n主体: 公司 logo，公司名称\\\"疯狂拓肯\\\"\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样): 疯狂拓肯\\n约束:\\n  公司业务：依托 AI 模型进行影像制作，以为客户打造 IP 为目的的传媒公司\\n  logo 设计需体现 AI 影像 / IP 打造 / 传媒属性\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5821,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

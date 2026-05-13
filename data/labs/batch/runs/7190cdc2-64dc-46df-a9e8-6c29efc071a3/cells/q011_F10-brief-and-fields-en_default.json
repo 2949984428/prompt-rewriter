@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial watercolor illustration of a European town on a summer afternoon.\n\nStyle/medium: watercolor illustration, light and airy brushwork, fluid color blending, artistic and literary atmosphere\nComposition: eye-level street view focusing on a corner bookstore as central subject, surrounding café and street scene as supporting elements\nSubject: small corner bookstore with display window full of colorful books, potted geraniums with bright red blooms at entrance; adjacent café with outdoor seating where relaxed customers read newspapers or chat quietly, coffee cups and croissants on tables\nScene/backdrop: ancient cobblestone street, historic buildings with varied facades in cream yellow, peach orange, and pale blue; clear azure sky with fluffy white clouds, summer afternoon setting\nLighting/mood: bright warm sunlight casting crisp shadows, cheerful and leisurely mood, dappled light on street and buildings\nColor palette: warm cream yellow, peach orange, pale blue building facades; vibrant red geranium blooms as focal accent; azure sky with white clouds; natural watercolor washes with soft edges\nMaterials/textures: visible watercolor paper texture, fluid pigment blooms, wet-on-wet blending for sky and shadows, dry brush details for architectural elements\nAvoid: photorealistic rendering, digital smooth gradients, harsh outlines, oversaturated colors, cluttered composition, generic stock illustration style",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/524f2309-f277-4228-9ca6-92397e08fd7d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial watercolor illustration of a European town on a summer afternoon.\\n\\nStyle/medium: watercolor illustration, light and airy brushwork, fluid color blending, artistic and literary atmosphere\\nComposition: eye-level street view focusing on a corner bookstore as central subject, surrounding café and street scene as supporting elements\\nSubject: small corner bookstore with display window full of colorful books, potted geraniums with bright red blooms at entrance; adjacent café with outdoor seating where relaxed customers read newspapers or chat quietly, coffee cups and croissants on tables\\nScene/backdrop: ancient cobblestone street, historic buildings with varied facades in cream yellow, peach orange, and pale blue; clear azure sky with fluffy white clouds, summer afternoon setting\\nLighting/mood: bright warm sunlight casting crisp shadows, cheerful and leisurely mood, dappled light on street and buildings\\nColor palette: warm cream yellow, peach orange, pale blue building facades; vibrant red geranium blooms as focal accent; azure sky with white clouds; natural watercolor washes with soft edges\\nMaterials/textures: visible watercolor paper texture, fluid pigment blooms, wet-on-wet blending for sky and shadows, dry brush details for architectural elements\\nAvoid: photorealistic rendering, digital smooth gradients, harsh outlines, oversaturated colors, cluttered composition, generic stock illustration style\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11488
+}

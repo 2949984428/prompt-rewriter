@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID badge for ByteDance, showing both front and back sides.\n\nStyle/medium: photorealistic product photography, corporate ID card mockup, clean studio lighting\nComposition: flat-lay top-down view, two cards placed side by side (front and back), macro lens detail\nSubject: standard employee ID badge with portrait photo, company name, employee name, ID number, and access chip\nScene/backdrop: neutral white or light gray surface, minimal corporate aesthetic\nLighting/mood: soft diffused studio light from above, even illumination, professional and clean\nColor palette: ByteDance brand blue as accent, white card base, black text, subtle gray details\nMaterials/textures: matte plastic card surface, slight rounded corners, subtle embossed text, glossy photo area\nText (verbatim): \"字节跳动\"\nConstraints: both front and back must be visible; front shows portrait and employee info; back shows magnetic stripe or chip area\nAvoid: blurry text, distorted proportions, overly reflective surface, watermark, generic stock photo look",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f0fefbef-b55e-4dfb-b8bf-42a54cc26e92/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing employee ID badge for ByteDance, showing both front and back sides.\\n\\nStyle/medium: photorealistic product photography, corporate ID card mockup, clean studio lighting\\nComposition: flat-lay top-down view, two cards placed side by side (front and back), macro lens detail\\nSubject: standard employee ID badge with portrait photo, company name, employee name, ID number, and access chip\\nScene/backdrop: neutral white or light gray surface, minimal corporate aesthetic\\nLighting/mood: soft diffused studio light from above, even illumination, professional and clean\\nColor palette: ByteDance brand blue as accent, white card base, black text, subtle gray details\\nMaterials/textures: matte plastic card surface, slight rounded corners, subtle embossed text, glossy photo area\\nText (verbatim): \\\"字节跳动\\\"\\nConstraints: both front and back must be visible; front shows portrait and employee info; back shows magnetic stripe or chip area\\nAvoid: blurry text, distorted proportions, overly reflective surface, watermark, generic stock photo look\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10465
+}

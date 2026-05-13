@@ -1,0 +1,23 @@
+{
+  "query_idx": 87,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:微信图片_20260414235539_640_2] 这是诸暨公交的LOGO设计意向，你能帮我分析并优化一下吗？保持简洁大气，出五个方案，谢谢",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 5,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1ca99793-242b-4dbf-8e2f-18f87281d334/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:微信图片_20260414235539_640_2] 这是诸暨公交的LOGO设计意向，你能帮我分析并优化一下吗？保持简洁大气，出五个方案，谢谢\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 5, \"output_format\": \"png\"}",
+  "ms": 6389,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

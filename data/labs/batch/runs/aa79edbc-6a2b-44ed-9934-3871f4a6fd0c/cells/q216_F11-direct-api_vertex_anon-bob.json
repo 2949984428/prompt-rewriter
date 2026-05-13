@@ -1,0 +1,23 @@
+{
+  "query_idx": 216,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Image 2] 用参考图中的IP角色，设计一张16:9 的谷雨节气海报，海报要贴合谷雨节气的意境，IP角色保持一致性，IP角色不要只站着，可以贴合场景有别的动作，表情也可以根据场景改变，场景不限，适合抖音封面，9:16",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1ac0ccce-0291-4843-96e0-bb53e51e510d/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Image 2] 用参考图中的IP角色，设计一张16:9 的谷雨节气海报，海报要贴合谷雨节气的意境，IP角色保持一致性，IP角色不要只站着，可以贴合场景有别的动作，表情也可以根据场景改变，场景不限，适合抖音封面，9:16\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3234,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

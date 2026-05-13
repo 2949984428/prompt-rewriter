@@ -1,0 +1,18 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a cinematic movie poster for \"大话西游\" reimagined in 1990s Hong Kong cinema style.\n\nStyle/medium: 35mm film photography, 1990s Hong Kong cinema aesthetic, Wong Kar-wai inspired romantic melancholy with visible film grain\nComposition: wide cinematic framing, medium shot of embracing couple in foreground with two distant figures on castle wall silhouette in background, 50mm lens\nSubject: Zhi Zunbao and Zixia in an emotional embrace and kiss on ancient castle wall, flowing period costumes with wind movement\nScene/backdrop: ancient Chinese fortress wall at dusk, distant silhouette of Bull Demon King and Tang Monk standing apart, hazy atmospheric depth\nLighting/mood: golden hour transitioning to twilight, soft diffused backlight creating romantic rim light, nostalgic and bittersweet mood\nColor palette: warm amber and gold tones dominant, muted reds in costumes, cool blue shadows in background, desaturated 90s film look\nMaterials/textures: visible 35mm film grain throughout, slight softness in focus, natural fabric textures on period costumes\nText (verbatim): \"大话西游\"\nConstraints: must evoke authentic 1990s Hong Kong movie poster feel; grain should be organic not digital\nAvoid: modern digital sharpness, oversaturated colors, 8K hyper-detail, contemporary Chinese blockbuster aesthetic, clean digital look",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_2424c1fb9d234179ace0fb88011b0cc6.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"Create a cinematic movie poster for \\\"大话西游\\\" reimagined in 1990s Hong Kong cinema style.\\n\\nStyle/medium: 35mm film photography, 1990s Hong Kong cinema aesthetic, Wong Kar-wai inspired romantic melancholy with visible film grain\\nComposition: wide cinematic framing, medium shot of embracing couple in foreground with two distant figures on castle wall silhouette in background, 50mm lens\\nSubject: Zhi Zunbao and Zixia in an emotional embrace and kiss on ancient castle wall, flowing period costumes with wind movement\\nScene/backdrop: ancient Chinese fortress wall at dusk, distant silhouette of Bull Demon King and Tang Monk standing apart, hazy atmospheric depth\\nLighting/mood: golden hour transitioning to twilight, soft diffused backlight creating romantic rim light, nostalgic and bittersweet mood\\nColor palette: warm amber and gold tones dominant, muted reds in costumes, cool blue shadows in background, desaturated 90s film look\\nMaterials/textures: visible 35mm film grain throughout, slight softness in focus, natural fabric textures on period costumes\\nText (verbatim): \\\"大话西游\\\"\\nConstraints: must evoke authentic 1990s Hong Kong movie poster feel; grain should be organic not digital\\nAvoid: modern digital sharpness, oversaturated colors, 8K hyper-detail, contemporary Chinese blockbuster aesthetic, clean digital look\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 21789
+}

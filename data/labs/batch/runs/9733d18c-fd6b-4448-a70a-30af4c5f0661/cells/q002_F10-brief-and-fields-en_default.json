@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a classical Chinese beauty in exquisite Hanfu seated on a wooden pavilion in a Jiangnan water town.\n\nStyle/medium: Chinese traditional painting fusion — meticulous gongbi brushwork detail meets freehand xieyi poetic atmosphere, photorealistic rendering with painterly texture\nComposition: centered symmetrical framing, medium shot capturing figure and pavilion, eye-level perspective with subtle depth layering\nSubject: elegant woman in refined Hanfu with pale cyan silk and gold embroidery, elaborate updo adorned with jade hairpins and pearl ornaments, holding a round silk fan, turning head to gaze into the distance with delicate classical makeup\nScene/backdrop: Jiangnan water town wooden pavilion, lotus pond with blooming pink-white flowers swaying in breeze, crystal water droplets on lotus leaves, Hui-style architecture with white walls and black tiles in background, winding bluestone paths, white egrets flying low over water\nLighting/mood: soft diffused daylight, gentle morning atmosphere, serene and poetic Eastern aesthetic mood\nColor palette: pale cyan and gold as dominant, soft pink-white lotus accents, muted greens of lotus leaves, warm wood tones of pavilion, overall elegant and restrained palette\nMaterials/textures: flowing silk fabric with visible embroidery threads, smooth jade and lustrous pearls, weathered wood grain of pavilion, waxy lotus petals with dewdrops\nAvoid: plastic-looking fabrics, oversaturated colors, deformed hands, modern elements, 8K stuffer aesthetic, western architectural details",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "https://assets-persist.lovart.ai/agent_images/36adda8d-aa00-4847-ac59-30ed5be651ac.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a classical Chinese beauty in exquisite Hanfu seated on a wooden pavilion in a Jiangnan water town.\\n\\nStyle/medium: Chinese traditional painting fusion — meticulous gongbi brushwork detail meets freehand xieyi poetic atmosphere, photorealistic rendering with painterly texture\\nComposition: centered symmetrical framing, medium shot capturing figure and pavilion, eye-level perspective with subtle depth layering\\nSubject: elegant woman in refined Hanfu with pale cyan silk and gold embroidery, elaborate updo adorned with jade hairpins and pearl ornaments, holding a round silk fan, turning head to gaze into the distance with delicate classical makeup\\nScene/backdrop: Jiangnan water town wooden pavilion, lotus pond with blooming pink-white flowers swaying in breeze, crystal water droplets on lotus leaves, Hui-style architecture with white walls and black tiles in background, winding bluestone paths, white egrets flying low over water\\nLighting/mood: soft diffused daylight, gentle morning atmosphere, serene and poetic Eastern aesthetic mood\\nColor palette: pale cyan and gold as dominant, soft pink-white lotus accents, muted greens of lotus leaves, warm wood tones of pavilion, overall elegant and restrained palette\\nMaterials/textures: flowing silk fabric with visible embroidery threads, smooth jade and lustrous pearls, weathered wood grain of pavilion, waxy lotus petals with dewdrops\\nAvoid: plastic-looking fabrics, oversaturated colors, deformed hands, modern elements, 8K stuffer aesthetic, western architectural details\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12956
+}

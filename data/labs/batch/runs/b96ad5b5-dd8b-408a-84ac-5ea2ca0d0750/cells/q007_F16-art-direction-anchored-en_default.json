@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a detailed exploded-view technical illustration of a Sony A7 camera with all components labeled (all in-image text in Spanish).\n\nStyle/medium: needs a technical exploded-view diagram aesthetic — references in the spirit of 1960s NASA technical manuals, Haynes repair manual illustrations, 1980s Japanese camera service guides; exact stylistic execution is yours\nComposition: must be exploded-view layout showing all internal and external components separated along an axis\nSubject: must include Sony A7 camera and all its components (body, sensor, shutter mechanism, mirrorless mount, EVF, LCD screen, battery, SD card slot, circuit boards, screws, dials, buttons, grip, lens mount, image stabilization unit, processor, heat sink, connectors)\nScene/backdrop: must be clean technical diagram background with construction lines\nLighting/mood: needs a clear technical illustration atmosphere — exact light source mix is yours\nColor palette: needs a technical manual direction — exact values are yours\nMaterials/textures: needs a technical cutaway surface treatment — exact rendering style is yours\nText (verbatim): must include component labels in Spanish (sensor, obturador, montura E, visor electrónico, pantalla LCD, batería, tarjeta SD, placa base, tornillos, diales, botones, empuñadura, estabilizador, procesador, disipador, conectores)\nConstraints: must include all in-image text in Spanish by default; must preserve Sony A7 model accuracy, all component names labeled\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8feb3802-8902-4ede-9c67-855a64b1acd4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a detailed exploded-view technical illustration of a Sony A7 camera with all components labeled (all in-image text in Spanish).\\n\\nStyle/medium: needs a technical exploded-view diagram aesthetic — references in the spirit of 1960s NASA technical manuals, Haynes repair manual illustrations, 1980s Japanese camera service guides; exact stylistic execution is yours\\nComposition: must be exploded-view layout showing all internal and external components separated along an axis\\nSubject: must include Sony A7 camera and all its components (body, sensor, shutter mechanism, mirrorless mount, EVF, LCD screen, battery, SD card slot, circuit boards, screws, dials, buttons, grip, lens mount, image stabilization unit, processor, heat sink, connectors)\\nScene/backdrop: must be clean technical diagram background with construction lines\\nLighting/mood: needs a clear technical illustration atmosphere — exact light source mix is yours\\nColor palette: needs a technical manual direction — exact values are yours\\nMaterials/textures: needs a technical cutaway surface treatment — exact rendering style is yours\\nText (verbatim): must include component labels in Spanish (sensor, obturador, montura E, visor electrónico, pantalla LCD, batería, tarjeta SD, placa base, tornillos, diales, botones, empuñadura, estabilizador, procesador, disipador, conectores)\\nConstraints: must include all in-image text in Spanish by default; must preserve Sony A7 model accuracy, all component names labeled\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13741
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 98,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@skill:branding_logo:Logo & Branding]FreshBite (Healthy Food Brand)\r\n\r\nCategory: Branding + Packaging + Social Media\r\n\r\nOverview:\r\nFreshBite required a vibrant and fresh brand identity to reflect healthy and natural food products.\r\n\r\nMy Role:\r\nLogo design, packaging labels, and promotional social media creatives.\r\n\r\nApproach:\r\nUsed bright colors, simple typography, and clean layouts to communicate freshness and energy.\r\n\r\nOutcome:\r\nA strong and recognizable brand identity that stands out and connects well with health-conscious customers. uploaded image is logo[@image:#2:image]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad814c836-7ab1-41c1-b54d-d172aa1a5639/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@skill:branding_logo:Logo & Branding]FreshBite (Healthy Food Brand)\\n\\nCategory: Branding + Packaging + Social Media\\n\\nOverview:\\nFreshBite required a vibrant and fresh brand identity to reflect healthy and natural food products.\\n\\nMy Role:\\nLogo design, packaging labels, and promotional social media creatives.\\n\\nApproach:\\nUsed bright colors, simple typography, and clean layouts to communicate freshness and energy.\\n\\nOutcome:\\nA strong and recognizable brand identity that stands out and connects well with health-conscious customers. uploaded image is logo[@image:#2:image]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4981,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

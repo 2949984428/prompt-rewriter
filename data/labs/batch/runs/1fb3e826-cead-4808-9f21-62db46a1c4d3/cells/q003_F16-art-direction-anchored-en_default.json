@@ -1,0 +1,18 @@
+{
+  "query_idx": 3,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media avatar for a content creator focused on new energy vehicles, digital gadgets, and lifestyle products.\n\nStyle/medium: needs a \"modern tech lifestyle\" aesthetic — references in the spirit of Bauhaus clean-geometry graphic design, 2010s flat-icon design movement, Japanese 家電 product catalog visual language; exact stylistic execution is yours\nComposition: must be a square avatar format with a clear focal center, visually balanced at small display sizes\nSubject: must include visual elements representing three content pillars — new energy vehicles, digital/tech gadgets, and everyday lifestyle goods — unified into a single cohesive icon or emblem\nScene/backdrop: needs a clean, neutral backdrop — exact background treatment is yours\nLighting/mood: needs a friendly, approachable, and energetic mood — exact treatment is yours\nColor palette: needs a universally neutral and culturally safe palette — avoid colors with strong single-culture associations; exact palette is yours\nMaterials/textures: \nText (verbatim): \nConstraints: must be culturally neutral and visually harmonious across both Chinese and international social platforms; must avoid symbols, gestures, colors, or imagery that carry taboo associations in any major cultural group\nAvoid: human faces or figures, religious symbols, political symbols, flags, hand gestures, culturally specific iconography that may carry unintended meaning",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-04-img2-sweden.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing social media avatar for a content creator focused on new energy vehicles, digital gadgets, and lifestyle products.\\n\\nStyle/medium: needs a \\\"modern tech lifestyle\\\" aesthetic — references in the spirit of Bauhaus clean-geometry graphic design, 2010s flat-icon design movement, Japanese 家電 product catalog visual language; exact stylistic execution is yours\\nComposition: must be a square avatar format with a clear focal center, visually balanced at small display sizes\\nSubject: must include visual elements representing three content pillars — new energy vehicles, digital/tech gadgets, and everyday lifestyle goods — unified into a single cohesive icon or emblem\\nScene/backdrop: needs a clean, neutral backdrop — exact background treatment is yours\\nLighting/mood: needs a friendly, approachable, and energetic mood — exact treatment is yours\\nColor palette: needs a universally neutral and culturally safe palette — avoid colors with strong single-culture associations; exact palette is yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must be culturally neutral and visually harmonious across both Chinese and international social platforms; must avoid symbols, gestures, colors, or imagery that carry taboo associations in any major cultural group\\nAvoid: human faces or figures, religious symbols, political symbols, flags, hand gestures, culturally specific iconography that may carry unintended meaning\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12781
+}

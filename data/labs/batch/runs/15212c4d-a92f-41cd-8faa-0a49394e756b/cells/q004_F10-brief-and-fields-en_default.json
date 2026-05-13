@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for the launch announcement of 长安起源Q06 electric SUV, scheduled for September release.\n\nStyle/medium: modern automotive marketing poster, clean editorial layout, premium Chinese EV brand aesthetic\nComposition: wide landscape format with centered title hierarchy, generous negative space for text overlay, rule-of-thirds placement for vehicle silhouette or abstract element\nSubject: launch announcement for 长安起源Q06, September 2024 market debut\nScene/backdrop: abstract gradient or atmospheric cityscape with depth, translucent layers suggesting motion and innovation, subtle Chinese architectural motifs or skyline hints\nLighting/mood: soft diffused light with subtle rim highlights, aspirational and forward-looking mood, premium quality feel\nColor palette: deep navy or charcoal base with electric blue accents, silver or white for typography, maintaining 长安 brand color consistency\nText (verbatim): \"长安起源Q06将于9月上市\"\nConstraints: must accommodate both main title and subtitle placement; background should remain legible behind text; scalable for PPT 16:9 format\nAvoid: cluttered composition, overly literal car photography, generic stock photo aesthetic, excessive gradients, watermark, 8K stuffer terms",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c147302c-ee57-44bf-9504-a11dc0960b93/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for the launch announcement of 长安起源Q06 electric SUV, scheduled for September release.\\n\\nStyle/medium: modern automotive marketing poster, clean editorial layout, premium Chinese EV brand aesthetic\\nComposition: wide landscape format with centered title hierarchy, generous negative space for text overlay, rule-of-thirds placement for vehicle silhouette or abstract element\\nSubject: launch announcement for 长安起源Q06, September 2024 market debut\\nScene/backdrop: abstract gradient or atmospheric cityscape with depth, translucent layers suggesting motion and innovation, subtle Chinese architectural motifs or skyline hints\\nLighting/mood: soft diffused light with subtle rim highlights, aspirational and forward-looking mood, premium quality feel\\nColor palette: deep navy or charcoal base with electric blue accents, silver or white for typography, maintaining 长安 brand color consistency\\nText (verbatim): \\\"长安起源Q06将于9月上市\\\"\\nConstraints: must accommodate both main title and subtitle placement; background should remain legible behind text; scalable for PPT 16:9 format\\nAvoid: cluttered composition, overly literal car photography, generic stock photo aesthetic, excessive gradients, watermark, 8K stuffer terms\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10399
+}

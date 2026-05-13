@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an illustration of a steampunk mechanical apparatus (all in-image text in Chinese).\n\nStyle/medium: needs a \"蒸汽朋克\" aesthetic — references in the spirit of Victorian industrial engraving print tradition, Hayao Miyazaki's mechanical world-building (Castle in the Sky / Howl's Moving Castle), 1980s European steampunk illustration; exact stylistic execution is yours\nComposition: \nSubject: must include complex gears, pipes, and gauges as the focal mechanical assembly\nScene/backdrop: \nLighting/mood: needs a precise yet vintage industrial atmosphere — exact light source mix is yours\nColor palette: needs a brass and copper dominant direction — exact hex values and ratios are yours\nMaterials/textures: needs a brass and copper surface treatment with Victorian ornamental detailing — exact grain / sheen / patina weight is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f3c3d463-e6d6-46f6-b614-4c2b5ec537d3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an illustration of a steampunk mechanical apparatus (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"蒸汽朋克\\\" aesthetic — references in the spirit of Victorian industrial engraving print tradition, Hayao Miyazaki's mechanical world-building (Castle in the Sky / Howl's Moving Castle), 1980s European steampunk illustration; exact stylistic execution is yours\\nComposition: \\nSubject: must include complex gears, pipes, and gauges as the focal mechanical assembly\\nScene/backdrop: \\nLighting/mood: needs a precise yet vintage industrial atmosphere — exact light source mix is yours\\nColor palette: needs a brass and copper dominant direction — exact hex values and ratios are yours\\nMaterials/textures: needs a brass and copper surface treatment with Victorian ornamental detailing — exact grain / sheen / patina weight is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6940
+}

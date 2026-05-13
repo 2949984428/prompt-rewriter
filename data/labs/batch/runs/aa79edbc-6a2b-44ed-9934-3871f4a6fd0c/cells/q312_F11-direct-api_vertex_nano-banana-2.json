@@ -1,0 +1,23 @@
+{
+  "query_idx": 312,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:_1_噢了个麦噶_来自小红书网页版][@image:#2:一张图证明你是闽南人｜饮料篇🥤_1_Taxi_来自小红书网页版] 帮我把这个产品抠出来，放在一个白色背景中，正面平视图，画面在设计一下，丰富一些，设计感，有审美，小红书视频号封面3:4",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1a0451f4-ccfa-441f-b3ea-50860f6f1a27/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:_1_噢了个麦噶_来自小红书网页版][@image:#2:一张图证明你是闽南人｜饮料篇🥤_1_Taxi_来自小红书网页版] 帮我把这个产品抠出来，放在一个白色背景中，正面平视图，画面在设计一下，丰富一些，设计感，有审美，小红书视频号封面3:4\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6195,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

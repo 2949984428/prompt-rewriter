@@ -1,0 +1,23 @@
+{
+  "query_idx": 42,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一件足球衫设计图——以巴西国家队球衣为灵感，为 Solucione 品牌定制。\n\n风格/媒介: 极简主义，高级定制感，产品平铺或正面展示图\n构图: 球衣正面全图，logo 图案以重复排列方式分布于衫身，形成满版或局部规律性图案\n主体: 足球衫，巴西队球衣剪裁风格，Solucione 品牌 logo（来自参考图#1）作为重复纹样贯穿衫面\n场景/背景: 纯净背景，突出球衣本身\n光线/氛围: 干净、简洁，呈现高端限量感\n色彩方案: 参考巴西队配色（黄绿为主），结合 Solucione logo 原色\n材质/纹理: 运动面料质感，细节精致\n文字(原样): Solucione\n约束:\n  严格使用参考图#1 中的 Solucione logo 造型\n  logo 作为重复图案元素分布于球衣，保持整体极简不杂乱\n  球衣需呈现独家限量品的质感\n避免: 过度装饰，杂乱堆砌，廉价运动品感",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A165f6873-27d2-4a92-ba25-b9a87aa3421e/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一件足球衫设计图——以巴西国家队球衣为灵感，为 Solucione 品牌定制。\\n\\n风格/媒介: 极简主义，高级定制感，产品平铺或正面展示图\\n构图: 球衣正面全图，logo 图案以重复排列方式分布于衫身，形成满版或局部规律性图案\\n主体: 足球衫，巴西队球衣剪裁风格，Solucione 品牌 logo（来自参考图#1）作为重复纹样贯穿衫面\\n场景/背景: 纯净背景，突出球衣本身\\n光线/氛围: 干净、简洁，呈现高端限量感\\n色彩方案: 参考巴西队配色（黄绿为主），结合 Solucione logo 原色\\n材质/纹理: 运动面料质感，细节精致\\n文字(原样): Solucione\\n约束:\\n  严格使用参考图#1 中的 Solucione logo 造型\\n  logo 作为重复图案元素分布于球衣，保持整体极简不杂乱\\n  球衣需呈现独家限量品的质感\\n避免: 过度装饰，杂乱堆砌，廉价运动品感\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 12267,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

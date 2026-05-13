@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a short-form video cover featuring the 8k GGU gaming monitor.\n\nStyle/medium: minimalist high-end poster design, Swiss typography, clean editorial layout\nComposition: rule of thirds grid, large bold headline occupying upper third, product focal point at intersection\nSubject: gaming monitor product shot, sleek bezel-less design, subtle screen glow\nScene/backdrop: pure black or near-black gradient background, generous negative space\nLighting/mood: soft rim light on monitor edges, subtle ambient glow suggesting display quality\nColor palette: deep black background, bright white headline, single accent color (electric blue or cyan) for emphasis\nText (verbatim): \"8k GGU 电竞显示器 1000hz\"\nConstraints: headline must dominate at thumbnail size; all text must be legible on mobile screens\nAvoid: cluttered elements, multiple fonts, gradient backgrounds, busy textures, generic gaming RGB aesthetic, watermarks",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9e7863ef-0b55-418d-8900-8c7c4f2aec5e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for a short-form video cover featuring the 8k GGU gaming monitor.\\n\\nStyle/medium: minimalist high-end poster design, Swiss typography, clean editorial layout\\nComposition: rule of thirds grid, large bold headline occupying upper third, product focal point at intersection\\nSubject: gaming monitor product shot, sleek bezel-less design, subtle screen glow\\nScene/backdrop: pure black or near-black gradient background, generous negative space\\nLighting/mood: soft rim light on monitor edges, subtle ambient glow suggesting display quality\\nColor palette: deep black background, bright white headline, single accent color (electric blue or cyan) for emphasis\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\"\\nConstraints: headline must dominate at thumbnail size; all text must be legible on mobile screens\\nAvoid: cluttered elements, multiple fonts, gradient backgrounds, busy textures, generic gaming RGB aesthetic, watermarks\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9317
+}

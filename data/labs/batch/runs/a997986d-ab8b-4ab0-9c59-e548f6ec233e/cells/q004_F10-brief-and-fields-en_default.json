@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic concept art matte painting for a Mars colony panorama set in the year 2387.\n\nStyle/medium: hard science fiction concept art, photorealistic CGI matte painting, reference Syd Mead and Blade Runner 2049 production design\nComposition: wide panoramic vista, eye-level establishing shot, 24mm wide-angle lens, deep depth of field showing layered depth from foreground to Olympus Mons\nSubject: massive transparent geodesic dome city clusters rising from red desert terrain, dome interiors showing lush vegetation and high-rise architecture, foreground team of explorers in advanced spacesuits conducting geological survey, multi-wheeled Mars rovers parked nearby\nScene/backdrop: Martian desert landscape with characteristic ochre-red regolith, distant silhouette of Olympus Mons on horizon, orange-red Martian sky with thin atmospheric haze\nLighting/mood: directional sunlight simulating actual Martian illumination conditions, long shadows, clear atmospheric perspective, epic and awe-inspiring scale\nColor palette: ochre red and burnt orange as dominant base, warm yellow accents, cool silver-gray for technology and suits, subtle blue atmospheric haze at horizon\nMaterials/textures: dusty regolith with fine particle detail, transparent polymer dome surfaces with subtle reflections, metallic solar arrays and terraforming equipment, advanced composite spacesuit materials\nAvoid: fantasy elements, magical lighting, Earth-like blue sky, 8K stuffer labels, oversaturated neon colors, cartoon proportions",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5bb597c5-9653-4c31-bed0-95416d23d53e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic concept art matte painting for a Mars colony panorama set in the year 2387.\\n\\nStyle/medium: hard science fiction concept art, photorealistic CGI matte painting, reference Syd Mead and Blade Runner 2049 production design\\nComposition: wide panoramic vista, eye-level establishing shot, 24mm wide-angle lens, deep depth of field showing layered depth from foreground to Olympus Mons\\nSubject: massive transparent geodesic dome city clusters rising from red desert terrain, dome interiors showing lush vegetation and high-rise architecture, foreground team of explorers in advanced spacesuits conducting geological survey, multi-wheeled Mars rovers parked nearby\\nScene/backdrop: Martian desert landscape with characteristic ochre-red regolith, distant silhouette of Olympus Mons on horizon, orange-red Martian sky with thin atmospheric haze\\nLighting/mood: directional sunlight simulating actual Martian illumination conditions, long shadows, clear atmospheric perspective, epic and awe-inspiring scale\\nColor palette: ochre red and burnt orange as dominant base, warm yellow accents, cool silver-gray for technology and suits, subtle blue atmospheric haze at horizon\\nMaterials/textures: dusty regolith with fine particle detail, transparent polymer dome surfaces with subtle reflections, metallic solar arrays and terraforming equipment, advanced composite spacesuit materials\\nAvoid: fantasy elements, magical lighting, Earth-like blue sky, 8K stuffer labels, oversaturated neon colors, cartoon proportions\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11854
+}

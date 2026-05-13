@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a full-screen brand advertisement for OPPO Find X9 Ultra smartphone.\n\nStyle/medium: needs a high-impact visual aesthetic — exact stylistic execution is yours\nComposition: must be full-screen vertical format optimized for 1080×1920\nSubject: must include the OPPO Find X9 Ultra smartphone as the hero product\nScene/backdrop: \nLighting/mood: needs a premium tech product atmosphere — exact light source mix is yours\nColor palette: needs a brand-forward direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): must include \"OPPO Find X9 Ultra\" branding\nConstraints: must be 1080×1920 aspect ratio, brand exposure priority, visual impact first\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/87169bcc-0a75-4dbc-ab04-45f0ae773026/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a full-screen brand advertisement for OPPO Find X9 Ultra smartphone.\\n\\nStyle/medium: needs a high-impact visual aesthetic — exact stylistic execution is yours\\nComposition: must be full-screen vertical format optimized for 1080×1920\\nSubject: must include the OPPO Find X9 Ultra smartphone as the hero product\\nScene/backdrop: \\nLighting/mood: needs a premium tech product atmosphere — exact light source mix is yours\\nColor palette: needs a brand-forward direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"OPPO Find X9 Ultra\\\" branding\\nConstraints: must be 1080×1920 aspect ratio, brand exposure priority, visual impact first\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7525
+}

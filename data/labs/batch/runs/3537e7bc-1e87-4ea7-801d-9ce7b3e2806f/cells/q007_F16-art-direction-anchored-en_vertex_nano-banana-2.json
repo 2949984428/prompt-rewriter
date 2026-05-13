@@ -1,0 +1,21 @@
+{
+  "query_idx": 7,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Tarea: Crear una ilustración técnica de descomposición en explosión (exploded view) de una cámara Sony A7.\n\nRequisitos de contenido:\n- Mostrar la cámara desmontada en vista de explosión, con todas las piezas principales separadas pero alineadas verticalmente\n- Incluir etiquetas con líneas guía que identifiquen cada componente por su nombre técnico\n- Piezas a incluir y etiquetar: Cuerpo principal / Chasis, Sensor CMOS full-frame, Montura E-mount, Obturador mecánico, Espejo plegable (si aplica), Visor electrónico EVF, Pantalla LCD trasera articulada, Dial de modo / Dial superior, Botón de disparo, Rueda de control trasera, Botón AF-ON, Compartimento de batería NP-FW50, Ranura para tarjeta SD, Puerto HDMI micro, Puerto USB-C / Multi, Zapata de flash hot shoe, Dial de exposición frontal, Botón personalizables C1-C4, Anillo de agarre de goma, Tapa del sensor\n\nEstilo visual:\n- Ilustración técnica de ingeniería, estilo manual de servicio o diagrama de patentes\n- Líneas limpias, precisas, estilo vectorial o render 3D técnico\n- Fondo blanco o gris claro neutro\n- Líneas de guía rectas con puntas de flecha que apuntan a cada pieza\n- Tipografía técnica sans-serif clara y legible para las etiquetas\n- Sombras sutiles para dar profundidad y volumen a las piezas\n- Paleta monocromática o con acentos en azul Sony donde sea apropiado\n\nComposición:\n- Vista isométrica o ligeramente elevada\n- Piezas ordenadas de arriba hacia abajo o de afuera hacia adentro\n- Espacio suficiente entre componentes para que las etiquetas sean legibles\n\nOriginal request: \"Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.\"",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1d5367f4-5645-416b-ba36-c9330e0187fe/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Tarea: Crear una ilustración técnica de descomposición en explosión (exploded view) de una cámara Sony A7.\\n\\nRequisitos de contenido:\\n- Mostrar la cámara desmontada en vista de explosión, con todas las piezas principales separadas pero alineadas verticalmente\\n- Incluir etiquetas con líneas guía que identifiquen cada componente por su nombre técnico\\n- Piezas a incluir y etiquetar: Cuerpo principal / Chasis, Sensor CMOS full-frame, Montura E-mount, Obturador mecánico, Espejo plegable (si aplica), Visor electrónico EVF, Pantalla LCD trasera articulada, Dial de modo / Dial superior, Botón de disparo, Rueda de control trasera, Botón AF-ON, Compartimento de batería NP-FW50, Ranura para tarjeta SD, Puerto HDMI micro, Puerto USB-C / Multi, Zapata de flash hot shoe, Dial de exposición frontal, Botón personalizables C1-C4, Anillo de agarre de goma, Tapa del sensor\\n\\nEstilo visual:\\n- Ilustración técnica de ingeniería, estilo manual de servicio o diagrama de patentes\\n- Líneas limpias, precisas, estilo vectorial o render 3D técnico\\n- Fondo blanco o gris claro neutro\\n- Líneas de guía rectas con puntas de flecha que apuntan a cada pieza\\n- Tipografía técnica sans-serif clara y legible para las etiquetas\\n- Sombras sutiles para dar profundidad y volumen a las piezas\\n- Paleta monocromática o con acentos en azul Sony donde sea apropiado\\n\\nComposición:\\n- Vista isométrica o ligeramente elevada\\n- Piezas ordenadas de arriba hacia abajo o de afuera hacia adentro\\n- Espacio suficiente entre componentes para que las etiquetas sean legibles\\n\\nOriginal request: \\\"Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.\\\"\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11966
+}

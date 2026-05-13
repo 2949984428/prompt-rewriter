@@ -1,0 +1,23 @@
+{
+  "query_idx": 17,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个 logo —— O Conselho Star，女性企业家与创业者顾问团体品牌标识。\n\n风格/媒介: logo 设计，现代感，优雅，带有权威感与女性力量气质\n构图: 简洁标志性构图，图形与品牌名称组合\n主体: \"O Conselho Star\" 品牌 logo，体现智慧女性群体、星形或星光元素、顾问委员会的专业感\n场景/背景: 纯净背景，适合 logo 呈现\n光线/氛围: 优雅、高端、赋权\n色彩方案: 米白色（off-white）搭配金色（gold），以金色为主要点缀\n材质/纹理: \n文字(原样): O Conselho Star\n约束: 适合用于品牌识别、活动物料、数字平台\n避免: 复杂插画、写实风格、多余装饰元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A27111e78-f2fb-4c06-ace1-eb05cc47dabb/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个 logo —— O Conselho Star，女性企业家与创业者顾问团体品牌标识。\\n\\n风格/媒介: logo 设计，现代感，优雅，带有权威感与女性力量气质\\n构图: 简洁标志性构图，图形与品牌名称组合\\n主体: \\\"O Conselho Star\\\" 品牌 logo，体现智慧女性群体、星形或星光元素、顾问委员会的专业感\\n场景/背景: 纯净背景，适合 logo 呈现\\n光线/氛围: 优雅、高端、赋权\\n色彩方案: 米白色（off-white）搭配金色（gold），以金色为主要点缀\\n材质/纹理: \\n文字(原样): O Conselho Star\\n约束: 适合用于品牌识别、活动物料、数字平台\\n避免: 复杂插画、写实风格、多余装饰元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9421,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "极简主义产品摄影，拍摄对象为一款高端香水瓶。瓶身设计灵感来源于建筑几何美学，整体呈不规则多面体切割造型，玻璃材质透明度极高，内部液体呈淡琥珀色。瓶盖为哑光黑色金属，刻有品牌logo的浮雕纹样。香水瓶置于纯白大理石底座上，背景为渐变的米白色，光线来自左上方的柔和漫射光，在瓶身上形成精致的折射光谱。整体构图居中，留白充足，画面干净克制，色调高冷优雅，充分体现产品的奢侈品质感，适用于高端杂志广告或电商详情页主视觉。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/75585d04-fbe3-4792-a2c4-9fa5dcfcc78b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

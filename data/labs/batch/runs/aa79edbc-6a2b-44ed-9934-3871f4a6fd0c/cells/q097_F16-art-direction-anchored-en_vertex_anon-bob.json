@@ -1,0 +1,23 @@
+{
+  "query_idx": 97,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a minimalist logo icon for a mobile app called \"Spritr\".\n\n风格/媒介: flat design, vector, clean lines, high contrast\n构图: centered composition, icon mark only — no text\n主体:\n  a sleek modern bottle being opened\n  liquid splash forming a subtle flame or energy wave shape\n场景/背景: dark background — black or deep purple\n光线/氛围: trendy, youthful, high-energy nightlife vibe — similar to Tinder-style branding\n色彩方案: dark background (black or deep purple) with neon accents — electric blue, pink, or green\n材质/纹理:\n文字(原样):\n约束: no typography, no text — icon mark only\n避免: realistic textures, gradients, drop shadows, cluttered detail",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acaf3cb7b-253f-4d4a-bbca-d07498f548a2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a minimalist logo icon for a mobile app called \\\"Spritr\\\".\\n\\n风格/媒介: flat design, vector, clean lines, high contrast\\n构图: centered composition, icon mark only — no text\\n主体:\\n  a sleek modern bottle being opened\\n  liquid splash forming a subtle flame or energy wave shape\\n场景/背景: dark background — black or deep purple\\n光线/氛围: trendy, youthful, high-energy nightlife vibe — similar to Tinder-style branding\\n色彩方案: dark background (black or deep purple) with neon accents — electric blue, pink, or green\\n材质/纹理:\\n文字(原样):\\n约束: no typography, no text — icon mark only\\n避免: realistic textures, gradients, drop shadows, cluttered detail\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5781,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 106,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an Amazon white background hero product image — 6-piece fun dog wig set.\n\nStyle/medium: clean Amazon product photo, white background, photorealistic\nComposition:\n  centered product display\n  all 6 dog wigs arranged neatly and visibly\n  one wig shown worn on a cute dog model in the center for scale and context\n  remaining 5 wigs displayed around the dog, flat lay or propped\nSubject:\n  6-piece dog wig costume set\n  variety of wig styles (e.g. colorful, curly, straight, novelty shapes)\n  one cute dog wearing a wig as hero focal point\nScene/backdrop: pure white background, no props, no shadows\nLighting/mood: bright, even, soft studio lighting\nColor palette: white background; wigs in varied fun colors\nMaterials/textures: soft synthetic wig fiber texture visible\nText (verbatim):\nConstraints:\n  pure white (#FFFFFF) background\n  all 6 pieces must be visible\n  1:1 square format\nAvoid: colored backgrounds, busy props, dark shadows, single wig only",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5fc2d16e-2152-40df-b409-e7ceab1117d4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an Amazon white background hero product image — 6-piece fun dog wig set.\\n\\nStyle/medium: clean Amazon product photo, white background, photorealistic\\nComposition:\\n  centered product display\\n  all 6 dog wigs arranged neatly and visibly\\n  one wig shown worn on a cute dog model in the center for scale and context\\n  remaining 5 wigs displayed around the dog, flat lay or propped\\nSubject:\\n  6-piece dog wig costume set\\n  variety of wig styles (e.g. colorful, curly, straight, novelty shapes)\\n  one cute dog wearing a wig as hero focal point\\nScene/backdrop: pure white background, no props, no shadows\\nLighting/mood: bright, even, soft studio lighting\\nColor palette: white background; wigs in varied fun colors\\nMaterials/textures: soft synthetic wig fiber texture visible\\nText (verbatim):\\nConstraints:\\n  pure white (#FFFFFF) background\\n  all 6 pieces must be visible\\n  1:1 square format\\nAvoid: colored backgrounds, busy props, dark shadows, single wig only\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 11122,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

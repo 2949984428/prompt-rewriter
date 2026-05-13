@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing UI mockup for an e-commerce landing page hero section for LUMEA BEAUTY.\n\nStyle/medium: clean, bright, airy, feminine, floral accents with purple flowers\nComposition: hero section with left column for text, center subject with model, right column for product display and stat cards\nSubject: young East Asian woman smiling, touching her cheek, holding a dropper bottle of serum\nScene/backdrop: e-commerce landing page hero section with soft pink and white color palette\nLighting/mood: soft lighting\nColor palette: soft pink and white\nMaterials/textures: \nText (verbatim): \"LUMEA BEAUTY\", \"鏡を見るたび、うるおう透明感。\", \"乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。\", \"敏感肌OK\", \"高保湿\", \"朝晩使える\", \"美容成分をしっかり届ける\", \"ハリ・ツヤのある印象へ\", \"続けやすいシンプルケア\", \"初回限定で試してみる >\", \"成分をチェック >\", \"送料無料 / 初回限定 / 定期縛りなし\", \"満足度 96%\", \"美容成分 5種配合\", \"愛用者 12,000人突破\", \"うるおい\", \"透明感\", \"使いやすさ\"\nConstraints: pill-shaped feature badges, pink checkmarks for bullet points, floating white rounded rectangles with gold accents for stat cards, horizontal white rounded rectangles with icons for benefit cards\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fd061689-1e76-40bd-8831-d7106d061aef/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an original, non-infringing UI mockup for an e-commerce landing page hero section for LUMEA BEAUTY.\\n\\nStyle/medium: clean, bright, airy, feminine, floral accents with purple flowers\\nComposition: hero section with left column for text, center subject with model, right column for product display and stat cards\\nSubject: young East Asian woman smiling, touching her cheek, holding a dropper bottle of serum\\nScene/backdrop: e-commerce landing page hero section with soft pink and white color palette\\nLighting/mood: soft lighting\\nColor palette: soft pink and white\\nMaterials/textures: \\nText (verbatim): \\\"LUMEA BEAUTY\\\", \\\"鏡を見るたび、うるおう透明感。\\\", \\\"乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。\\\", \\\"敏感肌OK\\\", \\\"高保湿\\\", \\\"朝晩使える\\\", \\\"美容成分をしっかり届ける\\\", \\\"ハリ・ツヤのある印象へ\\\", \\\"続けやすいシンプルケア\\\", \\\"初回限定で試してみる >\\\", \\\"成分をチェック >\\\", \\\"送料無料 / 初回限定 / 定期縛りなし\\\", \\\"満足度 96%\\\", \\\"美容成分 5種配合\\\", \\\"愛用者 12,000人突破\\\", \\\"うるおい\\\", \\\"透明感\\\", \\\"使いやすさ\\\"\\nConstraints: pill-shaped feature badges, pink checkmarks for bullet points, floating white rounded rectangles with gold accents for stat cards, horizontal white rounded rectangles with icons for benefit cards\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12789
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an employee ID badge for 字节跳动 (ByteDance), front and back views.\n\nStyle/medium: needs a \"corporate tech badge\" aesthetic — references in the spirit of Apple employee ID minimalism, Google campus badge design language, 2010s Silicon Valley startup ID card conventions; exact stylistic execution is yours\nComposition: must include front and back views of the badge\nSubject: must include the 字节跳动 brand identity elements\nScene/backdrop: \nLighting/mood: needs a photorealistic, authentic badge photography atmosphere — exact lighting setup is yours\nColor palette: \nMaterials/textures: must include realistic plastic/laminate badge material with lanyard attachment\nText (verbatim): \nConstraints: must be photorealistic, must show both front and back sides\nAvoid: cartoonish or illustrated styles",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1f2aeac1-5561-4ad6-a88d-33226070c022/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an employee ID badge for 字节跳动 (ByteDance), front and back views.\\n\\nStyle/medium: needs a \\\"corporate tech badge\\\" aesthetic — references in the spirit of Apple employee ID minimalism, Google campus badge design language, 2010s Silicon Valley startup ID card conventions; exact stylistic execution is yours\\nComposition: must include front and back views of the badge\\nSubject: must include the 字节跳动 brand identity elements\\nScene/backdrop: \\nLighting/mood: needs a photorealistic, authentic badge photography atmosphere — exact lighting setup is yours\\nColor palette: \\nMaterials/textures: must include realistic plastic/laminate badge material with lanyard attachment\\nText (verbatim): \\nConstraints: must be photorealistic, must show both front and back sides\\nAvoid: cartoonish or illustrated styles\", \"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9214
+}

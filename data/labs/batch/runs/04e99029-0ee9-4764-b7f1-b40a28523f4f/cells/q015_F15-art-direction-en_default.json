@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 9:16 vertical screenshot of a Douyin livestream featuring \"神仙姐姐\" (the goddess sister).\n\nStyle/medium: needs a livestream UI aesthetic — exact platform styling and overlay design are yours\nComposition: must be 9:16 vertical format, typical mobile livestream framing with streamer centered\nSubject: must include a female streamer (the \"神仙姐姐\" character) holding a sign\nScene/backdrop: needs a livestream room setting — exact background decor is yours\nLighting/mood: needs a warm, engaging livestream atmosphere — exact light setup is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign she is holding\nConstraints: must preserve 9:16 aspect ratio, must look like an authentic Douyin livestream screenshot\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/367b64a8-b6b3-4af9-8cce-b0663df0ec6a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a 9:16 vertical screenshot of a Douyin livestream featuring \\\"神仙姐姐\\\" (the goddess sister).\\n\\nStyle/medium: needs a livestream UI aesthetic — exact platform styling and overlay design are yours\\nComposition: must be 9:16 vertical format, typical mobile livestream framing with streamer centered\\nSubject: must include a female streamer (the \\\"神仙姐姐\\\" character) holding a sign\\nScene/backdrop: needs a livestream room setting — exact background decor is yours\\nLighting/mood: needs a warm, engaging livestream atmosphere — exact light setup is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign she is holding\\nConstraints: must preserve 9:16 aspect ratio, must look like an authentic Douyin livestream screenshot\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7817
+}

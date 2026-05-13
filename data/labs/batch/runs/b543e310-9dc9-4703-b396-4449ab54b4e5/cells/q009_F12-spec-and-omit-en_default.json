@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for a brand named \"RAN QIU\".\n\nStyle/medium: marketing poster, Eastern aesthetics, minimalist, natural poetic, warm healing\nComposition: ample negative space, shallow depth of field\nSubject: brand logo \"RAN QIU\" with natural elements\nScene/backdrop: warm autumn atmosphere\nLighting/mood: golden hour, warm tones\nColor palette: #8B3A1E, #E8DCCB, #D4A574, warm tones\nMaterials/textures: \nText (verbatim): \"RAN QIU\"\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8973a28b-c983-4191-8b9d-2c21024ee3e3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing marketing poster for a brand named \\\"RAN QIU\\\".\\n\\nStyle/medium: marketing poster, Eastern aesthetics, minimalist, natural poetic, warm healing\\nComposition: ample negative space, shallow depth of field\\nSubject: brand logo \\\"RAN QIU\\\" with natural elements\\nScene/backdrop: warm autumn atmosphere\\nLighting/mood: golden hour, warm tones\\nColor palette: #8B3A1E, #E8DCCB, #D4A574, warm tones\\nMaterials/textures: \\nText (verbatim): \\\"RAN QIU\\\"\\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6719
+}

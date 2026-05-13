@@ -1,0 +1,21 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original UI design system showcase illustration featuring a web Dashboard, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\nComposition: must include multiple UI panels arranged in a layered, hierarchical layout — Dashboard (web), mobile screens, cards, buttons, and controls all visible\nSubject: must include:\n  - Web Dashboard panel\n  - Mobile interface screens\n  - UI cards\n  - Buttons (various states)\n  - Controls / widgets (toggles, sliders, inputs, etc.)\nScene/backdrop: needs a deep dark tech-environment backdrop — exact treatment is yours\nLighting/mood: needs a visually striking, high-tech atmosphere with strong depth and visual hierarchy — exact light source mix is yours\nColor palette: needs a cool-toned tech direction with high contrast and luminous accent highlights — exact hex values and ratios are yours\nMaterials/textures: needs a sleek, glassy or frosted-surface treatment with layered depth — exact sheen and grain are yours\nText (verbatim): \nConstraints: must preserve all five UI component categories (Dashboard / mobile / cards / buttons / controls) as clearly distinguishable elements\nAvoid: flat, dull, low-contrast, or overly generic UI mockup aesthetics",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Af6fbc591-ee2d-4636-8217-82722882da4f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original UI design system showcase illustration featuring a web Dashboard, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\\nComposition: must include multiple UI panels arranged in a layered, hierarchical layout — Dashboard (web), mobile screens, cards, buttons, and controls all visible\\nSubject: must include:\\n  - Web Dashboard panel\\n  - Mobile interface screens\\n  - UI cards\\n  - Buttons (various states)\\n  - Controls / widgets (toggles, sliders, inputs, etc.)\\nScene/backdrop: needs a deep dark tech-environment backdrop — exact treatment is yours\\nLighting/mood: needs a visually striking, high-tech atmosphere with strong depth and visual hierarchy — exact light source mix is yours\\nColor palette: needs a cool-toned tech direction with high contrast and luminous accent highlights — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek, glassy or frosted-surface treatment with layered depth — exact sheen and grain are yours\\nText (verbatim): \\nConstraints: must preserve all five UI component categories (Dashboard / mobile / cards / buttons / controls) as clearly distinguishable elements\\nAvoid: flat, dull, low-contrast, or overly generic UI mockup aesthetics\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9403
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 21,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3×3 character expression grid illustration inspired by the 仙剑奇侠传 character 赵灵儿 IP.\n\nStyle/medium: needs a 3D animation, Pixar-style aesthetic — exact stylistic execution is yours\nComposition: must be a 3×3 grid layout (3 rows × 3 columns, 9 panels total), each panel framed as a character peeking through a torn hole in white paper\nSubject: must include all 9 panels with 赵灵儿-inspired character (young woman with long flowing light-colored hair, ethereal 仙侠 features), each panel showing a distinct expression and action:\n  Top-left: winking, adjusting glasses, green sweater\n  Top-center: smirking, lowering dark sunglasses, red leather jacket\n  Top-right: thinking, finger on chin, yellow hoodie\n  Middle-left: big smile, arms resting on edge, black and white striped shirt\n  Middle-center: smiling, thumbs up, orange button-up shirt\n  Middle-right: neutral, drinking boba tea, blue sweater\n  Bottom-left: happy, waving, purple sweater vest over white shirt\n  Bottom-center: laughing with eyes closed, arms crossed, pink cardigan\n  Bottom-right: silly, poking cheeks, teal sweater\nScene/backdrop: must include torn white paper hole as the framing device for each panel\nLighting/mood: needs a bright, lively, playful atmosphere — exact light source mix is yours\nColor palette: needs a vibrant, varied direction matching each outfit color per panel — exact palette ratios are yours\nMaterials/textures: needs a polished 3D render surface treatment — exact sheen and texture detail is yours\nText (verbatim): \nConstraints: must preserve all 9 panels in correct grid positions; each panel must show a unique expression-action-outfit combination as specified; character must remain visually consistent across all panels\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A30b44126-4b52-4ca1-9f23-6db80250d5d4/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 3×3 character expression grid illustration inspired by the 仙剑奇侠传 character 赵灵儿 IP.\\n\\nStyle/medium: needs a 3D animation, Pixar-style aesthetic — exact stylistic execution is yours\\nComposition: must be a 3×3 grid layout (3 rows × 3 columns, 9 panels total), each panel framed as a character peeking through a torn hole in white paper\\nSubject: must include all 9 panels with 赵灵儿-inspired character (young woman with long flowing light-colored hair, ethereal 仙侠 features), each panel showing a distinct expression and action:\\n  Top-left: winking, adjusting glasses, green sweater\\n  Top-center: smirking, lowering dark sunglasses, red leather jacket\\n  Top-right: thinking, finger on chin, yellow hoodie\\n  Middle-left: big smile, arms resting on edge, black and white striped shirt\\n  Middle-center: smiling, thumbs up, orange button-up shirt\\n  Middle-right: neutral, drinking boba tea, blue sweater\\n  Bottom-left: happy, waving, purple sweater vest over white shirt\\n  Bottom-center: laughing with eyes closed, arms crossed, pink cardigan\\n  Bottom-right: silly, poking cheeks, teal sweater\\nScene/backdrop: must include torn white paper hole as the framing device for each panel\\nLighting/mood: needs a bright, lively, playful atmosphere — exact light source mix is yours\\nColor palette: needs a vibrant, varied direction matching each outfit color per panel — exact palette ratios are yours\\nMaterials/textures: needs a polished 3D render surface treatment — exact sheen and texture detail is yours\\nText (verbatim): \\nConstraints: must preserve all 9 panels in correct grid positions; each panel must show a unique expression-action-outfit combination as specified; character must remain visually consistent across all panels\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10989
+}

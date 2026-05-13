@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original watercolor illustration of a Provence lavender field landscape in a European village.\n\nStyle/medium: transparent watercolor technique, airy brushwork, gentle color blending, editorial illustration style reminiscent of travel magazine covers\nComposition: wide landscape view with foreground, midground and distant hills, eye-level perspective, soft depth of field\nSubject: elderly farmer wearing a straw hat working in lavender field, wooden wheelbarrow filled with lavender bundles nearby\nScene/backdrop: French countryside village outskirts, vast purple lavender fields stretching toward distant hills, winding gravel path through the field, tall cypress trees lining the path, ancient stone mill with orange roof on hillside, bright azure sky with fluffy white clouds\nLighting/mood: bright midday sunlight, cheerful and romantic pastoral atmosphere, warm and healing mood\nColor palette: transparent lavender purple as dominant, azure blue sky, fresh greens, warm orange accents from the mill roof, harmonious and luminous\nMaterials/textures: wet-on-wet watercolor washes, visible paper texture, soft color gradients, delicate brushstrokes\nAvoid: photorealistic rendering, heavy outlines, muddy colors, digital painting textures, 8K stuffer aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5eafc281-131d-4a74-ad30-cd486a13da1c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original watercolor illustration of a Provence lavender field landscape in a European village.\\n\\nStyle/medium: transparent watercolor technique, airy brushwork, gentle color blending, editorial illustration style reminiscent of travel magazine covers\\nComposition: wide landscape view with foreground, midground and distant hills, eye-level perspective, soft depth of field\\nSubject: elderly farmer wearing a straw hat working in lavender field, wooden wheelbarrow filled with lavender bundles nearby\\nScene/backdrop: French countryside village outskirts, vast purple lavender fields stretching toward distant hills, winding gravel path through the field, tall cypress trees lining the path, ancient stone mill with orange roof on hillside, bright azure sky with fluffy white clouds\\nLighting/mood: bright midday sunlight, cheerful and romantic pastoral atmosphere, warm and healing mood\\nColor palette: transparent lavender purple as dominant, azure blue sky, fresh greens, warm orange accents from the mill roof, harmonious and luminous\\nMaterials/textures: wet-on-wet watercolor washes, visible paper texture, soft color gradients, delicate brushstrokes\\nAvoid: photorealistic rendering, heavy outlines, muddy colors, digital painting textures, 8K stuffer aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10172
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a screenshot of a Douyin (TikTok) livestream featuring \"神仙姐姐\" streaming.\n\nStyle/medium: needs a mobile livestream interface aesthetic — exact UI styling is yours\nComposition: must be vertical 9:16 mobile screen format, streamer centered with sign held in hands\nSubject: must include a female streamer (\"神仙姐姐\" persona) holding a sign\nScene/backdrop: must be a typical livestream room interior — exact room styling is yours\nLighting/mood: needs a warm, inviting livestream atmosphere — exact light setup is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign\nConstraints: must preserve 9:16 vertical aspect ratio, must look like a genuine Douyin livestream screenshot\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a5de737b-60f5-4d3c-bb57-3506032bc4fb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate a screenshot of a Douyin (TikTok) livestream featuring \\\"神仙姐姐\\\" streaming.\\n\\nStyle/medium: needs a mobile livestream interface aesthetic — exact UI styling is yours\\nComposition: must be vertical 9:16 mobile screen format, streamer centered with sign held in hands\\nSubject: must include a female streamer (\\\"神仙姐姐\\\" persona) holding a sign\\nScene/backdrop: must be a typical livestream room interior — exact room styling is yours\\nLighting/mood: needs a warm, inviting livestream atmosphere — exact light setup is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign\\nConstraints: must preserve 9:16 vertical aspect ratio, must look like a genuine Douyin livestream screenshot\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8444
+}

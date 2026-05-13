@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-concept-art\nAsset type: concept art for steampunk mechanical device\nPrimary request: intricate steampunk mechanical device with gears, pipes and gauges\nScene/backdrop: isolated studio backdrop to highlight the machinery\nSubject: complex mechanical apparatus featuring interlocking brass gears, copper pipes, pressure gauges, Victorian decorative elements\nStyle/medium: detailed technical illustration, steampunk aesthetic, Victorian industrial design\nComposition/framing: medium close-up, three-quarter view to showcase depth and complexity\nLighting/mood: warm directional lighting from above, dramatic shadows emphasizing metallic textures, nostalgic and sophisticated atmosphere\nColor palette: rich brass gold + aged copper + warm bronze + deep brown leather accents + subtle verdigris patina\nMaterials/textures: polished brass with subtle scratches, hammered copper surfaces, riveted metal plates, ornate Victorian engravings\nConstraints: maintain Victorian-era decorative flourishes alongside industrial functionality\nAvoid: plastic appearance, overly clean surfaces, modern digital UI elements, anachronistic materials",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7824f376-1526-484a-a79d-b384100af104/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-concept-art\\nAsset type: concept art for steampunk mechanical device\\nPrimary request: intricate steampunk mechanical device with gears, pipes and gauges\\nScene/backdrop: isolated studio backdrop to highlight the machinery\\nSubject: complex mechanical apparatus featuring interlocking brass gears, copper pipes, pressure gauges, Victorian decorative elements\\nStyle/medium: detailed technical illustration, steampunk aesthetic, Victorian industrial design\\nComposition/framing: medium close-up, three-quarter view to showcase depth and complexity\\nLighting/mood: warm directional lighting from above, dramatic shadows emphasizing metallic textures, nostalgic and sophisticated atmosphere\\nColor palette: rich brass gold + aged copper + warm bronze + deep brown leather accents + subtle verdigris patina\\nMaterials/textures: polished brass with subtle scratches, hammered copper surfaces, riveted metal plates, ornate Victorian engravings\\nConstraints: maintain Victorian-era decorative flourishes alongside industrial functionality\\nAvoid: plastic appearance, overly clean surfaces, modern digital UI elements, anachronistic materials\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9845
+}

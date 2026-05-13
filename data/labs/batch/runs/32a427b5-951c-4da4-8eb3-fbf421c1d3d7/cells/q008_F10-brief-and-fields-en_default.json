@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for cross-border e-commerce promotion with layered typography and product integration.\n\nStyle/medium: bold graphic design poster, contemporary editorial layout with typographic stacking, inspired by layered magazine covers and promotional campaign aesthetics\nComposition: 16:9 horizontal format, dynamic layered composition with overlapping elements, product or main subject partially obscuring text elements, balanced visual hierarchy\nSubject: cross-border e-commerce promotional messaging with artistic typography, stacked and layered letterforms creating depth, main product or hero element positioned to partially cover selected text\nScene/backdrop: clean but visually rich promotional environment, subtle gradient or textured background that supports without competing\nLighting/mood: even studio lighting with subtle dimension, energetic and commercial mood\nColor palette: vibrant but controlled brand colors with high contrast between text and background, strategic use of accent colors to guide eye flow\nText (verbatim): \"跨境电商促销\"\nConstraints: must maintain readability despite layering; text stacking must serve hierarchy not chaos; 16:9 aspect ratio strictly observed\nAvoid: cluttered random placement; illegible text; generic stock photo aesthetic; watermarks; low contrast color combinations; flat uninspired layouts",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7dd52e1b-9acf-49e8-9d15-e36416f3fcfa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for cross-border e-commerce promotion with layered typography and product integration.\\n\\nStyle/medium: bold graphic design poster, contemporary editorial layout with typographic stacking, inspired by layered magazine covers and promotional campaign aesthetics\\nComposition: 16:9 horizontal format, dynamic layered composition with overlapping elements, product or main subject partially obscuring text elements, balanced visual hierarchy\\nSubject: cross-border e-commerce promotional messaging with artistic typography, stacked and layered letterforms creating depth, main product or hero element positioned to partially cover selected text\\nScene/backdrop: clean but visually rich promotional environment, subtle gradient or textured background that supports without competing\\nLighting/mood: even studio lighting with subtle dimension, energetic and commercial mood\\nColor palette: vibrant but controlled brand colors with high contrast between text and background, strategic use of accent colors to guide eye flow\\nText (verbatim): \\\"跨境电商促销\\\"\\nConstraints: must maintain readability despite layering; text stacking must serve hierarchy not chaos; 16:9 aspect ratio strictly observed\\nAvoid: cluttered random placement; illegible text; generic stock photo aesthetic; watermarks; low contrast color combinations; flat uninspired layouts\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11216
+}

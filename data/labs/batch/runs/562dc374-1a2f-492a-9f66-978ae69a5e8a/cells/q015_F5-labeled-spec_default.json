@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-concept\nAsset type: technical illustration, square crop\nPrimary request: intricate steampunk mechanical device with complex gears, pipes and gauges\nScene/backdrop: Victorian-era workshop environment, brass fittings and copper tubing\nSubject: elaborate mechanical apparatus featuring interlocking brass gears, copper pipes, pressure gauges with ornate dials, steam valves and riveted metal plates\nStyle/medium: detailed technical illustration with Victorian decorative elements, steampunk aesthetic\nComposition/framing: medium shot showing the full assembly, slight angle to reveal depth and complexity\nLighting/mood: warm ambient workshop lighting with brass reflections, nostalgic and industrial atmosphere\nColor palette: warm brass gold + copper orange + aged bronze + dark iron + sepia undertones\nMaterials/textures: polished brass with patina, hammered copper, cast iron, leather gaskets, riveted seams\nConstraints: maintain Victorian-era decorative flourishes and precision engineering details\nAvoid: clean modern plastic, minimalist design, cold sterile lighting, digital glow effects",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/66628f7c-f1a3-4d6c-bd99-a8244f241522/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-concept\\nAsset type: technical illustration, square crop\\nPrimary request: intricate steampunk mechanical device with complex gears, pipes and gauges\\nScene/backdrop: Victorian-era workshop environment, brass fittings and copper tubing\\nSubject: elaborate mechanical apparatus featuring interlocking brass gears, copper pipes, pressure gauges with ornate dials, steam valves and riveted metal plates\\nStyle/medium: detailed technical illustration with Victorian decorative elements, steampunk aesthetic\\nComposition/framing: medium shot showing the full assembly, slight angle to reveal depth and complexity\\nLighting/mood: warm ambient workshop lighting with brass reflections, nostalgic and industrial atmosphere\\nColor palette: warm brass gold + copper orange + aged bronze + dark iron + sepia undertones\\nMaterials/textures: polished brass with patina, hammered copper, cast iron, leather gaskets, riveted seams\\nConstraints: maintain Victorian-era decorative flourishes and precision engineering details\\nAvoid: clean modern plastic, minimalist design, cold sterile lighting, digital glow effects\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9399
+}

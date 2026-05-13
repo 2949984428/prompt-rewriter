@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic explaining the definitions and relationships between AI concepts.\n\nStyle/medium: hand-drawn sketch style, friendly and approachable, whiteboard marker aesthetic, flat illustration with organic linework\nSubject: six interconnected concepts arranged in a visual hierarchy: AI (top level), MCP, AI Agent, OpenClaw, AI Skill, and 蒸馏 (distillation), CLI as supporting tool\nComposition: centered radial or flowchart layout with clear visual pathways showing parent-child and sibling relationships, generous whitespace for readability\nColor palette: soft pastels with one accent color per concept category, limited palette of 4-5 colors for clarity\nText (verbatim): \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must be readable at thumbnail size; icons must clearly represent each concept; relationship arrows must not cross confusingly\nAvoid: photorealistic rendering; 3D effects; complex gradients; tiny unreadable text; cluttered overlapping elements; generic stock icon style",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d25b9b03-d983-4b2b-9b24-3e5e6b9dda86/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing infographic explaining the definitions and relationships between AI concepts.\\n\\nStyle/medium: hand-drawn sketch style, friendly and approachable, whiteboard marker aesthetic, flat illustration with organic linework\\nSubject: six interconnected concepts arranged in a visual hierarchy: AI (top level), MCP, AI Agent, OpenClaw, AI Skill, and 蒸馏 (distillation), CLI as supporting tool\\nComposition: centered radial or flowchart layout with clear visual pathways showing parent-child and sibling relationships, generous whitespace for readability\\nColor palette: soft pastels with one accent color per concept category, limited palette of 4-5 colors for clarity\\nText (verbatim): \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must be readable at thumbnail size; icons must clearly represent each concept; relationship arrows must not cross confusingly\\nAvoid: photorealistic rendering; 3D effects; complex gradients; tiny unreadable text; cluttered overlapping elements; generic stock icon style\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10364
+}

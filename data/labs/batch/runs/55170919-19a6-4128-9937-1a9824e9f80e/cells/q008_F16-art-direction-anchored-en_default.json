@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for cross-border e-commerce promotion (all in-image text in Chinese).\n\nStyle/medium: needs a \"促销海报\" aesthetic with layered typography and visual complexity — references in the spirit of 2010s Tumblr maximalist poster culture, Japanese デザイン誌 (design magazine) cover tradition, contemporary 电商大促 visual language; exact stylistic execution is yours\nComposition: must be 16:9 aspect ratio, must include artistic typography with stacked/layered fonts, must include a product or main subject partially overlapping/obscuring some text, must balance complexity without visual clutter\nSubject: must include a product or promotional subject as the focal element\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must preserve artistic typography treatment, font stacking/layering, 16:9 aspect ratio, product-subject overlapping text effect, complex but non-cluttered composition\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/54f59732-e999-45e5-b797-15286174578e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for cross-border e-commerce promotion (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"促销海报\\\" aesthetic with layered typography and visual complexity — references in the spirit of 2010s Tumblr maximalist poster culture, Japanese デザイン誌 (design magazine) cover tradition, contemporary 电商大促 visual language; exact stylistic execution is yours\\nComposition: must be 16:9 aspect ratio, must include artistic typography with stacked/layered fonts, must include a product or main subject partially overlapping/obscuring some text, must balance complexity without visual clutter\\nSubject: must include a product or promotional subject as the focal element\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must preserve artistic typography treatment, font stacking/layering, 16:9 aspect ratio, product-subject overlapping text effect, complex but non-cluttered composition\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 21231
+}

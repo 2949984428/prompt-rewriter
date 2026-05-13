@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a product shot of tactical military gear including firearms, ballistic vests, and night vision devices arranged in a clean layout.\n\nStyle/medium: photorealistic product photography, military catalog aesthetic, hard surface rendering\nComposition: flat-lay overhead arrangement, symmetrical grid layout, items evenly spaced with precision spacing\nSubject: tactical firearms, ballistic plate carriers, night vision goggles, tactical pouches and accessories\nScene/backdrop: solid dark matte surface, no environmental context, pure studio backdrop\nLighting/mood: cold directional key light from upper left, hard shadows, minimal fill, serious and authoritative atmosphere\nColor palette: muted dark grays and blacks as base, cold blue-white highlights, subtle olive drab accents\nMaterials/textures: matte polymer firearm surfaces, Cordura fabric weave on vests, rubberized NVG housing, metallic magazine finishes\nAvoid: warm tones, soft diffused lighting, cluttered composition, cartoonish rendering, 8K stuffer text",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bd5dd6df-8850-4d14-9333-525fdf25b715/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a product shot of tactical military gear including firearms, ballistic vests, and night vision devices arranged in a clean layout.\\n\\nStyle/medium: photorealistic product photography, military catalog aesthetic, hard surface rendering\\nComposition: flat-lay overhead arrangement, symmetrical grid layout, items evenly spaced with precision spacing\\nSubject: tactical firearms, ballistic plate carriers, night vision goggles, tactical pouches and accessories\\nScene/backdrop: solid dark matte surface, no environmental context, pure studio backdrop\\nLighting/mood: cold directional key light from upper left, hard shadows, minimal fill, serious and authoritative atmosphere\\nColor palette: muted dark grays and blacks as base, cold blue-white highlights, subtle olive drab accents\\nMaterials/textures: matte polymer firearm surfaces, Cordura fabric weave on vests, rubberized NVG housing, metallic magazine finishes\\nAvoid: warm tones, soft diffused lighting, cluttered composition, cartoonish rendering, 8K stuffer text\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9020
+}

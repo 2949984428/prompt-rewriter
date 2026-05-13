@@ -1,0 +1,21 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 小红书-style cover image (vertical, 9-grid compatible) for a 素人 creator post featuring the 大疆 Pocket 4.\n\nStyle/medium: needs a \"素人风格\" 小红书 aesthetic — exact stylistic execution is yours\nComposition: must be a vertical single-frame designed to fit within a 九宫格 layout; central title text prominent in the middle\nSubject: must include the 大疆 Pocket 4 as the featured product, naturally held or displayed by a casual everyday person (素人 vibe)\nScene/backdrop: needs a casual, lifestyle-oriented backdrop — exact setting is yours\nLighting/mood: needs a bright, approachable everyday atmosphere — exact light source mix is yours\nColor palette: needs a fresh, youthful 小红书 direction — exact palette is yours\nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" (large, centered, primary title); font must feel cute and differentiated — exact typeface execution is yours\nConstraints: must preserve 九宫格 vertical format; title text must be clearly legible at center\nAvoid: overly polished commercial photography look; avoid professional studio aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af2dd1403-b203-43b6-8941-80618739df98/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 小红书-style cover image (vertical, 9-grid compatible) for a 素人 creator post featuring the 大疆 Pocket 4.\\n\\nStyle/medium: needs a \\\"素人风格\\\" 小红书 aesthetic — exact stylistic execution is yours\\nComposition: must be a vertical single-frame designed to fit within a 九宫格 layout; central title text prominent in the middle\\nSubject: must include the 大疆 Pocket 4 as the featured product, naturally held or displayed by a casual everyday person (素人 vibe)\\nScene/backdrop: needs a casual, lifestyle-oriented backdrop — exact setting is yours\\nLighting/mood: needs a bright, approachable everyday atmosphere — exact light source mix is yours\\nColor palette: needs a fresh, youthful 小红书 direction — exact palette is yours\\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" (large, centered, primary title); font must feel cute and differentiated — exact typeface execution is yours\\nConstraints: must preserve 九宫格 vertical format; title text must be clearly legible at center\\nAvoid: overly polished commercial photography look; avoid professional studio aesthetic\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11232
+}

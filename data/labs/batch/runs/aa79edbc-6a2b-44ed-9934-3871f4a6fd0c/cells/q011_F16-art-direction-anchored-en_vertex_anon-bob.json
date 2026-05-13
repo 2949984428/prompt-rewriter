@@ -1,0 +1,23 @@
+{
+  "query_idx": 11,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个简洁极简的 logo —— A6 Advisors。\n\n风格/媒介: 极简主义 logo 设计，扁平化，无装饰，高级感\n构图:\n  A 与 6 融合为一个负空间字母组合图标（monogram）\n  图标与字标并排或上下排列\n  比例均衡，结构感强\n主体:\n  核心图标：字母 A 与数字 6 巧妙合并为单一符号，借助负空间实现\n  字标：A6 Advisors，现代无衬线字体\n场景/背景: 白色或透明背景\n光线/氛围: 精准、理性、专业\n色彩方案: 深蓝、炭灰或深海军蓝，单色或双色\n材质/纹理:\n文字(原样): A6 Advisors\n约束:\n  线条细到中等粗细\n  几何形态简洁\n  适配小尺寸使用场景（信头、网站、LinkedIn、演示封面）\n  扁平设计，不使用渐变或阴影\n避免: 繁复装饰、多余元素、写实质感、渐变、阴影",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aba9b7eb0-f651-43a0-9960-5efab2e8c3f5/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个简洁极简的 logo —— A6 Advisors。\\n\\n风格/媒介: 极简主义 logo 设计，扁平化，无装饰，高级感\\n构图:\\n  A 与 6 融合为一个负空间字母组合图标（monogram）\\n  图标与字标并排或上下排列\\n  比例均衡，结构感强\\n主体:\\n  核心图标：字母 A 与数字 6 巧妙合并为单一符号，借助负空间实现\\n  字标：A6 Advisors，现代无衬线字体\\n场景/背景: 白色或透明背景\\n光线/氛围: 精准、理性、专业\\n色彩方案: 深蓝、炭灰或深海军蓝，单色或双色\\n材质/纹理:\\n文字(原样): A6 Advisors\\n约束:\\n  线条细到中等粗细\\n  几何形态简洁\\n  适配小尺寸使用场景（信头、网站、LinkedIn、演示封面）\\n  扁平设计，不使用渐变或阴影\\n避免: 繁复装饰、多余元素、写实质感、渐变、阴影\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10828,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

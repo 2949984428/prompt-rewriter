@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior illustration of a dark Gothic castle (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"暗黑哥特\" aesthetic — references in the spirit of Victorian Gothic Revival architecture illustration, 19th-century Romantic-era castle paintings, Castlevania game environment art; exact stylistic execution is yours\nComposition: must include towering vaulted ceilings as dominant architectural element\nSubject: must include candelabras and iron chain decorations\nScene/backdrop: must be a castle interior with tall vaulted arches\nLighting/mood: needs a mysterious and oppressive atmosphere with heavy shadows — exact light source mix is yours\nColor palette: must include blood-red light filtering through stained glass windows\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9e30dd82-57f3-4c5b-aa18-356c90b336dc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an interior illustration of a dark Gothic castle (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"暗黑哥特\\\" aesthetic — references in the spirit of Victorian Gothic Revival architecture illustration, 19th-century Romantic-era castle paintings, Castlevania game environment art; exact stylistic execution is yours\\nComposition: must include towering vaulted ceilings as dominant architectural element\\nSubject: must include candelabras and iron chain decorations\\nScene/backdrop: must be a castle interior with tall vaulted arches\\nLighting/mood: needs a mysterious and oppressive atmosphere with heavy shadows — exact light source mix is yours\\nColor palette: must include blood-red light filtering through stained glass windows\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15020
+}

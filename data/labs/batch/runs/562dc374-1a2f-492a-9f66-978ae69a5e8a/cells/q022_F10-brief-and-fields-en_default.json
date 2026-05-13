@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a French romantic bedroom scene with a four-poster bed and sheer canopy.\n\nStyle/medium: editorial interior photography, romantic French provincial style, soft editorial aesthetic\nComposition: wide-angle establishing shot from corner of room, 35mm lens, natural depth showing bed as focal point\nSubject: four-poster bed with flowing sheer canopy, vintage vanity table with ornate mirror, scattered rose petals on white linens\nScene/backdrop: Parisian street view visible through tall French windows with wrought iron balconies, morning haze outside\nLighting/mood: soft diffused morning sunlight filtering through sheer curtains, warm golden hour glow, lazy and elegant atmosphere\nColor palette: warm cream and ivory as base, soft blush pink from rose petals, muted sage green accents, warm wood tones\nMaterials/textures: flowing linen canopy fabric, polished antique wood vanity, crisp cotton bedding, delicate silk rose petals\nAvoid: harsh shadows, cluttered composition, modern furniture, neon colors, plastic textures, over-processed HDR look",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f39a0779-3177-48d8-8869-b5d4e06b93e2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a French romantic bedroom scene with a four-poster bed and sheer canopy.\\n\\nStyle/medium: editorial interior photography, romantic French provincial style, soft editorial aesthetic\\nComposition: wide-angle establishing shot from corner of room, 35mm lens, natural depth showing bed as focal point\\nSubject: four-poster bed with flowing sheer canopy, vintage vanity table with ornate mirror, scattered rose petals on white linens\\nScene/backdrop: Parisian street view visible through tall French windows with wrought iron balconies, morning haze outside\\nLighting/mood: soft diffused morning sunlight filtering through sheer curtains, warm golden hour glow, lazy and elegant atmosphere\\nColor palette: warm cream and ivory as base, soft blush pink from rose petals, muted sage green accents, warm wood tones\\nMaterials/textures: flowing linen canopy fabric, polished antique wood vanity, crisp cotton bedding, delicate silk rose petals\\nAvoid: harsh shadows, cluttered composition, modern furniture, neon colors, plastic textures, over-processed HDR look\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10642
+}

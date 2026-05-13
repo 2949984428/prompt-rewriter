@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a sci-fi space scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a sci-fi space aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include an astronaut floating in Earth orbit, spacesuit details clear\nScene/backdrop: must include Earth orbit context, a brilliant galaxy and nebula behind the astronaut, partial space station structure at the image edge\nLighting/mood: needs light from Earth reflection creating a spectacular, awe-inspiring atmosphere — exact light source balance is yours\nColor palette: needs a cosmic direction — exact hue values and saturation are yours\nMaterials/textures: needs detailed spacesuit surface treatment — exact material sheen and texture are yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9df97dd9-9238-42fe-90b3-62e1a3fe659c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a sci-fi space scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a sci-fi space aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include an astronaut floating in Earth orbit, spacesuit details clear\\nScene/backdrop: must include Earth orbit context, a brilliant galaxy and nebula behind the astronaut, partial space station structure at the image edge\\nLighting/mood: needs light from Earth reflection creating a spectacular, awe-inspiring atmosphere — exact light source balance is yours\\nColor palette: needs a cosmic direction — exact hue values and saturation are yours\\nMaterials/textures: needs detailed spacesuit surface treatment — exact material sheen and texture are yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"auto\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12154
+}

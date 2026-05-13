@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "绘制一张超写实风格的珠宝特写，一颗蓝宝石戒指，钻石镶嵌，光线在宝石内部折射出火彩，黑色天鹅绒背景，细节纤毫毕现，尽显华贵",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a3af4966-fd77-4932-8638-53eec9c2d62c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"绘制一张超写实风格的珠宝特写，一颗蓝宝石戒指，钻石镶嵌，光线在宝石内部折射出火彩，黑色天鹅绒背景，细节纤毫毕现，尽显华贵\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 6071
+}

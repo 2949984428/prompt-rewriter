@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for a gaming monitor product launch.\n\nStyle/medium: minimalist, premium aesthetic\nComposition: rule of thirds\nSubject: gaming monitor product showcase with large headline\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \"8k GGU 电竞显示器 1000hz\", \"全球首发全新面板 低延迟 完美色彩\"\nConstraints: large headline text, eye-catching, vertical format for short video cover\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/082e1a50-51b1-49a1-b0cd-9bf344e8e1c5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing marketing poster for a gaming monitor product launch.\\n\\nStyle/medium: minimalist, premium aesthetic\\nComposition: rule of thirds\\nSubject: gaming monitor product showcase with large headline\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\", \\\"全球首发全新面板 低延迟 完美色彩\\\"\\nConstraints: large headline text, eye-catching, vertical format for short video cover\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5937
+}

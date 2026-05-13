@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a technical exploded-view diagram of a Sony A7 camera showing all its components.\n\nStyle/medium: needs a technical illustration aesthetic suitable for educational/instructional use — exact rendering style is yours\nComposition: must be exploded-view layout with all components separated and clearly visible\nSubject: must include all internal and external parts of a Sony A7 camera with their names labeled\nScene/backdrop: needs a clean neutral background — exact backdrop treatment is yours\nLighting/mood: needs a clear, instructional atmosphere — exact lighting setup is yours\nColor palette: \nMaterials/textures: needs a technical diagram surface treatment — exact material rendering is yours\nText (verbatim): must include \"Sony A7\" and all component names in Spanish (sensor, mirrorless mount, shutter mechanism, image processor, battery, SD card slot, viewfinder, LCD screen, dials, buttons, grip, lens mount, etc.)\nConstraints: must preserve technical accuracy of Sony A7 camera anatomy, all major components must be visible and labeled\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b125f2e3-0414-4b04-a018-90e1452e6204/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a technical exploded-view diagram of a Sony A7 camera showing all its components.\\n\\nStyle/medium: needs a technical illustration aesthetic suitable for educational/instructional use — exact rendering style is yours\\nComposition: must be exploded-view layout with all components separated and clearly visible\\nSubject: must include all internal and external parts of a Sony A7 camera with their names labeled\\nScene/backdrop: needs a clean neutral background — exact backdrop treatment is yours\\nLighting/mood: needs a clear, instructional atmosphere — exact lighting setup is yours\\nColor palette: \\nMaterials/textures: needs a technical diagram surface treatment — exact material rendering is yours\\nText (verbatim): must include \\\"Sony A7\\\" and all component names in Spanish (sensor, mirrorless mount, shutter mechanism, image processor, battery, SD card slot, viewfinder, LCD screen, dials, buttons, grip, lens mount, etc.)\\nConstraints: must preserve technical accuracy of Sony A7 camera anatomy, all major components must be visible and labeled\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9562
+}

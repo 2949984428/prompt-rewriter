@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand exposure splash screen for the OPPO Find X9 series.\n\nStyle/medium: needs a premium tech-product aesthetic — exact stylistic execution is yours\nComposition: must be full-screen 9:16 vertical layout optimized for visual impact\nSubject: must include \"OPPO Find X9\" as the hero product/brand focus\nScene/backdrop: \nLighting/mood: needs a high-impact atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"OPPO Find X9\" (brand/product name)\nConstraints: must preserve 1080×1920 aspect ratio, full-screen coverage, brand exposure priority\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/598e76cf-bf2b-46c3-90a7-d7bf217a697d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a brand exposure splash screen for the OPPO Find X9 series.\\n\\nStyle/medium: needs a premium tech-product aesthetic — exact stylistic execution is yours\\nComposition: must be full-screen 9:16 vertical layout optimized for visual impact\\nSubject: must include \\\"OPPO Find X9\\\" as the hero product/brand focus\\nScene/backdrop: \\nLighting/mood: needs a high-impact atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"OPPO Find X9\\\" (brand/product name)\\nConstraints: must preserve 1080×1920 aspect ratio, full-screen coverage, brand exposure priority\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10344
+}

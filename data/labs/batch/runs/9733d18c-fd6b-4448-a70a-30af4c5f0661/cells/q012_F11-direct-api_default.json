@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "人文纪实摄影风格：印度瓦拉纳西恒河边的清晨祈祷仪式。数百名印度教信徒聚集在恒河的石阶河坛上，进行传统的晨祷仪式。画面中心是一位身着橙色僧袍的老祭司，手持铜制油灯，在袅袅烟雾中虔诚地进行祭祀。周围信徒有的浸入河中沐浴，有的双手合十祈祷，有的在河边点燃油灯放入水中。晨曦的金色阳光从地平线升起，将整个场景染成暖金色调。河面上漂浮着无数盛放鲜花的小油灯，倒映在平静的水面上。整体画面充满宗教仪式感和人文温度，构图采用黄金分割，前景虚化的花瓣，中景是主体人物，背景是恒河对岸的轮廓，胶片质感，色彩浓郁。",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ac484b3c-d09a-4af9-99da-72a1a790380f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

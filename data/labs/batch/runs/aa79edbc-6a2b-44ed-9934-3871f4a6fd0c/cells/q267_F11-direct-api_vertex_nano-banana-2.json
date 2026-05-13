@@ -1,0 +1,23 @@
+{
+  "query_idx": 267,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "给我生成一张神兵小将和铠甲勇士联名海报，发布在抖音，9:16，高清",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae1036f2d-047e-4ee1-b216-7d6b3a62be8b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"给我生成一张神兵小将和铠甲勇士联名海报，发布在抖音，9:16，高清\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2905,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

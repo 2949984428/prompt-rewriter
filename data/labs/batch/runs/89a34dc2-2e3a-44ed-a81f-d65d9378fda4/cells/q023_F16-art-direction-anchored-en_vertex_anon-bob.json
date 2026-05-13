@@ -1,0 +1,23 @@
+{
+  "query_idx": 23,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Edit the logo image (reference #1) to look like it is written with soy sauce, referencing the soy sauce writing style from the second reference image (#2).\n\n风格/媒介: soy sauce on surface, top-view angle, photorealistic liquid rendering\n构图: top-down / overhead view, logo text rendered as if drawn/written with soy sauce\n主体: the logo from reference #1, redrawn in soy sauce\n场景/背景: flat surface viewed from directly above\n光线/氛围: even overhead lighting consistent with top-view food photography\n色彩方案: dark brown soy sauce tones\n材质/纹理: liquid soy sauce, wet glossy surface, natural pooling and stroke edges matching reference #2\n文字(原样):\n约束:\n  preserve the original logo letterforms and layout from reference #1\n  soy sauce writing style must match reference #2\n避免: upright or angled perspective; dry or painted look",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5ef5b906-2427-4939-a703-b42fa883ee25/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Edit the logo image (reference #1) to look like it is written with soy sauce, referencing the soy sauce writing style from the second reference image (#2).\\n\\n风格/媒介: soy sauce on surface, top-view angle, photorealistic liquid rendering\\n构图: top-down / overhead view, logo text rendered as if drawn/written with soy sauce\\n主体: the logo from reference #1, redrawn in soy sauce\\n场景/背景: flat surface viewed from directly above\\n光线/氛围: even overhead lighting consistent with top-view food photography\\n色彩方案: dark brown soy sauce tones\\n材质/纹理: liquid soy sauce, wet glossy surface, natural pooling and stroke edges matching reference #2\\n文字(原样):\\n约束:\\n  preserve the original logo letterforms and layout from reference #1\\n  soy sauce writing style must match reference #2\\n避免: upright or angled perspective; dry or painted look\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7253,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

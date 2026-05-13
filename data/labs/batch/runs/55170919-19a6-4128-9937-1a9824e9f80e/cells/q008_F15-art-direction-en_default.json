@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for cross-border e-commerce promotion (all in-image text in Chinese).\n\nStyle/medium: needs an artistic typography aesthetic with layered fonts — exact stylistic execution is yours\nComposition: must be 16:9 aspect ratio, must have products or subjects overlapping and partially obscuring text elements, needs a complex but not cluttered layout\nSubject: must include products or main subjects as focal elements\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must have artistic typography with font stacking; must have products/subjects partially blocking text; must achieve visual complexity without clutter; must be 16:9 ratio\nAvoid: must avoid chaotic or messy composition",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3773ecdf-51e6-4699-bc1f-e9f9495bbe37/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for cross-border e-commerce promotion (all in-image text in Chinese).\\n\\nStyle/medium: needs an artistic typography aesthetic with layered fonts — exact stylistic execution is yours\\nComposition: must be 16:9 aspect ratio, must have products or subjects overlapping and partially obscuring text elements, needs a complex but not cluttered layout\\nSubject: must include products or main subjects as focal elements\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must have artistic typography with font stacking; must have products/subjects partially blocking text; must achieve visual complexity without clutter; must be 16:9 ratio\\nAvoid: must avoid chaotic or messy composition\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15056
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 106,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Amazon product main image (white background) of a 6-piece fun dog wig set.\n\nStyle/medium: clean Amazon white background product photo, photorealistic\nComposition:\n  centered product layout\n  a cute dog wearing one of the colorful wigs, shown clearly\n  remaining 5 wigs displayed neatly around or below the dog\n  lively, not monotonous — slight playful arrangement\nSubject:\n  6-piece dog wig set\n  one wig worn by a small cute dog (e.g. Shih Tzu or similar)\n  5 other wigs displayed as flat lay or propped accessories\n  wigs in various fun colors and styles (e.g. curly, straight, rainbow, bob, etc.)\nScene/backdrop: pure white background\nLighting/mood: bright, even studio lighting, cheerful\nColor palette: white background; wigs in vibrant fun colors\nMaterials/textures: soft synthetic wig fibers, elastic band visible\nText (verbatim): \"6 PCS Dog Wigs Set\"\nConstraints:\n  1:1 square format\n  all 6 pieces visible\n  dog must be wearing one wig\nAvoid: dark backgrounds, shadows, clutter, human hands",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa2be1e5c-a267-432c-bb62-1963e605bfd4/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Amazon product main image (white background) of a 6-piece fun dog wig set.\\n\\nStyle/medium: clean Amazon white background product photo, photorealistic\\nComposition:\\n  centered product layout\\n  a cute dog wearing one of the colorful wigs, shown clearly\\n  remaining 5 wigs displayed neatly around or below the dog\\n  lively, not monotonous — slight playful arrangement\\nSubject:\\n  6-piece dog wig set\\n  one wig worn by a small cute dog (e.g. Shih Tzu or similar)\\n  5 other wigs displayed as flat lay or propped accessories\\n  wigs in various fun colors and styles (e.g. curly, straight, rainbow, bob, etc.)\\nScene/backdrop: pure white background\\nLighting/mood: bright, even studio lighting, cheerful\\nColor palette: white background; wigs in vibrant fun colors\\nMaterials/textures: soft synthetic wig fibers, elastic band visible\\nText (verbatim): \\\"6 PCS Dog Wigs Set\\\"\\nConstraints:\\n  1:1 square format\\n  all 6 pieces visible\\n  dog must be wearing one wig\\nAvoid: dark backgrounds, shadows, clutter, human hands\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10903,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an instructional step-by-step diagram showing how to deploy Hermes inside a Docker container and integrate it with GLMCodingPlan, designed as a clear technical infographic with numbered steps 1-2-3-4.\n\nStyle/medium: clean technical infographic, flat UI illustration style with clear visual hierarchy\nComposition: vertical layout with 4 clearly separated numbered panels stacked top to bottom, each panel containing an icon, a command block, and a short label\nSubject: \n  Step 1 — Pull the Hermes Docker image: terminal window showing `docker pull hermes` command, Docker whale icon\n  Step 2 — Run the Hermes container: terminal showing `docker run -d --name hermes -p 8080:8080 hermes` command, container icon with port arrow\n  Step 3 — Configure GLMCodingPlan integration: config file or environment variable panel showing GLMCodingPlan API endpoint and key fields, plug/link icon\n  Step 4 — Verify connection: terminal or dashboard showing health-check output confirming Hermes + GLMCodingPlan are connected, green checkmark icon\nScene/backdrop: light neutral white background with subtle grid lines suggesting a technical document\nLighting/mood: \nColor palette: neutral white background, Docker blue accent for container steps, green for success/verify step, consistent monochrome code block backgrounds\nMaterials/textures: \nText (verbatim): Step 1、Step 2、Step 3、Step 4 as bold numbered labels on each panel; \"docker pull hermes\"、\"docker run\"、\"GLMCodingPlan\" as code-block text\nConstraints: all 4 steps visible and clearly separated, numbered labels 1 2 3 4 prominent, code snippets legible, consistent icon style across all panels\nAvoid: decorative gradients, photorealistic rendering, artistic flourishes, illegible small text, dark background that reduces readability",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ddea7ea8-d2ab-4881-bb97-5d4d578fc756/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an instructional step-by-step diagram showing how to deploy Hermes inside a Docker container and integrate it with GLMCodingPlan, designed as a clear technical infographic with numbered steps 1-2-3-4.\\n\\nStyle/medium: clean technical infographic, flat UI illustration style with clear visual hierarchy\\nComposition: vertical layout with 4 clearly separated numbered panels stacked top to bottom, each panel containing an icon, a command block, and a short label\\nSubject: \\n  Step 1 — Pull the Hermes Docker image: terminal window showing `docker pull hermes` command, Docker whale icon\\n  Step 2 — Run the Hermes container: terminal showing `docker run -d --name hermes -p 8080:8080 hermes` command, container icon with port arrow\\n  Step 3 — Configure GLMCodingPlan integration: config file or environment variable panel showing GLMCodingPlan API endpoint and key fields, plug/link icon\\n  Step 4 — Verify connection: terminal or dashboard showing health-check output confirming Hermes + GLMCodingPlan are connected, green checkmark icon\\nScene/backdrop: light neutral white background with subtle grid lines suggesting a technical document\\nLighting/mood: \\nColor palette: neutral white background, Docker blue accent for container steps, green for success/verify step, consistent monochrome code block backgrounds\\nMaterials/textures: \\nText (verbatim): Step 1、Step 2、Step 3、Step 4 as bold numbered labels on each panel; \\\"docker pull hermes\\\"、\\\"docker run\\\"、\\\"GLMCodingPlan\\\" as code-block text\\nConstraints: all 4 steps visible and clearly separated, numbered labels 1 2 3 4 prominent, code snippets legible, consistent icon style across all panels\\nAvoid: decorative gradients, photorealistic rendering, artistic flourishes, illegible small text, dark background that reduces readability\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12054
+}

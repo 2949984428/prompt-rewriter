@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a design system UI kit for web Dashboard, mobile interfaces, cards, buttons, and controls (all in-image text in Chinese).\n\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\nComposition: must include web Dashboard layout, mobile interface screens, card components, button variants, and control elements as a cohesive design system\nSubject: must include UI components: Dashboard interface, mobile screens, cards, buttons, form controls\nScene/backdrop: \nLighting/mood: needs a cool futuristic tech atmosphere — exact light treatment is yours\nColor palette: needs a rich layered tech direction — exact color values and ratios are yours\nMaterials/textures: needs a sleek tech surface treatment — exact finishes are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2ba03573-b849-449c-99db-27dc931af145/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a design system UI kit for web Dashboard, mobile interfaces, cards, buttons, and controls (all in-image text in Chinese).\\n\\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\\nComposition: must include web Dashboard layout, mobile interface screens, card components, button variants, and control elements as a cohesive design system\\nSubject: must include UI components: Dashboard interface, mobile screens, cards, buttons, form controls\\nScene/backdrop: \\nLighting/mood: needs a cool futuristic tech atmosphere — exact light treatment is yours\\nColor palette: needs a rich layered tech direction — exact color values and ratios are yours\\nMaterials/textures: needs a sleek tech surface treatment — exact finishes are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8568
+}

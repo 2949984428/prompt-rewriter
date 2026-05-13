@@ -1,0 +1,23 @@
+{
+  "query_idx": 133,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成亚马逊电商展示图——图1模特穿上图2、图3模特身上的泳衣。\n\n风格/媒介: 电商产品图，photorealistic\n构图:\n  一套多张，从不同角度、不同姿势展示泳衣\n  保持同一套图中模特形象的一致性\n主体:\n  模特外貌参考图1（[@image:#1:78941421-ad63-404f-bb8b-f52ddee64733]）\n  泳衣款式参考图2（[@image:#2:藏青 (1)-]）和图3（[@image:#3:藏青 (3)]）\n场景/背景:\n光线/氛围: 模特表情有感染力\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  同一套图中模特脸部、体型保持一致\n  完整呈现泳衣细节\n避免:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A038a35e3-93c4-4a82-8353-7484e320912c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成亚马逊电商展示图——图1模特穿上图2、图3模特身上的泳衣。\\n\\n风格/媒介: 电商产品图，photorealistic\\n构图:\\n  一套多张，从不同角度、不同姿势展示泳衣\\n  保持同一套图中模特形象的一致性\\n主体:\\n  模特外貌参考图1（[@image:#1:78941421-ad63-404f-bb8b-f52ddee64733]）\\n  泳衣款式参考图2（[@image:#2:藏青 (1)-]）和图3（[@image:#3:藏青 (3)]）\\n场景/背景:\\n光线/氛围: 模特表情有感染力\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  同一套图中模特脸部、体型保持一致\\n  完整呈现泳衣细节\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"jpeg\"}",
+  "ms": 6122,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

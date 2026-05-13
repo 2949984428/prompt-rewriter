@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3x3 character expression grid for a young woman inspired by Zhao Ling'er from Chinese Paladin (仙剑奇侠传), reimagined in a modern casual setting.\n\nStyle/medium: 3D animation, Pixar-style character design, soft rounded features, expressive stylized proportions\nComposition: 3x3 grid layout, 9 equal square panels, each panel framed as \"peeking through a torn hole in white paper\" with torn paper edges visible, medium close-up head-and-shoulders framing\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses, consistent facial features and hairstyle across all 9 panels, varied expressions and outfits per panel\nScene/backdrop: plain neutral background behind the torn paper holes, focus entirely on character expressions and paper frame motif\nLighting/mood: soft diffused studio lighting, warm and friendly atmosphere, consistent illumination across all panels\nColor palette: varied outfit colors per panel (green, red, yellow, black/white, orange, blue, purple, pink, teal) against white torn paper and neutral backdrop\nMaterials/textures: smooth Pixar-style skin rendering, fabric texture variation per outfit, crisp torn paper edges with subtle fiber detail\nText (verbatim): \"仙剑奇侠传\"\nConstraints: must maintain character consistency across all 9 panels; hair and glasses must be identical; only expression, outfit, and pose change; grid must be perfectly aligned 3x3\nAvoid: photorealistic rendering, anime style, inconsistent character appearance between panels, missing torn paper frame, gradients on paper, watermark, 8K stuffer words",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d4436f49-9572-4f95-a902-bb984a4db428/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing 3x3 character expression grid for a young woman inspired by Zhao Ling'er from Chinese Paladin (仙剑奇侠传), reimagined in a modern casual setting.\\n\\nStyle/medium: 3D animation, Pixar-style character design, soft rounded features, expressive stylized proportions\\nComposition: 3x3 grid layout, 9 equal square panels, each panel framed as \\\"peeking through a torn hole in white paper\\\" with torn paper edges visible, medium close-up head-and-shoulders framing\\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses, consistent facial features and hairstyle across all 9 panels, varied expressions and outfits per panel\\nScene/backdrop: plain neutral background behind the torn paper holes, focus entirely on character expressions and paper frame motif\\nLighting/mood: soft diffused studio lighting, warm and friendly atmosphere, consistent illumination across all panels\\nColor palette: varied outfit colors per panel (green, red, yellow, black/white, orange, blue, purple, pink, teal) against white torn paper and neutral backdrop\\nMaterials/textures: smooth Pixar-style skin rendering, fabric texture variation per outfit, crisp torn paper edges with subtle fiber detail\\nText (verbatim): \\\"仙剑奇侠传\\\"\\nConstraints: must maintain character consistency across all 9 panels; hair and glasses must be identical; only expression, outfit, and pose change; grid must be perfectly aligned 3x3\\nAvoid: photorealistic rendering, anime style, inconsistent character appearance between panels, missing torn paper frame, gradients on paper, watermark, 8K stuffer words\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12569
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign.\n\nStyle/medium: needs a complex-yet-structured commercial poster aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include layered typographic stacking with artistic lettering; must have a product or hero subject physically overlapping and partially obscuring some of the type layers\nSubject: must include a product or hero subject as the focal element that occludes background type\nScene/backdrop: \nLighting/mood: needs a promotional, high-energy atmosphere — exact light source mix is yours\nColor palette: needs a bold, attention-grabbing direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include artistic lettering (艺术字); must include font/type stacking (字体堆叠) with multiple overlapping text layers; composition must feel visually rich and complex but not chaotic — hierarchy must remain legible; product/subject must overlap at least some type elements\nAvoid: flat or sparse layouts; cluttered illegible chaos",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/57c60d73-b1b0-474b-bd61-7013aad800c2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign.\\n\\nStyle/medium: needs a complex-yet-structured commercial poster aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include layered typographic stacking with artistic lettering; must have a product or hero subject physically overlapping and partially obscuring some of the type layers\\nSubject: must include a product or hero subject as the focal element that occludes background type\\nScene/backdrop: \\nLighting/mood: needs a promotional, high-energy atmosphere — exact light source mix is yours\\nColor palette: needs a bold, attention-grabbing direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include artistic lettering (艺术字); must include font/type stacking (字体堆叠) with multiple overlapping text layers; composition must feel visually rich and complex but not chaotic — hierarchy must remain legible; product/subject must overlap at least some type elements\\nAvoid: flat or sparse layouts; cluttered illegible chaos\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11676
+}

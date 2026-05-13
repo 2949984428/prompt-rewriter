@@ -1,0 +1,23 @@
+{
+  "query_idx": 141,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张亚马逊电商产品详情页。\n\n风格/媒介：电商产品摄影，低饱和莫兰迪色调\n构图：\n  左侧：2个不同角度的粉色脚蹬拉力器产品图\n  右侧：4个圆角方形场景图，从上到下依次为 Home / Gym / Office / Outdoor 场景，每个场景图下方有粉色底条和白色英文标签\n  顶部：粉色加粗标题文字\n主体：粉色脚蹬拉力器，突出产品轻量化质感\n场景/背景：浅粉色纯色背景\n光线/氛围：低角度柔光拍摄\n色彩方案：低饱和莫兰迪色调，以浅粉色为主\n材质/纹理：\n文字(原样)：\n  顶部标题：Lightweight&Portable\n  场景标签：Home、Gym、Office、Outdoor\n约束：\n  28mm 焦距，无畸变\n  右侧场景图为圆角方形\n避免：高饱和色彩、畸变、夸张阴影",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae52a6c7d-3e16-4583-aa66-8eb5226f291e/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张亚马逊电商产品详情页。\\n\\n风格/媒介：电商产品摄影，低饱和莫兰迪色调\\n构图：\\n  左侧：2个不同角度的粉色脚蹬拉力器产品图\\n  右侧：4个圆角方形场景图，从上到下依次为 Home / Gym / Office / Outdoor 场景，每个场景图下方有粉色底条和白色英文标签\\n  顶部：粉色加粗标题文字\\n主体：粉色脚蹬拉力器，突出产品轻量化质感\\n场景/背景：浅粉色纯色背景\\n光线/氛围：低角度柔光拍摄\\n色彩方案：低饱和莫兰迪色调，以浅粉色为主\\n材质/纹理：\\n文字(原样)：\\n  顶部标题：Lightweight&Portable\\n  场景标签：Home、Gym、Office、Outdoor\\n约束：\\n  28mm 焦距，无畸变\\n  右侧场景图为圆角方形\\n避免：高饱和色彩、畸变、夸张阴影\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8732,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

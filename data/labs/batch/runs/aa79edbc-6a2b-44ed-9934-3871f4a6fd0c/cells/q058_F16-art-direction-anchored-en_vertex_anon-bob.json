@@ -1,0 +1,23 @@
+{
+  "query_idx": 58,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计「渡安舟 (ANCHOR HEALTH)」品牌VI手册展示图，包含完整Logo设计与视觉规范呈现。\n\n风格/媒介:\n  极致扁平化（Flat Design），无投影、无浮雕、无渐变、无3D高光\n  老钱风（Old Money）+ 东方典籍权威感\n  治愈、生机、沉稳、中草药底蕴\n\n构图:\n  竖版VI手册版式，分区展示以下内容：\n  第一区：品牌Logo标准竖版组合——上方圆形徽章（青黛圆底 #1B2E17 + 暖金锚形图形 #EAA236）+ 下方居中「渡安舟」中文主标 + 「ANCHOR HEALTH」英文副标，三者共享同一垂直中轴线\n  第二区：标准横版组合——左侧圆形徽章 + 细分隔线 + 右侧「渡安舟」居上、「ANCHOR HEALTH」居下，英文高度不超过中文一半\n  第三区：色彩系统色块展示，标注色名与HEX值\n  第四区：字体排版示例与品牌Slogan\n\n主体:\n  Logo核心图形：纯几何圆形底板 + 居中Anchor（船锚）图形，图形主轴悬空，U型底座外缘收尖，保持透气间隙，禁止填充\n  中文品牌名：渡安舟（思源宋体 Noto Serif SC，Bold/Black，Italic）\n  英文品牌名：ANCHOR HEALTH（全大写，字间距极限拉宽 Tracking +300，Noto Sans SC / Helvetica）\n  中文主标：以食作楫，以安为舟。\n  英文副标：Nourish to Navigate, Anchor in Wellness.\n\n场景/背景:\n  背景大底色使用晨雾白 #F8FAF7\n  各区块卡片底色使用本草暖沙 #EBE7E0\n\n光线/氛围:\n  医疗级洁净空间感，克制权威，无戏剧性光效\n\n色彩方案:\n  草木青黛 #1B2E17（主色，Logo、标题）\n  暖阳金黄 #EAA236（点睛强调，暗底Logo反色、烫金质感）\n  生机嫩绿 #CBE396（徽章底色方案之一，健康生机）\n  本草暖沙 #EBE7E0（卡片底色）\n  晨雾白 #F8FAF7（全局背景）\n\n材质/纹理:\n  扁平无纹理，特种纸质感仅用于暖沙色块的视觉暗示\n\n文字(原样):\n  渡安舟\n  ANCHOR HEALTH\n  以食作楫，以安为舟。\n  Nourish to Navigate, Anchor in Wellness.\n  草木青黛 #1B2E17\n  暖阳金黄 #EAA236\n  生机嫩绿 #CBE396\n  本草暖沙 #EBE7E0\n  晨雾白 #F8FAF7\n\n约束:\n  Logo徽章中Anchor图形不得脱离圆形底板单独出现\n  禁止拉伸、压扁任何图形或字体\n  禁止投影、渐变、浮雕、3D高光\n  标志四周保持至少1X净空区（1X = 悬空主轴宽度）\n  复杂背景区域必须使用纯色底板托底\n\n避免:\n  渐变色、投影、浮雕、3D效果\n  Anchor图形透气间隙被填充\n  英文小写出现在品牌名位置\n  底色与Logo对比度不足的配色组合",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6788559c-8f8a-4cca-972c-94c3a02358d2/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计「渡安舟 (ANCHOR HEALTH)」品牌VI手册展示图，包含完整Logo设计与视觉规范呈现。\\n\\n风格/媒介:\\n  极致扁平化（Flat Design），无投影、无浮雕、无渐变、无3D高光\\n  老钱风（Old Money）+ 东方典籍权威感\\n  治愈、生机、沉稳、中草药底蕴\\n\\n构图:\\n  竖版VI手册版式，分区展示以下内容：\\n  第一区：品牌Logo标准竖版组合——上方圆形徽章（青黛圆底 #1B2E17 + 暖金锚形图形 #EAA236）+ 下方居中「渡安舟」中文主标 + 「ANCHOR HEALTH」英文副标，三者共享同一垂直中轴线\\n  第二区：标准横版组合——左侧圆形徽章 + 细分隔线 + 右侧「渡安舟」居上、「ANCHOR HEALTH」居下，英文高度不超过中文一半\\n  第三区：色彩系统色块展示，标注色名与HEX值\\n  第四区：字体排版示例与品牌Slogan\\n\\n主体:\\n  Logo核心图形：纯几何圆形底板 + 居中Anchor（船锚）图形，图形主轴悬空，U型底座外缘收尖，保持透气间隙，禁止填充\\n  中文品牌名：渡安舟（思源宋体 Noto Serif SC，Bold/Black，Italic）\\n  英文品牌名：ANCHOR HEALTH（全大写，字间距极限拉宽 Tracking +300，Noto Sans SC / Helvetica）\\n  中文主标：以食作楫，以安为舟。\\n  英文副标：Nourish to Navigate, Anchor in Wellness.\\n\\n场景/背景:\\n  背景大底色使用晨雾白 #F8FAF7\\n  各区块卡片底色使用本草暖沙 #EBE7E0\\n\\n光线/氛围:\\n  医疗级洁净空间感，克制权威，无戏剧性光效\\n\\n色彩方案:\\n  草木青黛 #1B2E17（主色，Logo、标题）\\n  暖阳金黄 #EAA236（点睛强调，暗底Logo反色、烫金质感）\\n  生机嫩绿 #CBE396（徽章底色方案之一，健康生机）\\n  本草暖沙 #EBE7E0（卡片底色）\\n  晨雾白 #F8FAF7（全局背景）\\n\\n材质/纹理:\\n  扁平无纹理，特种纸质感仅用于暖沙色块的视觉暗示\\n\\n文字(原样):\\n  渡安舟\\n  ANCHOR HEALTH\\n  以食作楫，以安为舟。\\n  Nourish to Navigate, Anchor in Wellness.\\n  草木青黛 #1B2E17\\n  暖阳金黄 #EAA236\\n  生机嫩绿 #CBE396\\n  本草暖沙 #EBE7E0\\n  晨雾白 #F8FAF7\\n\\n约束:\\n  Logo徽章中Anchor图形不得脱离圆形底板单独出现\\n  禁止拉伸、压扁任何图形或字体\\n  禁止投影、渐变、浮雕、3D高光\\n  标志四周保持至少1X净空区（1X = 悬空主轴宽度）\\n  复杂背景区域必须使用纯色底板托底\\n\\n避免:\\n  渐变色、投影、浮雕、3D效果\\n  Anchor图形透气间隙被填充\\n  英文小写出现在品牌名位置\\n  底色与Logo对比度不足的配色组合\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 24274,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

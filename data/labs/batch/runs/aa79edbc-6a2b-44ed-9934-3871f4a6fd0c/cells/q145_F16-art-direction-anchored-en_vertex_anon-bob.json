@@ -1,0 +1,23 @@
+{
+  "query_idx": 145,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张电商详情页面图。\n\n风格/媒介:高端精致\n构图:电商详情页竖版版式，产品为视觉主体\n主体:用户上传的产品（参考 @image:#1）\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:产品形态与外观须与参考图一致\n避免:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A51d125fa-7717-40c1-b749-881c6db8d9ba/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张电商详情页面图。\\n\\n风格/媒介:高端精致\\n构图:电商详情页竖版版式，产品为视觉主体\\n主体:用户上传的产品（参考 @image:#1）\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:产品形态与外观须与参考图一致\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 4066,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

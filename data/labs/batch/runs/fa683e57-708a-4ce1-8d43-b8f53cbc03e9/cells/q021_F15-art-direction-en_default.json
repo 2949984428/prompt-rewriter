@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an illustration of a dynamic basketball dunk scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 热血动漫 (hot-blooded anime) aesthetic — exact stylistic execution is yours\nComposition: must include dynamic motion blur conveying speed and impact\nSubject: must include a basketball player mid-air performing a slam dunk, sweat droplets flying\nScene/backdrop: must include a basketball court with cheering crowd and camera flashes in background\nLighting/mood: needs a high-energy, passionate atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ea935b58-3f7c-4a1c-8cdd-c1516474d596/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an illustration of a dynamic basketball dunk scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 热血动漫 (hot-blooded anime) aesthetic — exact stylistic execution is yours\\nComposition: must include dynamic motion blur conveying speed and impact\\nSubject: must include a basketball player mid-air performing a slam dunk, sweat droplets flying\\nScene/backdrop: must include a basketball court with cheering crowd and camera flashes in background\\nLighting/mood: needs a high-energy, passionate atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8941
+}

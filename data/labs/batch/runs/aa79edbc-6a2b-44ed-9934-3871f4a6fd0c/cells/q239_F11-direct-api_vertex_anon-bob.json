@@ -1,0 +1,25 @@
+{
+  "query_idx": 239,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "我要做一个关于公司组建旅行出游相关的运营海报，要有大厂运营风格，",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae029c430-4c6b-4840-a9a3-f3d7faa1622b/0.jpg",
+    "/api/image-file/lovart%3Ae029c430-4c6b-4840-a9a3-f3d7faa1622b/1.jpg",
+    "/api/image-file/lovart%3Ae029c430-4c6b-4840-a9a3-f3d7faa1622b/2.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"我要做一个关于公司组建旅行出游相关的运营海报，要有大厂运营风格，\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3273,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

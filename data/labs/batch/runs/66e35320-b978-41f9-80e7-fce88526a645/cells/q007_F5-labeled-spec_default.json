@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: technical exploded-view diagram, educational reference\nPrimary request: detailed exploded-view breakdown of a Sony A7 camera with all internal components labeled by name\nScene/backdrop: clean neutral background (light gray or white), minimal distractions to emphasize technical details\nSubject: Sony A7 full-frame mirrorless camera, fully disassembled into individual components (sensor, shutter mechanism, IBIS unit, processor board, battery compartment, lens mount, dials, buttons, LCD screen, EVF, circuit boards, screws, connectors)\nStyle/medium: technical illustration, isometric exploded view, precise line art with realistic component rendering\nComposition/framing: centered exploded view with components arranged in floating layers showing assembly order, clear spacing between parts\nLighting/mood: even studio lighting, soft shadows beneath each component for depth, clinical and informative atmosphere\nColor palette: metallic grays, blacks, silver accents for camera body; colored labels with leader lines; subtle blue/green for circuit boards\nMaterials/textures: brushed aluminum, matte black plastic, glass elements, copper circuitry, rubber grips, precision mechanical parts\nText (verbatim): \"Sony A7\"\nConstraints: must show all major internal components with clear leader lines connecting to labels; maintain accurate proportions and recognizable Sony A7 form factor\nAvoid: cluttered overlapping parts, illegible tiny text, artistic flourishes, incorrect component shapes, missing key internal elements",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5b7d66d2-4cba-4680-8d40-86ee457d61a6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: infographic-diagram\\nAsset type: technical exploded-view diagram, educational reference\\nPrimary request: detailed exploded-view breakdown of a Sony A7 camera with all internal components labeled by name\\nScene/backdrop: clean neutral background (light gray or white), minimal distractions to emphasize technical details\\nSubject: Sony A7 full-frame mirrorless camera, fully disassembled into individual components (sensor, shutter mechanism, IBIS unit, processor board, battery compartment, lens mount, dials, buttons, LCD screen, EVF, circuit boards, screws, connectors)\\nStyle/medium: technical illustration, isometric exploded view, precise line art with realistic component rendering\\nComposition/framing: centered exploded view with components arranged in floating layers showing assembly order, clear spacing between parts\\nLighting/mood: even studio lighting, soft shadows beneath each component for depth, clinical and informative atmosphere\\nColor palette: metallic grays, blacks, silver accents for camera body; colored labels with leader lines; subtle blue/green for circuit boards\\nMaterials/textures: brushed aluminum, matte black plastic, glass elements, copper circuitry, rubber grips, precision mechanical parts\\nText (verbatim): \\\"Sony A7\\\"\\nConstraints: must show all major internal components with clear leader lines connecting to labels; maintain accurate proportions and recognizable Sony A7 form factor\\nAvoid: cluttered overlapping parts, illegible tiny text, artistic flourishes, incorrect component shapes, missing key internal elements\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13647
+}

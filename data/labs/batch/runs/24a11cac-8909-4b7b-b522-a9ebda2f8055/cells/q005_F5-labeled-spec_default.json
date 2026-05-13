@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic editorial photo, wide landscape\nPrimary request: astronaut floating in Earth orbit, surrounded by the Milky Way and nebulae, with partial space station structure at the frame edge\nScene/backdrop: low Earth orbit, vast deep space background filled with the Milky Way galaxy and colorful nebulae clouds, curvature of Earth visible below\nSubject: astronaut in a detailed spacesuit with clearly visible helmet visor, gloves, suit seams, and mission patches, body gently floating in zero gravity\nStyle/medium: photorealistic space photography, NASA-style editorial\nComposition/framing: wide-angle shot, slight low-angle perspective, astronaut centered with Earth's curvature at bottom and star field filling the background, partial space station truss structure at frame edge\nLighting/mood: primary light source is soft reflected light from Earth (warm blue-white earthshine), subtle rim lighting on spacesuit, awe-inspiring and grand atmosphere\nColor palette: deep black void + luminous blue-white Earth glow + warm gold/orange nebula hues + cold white starlight\nMaterials/textures: realistic spacesuit fabric with layered insulation texture, reflective helmet visor showing Earth reflection, metallic space station structure\nConstraints: astronaut must be the focal subject; space station appears only partially at frame edge; Earth's curvature visible but not dominant\nAvoid: cartoon style, flat illustration, over-saturated unrealistic colors, deformed spacesuit proportions",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/088227f7-8424-4f8a-85fa-10b94affad2c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic editorial photo, wide landscape\\nPrimary request: astronaut floating in Earth orbit, surrounded by the Milky Way and nebulae, with partial space station structure at the frame edge\\nScene/backdrop: low Earth orbit, vast deep space background filled with the Milky Way galaxy and colorful nebulae clouds, curvature of Earth visible below\\nSubject: astronaut in a detailed spacesuit with clearly visible helmet visor, gloves, suit seams, and mission patches, body gently floating in zero gravity\\nStyle/medium: photorealistic space photography, NASA-style editorial\\nComposition/framing: wide-angle shot, slight low-angle perspective, astronaut centered with Earth's curvature at bottom and star field filling the background, partial space station truss structure at frame edge\\nLighting/mood: primary light source is soft reflected light from Earth (warm blue-white earthshine), subtle rim lighting on spacesuit, awe-inspiring and grand atmosphere\\nColor palette: deep black void + luminous blue-white Earth glow + warm gold/orange nebula hues + cold white starlight\\nMaterials/textures: realistic spacesuit fabric with layered insulation texture, reflective helmet visor showing Earth reflection, metallic space station structure\\nConstraints: astronaut must be the focal subject; space station appears only partially at frame edge; Earth's curvature visible but not dominant\\nAvoid: cartoon style, flat illustration, over-saturated unrealistic colors, deformed spacesuit proportions\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10218
+}

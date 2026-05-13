@@ -1,0 +1,23 @@
+{
+  "query_idx": 205,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:电源按钮]  将这个电源按钮，优化成内凹陷的形态，参考[@image:#2: Image]电源按钮效果，颜色不变，再做成阿里巴巴的主图白底图",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6c085c0e-7ec3-443e-af3a-ce0eb3dff679/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:电源按钮]  将这个电源按钮，优化成内凹陷的形态，参考[@image:#2: Image]电源按钮效果，颜色不变，再做成阿里巴巴的主图白底图\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2598,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

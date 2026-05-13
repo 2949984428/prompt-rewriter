@@ -1,0 +1,23 @@
+{
+  "query_idx": 28,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "这是一个护肤品品牌名称，Henyuhielle，请用这个名称做一个品牌logo跟品牌字，整体风格简约经典雅致",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9df5f458-bcc5-42fe-9088-48d06be00ed1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"这是一个护肤品品牌名称，Henyuhielle，请用这个名称做一个品牌logo跟品牌字，整体风格简约经典雅致\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2990,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

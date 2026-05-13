@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a Xiaohongshu (Little Red Book) influencer-style cover featuring the DJI Pocket 4.\n\nStyle/medium: \nComposition: 9-grid layout, vertical cover format\nSubject: DJI Pocket 4 product showcase, influencer aesthetic\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 大强pocket4初体验\nConstraints: cute font style, differentiated typography\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5d83f807-332e-496c-9fc7-8fa1db2b9243/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for a Xiaohongshu (Little Red Book) influencer-style cover featuring the DJI Pocket 4.\\n\\nStyle/medium: \\nComposition: 9-grid layout, vertical cover format\\nSubject: DJI Pocket 4 product showcase, influencer aesthetic\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 大强pocket4初体验\\nConstraints: cute font style, differentiated typography\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5772
+}

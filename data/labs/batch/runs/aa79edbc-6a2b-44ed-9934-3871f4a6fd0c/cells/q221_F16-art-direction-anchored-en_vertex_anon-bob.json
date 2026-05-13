@@ -1,0 +1,23 @@
+{
+  "query_idx": 221,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Edit gambar referensi menjadi thumbnail TikTok/YouTube Shorts yang menarik dan keren.\n\n风格/媒介: desain thumbnail gaming yang bold, keren, dan eye-catching\n构图:\n  rasio 9:16 vertikal (YouTube Shorts / TikTok)\n  layout dinamis dengan teks besar di area yang menonjol\n  elemen visual yang dramatis dan penuh energi\n主体: karakter Franco dengan gameplay epic hook — aksi dramatis dan impactful\n场景/背景: latar belakang yang intens dan keren sesuai tema gaming\n光线/氛围: atmosfer dramatis, intens, penuh energi gaming\n色彩方案:\n材质/纹理:\n文字(原样):\n  judul utama: \"FRANCO EPIC HOOK GAMEPLAY\"\n  tambahkan teks clickbait yang menarik dan keren (contoh: \"INSANE!\", \"NO ESCAPE!\", \"100% SAVAGE\", \"MUST WATCH!\")\n约束:\n  ukuran thumbnail 9:16 (YouTube Shorts / TikTok)\n  teks harus terbaca jelas dan bold\n  pertahankan elemen utama dari gambar referensi\n避免: tampilan membosankan, teks kecil yang sulit dibaca",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A579376b5-b0eb-45ff-b669-0d6e811ecbf3/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Edit gambar referensi menjadi thumbnail TikTok/YouTube Shorts yang menarik dan keren.\\n\\n风格/媒介: desain thumbnail gaming yang bold, keren, dan eye-catching\\n构图:\\n  rasio 9:16 vertikal (YouTube Shorts / TikTok)\\n  layout dinamis dengan teks besar di area yang menonjol\\n  elemen visual yang dramatis dan penuh energi\\n主体: karakter Franco dengan gameplay epic hook — aksi dramatis dan impactful\\n场景/背景: latar belakang yang intens dan keren sesuai tema gaming\\n光线/氛围: atmosfer dramatis, intens, penuh energi gaming\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n  judul utama: \\\"FRANCO EPIC HOOK GAMEPLAY\\\"\\n  tambahkan teks clickbait yang menarik dan keren (contoh: \\\"INSANE!\\\", \\\"NO ESCAPE!\\\", \\\"100% SAVAGE\\\", \\\"MUST WATCH!\\\")\\n约束:\\n  ukuran thumbnail 9:16 (YouTube Shorts / TikTok)\\n  teks harus terbaca jelas dan bold\\n  pertahankan elemen utama dari gambar referensi\\n避免: tampilan membosankan, teks kecil yang sulit dibaca\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 9994,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

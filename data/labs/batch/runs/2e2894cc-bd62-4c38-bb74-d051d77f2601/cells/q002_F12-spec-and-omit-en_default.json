@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo for a Weibo news/hot-topic banner.\n\nStyle/medium: documentary photojournalism, mobile phone candid photography aesthetic\nComposition: wide 16:9 banner, horizontal panoramic, generous negative space for text overlay\nSubject: city skyline at dusk, pedestrians in motion blur, distant skyscrapers reflecting sunset glow\nScene/backdrop: urban cityscape at dusk, neon lights beginning to illuminate, sunset reflections on high-rise buildings\nLighting/mood: dramatic chiaroscuro, strong light-shadow contrast, golden hour transitioning to night\nColor palette: warm sunset tones, neon accents, cool twilight blues\nMaterials/textures: photorealistic, sharp details\nText (verbatim): \"城市里的安静时刻\", \"黄昏，总能治愈一天的匆忙\", \"@龙爪槐守望者real · 生活观察\"\nConstraints: 16:9 aspect ratio, horizontal layout, professional editorial quality, authentic on-site documentary feel\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c29f20be-8063-4adf-b316-59ec29fe82d4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing editorial photo for a Weibo news/hot-topic banner.\\n\\nStyle/medium: documentary photojournalism, mobile phone candid photography aesthetic\\nComposition: wide 16:9 banner, horizontal panoramic, generous negative space for text overlay\\nSubject: city skyline at dusk, pedestrians in motion blur, distant skyscrapers reflecting sunset glow\\nScene/backdrop: urban cityscape at dusk, neon lights beginning to illuminate, sunset reflections on high-rise buildings\\nLighting/mood: dramatic chiaroscuro, strong light-shadow contrast, golden hour transitioning to night\\nColor palette: warm sunset tones, neon accents, cool twilight blues\\nMaterials/textures: photorealistic, sharp details\\nText (verbatim): \\\"城市里的安静时刻\\\", \\\"黄昏，总能治愈一天的匆忙\\\", \\\"@龙爪槐守望者real · 生活观察\\\"\\nConstraints: 16:9 aspect ratio, horizontal layout, professional editorial quality, authentic on-site documentary feel\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10233
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior scene illustration of a French romantic bedroom (all in-image text in Chinese).\n\nStyle/medium: needs a \"法式浪漫\" aesthetic — references in the spirit of 19th-century French Impressionist interior painting tradition, Wes Anderson's pastel-drenched set design sensibility, 1920s Parisian boudoir photography heritage; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a four-poster bed with sheer canopy draping, a vintage vanity dresser, and scattered rose petals\nScene/backdrop: must include a 巴黎 street view visible through the window\nLighting/mood: needs a soft morning light atmosphere — exact light source mix is yours\nColor palette: needs a romantic, warm-soft direction — exact hex values and ratios are yours\nMaterials/textures: needs a delicate, gauzy surface treatment (sheer fabric, aged wood, soft linen) — exact grain / sheen / weight is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bcd754a5-fd20-427c-8801-97d9924360a3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an interior scene illustration of a French romantic bedroom (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"法式浪漫\\\" aesthetic — references in the spirit of 19th-century French Impressionist interior painting tradition, Wes Anderson's pastel-drenched set design sensibility, 1920s Parisian boudoir photography heritage; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a four-poster bed with sheer canopy draping, a vintage vanity dresser, and scattered rose petals\\nScene/backdrop: must include a 巴黎 street view visible through the window\\nLighting/mood: needs a soft morning light atmosphere — exact light source mix is yours\\nColor palette: needs a romantic, warm-soft direction — exact hex values and ratios are yours\\nMaterials/textures: needs a delicate, gauzy surface treatment (sheer fabric, aged wood, soft linen) — exact grain / sheen / weight is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10649
+}

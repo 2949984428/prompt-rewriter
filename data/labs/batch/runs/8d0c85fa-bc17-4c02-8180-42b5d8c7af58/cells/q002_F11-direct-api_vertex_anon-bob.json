@@ -1,0 +1,23 @@
+{
+  "query_idx": 2,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "这是一个毛绒盆栽玩具品牌，我现在完成了logo和辅助图形的部分，尝试排了一个方形排版和一个产品海报，请帮我优化延展这个视觉风格，再帮我根据这个视觉风格生成一套VI应用效果图，效果包含，包装，彩盒外盒设计1\n纸袋设计\n包装内衬纸设计气泡快递袋\n物流运输包装，货架立牌设计\n地贴设计\n徽章\n贴纸\n帆布包[@image:#1:logo][@image:#2:产品宣传海报][@image:#3:方型包装盒][@image:#4:方型排版][@image:#5:排版][@image:#6:资源 4]",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6ad57119-ffa4-46f4-882b-8f6e1c9da68a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"这是一个毛绒盆栽玩具品牌，我现在完成了logo和辅助图形的部分，尝试排了一个方形排版和一个产品海报，请帮我优化延展这个视觉风格，再帮我根据这个视觉风格生成一套VI应用效果图，效果包含，包装，彩盒外盒设计1\\n纸袋设计\\n包装内衬纸设计气泡快递袋\\n物流运输包装，货架立牌设计\\n地贴设计\\n徽章\\n贴纸\\n帆布包[@image:#1:logo][@image:#2:产品宣传海报][@image:#3:方型包装盒][@image:#4:方型排版][@image:#5:排版][@image:#6:资源 4]\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4095,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 267,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张神兵小将与铠甲勇士联名海报。\n\n风格/媒介:联名海报，竖版\n构图:9:16 竖构图，适合抖音发布\n主体:神兵小将与铠甲勇士两大 IP 角色联合出现\n场景/背景:\n光线/氛围:热血、燃、充满动感\n色彩方案:\n材质/纹理:\n文字(原样):神兵小将 × 铠甲勇士\n约束:\n避免:",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9e6416b2-a875-44c9-a105-e7833b4a6709/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张神兵小将与铠甲勇士联名海报。\\n\\n风格/媒介:联名海报，竖版\\n构图:9:16 竖构图，适合抖音发布\\n主体:神兵小将与铠甲勇士两大 IP 角色联合出现\\n场景/背景:\\n光线/氛围:热血、燃、充满动感\\n色彩方案:\\n材质/纹理:\\n文字(原样):神兵小将 × 铠甲勇士\\n约束:\\n避免:\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 35508,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

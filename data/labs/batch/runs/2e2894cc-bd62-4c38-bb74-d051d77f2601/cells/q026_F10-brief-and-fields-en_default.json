@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a domestic Chinese fundraising roadshow PPT cover announcing \"GPT-5.5\" release, featuring speaker Sam Altman.\n\nStyle/medium: Chinese tech startup pitch deck aesthetic, clean corporate presentation design, Tencent/ByteDance investor deck style\nComposition: centered layout with ample white space, headline at top third, speaker name and title at bottom third, balanced for 16:9 presentation slide\nSubject: \"GPT-5.5\" as the hero headline in bold Chinese typography, subtle AI neural network motif as background texture\nScene/backdrop: minimalist gradient background transitioning from deep tech blue to clean white, subtle geometric grid pattern suggesting data/AI\nLighting/mood: soft even studio lighting, professional and confident atmosphere suitable for GP/investor audience\nColor palette: dominant tech blue (#0066FF) as primary, clean white as negative space, gold or orange accent for emphasis points\nText (verbatim): \"GPT-5.5发布\"\nConstraints: must work as PPT cover slide; text must be legible when projected; design must feel trustworthy for institutional investors\nAvoid: 3D renders; cartoon mascots; cluttered layouts; Western Silicon Valley clichés (hoodies, bean bags); generic startup stock photos",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3361e351-d6a5-499d-88b9-9b94aa99efc2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster for a domestic Chinese fundraising roadshow PPT cover announcing \\\"GPT-5.5\\\" release, featuring speaker Sam Altman.\\n\\nStyle/medium: Chinese tech startup pitch deck aesthetic, clean corporate presentation design, Tencent/ByteDance investor deck style\\nComposition: centered layout with ample white space, headline at top third, speaker name and title at bottom third, balanced for 16:9 presentation slide\\nSubject: \\\"GPT-5.5\\\" as the hero headline in bold Chinese typography, subtle AI neural network motif as background texture\\nScene/backdrop: minimalist gradient background transitioning from deep tech blue to clean white, subtle geometric grid pattern suggesting data/AI\\nLighting/mood: soft even studio lighting, professional and confident atmosphere suitable for GP/investor audience\\nColor palette: dominant tech blue (#0066FF) as primary, clean white as negative space, gold or orange accent for emphasis points\\nText (verbatim): \\\"GPT-5.5发布\\\"\\nConstraints: must work as PPT cover slide; text must be legible when projected; design must feel trustworthy for institutional investors\\nAvoid: 3D renders; cartoon mascots; cluttered layouts; Western Silicon Valley clichés (hoodies, bean bags); generic startup stock photos\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12508
+}

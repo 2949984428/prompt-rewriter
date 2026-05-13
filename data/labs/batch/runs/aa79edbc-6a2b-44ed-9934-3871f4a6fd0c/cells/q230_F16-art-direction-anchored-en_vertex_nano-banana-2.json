@@ -1,0 +1,23 @@
+{
+  "query_idx": 230,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张故宫建筑图文笔记，适配小红书平台。\n\n风格/媒介: 图文笔记风格，适合小红书平台\n构图: 3:4 竖版构图，图文结合布局，留出文字区域\n主体: 故宫建筑\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束: 图文笔记排版，适配小红书竖版版式\n避免:",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A03b68a1d-86d3-4c7b-a653-ebe51e4bbccf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张故宫建筑图文笔记，适配小红书平台。\\n\\n风格/媒介: 图文笔记风格，适合小红书平台\\n构图: 3:4 竖版构图，图文结合布局，留出文字区域\\n主体: 故宫建筑\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束: 图文笔记排版，适配小红书竖版版式\\n避免:\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7360,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

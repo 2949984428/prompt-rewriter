@@ -1,0 +1,21 @@
+{
+  "query_idx": 22,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing styled food photography image of fashionable coffee and desserts in a Korean cafe setting, with hand-drawn white-pen annotation overlays — no people.\n\nStyle/medium: needs a Korean-cafe Instagram aesthetic shot on smartphone — exact stylistic execution is yours\nComposition: must include hand-drawn white-pen annotation overlays on each element: outline tracings around objects, arrows and dashed lines as visual guides, steam wisps, sparkle marks, small heart and emoji-like doodles — exact placement and density are yours\nSubject: must include coffee drink(s) and dessert/sweets as focal subjects (no people)\nScene/backdrop: needs a Korean cafe interior or tabletop flat-lay context — exact setting is yours\nLighting/mood: needs a soft, bright, Instagram-story atmosphere — exact light source mix is yours\nColor palette: needs a clean, muted-pastel direction consistent with Korean cafe aesthetics — exact tones are yours\nMaterials/textures: needs a rough, slightly uneven single-stroke white-pen line quality for all annotations — exact line weight and irregularity are yours\nText (verbatim): must include handwritten Japanese annotation text (7割ひらがな・3割かんじ) near each element, short diary-voice comments in the following style:\n  - drink annotation: taste / temperature / mood (e.g. 「やさしい甘さ♡」「ほっこり～」)\n  - food annotation: texture / deliciousness (e.g. 「しっとり最高」「たまらん…」)\n  - space annotation: atmosphere (e.g. 「落ち着く」「いい時間」)\n  - overall caption: one-line summary (e.g. 「幸せすぎた～」)\nConstraints: must preserve annotation white-pen line style (細線・一筆書き風・輪郭なぞり); decorative elements (蒸気・キラキラ・ハート・小さい顔文字) must be moderate — leave visual breathing room / 余白; overall finish must feel Instagram Stories × magazine rough-notes style\nAvoid: people, faces, overly dense or cluttered annotations",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A56f68884-cb70-427d-8369-8b1ff9bd6864/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing styled food photography image of fashionable coffee and desserts in a Korean cafe setting, with hand-drawn white-pen annotation overlays — no people.\\n\\nStyle/medium: needs a Korean-cafe Instagram aesthetic shot on smartphone — exact stylistic execution is yours\\nComposition: must include hand-drawn white-pen annotation overlays on each element: outline tracings around objects, arrows and dashed lines as visual guides, steam wisps, sparkle marks, small heart and emoji-like doodles — exact placement and density are yours\\nSubject: must include coffee drink(s) and dessert/sweets as focal subjects (no people)\\nScene/backdrop: needs a Korean cafe interior or tabletop flat-lay context — exact setting is yours\\nLighting/mood: needs a soft, bright, Instagram-story atmosphere — exact light source mix is yours\\nColor palette: needs a clean, muted-pastel direction consistent with Korean cafe aesthetics — exact tones are yours\\nMaterials/textures: needs a rough, slightly uneven single-stroke white-pen line quality for all annotations — exact line weight and irregularity are yours\\nText (verbatim): must include handwritten Japanese annotation text (7割ひらがな・3割かんじ) near each element, short diary-voice comments in the following style:\\n  - drink annotation: taste / temperature / mood (e.g. 「やさしい甘さ♡」「ほっこり～」)\\n  - food annotation: texture / deliciousness (e.g. 「しっとり最高」「たまらん…」)\\n  - space annotation: atmosphere (e.g. 「落ち着く」「いい時間」)\\n  - overall caption: one-line summary (e.g. 「幸せすぎた～」)\\nConstraints: must preserve annotation white-pen line style (細線・一筆書き風・輪郭なぞり); decorative elements (蒸気・キラキラ・ハート・小さい顔文字) must be moderate — leave visual breathing room / 余白; overall finish must feel Instagram Stories × magazine rough-notes style\\nAvoid: people, faces, overly dense or cluttered annotations\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15332
+}

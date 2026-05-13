@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing cover image for Xiaohongshu (Little Red Book) featuring bubble tea.\n\nStyle/medium: needs a \"pink girly\" aesthetic — exact stylistic interpretation is yours\nComposition: \nSubject: must include bubble tea (milk tea with tapioca pearls)\nScene/backdrop: \nLighting/mood: needs a \"summer cool\" refreshing atmosphere — exact light source mix is yours\nColor palette: needs a pink direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must be suitable for Xiaohongshu cover format\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2e73cde1-a9db-4e41-9a1e-c83b58e162b5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing cover image for Xiaohongshu (Little Red Book) featuring bubble tea.\\n\\nStyle/medium: needs a \\\"pink girly\\\" aesthetic — exact stylistic interpretation is yours\\nComposition: \\nSubject: must include bubble tea (milk tea with tapioca pearls)\\nScene/backdrop: \\nLighting/mood: needs a \\\"summer cool\\\" refreshing atmosphere — exact light source mix is yours\\nColor palette: needs a pink direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must be suitable for Xiaohongshu cover format\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7013
+}

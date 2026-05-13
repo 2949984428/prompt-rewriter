@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing UI design system mockup showcasing a web Dashboard, mobile interface, cards, buttons, and controls in a classic minimal tech style.\n\nStyle/medium: UI design system sheet, classic minimal tech aesthetic, dark-mode flat illustration with sharp geometric precision\nComposition: multi-panel layout — web Dashboard panel (top, wide), mobile interface panel (mid-left), component library panel (mid-right) showing cards / buttons / toggles / sliders / input fields, all panels arranged on a deep dark canvas with subtle grid\nSubject: web Dashboard with data charts, KPI cards, nav sidebar; mobile interface with app screens; component library with buttons (primary / secondary / ghost), cards (elevated with glow border), toggles, sliders, badges, input controls\nScene/backdrop: deep dark background (#0A0C10 range), subtle dot-grid or fine-line grid overlay, floating panel depth via layered shadows\nLighting/mood: cool blue and cyan accent glow on interactive elements, high contrast between dark surface and bright UI components, layered depth with soft neon rim lighting on cards\nColor palette: deep charcoal / near-black base, electric blue (#00AAFF range) and cyan (#00FFD1 range) as primary accents, white and light-gray typography, occasional purple accent for secondary highlights\nMaterials/textures: frosted glass cards (glassmorphism panels), sharp-edge flat buttons, fine hairline dividers, subtle gradient fills on chart bars\nText (verbatim): \nConstraints: all UI components must be clearly legible and visually distinct; hierarchy must read from Dashboard → mobile → component detail; tech aesthetic must feel premium not garish\nAvoid: cartoon or illustrative style, warm color palette, cluttered layout, generic flat-design without depth, oversaturated rainbow colors",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/af4c6e57-5f04-4a4c-8f0f-3b32479f18d8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing UI design system mockup showcasing a web Dashboard, mobile interface, cards, buttons, and controls in a classic minimal tech style.\\n\\nStyle/medium: UI design system sheet, classic minimal tech aesthetic, dark-mode flat illustration with sharp geometric precision\\nComposition: multi-panel layout — web Dashboard panel (top, wide), mobile interface panel (mid-left), component library panel (mid-right) showing cards / buttons / toggles / sliders / input fields, all panels arranged on a deep dark canvas with subtle grid\\nSubject: web Dashboard with data charts, KPI cards, nav sidebar; mobile interface with app screens; component library with buttons (primary / secondary / ghost), cards (elevated with glow border), toggles, sliders, badges, input controls\\nScene/backdrop: deep dark background (#0A0C10 range), subtle dot-grid or fine-line grid overlay, floating panel depth via layered shadows\\nLighting/mood: cool blue and cyan accent glow on interactive elements, high contrast between dark surface and bright UI components, layered depth with soft neon rim lighting on cards\\nColor palette: deep charcoal / near-black base, electric blue (#00AAFF range) and cyan (#00FFD1 range) as primary accents, white and light-gray typography, occasional purple accent for secondary highlights\\nMaterials/textures: frosted glass cards (glassmorphism panels), sharp-edge flat buttons, fine hairline dividers, subtle gradient fills on chart bars\\nText (verbatim): \\nConstraints: all UI components must be clearly legible and visually distinct; hierarchy must read from Dashboard → mobile → component detail; tech aesthetic must feel premium not garish\\nAvoid: cartoon or illustrative style, warm color palette, cluttered layout, generic flat-design without depth, oversaturated rainbow colors\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13993
+}

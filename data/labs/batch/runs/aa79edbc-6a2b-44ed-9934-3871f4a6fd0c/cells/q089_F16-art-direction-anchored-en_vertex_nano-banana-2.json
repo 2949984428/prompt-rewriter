@@ -1,0 +1,23 @@
+{
+  "query_idx": 89,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计 Logo —— CAP TICK 宠物爱心收容所品牌标志。\n\n风格/媒介: 简约、有创意、有设计感的品牌 Logo，矢量平面风格\n构图:\n  10 个版本之一\n  偏图形标志方向，图形与文字组合\n主体: CAP TICK 宠物爱心收容所 Logo\n场景/背景: 纯净背景，突出标志本体\n光线/氛围:\n色彩方案:\n材质/纹理: 矢量平面，无纹理\n文字(原样): CAP TICK\n约束: 宠物行业，爱心收容所定位，品牌简约风格\n避免: 复杂装饰、写实插画、堆砌元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 10,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Afcc157ce-326a-416e-84fd-4450eb71779c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计 Logo —— CAP TICK 宠物爱心收容所品牌标志。\\n\\n风格/媒介: 简约、有创意、有设计感的品牌 Logo，矢量平面风格\\n构图:\\n  10 个版本之一\\n  偏图形标志方向，图形与文字组合\\n主体: CAP TICK 宠物爱心收容所 Logo\\n场景/背景: 纯净背景，突出标志本体\\n光线/氛围:\\n色彩方案:\\n材质/纹理: 矢量平面，无纹理\\n文字(原样): CAP TICK\\n约束: 宠物行业，爱心收容所定位，品牌简约风格\\n避免: 复杂装饰、写实插画、堆砌元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 10, \"output_format\": \"png\"}",
+  "ms": 7469,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

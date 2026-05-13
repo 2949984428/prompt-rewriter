@@ -1,0 +1,21 @@
+{
+  "query_idx": 19,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\n\nStyle/medium: needs a tech-brand e-commerce campaign aesthetic — exact stylistic execution is yours\nComposition: needs a bold, hierarchy-driven layout suited for an e-commerce banner — exact framing is yours\nSubject: must include 绿联私有云 as the hero brand and the 618 anniversary sale as the campaign theme\nScene/backdrop: needs a festive tech-brand campaign backdrop — exact environment is yours\nLighting/mood: needs an energetic, celebratory atmosphere — exact light treatment is yours\nColor palette: needs a direction aligned with 绿联 brand identity (green-toned) with festive 618 energy — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"绿联私有云\" (brand name), \"618\" (large, hero), \"周年庆\" (supporting)\nConstraints: must be formatted as a vertical e-commerce poster\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A3c7f9ec0-43a4-476e-8592-ec33d4c27a27/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\\n\\nStyle/medium: needs a tech-brand e-commerce campaign aesthetic — exact stylistic execution is yours\\nComposition: needs a bold, hierarchy-driven layout suited for an e-commerce banner — exact framing is yours\\nSubject: must include 绿联私有云 as the hero brand and the 618 anniversary sale as the campaign theme\\nScene/backdrop: needs a festive tech-brand campaign backdrop — exact environment is yours\\nLighting/mood: needs an energetic, celebratory atmosphere — exact light treatment is yours\\nColor palette: needs a direction aligned with 绿联 brand identity (green-toned) with festive 618 energy — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"绿联私有云\\\" (brand name), \\\"618\\\" (large, hero), \\\"周年庆\\\" (supporting)\\nConstraints: must be formatted as a vertical e-commerce poster\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6437
+}

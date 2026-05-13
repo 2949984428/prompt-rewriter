@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: corporate ID badge mockup, front and back views\nPrimary request: realistic employee ID card for 字节期动 (ByteDance-style tech company), showing both front and back sides\nScene/backdrop: clean white or light gray studio surface with soft shadows\nSubject: plastic employee badge with lanyard hole, photo placeholder, company logo area, name field, employee ID number, department info on front; magnetic stripe or QR code, terms of use, emergency contact on back\nStyle/medium: photorealistic product photography, corporate stationery\nComposition/framing: top-down flat lay showing front card on left, back card on right, slight overlap or separated\nLighting/mood: soft diffused studio lighting, professional and clean\nColor palette: white card base, blue accent (tech corporate), black text, subtle gray details\nMaterials/textures: matte laminated PVC plastic, slight gloss on photo area, realistic lanyard fabric texture\nText (verbatim): \"字节期动\"\nConstraints: must show both front and back sides clearly, realistic plastic card thickness and edge detail\nAvoid: cartoon style, low-res textures, warped perspective, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/961dceb5-6908-4b7d-ace8-8312e662c8f1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: corporate ID badge mockup, front and back views\\nPrimary request: realistic employee ID card for 字节期动 (ByteDance-style tech company), showing both front and back sides\\nScene/backdrop: clean white or light gray studio surface with soft shadows\\nSubject: plastic employee badge with lanyard hole, photo placeholder, company logo area, name field, employee ID number, department info on front; magnetic stripe or QR code, terms of use, emergency contact on back\\nStyle/medium: photorealistic product photography, corporate stationery\\nComposition/framing: top-down flat lay showing front card on left, back card on right, slight overlap or separated\\nLighting/mood: soft diffused studio lighting, professional and clean\\nColor palette: white card base, blue accent (tech corporate), black text, subtle gray details\\nMaterials/textures: matte laminated PVC plastic, slight gloss on photo area, realistic lanyard fabric texture\\nText (verbatim): \\\"字节期动\\\"\\nConstraints: must show both front and back sides clearly, realistic plastic card thickness and edge detail\\nAvoid: cartoon style, low-res textures, warped perspective, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10417
+}

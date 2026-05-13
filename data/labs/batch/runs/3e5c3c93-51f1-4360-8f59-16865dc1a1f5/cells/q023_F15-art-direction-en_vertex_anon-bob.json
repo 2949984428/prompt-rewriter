@@ -1,0 +1,21 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing single-panel educational knowledge card for children about the 赤壁之战 (Battle of Red Cliffs) from 三国.\n\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\nComposition: must be a single large knowledge-card layout with a clear title at top, bullet-point key facts listed on the side, and a cartoon story scene as the main visual body\nSubject: must include the 赤壁之战 narrative: key figures (曹操, 刘备, 孙权, 周瑜, 诸葛亮), the fire attack on 曹操's fleet, the 长江 river battle setting\nScene/backdrop: must include the 长江 river with warships engulfed in flames as the central story scene\nLighting/mood: needs a dramatic yet child-friendly warm atmosphere — exact light and mood treatment is yours\nColor palette: needs a vivid, child-friendly bright direction — exact color choices are yours\nMaterials/textures: needs a cartoon illustration surface feel — exact line weight and texture are yours\nText (verbatim): must include title \"赤壁之战\", side bullet points listing key story beats (人物 / 起因 / 经过 / 结果), labels for major characters\nConstraints: must preserve child-appropriate tone throughout; all story elements and bullet points must be clearly readable; card layout must feel like a single cohesive infographic\nAvoid: ",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8d57d940-e609-46a9-b4d5-1b13c03d2c1b/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-02-img2-west-us3.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing single-panel educational knowledge card for children about the 赤壁之战 (Battle of Red Cliffs) from 三国.\\n\\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\\nComposition: must be a single large knowledge-card layout with a clear title at top, bullet-point key facts listed on the side, and a cartoon story scene as the main visual body\\nSubject: must include the 赤壁之战 narrative: key figures (曹操, 刘备, 孙权, 周瑜, 诸葛亮), the fire attack on 曹操's fleet, the 长江 river battle setting\\nScene/backdrop: must include the 长江 river with warships engulfed in flames as the central story scene\\nLighting/mood: needs a dramatic yet child-friendly warm atmosphere — exact light and mood treatment is yours\\nColor palette: needs a vivid, child-friendly bright direction — exact color choices are yours\\nMaterials/textures: needs a cartoon illustration surface feel — exact line weight and texture are yours\\nText (verbatim): must include title \\\"赤壁之战\\\", side bullet points listing key story beats (人物 / 起因 / 经过 / 结果), labels for major characters\\nConstraints: must preserve child-appropriate tone throughout; all story elements and bullet points must be clearly readable; card layout must feel like a single cohesive infographic\\nAvoid: \", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9776
+}

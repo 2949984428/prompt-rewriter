@@ -1,0 +1,23 @@
+{
+  "query_idx": 45,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:ChatGPT Image 2026年4月25日 22_32_19] logo创建品牌视觉识别系统手册，钻石银饰行业，中文版本，16:9比例。内容需要丰富一些，请先给我大纲，核心颜色用黑色，辅助品牌色用香槟金",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa08f6ff4-b004-4706-9240-2d7bf4ddb516/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:ChatGPT Image 2026年4月25日 22_32_19] logo创建品牌视觉识别系统手册，钻石银饰行业，中文版本，16:9比例。内容需要丰富一些，请先给我大纲，核心颜色用黑色，辅助品牌色用香槟金\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3244,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

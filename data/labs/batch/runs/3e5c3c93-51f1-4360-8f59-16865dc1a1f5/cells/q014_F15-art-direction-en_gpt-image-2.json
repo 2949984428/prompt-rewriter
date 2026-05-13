@@ -1,0 +1,21 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original UI design system showcase illustration featuring a web Dashboard, mobile interface, cards, buttons, and controls.\n\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\nComposition: must include multiple UI layers: web Dashboard panel, mobile interface frame, card components, button sets, and control widgets arranged in a visually hierarchical layout\nSubject: must include all UI components:\n  Dashboard: web Dashboard layout with data visualizations\n  Mobile: mobile interface screen\n  Components: cards / buttons / controls / widgets\nScene/backdrop: needs a deep-tech dark environment — exact backdrop treatment is yours\nLighting/mood: needs a high-tech, visually striking atmosphere with strong depth and layering — exact light source mix is yours\nColor palette: needs a cool-toned tech direction — exact accent colors and gradients are yours\nMaterials/textures: needs a sleek, glassy, high-contrast surface treatment — exact sheen and depth are yours\nText (verbatim): \nConstraints: must preserve clear visual hierarchy across all UI layers; all components must be legible and distinct\nAvoid: flat, dull, low-contrast, or cluttered layouts",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Aedc498b3-afe5-474d-bc2c-194675e559fc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original UI design system showcase illustration featuring a web Dashboard, mobile interface, cards, buttons, and controls.\\n\\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\\nComposition: must include multiple UI layers: web Dashboard panel, mobile interface frame, card components, button sets, and control widgets arranged in a visually hierarchical layout\\nSubject: must include all UI components:\\n  Dashboard: web Dashboard layout with data visualizations\\n  Mobile: mobile interface screen\\n  Components: cards / buttons / controls / widgets\\nScene/backdrop: needs a deep-tech dark environment — exact backdrop treatment is yours\\nLighting/mood: needs a high-tech, visually striking atmosphere with strong depth and layering — exact light source mix is yours\\nColor palette: needs a cool-toned tech direction — exact accent colors and gradients are yours\\nMaterials/textures: needs a sleek, glassy, high-contrast surface treatment — exact sheen and depth are yours\\nText (verbatim): \\nConstraints: must preserve clear visual hierarchy across all UI layers; all components must be legible and distinct\\nAvoid: flat, dull, low-contrast, or cluttered layouts\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8849
+}

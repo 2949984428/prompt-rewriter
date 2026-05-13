@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a tri-fold travel brochure for a 4-day, 3-night Hangzhou self-guided itinerary.\n\nStyle/medium: needs a \"travel-attack-card\" aesthetic — references in the spirit of Japanese 攻略本 (strategy-guide print tradition), Lonely Planet illustrated city brochures, 1990s Hong Kong tourism foldouts; exact stylistic execution is yours\nComposition: must be tri-fold layout with real Hangzhou map as central spine, 4 day-panels divided clearly\nSubject: must include all 28 spots across 4 day-panels:\n  Day 1: 断桥残雪 / 白堤 / 孤山 / 曲院风荷 / 苏堤春晓 / 花港观鱼 / 雷峰塔 / 柳浪闻莺\n  Day 2: 灵隐寺 / 飞来峰 / 法喜寺 / 宋城\n  Day 3: 九溪十八涧 / 龙井村 / 十里琅珰 / 云栖竹径\n  Day 4: 拱宸桥 / 桥西历史街区 / 小河直街 / 大兜路 / 香积寺 / 西溪湿地 / 周家村 / 深潭口\nScene/backdrop: must be a real Hangzhou map base with all routes connecting day-panels\nLighting/mood: \nColor palette: \nMaterials/textures: must include paper cardstock cutouts with floating shadow under each landmark\nText (verbatim): must include itinerary copy on each panel — 景点名 / 路线 / 餐厅 / 价格 / 交通 / 住宿 as specified in query\nConstraints: must preserve real geographic accuracy of Hangzhou, 4 day-panels visible, all景点 preserved, tri-fold structure\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6557339b-a5b3-493b-838f-1b5995b925df/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a tri-fold travel brochure for a 4-day, 3-night Hangzhou self-guided itinerary.\\n\\nStyle/medium: needs a \\\"travel-attack-card\\\" aesthetic — references in the spirit of Japanese 攻略本 (strategy-guide print tradition), Lonely Planet illustrated city brochures, 1990s Hong Kong tourism foldouts; exact stylistic execution is yours\\nComposition: must be tri-fold layout with real Hangzhou map as central spine, 4 day-panels divided clearly\\nSubject: must include all 28 spots across 4 day-panels:\\n  Day 1: 断桥残雪 / 白堤 / 孤山 / 曲院风荷 / 苏堤春晓 / 花港观鱼 / 雷峰塔 / 柳浪闻莺\\n  Day 2: 灵隐寺 / 飞来峰 / 法喜寺 / 宋城\\n  Day 3: 九溪十八涧 / 龙井村 / 十里琅珰 / 云栖竹径\\n  Day 4: 拱宸桥 / 桥西历史街区 / 小河直街 / 大兜路 / 香积寺 / 西溪湿地 / 周家村 / 深潭口\\nScene/backdrop: must be a real Hangzhou map base with all routes connecting day-panels\\nLighting/mood: \\nColor palette: \\nMaterials/textures: must include paper cardstock cutouts with floating shadow under each landmark\\nText (verbatim): must include itinerary copy on each panel — 景点名 / 路线 / 餐厅 / 价格 / 交通 / 住宿 as specified in query\\nConstraints: must preserve real geographic accuracy of Hangzhou, 4 day-panels visible, all景点 preserved, tri-fold structure\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 25780
+}

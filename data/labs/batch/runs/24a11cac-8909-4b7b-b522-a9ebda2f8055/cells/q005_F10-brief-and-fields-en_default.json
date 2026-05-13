@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of an astronaut floating in Earth orbit, with a vivid Milky Way and nebula behind, a space station structure at the frame edge.\n\nStyle/medium: photorealistic space photography, large-format editorial in the spirit of NASA EVA documentation meets fine-art astrophotography\nComposition: wide-angle shot, astronaut centered in mid-frame, space station structure cropped at left/right edge, deep-space backdrop filling the upper two-thirds\nSubject: astronaut in a detailed EVA spacesuit — visible helmet visor reflection, suit fabric texture, tether cables, glove stitching — floating weightlessly above Earth's curved horizon\nScene/backdrop: low Earth orbit; below, the illuminated curvature of Earth with cloud swirls and ocean; behind, a sweeping Milky Way core and colorful nebula clouds in deep space\nLighting/mood: primary light source is Earthshine — soft, cool-blue reflected light wrapping the spacesuit from below — with the deep void of space creating strong contrast; awe-inspiring and vast\nColor palette: deep black of space as dominant field, electric blue and white Earthshine as key light, warm amber and violet nebula hues as accent, metallic silver-white spacesuit surface\nMaterials/textures: matte multi-layer spacesuit fabric with visible seams and patches, polished helmet visor with Earth reflection, worn metal fittings on station structure at edge\nAvoid: cartoon or CGI-plastic suit look, lens flare overload, fake star streaks, over-saturated neon nebula, watermark, stuffer aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9b0f9b9a-96e5-4c86-92bb-28ce81a2afbf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of an astronaut floating in Earth orbit, with a vivid Milky Way and nebula behind, a space station structure at the frame edge.\\n\\nStyle/medium: photorealistic space photography, large-format editorial in the spirit of NASA EVA documentation meets fine-art astrophotography\\nComposition: wide-angle shot, astronaut centered in mid-frame, space station structure cropped at left/right edge, deep-space backdrop filling the upper two-thirds\\nSubject: astronaut in a detailed EVA spacesuit — visible helmet visor reflection, suit fabric texture, tether cables, glove stitching — floating weightlessly above Earth's curved horizon\\nScene/backdrop: low Earth orbit; below, the illuminated curvature of Earth with cloud swirls and ocean; behind, a sweeping Milky Way core and colorful nebula clouds in deep space\\nLighting/mood: primary light source is Earthshine — soft, cool-blue reflected light wrapping the spacesuit from below — with the deep void of space creating strong contrast; awe-inspiring and vast\\nColor palette: deep black of space as dominant field, electric blue and white Earthshine as key light, warm amber and violet nebula hues as accent, metallic silver-white spacesuit surface\\nMaterials/textures: matte multi-layer spacesuit fabric with visible seams and patches, polished helmet visor with Earth reflection, worn metal fittings on station structure at edge\\nAvoid: cartoon or CGI-plastic suit look, lens flare overload, fake star streaks, over-saturated neon nebula, watermark, stuffer aesthetic\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12461
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing brand style guide sheet for 染秋 (RAN QIU), an autumn fragrance brand rooted in Eastern philosophy and traditional Chinese dyeing aesthetics.\n\nStyle/medium: flat graphic design, brand style guide / color & typography spec sheet\nComposition: structured layout showing primary color swatches, secondary color swatches, and typeface specimens side by side\nSubject: brand identity system for 染秋 (RAN QIU)\nScene/backdrop: \nLighting/mood: warm, poetic, quietly healing autumn atmosphere\nColor palette: warm autumnal tones drawn from osmanthus, persimmon, maple leaf, amber, sandalwood — deep burnt orange, muted gold, persimmon red, smoky umber, soft cream\nMaterials/textures: \nText (verbatim): \"染秋\" \"RAN QIU\" \"桂花乌龙\" \"琥珀枫叶\" \"柿霜暮色\"\nConstraints: must display labeled primary color blocks, labeled secondary/accent color blocks, and Chinese + Latin typeface name specimens in one cohesive reference sheet\nAvoid: ",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cdafa1b7-7bc7-4def-ab41-e2892cc17352/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing brand style guide sheet for 染秋 (RAN QIU), an autumn fragrance brand rooted in Eastern philosophy and traditional Chinese dyeing aesthetics.\\n\\nStyle/medium: flat graphic design, brand style guide / color & typography spec sheet\\nComposition: structured layout showing primary color swatches, secondary color swatches, and typeface specimens side by side\\nSubject: brand identity system for 染秋 (RAN QIU)\\nScene/backdrop: \\nLighting/mood: warm, poetic, quietly healing autumn atmosphere\\nColor palette: warm autumnal tones drawn from osmanthus, persimmon, maple leaf, amber, sandalwood — deep burnt orange, muted gold, persimmon red, smoky umber, soft cream\\nMaterials/textures: \\nText (verbatim): \\\"染秋\\\" \\\"RAN QIU\\\" \\\"桂花乌龙\\\" \\\"琥珀枫叶\\\" \\\"柿霜暮色\\\"\\nConstraints: must display labeled primary color blocks, labeled secondary/accent color blocks, and Chinese + Latin typeface name specimens in one cohesive reference sheet\\nAvoid: \", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8198
+}

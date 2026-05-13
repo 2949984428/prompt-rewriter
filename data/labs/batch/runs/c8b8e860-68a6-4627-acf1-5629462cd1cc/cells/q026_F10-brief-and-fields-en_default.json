@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for GPT-5.5 domestic financing announcement, featuring Sam Altman as speaker, designed for Chinese venture capital roadshow presentation.\n\nStyle/medium: Chinese tech startup pitch deck aesthetic, clean corporate design with subtle gradient backgrounds, professional business presentation style\nComposition: centered layout with speaker portrait on left, bold headline on right, generous whitespace, 16:9 presentation slide format\nSubject: Sam Altman portrait in business attire, confident expression, clean headshot style\nScene/backdrop: abstract tech-inspired gradient background (deep blue to purple), subtle circuit or neural network pattern overlay, minimal decorative elements\nLighting/mood: soft studio lighting on portrait, professional and authoritative mood, aspirational and forward-looking tone\nColor palette: deep tech blue as primary, electric purple as secondary, white text for contrast, gold or orange accent for \"GPT-5.5\" highlight\nText (verbatim): \"GPT5.5发布\"\nConstraints: must work as PowerPoint cover slide; text must be legible from 10 meters; suitable for VC/PE audience in China\nAvoid: cluttered layout; cartoonish illustrations; overly flashy gradients; Western-centric design tropes; watermark; decorative frames that reduce readability",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/15aa8c07-a2f5-429b-9497-012cbcde167d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for GPT-5.5 domestic financing announcement, featuring Sam Altman as speaker, designed for Chinese venture capital roadshow presentation.\\n\\nStyle/medium: Chinese tech startup pitch deck aesthetic, clean corporate design with subtle gradient backgrounds, professional business presentation style\\nComposition: centered layout with speaker portrait on left, bold headline on right, generous whitespace, 16:9 presentation slide format\\nSubject: Sam Altman portrait in business attire, confident expression, clean headshot style\\nScene/backdrop: abstract tech-inspired gradient background (deep blue to purple), subtle circuit or neural network pattern overlay, minimal decorative elements\\nLighting/mood: soft studio lighting on portrait, professional and authoritative mood, aspirational and forward-looking tone\\nColor palette: deep tech blue as primary, electric purple as secondary, white text for contrast, gold or orange accent for \\\"GPT-5.5\\\" highlight\\nText (verbatim): \\\"GPT5.5发布\\\"\\nConstraints: must work as PowerPoint cover slide; text must be legible from 10 meters; suitable for VC/PE audience in China\\nAvoid: cluttered layout; cartoonish illustrations; overly flashy gradients; Western-centric design tropes; watermark; decorative frames that reduce readability\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13170
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a PPT cover slide for a domestic Chinese fundraising roadshow announcement about GPT-5.5 launch (all in-image text in Chinese).\n\nStyle/medium: needs a professional Chinese VC/PE roadshow aesthetic — exact stylistic execution is yours\nComposition: must be standard PPT cover layout (title prominent, speaker info section)\nSubject: must include the speaker name \"奥特曼\" (Sam Altman)\nScene/backdrop: must include subtle tech/AI visual cues suitable for Chinese GP audience\nLighting/mood: needs a professional, trustworthy investment-grade atmosphere — exact light treatment is yours\nColor palette: needs a sophisticated, institutional direction suitable for Chinese VC roadshows — exact values are yours\nMaterials/textures: \nText (verbatim): must include \"GPT-5.5\" or \"GPT5.5\" (product name), \"奥特曼\" (speaker name)\nConstraints: must include all in-image text in Chinese by default; must preserve Chinese domestic roadshow conventions and GP/VC professional tone\nAvoid: must avoid generic Western startup pitch aesthetics; must avoid overly playful or consumer-grade styling",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/34761226-68bb-4a7f-a234-0843a5f49f79/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a PPT cover slide for a domestic Chinese fundraising roadshow announcement about GPT-5.5 launch (all in-image text in Chinese).\\n\\nStyle/medium: needs a professional Chinese VC/PE roadshow aesthetic — exact stylistic execution is yours\\nComposition: must be standard PPT cover layout (title prominent, speaker info section)\\nSubject: must include the speaker name \\\"奥特曼\\\" (Sam Altman)\\nScene/backdrop: must include subtle tech/AI visual cues suitable for Chinese GP audience\\nLighting/mood: needs a professional, trustworthy investment-grade atmosphere — exact light treatment is yours\\nColor palette: needs a sophisticated, institutional direction suitable for Chinese VC roadshows — exact values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT-5.5\\\" or \\\"GPT5.5\\\" (product name), \\\"奥特曼\\\" (speaker name)\\nConstraints: must include all in-image text in Chinese by default; must preserve Chinese domestic roadshow conventions and GP/VC professional tone\\nAvoid: must avoid generic Western startup pitch aesthetics; must avoid overly playful or consumer-grade styling\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10245
+}

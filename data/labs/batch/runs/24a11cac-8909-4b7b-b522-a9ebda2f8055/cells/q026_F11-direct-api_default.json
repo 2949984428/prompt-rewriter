@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "画一张复古美式风格的公路旅行场景，红色敞篷车行驶在66号公路上，两旁是荒漠和仙人掌，夕阳将天空染成橙红色，自由奔放的气息",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5cea4302-5058-4f8c-9867-1d23452ac2ec/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"画一张复古美式风格的公路旅行场景，红色敞篷车行驶在66号公路上，两旁是荒漠和仙人掌，夕阳将天空染成橙红色，自由奔放的气息\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4437
+}

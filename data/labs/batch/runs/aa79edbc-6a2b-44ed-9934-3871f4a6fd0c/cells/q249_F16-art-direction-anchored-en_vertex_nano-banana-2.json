@@ -1,0 +1,23 @@
+{
+  "query_idx": 249,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Edit the uploaded image (#1: athletic woman kitchen).\n\nStyle/medium: photorealistic\nComposition: preserve original composition and overall layout completely unchanged\nSubject:\n  Athletic woman — identity, facial structure, expression, body posture, clothing, and accessories must remain completely unchanged\n  Do not modify, reinterpret, replace, or add any new visual elements\nScene/backdrop: kitchen environment — preserve exactly as-is\nLighting/mood: balanced studio-grade lighting, enhanced dynamic range, contrast, and three-dimensionality\nColor palette:\nMaterials/textures:\n  Reconstruct microscopic details: accurate facial contours, realistic skin texture with naturally visible pores, clear individual hair strands, sharp and realistic eyes, clean crisp edges\nText (verbatim):\nConstraints:\n  All elements — character identity, scene, composition, layout — must remain completely unchanged\n  Only reconstruct and optimize fine details; no new elements added\nAvoid: any modification, reinterpretation, or replacement of existing visual elements",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af83cdc6c-86c9-4ab5-9335-fe6546920d4b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Edit the uploaded image (#1: athletic woman kitchen).\\n\\nStyle/medium: photorealistic\\nComposition: preserve original composition and overall layout completely unchanged\\nSubject:\\n  Athletic woman — identity, facial structure, expression, body posture, clothing, and accessories must remain completely unchanged\\n  Do not modify, reinterpret, replace, or add any new visual elements\\nScene/backdrop: kitchen environment — preserve exactly as-is\\nLighting/mood: balanced studio-grade lighting, enhanced dynamic range, contrast, and three-dimensionality\\nColor palette:\\nMaterials/textures:\\n  Reconstruct microscopic details: accurate facial contours, realistic skin texture with naturally visible pores, clear individual hair strands, sharp and realistic eyes, clean crisp edges\\nText (verbatim):\\nConstraints:\\n  All elements — character identity, scene, composition, layout — must remain completely unchanged\\n  Only reconstruct and optimize fine details; no new elements added\\nAvoid: any modification, reinterpretation, or replacement of existing visual elements\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 8551,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

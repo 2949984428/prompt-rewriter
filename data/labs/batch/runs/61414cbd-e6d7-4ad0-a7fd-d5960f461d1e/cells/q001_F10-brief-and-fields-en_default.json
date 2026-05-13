@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing UI design system for a tech dashboard, mobile interface, cards, buttons, and controls.\n\nStyle/medium: classic minimalist tech UI design system, clean vector-based components, flat design with subtle depth, Swiss-style grid precision, Apple Human Interface Guidelines meets Material Design\nComposition: modular component library layout, organized grid system showing dashboard layout, mobile screen mockup, card components, button states, and control variants side by side\nSubject: comprehensive UI component set including navigation bars, data cards with metrics, primary/secondary/ghost buttons, toggle switches, sliders, input fields, progress indicators, and notification badges\nScene/backdrop: neutral light gray canvas background with subtle grid overlay, ample white space between components\nLighting/mood: even ambient lighting, no harsh shadows, professional and approachable\nColor palette: cool slate gray as base, electric blue as primary action color, soft white for surfaces, subtle gradient accents for depth\nMaterials/textures: matte surfaces with 1px subtle borders, soft drop shadows (0-4px), smooth rounded corners (8-16px radius)\nConstraints: must maintain visual consistency across all components; scalable to 16x16 icons; accessible contrast ratios\nAvoid: skeuomorphic textures; glassmorphism unless subtle; neon glow overload; inconsistent corner radii; 8K stuffer words",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/356890dd-3a6b-4a58-a14b-3ce9a07b7c48/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing UI design system for a tech dashboard, mobile interface, cards, buttons, and controls.\\n\\nStyle/medium: classic minimalist tech UI design system, clean vector-based components, flat design with subtle depth, Swiss-style grid precision, Apple Human Interface Guidelines meets Material Design\\nComposition: modular component library layout, organized grid system showing dashboard layout, mobile screen mockup, card components, button states, and control variants side by side\\nSubject: comprehensive UI component set including navigation bars, data cards with metrics, primary/secondary/ghost buttons, toggle switches, sliders, input fields, progress indicators, and notification badges\\nScene/backdrop: neutral light gray canvas background with subtle grid overlay, ample white space between components\\nLighting/mood: even ambient lighting, no harsh shadows, professional and approachable\\nColor palette: cool slate gray as base, electric blue as primary action color, soft white for surfaces, subtle gradient accents for depth\\nMaterials/textures: matte surfaces with 1px subtle borders, soft drop shadows (0-4px), smooth rounded corners (8-16px radius)\\nConstraints: must maintain visual consistency across all components; scalable to 16x16 icons; accessible contrast ratios\\nAvoid: skeuomorphic textures; glassmorphism unless subtle; neon glow overload; inconsistent corner radii; 8K stuffer words\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 24020
+}

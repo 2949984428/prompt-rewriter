@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an architectural concept illustration of a futuristic sustainable city vision (all in-image text in Chinese).\n\nStyle/medium: needs a \"未来主义\" aesthetic — references in the spirit of Zaha Hadid parametric architecture (2000s–2010s), 1970s–1980s sci-fi concept art tradition (Syd Mead era), contemporary solarpunk illustration movement; exact stylistic execution is yours\nComposition: needs a wide, expansive framing that conveys aerial grandeur — exact angle and depth is yours\nSubject: must include all of the following:\n  - streamlined white building(s) floating / elevated above ground\n  - drones surrounding the structure\n  - holographic projections integrated into the scene\n  - clean energy facilities (solar panels, wind turbines, or equivalent)\nScene/backdrop: needs an open sky environment that reinforces the floating / elevated quality of the architecture — exact time of day and atmosphere is yours\nLighting/mood: needs a clean, visionary, optimistic atmosphere — exact light source mix is yours\nColor palette: needs a direction toward crisp whites, luminous blues, and accent energy tones — exact hex values and ratios are yours\nMaterials/textures: needs a sleek, high-gloss surface treatment on the architecture — exact material finish is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: dystopian or dark tones; cluttered or chaotic compositions; conventional non-futuristic architectural forms",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d8b426cc-965a-4d18-89af-85a7c7343d4d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an architectural concept illustration of a futuristic sustainable city vision (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"未来主义\\\" aesthetic — references in the spirit of Zaha Hadid parametric architecture (2000s–2010s), 1970s–1980s sci-fi concept art tradition (Syd Mead era), contemporary solarpunk illustration movement; exact stylistic execution is yours\\nComposition: needs a wide, expansive framing that conveys aerial grandeur — exact angle and depth is yours\\nSubject: must include all of the following:\\n  - streamlined white building(s) floating / elevated above ground\\n  - drones surrounding the structure\\n  - holographic projections integrated into the scene\\n  - clean energy facilities (solar panels, wind turbines, or equivalent)\\nScene/backdrop: needs an open sky environment that reinforces the floating / elevated quality of the architecture — exact time of day and atmosphere is yours\\nLighting/mood: needs a clean, visionary, optimistic atmosphere — exact light source mix is yours\\nColor palette: needs a direction toward crisp whites, luminous blues, and accent energy tones — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek, high-gloss surface treatment on the architecture — exact material finish is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: dystopian or dark tones; cluttered or chaotic compositions; conventional non-futuristic architectural forms\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12034
+}

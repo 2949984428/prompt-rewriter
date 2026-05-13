@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Xiaohongshu cover image for a pearl milk tea product, in a pink girly aesthetic with a summer coolness mood.\n\nStyle/medium: editorial product lifestyle photo with the soft blush warmth of a Xiaohongshu warm-handbook cover, delicate and inviting\nComposition: centered subject with generous breathing room, soft layered elements framing the drink\nSubject: pearl milk tea in a clear cup, tapioca pearls visible, topped with foam or cream, condensation on the cup surface suggesting icy coolness\nScene/backdrop: soft pink pastel backdrop with light summer props — scattered flower petals, pastel ribbons, or translucent fabric suggesting a breezy summer afternoon\nLighting/mood: the diffused glow of a warm summer window, gentle and flattering — cool shadows whispering relief from the heat, the quiet pleasure of a cold drink on a hot day\nColor palette: blush pink and milky white in tender conversation, with soft peach and pale lavender accents — the chromatic language of a girl's summer afternoon\nMaterials/textures: dewy condensation on the cup, silken liquid, soft matte pastel surfaces, the gentle translucency of tapioca pearls\nText (verbatim): \nConstraints: Xiaohongshu cover ratio (portrait), summer coolness feeling must read immediately, girly aesthetic throughout\nAvoid: dark moody tones, harsh shadows, overly saturated neon, masculine or industrial styling",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3a1598ed-02b8-482e-a4f2-9ed672d914c2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing Xiaohongshu cover image for a pearl milk tea product, in a pink girly aesthetic with a summer coolness mood.\\n\\nStyle/medium: editorial product lifestyle photo with the soft blush warmth of a Xiaohongshu warm-handbook cover, delicate and inviting\\nComposition: centered subject with generous breathing room, soft layered elements framing the drink\\nSubject: pearl milk tea in a clear cup, tapioca pearls visible, topped with foam or cream, condensation on the cup surface suggesting icy coolness\\nScene/backdrop: soft pink pastel backdrop with light summer props — scattered flower petals, pastel ribbons, or translucent fabric suggesting a breezy summer afternoon\\nLighting/mood: the diffused glow of a warm summer window, gentle and flattering — cool shadows whispering relief from the heat, the quiet pleasure of a cold drink on a hot day\\nColor palette: blush pink and milky white in tender conversation, with soft peach and pale lavender accents — the chromatic language of a girl's summer afternoon\\nMaterials/textures: dewy condensation on the cup, silken liquid, soft matte pastel surfaces, the gentle translucency of tapioca pearls\\nText (verbatim): \\nConstraints: Xiaohongshu cover ratio (portrait), summer coolness feeling must read immediately, girly aesthetic throughout\\nAvoid: dark moody tones, harsh shadows, overly saturated neon, masculine or industrial styling\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11552
+}

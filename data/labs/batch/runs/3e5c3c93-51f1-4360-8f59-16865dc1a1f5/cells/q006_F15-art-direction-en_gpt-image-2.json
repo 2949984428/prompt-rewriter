@@ -1,0 +1,21 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster reimagining the aesthetic of 大话西游 in 90s 港片 style.\n\nStyle/medium: needs a 90s 港片 film aesthetic with 胶片颗粒 — exact film stock, grain level, and stylistic execution are yours\nComposition: must include a romantic embrace as the focal foreground, two distant figures in the background\nSubject: must include 至尊宝 and 紫霞 embracing against a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\nScene/backdrop: must include a dramatic city wall setting\nLighting/mood: needs a cinematic, emotionally charged 港片 atmosphere — exact light source mix is yours\nColor palette: needs a warm, faded, filmic direction consistent with 90s 港片 — exact tones and ratios are yours\nMaterials/textures: needs a 胶片颗粒 surface treatment — exact grain weight and sheen are yours\nText (verbatim): \nConstraints: must be a poster composition; must preserve all four named characters\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Af175703a-a74c-42d5-8495-255d6a12218e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster reimagining the aesthetic of 大话西游 in 90s 港片 style.\\n\\nStyle/medium: needs a 90s 港片 film aesthetic with 胶片颗粒 — exact film stock, grain level, and stylistic execution are yours\\nComposition: must include a romantic embrace as the focal foreground, two distant figures in the background\\nSubject: must include 至尊宝 and 紫霞 embracing against a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\\nScene/backdrop: must include a dramatic city wall setting\\nLighting/mood: needs a cinematic, emotionally charged 港片 atmosphere — exact light source mix is yours\\nColor palette: needs a warm, faded, filmic direction consistent with 90s 港片 — exact tones and ratios are yours\\nMaterials/textures: needs a 胶片颗粒 surface treatment — exact grain weight and sheen are yours\\nText (verbatim): \\nConstraints: must be a poster composition; must preserve all four named characters\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8610
+}

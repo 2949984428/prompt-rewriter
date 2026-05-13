@@ -1,0 +1,23 @@
+{
+  "query_idx": 80,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:2026年4月25日酷比ai1]这张图片是一个白色卡通小鼠的形象，请参考这张图做出图形化的logo，能给人一种可爱的感觉",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae6655b6a-0267-467d-9881-31e47a5f539f/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:2026年4月25日酷比ai1]这张图片是一个白色卡通小鼠的形象，请参考这张图做出图形化的logo，能给人一种可爱的感觉\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2832,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

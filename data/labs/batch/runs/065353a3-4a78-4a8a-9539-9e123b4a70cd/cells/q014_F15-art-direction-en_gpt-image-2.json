@@ -1,0 +1,21 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original UI design system showcase illustration featuring a web Dashboard, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\nComposition: must include multiple UI panels arranged in layered hierarchy — web Dashboard, mobile screens, cards, buttons, and controls all visible in one composition\nSubject: must include:\n  - Web Dashboard panel\n  - Mobile interface screens\n  - Card components\n  - Button components\n  - Control widgets (toggles, sliders, inputs, etc.)\nScene/backdrop: needs a deep dark tech environment backdrop — exact treatment is yours\nLighting/mood: needs a visually striking, high-tech atmosphere with strong depth and visual hierarchy — exact glow, bloom, and light accent choices are yours\nColor palette: needs a cool-toned tech direction — exact accent colors, gradients, and contrast ratios are yours\nMaterials/textures: needs a sleek, glass-morphism or layered-surface treatment — exact sheen and depth are yours\nText (verbatim): \nConstraints: must preserve all five UI component categories (Dashboard / mobile / cards / buttons / controls) as clearly readable, distinct elements\nAvoid: flat or overly plain layouts that lack visual depth or tech atmosphere",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Ac5eb57d9-bd62-4f2f-bec3-6118c25dd97a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original UI design system showcase illustration featuring a web Dashboard, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\\nComposition: must include multiple UI panels arranged in layered hierarchy — web Dashboard, mobile screens, cards, buttons, and controls all visible in one composition\\nSubject: must include:\\n  - Web Dashboard panel\\n  - Mobile interface screens\\n  - Card components\\n  - Button components\\n  - Control widgets (toggles, sliders, inputs, etc.)\\nScene/backdrop: needs a deep dark tech environment backdrop — exact treatment is yours\\nLighting/mood: needs a visually striking, high-tech atmosphere with strong depth and visual hierarchy — exact glow, bloom, and light accent choices are yours\\nColor palette: needs a cool-toned tech direction — exact accent colors, gradients, and contrast ratios are yours\\nMaterials/textures: needs a sleek, glass-morphism or layered-surface treatment — exact sheen and depth are yours\\nText (verbatim): \\nConstraints: must preserve all five UI component categories (Dashboard / mobile / cards / buttons / controls) as clearly readable, distinct elements\\nAvoid: flat or overly plain layouts that lack visual depth or tech atmosphere\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8673
+}

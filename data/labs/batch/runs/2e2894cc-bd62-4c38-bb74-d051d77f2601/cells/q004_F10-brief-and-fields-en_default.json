@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for the Changan Origin Q06 vehicle launch announcement.\n\nStyle/medium: clean corporate presentation design, modern automotive marketing aesthetic, premium brand feel\nSubject: automotive launch announcement for \"长安起源Q06\" with launch date \"9月上市\" as hero text, sleek vehicle silhouette or abstract automotive form\nComposition: centered title hierarchy with ample breathing room, landscape orientation optimized for presentation slide format\nScene/backdrop: ethereal gradient background with light rays and atmospheric depth, translucent layered elements suggesting motion and innovation\nLighting/mood: soft volumetric lighting with subtle lens flare, aspirational and forward-looking mood\nColor palette: deep navy or midnight blue as base, electric blue or silver accents, clean white for typography\nText (verbatim): \"长安起源Q06将于9月上市\"\nConstraints: must function as PowerPoint cover slide; text must remain fully legible at thumbnail size; background must not overpower headline\nAvoid: cluttered layout, stock photo clichés, excessive gradients, unreadable thin fonts, generic car silhouettes",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2dba6cff-447b-4013-a11d-3cf91a617f61/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for the Changan Origin Q06 vehicle launch announcement.\\n\\nStyle/medium: clean corporate presentation design, modern automotive marketing aesthetic, premium brand feel\\nSubject: automotive launch announcement for \\\"长安起源Q06\\\" with launch date \\\"9月上市\\\" as hero text, sleek vehicle silhouette or abstract automotive form\\nComposition: centered title hierarchy with ample breathing room, landscape orientation optimized for presentation slide format\\nScene/backdrop: ethereal gradient background with light rays and atmospheric depth, translucent layered elements suggesting motion and innovation\\nLighting/mood: soft volumetric lighting with subtle lens flare, aspirational and forward-looking mood\\nColor palette: deep navy or midnight blue as base, electric blue or silver accents, clean white for typography\\nText (verbatim): \\\"长安起源Q06将于9月上市\\\"\\nConstraints: must function as PowerPoint cover slide; text must remain fully legible at thumbnail size; background must not overpower headline\\nAvoid: cluttered layout, stock photo clichés, excessive gradients, unreadable thin fonts, generic car silhouettes\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9703
+}

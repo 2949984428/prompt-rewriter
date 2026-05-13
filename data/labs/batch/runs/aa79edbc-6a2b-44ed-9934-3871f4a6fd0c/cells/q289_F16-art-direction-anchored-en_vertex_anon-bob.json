@@ -1,0 +1,23 @@
+{
+  "query_idx": 289,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Instagram 帖子图片 —— 母亲节主题，主角为 Binggrae Banana Milk（宾格瑞香蕉牛奶）。\n\n风格/媒介: Instagram 帖子，温馨节日风格\n构图:\n  4:5 竖版构图\n  系列方案之一（偏温柔情感氛围）\n  产品居中或视觉焦点突出\n主体: Binggrae Banana Milk 产品（标志性圆桶形香蕉牛奶瓶）\n场景/背景: 母亲节氛围背景\n光线/氛围: 温暖柔和，母亲节节日感\n色彩方案: 与产品黄色调和谐的暖色系\n材质/纹理:\n文字(原样):\n约束:\n  参考上传的 Binggrae Banana Milk 产品图（#1）保持产品外观准确\n  4:5 比例\n避免: 与产品颜色冲突的色调",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A883ad80b-58d3-433f-b2ae-1646e96422a9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Instagram 帖子图片 —— 母亲节主题，主角为 Binggrae Banana Milk（宾格瑞香蕉牛奶）。\\n\\n风格/媒介: Instagram 帖子，温馨节日风格\\n构图:\\n  4:5 竖版构图\\n  系列方案之一（偏温柔情感氛围）\\n  产品居中或视觉焦点突出\\n主体: Binggrae Banana Milk 产品（标志性圆桶形香蕉牛奶瓶）\\n场景/背景: 母亲节氛围背景\\n光线/氛围: 温暖柔和，母亲节节日感\\n色彩方案: 与产品黄色调和谐的暖色系\\n材质/纹理:\\n文字(原样):\\n约束:\\n  参考上传的 Binggrae Banana Milk 产品图（#1）保持产品外观准确\\n  4:5 比例\\n避免: 与产品颜色冲突的色调\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"png\"}",
+  "ms": 9707,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

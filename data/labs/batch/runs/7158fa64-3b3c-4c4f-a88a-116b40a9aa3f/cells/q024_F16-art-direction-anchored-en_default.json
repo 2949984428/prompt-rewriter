@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an instructional infographic showing how to deploy Hermes in a Docker container and integrate with GLMCodingPlan in 4 clear steps.\n\nStyle/medium: needs a \"tech documentation\" aesthetic — references in the spirit of GitHub documentation illustrations, Stripe developer guides visual style, 2020s flat infographic design; exact stylistic execution is yours\nComposition: must be a 4-step vertical flow layout with numbered steps 1-2-3-4 clearly separated\nSubject: must include 4 deployment steps:\n  Step 1: Docker environment setup and Hermes image preparation\n  Step 2: Hermes container deployment and configuration\n  Step 3: GLMCodingPlan integration setup\n  Step 4: Connection verification and testing\nScene/backdrop: \nLighting/mood: needs a clean, professional technical documentation atmosphere — exact visual tone is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include step numbers \"1\", \"2\", \"3\", \"4\" with corresponding step titles in Chinese\nConstraints: must show 4 distinct steps in clear visual sequence, technical accuracy in Docker/Hermes/GLMCodingPlan context implied\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/58de400f-4633-4b58-8824-a548b42802a0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an instructional infographic showing how to deploy Hermes in a Docker container and integrate with GLMCodingPlan in 4 clear steps.\\n\\nStyle/medium: needs a \\\"tech documentation\\\" aesthetic — references in the spirit of GitHub documentation illustrations, Stripe developer guides visual style, 2020s flat infographic design; exact stylistic execution is yours\\nComposition: must be a 4-step vertical flow layout with numbered steps 1-2-3-4 clearly separated\\nSubject: must include 4 deployment steps:\\n  Step 1: Docker environment setup and Hermes image preparation\\n  Step 2: Hermes container deployment and configuration\\n  Step 3: GLMCodingPlan integration setup\\n  Step 4: Connection verification and testing\\nScene/backdrop: \\nLighting/mood: needs a clean, professional technical documentation atmosphere — exact visual tone is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include step numbers \\\"1\\\", \\\"2\\\", \\\"3\\\", \\\"4\\\" with corresponding step titles in Chinese\\nConstraints: must show 4 distinct steps in clear visual sequence, technical accuracy in Docker/Hermes/GLMCodingPlan context implied\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10954
+}

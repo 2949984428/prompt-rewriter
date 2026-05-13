@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 9:16 vertical screenshot of a Douyin livestream featuring a female host.\n\nStyle/medium: needs a livestream UI aesthetic — references in the spirit of Douyin/TikTok interface design language, 2010s Chinese mobile app UI conventions, Kuaishou livestream overlay traditions; exact stylistic execution is yours\nComposition: must be 9:16 vertical format suitable for mobile phone screen capture\nSubject: must include a female host (神仙姐姐) holding a sign as the focal subject\nScene/backdrop: must include Douyin livestream interface elements (comments, likes, viewer count, gift buttons typical of Chinese livestreaming platforms)\nLighting/mood: needs a warm, engaging livestream atmosphere — exact lighting setup is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign the host is holding\nConstraints: must be 9:16 aspect ratio, must preserve all Chinese characters exactly as written\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/27eb090a-0ad3-416c-b2df-61dc29f27655/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a 9:16 vertical screenshot of a Douyin livestream featuring a female host.\\n\\nStyle/medium: needs a livestream UI aesthetic — references in the spirit of Douyin/TikTok interface design language, 2010s Chinese mobile app UI conventions, Kuaishou livestream overlay traditions; exact stylistic execution is yours\\nComposition: must be 9:16 vertical format suitable for mobile phone screen capture\\nSubject: must include a female host (神仙姐姐) holding a sign as the focal subject\\nScene/backdrop: must include Douyin livestream interface elements (comments, likes, viewer count, gift buttons typical of Chinese livestreaming platforms)\\nLighting/mood: needs a warm, engaging livestream atmosphere — exact lighting setup is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign the host is holding\\nConstraints: must be 9:16 aspect ratio, must preserve all Chinese characters exactly as written\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10470
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: social-media-cover\nAsset type: Xiaohongshu (Little Red Book) cover, 2:3 vertical format\nPrimary request: editorial magazine-style cover announcing GPT-image-2 launch on Lovart platform\nScene/backdrop: minimalist premium studio backdrop with subtle gradient or abstract geometric shapes\nSubject: bold typography as hero element with \"GPT-image-2\" and \"Lovart\" as focal text\nStyle/medium: high-end editorial magazine design, clean modern aesthetic, premium brand campaign\nComposition/framing: diagonal composition, text and visual elements arranged along diagonal axis, dynamic asymmetrical balance\nLighting/mood: high contrast lighting, dramatic shadows, sophisticated and exclusive mood\nColor palette: high contrast accent colors, deep blacks or navy with vibrant accent (electric blue or coral), premium monochrome base with bold color pop\nText (verbatim): \"GPT-image-2\" \"Lovart\"\nConstraints: must use diagonal layout, must include both text elements prominently, maintain magazine editorial quality\nAvoid: cluttered layout, centered symmetrical composition, flat lighting, generic stock aesthetic, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4dd74d7c-65b8-4f86-b50b-cfeaac3b999c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: social-media-cover\\nAsset type: Xiaohongshu (Little Red Book) cover, 2:3 vertical format\\nPrimary request: editorial magazine-style cover announcing GPT-image-2 launch on Lovart platform\\nScene/backdrop: minimalist premium studio backdrop with subtle gradient or abstract geometric shapes\\nSubject: bold typography as hero element with \\\"GPT-image-2\\\" and \\\"Lovart\\\" as focal text\\nStyle/medium: high-end editorial magazine design, clean modern aesthetic, premium brand campaign\\nComposition/framing: diagonal composition, text and visual elements arranged along diagonal axis, dynamic asymmetrical balance\\nLighting/mood: high contrast lighting, dramatic shadows, sophisticated and exclusive mood\\nColor palette: high contrast accent colors, deep blacks or navy with vibrant accent (electric blue or coral), premium monochrome base with bold color pop\\nText (verbatim): \\\"GPT-image-2\\\" \\\"Lovart\\\"\\nConstraints: must use diagonal layout, must include both text elements prominently, maintain magazine editorial quality\\nAvoid: cluttered layout, centered symmetrical composition, flat lighting, generic stock aesthetic, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11110
+}

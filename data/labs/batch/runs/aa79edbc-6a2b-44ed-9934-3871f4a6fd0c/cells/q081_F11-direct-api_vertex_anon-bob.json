@@ -1,0 +1,23 @@
+{
+  "query_idx": 81,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:MÁRQUEZ PARK Logo PNG - 2-Junio-2025][@image:#2:PAYASO despreocupado - 3-Marzo-2025] La primer imagen es el logo de un parque de diversiones MÁRQUEZ PARK a modo de ejemplo. Crea un nuevo logo para un parque de diversiones 'REAL CENTER PARK' incluyendo al payaso aportado, el payaso está parado, feliz señalando el logo",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A34068f83-4aac-4c16-a5af-3b31cda12d64/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:MÁRQUEZ PARK Logo PNG - 2-Junio-2025][@image:#2:PAYASO despreocupado - 3-Marzo-2025] La primer imagen es el logo de un parque de diversiones MÁRQUEZ PARK a modo de ejemplo. Crea un nuevo logo para un parque de diversiones 'REAL CENTER PARK' incluyendo al payaso aportado, el payaso está parado, feliz señalando el logo\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3648,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

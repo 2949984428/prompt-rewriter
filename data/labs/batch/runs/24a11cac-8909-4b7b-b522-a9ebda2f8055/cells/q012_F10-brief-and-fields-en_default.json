@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a dark gothic castle interior with soaring vaulted ceilings and blood-red stained glass light.\n\nStyle/medium: photorealistic dark gothic architectural interior, inspired by H.R. Giger's brooding aesthetic and classic European gothic cathedral photography\nComposition: wide-angle shot from floor level looking upward toward the vaulted ceiling, emphasizing vertical grandeur and oppressive scale\nSubject: towering gothic vaulted ceiling with ribbed stone arches, iron candelabras with dripping candles, heavy iron chains as decorative elements, aged stone walls\nScene/backdrop: castle interior deep within fortress walls, no natural daylight except blood-red light filtering through stained glass windows\nLighting/mood: blood-red colored light streaming through stained glass windows casting crimson pools on stone floors, deep impenetrable shadows dominating 70% of the frame, candlelight as secondary warm amber accent, oppressive and mysterious atmosphere\nColor palette: deep charcoal and near-black stone as dominant base, blood red as the singular dramatic accent from window light, amber candlelight as a secondary warm note\nMaterials/textures: rough-hewn cold stone with visible mortar cracks, oxidized wrought iron with surface rust, tallow-dripped candle wax, heavy iron chain links\nAvoid: bright or cheerful lighting, modern architectural elements, clean or polished surfaces, fantasy cartoon style, overexposed stained glass glow, flat shadows",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/743900dd-f7f6-4b57-90b1-f38094569180/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a dark gothic castle interior with soaring vaulted ceilings and blood-red stained glass light.\\n\\nStyle/medium: photorealistic dark gothic architectural interior, inspired by H.R. Giger's brooding aesthetic and classic European gothic cathedral photography\\nComposition: wide-angle shot from floor level looking upward toward the vaulted ceiling, emphasizing vertical grandeur and oppressive scale\\nSubject: towering gothic vaulted ceiling with ribbed stone arches, iron candelabras with dripping candles, heavy iron chains as decorative elements, aged stone walls\\nScene/backdrop: castle interior deep within fortress walls, no natural daylight except blood-red light filtering through stained glass windows\\nLighting/mood: blood-red colored light streaming through stained glass windows casting crimson pools on stone floors, deep impenetrable shadows dominating 70% of the frame, candlelight as secondary warm amber accent, oppressive and mysterious atmosphere\\nColor palette: deep charcoal and near-black stone as dominant base, blood red as the singular dramatic accent from window light, amber candlelight as a secondary warm note\\nMaterials/textures: rough-hewn cold stone with visible mortar cracks, oxidized wrought iron with surface rust, tallow-dripped candle wax, heavy iron chain links\\nAvoid: bright or cheerful lighting, modern architectural elements, clean or polished surfaces, fantasy cartoon style, overexposed stained glass glow, flat shadows\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10593
+}

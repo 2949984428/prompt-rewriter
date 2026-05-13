@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for cross-border e-commerce promotion with layered typography and product integration.\n\nStyle/medium: modern graphic design poster with artistic typography, layered text composition, contemporary commercial aesthetic\nComposition: 16:9 horizontal format, complex but organized layout with overlapping text layers, product or main subject partially obscuring typography\nSubject: cross-border e-commerce promotional content with artistic lettering, stacked fonts creating depth\nScene/backdrop: clean commercial backdrop that supports layered text without visual clutter\nLighting/mood: balanced studio lighting, professional promotional atmosphere\nColor palette: vibrant but harmonious colors supporting promotional energy while maintaining readability\nText (verbatim): \"跨境电商促销\"\nConstraints: text must be partially obscured by product or main subject; layered typography must remain legible; complex composition without visual chaos\nAvoid: unreadable text due to over-layering, cluttered disorganized layout, generic stock photo aesthetic, watermark, 8K stuffer words",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/071976f7-46d2-4303-8eed-ccec48895ad7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for cross-border e-commerce promotion with layered typography and product integration.\\n\\nStyle/medium: modern graphic design poster with artistic typography, layered text composition, contemporary commercial aesthetic\\nComposition: 16:9 horizontal format, complex but organized layout with overlapping text layers, product or main subject partially obscuring typography\\nSubject: cross-border e-commerce promotional content with artistic lettering, stacked fonts creating depth\\nScene/backdrop: clean commercial backdrop that supports layered text without visual clutter\\nLighting/mood: balanced studio lighting, professional promotional atmosphere\\nColor palette: vibrant but harmonious colors supporting promotional energy while maintaining readability\\nText (verbatim): \\\"跨境电商促销\\\"\\nConstraints: text must be partially obscured by product or main subject; layered typography must remain legible; complex composition without visual chaos\\nAvoid: unreadable text due to over-layering, cluttered disorganized layout, generic stock photo aesthetic, watermark, 8K stuffer words\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8752
+}

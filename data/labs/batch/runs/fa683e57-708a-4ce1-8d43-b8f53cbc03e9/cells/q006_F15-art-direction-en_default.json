@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial street portrait photograph of a young woman in 90s 香港 (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a vintage film aesthetic with cinematic grain — exact film stock and grain level are yours\nComposition: framing is yours\nSubject: must include a young woman wearing a denim jacket\nScene/backdrop: must include a 90s 香港 street at night with neon signs\nLighting/mood: needs a hazy night atmosphere with nostalgic mood — exact light source mix is yours\nColor palette: needs a warm-toned direction — exact color grading is yours\nMaterials/textures: needs a film-grain surface treatment — exact grain intensity is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d822a74b-7426-4c66-8124-3cfa6a396619/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial street portrait photograph of a young woman in 90s 香港 (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a vintage film aesthetic with cinematic grain — exact film stock and grain level are yours\\nComposition: framing is yours\\nSubject: must include a young woman wearing a denim jacket\\nScene/backdrop: must include a 90s 香港 street at night with neon signs\\nLighting/mood: needs a hazy night atmosphere with nostalgic mood — exact light source mix is yours\\nColor palette: needs a warm-toned direction — exact color grading is yours\\nMaterials/textures: needs a film-grain surface treatment — exact grain intensity is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9686
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 151,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:白天关灯状态1]参考图中的灯泡和底座，帮我设计一张淘宝主图，效果是夜晚，灯光为白色的。尺寸1440x1920的图，3张、",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 3,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7a75f20c-b11a-4ad7-9064-ba11fbc18b6c/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:白天关灯状态1]参考图中的灯泡和底座，帮我设计一张淘宝主图，效果是夜晚，灯光为白色的。尺寸1440x1920的图，3张、\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 3, \"output_format\": \"png\"}",
+  "ms": 3021,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

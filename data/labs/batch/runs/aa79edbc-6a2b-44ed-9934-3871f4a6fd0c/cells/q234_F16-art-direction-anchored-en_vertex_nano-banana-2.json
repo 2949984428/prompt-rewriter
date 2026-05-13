@@ -1,0 +1,23 @@
+{
+  "query_idx": 234,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 PETA 风格的动物权利宣传海报。\n\n风格/媒介: 概念海报，写实摄影风格，情感冲击力强\n构图:\n  画面主体居中\n  锁链围绕成一个封闭圆形，将狗困在圆圈内\n  狗沿着圆形锁链的轨迹行走，暗示其世界被限制在这个圆圈里\n  构图强调禁锢感与循环困境\n主体:\n  一只被锁链拴住的狗\n  锁链呈圆形封闭状，象征有限的世界与受限的生命\n场景/背景: 简洁背景，突出主体与锁链圆形构图\n光线/氛围: 沉重压抑，引发同情与反思\n色彩方案:\n材质/纹理: 锁链质感清晰可见\n文字(原样): \"This is their world\"\n约束:\n  海报成品可直接呈交，排版完整\n  文字 \"This is their world\" 置于画面显眼位置\n  整体风格参考 PETA 公益宣传海报\n避免: 过于血腥或暴力的画面",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab08c452e-90f6-4d1a-a72d-5bc05e99e2ad/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 PETA 风格的动物权利宣传海报。\\n\\n风格/媒介: 概念海报，写实摄影风格，情感冲击力强\\n构图:\\n  画面主体居中\\n  锁链围绕成一个封闭圆形，将狗困在圆圈内\\n  狗沿着圆形锁链的轨迹行走，暗示其世界被限制在这个圆圈里\\n  构图强调禁锢感与循环困境\\n主体:\\n  一只被锁链拴住的狗\\n  锁链呈圆形封闭状，象征有限的世界与受限的生命\\n场景/背景: 简洁背景，突出主体与锁链圆形构图\\n光线/氛围: 沉重压抑，引发同情与反思\\n色彩方案:\\n材质/纹理: 锁链质感清晰可见\\n文字(原样): \\\"This is their world\\\"\\n约束:\\n  海报成品可直接呈交，排版完整\\n  文字 \\\"This is their world\\\" 置于画面显眼位置\\n  整体风格参考 PETA 公益宣传海报\\n避免: 过于血腥或暴力的画面\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10043,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

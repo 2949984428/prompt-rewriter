@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing WeChat Official Account article cover for a fragrance new product launch titled \"染秋 - 秋意染染 时光留香\".\n\nStyle/medium: premium aesthetic editorial cover, high-end luxury feel\nComposition: centered composition, title as the focal point\nSubject: fragrance product launch \"染秋\" (autumn-inspired scent), title \"染秋 - 秋意染染 时光留香\" prominently featured\nScene/backdrop: \nLighting/mood: elegant, refined, sophisticated autumn atmosphere\nColor palette: warm autumn tones (amber, rust, gold, deep burgundy), premium muted palette\nMaterials/textures: subtle paper grain or fabric texture for tactile luxury feel\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title must be the visual focal point, 900x500 aspect ratio, suitable for WeChat article header\nAvoid: cluttered layout, overly bright or saturated colors, generic stock photo aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/211657ad-32cf-4bde-994c-61eec8d045fa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing WeChat Official Account article cover for a fragrance new product launch titled \\\"染秋 - 秋意染染 时光留香\\\".\\n\\nStyle/medium: premium aesthetic editorial cover, high-end luxury feel\\nComposition: centered composition, title as the focal point\\nSubject: fragrance product launch \\\"染秋\\\" (autumn-inspired scent), title \\\"染秋 - 秋意染染 时光留香\\\" prominently featured\\nScene/backdrop: \\nLighting/mood: elegant, refined, sophisticated autumn atmosphere\\nColor palette: warm autumn tones (amber, rust, gold, deep burgundy), premium muted palette\\nMaterials/textures: subtle paper grain or fabric texture for tactile luxury feel\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title must be the visual focal point, 900x500 aspect ratio, suitable for WeChat article header\\nAvoid: cluttered layout, overly bright or saturated colors, generic stock photo aesthetic\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9787
+}

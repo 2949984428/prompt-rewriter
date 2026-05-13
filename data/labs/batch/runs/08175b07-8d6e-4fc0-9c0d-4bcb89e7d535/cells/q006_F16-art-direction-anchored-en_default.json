@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a movie poster for 大话西游.\n\nStyle/medium: needs a \"90年代港片\" aesthetic — references in the spirit of 1990s Hong Kong cinema poster design (Wong Kar-wai era), 王家卫 film typography tradition, 徐克 wuxia color grading heritage; exact stylistic execution is yours\nComposition: \nSubject: must include 至尊宝 and 紫霞 in an embrace/kiss on the city wall as the central focal point, 牛魔王 standing in the distance, 唐僧 standing in the distance\nScene/backdrop: must include the iconic city wall setting from 大话西游\nLighting/mood: \nColor palette: \nMaterials/textures: must include film grain texture\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ffa1ed46-d6d4-4c82-b3c7-c2b3858a1ca0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a movie poster for 大话西游.\\n\\nStyle/medium: needs a \\\"90年代港片\\\" aesthetic — references in the spirit of 1990s Hong Kong cinema poster design (Wong Kar-wai era), 王家卫 film typography tradition, 徐克 wuxia color grading heritage; exact stylistic execution is yours\\nComposition: \\nSubject: must include 至尊宝 and 紫霞 in an embrace/kiss on the city wall as the central focal point, 牛魔王 standing in the distance, 唐僧 standing in the distance\\nScene/backdrop: must include the iconic city wall setting from 大话西游\\nLighting/mood: \\nColor palette: \\nMaterials/textures: must include film grain texture\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8262
+}

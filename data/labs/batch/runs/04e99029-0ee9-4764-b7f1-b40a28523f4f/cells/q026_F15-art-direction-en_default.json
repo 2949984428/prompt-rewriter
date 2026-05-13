@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a pitch deck cover slide for a domestic China fundraising announcement for GPT-5.5, featuring a speaker presentation.\n\nStyle/medium: needs a China domestic roadshow aesthetic — exact stylistic execution is yours\nComposition: must be PPT cover slide format with speaker prominently featured\nSubject: must include a speaker figure representing \"奥特曼\" (Sam Altman)\nScene/backdrop: must include a China domestic fundraising roadshow context — exact venue and staging is yours\nLighting/mood: needs a professional investor presentation atmosphere — exact lighting setup is yours\nColor palette: needs a GP (General Partner) fund aesthetic — exact color scheme is yours\nMaterials/textures: \nText (verbatim): must include \"GPT-5.5\" and fundraising announcement context\nConstraints: must conform to China domestic roadshow conventions and GP fund tone\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aa159b48-a7e9-414c-9dc5-c492d057e1ab/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a pitch deck cover slide for a domestic China fundraising announcement for GPT-5.5, featuring a speaker presentation.\\n\\nStyle/medium: needs a China domestic roadshow aesthetic — exact stylistic execution is yours\\nComposition: must be PPT cover slide format with speaker prominently featured\\nSubject: must include a speaker figure representing \\\"奥特曼\\\" (Sam Altman)\\nScene/backdrop: must include a China domestic fundraising roadshow context — exact venue and staging is yours\\nLighting/mood: needs a professional investor presentation atmosphere — exact lighting setup is yours\\nColor palette: needs a GP (General Partner) fund aesthetic — exact color scheme is yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT-5.5\\\" and fundraising announcement context\\nConstraints: must conform to China domestic roadshow conventions and GP fund tone\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11684
+}

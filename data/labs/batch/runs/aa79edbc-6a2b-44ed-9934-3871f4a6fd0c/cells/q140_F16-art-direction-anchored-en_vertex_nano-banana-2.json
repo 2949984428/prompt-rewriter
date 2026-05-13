@@ -1,0 +1,23 @@
+{
+  "query_idx": 140,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（户外训犬腰包电商主图）。\n\n风格/媒介:\n构图:\n主体:将人物上衣修改为短袖\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  其他内容保持不变\n  符合亚马逊平台电商主图规范（白底或纯净背景，主体清晰）\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acefd4784-36b9-4700-a194-ed3b67f8babb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（户外训犬腰包电商主图）。\\n\\n风格/媒介:\\n构图:\\n主体:将人物上衣修改为短袖\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  其他内容保持不变\\n  符合亚马逊平台电商主图规范（白底或纯净背景，主体清晰）\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 4646,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

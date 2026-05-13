@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing profile avatar for a content creator covering new energy vehicles, digital products, and lifestyle recommendations.\n\nStyle/medium: needs a globally harmonious, culturally neutral aesthetic — references in the spirit of Apple product iconography, Muji minimalist branding, and Google Material Design; exact stylistic execution is yours\nComposition: must be centered, suitable for circular crop across all social platforms\nSubject: must include abstract or symbolic elements representing technology and lifestyle (avoid human figures, religious symbols, or culturally specific imagery)\nScene/backdrop: \nLighting/mood: needs a clean, approachable, professional atmosphere — exact light treatment is yours\nColor palette: needs a universally appealing direction — exact hex values and ratios are yours\nMaterials/textures: needs a modern, polished surface treatment — exact finish is yours\nText (verbatim): \nConstraints: must work harmoniously on both Chinese and international social platforms; must avoid imagery that could offend specific cultural, religious, or demographic groups\nAvoid: must avoid human faces, national flags, religious symbols, political imagery, hand gestures, animal stereotypes, and color combinations with negative cultural associations",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fbb6d87a-7699-468a-94b3-8696f08df99d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing profile avatar for a content creator covering new energy vehicles, digital products, and lifestyle recommendations.\\n\\nStyle/medium: needs a globally harmonious, culturally neutral aesthetic — references in the spirit of Apple product iconography, Muji minimalist branding, and Google Material Design; exact stylistic execution is yours\\nComposition: must be centered, suitable for circular crop across all social platforms\\nSubject: must include abstract or symbolic elements representing technology and lifestyle (avoid human figures, religious symbols, or culturally specific imagery)\\nScene/backdrop: \\nLighting/mood: needs a clean, approachable, professional atmosphere — exact light treatment is yours\\nColor palette: needs a universally appealing direction — exact hex values and ratios are yours\\nMaterials/textures: needs a modern, polished surface treatment — exact finish is yours\\nText (verbatim): \\nConstraints: must work harmoniously on both Chinese and international social platforms; must avoid imagery that could offend specific cultural, religious, or demographic groups\\nAvoid: must avoid human faces, national flags, religious symbols, political imagery, hand gestures, animal stereotypes, and color combinations with negative cultural associations\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12039
+}

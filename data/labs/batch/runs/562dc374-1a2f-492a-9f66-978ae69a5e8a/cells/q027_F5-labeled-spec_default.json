@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: character-illustration\nAsset type: game splash art / character splash\nPrimary request: mysterious oriental-style ancient Chinese beauty playing guqin in bamboo forest under moonlight\nScene/backdrop: dense bamboo grove at night, moonlight filtering through leaves creating dappled shadows on ground\nSubject: elegant Hanfu-clad woman with flowing wide sleeves, serene expression, long black hair with traditional hair ornaments, seated playing guqin (Chinese zither)\nStyle/medium: digital painting, Chinese ink wash fusion, fantasy game art style\nComposition/framing: medium shot, three-quarter view, dynamic flowing fabric movement\nLighting/mood: soft moonlight with dramatic chiaroscuro, ethereal and mystical atmosphere\nColor palette: deep jade green bamboo, silver moonlight, pale blue and white Hanfu with subtle gold accents\nMaterials/textures: silk fabric with translucent layers, glossy bamboo stalks, smooth guqin wood surface\nConstraints: flowing sleeves and ribbons must convey motion, maintain elegant and immortal fairy-like aura\nAvoid: modern elements, western clothing, cluttered background, harsh artificial lighting, photorealistic skin texture",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ba21f5ab-6388-4da2-a0bd-5dd443f3b731/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: character-illustration\\nAsset type: game splash art / character splash\\nPrimary request: mysterious oriental-style ancient Chinese beauty playing guqin in bamboo forest under moonlight\\nScene/backdrop: dense bamboo grove at night, moonlight filtering through leaves creating dappled shadows on ground\\nSubject: elegant Hanfu-clad woman with flowing wide sleeves, serene expression, long black hair with traditional hair ornaments, seated playing guqin (Chinese zither)\\nStyle/medium: digital painting, Chinese ink wash fusion, fantasy game art style\\nComposition/framing: medium shot, three-quarter view, dynamic flowing fabric movement\\nLighting/mood: soft moonlight with dramatic chiaroscuro, ethereal and mystical atmosphere\\nColor palette: deep jade green bamboo, silver moonlight, pale blue and white Hanfu with subtle gold accents\\nMaterials/textures: silk fabric with translucent layers, glossy bamboo stalks, smooth guqin wood surface\\nConstraints: flowing sleeves and ribbons must convey motion, maintain elegant and immortal fairy-like aura\\nAvoid: modern elements, western clothing, cluttered background, harsh artificial lighting, photorealistic skin texture\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10222
+}

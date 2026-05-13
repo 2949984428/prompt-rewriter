@@ -1,0 +1,23 @@
+{
+  "query_idx": 299,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Agora, use um tema, um logotipo e a imagem da Professora Juliana Freitas para criar uma miniatura do YouTube altamente criativa para convidar todos a assistir ao próximo vídeo",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A97747389-4ad2-4496-8cb4-c555b295f0f6/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Agora, use um tema, um logotipo e a imagem da Professora Juliana Freitas para criar uma miniatura do YouTube altamente criativa para convidar todos a assistir ao próximo vídeo\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3249,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

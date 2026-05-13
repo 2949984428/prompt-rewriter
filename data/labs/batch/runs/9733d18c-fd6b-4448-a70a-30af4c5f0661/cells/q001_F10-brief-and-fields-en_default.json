@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original cinematic still of a modern international metropolis core business district at night, captured from aerial perspective.\n\nStyle/medium: photorealistic drone aerial photography, long exposure technique, cyberpunk color grading with cinematic treatment\nComposition: high-angle bird's-eye view, wide establishing shot capturing the entire city core, center-framed iconic supertall skyscraper as focal point, 24mm equivalent wide-angle perspective\nSubject: signature supertall skyscraper with sweeping searchlight beams cutting through night sky, glass curtain walls reflecting city lights\nScene/backdrop: dense cluster of modern skyscrapers with illuminated glass facades, multi-level highway interchange with streaming traffic light trails (red tail lights and white headlights), distant harbor with docked mega cruise ships, massive neon billboards illuminating the sky\nLighting/mood: artificial city lights as primary source, searchlight beams from building top creating dramatic rays, high contrast between lit surfaces and deep shadows, moody and energetic urban atmosphere\nColor palette: blue-violet tones as dominant base, cyan and magenta neon accents, warm amber and red from traffic trails, cool electric highlights against dark night sky\nMaterials/textures: reflective glass surfaces with colorful light reflections, smooth asphalt with light trails, metallic building structures, water surface in harbor\nConstraints: must maintain long exposure light trail effect, cyberpunk aesthetic with blue-purple dominance, clear visibility of highway traffic flow patterns\nAvoid: daylight elements, natural sunlight, low-angle shots, muted colors, film grain overdone, 8K stuffer labels",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aca5dab9-f663-4c39-a13d-7f99cd2e9abf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original cinematic still of a modern international metropolis core business district at night, captured from aerial perspective.\\n\\nStyle/medium: photorealistic drone aerial photography, long exposure technique, cyberpunk color grading with cinematic treatment\\nComposition: high-angle bird's-eye view, wide establishing shot capturing the entire city core, center-framed iconic supertall skyscraper as focal point, 24mm equivalent wide-angle perspective\\nSubject: signature supertall skyscraper with sweeping searchlight beams cutting through night sky, glass curtain walls reflecting city lights\\nScene/backdrop: dense cluster of modern skyscrapers with illuminated glass facades, multi-level highway interchange with streaming traffic light trails (red tail lights and white headlights), distant harbor with docked mega cruise ships, massive neon billboards illuminating the sky\\nLighting/mood: artificial city lights as primary source, searchlight beams from building top creating dramatic rays, high contrast between lit surfaces and deep shadows, moody and energetic urban atmosphere\\nColor palette: blue-violet tones as dominant base, cyan and magenta neon accents, warm amber and red from traffic trails, cool electric highlights against dark night sky\\nMaterials/textures: reflective glass surfaces with colorful light reflections, smooth asphalt with light trails, metallic building structures, water surface in harbor\\nConstraints: must maintain long exposure light trail effect, cyberpunk aesthetic with blue-purple dominance, clear visibility of highway traffic flow patterns\\nAvoid: daylight elements, natural sunlight, low-angle shots, muted colors, film grain overdone, 8K stuffer labels\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13385
+}

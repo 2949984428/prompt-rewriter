@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张末日废土风格的场景，荒凉的沙漠中有一辆改装过的装甲车，远处是倒塌的城市废墟，天空昏黄，风沙弥漫，充满末世生存的紧张感",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/71aa18ab-c684-4fa2-8429-4fcc5a7fb330/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张末日废土风格的场景，荒凉的沙漠中有一辆改装过的装甲车，远处是倒塌的城市废墟，天空昏黄，风沙弥漫，充满末世生存的紧张感\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3115
+}

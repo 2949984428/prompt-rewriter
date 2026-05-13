@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 9-grid social media cover image for a Xiaohongshu (Little Red Book) personal account.\n\nStyle/medium: needs a \"personal creator\" aesthetic — exact stylistic execution is yours\nComposition: must be 9-grid layout (nine squares), portrait orientation\nSubject: must include DJI Pocket 4 as the featured product\nScene/backdrop: \nLighting/mood: \nColor palette: needs a cute, differentiated direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\"\nConstraints: must be portrait cover format suitable for Xiaohongshu, 9-grid structure visible\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/67e72feb-0a39-46f0-a3ca-08b78460b1dd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing 9-grid social media cover image for a Xiaohongshu (Little Red Book) personal account.\\n\\nStyle/medium: needs a \\\"personal creator\\\" aesthetic — exact stylistic execution is yours\\nComposition: must be 9-grid layout (nine squares), portrait orientation\\nSubject: must include DJI Pocket 4 as the featured product\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a cute, differentiated direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\"\\nConstraints: must be portrait cover format suitable for Xiaohongshu, 9-grid structure visible\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7836
+}

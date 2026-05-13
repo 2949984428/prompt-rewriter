@@ -1,0 +1,62 @@
+{
+  "id": "469947dd-847c-47dc-8c9a-f877218c59b9",
+  "created_at": "2026-04-27T08:58:33.458Z",
+  "name": "电商视觉横屏",
+  "query_mode": "derive",
+  "purpose": "skill在电商主视觉(美妆／数码/服饰)场景下哪个最稳",
+  "queries": [
+    "生成一张高端美妆品牌的电商主视觉图，展示一瓶精华液悬浮在粉色花瓣与水滴之间，背景是柔和的渐变粉紫色，整体氛围奢华梦幻，适合天猫首页Banner",
+    "制作一张数码产品电商主图，MacBook Pro置于极简白色大理石桌面上，屏幕显示创意软件界面，旁边摆放着无线耳机和咖啡杯，自然光从左窗洒入，干净利落的科技美学风格",
+    "设计一张秋冬服饰电商主视觉，模特身穿驼色羊毛大衣走在落叶铺满的街道上，暖色调夕阳逆光拍摄，营造温暖高级的氛围感，适合品牌旗舰店首屏展示",
+    "创作一张护肤套装电商主图，产品整齐排列在磨砂玻璃台面上，背景是朦胧的绿植与晨雾，采用柔光箱打光，突出产品质感与天然成分概念",
+    "生成一张游戏手机电商主视觉，手机以45度角悬浮展示RGB灯效，背景是赛博朋克风格的霓虹城市夜景，充满速度感与科技张力，适合京东数码频道",
+    "制作一张夏季女装电商主图，白色连衣裙在海边微风中飘动，蓝天碧海为背景，采用明亮清新的日系胶片色调，传递度假休闲的轻松感",
+    "设计一张高端香水电商主视觉，香水瓶置于黑色丝绒布上，一束聚光灯从顶部打下来形成戏剧性光影，周围散落着金色闪粉，营造神秘奢华的暗夜氛围",
+    "创作一张智能手表电商主图，产品佩戴在运动场景中的手腕上，背景是模糊的健身房环境，动态模糊效果表现活力，配合冷色调科技感打光"
+  ],
+  "skill_ids": [
+    "F5-labeled-spec",
+    "F10-brief-and-fields-en",
+    "F9-brief-and-fields"
+  ],
+  "scoring_dimensions": [
+    {
+      "id": "overall",
+      "label": "总体观感",
+      "description": ""
+    },
+    {
+      "id": "intent",
+      "label": "意图还原度",
+      "description": "prompt 是否抓住了用户原意"
+    }
+  ],
+  "rewrite_llm": "kimi/kimi-k2.5",
+  "status": "finished",
+  "cell_keys": [
+    "q000_F5-labeled-spec_default",
+    "q000_F10-brief-and-fields-en_default",
+    "q000_F9-brief-and-fields_default",
+    "q001_F5-labeled-spec_default",
+    "q001_F10-brief-and-fields-en_default",
+    "q001_F9-brief-and-fields_default",
+    "q002_F5-labeled-spec_default",
+    "q002_F10-brief-and-fields-en_default",
+    "q002_F9-brief-and-fields_default",
+    "q003_F5-labeled-spec_default",
+    "q003_F10-brief-and-fields-en_default",
+    "q003_F9-brief-and-fields_default",
+    "q004_F5-labeled-spec_default",
+    "q004_F10-brief-and-fields-en_default",
+    "q004_F9-brief-and-fields_default",
+    "q005_F5-labeled-spec_default",
+    "q005_F10-brief-and-fields-en_default",
+    "q005_F9-brief-and-fields_default",
+    "q006_F5-labeled-spec_default",
+    "q006_F10-brief-and-fields-en_default",
+    "q006_F9-brief-and-fields_default",
+    "q007_F5-labeled-spec_default",
+    "q007_F10-brief-and-fields-en_default",
+    "q007_F9-brief-and-fields_default"
+  ]
+}

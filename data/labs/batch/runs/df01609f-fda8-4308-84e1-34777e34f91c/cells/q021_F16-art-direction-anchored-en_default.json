@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original sports action illustration of a basketball player dunking on a court (all in-image text in Chinese).\n\nStyle/medium: needs a \"热血动漫\" aesthetic — references in the spirit of 少年漫画 action illustration tradition (SLAM DUNK / 灌篮高手 era), 2000s Shonen Jump dynamic linework culture, modern sports anime key visual style (黒子のバスケ / ハイキュー!!); exact stylistic execution is yours\nComposition: must be a dramatic upward-angle framing of the dunking player mid-air, with motion blur applied to convey speed and tension\nSubject: must include a basketball player leaping for a slam dunk, sweat droplets flying mid-air\nScene/backdrop: must include a basketball court, a cheering crowd in the background, and camera flashlights bursting from the stands\nLighting/mood: needs a high-tension, passionate atmosphere — exact light source mix is yours\nColor palette: needs a vivid, high-contrast direction to amplify intensity — exact hues and ratios are yours\nMaterials/textures: needs dynamic motion-blur and speed-line texture treatment — exact grain and stroke weight is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: static or flat composition; calm or low-energy mood",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e95f22f9-880e-4cf4-a009-0fc4ab571b3e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original sports action illustration of a basketball player dunking on a court (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"热血动漫\\\" aesthetic — references in the spirit of 少年漫画 action illustration tradition (SLAM DUNK / 灌篮高手 era), 2000s Shonen Jump dynamic linework culture, modern sports anime key visual style (黒子のバスケ / ハイキュー!!); exact stylistic execution is yours\\nComposition: must be a dramatic upward-angle framing of the dunking player mid-air, with motion blur applied to convey speed and tension\\nSubject: must include a basketball player leaping for a slam dunk, sweat droplets flying mid-air\\nScene/backdrop: must include a basketball court, a cheering crowd in the background, and camera flashlights bursting from the stands\\nLighting/mood: needs a high-tension, passionate atmosphere — exact light source mix is yours\\nColor palette: needs a vivid, high-contrast direction to amplify intensity — exact hues and ratios are yours\\nMaterials/textures: needs dynamic motion-blur and speed-line texture treatment — exact grain and stroke weight is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: static or flat composition; calm or low-energy mood\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17292
+}

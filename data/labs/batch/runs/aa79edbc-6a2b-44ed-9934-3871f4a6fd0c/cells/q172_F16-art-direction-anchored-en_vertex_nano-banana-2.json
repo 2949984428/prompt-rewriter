@@ -1,0 +1,15 @@
+{
+  "query_idx": 172,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"编辑第一张图（IMG_0151）——将产品图处理为亚马逊标准正方形白底图。\\n\\n风格/媒介:亚马逊产品图标准\\n构图:正方形画面，以盘子为主体居中\\n主体:盘子\\n场景/背景:纯白色背景\\n光线/氛围:\\n色彩方案:白底\\n材质/纹理:\\n文字(原样):\\n约束:\\n  移除盘子以外的所有杂乱背景\\n  保持盘子主体完整\\n避免:任何非白色背景元素、杂乱背景\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"编辑第二张图（IMG_9898）——将产品图处理为亚马逊标准正方形白底图。\\n\\n风格/媒介:亚马逊产品图标准\\n构图:正方形画面，以盘子为主体居中\\n主体:盘子\\n场景/背景:纯白色背景\\n光线/氛围:\\n色彩方案:白底\\n材质/纹理:\\n文字(原样):\\n约束:\\n  移除盘子以外的所有杂乱背景\\n  保持盘子主体完整\\n避免:任何非白色背景元素、杂乱背景\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8053,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

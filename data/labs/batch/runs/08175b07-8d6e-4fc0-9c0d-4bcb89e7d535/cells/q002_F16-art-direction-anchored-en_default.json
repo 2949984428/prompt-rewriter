@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a banner news/hot-topic feature image for Weibo.\n\nStyle/medium: must be professional documentary photography style, news-reportage aesthetic, high-impact yet authentic, sharp 8K detail, shot-like-on-phone advanced quality\nComposition: must be wide 16:9 horizontal banner, ample negative space for text overlay, lateral extension across frame\nSubject: must include city skyline at dusk with neon lights gradually illuminating, pedestrians in motion blur, distant skyscrapers reflecting sunset glow, strong dramatic light-shadow contrast, authentic on-site atmosphere\nScene/backdrop: must include urban dusk cityscape with layered depth from foreground pedestrians to distant towers\nLighting/mood: must be golden hour transitioning to neon dusk, dramatic chiaroscuro, real-world documentary lighting\nColor palette: must blend warm sunset amber with cool neon cyan/magenta, high contrast\nMaterials/textures: must include glass building reflections, motion-blur pedestrian silhouettes, gritty urban surface details\nText (verbatim): must include \"城市里的安静时刻\" (large headline, bold/modern typeface, prominent placement), \"黄昏，总能治愈一天的匆忙\" (secondary subtitle), \"@龙爪槐守望者real · 生活观察\" (watermark, bottom or lower-right)\nConstraints: must be strict 16:9 aspect ratio, professional editorial grade, authentic Weibo hot-post visual identity\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "https://assets-persist.lovart.ai/agent_images/1fc73295-fbb1-4f0b-9404-1af872688ecd.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a banner news/hot-topic feature image for Weibo.\\n\\nStyle/medium: must be professional documentary photography style, news-reportage aesthetic, high-impact yet authentic, sharp 8K detail, shot-like-on-phone advanced quality\\nComposition: must be wide 16:9 horizontal banner, ample negative space for text overlay, lateral extension across frame\\nSubject: must include city skyline at dusk with neon lights gradually illuminating, pedestrians in motion blur, distant skyscrapers reflecting sunset glow, strong dramatic light-shadow contrast, authentic on-site atmosphere\\nScene/backdrop: must include urban dusk cityscape with layered depth from foreground pedestrians to distant towers\\nLighting/mood: must be golden hour transitioning to neon dusk, dramatic chiaroscuro, real-world documentary lighting\\nColor palette: must blend warm sunset amber with cool neon cyan/magenta, high contrast\\nMaterials/textures: must include glass building reflections, motion-blur pedestrian silhouettes, gritty urban surface details\\nText (verbatim): must include \\\"城市里的安静时刻\\\" (large headline, bold/modern typeface, prominent placement), \\\"黄昏，总能治愈一天的匆忙\\\" (secondary subtitle), \\\"@龙爪槐守望者real · 生活观察\\\" (watermark, bottom or lower-right)\\nConstraints: must be strict 16:9 aspect ratio, professional editorial grade, authentic Weibo hot-post visual identity\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13264
+}

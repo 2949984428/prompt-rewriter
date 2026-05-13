@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing exploded-view technical diagram of a Sony A7 camera showing all components with their names.\n\nStyle/medium: technical illustration, exploded isometric diagram, engineering manual style with clean vector lines\nComposition: isometric exploded view with camera body at center, all parts radiating outward in logical assembly order, labeled with leader lines\nSubject: Sony A7 mirrorless camera decomposed into all major components (sensor, shutter mechanism, EVF, LCD screen, battery, lens mount, circuit boards, dials, buttons, hot shoe)\nScene/backdrop: clean white or light gray background, no distractions, technical grid optional\nLighting/mood: even studio lighting, neutral and clinical, emphasizing clarity of parts\nColor palette: metallic silver and black for camera parts, gray for mechanical components, subtle blue for circuit boards, white background\nMaterials/textures: brushed aluminum, matte black plastic, glass elements, visible screws and connectors\nText (verbatim): \"Sony A7\"\nConstraints: each part must have a clear leader line to its name; parts must be recognizable and proportionally sized; exploded spacing must show separation without losing visual connection\nAvoid: photorealistic rendering; depth of field; artistic lighting; cluttered overlapping parts; missing labels; generic camera shapes",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e9f25238-8f6f-49c8-8f4c-cf26e30c1892/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing exploded-view technical diagram of a Sony A7 camera showing all components with their names.\\n\\nStyle/medium: technical illustration, exploded isometric diagram, engineering manual style with clean vector lines\\nComposition: isometric exploded view with camera body at center, all parts radiating outward in logical assembly order, labeled with leader lines\\nSubject: Sony A7 mirrorless camera decomposed into all major components (sensor, shutter mechanism, EVF, LCD screen, battery, lens mount, circuit boards, dials, buttons, hot shoe)\\nScene/backdrop: clean white or light gray background, no distractions, technical grid optional\\nLighting/mood: even studio lighting, neutral and clinical, emphasizing clarity of parts\\nColor palette: metallic silver and black for camera parts, gray for mechanical components, subtle blue for circuit boards, white background\\nMaterials/textures: brushed aluminum, matte black plastic, glass elements, visible screws and connectors\\nText (verbatim): \\\"Sony A7\\\"\\nConstraints: each part must have a clear leader line to its name; parts must be recognizable and proportionally sized; exploded spacing must show separation without losing visual connection\\nAvoid: photorealistic rendering; depth of field; artistic lighting; cluttered overlapping parts; missing labels; generic camera shapes\"}",
+  "ms": 18358
+}

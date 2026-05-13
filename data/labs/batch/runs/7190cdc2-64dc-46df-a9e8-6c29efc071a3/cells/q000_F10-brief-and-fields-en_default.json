@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo of a pristine Nordic forest at dawn.\n\nStyle/medium: photorealistic landscape photography, hyper-realistic nature documentary style, wide-angle lens\nComposition: wide-angle establishing shot, deep depth of field, foreground with wild mushrooms and ferns, midground with moss-covered rocks and winding stream, background with layered mountain ridges\nSubject: dense spruce and birch forest canopy, morning light piercing through, moss-covered boulders, clear stream with visible pebbles on riverbed, delicate water ripples\nScene/backdrop: vast Nordic primeval forest at dawn, rolling mountains in distance, thin mist lingering at mountain waists, ethereal fairy-tale atmosphere\nLighting/mood: first rays of morning sunlight breaking through canopy, golden light casting onto moss and water, soft diffused glow, serene and quietly alive\nColor palette: cool green as dominant base, golden sunlight as warm accent, misty blue-gray in background, earthy browns from rocks and forest floor\nMaterials/textures: velvety moss on rocks, glossy water surface with subtle ripples, translucent dewdrops on fern fronds and mushroom caps, rough bark texture\nAvoid: oversaturated colors, artificial HDR look, plastic vegetation, deformed water reflections, 8K stuffer aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e84cd65d-fe82-4cd9-92b7-17ee722b5935/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing editorial photo of a pristine Nordic forest at dawn.\\n\\nStyle/medium: photorealistic landscape photography, hyper-realistic nature documentary style, wide-angle lens\\nComposition: wide-angle establishing shot, deep depth of field, foreground with wild mushrooms and ferns, midground with moss-covered rocks and winding stream, background with layered mountain ridges\\nSubject: dense spruce and birch forest canopy, morning light piercing through, moss-covered boulders, clear stream with visible pebbles on riverbed, delicate water ripples\\nScene/backdrop: vast Nordic primeval forest at dawn, rolling mountains in distance, thin mist lingering at mountain waists, ethereal fairy-tale atmosphere\\nLighting/mood: first rays of morning sunlight breaking through canopy, golden light casting onto moss and water, soft diffused glow, serene and quietly alive\\nColor palette: cool green as dominant base, golden sunlight as warm accent, misty blue-gray in background, earthy browns from rocks and forest floor\\nMaterials/textures: velvety moss on rocks, glossy water surface with subtle ripples, translucent dewdrops on fern fronds and mushroom caps, rough bark texture\\nAvoid: oversaturated colors, artificial HDR look, plastic vegetation, deformed water reflections, 8K stuffer aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11078
+}

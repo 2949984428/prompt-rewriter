@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial fashion photograph for a luxury womenswear brand campaign.\n\nStyle/medium: high-contrast black-and-white fashion photography in the spirit of Helmut Newton, professional commercial grade, sharp and crisp\nComposition: medium shot, model positioned at 45-degree angle to camera, head slightly tilted upward, elegant upright posture\nSubject: female model wearing a pure white structural gown with architectural silhouette, exaggerated three-dimensional shoulder construction, cinched waist, A-line skirt flare\nScene/backdrop: seamless white cyclorama backdrop, minimalist studio environment\nLighting/mood: butterfly lighting setup, key light from 45 degrees above center, strong contrast between highlights and shadows to emphasize garment structure, confident and commanding mood\nColor palette: achromatic black-white-gray base, deep crimson red accent on lips only\nMaterials/textures: crisp architectural fabric with structural drape, smooth seamless paper backdrop\nAvoid: soft lighting, pastel colors, cluttered backgrounds, smiling expression, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/083bab1f-7f6b-474b-9ce1-37421ff7e549/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial fashion photograph for a luxury womenswear brand campaign.\\n\\nStyle/medium: high-contrast black-and-white fashion photography in the spirit of Helmut Newton, professional commercial grade, sharp and crisp\\nComposition: medium shot, model positioned at 45-degree angle to camera, head slightly tilted upward, elegant upright posture\\nSubject: female model wearing a pure white structural gown with architectural silhouette, exaggerated three-dimensional shoulder construction, cinched waist, A-line skirt flare\\nScene/backdrop: seamless white cyclorama backdrop, minimalist studio environment\\nLighting/mood: butterfly lighting setup, key light from 45 degrees above center, strong contrast between highlights and shadows to emphasize garment structure, confident and commanding mood\\nColor palette: achromatic black-white-gray base, deep crimson red accent on lips only\\nMaterials/textures: crisp architectural fabric with structural drape, smooth seamless paper backdrop\\nAvoid: soft lighting, pastel colors, cluttered backgrounds, smiling expression, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12927
+}

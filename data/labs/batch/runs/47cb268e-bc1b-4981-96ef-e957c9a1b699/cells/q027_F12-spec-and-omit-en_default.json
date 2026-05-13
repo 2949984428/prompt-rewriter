@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing gongbi (工笔) handscroll painting of the Lantern Festival in Tang Dynasty Chang'an city.\n\nStyle/medium: 工笔重彩长卷 (gongbi meticulous brushwork, rich mineral pigments, horizontal handscroll format)\nComposition: panoramic wide-angle view of the entire city\nSubject: Tang Dynasty Chang'an Lantern Festival (元宵灯会), ten thousand lanterns (万盏花灯) filling the night sky\nScene/backdrop: Tang Dynasty Chang'an city at night, lanterns illuminating the sky\nLighting/mood: warm glow of countless lanterns lighting the night\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a9f68e96-64de-443e-8580-ffe35acc36df/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing gongbi (工笔) handscroll painting of the Lantern Festival in Tang Dynasty Chang'an city.\\n\\nStyle/medium: 工笔重彩长卷 (gongbi meticulous brushwork, rich mineral pigments, horizontal handscroll format)\\nComposition: panoramic wide-angle view of the entire city\\nSubject: Tang Dynasty Chang'an Lantern Festival (元宵灯会), ten thousand lanterns (万盏花灯) filling the night sky\\nScene/backdrop: Tang Dynasty Chang'an city at night, lanterns illuminating the sky\\nLighting/mood: warm glow of countless lanterns lighting the night\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5401
+}

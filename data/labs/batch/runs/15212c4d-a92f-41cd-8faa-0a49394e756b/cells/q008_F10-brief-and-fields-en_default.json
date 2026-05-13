@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for cross-border e-commerce promotion.\n\nStyle/medium: bold graphic poster design with layered typography and dynamic composition, contemporary editorial advertising aesthetic\nComposition: 16:9 landscape format, complex multi-layered layout with overlapping text elements and foreground product placement\nSubject: prominent artistic display typography with stacked font layers, partially obscured by product or central subject creating depth\nScene/backdrop: promotional e-commerce context with structured visual hierarchy, organized complexity without clutter\nLighting/mood: clean studio lighting with subtle shadows to enhance depth between layers, energetic and commercial atmosphere\nColor palette: high-contrast brand colors with clear visual hierarchy, accent colors highlighting key promotional messages\nConstraints: text layers must remain legible despite overlap; product placement must enhance not distract from promotional message; 16:9 aspect ratio mandatory\nAvoid: cluttered chaos, illegible text, generic stock photo aesthetic, watermark, 8K stuffer words",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a1e0848a-cbe0-45f8-9d8c-2f1ea004b324/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing marketing poster for cross-border e-commerce promotion.\\n\\nStyle/medium: bold graphic poster design with layered typography and dynamic composition, contemporary editorial advertising aesthetic\\nComposition: 16:9 landscape format, complex multi-layered layout with overlapping text elements and foreground product placement\\nSubject: prominent artistic display typography with stacked font layers, partially obscured by product or central subject creating depth\\nScene/backdrop: promotional e-commerce context with structured visual hierarchy, organized complexity without clutter\\nLighting/mood: clean studio lighting with subtle shadows to enhance depth between layers, energetic and commercial atmosphere\\nColor palette: high-contrast brand colors with clear visual hierarchy, accent colors highlighting key promotional messages\\nConstraints: text layers must remain legible despite overlap; product placement must enhance not distract from promotional message; 16:9 aspect ratio mandatory\\nAvoid: cluttered chaos, illegible text, generic stock photo aesthetic, watermark, 8K stuffer words\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9451
+}

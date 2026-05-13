@@ -1,0 +1,21 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\n\nStyle/medium: needs a technical exploded-view illustration aesthetic — exact stylistic execution is yours\nComposition: must be an exploded/disassembled layout with all parts spread out and clearly separated\nSubject: must include the Sony A7 camera fully disassembled into all its individual components with labeled part names\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include labeled part names for each component (in Spanish, as per query language)\nConstraints: must preserve accurate representation of all Sony A7 parts with connecting lines or indicators linking each label to its corresponding piece\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Acc1fadec-7898-4aaf-9253-7ee36e8a02f3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\\n\\nStyle/medium: needs a technical exploded-view illustration aesthetic — exact stylistic execution is yours\\nComposition: must be an exploded/disassembled layout with all parts spread out and clearly separated\\nSubject: must include the Sony A7 camera fully disassembled into all its individual components with labeled part names\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include labeled part names for each component (in Spanish, as per query language)\\nConstraints: must preserve accurate representation of all Sony A7 parts with connecting lines or indicators linking each label to its corresponding piece\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6326
+}

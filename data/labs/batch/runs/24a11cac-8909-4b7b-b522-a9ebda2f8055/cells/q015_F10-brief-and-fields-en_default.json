@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original illustration of a steampunk mechanical apparatus, featuring intricate gears, pipes, and gauges with Victorian-era decorative elements.\n\nStyle/medium: detailed editorial illustration, steampunk aesthetic in the tradition of Victorian industrial engravings, cross-hatching and fine linework with painterly rendering\nComposition: centered mechanical assembly, slightly elevated three-quarter view to reveal depth and layering of components\nSubject: complex interlocking brass and copper mechanical device — dense arrangement of gears of varying sizes, coiled pipes, pressure gauges with ornate bezels, riveted panels, and filigree Victorian decorative motifs\nScene/backdrop: neutral dark background to let the metallic surfaces read clearly\nLighting/mood: warm directional light from upper left, emphasizing the reflective sheen of brass and copper surfaces, precise and nostalgic industrial mood\nColor palette: warm brass gold and oxidized copper as dominant tones, deep mahogany and aged iron as shadow anchors, faint verdigris patina as accent\nMaterials/textures: hammered brass plates with visible rivets, polished copper tubing with specular highlights, aged leather gaskets, glass gauge faces with fine engraved numerals\nAvoid: modern plastic surfaces, neon or electric color accents, sci-fi chrome, flat cartoon rendering, generic clip-art gears",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c7088076-c989-4827-b237-30fc83b0a7a6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original illustration of a steampunk mechanical apparatus, featuring intricate gears, pipes, and gauges with Victorian-era decorative elements.\\n\\nStyle/medium: detailed editorial illustration, steampunk aesthetic in the tradition of Victorian industrial engravings, cross-hatching and fine linework with painterly rendering\\nComposition: centered mechanical assembly, slightly elevated three-quarter view to reveal depth and layering of components\\nSubject: complex interlocking brass and copper mechanical device — dense arrangement of gears of varying sizes, coiled pipes, pressure gauges with ornate bezels, riveted panels, and filigree Victorian decorative motifs\\nScene/backdrop: neutral dark background to let the metallic surfaces read clearly\\nLighting/mood: warm directional light from upper left, emphasizing the reflective sheen of brass and copper surfaces, precise and nostalgic industrial mood\\nColor palette: warm brass gold and oxidized copper as dominant tones, deep mahogany and aged iron as shadow anchors, faint verdigris patina as accent\\nMaterials/textures: hammered brass plates with visible rivets, polished copper tubing with specular highlights, aged leather gaskets, glass gauge faces with fine engraved numerals\\nAvoid: modern plastic surfaces, neon or electric color accents, sci-fi chrome, flat cartoon rendering, generic clip-art gears\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11731
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 121,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑图2（亚马逊沙发俯视_PhysCamera002）。\n\n风格/媒介：亚马逊商品主图规范\n构图：\n主体：沙发，保持图2的构图、角度、布料纹理位置不变\n场景/背景：\n光线/氛围：\n色彩方案：将图2沙发颜色换成图1的沙发颜色\n材质/纹理：布料纹理位置保持不变，仅替换颜色\n文字(原样)：\n约束：\n  参考图1（#1:1dcdc2e5f4100fc19bf0ad3e5fccc0f6）的沙发颜色\n  参考图2（#2:亚马逊沙发俯视_PhysCamera002）的构图、纹理、光影\n  符合亚马逊商品作图规范\n  除颜色外其余视觉元素保持不变\n避免：改变布料纹理位置、改变沙发形态、改变背景",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0926a359-150c-439a-8851-dbf689e63f7e/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑图2（亚马逊沙发俯视_PhysCamera002）。\\n\\n风格/媒介：亚马逊商品主图规范\\n构图：\\n主体：沙发，保持图2的构图、角度、布料纹理位置不变\\n场景/背景：\\n光线/氛围：\\n色彩方案：将图2沙发颜色换成图1的沙发颜色\\n材质/纹理：布料纹理位置保持不变，仅替换颜色\\n文字(原样)：\\n约束：\\n  参考图1（#1:1dcdc2e5f4100fc19bf0ad3e5fccc0f6）的沙发颜色\\n  参考图2（#2:亚马逊沙发俯视_PhysCamera002）的构图、纹理、光影\\n  符合亚马逊商品作图规范\\n  除颜色外其余视觉元素保持不变\\n避免：改变布料纹理位置、改变沙发形态、改变背景\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9948,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

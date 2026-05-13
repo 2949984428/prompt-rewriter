@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original marketing poster for a pearl milk tea (珍珠奶茶) brand, styled as a Xiaohongshu (小红书) product cover in a pink girly summer aesthetic.\n\nStyle/medium: pastel flat-lay product photography with soft editorial styling, inspired by Korean beauty brand campaigns and Xiaohongshu top-tier 种草 cover aesthetics\nComposition: portrait-oriented close-up, slightly overhead angle, subject centered with generous negative space, shallow depth of field on the drink\nSubject: a tall clear cup of pearl milk tea (珍珠奶茶) filled with large black tapioca pearls, pastel pink milk tea liquid, wide straw, condensation droplets on the cup surface\nScene/backdrop: soft pink gradient background with scattered dried flower petals, pastel ribbon accents, and subtle summer props (e.g., small seashells or translucent ice cubes)\nLighting/mood: bright diffused natural window light from the upper left, airy and fresh, evoking cool summer refreshment and a dreamy girly mood\nColor palette: dominant blush pink and creamy white as base, black tapioca pearls as contrast anchor, soft lavender and peach as accent tones\nMaterials/textures: dewy condensation on plastic cup, glossy liquid surface, soft matte petals, translucent ice\nAvoid: dark moody tones, harsh shadows, oversaturated neon colors, cluttered backgrounds, generic stock-photo flatness, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/198b11fb-481c-4ccc-b0bf-ffa322461751/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original marketing poster for a pearl milk tea (珍珠奶茶) brand, styled as a Xiaohongshu (小红书) product cover in a pink girly summer aesthetic.\\n\\nStyle/medium: pastel flat-lay product photography with soft editorial styling, inspired by Korean beauty brand campaigns and Xiaohongshu top-tier 种草 cover aesthetics\\nComposition: portrait-oriented close-up, slightly overhead angle, subject centered with generous negative space, shallow depth of field on the drink\\nSubject: a tall clear cup of pearl milk tea (珍珠奶茶) filled with large black tapioca pearls, pastel pink milk tea liquid, wide straw, condensation droplets on the cup surface\\nScene/backdrop: soft pink gradient background with scattered dried flower petals, pastel ribbon accents, and subtle summer props (e.g., small seashells or translucent ice cubes)\\nLighting/mood: bright diffused natural window light from the upper left, airy and fresh, evoking cool summer refreshment and a dreamy girly mood\\nColor palette: dominant blush pink and creamy white as base, black tapioca pearls as contrast anchor, soft lavender and peach as accent tones\\nMaterials/textures: dewy condensation on plastic cup, glossy liquid surface, soft matte petals, translucent ice\\nAvoid: dark moody tones, harsh shadows, oversaturated neon colors, cluttered backgrounds, generic stock-photo flatness, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12372
+}

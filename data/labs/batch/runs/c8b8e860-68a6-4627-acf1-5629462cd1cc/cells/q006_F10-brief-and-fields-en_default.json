@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic movie poster for A Chinese Odyssey, reimagined in 1990s Hong Kong film style.\n\nStyle/medium: 1990s Hong Kong cinema poster aesthetic, Wong Kar-wai inspired, film grain texture, analog film photography\nComposition: wide shot with three planes of depth, medium shot of embracing couple in foreground, silhouettes in distant background\nSubject: Zhi Zunbao and Zixia in an emotional embrace and kiss on ancient city wall, period costumes, flowing robes\nScene/backdrop: ancient Chinese fortress wall at dusk, atmospheric haze, distant silhouettes of Bull Demon King and Tang Monk standing apart\nLighting/mood: golden hour sunset backlighting, warm romantic glow with melancholic undertones, soft rim light on figures\nColor palette: warm amber and gold tones dominant, deep shadows with cyan undertones, nostalgic faded film look\nMaterials/textures: visible 35mm film grain, slight chromatic aberration, matte paper poster texture\nConstraints: must evoke 1990s Hong Kong cinema nostalgia; characters must be recognizable as the iconic film figures\nAvoid: modern digital clean look, oversaturated colors, anime style, deformed faces, watermark text, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4761f8ed-4eed-48fb-b775-da9cf0f94a6d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic movie poster for A Chinese Odyssey, reimagined in 1990s Hong Kong film style.\\n\\nStyle/medium: 1990s Hong Kong cinema poster aesthetic, Wong Kar-wai inspired, film grain texture, analog film photography\\nComposition: wide shot with three planes of depth, medium shot of embracing couple in foreground, silhouettes in distant background\\nSubject: Zhi Zunbao and Zixia in an emotional embrace and kiss on ancient city wall, period costumes, flowing robes\\nScene/backdrop: ancient Chinese fortress wall at dusk, atmospheric haze, distant silhouettes of Bull Demon King and Tang Monk standing apart\\nLighting/mood: golden hour sunset backlighting, warm romantic glow with melancholic undertones, soft rim light on figures\\nColor palette: warm amber and gold tones dominant, deep shadows with cyan undertones, nostalgic faded film look\\nMaterials/textures: visible 35mm film grain, slight chromatic aberration, matte paper poster texture\\nConstraints: must evoke 1990s Hong Kong cinema nostalgia; characters must be recognizable as the iconic film figures\\nAvoid: modern digital clean look, oversaturated colors, anime style, deformed faces, watermark text, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 16980
+}

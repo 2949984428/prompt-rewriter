@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: editorial photo\nAsset type: fashion editorial for Vogue Italia, high-end magazine spread\nPrimary request: powerful fashion portrait of a tall Nordic woman in black leather trench coat on Iceland's black sand beach\nScene/backdrop: Reynisfjara black sand beach, basalt column formations, waves crashing against dark volcanic rocks, sea mist drifting\nSubject: tall Nordic female model with flowing long hair blown by sea wind, wearing premium designer black leather long trench coat over white turtleneck knit sweater, chunky-heeled leather boots, strong confident pose, profile looking upward toward horizon\nStyle/medium: medium format film photography, Vogue Italia editorial aesthetic\nComposition/framing: medium shot, 85mm lens, shallow depth of field at f/2, model positioned against basalt columns\nLighting/mood: natural overcast daylight, dramatic and moody atmosphere, leaden gray sky\nColor palette: unified dark tones - lead gray sky, black volcanic sand, black leather coat, white knit accent, cool desaturated palette\nMaterials/textures: smooth premium leather, soft knit fabric, wet black sand, rough basalt stone, sea spray mist\nConstraints: maintain dark tonal unity, model as focal point with strong posture, wind-blown hair motion\nAvoid: oversaturated colors, warm tones, plastic-looking leather, washed-out sky, amateur posing, excessive retouching",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8b62e0b2-fbb8-4e06-a4c6-9f2d80c2fc74/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: editorial photo\\nAsset type: fashion editorial for Vogue Italia, high-end magazine spread\\nPrimary request: powerful fashion portrait of a tall Nordic woman in black leather trench coat on Iceland's black sand beach\\nScene/backdrop: Reynisfjara black sand beach, basalt column formations, waves crashing against dark volcanic rocks, sea mist drifting\\nSubject: tall Nordic female model with flowing long hair blown by sea wind, wearing premium designer black leather long trench coat over white turtleneck knit sweater, chunky-heeled leather boots, strong confident pose, profile looking upward toward horizon\\nStyle/medium: medium format film photography, Vogue Italia editorial aesthetic\\nComposition/framing: medium shot, 85mm lens, shallow depth of field at f/2, model positioned against basalt columns\\nLighting/mood: natural overcast daylight, dramatic and moody atmosphere, leaden gray sky\\nColor palette: unified dark tones - lead gray sky, black volcanic sand, black leather coat, white knit accent, cool desaturated palette\\nMaterials/textures: smooth premium leather, soft knit fabric, wet black sand, rough basalt stone, sea spray mist\\nConstraints: maintain dark tonal unity, model as focal point with strong posture, wind-blown hair motion\\nAvoid: oversaturated colors, warm tones, plastic-looking leather, washed-out sky, amateur posing, excessive retouching\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11866
+}

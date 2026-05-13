@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing e-commerce landing page hero section mockup for a beauty brand named \"LUMEA BEAUTY\".\n\nStyle/medium: clean, bright, airy, feminine UI mockup; floral accents with purple flowers; soft lighting\nComposition: three-column hero layout — left text column, center model, right product display; header with logo + 5 nav links + CTA button; bottom benefit cards row\nSubject: young East Asian woman smiling, touching her cheek, holding a moisturizing boost serum dropper bottle; dropper bottle and packaging box displayed in right column\nScene/backdrop: white and soft pink background with floral purple flower accents\nLighting/mood: soft, airy, bright\nColor palette: soft pink and white primary palette, gold accents on stat cards, purple flower accents\nMaterials/textures: floating white rounded rectangle cards with gold accents; pill-shaped feature badges with small icons; pink checkmark bullet points\nText (verbatim): Logo: \"LUMEA BEAUTY\" · Nav: \"特徴\" \"成分\" \"お客様の声\" \"使い方\" \"FAQ\" · Header CTA: \"今すぐ試す\" · Headline: \"鏡を見るたび、うるおう透明感。\" · Subheadline: \"乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。\" · Feature badges: \"敏感肌OK\" \"高保湿\" \"朝晩使える\" · Bullet points: \"美容成分をしっかり届ける\" \"ハリ・ツヤのある印象へ\" \"続けやすいシンプルケア\" · Hero CTAs: \"初回限定で試してみる >\" \"成分をチェック >\" · Trust badges: \"送料無料 / 初回限定 / 定期縛りなし\" · Stat cards: \"満足度 96%\" \"美容成分 5種配合\" \"愛用者 12,000人突破\" · Benefit cards: \"うるおい\" \"透明感\" \"使いやすさ\"\nConstraints: all Japanese text must be legible and correctly rendered; stat cards are floating white rounded rectangles with gold accents; feature badges are pill-shaped with small icons; bullet points use pink checkmarks; benefit cards are horizontal white rounded rectangles with icons\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8a720aab-c104-4cf2-95a2-2f994c95b635/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing e-commerce landing page hero section mockup for a beauty brand named \\\"LUMEA BEAUTY\\\".\\n\\nStyle/medium: clean, bright, airy, feminine UI mockup; floral accents with purple flowers; soft lighting\\nComposition: three-column hero layout — left text column, center model, right product display; header with logo + 5 nav links + CTA button; bottom benefit cards row\\nSubject: young East Asian woman smiling, touching her cheek, holding a moisturizing boost serum dropper bottle; dropper bottle and packaging box displayed in right column\\nScene/backdrop: white and soft pink background with floral purple flower accents\\nLighting/mood: soft, airy, bright\\nColor palette: soft pink and white primary palette, gold accents on stat cards, purple flower accents\\nMaterials/textures: floating white rounded rectangle cards with gold accents; pill-shaped feature badges with small icons; pink checkmark bullet points\\nText (verbatim): Logo: \\\"LUMEA BEAUTY\\\" · Nav: \\\"特徴\\\" \\\"成分\\\" \\\"お客様の声\\\" \\\"使い方\\\" \\\"FAQ\\\" · Header CTA: \\\"今すぐ試す\\\" · Headline: \\\"鏡を見るたび、うるおう透明感。\\\" · Subheadline: \\\"乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。\\\" · Feature badges: \\\"敏感肌OK\\\" \\\"高保湿\\\" \\\"朝晩使える\\\" · Bullet points: \\\"美容成分をしっかり届ける\\\" \\\"ハリ・ツヤのある印象へ\\\" \\\"続けやすいシンプルケア\\\" · Hero CTAs: \\\"初回限定で試してみる >\\\" \\\"成分をチェック >\\\" · Trust badges: \\\"送料無料 / 初回限定 / 定期縛りなし\\\" · Stat cards: \\\"満足度 96%\\\" \\\"美容成分 5種配合\\\" \\\"愛用者 12,000人突破\\\" · Benefit cards: \\\"うるおい\\\" \\\"透明感\\\" \\\"使いやすさ\\\"\\nConstraints: all Japanese text must be legible and correctly rendered; stat cards are floating white rounded rectangles with gold accents; feature badges are pill-shaped with small icons; bullet points use pink checkmarks; benefit cards are horizontal white rounded rectangles with icons\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10365
+}

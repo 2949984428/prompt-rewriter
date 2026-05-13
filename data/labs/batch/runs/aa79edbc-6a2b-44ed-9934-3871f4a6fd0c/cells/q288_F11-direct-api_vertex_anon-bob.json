@@ -1,0 +1,23 @@
+{
+  "query_idx": 288,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "将这个图中[@image:#1:魔方字母颜色一致生成_202604230001]的[@image:#2: Image]字母S粉色改成橙色，整个字母颜色,其他保持一致，生成图片1:1，发布微信朋友圈",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A609f3b09-986a-4812-b1c4-281f3e5813f5/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"将这个图中[@image:#1:魔方字母颜色一致生成_202604230001]的[@image:#2: Image]字母S粉色改成橙色，整个字母颜色,其他保持一致，生成图片1:1，发布微信朋友圈\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7504,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

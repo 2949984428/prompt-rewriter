@@ -1,0 +1,23 @@
+{
+  "query_idx": 297,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a photorealistic close-up lifestyle photo in Xiaohongshu (Little Red Book) product-sharing style.\n\nStyle/medium: Xiaohongshu mom-sharing aesthetic, photorealistic, natural handheld-feel snapshot, warm and genuine\nComposition:\n  3:4 vertical\n  medium close-up shot, subject fills the frame\n  boy standing sideways in front of a full-length mirror in a children's room\n  one hand lightly tugging the waistband of the swimsuit, demonstrating relaxed fit\n  mirror reflection visible, showing front and back simultaneously\n  swimsuit details clearly visible: shoulder seams, side camouflage panel splice, and inseam length\nSubject:\n  same chubby little boy as in the reference image\n  wearing a royal-blue camouflage-splice two-piece swimsuit (rash guard top + swim shorts)\n  posture relaxed and natural, slight side-on stance\n  waistband sits comfortably without digging in, no bunching at the crotch, fabric hugs without constricting\nScene/backdrop: clean, tidy children's bedroom; full-length mirror as key prop; minimal background clutter\nLighting/mood:\n  soft, natural indoor daylight\n  no harsh shadows\n  warm and authentic, matching a real parent's casual home photo\nColor palette: royal blue as dominant color, camouflage splice panel in coordinating tones, neutral room background\nMaterials/textures:\n  swimsuit fabric appears stretchy and smooth with visible texture\n  camouflage print on side panels rendered in detail\nText (verbatim):\nConstraints:\n  no Chinese text anywhere in the image\n  preserve the boy's identity and body type from the reference image\n  swimsuit fit must read as comfortable and non-restrictive on a chubby child's body\nAvoid: stiff or posed studio look, overly saturated colors, visible brand logos, any text or watermarks",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9ab4aa42-91dc-4ddf-9a38-44e87c9da269/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate a photorealistic close-up lifestyle photo in Xiaohongshu (Little Red Book) product-sharing style.\\n\\nStyle/medium: Xiaohongshu mom-sharing aesthetic, photorealistic, natural handheld-feel snapshot, warm and genuine\\nComposition:\\n  3:4 vertical\\n  medium close-up shot, subject fills the frame\\n  boy standing sideways in front of a full-length mirror in a children's room\\n  one hand lightly tugging the waistband of the swimsuit, demonstrating relaxed fit\\n  mirror reflection visible, showing front and back simultaneously\\n  swimsuit details clearly visible: shoulder seams, side camouflage panel splice, and inseam length\\nSubject:\\n  same chubby little boy as in the reference image\\n  wearing a royal-blue camouflage-splice two-piece swimsuit (rash guard top + swim shorts)\\n  posture relaxed and natural, slight side-on stance\\n  waistband sits comfortably without digging in, no bunching at the crotch, fabric hugs without constricting\\nScene/backdrop: clean, tidy children's bedroom; full-length mirror as key prop; minimal background clutter\\nLighting/mood:\\n  soft, natural indoor daylight\\n  no harsh shadows\\n  warm and authentic, matching a real parent's casual home photo\\nColor palette: royal blue as dominant color, camouflage splice panel in coordinating tones, neutral room background\\nMaterials/textures:\\n  swimsuit fabric appears stretchy and smooth with visible texture\\n  camouflage print on side panels rendered in detail\\nText (verbatim):\\nConstraints:\\n  no Chinese text anywhere in the image\\n  preserve the boy's identity and body type from the reference image\\n  swimsuit fit must read as comfortable and non-restrictive on a chubby child's body\\nAvoid: stiff or posed studio look, overly saturated colors, visible brand logos, any text or watermarks\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 18894,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

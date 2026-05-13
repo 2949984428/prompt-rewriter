@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing editorial photo of a Korean café-style coffee and dessert spread, styled for Instagram smartphone photography.\n\nStyle/medium: smartphone photography aesthetic, Instagram story style, light editorial with hand-drawn annotation overlay, Korean café lifestyle vibe\nComposition: overhead flat-lay shot at 45-degree angle, smartphone lens perspective, shallow depth of field with soft bokeh\nSubject: iced latte in clear glass with visible layers, flaky croissant on ceramic plate, small macarons, minimalist tableware\nScene/backdrop: warm-toned wooden table surface, soft café interior blurred in background, natural window light\nLighting/mood: soft diffused daylight from window, warm and inviting, cozy afternoon atmosphere\nColor palette: warm browns and creams as base, soft pastel accents from macarons, natural wood tones\nMaterials/textures: visible coffee foam texture, flaky pastry layers, glossy ceramic glaze, matte paper napkin\nText (verbatim): \"しあわせすぎる～\" \"さっぱり\" \"しっとり\" \"最高\" \"リラックス\" \"いい時間\" \"やさしい甘み\"\nConstraints: hand-drawn white line annotations with rough, uneven single-stroke style; contour lines tracing object edges; arrows and dashed lines for visual guidance; Japanese handwritten text (70% hiragana, 30% simple kanji); short diary-style comments; decorative elements: steam, sparkles, hearts, small emoticons with intentional negative space; no people in frame\nAvoid: over-decorated clutter, perfect geometric lines, digital-looking annotations, watermark, 8K stuffer aesthetic, stock photo sterility",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c9d89bab-398d-473e-aeb9-a2c3ba1e27de/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing editorial photo of a Korean café-style coffee and dessert spread, styled for Instagram smartphone photography.\\n\\nStyle/medium: smartphone photography aesthetic, Instagram story style, light editorial with hand-drawn annotation overlay, Korean café lifestyle vibe\\nComposition: overhead flat-lay shot at 45-degree angle, smartphone lens perspective, shallow depth of field with soft bokeh\\nSubject: iced latte in clear glass with visible layers, flaky croissant on ceramic plate, small macarons, minimalist tableware\\nScene/backdrop: warm-toned wooden table surface, soft café interior blurred in background, natural window light\\nLighting/mood: soft diffused daylight from window, warm and inviting, cozy afternoon atmosphere\\nColor palette: warm browns and creams as base, soft pastel accents from macarons, natural wood tones\\nMaterials/textures: visible coffee foam texture, flaky pastry layers, glossy ceramic glaze, matte paper napkin\\nText (verbatim): \\\"しあわせすぎる～\\\" \\\"さっぱり\\\" \\\"しっとり\\\" \\\"最高\\\" \\\"リラックス\\\" \\\"いい時間\\\" \\\"やさしい甘み\\\"\\nConstraints: hand-drawn white line annotations with rough, uneven single-stroke style; contour lines tracing object edges; arrows and dashed lines for visual guidance; Japanese handwritten text (70% hiragana, 30% simple kanji); short diary-style comments; decorative elements: steam, sparkles, hearts, small emoticons with intentional negative space; no people in frame\\nAvoid: over-decorated clutter, perfect geometric lines, digital-looking annotations, watermark, 8K stuffer aesthetic, stock photo sterility\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15379
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand color + secondary color + typography guideline sheet for \"染秋 (RAN QIU)\".\n\nStyle/medium: needs an \"国风\" (Chinese aesthetic) brand guideline aesthetic — exact stylistic execution is yours\nComposition: must include three distinct sections: primary color swatch, secondary color swatch, typography specimen\nSubject: must include \"染秋\" brand name and \"RAN QIU\" romanization\nScene/backdrop: \nLighting/mood: \nColor palette: needs a warm autumn direction inspired by osmanthus, persimmon, maple leaves, oolong tea — exact hex values are yours\nMaterials/textures: \nText (verbatim): must include \"染秋\" (primary Chinese logotype), \"RAN QIU\" (romanization), \"桂花乌龙\" / \"琥珀枫叶\" / \"柿霜暮色\" (product line names)\nConstraints: must preserve all three color swatch sections clearly labeled, typography hierarchy visible\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3eb362ad-87ae-4120-88be-d653b43ff0d7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a brand color + secondary color + typography guideline sheet for \\\"染秋 (RAN QIU)\\\".\\n\\nStyle/medium: needs an \\\"国风\\\" (Chinese aesthetic) brand guideline aesthetic — exact stylistic execution is yours\\nComposition: must include three distinct sections: primary color swatch, secondary color swatch, typography specimen\\nSubject: must include \\\"染秋\\\" brand name and \\\"RAN QIU\\\" romanization\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a warm autumn direction inspired by osmanthus, persimmon, maple leaves, oolong tea — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"染秋\\\" (primary Chinese logotype), \\\"RAN QIU\\\" (romanization), \\\"桂花乌龙\\\" / \\\"琥珀枫叶\\\" / \\\"柿霜暮色\\\" (product line names)\\nConstraints: must preserve all three color swatch sections clearly labeled, typography hierarchy visible\\nAvoid: \", \"size\":\"1024x1536\", \"quality\":\"medium\", \"n\":1, \"output_format\":\"png\"}",
+  "ms": 9986
+}

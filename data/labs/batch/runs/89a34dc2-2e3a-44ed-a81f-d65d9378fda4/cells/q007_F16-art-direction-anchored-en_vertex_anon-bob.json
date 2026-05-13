@@ -1,0 +1,23 @@
+{
+  "query_idx": 7,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a brand-ready logo for a cultural-experiential Israeli project.\n\nStyle/medium:\n  Custom logo wordmark design\n  Modern, bold, playful but controlled\n  Innovative and highly memorable\n  Friendly and approachable — not childish, not generic\n\nComposition:\n  Based on the attached logo as the exact base\n  Retain the two tilted capsule/ticket shapes\n  Retain the playful dynamic composition\n  Retain the overall friendly and experiential feeling\n\nSubject:\n  Refined and strengthened version of the existing logo\n  Custom-designed Hebrew wordmark as the focal typographic element\n\nScene/backdrop:\n\nLighting/mood:\n\nColor palette:\n  Retain the main color idea from the original logo\n\nMaterials/textures:\n\nText (verbatim):\n  קפסולת הזמן\n\nConstraints:\n  Hebrew typography must feel custom-designed and brand-specific — not a generic rounded Hebrew font\n  Letters should carry distinctive personality, especially: ק, פ, ס, ת, ז, מ, ן\n  Letterforms: rounded, bold, modern, iconic — as if specially crafted for this project\n  Avoid: childish cartoon style, generic bubble font, handwritten look, ornamental tricks, overly decorative details\n\nAvoid:\n  Generic or off-the-shelf Hebrew typefaces\n  Childish or cartoon aesthetic\n  Handwritten or ornamental styling\n  Any deviation from the original logo's core concept and capsule/ticket shapes",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af14c564f-4998-4687-8c54-d0ba58ff50e9/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a brand-ready logo for a cultural-experiential Israeli project.\\n\\nStyle/medium:\\n  Custom logo wordmark design\\n  Modern, bold, playful but controlled\\n  Innovative and highly memorable\\n  Friendly and approachable — not childish, not generic\\n\\nComposition:\\n  Based on the attached logo as the exact base\\n  Retain the two tilted capsule/ticket shapes\\n  Retain the playful dynamic composition\\n  Retain the overall friendly and experiential feeling\\n\\nSubject:\\n  Refined and strengthened version of the existing logo\\n  Custom-designed Hebrew wordmark as the focal typographic element\\n\\nScene/backdrop:\\n\\nLighting/mood:\\n\\nColor palette:\\n  Retain the main color idea from the original logo\\n\\nMaterials/textures:\\n\\nText (verbatim):\\n  קפסולת הזמן\\n\\nConstraints:\\n  Hebrew typography must feel custom-designed and brand-specific — not a generic rounded Hebrew font\\n  Letters should carry distinctive personality, especially: ק, פ, ס, ת, ז, מ, ן\\n  Letterforms: rounded, bold, modern, iconic — as if specially crafted for this project\\n  Avoid: childish cartoon style, generic bubble font, handwritten look, ornamental tricks, overly decorative details\\n\\nAvoid:\\n  Generic or off-the-shelf Hebrew typefaces\\n  Childish or cartoon aesthetic\\n  Handwritten or ornamental styling\\n  Any deviation from the original logo's core concept and capsule/ticket shapes\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9141,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

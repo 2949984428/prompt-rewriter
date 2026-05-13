@@ -1,0 +1,21 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing PPT cover slide for a domestic China fundraising roadshow announcing GPT-5.5, with Sam Altman as the presenter.\n\nStyle/medium: needs a high-end China domestic GP/LP roadshow deck aesthetic — exact stylistic execution is yours\nComposition: must be a single landscape slide cover layout with title area, subtitle area, presenter name, and branding zone\nSubject: must include GPT-5.5 launch announcement as the central theme, Sam Altman as named presenter\nScene/backdrop: needs a premium tech-finance backdrop — exact visual treatment is yours\nLighting/mood: needs a confident, authoritative, institutional-grade atmosphere — exact light and mood execution is yours\nColor palette: needs a direction consistent with top-tier China VC/PE roadshow decks — exact palette is yours\nMaterials/textures: needs a polished, professional surface treatment — exact finish is yours\nText (verbatim): must include \"GPT-5.5\" (large, primary headline), \"全球发布·中国融资路演\" (subtitle), \"演讲人：Sam Altman（奥特曼）\" (presenter line)\nConstraints: must conform to China domestic GP/LP roadshow slide conventions — layout, hierarchy, and tone must feel native to Chinese institutional fundraising context\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af47cd7e5-7b19-4609-b819-ab88d521c4fb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing PPT cover slide for a domestic China fundraising roadshow announcing GPT-5.5, with Sam Altman as the presenter.\\n\\nStyle/medium: needs a high-end China domestic GP/LP roadshow deck aesthetic — exact stylistic execution is yours\\nComposition: must be a single landscape slide cover layout with title area, subtitle area, presenter name, and branding zone\\nSubject: must include GPT-5.5 launch announcement as the central theme, Sam Altman as named presenter\\nScene/backdrop: needs a premium tech-finance backdrop — exact visual treatment is yours\\nLighting/mood: needs a confident, authoritative, institutional-grade atmosphere — exact light and mood execution is yours\\nColor palette: needs a direction consistent with top-tier China VC/PE roadshow decks — exact palette is yours\\nMaterials/textures: needs a polished, professional surface treatment — exact finish is yours\\nText (verbatim): must include \\\"GPT-5.5\\\" (large, primary headline), \\\"全球发布·中国融资路演\\\" (subtitle), \\\"演讲人：Sam Altman（奥特曼）\\\" (presenter line)\\nConstraints: must conform to China domestic GP/LP roadshow slide conventions — layout, hierarchy, and tone must feel native to Chinese institutional fundraising context\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9323
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing marketing poster for a domestic Chinese VC funding announcement keynote.\n\nStyle/medium: PPT cover, Chinese domestic roadshow style, venture capital presentation aesthetic\nComposition: \nSubject: keynote speaker Sam Altman, GPT-5.5 launch announcement\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \"GPT 5.5 发布\"\nConstraints: must suit Chinese domestic roadshow conventions; must align with GP (General Partner) tone\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b28faca0-e822-4478-b41f-31f38b5db122/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing marketing poster for a domestic Chinese VC funding announcement keynote.\\n\\nStyle/medium: PPT cover, Chinese domestic roadshow style, venture capital presentation aesthetic\\nComposition: \\nSubject: keynote speaker Sam Altman, GPT-5.5 launch announcement\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"GPT 5.5 发布\\\"\\nConstraints: must suit Chinese domestic roadshow conventions; must align with GP (General Partner) tone\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 6094
+}

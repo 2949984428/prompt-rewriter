@@ -1,0 +1,23 @@
+{
+  "query_idx": 23,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Edit the logo image (reference #1) to look as if it is written with soy sauce, matching the liquid soy sauce brushstroke style shown in reference #2, viewed from a top-down angle.\n\nStyle/medium: photorealistic top-view food photography style\nComposition: top-down (overhead) angle, logo text as the main element\nSubject: the logo from reference #1, rewritten/rendered as if drawn with soy sauce liquid\nScene/backdrop: flat surface viewed from above, consistent with reference #2\nLighting/mood:\nColor palette: soy sauce dark brown tones for the lettering\nMaterials/textures: liquid soy sauce texture, wet glossy brushstroke appearance matching reference #2\nText (verbatim):\nConstraints:\n  preserve the original logo letterforms from reference #1\n  soy sauce liquid style must match reference #2\nAvoid: dry or matte strokes; 3D perspective angles",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A76087d67-a3ba-454d-b8cd-a29fc59098d5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Edit the logo image (reference #1) to look as if it is written with soy sauce, matching the liquid soy sauce brushstroke style shown in reference #2, viewed from a top-down angle.\\n\\nStyle/medium: photorealistic top-view food photography style\\nComposition: top-down (overhead) angle, logo text as the main element\\nSubject: the logo from reference #1, rewritten/rendered as if drawn with soy sauce liquid\\nScene/backdrop: flat surface viewed from above, consistent with reference #2\\nLighting/mood:\\nColor palette: soy sauce dark brown tones for the lettering\\nMaterials/textures: liquid soy sauce texture, wet glossy brushstroke appearance matching reference #2\\nText (verbatim):\\nConstraints:\\n  preserve the original logo letterforms from reference #1\\n  soy sauce liquid style must match reference #2\\nAvoid: dry or matte strokes; 3D perspective angles\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8858,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,26 @@
+{
+  "query_idx": 59,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@file:#1:广东阳天农林科技有限公司企业全方位综合介绍] 请理解我的公司，理解我的品牌，并设计",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3d79abe5-50ae-46f9-9471-b306e3c64cbd/0.jpg",
+    "/api/image-file/lovart%3A3d79abe5-50ae-46f9-9471-b306e3c64cbd/1.jpg",
+    "/api/image-file/lovart%3A3d79abe5-50ae-46f9-9471-b306e3c64cbd/2.jpg",
+    "/api/image-file/lovart%3A3d79abe5-50ae-46f9-9471-b306e3c64cbd/3.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@file:#1:广东阳天农林科技有限公司企业全方位综合介绍] 请理解我的公司，理解我的品牌，并设计\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3094,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

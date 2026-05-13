@@ -1,0 +1,23 @@
+{
+  "query_idx": 307,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:图1] 外贸男装夏季新款套头圆领提花条纹短袖冰丝T恤潮男士弹力针织衫。以上为产品图片与卖点，接下来是要求：请根据以上的产品图片与卖点，生成3张带有越南语的文案的图片，文案下面直接给出对应的中文意思，要求越南广告文案不能出现违规词，在TIKTOK平台100%过审",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 3,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3e8e99ce-1cb2-4de4-9fae-eb04d893b581/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:图1] 外贸男装夏季新款套头圆领提花条纹短袖冰丝T恤潮男士弹力针织衫。以上为产品图片与卖点，接下来是要求：请根据以上的产品图片与卖点，生成3张带有越南语的文案的图片，文案下面直接给出对应的中文意思，要求越南广告文案不能出现违规词，在TIKTOK平台100%过审\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 3, \"output_format\": \"png\"}",
+  "ms": 6616,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

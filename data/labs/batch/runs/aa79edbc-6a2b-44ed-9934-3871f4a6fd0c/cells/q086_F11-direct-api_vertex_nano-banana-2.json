@@ -1,0 +1,23 @@
+{
+  "query_idx": 86,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "参考这种logo风格，生成一组猫猫主题的电竞logo，简约黑白图形，猫头元素和闪电或者折线结合为主主，还有齿轮元素，有电竞元素为主，简约黑白图形风格，平面设计一组图形5x5，都在一张图片上面，16：9，2k[@image:#1:Clipboard - 2026-04-09 15][@image:#2:Clipboard - 2026-04-09 15]，确保Logo整体协调统一，具备叙事性与品牌辨识度。上面提到的这些元素可以自由组成形成一个新的logo，出200张，后面的所有的图，都自动一批一批的生成，不需要问我继续不继续，直接生，每一批生9张，直到生成完毕，每一批风格都不一样，元素组成都不一样，",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A49d16826-02ef-416e-8a2d-014e6f5b27be/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"参考这种logo风格，生成一组猫猫主题的电竞logo，简约黑白图形，猫头元素和闪电或者折线结合为主主，还有齿轮元素，有电竞元素为主，简约黑白图形风格，平面设计一组图形5x5，都在一张图片上面，16：9，2k[@image:#1:Clipboard - 2026-04-09 15][@image:#2:Clipboard - 2026-04-09 15]，确保Logo整体协调统一，具备叙事性与品牌辨识度。上面提到的这些元素可以自由组成形成一个新的logo，出200张，后面的所有的图，都自动一批一批的生成，不需要问我继续不继续，直接生，每一批生9张，直到生成完毕，每一批风格都不一样，元素组成都不一样，\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5290,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

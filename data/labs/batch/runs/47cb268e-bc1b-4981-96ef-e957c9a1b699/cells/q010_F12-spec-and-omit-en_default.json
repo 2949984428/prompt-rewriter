@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing brand style guide sheet for 染秋 (RAN QIU), an autumn fragrance brand rooted in Eastern philosophy and traditional Chinese dyeing aesthetics.\n\nStyle/medium: brand color palette + typography specification sheet, flat design\nComposition: structured layout showing primary colors, secondary colors, and font specimens side by side\nSubject: brand identity system for 染秋 (RAN QIU)\nScene/backdrop: \nLighting/mood: warm, poetic, meditative\nColor palette: inspired by osmanthus, persimmon, maple leaf, amber — warm ochres, burnt oranges, deep reds, muted golds, sandalwood browns, soft persimmon blush\nMaterials/textures: \nText (verbatim): 染秋, RAN QIU, 桂花乌龙, 琥珀枫叶, 柿霜暮色\nConstraints: display swatches labeled with hex or color names; include Chinese and Latin typeface specimens; layout must read as a formal brand guideline reference sheet\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c31bdbf2-f2b5-4196-af0e-0ce8c39fc8cb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing brand style guide sheet for 染秋 (RAN QIU), an autumn fragrance brand rooted in Eastern philosophy and traditional Chinese dyeing aesthetics.\\n\\nStyle/medium: brand color palette + typography specification sheet, flat design\\nComposition: structured layout showing primary colors, secondary colors, and font specimens side by side\\nSubject: brand identity system for 染秋 (RAN QIU)\\nScene/backdrop: \\nLighting/mood: warm, poetic, meditative\\nColor palette: inspired by osmanthus, persimmon, maple leaf, amber — warm ochres, burnt oranges, deep reds, muted golds, sandalwood browns, soft persimmon blush\\nMaterials/textures: \\nText (verbatim): 染秋, RAN QIU, 桂花乌龙, 琥珀枫叶, 柿霜暮色\\nConstraints: display swatches labeled with hex or color names; include Chinese and Latin typeface specimens; layout must read as a formal brand guideline reference sheet\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7770
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-children-book\nAsset type: children's picture book spread, age 3-8\nPrimary request: a cute red panda wearing round glasses and blue striped overalls reading in a cozy treehouse library\nScene/backdrop: warm treehouse library interior, round window showing golden autumn forest outside, wooden bookshelves filled with colorful books\nSubject: red panda with round glasses, blue striped overalls, sitting on a beanbag chair holding a large open book; squirrel organizing books on shelf; bunny napping in corner\nStyle/medium: children's picture book illustration, cute and whimsical, rounded smooth lines, bright saturated colors, warm and cozy\nComposition/framing: medium shot, eye-level perspective, showing the cozy interior scene with multiple characters\nLighting/mood: warm sunlight streaming through round window, creating soft light spots on book pages, cozy and inviting atmosphere\nColor palette: warm golden yellows, bright saturated colors for books, soft browns for treehouse, blue overalls accent\nMaterials/textures: soft rounded illustration style, smooth digital painting, no harsh edges\nConstraints: keep all three animals (red panda, squirrel, bunny) in scene, maintain warm autumn forest visible through window, include hot cocoa and cookies beside the beanbag\nAvoid: realistic fur texture, dark shadows, scary elements, cluttered composition, adult-oriented details",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3eb945db-a050-4ba3-a5db-4aee4db289bc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-children-book\\nAsset type: children's picture book spread, age 3-8\\nPrimary request: a cute red panda wearing round glasses and blue striped overalls reading in a cozy treehouse library\\nScene/backdrop: warm treehouse library interior, round window showing golden autumn forest outside, wooden bookshelves filled with colorful books\\nSubject: red panda with round glasses, blue striped overalls, sitting on a beanbag chair holding a large open book; squirrel organizing books on shelf; bunny napping in corner\\nStyle/medium: children's picture book illustration, cute and whimsical, rounded smooth lines, bright saturated colors, warm and cozy\\nComposition/framing: medium shot, eye-level perspective, showing the cozy interior scene with multiple characters\\nLighting/mood: warm sunlight streaming through round window, creating soft light spots on book pages, cozy and inviting atmosphere\\nColor palette: warm golden yellows, bright saturated colors for books, soft browns for treehouse, blue overalls accent\\nMaterials/textures: soft rounded illustration style, smooth digital painting, no harsh edges\\nConstraints: keep all three animals (red panda, squirrel, bunny) in scene, maintain warm autumn forest visible through window, include hot cocoa and cookies beside the beanbag\\nAvoid: realistic fur texture, dark shadows, scary elements, cluttered composition, adult-oriented details\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12194
+}

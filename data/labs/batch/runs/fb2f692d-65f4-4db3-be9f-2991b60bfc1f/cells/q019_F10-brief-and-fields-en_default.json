@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for UGREEN NAS brand 618 anniversary celebration e-commerce announcement.\n\nStyle/medium: clean commercial poster design, modern tech brand aesthetic with promotional energy\nComposition: centered layout with strong visual hierarchy, headline at top, product hero in middle, offer details at bottom\nSubject: UGREEN NAS private cloud storage device as hero product, sleek metallic enclosure, subtle glow indicating connectivity\nScene/backdrop: abstract gradient background suggesting cloud/data flow, subtle 618 anniversary visual cues\nLighting/mood: soft product lighting with subtle rim light, professional studio feel, celebratory but not cluttered\nColor palette: UGREEN brand green as primary accent, clean white and light gray base, subtle gold or orange for promotional highlights\nText (verbatim): \"绿联私有云品牌618周年庆活动电商宣布海报\"\nConstraints: must work as e-commerce banner; key information must be readable at thumbnail size; maintain brand consistency\nAvoid: generic stock photo aesthetic; cluttered layout; unreadable small text; excessive decorative elements; 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0793c42f-4ecf-4917-9e73-7e9382c060e1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for UGREEN NAS brand 618 anniversary celebration e-commerce announcement.\\n\\nStyle/medium: clean commercial poster design, modern tech brand aesthetic with promotional energy\\nComposition: centered layout with strong visual hierarchy, headline at top, product hero in middle, offer details at bottom\\nSubject: UGREEN NAS private cloud storage device as hero product, sleek metallic enclosure, subtle glow indicating connectivity\\nScene/backdrop: abstract gradient background suggesting cloud/data flow, subtle 618 anniversary visual cues\\nLighting/mood: soft product lighting with subtle rim light, professional studio feel, celebratory but not cluttered\\nColor palette: UGREEN brand green as primary accent, clean white and light gray base, subtle gold or orange for promotional highlights\\nText (verbatim): \\\"绿联私有云品牌618周年庆活动电商宣布海报\\\"\\nConstraints: must work as e-commerce banner; key information must be readable at thumbnail size; maintain brand consistency\\nAvoid: generic stock photo aesthetic; cluttered layout; unreadable small text; excessive decorative elements; 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9792
+}

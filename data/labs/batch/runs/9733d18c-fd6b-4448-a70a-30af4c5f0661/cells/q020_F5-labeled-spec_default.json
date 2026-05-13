@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-concept-art\nAsset type: cinematic keyframe, wide establishing shot\nPrimary request: Cyberpunk city street scene illustration: 2077 Neo-Tokyo street nightscape\nScene/backdrop: narrow crowded neon street with dense signage, deep perspective leading to skyscrapers fading into smog, wet pavement with reflective puddles, street food stalls in foreground\nSubject: diverse crowd including Japanese women in traditional kimono with cybernetic implants, augmented workers in worn industrial gear, holographic virtual idols performing mid-air, delivery drones weaving through the scene\nStyle/medium: digital painting illustration, Blade Runner 2049 visual aesthetic, dense detail, cinematic concept art\nComposition/framing: extreme deep focus wide shot, street-level perspective, foreground stalls to distant skyscrapers\nLighting/mood: neon-drenched artificial lighting, dramatic high contrast, dreamlike reflections, futuristic yet dystopian atmosphere\nColor palette: intense saturated neons - hot pink, cyan blue, orange-yellow dominating, dark shadows, reflective wet surfaces\nMaterials/textures: wet asphalt with mirror reflections, weathered concrete, glowing holographic projections, metallic cybernetics, traditional silk kimono fabric\nText (verbatim): \"日文、中文、英文\"\nConstraints: maintain deep depth of field from foreground to distant smog-veiled towers, preserve mixed cultural elements, keep neon reflections on wet ground prominent\nAvoid: empty sterile streets, cartoonish proportions, oversimplified signage, washed out colors, generic sci-fi without cultural specificity",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/113e021d-3de2-452d-9f08-cd320728d604/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-concept-art\\nAsset type: cinematic keyframe, wide establishing shot\\nPrimary request: Cyberpunk city street scene illustration: 2077 Neo-Tokyo street nightscape\\nScene/backdrop: narrow crowded neon street with dense signage, deep perspective leading to skyscrapers fading into smog, wet pavement with reflective puddles, street food stalls in foreground\\nSubject: diverse crowd including Japanese women in traditional kimono with cybernetic implants, augmented workers in worn industrial gear, holographic virtual idols performing mid-air, delivery drones weaving through the scene\\nStyle/medium: digital painting illustration, Blade Runner 2049 visual aesthetic, dense detail, cinematic concept art\\nComposition/framing: extreme deep focus wide shot, street-level perspective, foreground stalls to distant skyscrapers\\nLighting/mood: neon-drenched artificial lighting, dramatic high contrast, dreamlike reflections, futuristic yet dystopian atmosphere\\nColor palette: intense saturated neons - hot pink, cyan blue, orange-yellow dominating, dark shadows, reflective wet surfaces\\nMaterials/textures: wet asphalt with mirror reflections, weathered concrete, glowing holographic projections, metallic cybernetics, traditional silk kimono fabric\\nText (verbatim): \\\"日文、中文、英文\\\"\\nConstraints: maintain deep depth of field from foreground to distant smog-veiled towers, preserve mixed cultural elements, keep neon reflections on wet ground prominent\\nAvoid: empty sterile streets, cartoonish proportions, oversimplified signage, washed out colors, generic sci-fi without cultural specificity\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13608
+}

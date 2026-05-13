@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing avatar icon for a content creator account covering new energy vehicles, digital products, and everyday lifestyle goods.\n\nStyle/medium: flat icon / logo avatar\nComposition: \nSubject: visual identity representing new energy vehicles, digital gadgets, and lifestyle products\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: culturally neutral and visually harmonious across both Chinese and international social platforms; must avoid any imagery that could be offensive or taboo to any cultural or religious group\nAvoid: religious symbols, flags, political imagery, human faces, controversial iconography",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3f02b34d-4544-40b7-8140-242469593d03/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing avatar icon for a content creator account covering new energy vehicles, digital products, and everyday lifestyle goods.\\n\\nStyle/medium: flat icon / logo avatar\\nComposition: \\nSubject: visual identity representing new energy vehicles, digital gadgets, and lifestyle products\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: culturally neutral and visually harmonious across both Chinese and international social platforms; must avoid any imagery that could be offensive or taboo to any cultural or religious group\\nAvoid: religious symbols, flags, political imagery, human faces, controversial iconography\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6955
+}

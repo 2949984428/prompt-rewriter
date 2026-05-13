@@ -1,0 +1,23 @@
+{
+  "query_idx": 266,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "做一张抖音直播间的直播画面 10w+场面， 马斯克在卖保暖内衣。",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A74f69de3-bd2a-457a-a9f9-54b0574ec4d6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"做一张抖音直播间的直播画面 10w+场面， 马斯克在卖保暖内衣。\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 25035,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

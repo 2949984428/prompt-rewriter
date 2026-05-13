@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-art\nAsset type: fine art print, traditional Chinese painting\nPrimary request: Chinese ink wash landscape painting with distant mountains, mist, pine trees, thatched cottage, and an elderly man fishing by a stream\nScene/backdrop: layered mountain ranges fading into mist, winding stream, atmospheric clouds\nSubject: distant indigo mountains, swirling mist and clouds, pine trees, thatched cottage, elderly man fishing by the stream\nStyle/medium: traditional Chinese ink wash painting (shanshui), xuan paper texture, brush stroke aesthetics\nComposition/framing: classic Chinese scroll composition with intentional negative space, layered depth from foreground to distant peaks\nLighting/mood: soft diffused natural light, ethereal and contemplative atmosphere, serene and transcendent mood\nColor palette: monochromatic ink tones, subtle gradations from deep black to pale gray, touches of indigo for distant mountains\nMaterials/textures: ink bleeding on absorbent paper, dry brush textures, wet ink washes, visible brush strokes\nConstraints: maintain traditional Chinese painting aesthetics with proper use of negative space, preserve the empty space philosophy of Eastern art\nAvoid: Western perspective, photorealistic rendering, saturated colors, hard edges, modern elements",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cb6e61ac-339b-4907-bb0f-2df1b84f9d5d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-art\\nAsset type: fine art print, traditional Chinese painting\\nPrimary request: Chinese ink wash landscape painting with distant mountains, mist, pine trees, thatched cottage, and an elderly man fishing by a stream\\nScene/backdrop: layered mountain ranges fading into mist, winding stream, atmospheric clouds\\nSubject: distant indigo mountains, swirling mist and clouds, pine trees, thatched cottage, elderly man fishing by the stream\\nStyle/medium: traditional Chinese ink wash painting (shanshui), xuan paper texture, brush stroke aesthetics\\nComposition/framing: classic Chinese scroll composition with intentional negative space, layered depth from foreground to distant peaks\\nLighting/mood: soft diffused natural light, ethereal and contemplative atmosphere, serene and transcendent mood\\nColor palette: monochromatic ink tones, subtle gradations from deep black to pale gray, touches of indigo for distant mountains\\nMaterials/textures: ink bleeding on absorbent paper, dry brush textures, wet ink washes, visible brush strokes\\nConstraints: maintain traditional Chinese painting aesthetics with proper use of negative space, preserve the empty space philosophy of Eastern art\\nAvoid: Western perspective, photorealistic rendering, saturated colors, hard edges, modern elements\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10881
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo of a muscular athlete performing a deadlift in a professional gym setting (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a gritty, high-contrast athletic editorial aesthetic — exact stylistic execution is yours\nComposition: needs a dynamic low-angle or dramatic framing that emphasizes power and form — exact framing is yours\nSubject: must include a muscular athlete with clearly defined muscle lines, mid-deadlift, with visible sweat on skin\nScene/backdrop: must include an industrial-style gym interior with raw textures — exposed metal, concrete, heavy equipment\nLighting/mood: needs a cool-toned, high-intensity atmosphere radiating masculine power and raw strength — exact light source mix is yours\nColor palette: needs a cool, desaturated direction with steel and shadow tones — exact hex values and ratios are yours\nMaterials/textures: needs industrial surface treatment — metal, concrete, rubber flooring — exact grain and sheen are yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: warm or soft tones, feminine aesthetics, cluttered or distracting backgrounds",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8866b04a-8139-43ee-bcc1-f65ad0f33763/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing editorial photo of a muscular athlete performing a deadlift in a professional gym setting (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a gritty, high-contrast athletic editorial aesthetic — exact stylistic execution is yours\\nComposition: needs a dynamic low-angle or dramatic framing that emphasizes power and form — exact framing is yours\\nSubject: must include a muscular athlete with clearly defined muscle lines, mid-deadlift, with visible sweat on skin\\nScene/backdrop: must include an industrial-style gym interior with raw textures — exposed metal, concrete, heavy equipment\\nLighting/mood: needs a cool-toned, high-intensity atmosphere radiating masculine power and raw strength — exact light source mix is yours\\nColor palette: needs a cool, desaturated direction with steel and shadow tones — exact hex values and ratios are yours\\nMaterials/textures: needs industrial surface treatment — metal, concrete, rubber flooring — exact grain and sheen are yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: warm or soft tones, feminine aesthetics, cluttered or distracting backgrounds\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14662
+}

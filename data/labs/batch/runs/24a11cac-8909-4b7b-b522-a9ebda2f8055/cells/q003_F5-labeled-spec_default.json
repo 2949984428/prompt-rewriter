@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: interior lifestyle photo, square crop\nPrimary request: minimalist Scandinavian living room scene, clean and bright with warm natural light\nScene/backdrop: white walls, light oak hardwood floor, large floor-to-ceiling window letting in soft sunlight\nSubject: grey fabric sofa as centerpiece, flanked by a potted green plant and a slim floor lamp\nStyle/medium: photorealistic interior photography, Scandinavian minimalist aesthetic\nComposition/framing: mid-wide shot, eye-level, balanced symmetry with sofa centered\nLighting/mood: soft natural daylight streaming through large window, warm and airy, cozy and inviting atmosphere\nColor palette: white + light warm wood tones + soft grey + muted greens + warm golden sunlight\nMaterials/textures: smooth matte white plaster walls, fine-grain light oak floor planks, woven linen sofa fabric, ceramic planter\nConstraints: keep the scene uncluttered and minimal, no decorative excess, no people in frame\nAvoid: dark shadows, cluttered decor, over-saturated colors, artificial-looking lighting",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b21167ba-4dcf-4df3-bef5-bdf0ff16b759/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: interior lifestyle photo, square crop\\nPrimary request: minimalist Scandinavian living room scene, clean and bright with warm natural light\\nScene/backdrop: white walls, light oak hardwood floor, large floor-to-ceiling window letting in soft sunlight\\nSubject: grey fabric sofa as centerpiece, flanked by a potted green plant and a slim floor lamp\\nStyle/medium: photorealistic interior photography, Scandinavian minimalist aesthetic\\nComposition/framing: mid-wide shot, eye-level, balanced symmetry with sofa centered\\nLighting/mood: soft natural daylight streaming through large window, warm and airy, cozy and inviting atmosphere\\nColor palette: white + light warm wood tones + soft grey + muted greens + warm golden sunlight\\nMaterials/textures: smooth matte white plaster walls, fine-grain light oak floor planks, woven linen sofa fabric, ceramic planter\\nConstraints: keep the scene uncluttered and minimal, no decorative excess, no people in frame\\nAvoid: dark shadows, cluttered decor, over-saturated colors, artificial-looking lighting\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8741
+}

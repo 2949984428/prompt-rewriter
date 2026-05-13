@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic for a technical tutorial on deploying Hermes in a Docker container and integrating with GLMCodingPlan, presented in clear numbered steps.\n\nStyle/medium: flat vector infographic, technical documentation style, clean diagrammatic layout with numbered step blocks\nComposition: vertical scroll layout with 4 distinct numbered sections (1-2-3-4), each containing a visual diagram and brief annotation\nSubject: Docker container deployment workflow — Hermes service setup, containerization, GLMCodingPlan integration, and verification steps\nScene/backdrop: clean white or light gray background with subtle grid lines, code snippets as decorative elements\nText (verbatim): \"1\" \"2\" \"3\" \"4\" \"hermes\" \"glmcodingplan\" \"docker\"\nConstraints: each step must be visually distinct with clear numbering; diagrams must illustrate container and service relationships; text must be legible at small sizes; no copyrighted logos\nAvoid: photorealistic 3D renders; cluttered layouts; missing step numbers; generic stock illustrations; Behance trendy flat style",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c78dfe07-9ee8-464a-b1db-b97f97be5998/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing infographic for a technical tutorial on deploying Hermes in a Docker container and integrating with GLMCodingPlan, presented in clear numbered steps.\\n\\nStyle/medium: flat vector infographic, technical documentation style, clean diagrammatic layout with numbered step blocks\\nComposition: vertical scroll layout with 4 distinct numbered sections (1-2-3-4), each containing a visual diagram and brief annotation\\nSubject: Docker container deployment workflow — Hermes service setup, containerization, GLMCodingPlan integration, and verification steps\\nScene/backdrop: clean white or light gray background with subtle grid lines, code snippets as decorative elements\\nText (verbatim): \\\"1\\\" \\\"2\\\" \\\"3\\\" \\\"4\\\" \\\"hermes\\\" \\\"glmcodingplan\\\" \\\"docker\\\"\\nConstraints: each step must be visually distinct with clear numbering; diagrams must illustrate container and service relationships; text must be legible at small sizes; no copyrighted logos\\nAvoid: photorealistic 3D renders; cluttered layouts; missing step numbers; generic stock illustrations; Behance trendy flat style\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7132
+}

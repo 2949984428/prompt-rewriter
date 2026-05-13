@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for a Xiaohongshu (Little Red Book) cover image featuring the DJI Pocket 4 product, targeting amateur creator aesthetic.\n\nStyle/medium: Xiaohongshu amateur creator aesthetic, casual flat-lay photography style, playful and approachable visual language\nComposition: 3x3 grid layout (nine-square format), product centered, title prominently placed in middle section\nSubject: DJI Pocket 4 handheld gimbal camera as hero product, clean product shot with soft shadows\nScene/backdrop: clean minimal surface (white or light wood desk), subtle lifestyle props suggesting content creation\nColor palette: soft pastel base with warm neutral accents, product color as visual anchor\nText (verbatim): \"大强pocket4初体验\"\nConstraints: must work as 3:4 vertical cover image for Xiaohongshu feed; title typography must be cute and differentiated from standard fonts; maintain amateur/素人 authenticity without looking over-produced\nAvoid: stock photo aesthetic; overly polished commercial look; generic sans-serif fonts; cluttered background; 8K stuffer language",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/77da4fd4-210f-4c74-a076-7227d9b17b59/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing marketing poster for a Xiaohongshu (Little Red Book) cover image featuring the DJI Pocket 4 product, targeting amateur creator aesthetic.\\n\\nStyle/medium: Xiaohongshu amateur creator aesthetic, casual flat-lay photography style, playful and approachable visual language\\nComposition: 3x3 grid layout (nine-square format), product centered, title prominently placed in middle section\\nSubject: DJI Pocket 4 handheld gimbal camera as hero product, clean product shot with soft shadows\\nScene/backdrop: clean minimal surface (white or light wood desk), subtle lifestyle props suggesting content creation\\nColor palette: soft pastel base with warm neutral accents, product color as visual anchor\\nText (verbatim): \\\"大强pocket4初体验\\\"\\nConstraints: must work as 3:4 vertical cover image for Xiaohongshu feed; title typography must be cute and differentiated from standard fonts; maintain amateur/素人 authenticity without looking over-produced\\nAvoid: stock photo aesthetic; overly polished commercial look; generic sans-serif fonts; cluttered background; 8K stuffer language\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10343
+}

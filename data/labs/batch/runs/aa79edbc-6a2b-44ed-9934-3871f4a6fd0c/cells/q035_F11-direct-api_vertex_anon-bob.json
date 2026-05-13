@@ -1,0 +1,26 @@
+{
+  "query_idx": 35,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "先做logo 做一个宠物用品品牌 然后再做周边",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1dbaa05d-061b-46c6-bcb0-46271e5e839c/0.jpg",
+    "/api/image-file/lovart%3A1dbaa05d-061b-46c6-bcb0-46271e5e839c/1.jpg",
+    "/api/image-file/lovart%3A1dbaa05d-061b-46c6-bcb0-46271e5e839c/2.jpg",
+    "/api/image-file/lovart%3A1dbaa05d-061b-46c6-bcb0-46271e5e839c/3.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"先做logo 做一个宠物用品品牌 然后再做周边\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13162,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

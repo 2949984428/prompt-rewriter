@@ -1,0 +1,23 @@
+{
+  "query_idx": 69,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计日式料理品牌的包装和视觉形象，以上传的标志（#1:logo）作为参考。\n\n风格/媒介:日式料理品牌视觉形象，包装设计\n构图:16:9 横构图\n主体:品牌包装与视觉形象系统\n场景/背景:\n光线/氛围:\n色彩方案:参考上传标志的配色\n材质/纹理:\n文字(原样):\n约束:以 #1:logo 标志作为品牌识别参考，保留标志的视觉风格与识别元素\n避免:",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A481e02db-2cb3-4657-a414-b051f78eaae1/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计日式料理品牌的包装和视觉形象，以上传的标志（#1:logo）作为参考。\\n\\n风格/媒介:日式料理品牌视觉形象，包装设计\\n构图:16:9 横构图\\n主体:品牌包装与视觉形象系统\\n场景/背景:\\n光线/氛围:\\n色彩方案:参考上传标志的配色\\n材质/纹理:\\n文字(原样):\\n约束:以 #1:logo 标志作为品牌识别参考，保留标志的视觉风格与识别元素\\n避免:\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5842,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 68,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Untitled-1] 请根据这个logo和这套背景风格做一系列的 logo application 内容，包括网页，手机app，明信片，信纸等办公用具。把这些图排版在一张横版的图上。",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2ff4e9f6-2ec7-458c-a020-8976bd676a14/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Untitled-1] 请根据这个logo和这套背景风格做一系列的 logo application 内容，包括网页，手机app，明信片，信纸等办公用具。把这些图排版在一张横版的图上。\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3047,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

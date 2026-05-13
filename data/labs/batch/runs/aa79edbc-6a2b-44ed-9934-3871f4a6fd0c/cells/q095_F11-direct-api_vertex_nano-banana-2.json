@@ -1,0 +1,23 @@
+{
+  "query_idx": 95,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:江南世家Logo竖版设计-书法波浪版本] 重新设计一下这个logo，品牌名叫江南世家",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa3cb6be3-5402-40fe-960d-f89ef1f18e6c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:江南世家Logo竖版设计-书法波浪版本] 重新设计一下这个logo，品牌名叫江南世家\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3614,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

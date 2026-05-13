@@ -1,0 +1,23 @@
+{
+  "query_idx": 166,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑产品展示图 —— 根据吹风机正反面外观，生成一张与参考图排版一致的产品图。\n\n风格/媒介：产品展示图，参考 [@image:#2:图片9] 的排版与构图风格\n构图：与参考图 [@image:#2:图片9] 排版完全一致\n主体：吹风机（正反面），参考 [@image:#1:_DSC2594]\n场景/背景：卡其色色调背景\n光线/氛围：\n色彩方案：卡其色色调\n材质/纹理：\n文字(原样)：\n约束：\n  仅生成一张\n  图片尺寸与参考图 [@image:#2:图片9] 一致\n避免：",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae1c7f640-ed68-412a-845b-5c78665b8719/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑产品展示图 —— 根据吹风机正反面外观，生成一张与参考图排版一致的产品图。\\n\\n风格/媒介：产品展示图，参考 [@image:#2:图片9] 的排版与构图风格\\n构图：与参考图 [@image:#2:图片9] 排版完全一致\\n主体：吹风机（正反面），参考 [@image:#1:_DSC2594]\\n场景/背景：卡其色色调背景\\n光线/氛围：\\n色彩方案：卡其色色调\\n材质/纹理：\\n文字(原样)：\\n约束：\\n  仅生成一张\\n  图片尺寸与参考图 [@image:#2:图片9] 一致\\n避免：\", \"size\": \"auto\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6158,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

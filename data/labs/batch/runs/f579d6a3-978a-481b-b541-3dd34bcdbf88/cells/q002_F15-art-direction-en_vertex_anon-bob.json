@@ -1,0 +1,21 @@
+{
+  "query_idx": 2,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a documentary-style news/editorial photograph for a 微博 trending post, wide 16:9 banner format.\n\nStyle/medium: needs a photojournalistic, high-end smartphone documentary aesthetic — exact stylistic execution is yours\nComposition: must be wide horizontal 16:9 with generous negative space for text overlay; main scene extends across full width\nSubject: must include a city skyline at dusk with neon lights beginning to glow, hurrying pedestrians in the foreground, and distant skyscrapers reflecting the last sunlight\nScene/backdrop: must include an urban dusk environment — neon-lit street level below, golden-hour high-rise reflections above\nLighting/mood: needs a dramatic, high-contrast golden-hour-to-neon transition atmosphere — exact light source mix is yours\nColor palette: needs a warm-to-cool dusk direction with vivid neon accents — exact hues and ratios are yours\nMaterials/textures: needs a sharp, 8K-textured photorealistic surface quality — exact grain and sheen are yours\nText (verbatim): must include \"城市里的安静时刻\" (large, bold primary headline, prominent position), \"黄昏，总能治愈一天的匆忙\" (secondary subtitle), \"@龙爪槐守望者real · 生活观察\" (small watermark, bottom-right corner)\nConstraints: must preserve strict 16:9 horizontal framing; layout must leave sufficient clear zones for text overlays without crowding the scene\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A84328586-ed93-4efb-af00-c5d283430a8a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a documentary-style news/editorial photograph for a 微博 trending post, wide 16:9 banner format.\\n\\nStyle/medium: needs a photojournalistic, high-end smartphone documentary aesthetic — exact stylistic execution is yours\\nComposition: must be wide horizontal 16:9 with generous negative space for text overlay; main scene extends across full width\\nSubject: must include a city skyline at dusk with neon lights beginning to glow, hurrying pedestrians in the foreground, and distant skyscrapers reflecting the last sunlight\\nScene/backdrop: must include an urban dusk environment — neon-lit street level below, golden-hour high-rise reflections above\\nLighting/mood: needs a dramatic, high-contrast golden-hour-to-neon transition atmosphere — exact light source mix is yours\\nColor palette: needs a warm-to-cool dusk direction with vivid neon accents — exact hues and ratios are yours\\nMaterials/textures: needs a sharp, 8K-textured photorealistic surface quality — exact grain and sheen are yours\\nText (verbatim): must include \\\"城市里的安静时刻\\\" (large, bold primary headline, prominent position), \\\"黄昏，总能治愈一天的匆忙\\\" (secondary subtitle), \\\"@龙爪槐守望者real · 生活观察\\\" (small watermark, bottom-right corner)\\nConstraints: must preserve strict 16:9 horizontal framing; layout must leave sufficient clear zones for text overlays without crowding the scene\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10732
+}

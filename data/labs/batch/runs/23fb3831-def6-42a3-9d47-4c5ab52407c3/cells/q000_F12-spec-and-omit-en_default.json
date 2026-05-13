@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a bubble milk tea product in a pink girly style with a summer refreshing feel.\n\nStyle/medium: pink girly style\nComposition: \nSubject: pearl milk tea (bubble tea)\nScene/backdrop: \nLighting/mood: summer refreshing\nColor palette: pink\nMaterials/textures: \nText (verbatim): \nConstraints: vertical format suited for 小红书 cover\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e66b67a0-288c-4138-9ad6-8a2ab2c90dc3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster for a bubble milk tea product in a pink girly style with a summer refreshing feel.\\n\\nStyle/medium: pink girly style\\nComposition: \\nSubject: pearl milk tea (bubble tea)\\nScene/backdrop: \\nLighting/mood: summer refreshing\\nColor palette: pink\\nMaterials/textures: \\nText (verbatim): \\nConstraints: vertical format suited for 小红书 cover\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4512
+}

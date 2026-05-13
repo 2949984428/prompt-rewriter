@@ -1,0 +1,23 @@
+{
+  "query_idx": 186,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑图1（电饭煲产品图）。\n\n风格/媒介:photorealistic，效果如真实拍摄\n构图:\n主体:将图1中的产品替换为图2中的产品\n场景/背景:完全保留图1的场景、光影和氛围不变\n光线/氛围:保持图1原有光线与氛围不变\n色彩方案:图2产品的颜色与质感保持原貌，不被染色或改变\n材质/纹理:图2产品材质与纹理原样保留\n文字(原样):\n约束:\n  TikTok Shop 平台产品图用途\n  产品与场景整体融合自然\n  图2产品不受图1场景色调影响\n避免:产品颜色被场景光色染色；融合不自然；产品质感失真",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae44546a3-2ebd-477d-a1e1-ee0ffef50d4f/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑图1（电饭煲产品图）。\\n\\n风格/媒介:photorealistic，效果如真实拍摄\\n构图:\\n主体:将图1中的产品替换为图2中的产品\\n场景/背景:完全保留图1的场景、光影和氛围不变\\n光线/氛围:保持图1原有光线与氛围不变\\n色彩方案:图2产品的颜色与质感保持原貌，不被染色或改变\\n材质/纹理:图2产品材质与纹理原样保留\\n文字(原样):\\n约束:\\n  TikTok Shop 平台产品图用途\\n  产品与场景整体融合自然\\n  图2产品不受图1场景色调影响\\n避免:产品颜色被场景光色染色；融合不自然；产品质感失真\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 14536,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

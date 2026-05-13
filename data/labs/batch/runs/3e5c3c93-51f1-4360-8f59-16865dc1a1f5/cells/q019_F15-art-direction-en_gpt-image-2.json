@@ -1,0 +1,21 @@
+{
+  "query_idx": 19,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\n\nStyle/medium: needs a 618 大促电商 festive-campaign aesthetic — exact stylistic execution is yours\nComposition: needs a bold hero-layout direction — exact framing and hierarchy are yours\nSubject: must include 绿联私有云 as the brand focal subject with 618周年庆 as the campaign theme\nScene/backdrop: needs a celebratory campaign backdrop — exact environment is yours\nLighting/mood: needs a high-energy festive atmosphere — exact light treatment is yours\nColor palette: needs a vibrant 大促 direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"绿联私有云\" (brand name), \"618\" (large, primary), \"周年庆\" (secondary)\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Af1d56ba5-54f3-450b-885e-bbc6bc33ca6a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\\n\\nStyle/medium: needs a 618 大促电商 festive-campaign aesthetic — exact stylistic execution is yours\\nComposition: needs a bold hero-layout direction — exact framing and hierarchy are yours\\nSubject: must include 绿联私有云 as the brand focal subject with 618周年庆 as the campaign theme\\nScene/backdrop: needs a celebratory campaign backdrop — exact environment is yours\\nLighting/mood: needs a high-energy festive atmosphere — exact light treatment is yours\\nColor palette: needs a vibrant 大促 direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"绿联私有云\\\" (brand name), \\\"618\\\" (large, primary), \\\"周年庆\\\" (secondary)\\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7177
+}

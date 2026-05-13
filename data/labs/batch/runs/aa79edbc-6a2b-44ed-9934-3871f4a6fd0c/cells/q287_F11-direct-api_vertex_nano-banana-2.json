@@ -1,0 +1,23 @@
+{
+  "query_idx": 287,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Image] 为该产品设计一个[@image:#2:image] 风格的商用宣传图，使用neo brutalism风格，发布在微信朋友圈。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab1893092-4758-4815-bff7-f10d13bb2578/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Image] 为该产品设计一个[@image:#2:image] 风格的商用宣传图，使用neo brutalism风格，发布在微信朋友圈。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3127,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

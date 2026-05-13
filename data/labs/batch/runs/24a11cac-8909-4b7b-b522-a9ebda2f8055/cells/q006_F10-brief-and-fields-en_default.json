@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a young woman leaning against a neon sign on a 1990s Hong Kong street, in vintage film style.\n\nStyle/medium: 35mm film photography, expired Kodak Gold or Fuji 400H emulation, in the spirit of Wong Kar-wai's Chungking Express and Fallen Angels — warm-toned, grainy, nostalgic\nComposition: medium shot, slight low-angle, 50mm prime lens, shallow depth of field with soft bokeh on background neon signs\nSubject: young woman in a denim jacket, leaning casually against a glowing neon sign, relaxed and introspective expression, hair slightly disheveled\nScene/backdrop: 1990s Hong Kong street at night — dense overhead signage in Chinese characters, wet pavement reflecting neon, narrow alley or bustling sidewalk\nLighting/mood: warm amber and red neon glow as key light, soft haze and atmospheric fog, moody and melancholic, deeply nostalgic\nColor palette: warm amber and orange as dominant tones, deep shadow blacks, occasional pink/red neon accent — no cool blue dominance\nMaterials/textures: visible film grain throughout, slight halation around neon light sources, subtle lens softness, denim jacket texture\nAvoid: digital sharpness, clean HDR look, modern smartphone aesthetic, overexposed highlights, cold blue color grading, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0fc9402c-f4ad-4359-97c7-06eed746d59e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a young woman leaning against a neon sign on a 1990s Hong Kong street, in vintage film style.\\n\\nStyle/medium: 35mm film photography, expired Kodak Gold or Fuji 400H emulation, in the spirit of Wong Kar-wai's Chungking Express and Fallen Angels — warm-toned, grainy, nostalgic\\nComposition: medium shot, slight low-angle, 50mm prime lens, shallow depth of field with soft bokeh on background neon signs\\nSubject: young woman in a denim jacket, leaning casually against a glowing neon sign, relaxed and introspective expression, hair slightly disheveled\\nScene/backdrop: 1990s Hong Kong street at night — dense overhead signage in Chinese characters, wet pavement reflecting neon, narrow alley or bustling sidewalk\\nLighting/mood: warm amber and red neon glow as key light, soft haze and atmospheric fog, moody and melancholic, deeply nostalgic\\nColor palette: warm amber and orange as dominant tones, deep shadow blacks, occasional pink/red neon accent — no cool blue dominance\\nMaterials/textures: visible film grain throughout, slight halation around neon light sources, subtle lens softness, denim jacket texture\\nAvoid: digital sharpness, clean HDR look, modern smartphone aesthetic, overexposed highlights, cold blue color grading, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15522
+}

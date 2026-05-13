@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a cross-border e-commerce promotional campaign.\n\nStyle/medium: needs a \"促销海报\" (promotional poster) aesthetic with layered typography — references in the spirit of David Carson 1990s editorial typography, contemporary e-commerce campaign visuals (Alibaba / Amazon Prime Day), Swiss International Style poster heritage; exact stylistic execution is yours\nComposition: must be 16:9 aspect ratio, must include layered/stacked typography arrangement, must include a product or subject partially overlapping/obscuring some text elements\nSubject: must include a product or main subject as focal point that blocks portions of the typography\nScene/backdrop: needs a promotional campaign atmosphere — exact background treatment is yours\nLighting/mood: needs high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs vibrant promotional direction — exact hex values and ratios are yours\nMaterials/textures: needs polished commercial surface treatment — exact sheen and weight is yours\nText (verbatim): must include artistic/display typography with Chinese characters for promotional messaging\nConstraints: must preserve 16:9 ratio, must include stacked/layered fonts, must have product overlapping text, must maintain visual complexity without appearing cluttered\nAvoid: must avoid chaotic/unreadable layout, must avoid flat/unlayered typography",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6611ab08-6073-4cf6-9ae8-435d90e2be2b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a cross-border e-commerce promotional campaign.\\n\\nStyle/medium: needs a \\\"促销海报\\\" (promotional poster) aesthetic with layered typography — references in the spirit of David Carson 1990s editorial typography, contemporary e-commerce campaign visuals (Alibaba / Amazon Prime Day), Swiss International Style poster heritage; exact stylistic execution is yours\\nComposition: must be 16:9 aspect ratio, must include layered/stacked typography arrangement, must include a product or subject partially overlapping/obscuring some text elements\\nSubject: must include a product or main subject as focal point that blocks portions of the typography\\nScene/backdrop: needs a promotional campaign atmosphere — exact background treatment is yours\\nLighting/mood: needs high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs vibrant promotional direction — exact hex values and ratios are yours\\nMaterials/textures: needs polished commercial surface treatment — exact sheen and weight is yours\\nText (verbatim): must include artistic/display typography with Chinese characters for promotional messaging\\nConstraints: must preserve 16:9 ratio, must include stacked/layered fonts, must have product overlapping text, must maintain visual complexity without appearing cluttered\\nAvoid: must avoid chaotic/unreadable layout, must avoid flat/unlayered typography\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11570
+}

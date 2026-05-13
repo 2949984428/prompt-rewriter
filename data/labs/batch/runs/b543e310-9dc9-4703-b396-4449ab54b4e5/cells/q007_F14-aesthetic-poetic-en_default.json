@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a detailed technical exploded-view diagram of a Sony A7 camera, showing all components with labeled part names.\n\nStyle/medium: technical illustration with the clean precision of industrial design documentation\nComposition: exploded axonometric view, components floating in logical disassembly order from front-left to back-right, each part with a fine leader line to its label\nSubject: Sony A7 camera fully disassembled — body shell, sensor assembly, shutter mechanism, mirrorless mount, EVF unit, LCD hinge, battery compartment, control dials, buttons, ports, circuit boards, and all internal mechanical parts\nScene/backdrop: neutral studio gray gradient, generous breathing room around the exploded assembly\nLighting/mood: even diffused studio lighting that reveals surface details and material differences without drama\nColor palette: neutral graphite and silver tones, Sony's characteristic matte black body, subtle metallic accents on screws and contacts\nMaterials/textures: matte black polycarbonate shell, brushed magnesium alloy frame, glass sensor cover, rubber grip texture, printed circuit green\nText (verbatim): Sony A7\nConstraints: all major components visible and spatially separated, leader lines clear and unobstructed, labels positioned for readability, accurate Sony A7 form factor\nAvoid: cluttered overlapping parts, illegible small labels, decorative flourishes, photorealistic rendering that obscures technical clarity",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3528144f-6288-4fd1-b43f-e3d6eb41a721/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a detailed technical exploded-view diagram of a Sony A7 camera, showing all components with labeled part names.\\n\\nStyle/medium: technical illustration with the clean precision of industrial design documentation\\nComposition: exploded axonometric view, components floating in logical disassembly order from front-left to back-right, each part with a fine leader line to its label\\nSubject: Sony A7 camera fully disassembled — body shell, sensor assembly, shutter mechanism, mirrorless mount, EVF unit, LCD hinge, battery compartment, control dials, buttons, ports, circuit boards, and all internal mechanical parts\\nScene/backdrop: neutral studio gray gradient, generous breathing room around the exploded assembly\\nLighting/mood: even diffused studio lighting that reveals surface details and material differences without drama\\nColor palette: neutral graphite and silver tones, Sony's characteristic matte black body, subtle metallic accents on screws and contacts\\nMaterials/textures: matte black polycarbonate shell, brushed magnesium alloy frame, glass sensor cover, rubber grip texture, printed circuit green\\nText (verbatim): Sony A7\\nConstraints: all major components visible and spatially separated, leader lines clear and unobstructed, labels positioned for readability, accurate Sony A7 form factor\\nAvoid: cluttered overlapping parts, illegible small labels, decorative flourishes, photorealistic rendering that obscures technical clarity\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12665
+}

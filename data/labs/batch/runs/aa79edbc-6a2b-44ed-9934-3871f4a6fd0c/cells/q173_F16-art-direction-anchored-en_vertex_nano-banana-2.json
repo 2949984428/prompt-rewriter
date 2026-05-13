@@ -1,0 +1,23 @@
+{
+  "query_idx": 173,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张亚马逊德国站浴帘产品主图。\n\n风格/媒介: 电商产品主图，写实风格，清晰直观\n构图:\n  画面分为两侧对比结构，左侧展示磨毛正面（柔软布料质感），右侧展示TPU背面（防水光滑质感）\n  中央或顶部放置品牌文案，层次清晰\n  结合参考图一（面料按压图）展示正面磨毛触感，结合参考图二（防水图）展示背面防水效果\n  整体呈现\"二合一\"双面结构，让客户直观理解产品特点\n主体: 浴帘产品，正面磨毛涤纶面料（柔软、哑光布料质感），背面TPU覆膜（光滑、防水薄膜质感）\n场景/背景: 简洁干净的背景，突出产品本身\n光线/氛围: 明亮均匀的光线，清晰呈现两种材质对比\n色彩方案:\n材质/纹理:\n  正面：磨毛涤纶，柔软哑光布料纹理\n  背面：TPU覆膜，光滑半透明防水薄膜质感\n文字(原样):\n  2-in-1 Duschvorhang\n  Weich wie Stoff. Dicht wie Kunststoff\n  Haptik wie Polyester Weich & Geschmeidig\n  Funktion wie ein Kunststoff-Duschvorhang\n  100 % wasserdicht, kein Durchsickern\n  Außen weich wie Stoff – innen 100% wasserdicht\n约束:\n  参考图一（面料按压图）用于体现正面磨毛柔软触感\n  参考图二（防水图）用于体现背面TPU防水功能\n  文案须完整呈现在画面中，字体清晰可读\n  符合亚马逊主图规范，主体突出\n避免: 杂乱背景、过多装饰元素、文字遮挡主体关键区域",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Abeeeaa27-d480-4034-acfe-148d7d024bd5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张亚马逊德国站浴帘产品主图。\\n\\n风格/媒介: 电商产品主图，写实风格，清晰直观\\n构图:\\n  画面分为两侧对比结构，左侧展示磨毛正面（柔软布料质感），右侧展示TPU背面（防水光滑质感）\\n  中央或顶部放置品牌文案，层次清晰\\n  结合参考图一（面料按压图）展示正面磨毛触感，结合参考图二（防水图）展示背面防水效果\\n  整体呈现\\\"二合一\\\"双面结构，让客户直观理解产品特点\\n主体: 浴帘产品，正面磨毛涤纶面料（柔软、哑光布料质感），背面TPU覆膜（光滑、防水薄膜质感）\\n场景/背景: 简洁干净的背景，突出产品本身\\n光线/氛围: 明亮均匀的光线，清晰呈现两种材质对比\\n色彩方案:\\n材质/纹理:\\n  正面：磨毛涤纶，柔软哑光布料纹理\\n  背面：TPU覆膜，光滑半透明防水薄膜质感\\n文字(原样):\\n  2-in-1 Duschvorhang\\n  Weich wie Stoff. Dicht wie Kunststoff\\n  Haptik wie Polyester Weich & Geschmeidig\\n  Funktion wie ein Kunststoff-Duschvorhang\\n  100 % wasserdicht, kein Durchsickern\\n  Außen weich wie Stoff – innen 100% wasserdicht\\n约束:\\n  参考图一（面料按压图）用于体现正面磨毛柔软触感\\n  参考图二（防水图）用于体现背面TPU防水功能\\n  文案须完整呈现在画面中，字体清晰可读\\n  符合亚马逊主图规范，主体突出\\n避免: 杂乱背景、过多装饰元素、文字遮挡主体关键区域\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 16096,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

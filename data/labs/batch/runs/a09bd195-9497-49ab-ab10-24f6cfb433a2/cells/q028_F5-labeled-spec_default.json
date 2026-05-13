@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: commercial fitness photography, hero shot\nPrimary request: muscular athlete performing a deadlift in a professional gym, capturing sweat and raw power\nScene/backdrop: industrial-style gym interior with exposed brick walls, black steel beams, concrete flooring, and minimal equipment visible\nSubject: highly defined muscular male athlete in mid-deadlift, visible sweat on skin, intense focus, powerful physique with pronounced muscle definition\nStyle/medium: commercial fitness photography, high-contrast editorial\nComposition/framing: medium shot from side angle, capturing full body during lift, shallow depth of field\nLighting/mood: cool-toned LED lighting, dramatic side lighting emphasizing muscle contours, intense and powerful atmosphere\nColor palette: cool blues and grays, steel accents, desaturated skin tones with highlights\nMaterials/textures: glistening sweat on skin, rough concrete, matte black metal equipment, worn leather weight belt\nConstraints: athlete must be the focal point, capture the peak moment of exertion, industrial aesthetic must be prominent\nAvoid: warm lighting, colorful distractions, cartoonish muscles, plastic-looking skin, cluttered background",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d1e0d006-7fd3-4636-9e62-d0050028670a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: commercial fitness photography, hero shot\\nPrimary request: muscular athlete performing a deadlift in a professional gym, capturing sweat and raw power\\nScene/backdrop: industrial-style gym interior with exposed brick walls, black steel beams, concrete flooring, and minimal equipment visible\\nSubject: highly defined muscular male athlete in mid-deadlift, visible sweat on skin, intense focus, powerful physique with pronounced muscle definition\\nStyle/medium: commercial fitness photography, high-contrast editorial\\nComposition/framing: medium shot from side angle, capturing full body during lift, shallow depth of field\\nLighting/mood: cool-toned LED lighting, dramatic side lighting emphasizing muscle contours, intense and powerful atmosphere\\nColor palette: cool blues and grays, steel accents, desaturated skin tones with highlights\\nMaterials/textures: glistening sweat on skin, rough concrete, matte black metal equipment, worn leather weight belt\\nConstraints: athlete must be the focal point, capture the peak moment of exertion, industrial aesthetic must be prominent\\nAvoid: warm lighting, colorful distractions, cartoonish muscles, plastic-looking skin, cluttered background\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10767
+}

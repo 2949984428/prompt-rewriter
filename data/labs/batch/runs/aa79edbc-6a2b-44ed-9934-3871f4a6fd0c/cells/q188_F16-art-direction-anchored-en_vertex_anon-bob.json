@@ -1,0 +1,23 @@
+{
+  "query_idx": 188,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a TikTok-style product detail page image for an overseas e-commerce listing.\n\nStyle/medium: clean e-commerce product detail page, flat-lay and lifestyle hybrid, crisp and elegant presentation\n\nComposition:\n  hero product shot centered with supporting items arranged around it\n  foldable prayer mat unfolded to show the classic pattern, green tassel prayer beads placed alongside, silk storage pouch open nearby\n  key feature callouts with short English text labels pointing to product details\n  generous white or soft neutral background to keep focus on the product\n\nSubject:\n  premium foldable prayer mat with classic woven pattern — soft, portable, travel-friendly\n  matching green tassel prayer beads (misbaha/tasbih)\n  elegant silk storage pouch that holds all items\n  complete gift set presented together\n\nScene/backdrop: clean neutral background, minimal styling, no clutter\n\nLighting/mood: bright, even, inviting — conveys premium quality and gift-worthy appeal\n\nColor palette: rich emerald / deep green as the dominant accent color throughout the set\n\nMaterials/textures: soft fabric texture on the prayer mat, silk sheen on the pouch, smooth beads\n\nText (verbatim):\n  \"Premium Foldable Prayer Mat Set\"\n  \"Classic Pattern · Ultra Soft · Portable\"\n  \"Matching Green Tasbih Beads\"\n  \"Elegant Silk Storage Pouch\"\n  \"Perfect Ramadan & Eid Gift 🌙\"\n  \"Shop Now\"\n\nConstraints:\n  all text must be in accurate English\n  product features must be clearly highlighted to drive purchase intent\n  layout should feel suitable for TikTok / social commerce product detail page\n  reference the three provided product photos for color, pattern, and item details\n\nAvoid: dark or moody lighting, cluttered backgrounds, inaccurate colors, non-English text",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5a1d5f95-affc-49d4-ba01-b4c9c2c18416/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate a TikTok-style product detail page image for an overseas e-commerce listing.\\n\\nStyle/medium: clean e-commerce product detail page, flat-lay and lifestyle hybrid, crisp and elegant presentation\\n\\nComposition:\\n  hero product shot centered with supporting items arranged around it\\n  foldable prayer mat unfolded to show the classic pattern, green tassel prayer beads placed alongside, silk storage pouch open nearby\\n  key feature callouts with short English text labels pointing to product details\\n  generous white or soft neutral background to keep focus on the product\\n\\nSubject:\\n  premium foldable prayer mat with classic woven pattern — soft, portable, travel-friendly\\n  matching green tassel prayer beads (misbaha/tasbih)\\n  elegant silk storage pouch that holds all items\\n  complete gift set presented together\\n\\nScene/backdrop: clean neutral background, minimal styling, no clutter\\n\\nLighting/mood: bright, even, inviting — conveys premium quality and gift-worthy appeal\\n\\nColor palette: rich emerald / deep green as the dominant accent color throughout the set\\n\\nMaterials/textures: soft fabric texture on the prayer mat, silk sheen on the pouch, smooth beads\\n\\nText (verbatim):\\n  \\\"Premium Foldable Prayer Mat Set\\\"\\n  \\\"Classic Pattern · Ultra Soft · Portable\\\"\\n  \\\"Matching Green Tasbih Beads\\\"\\n  \\\"Elegant Silk Storage Pouch\\\"\\n  \\\"Perfect Ramadan & Eid Gift 🌙\\\"\\n  \\\"Shop Now\\\"\\n\\nConstraints:\\n  all text must be in accurate English\\n  product features must be clearly highlighted to drive purchase intent\\n  layout should feel suitable for TikTok / social commerce product detail page\\n  reference the three provided product photos for color, pattern, and item details\\n\\nAvoid: dark or moody lighting, cluttered backgrounds, inaccurate colors, non-English text\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 19959,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

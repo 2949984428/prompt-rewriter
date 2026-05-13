@@ -1,0 +1,23 @@
+{
+  "query_idx": 261,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Image of a canned salmon recipe, with the central title 'What is the correct way to eat canned salmon?'. Split-screen layout. Top half: Flat lay of fresh ingredients (canned salmon chunks, lemon wedges, parsley, breadcrumbs). Bottom half: Delicious golden-brown cooked salmon patties. Text on a plain white banner in a stylish yet clear and legible handwritten font (readable at a glance). Warm food photography lighting and striking colors. A clear \"simmerrecipes.com\" watermark at the bottom. Suitable for Instagram posting.\", \"image_size\": {\"width\": 1000,\"height\": 1500}}",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A76892596-1d96-41d2-af1a-d2b1b2442bac/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Image of a canned salmon recipe, with the central title 'What is the correct way to eat canned salmon?'. Split-screen layout. Top half: Flat lay of fresh ingredients (canned salmon chunks, lemon wedges, parsley, breadcrumbs). Bottom half: Delicious golden-brown cooked salmon patties. Text on a plain white banner in a stylish yet clear and legible handwritten font (readable at a glance). Warm food photography lighting and striking colors. A clear \\\"simmerrecipes.com\\\" watermark at the bottom. Suitable for Instagram posting.\\\", \\\"image_size\\\": {\\\"width\\\": 1000,\\\"height\\\": 1500}}\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4049,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

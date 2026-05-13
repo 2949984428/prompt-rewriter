@@ -1,0 +1,23 @@
+{
+  "query_idx": 167,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:01]优化这张日本亚马逊A+图，不改变图片内容和色系，对整体进行视觉优化，调整边框，优化右侧插图的亮度饱和度，使之过渡自然，跟整图融为一体，没有拼接痕迹，图片高清，1940x1200",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3155a087-6ca2-48de-94d5-4b2fa0ec37e4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:01]优化这张日本亚马逊A+图，不改变图片内容和色系，对整体进行视觉优化，调整边框，优化右侧插图的亮度饱和度，使之过渡自然，跟整图融为一体，没有拼接痕迹，图片高清，1940x1200\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4393,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

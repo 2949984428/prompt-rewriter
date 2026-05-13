@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a tropical resort hotel pool scene overlooking the ocean.\n\nStyle/medium: photorealistic travel photography, resort brochure aesthetic, high saturation editorial\nComposition: wide establishing shot from pool deck level, infinity pool edge leading the eye toward horizon, 24mm wide-angle lens\nSubject: infinity pool with still water, white lounge chairs with matching umbrellas, tall coconut palms framing the scene\nScene/backdrop: open ocean horizon, tropical blue sky with fluffy cumulus clouds, resort deck flooring\nLighting/mood: bright midday sun, crisp shadows, vacation optimism and escapism\nColor palette: saturated turquoise pool water, deep ocean blue, vivid sky blue, crisp white furniture, lush green palm fronds\nMaterials/textures: smooth water surface, woven rattan or fabric umbrella texture, glossy pool tiles, matte concrete deck\nAvoid: muted colors, overcast sky, cluttered composition, watermark, 8K stuffer text",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1d674632-a54d-4eb0-b91b-8022e0b2868f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a tropical resort hotel pool scene overlooking the ocean.\\n\\nStyle/medium: photorealistic travel photography, resort brochure aesthetic, high saturation editorial\\nComposition: wide establishing shot from pool deck level, infinity pool edge leading the eye toward horizon, 24mm wide-angle lens\\nSubject: infinity pool with still water, white lounge chairs with matching umbrellas, tall coconut palms framing the scene\\nScene/backdrop: open ocean horizon, tropical blue sky with fluffy cumulus clouds, resort deck flooring\\nLighting/mood: bright midday sun, crisp shadows, vacation optimism and escapism\\nColor palette: saturated turquoise pool water, deep ocean blue, vivid sky blue, crisp white furniture, lush green palm fronds\\nMaterials/textures: smooth water surface, woven rattan or fabric umbrella texture, glossy pool tiles, matte concrete deck\\nAvoid: muted colors, overcast sky, cluttered composition, watermark, 8K stuffer text\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9446
+}

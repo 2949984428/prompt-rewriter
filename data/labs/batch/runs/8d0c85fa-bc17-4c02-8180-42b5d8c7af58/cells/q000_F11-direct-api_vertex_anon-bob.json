@@ -1,0 +1,23 @@
+{
+  "query_idx": 0,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:North_western_bus_logo] create a modern logo based on the image provided",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa4f17d3b-924f-4a55-8ded-657418a58f5b/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:North_western_bus_logo] create a modern logo based on the image provided\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2954,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

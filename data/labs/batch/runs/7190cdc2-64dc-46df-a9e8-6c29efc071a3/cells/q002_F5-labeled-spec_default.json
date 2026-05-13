@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: cinematic-still\nAsset type: concept art for film or game, ultra-wide panoramic\nPrimary request: futuristic cyberpunk night scene of a hyper-advanced Shibuya Crossing in Tokyo\nScene/backdrop: towering skyscrapers covered in dense holographic billboards, wet streets reflecting neon lights, flying vehicles in the sky\nSubject: dense crowd of pedestrians mixed with humanoid androids, some wearing AR glasses and luminescent avant-garde clothing, aerial drones and flying taxis with orange exhaust trails\nStyle/medium: cinematic digital art, film-grade rendering, photorealistic with stylized neon saturation\nComposition/framing: ultra-wide fisheye lens perspective, extreme low angle looking up at skyscrapers, deep depth of field with layered foreground-midground-background\nLighting/mood: harsh artificial neon lighting from holographic screens, blue-purple and orange-red color cast, dramatic high-contrast shadows, oppressive yet energetic atmosphere\nColor palette: dominant electric blue and violet + warm orange and crimson accents + deep blacks + reflective wet surface highlights\nMaterials/textures: wet asphalt with mirror-like reflections, holographic screen glow, luminescent fabric textures, metallic android surfaces, glass and steel architecture\nText (verbatim): \"日文、英文、中文霓虹字符\"\nConstraints: maintain the fisheye distortion effect, preserve the dense layered composition of crowd and architecture, keep the wet ground reflections accurate\nAvoid: daylight or natural sunlight, clean dry streets, sparse minimalist composition, cheerful bright mood, low-detail crowd rendering, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6a99443f-be55-4812-a3fa-673c50a2922c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: cinematic-still\\nAsset type: concept art for film or game, ultra-wide panoramic\\nPrimary request: futuristic cyberpunk night scene of a hyper-advanced Shibuya Crossing in Tokyo\\nScene/backdrop: towering skyscrapers covered in dense holographic billboards, wet streets reflecting neon lights, flying vehicles in the sky\\nSubject: dense crowd of pedestrians mixed with humanoid androids, some wearing AR glasses and luminescent avant-garde clothing, aerial drones and flying taxis with orange exhaust trails\\nStyle/medium: cinematic digital art, film-grade rendering, photorealistic with stylized neon saturation\\nComposition/framing: ultra-wide fisheye lens perspective, extreme low angle looking up at skyscrapers, deep depth of field with layered foreground-midground-background\\nLighting/mood: harsh artificial neon lighting from holographic screens, blue-purple and orange-red color cast, dramatic high-contrast shadows, oppressive yet energetic atmosphere\\nColor palette: dominant electric blue and violet + warm orange and crimson accents + deep blacks + reflective wet surface highlights\\nMaterials/textures: wet asphalt with mirror-like reflections, holographic screen glow, luminescent fabric textures, metallic android surfaces, glass and steel architecture\\nText (verbatim): \\\"日文、英文、中文霓虹字符\\\"\\nConstraints: maintain the fisheye distortion effect, preserve the dense layered composition of crowd and architecture, keep the wet ground reflections accurate\\nAvoid: daylight or natural sunlight, clean dry streets, sparse minimalist composition, cheerful bright mood, low-detail crowd rendering, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13525
+}

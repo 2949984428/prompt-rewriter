@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a product shot for a luxury skincare serum, designed for social media marketing.\n\nStyle/medium: high-end beauty advertising photography, photorealistic, in the spirit of editorial cosmetics campaigns by Chanel or La Mer\nComposition: centered product hero shot, slight low-angle to emphasize the bottle's elegance, shallow depth of field with soft bokeh background\nSubject: a sleek glass serum bottle containing pale golden liquid, visible through the transparent glass, with refined minimalist label design\nScene/backdrop: soft pink gradient background, dreamy and airy, no hard edges\nLighting/mood: soft, diffused natural light from upper left, gentle highlights catching the glass bottle curves, warm and luxurious mood\nColor palette: blush pink as dominant background, warm gold as the liquid anchor, white specular highlights on glass, pale rose petals as accent\nMaterials/textures: smooth glass with subtle refraction and transparency, water droplets with realistic surface tension, delicate rose petals with soft velvety texture\nConstraints: composition must read clearly as a vertical social-media crop; product bottle must be the visual focal point\nAvoid: harsh shadows, oversaturated colors, cluttered background, plastic-looking glass, artificial neon tones, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a8137f5d-3765-46a1-90e2-37a8831fe28f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a product shot for a luxury skincare serum, designed for social media marketing.\\n\\nStyle/medium: high-end beauty advertising photography, photorealistic, in the spirit of editorial cosmetics campaigns by Chanel or La Mer\\nComposition: centered product hero shot, slight low-angle to emphasize the bottle's elegance, shallow depth of field with soft bokeh background\\nSubject: a sleek glass serum bottle containing pale golden liquid, visible through the transparent glass, with refined minimalist label design\\nScene/backdrop: soft pink gradient background, dreamy and airy, no hard edges\\nLighting/mood: soft, diffused natural light from upper left, gentle highlights catching the glass bottle curves, warm and luxurious mood\\nColor palette: blush pink as dominant background, warm gold as the liquid anchor, white specular highlights on glass, pale rose petals as accent\\nMaterials/textures: smooth glass with subtle refraction and transparency, water droplets with realistic surface tension, delicate rose petals with soft velvety texture\\nConstraints: composition must read clearly as a vertical social-media crop; product bottle must be the visual focal point\\nAvoid: harsh shadows, oversaturated colors, cluttered background, plastic-looking glass, artificial neon tones, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10111
+}

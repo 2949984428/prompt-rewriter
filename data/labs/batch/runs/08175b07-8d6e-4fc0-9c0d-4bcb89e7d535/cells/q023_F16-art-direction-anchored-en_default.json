@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational knowledge card for children explaining the story of 三国赤壁之战.\n\nStyle/medium: needs a \"儿童卡通故事\" aesthetic — references in the spirit of 上海美术电影制片厂 classic animation heritage, Sanrio educational illustration style, 1990s-2000s Chinese children's book illustration tradition; exact stylistic execution is yours\nComposition: must be single large knowledge-card format with clear title at top, bullet-point key facts placed alongside the illustration\nSubject: must include the story of 三国赤壁之战 presented in cartoon storytelling form\nScene/backdrop: \nLighting/mood: needs an engaging, child-friendly atmosphere — exact mood balance is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include clear title and key points with proper punctuation (标题清晰，要点在旁边列好并标点)\nConstraints: must be single-card format, content appropriate for children, key points clearly listed alongside illustration\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a42c4fdd-59ea-4b9f-bf4f-db2bbd8dae27/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an educational knowledge card for children explaining the story of 三国赤壁之战.\\n\\nStyle/medium: needs a \\\"儿童卡通故事\\\" aesthetic — references in the spirit of 上海美术电影制片厂 classic animation heritage, Sanrio educational illustration style, 1990s-2000s Chinese children's book illustration tradition; exact stylistic execution is yours\\nComposition: must be single large knowledge-card format with clear title at top, bullet-point key facts placed alongside the illustration\\nSubject: must include the story of 三国赤壁之战 presented in cartoon storytelling form\\nScene/backdrop: \\nLighting/mood: needs an engaging, child-friendly atmosphere — exact mood balance is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include clear title and key points with proper punctuation (标题清晰，要点在旁边列好并标点)\\nConstraints: must be single-card format, content appropriate for children, key points clearly listed alongside illustration\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10665
+}

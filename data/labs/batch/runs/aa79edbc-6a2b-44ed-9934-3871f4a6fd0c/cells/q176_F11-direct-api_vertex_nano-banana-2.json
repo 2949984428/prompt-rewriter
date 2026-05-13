@@ -1,0 +1,23 @@
+{
+  "query_idx": 176,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成1张适合亚马逊平台的A+图，产品为图里的带提耳设计的压缩袜，场景为户外场景，一对美国情侣在跑步，男士穿着图2[@image:#1:DSC03313]的灰色袜子和白色跑鞋，女士穿着图1的紫色袜子和白色跑鞋，低视角，广角镜头，要展示人物全身，宽高比例：16：9，HD高清图，时尚简洁风格\n[@image:#2:DSC03295]",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A023dfd23-62cc-4599-8f0c-598913b45d2f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成1张适合亚马逊平台的A+图，产品为图里的带提耳设计的压缩袜，场景为户外场景，一对美国情侣在跑步，男士穿着图2[@image:#1:DSC03313]的灰色袜子和白色跑鞋，女士穿着图1的紫色袜子和白色跑鞋，低视角，广角镜头，要展示人物全身，宽高比例：16：9，HD高清图，时尚简洁风格\\n[@image:#2:DSC03295]\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6168,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

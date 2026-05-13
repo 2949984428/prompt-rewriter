@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing UI design system for a tech dashboard and mobile interface.\n\nStyle/medium: classic minimalist tech UI, clean flat vector with subtle depth, Apple Human Interface meets Swiss International style\nComposition: comprehensive component sheet showing dashboard layout, mobile screen, cards, buttons, and controls in organized grid\nSubject: modular UI components including navigation bar, data cards, primary/secondary buttons, toggle switches, input fields, stat widgets\nScene/backdrop: neutral light gray canvas with generous whitespace, component labels as subtle annotations\nLighting/mood: soft diffused ambient light, clean and professional atmosphere\nColor palette: deep navy blue as primary, electric cyan as accent, pure white and light gray for hierarchy, subtle gradients only on interactive states\nMaterials/textures: smooth matte surfaces, micro-shadows for elevation, crisp 1px borders\nConstraints: must maintain 8px grid system; components must be scalable from mobile to desktop; monochrome version must remain functional\nAvoid: skeuomorphic textures; glassmorphism blur overload; neon glow everywhere; cluttered information density; generic startup illustration style",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/648a4ba1-511e-47bd-9f46-078350d12e71/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing UI design system for a tech dashboard and mobile interface.\\n\\nStyle/medium: classic minimalist tech UI, clean flat vector with subtle depth, Apple Human Interface meets Swiss International style\\nComposition: comprehensive component sheet showing dashboard layout, mobile screen, cards, buttons, and controls in organized grid\\nSubject: modular UI components including navigation bar, data cards, primary/secondary buttons, toggle switches, input fields, stat widgets\\nScene/backdrop: neutral light gray canvas with generous whitespace, component labels as subtle annotations\\nLighting/mood: soft diffused ambient light, clean and professional atmosphere\\nColor palette: deep navy blue as primary, electric cyan as accent, pure white and light gray for hierarchy, subtle gradients only on interactive states\\nMaterials/textures: smooth matte surfaces, micro-shadows for elevation, crisp 1px borders\\nConstraints: must maintain 8px grid system; components must be scalable from mobile to desktop; monochrome version must remain functional\\nAvoid: skeuomorphic textures; glassmorphism blur overload; neon glow everywhere; cluttered information density; generic startup illustration style\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 16428
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a famous Zen temple's karesansui dry landscape garden in Kyoto, Japan.\n\nStyle/medium: architectural photography, photorealistic, wide-angle lens, inspired by Japanese minimalist aesthetic\nComposition: wide-angle panoramic view, low-angle shot emphasizing geometric patterns and spatial depth, foreground-to-background extension\nSubject: meticulously raked white gravel forming concentric circles and ripple patterns symbolizing ocean waves, moss-covered rocks of varied shapes representing islands and mountain peaks\nScene/backdrop: traditional Zen temple garden in Kyoto, low wooden corridor with evenly spaced pillars casting orderly shadows, ancient earthen wall with moss growing along the top\nLighting/mood: late afternoon autumn sunlight, warm oblique rays casting elongated shadows, serene and meditative atmosphere with profound Eastern aesthetic\nColor palette: warm off-white gravel as base, muted moss greens and earthy browns, subdued and restrained tones\nMaterials/textures: fine white gravel with precise rake marks, velvety moss on weathered rocks, aged wood grain, rough earthen wall surface\nAvoid: oversaturated colors, modern elements, people, artificial lighting, 8K stuffer aesthetic, deformed rocks",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c18fce18-57cc-4d9b-a6f6-00e32d3add33/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a famous Zen temple's karesansui dry landscape garden in Kyoto, Japan.\\n\\nStyle/medium: architectural photography, photorealistic, wide-angle lens, inspired by Japanese minimalist aesthetic\\nComposition: wide-angle panoramic view, low-angle shot emphasizing geometric patterns and spatial depth, foreground-to-background extension\\nSubject: meticulously raked white gravel forming concentric circles and ripple patterns symbolizing ocean waves, moss-covered rocks of varied shapes representing islands and mountain peaks\\nScene/backdrop: traditional Zen temple garden in Kyoto, low wooden corridor with evenly spaced pillars casting orderly shadows, ancient earthen wall with moss growing along the top\\nLighting/mood: late afternoon autumn sunlight, warm oblique rays casting elongated shadows, serene and meditative atmosphere with profound Eastern aesthetic\\nColor palette: warm off-white gravel as base, muted moss greens and earthy browns, subdued and restrained tones\\nMaterials/textures: fine white gravel with precise rake marks, velvety moss on weathered rocks, aged wood grain, rough earthen wall surface\\nAvoid: oversaturated colors, modern elements, people, artificial lighting, 8K stuffer aesthetic, deformed rocks\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10087
+}

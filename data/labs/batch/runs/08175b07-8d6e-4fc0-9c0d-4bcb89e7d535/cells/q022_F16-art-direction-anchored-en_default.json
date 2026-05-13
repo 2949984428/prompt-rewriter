@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a lifestyle photograph of coffee and desserts in a Korean cafe, styled for Instagram.\n\nStyle/medium: needs a \"Korean cafe\" aesthetic — references in the spirit of Seoul 延南洞 cafe interior photography, Korean Instagram lifestyle content (인스타 감성), Kinfolk magazine minimal food styling; exact stylistic execution is yours\nComposition: must be smartphone-captured angle, no people visible\nSubject: must include coffee beverage and dessert items as focal subjects\nScene/backdrop: must be a Korean cafe interior setting\nLighting/mood: needs bright natural window light with soft shadows — exact lighting balance is yours\nColor palette: needs warm neutral tones with cream and beige dominance — exact color mixing is yours\nMaterials/textures: must include ceramic cups, wooden tables, fabric napkins — exact material choices are yours\nText (verbatim): must include handwritten Japanese annotations with 7:3 hiragana-to-kanji ratio, diary-style short comments for each element:\n  ・Drink comments: taste/temperature/mood (e.g., 爽やか、優しい甘み)\n  ・Food comments: texture/deliciousness (e.g., しっとり、最高)\n  ・Space comments: atmosphere (e.g., リラックス、素敵な時間)\n  ・Overall comment: one-line summary (e.g., 幸せすぎる〜)\nConstraints: must include white fine hand-drawn sketch lines around elements, contour tracing style, arrows/dashed lines for visual guidance, steam/sparkles/hearts/small emoticons as decoration with intentional blank space, Instagram story / magazine rough-note aesthetic, fashionable yet relaxed atmosphere, single-stroke rough uneven handwriting style\nAvoid: no people, no over-decoration",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/89fb3ca3-dc91-4b04-9490-ec8d7f3e3cc3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a lifestyle photograph of coffee and desserts in a Korean cafe, styled for Instagram.\\n\\nStyle/medium: needs a \\\"Korean cafe\\\" aesthetic — references in the spirit of Seoul 延南洞 cafe interior photography, Korean Instagram lifestyle content (인스타 감성), Kinfolk magazine minimal food styling; exact stylistic execution is yours\\nComposition: must be smartphone-captured angle, no people visible\\nSubject: must include coffee beverage and dessert items as focal subjects\\nScene/backdrop: must be a Korean cafe interior setting\\nLighting/mood: needs bright natural window light with soft shadows — exact lighting balance is yours\\nColor palette: needs warm neutral tones with cream and beige dominance — exact color mixing is yours\\nMaterials/textures: must include ceramic cups, wooden tables, fabric napkins — exact material choices are yours\\nText (verbatim): must include handwritten Japanese annotations with 7:3 hiragana-to-kanji ratio, diary-style short comments for each element:\\n  ・Drink comments: taste/temperature/mood (e.g., 爽やか、優しい甘み)\\n  ・Food comments: texture/deliciousness (e.g., しっとり、最高)\\n  ・Space comments: atmosphere (e.g., リラックス、素敵な時間)\\n  ・Overall comment: one-line summary (e.g., 幸せすぎる〜)\\nConstraints: must include white fine hand-drawn sketch lines around elements, contour tracing style, arrows/dashed lines for visual guidance, steam/sparkles/hearts/small emoticons as decoration with intentional blank space, Instagram story / magazine rough-note aesthetic, fashionable yet relaxed atmosphere, single-stroke rough uneven handwriting style\\nAvoid: no people, no over-decoration\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 16157
+}

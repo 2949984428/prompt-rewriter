@@ -168,6 +168,17 @@ export function BatchCellCard({
               className="absolute inset-0 h-full w-full object-contain"
             />
           )}
+        {/* 多图 chip:Pipeline N>1 时 cell.image_urls 包含 N 张,主图只是第一张,
+           显示 "+N" 提示用户点开抽屉看全部 */}
+        {(cell.status === "done" || cell.status === "excluded") &&
+          (cell.image_urls?.length ?? 0) > 1 && (
+            <span
+              title={`共 ${cell.image_urls!.length} 张,点击查看全部`}
+              className="absolute bottom-1 left-1 z-[1] rounded-sm bg-near-black/70 px-1.5 py-0.5 font-mono text-[10px] font-medium text-ivory"
+            >
+              +{cell.image_urls!.length - 1}
+            </span>
+          )}
         {/* 路由 chip:从 image_urls[0] 前缀推真实 provider,跟 cell.image_model 对账。
            历史 mismatch (老 batch-runner 全走 IGW) 在这里会显眼地暴露 */}
         {(cell.status === "done" || cell.status === "excluded") &&

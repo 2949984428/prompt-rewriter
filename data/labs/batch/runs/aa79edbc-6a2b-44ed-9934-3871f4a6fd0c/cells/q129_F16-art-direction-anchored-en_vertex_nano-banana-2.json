@@ -1,0 +1,23 @@
+{
+  "query_idx": 129,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Instagram 轮播图单页（carousel slide）。\n\n风格/媒介:\n  简洁现代版式\n  高端家具电商美学\n  极简风格，大量留白，奢华感\n\n构图:\n  纯白背景，整体居中布局\n  顶部文字区 → 中央产品图 → 底部文字区，三段式纵向排列\n\n主体:\n  中央主图：一把高端胡桃木扶手椅，坐垫为奶油色 bouclé 布料\n  纯白无缝背景，三点布光，椅子正面视角带约 15 度轻微旋转\n  椅子底部有柔和投影，木纹与布料纹理清晰可见\n  photorealistic 产品棚拍质感，电商目录级别\n\n场景/背景:\n  纯白无缝背景\n\n光线/氛围:\n  三点布光，柔和投影，干净明亮\n\n色彩方案:\n  白色背景，深炭灰色标题文字，整体克制\n\n材质/纹理:\n  胡桃木木纹，奶油色 bouclé 布料纹理\n\n文字(原样):\n  顶部（粗体，深炭灰，居中，28px）：\n    \"Está cansado de pagar caro por fotos para seu ecommerce de móveis?\"\n  副标题（中等字重，居中，22px，紧接顶部文字下方）：\n    \"Se liga na solução! Essa imagem aqui foi feita 100% com IA!\"\n  底部（粗体，居中，22px）：\n    \"Passe para ver mais →\"\n\n约束:\n  无水印\n  无杂乱元素，保持大量白色空间\n\n避免:\n  杂乱装饰\n  水印或平台标识\n  低对比度文字",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2862a417-ff3e-450e-922e-7cfa996b4574/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Instagram 轮播图单页（carousel slide）。\\n\\n风格/媒介:\\n  简洁现代版式\\n  高端家具电商美学\\n  极简风格，大量留白，奢华感\\n\\n构图:\\n  纯白背景，整体居中布局\\n  顶部文字区 → 中央产品图 → 底部文字区，三段式纵向排列\\n\\n主体:\\n  中央主图：一把高端胡桃木扶手椅，坐垫为奶油色 bouclé 布料\\n  纯白无缝背景，三点布光，椅子正面视角带约 15 度轻微旋转\\n  椅子底部有柔和投影，木纹与布料纹理清晰可见\\n  photorealistic 产品棚拍质感，电商目录级别\\n\\n场景/背景:\\n  纯白无缝背景\\n\\n光线/氛围:\\n  三点布光，柔和投影，干净明亮\\n\\n色彩方案:\\n  白色背景，深炭灰色标题文字，整体克制\\n\\n材质/纹理:\\n  胡桃木木纹，奶油色 bouclé 布料纹理\\n\\n文字(原样):\\n  顶部（粗体，深炭灰，居中，28px）：\\n    \\\"Está cansado de pagar caro por fotos para seu ecommerce de móveis?\\\"\\n  副标题（中等字重，居中，22px，紧接顶部文字下方）：\\n    \\\"Se liga na solução! Essa imagem aqui foi feita 100% com IA!\\\"\\n  底部（粗体，居中，22px）：\\n    \\\"Passe para ver mais →\\\"\\n\\n约束:\\n  无水印\\n  无杂乱元素，保持大量白色空间\\n\\n避免:\\n  杂乱装饰\\n  水印或平台标识\\n  低对比度文字\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12380,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

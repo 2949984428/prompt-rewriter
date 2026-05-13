@@ -1,0 +1,23 @@
+{
+  "query_idx": 147,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "比例1:1,2K，学习一下[@image:#1:电商详情促销海报]\r\n风格和排版，用[@image:#2: Image]重新帮我生成一张相似的全新图发布在拼多多",
+    "size": "2048x2048",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2ac98a82-78b6-45d8-ac58-285cf77ef56a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"比例1:1,2K，学习一下[@image:#1:电商详情促销海报]\\n风格和排版，用[@image:#2: Image]重新帮我生成一张相似的全新图发布在拼多多\", \"size\": \"2048x2048\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3036,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 11,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "主题文字:\"GPT-image-2\" 和 \"Lovart\", 小红书封面, 高级杂志感, 对角线构图, 高对比强调色, 简洁排版, 时尚设计感, 专业摄影质感, 现代美学",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2cca54c3-9d6f-4df4-af7d-f770835185db/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"主题文字:\\\"GPT-image-2\\\" 和 \\\"Lovart\\\", 小红书封面, 高级杂志感, 对角线构图, 高对比强调色, 简洁排版, 时尚设计感, 专业摄影质感, 现代美学\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 6783
+}

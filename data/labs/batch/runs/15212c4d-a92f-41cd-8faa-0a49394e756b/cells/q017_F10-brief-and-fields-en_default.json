@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing tri-fold travel brochure for a 4-day, 3-night Hangzhou itinerary, featuring a real map of Hangzhou as the main visual thread.\n\nStyle/medium: physical tri-fold brochure mockup, layered paper craft aesthetic with die-cut landmarks floating above cardstock base, editorial travel design, tactile paper textures\nSubject: tri-fold travel brochure showing 4-day Hangzhou itinerary, famous scenic spots rendered as 3D pop-up landmarks (断桥残雪, 雷峰塔, 灵隐寺, 龙井村, 九溪烟树, 西溪湿地) suspended above the map background\nScene/backdrop: top-down flat-lay of the unfolded brochure on textured kraft paper, real Hangzhou city map as the base layer, tourist attractions as dimensional paper cutouts with subtle shadows\nComposition: overhead flat-lay shot showing all three panels of the unfolded brochure, 35mm lens, even lighting to reveal map details and paper textures\nColor palette: soft jade green and ink blue from West Lake imagery, warm cream paper tones, terracotta accents for landmark highlights\nMaterials/textures: matte cardstock with subtle fiber texture, vellum overlays for map details, dimensional foam adhesive creating lift for landmarks, visible paper grain\nText (verbatim): \"第一天：西湖经典游，打卡教科书里的江南 ‌路线：断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺 第二天：禅意杭州，穿越千年宋韵 ‌路线：灵隐寺→飞来峰造像→法喜寺→宋城 第三天：九溪烟树徒步，做一日茶山散人 ‌路线：九溪十八涧→龙井村→十里琅珰→云栖竹径 第四天：文艺收官，解锁杭州AB面 方案A：运河文艺线 拱宸桥→桥西历史街区→小河直街→大兜路香积寺 方案B：西溪湿地轻奢游 周家村→深潭口→氦气球俯瞰湿地\"\nConstraints: brochure must show clear tri-fold crease lines; landmarks must correspond to actual Hangzhou geography; text must be legible at mockup scale; floating elements must cast subtle shadows suggesting depth\nAvoid: generic stock travel poster look; overly glossy digital render; misplaced landmarks; cluttered text layout; Behance generic flat illustration style",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/febe1410-7ab0-44b7-8a1e-417bdbea72b8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing tri-fold travel brochure for a 4-day, 3-night Hangzhou itinerary, featuring a real map of Hangzhou as the main visual thread.\\n\\nStyle/medium: physical tri-fold brochure mockup, layered paper craft aesthetic with die-cut landmarks floating above cardstock base, editorial travel design, tactile paper textures\\nSubject: tri-fold travel brochure showing 4-day Hangzhou itinerary, famous scenic spots rendered as 3D pop-up landmarks (断桥残雪, 雷峰塔, 灵隐寺, 龙井村, 九溪烟树, 西溪湿地) suspended above the map background\\nScene/backdrop: top-down flat-lay of the unfolded brochure on textured kraft paper, real Hangzhou city map as the base layer, tourist attractions as dimensional paper cutouts with subtle shadows\\nComposition: overhead flat-lay shot showing all three panels of the unfolded brochure, 35mm lens, even lighting to reveal map details and paper textures\\nColor palette: soft jade green and ink blue from West Lake imagery, warm cream paper tones, terracotta accents for landmark highlights\\nMaterials/textures: matte cardstock with subtle fiber texture, vellum overlays for map details, dimensional foam adhesive creating lift for landmarks, visible paper grain\\nText (verbatim): \\\"第一天：西湖经典游，打卡教科书里的江南 ‌路线：断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺 第二天：禅意杭州，穿越千年宋韵 ‌路线：灵隐寺→飞来峰造像→法喜寺→宋城 第三天：九溪烟树徒步，做一日茶山散人 ‌路线：九溪十八涧→龙井村→十里琅珰→云栖竹径 第四天：文艺收官，解锁杭州AB面 方案A：运河文艺线 拱宸桥→桥西历史街区→小河直街→大兜路香积寺 方案B：西溪湿地轻奢游 周家村→深潭口→氦气球俯瞰湿地\\\"\\nConstraints: brochure must show clear tri-fold crease lines; landmarks must correspond to actual Hangzhou geography; text must be legible at mockup scale; floating elements must cast subtle shadows suggesting depth\\nAvoid: generic stock travel poster look; overly glossy digital render; misplaced landmarks; cluttered text layout; Behance generic flat illustration style\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 20253
+}

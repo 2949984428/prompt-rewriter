@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components with labeled part names.\n\nStyle/medium: exploded-view technical illustration, engineering diagram aesthetic\nComposition: centered exploded diagram with all parts radiating outward from the camera body, leader lines connecting each part to its label\nSubject: Sony A7 mirrorless camera fully disassembled into all major and minor components — body shell (front and rear), sensor unit, shutter mechanism, mirror box area, mount ring, battery compartment, card slot, viewfinder assembly, LCD screen, control dials, buttons, hot shoe, grip, internal circuit boards, lens mount contacts, image stabilization unit, cable ribbons\nScene/backdrop: clean white or light neutral background\nLighting/mood: flat, even lighting with no shadows — technical clarity priority\nColor palette: neutral with subtle color-coding per component group to aid readability\nMaterials/textures: \nText (verbatim): \"Sony A7\" on body; part name labels in Spanish for each component (e.g., \"Sensor\", \"Obturador\", \"Montura de objetivo\", \"Pantalla LCD\", \"Visor electrónico\", \"Batería\", \"Tarjeta de memoria\", \"Dial de control\", \"Zapata de flash\", \"Placa principal\")\nConstraints: all visible parts must have a labeled callout; layout must be legible and non-overlapping; Sony A7 model identity must be recognizable\nAvoid: generic camera silhouette without part breakdown, missing labels, overlapping text, decorative backgrounds, photorealistic product-shot style",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cbcbe530-16ea-4ccc-8535-8f33d7d04e88/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components with labeled part names.\\n\\nStyle/medium: exploded-view technical illustration, engineering diagram aesthetic\\nComposition: centered exploded diagram with all parts radiating outward from the camera body, leader lines connecting each part to its label\\nSubject: Sony A7 mirrorless camera fully disassembled into all major and minor components — body shell (front and rear), sensor unit, shutter mechanism, mirror box area, mount ring, battery compartment, card slot, viewfinder assembly, LCD screen, control dials, buttons, hot shoe, grip, internal circuit boards, lens mount contacts, image stabilization unit, cable ribbons\\nScene/backdrop: clean white or light neutral background\\nLighting/mood: flat, even lighting with no shadows — technical clarity priority\\nColor palette: neutral with subtle color-coding per component group to aid readability\\nMaterials/textures: \\nText (verbatim): \\\"Sony A7\\\" on body; part name labels in Spanish for each component (e.g., \\\"Sensor\\\", \\\"Obturador\\\", \\\"Montura de objetivo\\\", \\\"Pantalla LCD\\\", \\\"Visor electrónico\\\", \\\"Batería\\\", \\\"Tarjeta de memoria\\\", \\\"Dial de control\\\", \\\"Zapata de flash\\\", \\\"Placa principal\\\")\\nConstraints: all visible parts must have a labeled callout; layout must be legible and non-overlapping; Sony A7 model identity must be recognizable\\nAvoid: generic camera silhouette without part breakdown, missing labels, overlapping text, decorative backgrounds, photorealistic product-shot style\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11894
+}

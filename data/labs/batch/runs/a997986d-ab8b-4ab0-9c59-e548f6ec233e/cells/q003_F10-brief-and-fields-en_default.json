@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a professional food photography shot of a Michelin three-star French main course — slow-cooked duck breast with truffle sauce, artfully plated.\n\nStyle/medium: professional commercial food photography, macro close-up, shallow depth of field, high color saturation\nComposition: macro close-up shot, shallow depth of field, precise focus on the cross-section texture of the duck breast slices, side angle\nSubject: slow-cooked French duck breast, neatly sliced with perfect golden-brown crispy skin, pink and juicy meat interior, fresh black truffle slices on top\nScene/backdrop: white bone china plate, dark marble countertop background, premium fine dining atmosphere\nLighting/mood: side lighting illuminating the dish, creating a luxurious high-end restaurant ambiance\nColor palette: rich golden-brown duck skin, pink meat tones, deep green micro vegetables, purple endive leaves, white plate as neutral base, dark marble contrast\nMaterials/textures: crispy seared duck skin with visible texture, tender pink meat grain, glossy truffle sauce artistically brushed on plate edge, delicate micro vegetables and edible flowers\nAvoid: flat lighting, overcooked gray meat, plastic-looking food, watermarks, generic stock photo aesthetic, oversaturated colors",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/03b87179-15b0-4a94-a78a-1e8be085a707/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a professional food photography shot of a Michelin three-star French main course — slow-cooked duck breast with truffle sauce, artfully plated.\\n\\nStyle/medium: professional commercial food photography, macro close-up, shallow depth of field, high color saturation\\nComposition: macro close-up shot, shallow depth of field, precise focus on the cross-section texture of the duck breast slices, side angle\\nSubject: slow-cooked French duck breast, neatly sliced with perfect golden-brown crispy skin, pink and juicy meat interior, fresh black truffle slices on top\\nScene/backdrop: white bone china plate, dark marble countertop background, premium fine dining atmosphere\\nLighting/mood: side lighting illuminating the dish, creating a luxurious high-end restaurant ambiance\\nColor palette: rich golden-brown duck skin, pink meat tones, deep green micro vegetables, purple endive leaves, white plate as neutral base, dark marble contrast\\nMaterials/textures: crispy seared duck skin with visible texture, tender pink meat grain, glossy truffle sauce artistically brushed on plate edge, delicate micro vegetables and edible flowers\\nAvoid: flat lighting, overcooked gray meat, plastic-looking food, watermarks, generic stock photo aesthetic, oversaturated colors\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10474
+}

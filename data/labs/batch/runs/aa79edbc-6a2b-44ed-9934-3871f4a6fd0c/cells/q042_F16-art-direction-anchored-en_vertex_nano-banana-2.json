@@ -1,0 +1,23 @@
+{
+  "query_idx": 42,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一件足球衫设计图（产品展示视角）。\n\n风格/媒介:\n  受巴西国家队球衣启发的运动衫设计\n  极简主义风格，显得高端限定\n  平面产品展示图\n\n构图:\n  正面展示整件球衣\n  logo 作为重复图案分布于衫身各处，形成满印纹理\n\n主体:\n  足球衫，灵感来自巴西国家队配色与剪裁\n  Solucione 品牌 logo（见参考图#1）作为全身重复图案元素\n\n场景/背景:\n  干净纯色背景，突出球衣本身\n\n光线/氛围:\n  柔和均匀光线，体现高端限定感\n\n色彩方案:\n  参考巴西国家队球衣配色（黄色、绿色、蓝色）\n\n材质/纹理:\n  运动面料质感\n  logo 重复图案作为提花或印花纹理覆盖衫身\n\n文字(原样):\n  Solucione\n\n约束:\n  logo 须与参考图#1 保持一致\n  整体保持极简，避免过度装饰\n\n避免:\n  杂乱繁复的图案\n  低端运动服感",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aaef0d393-1c04-4ef9-a7ef-0b247aaddf8e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一件足球衫设计图（产品展示视角）。\\n\\n风格/媒介:\\n  受巴西国家队球衣启发的运动衫设计\\n  极简主义风格，显得高端限定\\n  平面产品展示图\\n\\n构图:\\n  正面展示整件球衣\\n  logo 作为重复图案分布于衫身各处，形成满印纹理\\n\\n主体:\\n  足球衫，灵感来自巴西国家队配色与剪裁\\n  Solucione 品牌 logo（见参考图#1）作为全身重复图案元素\\n\\n场景/背景:\\n  干净纯色背景，突出球衣本身\\n\\n光线/氛围:\\n  柔和均匀光线，体现高端限定感\\n\\n色彩方案:\\n  参考巴西国家队球衣配色（黄色、绿色、蓝色）\\n\\n材质/纹理:\\n  运动面料质感\\n  logo 重复图案作为提花或印花纹理覆盖衫身\\n\\n文字(原样):\\n  Solucione\\n\\n约束:\\n  logo 须与参考图#1 保持一致\\n  整体保持极简，避免过度装饰\\n\\n避免:\\n  杂乱繁复的图案\\n  低端运动服感\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10946,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

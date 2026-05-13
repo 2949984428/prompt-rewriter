@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational knowledge-card illustration for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era.\n\nStyle/medium: single-panel educational knowledge card, cartoon storybook illustration style for children\nComposition: large title at top, key bullet points listed clearly on the side, main scene showing the battle story in cartoon narrative form\nSubject: Battle of Red Cliffs (赤壁之战) story — Zhou Yu's fire attack, Cao Cao's chained fleet, Zhuge Liang's wind prediction, the burning ships\nScene/backdrop: Yangtze River battle scene with ships, fire, and cliffside fortress in simplified cartoon style\nLighting/mood: bright and engaging, dramatic but not scary (child-friendly)\nColor palette: warm reds and oranges for fire, cool blues for river, earthy tones for cliffs\nMaterials/textures: flat cartoon illustration with clean outlines, paper-card texture\nText (verbatim): 赤壁之战\nConstraints: title must be prominent and readable, key points clearly listed with punctuation, story unfolds visually in cartoon sequence\nAvoid: realistic violence, dark or frightening imagery, overly complex text layout",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1fa12d4e-b542-47c3-b66c-6556bce38fc4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an educational knowledge-card illustration for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era.\\n\\nStyle/medium: single-panel educational knowledge card, cartoon storybook illustration style for children\\nComposition: large title at top, key bullet points listed clearly on the side, main scene showing the battle story in cartoon narrative form\\nSubject: Battle of Red Cliffs (赤壁之战) story — Zhou Yu's fire attack, Cao Cao's chained fleet, Zhuge Liang's wind prediction, the burning ships\\nScene/backdrop: Yangtze River battle scene with ships, fire, and cliffside fortress in simplified cartoon style\\nLighting/mood: bright and engaging, dramatic but not scary (child-friendly)\\nColor palette: warm reds and oranges for fire, cool blues for river, earthy tones for cliffs\\nMaterials/textures: flat cartoon illustration with clean outlines, paper-card texture\\nText (verbatim): 赤壁之战\\nConstraints: title must be prominent and readable, key points clearly listed with punctuation, story unfolds visually in cartoon sequence\\nAvoid: realistic violence, dark or frightening imagery, overly complex text layout\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11203
+}

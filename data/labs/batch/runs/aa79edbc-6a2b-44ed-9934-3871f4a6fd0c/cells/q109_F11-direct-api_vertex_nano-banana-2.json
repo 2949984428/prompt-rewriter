@@ -1,0 +1,23 @@
+{
+  "query_idx": 109,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:20260303-150051] 为耳钉产品页面设计淘宝平台视觉素材，包括每个产品的3张主图、场景图各2张，包含产品特写和突显性能与材质，有欧美模特佩戴照",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A32af3700-961a-40db-80e0-6a353a906c66/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:20260303-150051] 为耳钉产品页面设计淘宝平台视觉素材，包括每个产品的3张主图、场景图各2张，包含产品特写和突显性能与材质，有欧美模特佩戴照\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3856,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 3×3 character expression grid for 赵灵儿 from 仙剑奇侠传.\n\nStyle/medium: needs a \"3D animation\" aesthetic — references in the spirit of Pixar character design heritage, 2010s DreamWorks expressive character rigs, 吉卜力 studio character warmth; exact stylistic execution is yours\nComposition: must be 3×3 grid layout (9 panels), each panel showing 赵灵儿 peeking through a torn hole in white paper, consistent framing across all panels\nSubject: must include 赵灵儿 (young woman with voluminous dark wavy hair and round wire-rimmed glasses) with 9 distinct expressions and actions:\n  Top-left: winking, adjusting glasses, green sweater\n  Top-center: smirking, lowering dark sunglasses, red leather jacket\n  Top-right: thinking, finger on chin, yellow hoodie\n  Middle-left: big smile, arms resting on edge, black and white striped shirt\n  Middle-center: smiling, thumbs up, orange button-up shirt\n  Middle-right: neutral, drinking boba tea, blue sweater\n  Bottom-left: happy, waving, purple sweater vest over white shirt\n  Bottom-center: laughing with eyes closed, arms crossed, pink cardigan\n  Bottom-right: silly, poking cheeks, teal sweater\nScene/backdrop: must be consistent torn white paper holes as framing device for all 9 panels\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must preserve 赵灵儿 IP identity from 仙剑奇侠传, all 9 panels visible in 3×3 grid, consistent character base across panels\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/95cdd527-a241-4cac-b69c-7e0a0f2564a0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a 3×3 character expression grid for 赵灵儿 from 仙剑奇侠传.\\n\\nStyle/medium: needs a \\\"3D animation\\\" aesthetic — references in the spirit of Pixar character design heritage, 2010s DreamWorks expressive character rigs, 吉卜力 studio character warmth; exact stylistic execution is yours\\nComposition: must be 3×3 grid layout (9 panels), each panel showing 赵灵儿 peeking through a torn hole in white paper, consistent framing across all panels\\nSubject: must include 赵灵儿 (young woman with voluminous dark wavy hair and round wire-rimmed glasses) with 9 distinct expressions and actions:\\n  Top-left: winking, adjusting glasses, green sweater\\n  Top-center: smirking, lowering dark sunglasses, red leather jacket\\n  Top-right: thinking, finger on chin, yellow hoodie\\n  Middle-left: big smile, arms resting on edge, black and white striped shirt\\n  Middle-center: smiling, thumbs up, orange button-up shirt\\n  Middle-right: neutral, drinking boba tea, blue sweater\\n  Bottom-left: happy, waving, purple sweater vest over white shirt\\n  Bottom-center: laughing with eyes closed, arms crossed, pink cardigan\\n  Bottom-right: silly, poking cheeks, teal sweater\\nScene/backdrop: must be consistent torn white paper holes as framing device for all 9 panels\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must preserve 赵灵儿 IP identity from 仙剑奇侠传, all 9 panels visible in 3×3 grid, consistent character base across panels\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14676
+}

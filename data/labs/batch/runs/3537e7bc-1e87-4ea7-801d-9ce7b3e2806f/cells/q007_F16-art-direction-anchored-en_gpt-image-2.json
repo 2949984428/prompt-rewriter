@@ -1,0 +1,19 @@
+{
+  "query_idx": 7,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.\n\nTarea: Crear una ilustración técnica de estilo diagrama de explosión (exploded view) de una cámara Sony A7.\n\nRequisitos de contenido:\n- Mostrar todas las piezas principales de la cámara desmontadas y dispuestas en orden de descomposición\n- Cada pieza debe tener una etiqueta con su nombre técnico\n- Incluir: sensor CMOS, montura de lente E-mount, obturador, espejo/visor electrónico, pantalla LCD trasera, batería, tarjeta SD, botones de control, dial de modo, zapata flash, grip, carcasa frontal y trasera, circuitos internos, estabilizador de imagen\n\nEstilo visual:\n- Ilustración técnica de alta precisión tipo manual de servicio\n- Fondo blanco limpio\n- Líneas guía que conectan cada pieza con su etiqueta de nombre\n- Perspectiva isométrica o ligeramente angular para mostrar profundidad\n- Colores realistas pero con acabado técnico profesional\n- Aspecto educativo y didáctico\n\nIluminación: Iluminación técnica uniforme sin sombras dramáticas, enfocada en la claridad de cada componente.\n\nOriginal request: \"Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.\"",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-03-img2-poland.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.\\n\\nTarea: Crear una ilustración técnica de estilo diagrama de explosión (exploded view) de una cámara Sony A7.\\n\\nRequisitos de contenido:\\n- Mostrar todas las piezas principales de la cámara desmontadas y dispuestas en orden de descomposición\\n- Cada pieza debe tener una etiqueta con su nombre técnico\\n- Incluir: sensor CMOS, montura de lente E-mount, obturador, espejo/visor electrónico, pantalla LCD trasera, batería, tarjeta SD, botones de control, dial de modo, zapata flash, grip, carcasa frontal y trasera, circuitos internos, estabilizador de imagen\\n\\nEstilo visual:\\n- Ilustración técnica de alta precisión tipo manual de servicio\\n- Fondo blanco limpio\\n- Líneas guía que conectan cada pieza con su etiqueta de nombre\\n- Perspectiva isométrica o ligeramente angular para mostrar profundidad\\n- Colores realistas pero con acabado técnico profesional\\n- Aspecto educativo y didáctico\\n\\nIluminación: Iluminación técnica uniforme sin sombras dramáticas, enfocada en la claridad de cada componente.\\n\\nOriginal request: \\\"Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.\\\"\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8559
+}

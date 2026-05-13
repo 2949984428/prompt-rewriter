@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: e-commerce announcement poster, 618 shopping festival campaign\nPrimary request: promotional poster for UGREEN NAS brand 618 anniversary sale\nScene/backdrop: clean digital stage with subtle tech grid pattern, floating geometric shapes suggesting data/cloud storage\nSubject: UGREEN NAS (Network Attached Storage) device hero shot, sleek white/minimalist hardware design with subtle LED indicators\nStyle/medium: commercial product photography with 3D render elements, modern e-commerce aesthetic\nComposition/framing: centered product hero shot with ample negative space for text overlay, 4:5 vertical format optimized for mobile shopping apps\nLighting/mood: soft studio lighting with subtle rim light on product, clean and trustworthy mood\nColor palette: UGREEN brand green (#00B050) as accent + clean white background + subtle gray gradients + gold highlights for 618 celebration\nMaterials/textures: matte white plastic finish on NAS device, soft shadows, smooth gradient background\nText (verbatim): \"绿联私有云品牌618周年庆活动电商宣布海报\"\nConstraints: keep product as clear focal point, maintain clean layout suitable for e-commerce platforms\nAvoid: cluttered background, excessive decorative elements, distorted product proportions, watermark, busy patterns that compete with product",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/195d19f4-d2dd-4b7d-aba8-e1ca19903a09/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce announcement poster, 618 shopping festival campaign\\nPrimary request: promotional poster for UGREEN NAS brand 618 anniversary sale\\nScene/backdrop: clean digital stage with subtle tech grid pattern, floating geometric shapes suggesting data/cloud storage\\nSubject: UGREEN NAS (Network Attached Storage) device hero shot, sleek white/minimalist hardware design with subtle LED indicators\\nStyle/medium: commercial product photography with 3D render elements, modern e-commerce aesthetic\\nComposition/framing: centered product hero shot with ample negative space for text overlay, 4:5 vertical format optimized for mobile shopping apps\\nLighting/mood: soft studio lighting with subtle rim light on product, clean and trustworthy mood\\nColor palette: UGREEN brand green (#00B050) as accent + clean white background + subtle gray gradients + gold highlights for 618 celebration\\nMaterials/textures: matte white plastic finish on NAS device, soft shadows, smooth gradient background\\nText (verbatim): \\\"绿联私有云品牌618周年庆活动电商宣布海报\\\"\\nConstraints: keep product as clear focal point, maintain clean layout suitable for e-commerce platforms\\nAvoid: cluttered background, excessive decorative elements, distorted product proportions, watermark, busy patterns that compete with product\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8368
+}

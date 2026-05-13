@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing fantasy illustration of a dragon vs. knight battle scene (all in-image text in Chinese).\n\nStyle/medium: needs an epic fantasy illustration aesthetic — exact stylistic execution is yours\nComposition: needs a dynamic, epic compositional energy — exact framing and camera angle are yours\nSubject: must include:\n  - a massive dragon breathing fire (dominant threat presence)\n  - a knight charging with shield raised (heroic foreground figure)\nScene/backdrop: must include a burning castle and a stormy sky with lightning strikes\nLighting/mood: needs a dramatic, high-intensity atmosphere — exact light source mix of fire glow and lightning is yours\nColor palette: needs a direction of intense fiery oranges and electric storm tones — exact palette and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8ceb2e78-746c-44c2-ac51-508ab8feb5b0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing fantasy illustration of a dragon vs. knight battle scene (all in-image text in Chinese).\\n\\nStyle/medium: needs an epic fantasy illustration aesthetic — exact stylistic execution is yours\\nComposition: needs a dynamic, epic compositional energy — exact framing and camera angle are yours\\nSubject: must include:\\n  - a massive dragon breathing fire (dominant threat presence)\\n  - a knight charging with shield raised (heroic foreground figure)\\nScene/backdrop: must include a burning castle and a stormy sky with lightning strikes\\nLighting/mood: needs a dramatic, high-intensity atmosphere — exact light source mix of fire glow and lightning is yours\\nColor palette: needs a direction of intense fiery oranges and electric storm tones — exact palette and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7854
+}

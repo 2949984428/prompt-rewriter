@@ -1,0 +1,18 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Generate a 9:16 vertical screenshot of a Douyin livestream featuring \"神仙姐姐\".\n\nStyle/medium: mobile UI screenshot, Douyin livestream interface mockup, photorealistic portrait\nComposition: vertical 9:16 frame, phone screen capture aesthetic, subject centered in livestream window\nSubject: \"神仙姐姐\" (刘亦菲-style elegant Chinese actress) holding a sign with both hands, warm smile, soft makeup, flowing hair\nScene/backdrop: typical Douyin livestream room with blurred background, viewer count and comment section visible at bottom, gift icons on right side\nLighting/mood: soft ring light illuminating face, warm and inviting atmosphere for late-night chat session\nColor palette: warm skin tones against cool UI grays and Douyin brand accents\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: must look like authentic Douyin screenshot with proper UI elements; text on sign must be legible\nAvoid: distorted fingers, unreadable text, generic stock photo faces, watermark",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_906e0b8e94f44040beb8db697de9efc6.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"Generate a 9:16 vertical screenshot of a Douyin livestream featuring \\\"神仙姐姐\\\".\\n\\nStyle/medium: mobile UI screenshot, Douyin livestream interface mockup, photorealistic portrait\\nComposition: vertical 9:16 frame, phone screen capture aesthetic, subject centered in livestream window\\nSubject: \\\"神仙姐姐\\\" (刘亦菲-style elegant Chinese actress) holding a sign with both hands, warm smile, soft makeup, flowing hair\\nScene/backdrop: typical Douyin livestream room with blurred background, viewer count and comment section visible at bottom, gift icons on right side\\nLighting/mood: soft ring light illuminating face, warm and inviting atmosphere for late-night chat session\\nColor palette: warm skin tones against cool UI grays and Douyin brand accents\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: must look like authentic Douyin screenshot with proper UI elements; text on sign must be legible\\nAvoid: distorted fingers, unreadable text, generic stock photo faces, watermark\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9020
+}

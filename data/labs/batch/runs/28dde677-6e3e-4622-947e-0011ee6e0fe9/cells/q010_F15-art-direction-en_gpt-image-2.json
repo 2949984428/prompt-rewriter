@@ -1,0 +1,21 @@
+{
+  "query_idx": 10,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand color palette and typography specification sheet for an original, non-infringing fragrance brand named \"染秋 (RAN QIU)\".\n\nStyle/medium: needs an East-Asian artisanal brand identity aesthetic — exact stylistic execution is yours\nComposition: must be a structured brand spec sheet layout showing primary colors, secondary colors, and typography specimens in clear labeled sections\nSubject: must include the brand identity system for \"染秋 (RAN QIU)\" — primary palette swatches, secondary palette swatches, and typeface specimens\nScene/backdrop: needs a refined editorial brand-board atmosphere — exact background treatment is yours\nLighting/mood: needs a warm, contemplative autumn atmosphere — exact light quality is yours\nColor palette: needs warm autumnal tones drawn from 桂花 (osmanthus), 柿子 (persimmon), 枫叶 (maple), 乌龙茶, 肉桂, 檀香, 琥珀 — exact hex values and swatch ratios are yours\nMaterials/textures: needs a surface quality evoking traditional Chinese \"染\" (dyeing) craft — exact grain and texture weight are yours\nText (verbatim): must include \"染秋\" and \"RAN QIU\" as the wordmark; must include section labels for 主色 / 辅色 / 字体规范; must include the three fragrance line names: \"桂花乌龙\" / \"琥珀枫叶\" / \"柿霜暮色\"\nConstraints: must preserve the brand philosophy of East-Asian philosophy meeting seasonal natural transition; primary + secondary color groups must be visually distinct; typography section must show at least one typeface specimen\nAvoid: Western-only aesthetic; cold or desaturated color directions; generic mood-board collage without clear spec structure",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A50e68a2d-d714-4eee-aff0-ec575254c8ed/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a brand color palette and typography specification sheet for an original, non-infringing fragrance brand named \\\"染秋 (RAN QIU)\\\".\\n\\nStyle/medium: needs an East-Asian artisanal brand identity aesthetic — exact stylistic execution is yours\\nComposition: must be a structured brand spec sheet layout showing primary colors, secondary colors, and typography specimens in clear labeled sections\\nSubject: must include the brand identity system for \\\"染秋 (RAN QIU)\\\" — primary palette swatches, secondary palette swatches, and typeface specimens\\nScene/backdrop: needs a refined editorial brand-board atmosphere — exact background treatment is yours\\nLighting/mood: needs a warm, contemplative autumn atmosphere — exact light quality is yours\\nColor palette: needs warm autumnal tones drawn from 桂花 (osmanthus), 柿子 (persimmon), 枫叶 (maple), 乌龙茶, 肉桂, 檀香, 琥珀 — exact hex values and swatch ratios are yours\\nMaterials/textures: needs a surface quality evoking traditional Chinese \\\"染\\\" (dyeing) craft — exact grain and texture weight are yours\\nText (verbatim): must include \\\"染秋\\\" and \\\"RAN QIU\\\" as the wordmark; must include section labels for 主色 / 辅色 / 字体规范; must include the three fragrance line names: \\\"桂花乌龙\\\" / \\\"琥珀枫叶\\\" / \\\"柿霜暮色\\\"\\nConstraints: must preserve the brand philosophy of East-Asian philosophy meeting seasonal natural transition; primary + secondary color groups must be visually distinct; typography section must show at least one typeface specimen\\nAvoid: Western-only aesthetic; cold or desaturated color directions; generic mood-board collage without clear spec structure\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12413
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing smartphone full-screen brand advertisement for OPPO Find X9 Ultra.\n\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\nComposition: must be full-screen vertical layout simulating a smartphone screenshot, brand ad centered\nSubject: must include the OPPO Find X9 Ultra smartphone as hero product\nScene/backdrop: needs a dramatic, immersive backdrop — exact scene treatment is yours\nLighting/mood: needs a visually striking, high-impact atmosphere — exact light source mix is yours\nColor palette: needs a premium brand direction — exact hex values and ratios are yours\nMaterials/textures: needs a sleek, high-end surface treatment — exact finish is yours\nText (verbatim): must include \"OPPO Find X9 Ultra\" (prominent, primary)\nConstraints: must be 1080×1920 portrait format, full-bleed, no UI chrome or status bar visible\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ab936751-ac3b-4cd5-aed4-d56cacc05c9f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing smartphone full-screen brand advertisement for OPPO Find X9 Ultra.\\n\\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\\nComposition: must be full-screen vertical layout simulating a smartphone screenshot, brand ad centered\\nSubject: must include the OPPO Find X9 Ultra smartphone as hero product\\nScene/backdrop: needs a dramatic, immersive backdrop — exact scene treatment is yours\\nLighting/mood: needs a visually striking, high-impact atmosphere — exact light source mix is yours\\nColor palette: needs a premium brand direction — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek, high-end surface treatment — exact finish is yours\\nText (verbatim): must include \\\"OPPO Find X9 Ultra\\\" (prominent, primary)\\nConstraints: must be 1080×1920 portrait format, full-bleed, no UI chrome or status bar visible\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8157
+}

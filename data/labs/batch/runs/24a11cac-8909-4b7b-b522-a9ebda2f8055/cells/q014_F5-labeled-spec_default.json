@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: phone wallpaper, macro nature photography\nPrimary request: extreme close-up of a single water droplet on a grass blade, with a reflected miniature world visible inside the droplet\nScene/backdrop: dewy grass field, soft natural morning light, background blurred into circular bokeh orbs\nSubject: one crystal-clear water droplet clinging to a grass blade, surrounded by other smaller dewdrops on nearby grass leaves; inverted reflection of the surrounding greenery visible inside the main droplet\nStyle/medium: macro photography, photorealistic\nComposition/framing: extreme close-up, macro lens, shallow depth of field, vertical portrait framing\nLighting/mood: soft diffused morning light, gentle and serene, ethereal and delicate atmosphere\nColor palette: fresh greens, translucent crystal water, soft warm golden bokeh highlights\nMaterials/textures: smooth glass-like water surface with surface tension curve, fine grass blade texture, light refraction inside droplet\nConstraints: bokeh background must appear as soft circular light orbs; the reflected scene inside the droplet must be clearly visible and inverted\nAvoid: artificial studio look, oversaturated colors, flat lighting, deformed droplet shape",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/109df75e-cf3d-4508-ad89-cb209bad1d9c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: phone wallpaper, macro nature photography\\nPrimary request: extreme close-up of a single water droplet on a grass blade, with a reflected miniature world visible inside the droplet\\nScene/backdrop: dewy grass field, soft natural morning light, background blurred into circular bokeh orbs\\nSubject: one crystal-clear water droplet clinging to a grass blade, surrounded by other smaller dewdrops on nearby grass leaves; inverted reflection of the surrounding greenery visible inside the main droplet\\nStyle/medium: macro photography, photorealistic\\nComposition/framing: extreme close-up, macro lens, shallow depth of field, vertical portrait framing\\nLighting/mood: soft diffused morning light, gentle and serene, ethereal and delicate atmosphere\\nColor palette: fresh greens, translucent crystal water, soft warm golden bokeh highlights\\nMaterials/textures: smooth glass-like water surface with surface tension curve, fine grass blade texture, light refraction inside droplet\\nConstraints: bokeh background must appear as soft circular light orbs; the reflected scene inside the droplet must be clearly visible and inverted\\nAvoid: artificial studio look, oversaturated colors, flat lighting, deformed droplet shape\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11960
+}

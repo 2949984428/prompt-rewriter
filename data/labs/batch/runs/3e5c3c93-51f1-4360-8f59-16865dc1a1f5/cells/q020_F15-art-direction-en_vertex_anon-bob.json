@@ -1,0 +1,21 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing full-screen brand advertisement banner for a flagship smartphone launch, formatted as a mobile screenshot.\n\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\nComposition: must be full-screen vertical layout optimized for mobile display, brand advertisement centered\nSubject: must include a flagship smartphone as hero product, full-bleed visual-impact treatment\nScene/backdrop: needs a dramatic, immersive backdrop — exact environment is yours\nLighting/mood: needs a high-contrast, visually striking atmosphere — exact light source mix is yours\nColor palette: needs a bold, premium direction — exact hex values and ratios are yours\nMaterials/textures: needs a sleek, high-tech surface treatment — exact finish is yours\nText (verbatim): must include \"OPPO Find X9 Pro\" (large, primary hero text), \"OPPO\" (wordmark/logo placement)\nConstraints: must preserve 1080×1920 portrait aspect ratio; layout must read as a polished brand-exposure ad screenshot\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad557d7fb-223e-44c5-baca-7c95f27d2b08/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-04-img2-poland.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing full-screen brand advertisement banner for a flagship smartphone launch, formatted as a mobile screenshot.\\n\\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\\nComposition: must be full-screen vertical layout optimized for mobile display, brand advertisement centered\\nSubject: must include a flagship smartphone as hero product, full-bleed visual-impact treatment\\nScene/backdrop: needs a dramatic, immersive backdrop — exact environment is yours\\nLighting/mood: needs a high-contrast, visually striking atmosphere — exact light source mix is yours\\nColor palette: needs a bold, premium direction — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek, high-tech surface treatment — exact finish is yours\\nText (verbatim): must include \\\"OPPO Find X9 Pro\\\" (large, primary hero text), \\\"OPPO\\\" (wordmark/logo placement)\\nConstraints: must preserve 1080×1920 portrait aspect ratio; layout must read as a polished brand-exposure ad screenshot\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7657
+}

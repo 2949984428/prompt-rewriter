@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing hand-drawn infographic explaining the definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, and CLI, intended for educational sharing.\n\nStyle/medium: hand-drawn infographic, sketchbook aesthetic with mixed illustrations and diagrams\nComposition: central concept map layout with AI at the center, related concepts branching outward, visual connectors showing relationships between nodes\nSubject: concept definitions — AI (artificial intelligence), MCP (Model Context Protocol), AI Agent (autonomous AI system), OpenClaw (AI agent framework), AI Skill (modular AI capability), distillation (model compression technique), CLI (command-line interface); each concept illustrated with simple icons and brief explanatory text\nScene/backdrop: light paper texture background resembling a notebook page\nLighting/mood: friendly, approachable, educational\nColor palette: warm muted tones with accent colors for concept categories\nMaterials/textures: pencil/pen sketch lines, watercolor washes, paper grain\nText (verbatim): AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\nConstraints: all 7 concepts must be visually present, relationships between concepts must be clear through connecting lines or grouping, text must be legible at infographic scale\nAvoid: overly technical diagrams, cluttered layouts, corporate flat design aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fcf9b3a4-9417-406c-a771-8964c799fb8a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing hand-drawn infographic explaining the definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, and CLI, intended for educational sharing.\\n\\nStyle/medium: hand-drawn infographic, sketchbook aesthetic with mixed illustrations and diagrams\\nComposition: central concept map layout with AI at the center, related concepts branching outward, visual connectors showing relationships between nodes\\nSubject: concept definitions — AI (artificial intelligence), MCP (Model Context Protocol), AI Agent (autonomous AI system), OpenClaw (AI agent framework), AI Skill (modular AI capability), distillation (model compression technique), CLI (command-line interface); each concept illustrated with simple icons and brief explanatory text\\nScene/backdrop: light paper texture background resembling a notebook page\\nLighting/mood: friendly, approachable, educational\\nColor palette: warm muted tones with accent colors for concept categories\\nMaterials/textures: pencil/pen sketch lines, watercolor washes, paper grain\\nText (verbatim): AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\\nConstraints: all 7 concepts must be visually present, relationships between concepts must be clear through connecting lines or grouping, text must be legible at infographic scale\\nAvoid: overly technical diagrams, cluttered layouts, corporate flat design aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11809
+}

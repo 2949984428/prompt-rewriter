@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Xiaohongshu cover announcing GPT-image-2 launch on Lovart platform, designed for high-end magazine aesthetic.\n\nStyle/medium: editorial magazine cover with the refined restraint of contemporary design publications, designed for social media discovery\nComposition: diagonal composition, visual elements arranged along a strong diagonal axis creating dynamic tension and movement\nSubject: announcement of GPT-image-2 availability on Lovart platform\nScene/backdrop: minimalist editorial backdrop with generous breathing room, allowing typography to command attention\nLighting/mood: the crisp confidence of a headline moment, editorial gravitas meeting social media immediacy\nColor palette: high-contrast accent colors in bold dialogue, neutral base punctuated by a single commanding hue\nMaterials/textures: matte paper finish with subtle editorial depth, the tactile authority of printed matter\nText (verbatim): GPT-image-2, Lovart\nConstraints: diagonal visual flow, text hierarchy with GPT-image-2 and Lovart as primary elements, magazine-grade typographic treatment\nAvoid: cluttered layout, low-contrast pastels, generic social media template aesthetic, decorative noise competing with headline",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bc1593a7-978e-4b51-95ed-e873569802fb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a Xiaohongshu cover announcing GPT-image-2 launch on Lovart platform, designed for high-end magazine aesthetic.\\n\\nStyle/medium: editorial magazine cover with the refined restraint of contemporary design publications, designed for social media discovery\\nComposition: diagonal composition, visual elements arranged along a strong diagonal axis creating dynamic tension and movement\\nSubject: announcement of GPT-image-2 availability on Lovart platform\\nScene/backdrop: minimalist editorial backdrop with generous breathing room, allowing typography to command attention\\nLighting/mood: the crisp confidence of a headline moment, editorial gravitas meeting social media immediacy\\nColor palette: high-contrast accent colors in bold dialogue, neutral base punctuated by a single commanding hue\\nMaterials/textures: matte paper finish with subtle editorial depth, the tactile authority of printed matter\\nText (verbatim): GPT-image-2, Lovart\\nConstraints: diagonal visual flow, text hierarchy with GPT-image-2 and Lovart as primary elements, magazine-grade typographic treatment\\nAvoid: cluttered layout, low-contrast pastels, generic social media template aesthetic, decorative noise competing with headline\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8781
+}

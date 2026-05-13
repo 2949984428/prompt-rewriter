@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a documentary-style street photography image of the 恒河 morning bathing ritual in 瓦拉纳西, India.\n\nStyle/medium: needs a 纪实摄影 (documentary photography) aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include devout 信徒 bathing in the 恒河, boats in the morning mist\nScene/backdrop: must include the 恒河 ghats in 瓦拉纳西 at dawn, with morning mist over the water\nLighting/mood: needs a warm golden-hour dawn atmosphere with soft mist diffusion — exact light source mix is yours\nColor palette: needs a warm-toned direction with golden sunlight — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/d1d9227d-7bfe-4bc2-9c97-2ee48a853af6/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a documentary-style street photography image of the 恒河 morning bathing ritual in 瓦拉纳西, India.\\n\\nStyle/medium: needs a 纪实摄影 (documentary photography) aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include devout 信徒 bathing in the 恒河, boats in the morning mist\\nScene/backdrop: must include the 恒河 ghats in 瓦拉纳西 at dawn, with morning mist over the water\\nLighting/mood: needs a warm golden-hour dawn atmosphere with soft mist diffusion — exact light source mix is yours\\nColor palette: needs a warm-toned direction with golden sunlight — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 13769
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original 3x3 character expression grid for Zhao Ling'er from the Legend of Sword and Fairy IP.\n\nStyle/medium: 3D animation, Pixar-style character design with soft rounded forms and expressive features\nComposition: 3x3 grid layout with 9 equal square panels, each panel showing a head-and-shoulders portrait through a torn hole in white paper\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses, Zhao Ling'er inspired design\nScene/backdrop: clean white paper surface with torn circular holes as framing device for each panel\nLighting/mood: soft diffused studio lighting, warm and inviting atmosphere, consistent across all 9 panels\nColor palette: varied outfit colors per panel (green, red, yellow, black/white, orange, blue, purple, pink, teal) against neutral white paper background\nMaterials/textures: smooth Pixar-style 3D surfaces, fabric textures on clothing, subtle paper fiber texture on torn edges\nText (verbatim): \"仙剑奇侠传\"\nConstraints: each panel must show a distinct expression and outfit as specified; all 9 panels must share consistent character base and lighting\nAvoid: photorealistic rendering, anime 2D style, inconsistent character proportions between panels, cluttered backgrounds, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b35148bf-d69f-40f9-b75f-a67f87c8a2a9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original 3x3 character expression grid for Zhao Ling'er from the Legend of Sword and Fairy IP.\\n\\nStyle/medium: 3D animation, Pixar-style character design with soft rounded forms and expressive features\\nComposition: 3x3 grid layout with 9 equal square panels, each panel showing a head-and-shoulders portrait through a torn hole in white paper\\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses, Zhao Ling'er inspired design\\nScene/backdrop: clean white paper surface with torn circular holes as framing device for each panel\\nLighting/mood: soft diffused studio lighting, warm and inviting atmosphere, consistent across all 9 panels\\nColor palette: varied outfit colors per panel (green, red, yellow, black/white, orange, blue, purple, pink, teal) against neutral white paper background\\nMaterials/textures: smooth Pixar-style 3D surfaces, fabric textures on clothing, subtle paper fiber texture on torn edges\\nText (verbatim): \\\"仙剑奇侠传\\\"\\nConstraints: each panel must show a distinct expression and outfit as specified; all 9 panels must share consistent character base and lighting\\nAvoid: photorealistic rendering, anime 2D style, inconsistent character proportions between panels, cluttered backgrounds, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12057
+}

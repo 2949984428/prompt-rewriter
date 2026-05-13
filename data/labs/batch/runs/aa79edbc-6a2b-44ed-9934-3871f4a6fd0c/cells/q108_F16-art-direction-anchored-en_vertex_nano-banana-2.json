@@ -1,0 +1,25 @@
+{
+  "query_idx": 108,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成耳夹产品场景图，共3张方案，用于淘宝平台发布。\n\n风格/媒介:\n  参考图2的暗调场景风格\n  电商产品场景摄影风格\n\n构图:\n  3张方案之一\n  产品为视觉主体，展示耳夹整体造型\n  3:4竖版构图\n\n主体:\n  耳夹产品，严格还原图1产品细节\n  背面金属部分带有一根金属条\n\n场景/背景:\n  暗调场景，参考图2氛围\n\n光线/氛围:\n  暗调，参考图2的光线氛围\n\n色彩方案:\n\n材质/纹理:\n  金属质感，背面金属条细节清晰可见\n\n文字(原样):\n\n约束:\n  保持产品细节与图1完全一致，不可改变产品形态\n  背面金属条结构须清晰呈现\n  适合淘宝平台电商展示\n\n避免:\n  改变产品造型或细节\n  过度曝光导致金属质感丢失",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 3,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Adebabd50-2347-4eca-972c-fe838b50bc21/0.png",
+    "/api/image-file/lovart%3Adebabd50-2347-4eca-972c-fe838b50bc21/1.png",
+    "/api/image-file/lovart%3Adebabd50-2347-4eca-972c-fe838b50bc21/2.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成耳夹产品场景图，共3张方案，用于淘宝平台发布。\\n\\n风格/媒介:\\n  参考图2的暗调场景风格\\n  电商产品场景摄影风格\\n\\n构图:\\n  3张方案之一\\n  产品为视觉主体，展示耳夹整体造型\\n  3:4竖版构图\\n\\n主体:\\n  耳夹产品，严格还原图1产品细节\\n  背面金属部分带有一根金属条\\n\\n场景/背景:\\n  暗调场景，参考图2氛围\\n\\n光线/氛围:\\n  暗调，参考图2的光线氛围\\n\\n色彩方案:\\n\\n材质/纹理:\\n  金属质感，背面金属条细节清晰可见\\n\\n文字(原样):\\n\\n约束:\\n  保持产品细节与图1完全一致，不可改变产品形态\\n  背面金属条结构须清晰呈现\\n  适合淘宝平台电商展示\\n\\n避免:\\n  改变产品造型或细节\\n  过度曝光导致金属质感丢失\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 3, \"output_format\": \"jpeg\"}",
+  "ms": 10341,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing logo for a social media profile avatar for content about new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: \nComposition: \nSubject: social media avatar logo for new energy vehicles, digital products, and lifestyle goods\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: universally acceptable visual style for Chinese and international social platforms, no offensive imagery to any cultural groups\nAvoid: culturally sensitive symbols, region-specific controversial imagery",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7af4a911-c76f-455f-90ef-211a736205e6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing logo for a social media profile avatar for content about new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: \\nComposition: \\nSubject: social media avatar logo for new energy vehicles, digital products, and lifestyle goods\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: universally acceptable visual style for Chinese and international social platforms, no offensive imagery to any cultural groups\\nAvoid: culturally sensitive symbols, region-specific controversial imagery\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7118
+}

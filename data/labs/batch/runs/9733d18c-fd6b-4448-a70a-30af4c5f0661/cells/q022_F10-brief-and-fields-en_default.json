@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a classical oil painting portrait of a contemporary professional woman in the style of Dutch Golden Age masters.\n\nStyle/medium: oil on canvas, heavy impasto brushwork, Rembrandt chiaroscuro technique, museum-quality fine art painting\nComposition: bust portrait with slight three-quarter angle, focused on face and hands holding a book, tight framing\nSubject: East Asian woman around 35 years old, wearing a dark suit, wise and determined expression, holding a heavy book with detailed hands showing knuckles and skin texture\nScene/backdrop: deep brown dark background with almost no detail, all attention drawn to the subject's face\nLighting/mood: classic Rembrandt lighting with triangular highlight on one side of the face, soft shadows on the other side, dramatic chiaroscuro\nColor palette: brown, ochre, deep red as base tones, bright warm white only in facial highlight areas\nMaterials/textures: thick oil paint texture with visible brushstrokes, rich pigment quality, classical gravitas combined with modern feminine independence\nAvoid: flat lighting, modern photography aesthetic, plastic skin, digital smoothness, 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3435a688-230e-4880-adad-9d05cdb261b6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a classical oil painting portrait of a contemporary professional woman in the style of Dutch Golden Age masters.\\n\\nStyle/medium: oil on canvas, heavy impasto brushwork, Rembrandt chiaroscuro technique, museum-quality fine art painting\\nComposition: bust portrait with slight three-quarter angle, focused on face and hands holding a book, tight framing\\nSubject: East Asian woman around 35 years old, wearing a dark suit, wise and determined expression, holding a heavy book with detailed hands showing knuckles and skin texture\\nScene/backdrop: deep brown dark background with almost no detail, all attention drawn to the subject's face\\nLighting/mood: classic Rembrandt lighting with triangular highlight on one side of the face, soft shadows on the other side, dramatic chiaroscuro\\nColor palette: brown, ochre, deep red as base tones, bright warm white only in facial highlight areas\\nMaterials/textures: thick oil paint texture with visible brushstrokes, rich pigment quality, classical gravitas combined with modern feminine independence\\nAvoid: flat lighting, modern photography aesthetic, plastic skin, digital smoothness, 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10694
+}

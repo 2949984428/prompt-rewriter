@@ -1,0 +1,23 @@
+{
+  "query_idx": 208,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "制作一张专业的珠宝摄影图天猫场景图3:4，把[@image:#1:截屏2026-04-21 03]此图里的模特改成穿着低饱和度的橄榄绿服装的欧美女性，突出原图里银饰的佩戴效果，银饰细节参考[@image:#2:ZH_03536]。",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acfd20c9d-7deb-47ee-bb3c-a8b6d9a85b1b/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"制作一张专业的珠宝摄影图天猫场景图3:4，把[@image:#1:截屏2026-04-21 03]此图里的模特改成穿着低饱和度的橄榄绿服装的欧美女性，突出原图里银饰的佩戴效果，银饰细节参考[@image:#2:ZH_03536]。\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6035,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

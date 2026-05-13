@@ -1,0 +1,23 @@
+{
+  "query_idx": 36,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "这是我们公司的 Logo [@image:#1:Lovart_Logo]，基于这个 Logo 创建一套品牌周边",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A894c6e7f-c4dd-41be-ac9f-07ed4659af3d/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"这是我们公司的 Logo [@image:#1:Lovart_Logo]，基于这个 Logo 创建一套品牌周边\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3091,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

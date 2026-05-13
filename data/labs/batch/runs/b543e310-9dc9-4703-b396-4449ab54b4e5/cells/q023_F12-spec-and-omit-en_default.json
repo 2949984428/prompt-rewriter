@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing educational infographic for children explaining the Battle of Red Cliffs from the Three Kingdoms period.\n\nStyle/medium: cartoon story illustration, educational infographic for children\nComposition: single large knowledge card layout with clear title and bullet points beside main illustration\nSubject: Battle of Red Cliffs (赤壁之战), Three Kingdoms historical event\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 赤壁之战\nConstraints: clear title, bullet points listed beside with punctuation, child-friendly cartoon storytelling style\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dd636229-7d5c-47de-9e99-fbf43142c270/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing educational infographic for children explaining the Battle of Red Cliffs from the Three Kingdoms period.\\n\\nStyle/medium: cartoon story illustration, educational infographic for children\\nComposition: single large knowledge card layout with clear title and bullet points beside main illustration\\nSubject: Battle of Red Cliffs (赤壁之战), Three Kingdoms historical event\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 赤壁之战\\nConstraints: clear title, bullet points listed beside with punctuation, child-friendly cartoon storytelling style\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5772
+}

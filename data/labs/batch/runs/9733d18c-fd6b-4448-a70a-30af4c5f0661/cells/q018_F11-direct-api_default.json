@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "概念时装设计效果图：以深海生物为灵感来源的高级定制礼服系列。设计师将深海水母、珊瑚礁和生物发光元素融入服装设计中。主打款式是一件拖地晚礼服，裙身采用多层半透明欧根纱，每层都印有水母触须的图案，在灯光下呈现出神秘的蓝紫色荧光效果。胸衣部分以立体刺绣技法呈现珊瑚礁的质感，镶嵌有蓝色、绿色和紫色的施华洛世奇水晶。模特站立于全黑背景前，专业舞台灯光从多角度打亮，使服装的透明质感和发光效果得到最佳呈现。整体画面充满奢华感与艺术性，时装插画与摄影合成风格，色彩以深海蓝、荧光紫、珊瑚橙为主，高级定制时装周大片级别。",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f53660bc-1b78-49ea-b124-c007b91976c9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

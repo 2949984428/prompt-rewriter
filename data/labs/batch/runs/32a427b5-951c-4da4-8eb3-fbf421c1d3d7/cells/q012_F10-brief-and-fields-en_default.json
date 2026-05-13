@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original marketing poster for a WeChat public account article cover about a fragrance product launch.\n\nStyle/medium: premium editorial aesthetic, sophisticated Chinese commercial photography, refined magazine cover quality\nComposition: centered composition with the headline as focal point, generous negative space, 16:9 aspect ratio\nSubject: elegant fragrance bottle or abstract autumn scent visualization, subtle and refined\nScene/backdrop: minimal clean background with soft autumnal undertones, unobtrusive texture\nLighting/mood: soft diffused studio lighting, warm and inviting atmosphere, premium brand mood\nColor palette: warm autumn tones (amber, terracotta, cream) with muted sophistication, harmonious and understated\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: headline must be the dominant visual element; Chinese typography must be elegant and highly legible; aspect ratio 16:9\nAvoid: cluttered layout, competing focal points, cheap stock aesthetic, over-saturated colors, generic floral motifs",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/71c81a01-051e-431c-9222-0c0985487626/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original marketing poster for a WeChat public account article cover about a fragrance product launch.\\n\\nStyle/medium: premium editorial aesthetic, sophisticated Chinese commercial photography, refined magazine cover quality\\nComposition: centered composition with the headline as focal point, generous negative space, 16:9 aspect ratio\\nSubject: elegant fragrance bottle or abstract autumn scent visualization, subtle and refined\\nScene/backdrop: minimal clean background with soft autumnal undertones, unobtrusive texture\\nLighting/mood: soft diffused studio lighting, warm and inviting atmosphere, premium brand mood\\nColor palette: warm autumn tones (amber, terracotta, cream) with muted sophistication, harmonious and understated\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: headline must be the dominant visual element; Chinese typography must be elegant and highly legible; aspect ratio 16:9\\nAvoid: cluttered layout, competing focal points, cheap stock aesthetic, over-saturated colors, generic floral motifs\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11506
+}

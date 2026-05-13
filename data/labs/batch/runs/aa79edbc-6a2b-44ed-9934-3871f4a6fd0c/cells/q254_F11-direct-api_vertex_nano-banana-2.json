@@ -1,0 +1,23 @@
+{
+  "query_idx": 254,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "A brown and white cow stands on a sun-drenched meadow with blurred trees in the background. At the bottom of the image is a striking blue and white text overlay, with the blue text \"Don't look, you're the cow\" being particularly eye-catching, using bold and handwritten-style artistic font. Xiaohongshu Cover",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A69ac6f13-77d4-43dc-9ace-f2b2f3863116/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"A brown and white cow stands on a sun-drenched meadow with blurred trees in the background. At the bottom of the image is a striking blue and white text overlay, with the blue text \\\"Don't look, you're the cow\\\" being particularly eye-catching, using bold and handwritten-style artistic font. Xiaohongshu Cover\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3194,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

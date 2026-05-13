@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo of Varanasi's Ganges River morning ritual, capturing the spiritual atmosphere of Indian culture.\n\nStyle/medium: documentary street photography, National Geographic editorial style, photorealistic humanist photography in the spirit of Steve McCurry\nComposition: wide-angle establishing shot at dawn, 35mm lens, layered depth with foreground devotees and background boats, eye-level perspective\nSubject: Hindu devotees performing morning ritual bath, traditional dhotis and saris, hands folded in prayer, serene expressions, partially immersed in water\nScene/backdrop: Ganges River at Varanasi, wooden boats floating through morning mist, ancient ghats with stone steps, distant temple silhouettes\nLighting/mood: golden hour sunrise, warm directional light cutting through mist, soft diffused glow on water surface, reverent and timeless atmosphere\nColor palette: warm amber and gold as dominant tones, muted blue-grey mist as secondary, saffron and maroon from traditional clothing as accents\nMaterials/textures: weathered wooden boat hulls, rippling water with golden reflections, rough stone ghat steps, wet fabric clinging to skin\nAvoid: oversaturated colors, tourist snapshot aesthetic, lens flare abuse, 8K stuffer labels, artificial HDR look, cultural stereotypes\n",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e23a56dd-45b3-47de-83a0-de64a71e2176/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing editorial photo of Varanasi's Ganges River morning ritual, capturing the spiritual atmosphere of Indian culture.\\n\\nStyle/medium: documentary street photography, National Geographic editorial style, photorealistic humanist photography in the spirit of Steve McCurry\\nComposition: wide-angle establishing shot at dawn, 35mm lens, layered depth with foreground devotees and background boats, eye-level perspective\\nSubject: Hindu devotees performing morning ritual bath, traditional dhotis and saris, hands folded in prayer, serene expressions, partially immersed in water\\nScene/backdrop: Ganges River at Varanasi, wooden boats floating through morning mist, ancient ghats with stone steps, distant temple silhouettes\\nLighting/mood: golden hour sunrise, warm directional light cutting through mist, soft diffused glow on water surface, reverent and timeless atmosphere\\nColor palette: warm amber and gold as dominant tones, muted blue-grey mist as secondary, saffron and maroon from traditional clothing as accents\\nMaterials/textures: weathered wooden boat hulls, rippling water with golden reflections, rough stone ghat steps, wet fabric clinging to skin\\nAvoid: oversaturated colors, tourist snapshot aesthetic, lens flare abuse, 8K stuffer labels, artificial HDR look, cultural stereotypes\\n\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11354
+}

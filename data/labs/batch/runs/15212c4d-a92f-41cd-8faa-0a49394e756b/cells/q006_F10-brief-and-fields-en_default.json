@@ -1,0 +1,18 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing movie poster for \"大话西游\" (A Chinese Odyssey) in 1990s Hong Kong cinema style.\n\nStyle/medium: 1990s Hong Kong film poster aesthetic, Wong Kar-wai inspired romantic drama, visible film grain and photochemical texture, vintage print poster finish\nComposition: wide cinematic framing, central focus on embracing couple at the city wall, secondary figures positioned in mid-ground and background, layered depth\nSubject: male protagonist (至尊宝) and female protagonist (紫霞) in an emotional embrace and kiss at ancient city wall, distant silhouettes of bull demon king (牛魔王) and monk (唐僧) standing apart, period costumes\nScene/backdrop: ancient Chinese city wall at dusk or golden hour, atmospheric haze, distant horizon with subtle landscape\nLighting/mood: warm golden hour light with soft diffusion, romantic melancholic atmosphere, nostalgic 90s Hong Kong cinema mood\nColor palette: warm amber and gold tones as base, soft reds and earth tones for costumes, muted background with subtle contrast\nMaterials/textures: 35mm film grain texture, matte paper poster finish, slight color shift typical of 90s film stock\nText (verbatim): \"大话西游\"\nConstraints: must evoke 1990s Hong Kong cinema poster style; romantic drama tone; period-accurate costume design\nAvoid: modern digital clean look; oversaturated colors; contemporary typography; plastic smooth skin; 8K hyper-detail aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_631b286590184f159ca88dab275ee835.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"Design an original, non-infringing movie poster for \\\"大话西游\\\" (A Chinese Odyssey) in 1990s Hong Kong cinema style.\\n\\nStyle/medium: 1990s Hong Kong film poster aesthetic, Wong Kar-wai inspired romantic drama, visible film grain and photochemical texture, vintage print poster finish\\nComposition: wide cinematic framing, central focus on embracing couple at the city wall, secondary figures positioned in mid-ground and background, layered depth\\nSubject: male protagonist (至尊宝) and female protagonist (紫霞) in an emotional embrace and kiss at ancient city wall, distant silhouettes of bull demon king (牛魔王) and monk (唐僧) standing apart, period costumes\\nScene/backdrop: ancient Chinese city wall at dusk or golden hour, atmospheric haze, distant horizon with subtle landscape\\nLighting/mood: warm golden hour light with soft diffusion, romantic melancholic atmosphere, nostalgic 90s Hong Kong cinema mood\\nColor palette: warm amber and gold tones as base, soft reds and earth tones for costumes, muted background with subtle contrast\\nMaterials/textures: 35mm film grain texture, matte paper poster finish, slight color shift typical of 90s film stock\\nText (verbatim): \\\"大话西游\\\"\\nConstraints: must evoke 1990s Hong Kong cinema poster style; romantic drama tone; period-accurate costume design\\nAvoid: modern digital clean look; oversaturated colors; contemporary typography; plastic smooth skin; 8K hyper-detail aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13049
+}

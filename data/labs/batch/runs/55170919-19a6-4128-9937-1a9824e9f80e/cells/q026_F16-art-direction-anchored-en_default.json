@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a PPT cover slide for a domestic financing announcement event about \"gpt5.5发布\" (all in-image text in Chinese).\n\nStyle/medium: needs a domestic Chinese VC roadshow aesthetic — references in the spirit of 新中式商务设计 (new Chinese business design), 红杉中国 pitch deck heritage, 真格基金 minimalist presentation tradition; exact stylistic execution is yours\nComposition: must be standard 16:9 PPT cover layout with title area and speaker credit\nSubject: must include \"gpt5.5发布\" as the event title and \"奥特曼\" as the speaker name\nScene/backdrop: \nLighting/mood: needs a professional, confident GP-tier atmosphere — exact tone balance is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"gpt5.5发布\" (event title), \"奥特曼\" (speaker name)\nConstraints: must include all in-image text in Chinese by default; must fit domestic Chinese roadshow conventions and GP presentation standards\nAvoid: must avoid Western tech conference clichés, must avoid overly playful or casual elements",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8a207237-0231-4295-8f1b-dc57cc3594bc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a PPT cover slide for a domestic financing announcement event about \\\"gpt5.5发布\\\" (all in-image text in Chinese).\\n\\nStyle/medium: needs a domestic Chinese VC roadshow aesthetic — references in the spirit of 新中式商务设计 (new Chinese business design), 红杉中国 pitch deck heritage, 真格基金 minimalist presentation tradition; exact stylistic execution is yours\\nComposition: must be standard 16:9 PPT cover layout with title area and speaker credit\\nSubject: must include \\\"gpt5.5发布\\\" as the event title and \\\"奥特曼\\\" as the speaker name\\nScene/backdrop: \\nLighting/mood: needs a professional, confident GP-tier atmosphere — exact tone balance is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"gpt5.5发布\\\" (event title), \\\"奥特曼\\\" (speaker name)\\nConstraints: must include all in-image text in Chinese by default; must fit domestic Chinese roadshow conventions and GP presentation standards\\nAvoid: must avoid Western tech conference clichés, must avoid overly playful or casual elements\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10422
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an e-commerce announcement poster for the \"绿联私有云\" brand 618 anniversary campaign (all in-image text in Chinese).\n\nStyle/medium: needs a tech e-commerce promotional aesthetic — references in the spirit of Apple product launch visual language, Xiaomi Mi Fan Festival campaign heritage, 2020s Chinese tech brand 618 poster design; exact stylistic execution is yours\nComposition: \nSubject: must include \"绿联私有云\" brand context as the focal subject\nScene/backdrop: \nLighting/mood: needs a celebratory 618 shopping festival atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"绿联私有云\" (brand name), \"618\" (campaign identifier)\nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7ed27ba2-b1d2-491b-96eb-3e1ed312e698/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an e-commerce announcement poster for the \\\"绿联私有云\\\" brand 618 anniversary campaign (all in-image text in Chinese).\\n\\nStyle/medium: needs a tech e-commerce promotional aesthetic — references in the spirit of Apple product launch visual language, Xiaomi Mi Fan Festival campaign heritage, 2020s Chinese tech brand 618 poster design; exact stylistic execution is yours\\nComposition: \\nSubject: must include \\\"绿联私有云\\\" brand context as the focal subject\\nScene/backdrop: \\nLighting/mood: needs a celebratory 618 shopping festival atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"绿联私有云\\\" (brand name), \\\"618\\\" (campaign identifier)\\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8191
+}

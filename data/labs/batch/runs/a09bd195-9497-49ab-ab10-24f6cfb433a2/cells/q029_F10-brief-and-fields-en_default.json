@@ -1,0 +1,20 @@
+{
+  "query_idx": 29,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing fantasy illustration of an underwater fairy-tale world with a mermaid exploring coral reefs.\n\nStyle/medium: dreamy fantasy illustration, whimsical storybook aesthetic, Studio Ghibli-inspired underwater wonderland\nComposition: wide establishing shot from mid-water level, soft depth of field, fish-eye perspective hinting at vast ocean depth\nSubject: graceful mermaid with flowing hair and iridescent tail swimming among coral formations, surrounded by bioluminescent jellyfish\nScene/backdrop: vibrant coral reef ecosystem, sunken treasure chest with scattered gold coins, wooden shipwreck draped in seaweed, sunbeams piercing through water surface from above\nLighting/mood: ethereal god rays streaming from surface, soft volumetric light filtering through water, magical and serene atmosphere\nColor palette: jewel-tone corals (pinks, purples, oranges) as base, turquoise and deep blue water gradients, golden treasure accents, bioluminescent cyan glow from jellyfish\nMaterials/textures: translucent jellyfish bells with soft inner glow, weathered wood of shipwreck, rough coral textures, flowing fabric-like mermaid hair\nAvoid: photorealistic rendering, horror elements, murky darkness, cluttered composition, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9211b040-1ec0-408a-b359-dbfebf4196a5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing fantasy illustration of an underwater fairy-tale world with a mermaid exploring coral reefs.\\n\\nStyle/medium: dreamy fantasy illustration, whimsical storybook aesthetic, Studio Ghibli-inspired underwater wonderland\\nComposition: wide establishing shot from mid-water level, soft depth of field, fish-eye perspective hinting at vast ocean depth\\nSubject: graceful mermaid with flowing hair and iridescent tail swimming among coral formations, surrounded by bioluminescent jellyfish\\nScene/backdrop: vibrant coral reef ecosystem, sunken treasure chest with scattered gold coins, wooden shipwreck draped in seaweed, sunbeams piercing through water surface from above\\nLighting/mood: ethereal god rays streaming from surface, soft volumetric light filtering through water, magical and serene atmosphere\\nColor palette: jewel-tone corals (pinks, purples, oranges) as base, turquoise and deep blue water gradients, golden treasure accents, bioluminescent cyan glow from jellyfish\\nMaterials/textures: translucent jellyfish bells with soft inner glow, weathered wood of shipwreck, rough coral textures, flowing fabric-like mermaid hair\\nAvoid: photorealistic rendering, horror elements, murky darkness, cluttered composition, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10811
+}

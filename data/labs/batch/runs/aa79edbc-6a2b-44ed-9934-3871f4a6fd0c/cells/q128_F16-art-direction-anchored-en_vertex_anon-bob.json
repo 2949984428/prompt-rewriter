@@ -1,0 +1,23 @@
+{
+  "query_idx": 128,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张亚马逊美国站电商 A+ 模块展示图，产品为冰丝短裤（参考上传图片中的升级款黑色款式）。\n\n风格/媒介: 电商产品展示图，亚马逊 A+ 页面风格，简洁商业感\n构图:\n  横向宽幅版式，宽 1465px × 高 628px 比例\n  单模块聚焦展示，产品居中或偏一侧，另一侧留文字区域\n主体: 冰丝短裤，升级款黑色，展示面料质感与剪裁细节\n场景/背景: 简洁干净背景，突出产品\n光线/氛围: 清爽、凉感氛围，传递夏日清凉感\n色彩方案: 以黑色产品为主色，背景偏冷色调或浅灰白，强调清凉感\n材质/纹理: 冰丝面料细腻光滑质感可见\n文字(原样): Cooling Comfort – Beat the Heat\n约束:\n  符合亚马逊 A+ 普通模块规范\n  宽度 1465 像素，高度 628 像素比例\n  文字 \"Cooling Comfort – Beat the Heat\" 需清晰呈现在画面中\n避免: 杂乱背景，过多装饰元素，与产品无关的道具",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8b03b2ed-9b41-4369-b6b7-db05cc307759/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张亚马逊美国站电商 A+ 模块展示图，产品为冰丝短裤（参考上传图片中的升级款黑色款式）。\\n\\n风格/媒介: 电商产品展示图，亚马逊 A+ 页面风格，简洁商业感\\n构图:\\n  横向宽幅版式，宽 1465px × 高 628px 比例\\n  单模块聚焦展示，产品居中或偏一侧，另一侧留文字区域\\n主体: 冰丝短裤，升级款黑色，展示面料质感与剪裁细节\\n场景/背景: 简洁干净背景，突出产品\\n光线/氛围: 清爽、凉感氛围，传递夏日清凉感\\n色彩方案: 以黑色产品为主色，背景偏冷色调或浅灰白，强调清凉感\\n材质/纹理: 冰丝面料细腻光滑质感可见\\n文字(原样): Cooling Comfort – Beat the Heat\\n约束:\\n  符合亚马逊 A+ 普通模块规范\\n  宽度 1465 像素，高度 628 像素比例\\n  文字 \\\"Cooling Comfort – Beat the Heat\\\" 需清晰呈现在画面中\\n避免: 杂乱背景，过多装饰元素，与产品无关的道具\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10200,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

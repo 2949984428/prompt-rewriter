@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a WeChat public account article cover featuring a new fragrance product launch.\n\nStyle/medium: premium editorial design, high-end magazine cover aesthetic, sophisticated minimalism\nComposition: centered layout, title placed in visual center, balanced negative space on all sides\nSubject: fragrance bottle or abstract scent visualization as secondary element, elegant typography as primary focus\nScene/backdrop: refined gradient or textured background suggesting autumn warmth and sophistication\nLighting/mood: soft diffused studio lighting, luxurious and contemplative atmosphere\nColor palette: warm autumn tones (amber, burnt orange, deep burgundy) with cream or off-white accents, harmonious and muted\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title must be the dominant visual element; design must work at 900x500px thumbnail size; maintain readability on mobile screens\nAvoid: cluttered elements competing with title, generic stock photo aesthetic, oversaturated colors, decorative frames that distract from content",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/116aa6c4-bff8-4042-b34f-0bbdf37d2ca6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a WeChat public account article cover featuring a new fragrance product launch.\\n\\nStyle/medium: premium editorial design, high-end magazine cover aesthetic, sophisticated minimalism\\nComposition: centered layout, title placed in visual center, balanced negative space on all sides\\nSubject: fragrance bottle or abstract scent visualization as secondary element, elegant typography as primary focus\\nScene/backdrop: refined gradient or textured background suggesting autumn warmth and sophistication\\nLighting/mood: soft diffused studio lighting, luxurious and contemplative atmosphere\\nColor palette: warm autumn tones (amber, burnt orange, deep burgundy) with cream or off-white accents, harmonious and muted\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title must be the dominant visual element; design must work at 900x500px thumbnail size; maintain readability on mobile screens\\nAvoid: cluttered elements competing with title, generic stock photo aesthetic, oversaturated colors, decorative frames that distract from content\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8563
+}

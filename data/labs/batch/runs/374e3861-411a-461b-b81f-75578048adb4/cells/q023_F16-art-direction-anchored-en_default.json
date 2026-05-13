@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a tactical gear showcase display featuring firearms, body armor, and night vision equipment.\n\nStyle/medium: needs a \"硬核军事\" aesthetic — references in the spirit of Tom Clancy's Rainbow Six Siege operator loadout art, 2010s military contractor catalog photography, Soviet-era technical manual illustrations; exact stylistic execution is yours\nComposition: must include a flat-lay arrangement of tactical gear items neatly organized\nSubject: must include firearms, body armor (防弹背心), and night vision equipment (夜视仪)\nScene/backdrop: must be a dark background\nLighting/mood: needs a cold, stern, professional and authoritative atmosphere — exact light source mix is yours\nColor palette: needs a cold, muted direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6f215038-9e5d-474c-9618-3c9e2c9c84c0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a tactical gear showcase display featuring firearms, body armor, and night vision equipment.\\n\\nStyle/medium: needs a \\\"硬核军事\\\" aesthetic — references in the spirit of Tom Clancy's Rainbow Six Siege operator loadout art, 2010s military contractor catalog photography, Soviet-era technical manual illustrations; exact stylistic execution is yours\\nComposition: must include a flat-lay arrangement of tactical gear items neatly organized\\nSubject: must include firearms, body armor (防弹背心), and night vision equipment (夜视仪)\\nScene/backdrop: must be a dark background\\nLighting/mood: needs a cold, stern, professional and authoritative atmosphere — exact light source mix is yours\\nColor palette: needs a cold, muted direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9072
+}

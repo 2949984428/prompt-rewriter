@@ -1,0 +1,18 @@
+{
+  "query_idx": 11,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an illustration of a cherry blossom season campus scene featuring a girl in a sailor uniform (all in-image text in Chinese).\n\nStyle/medium: needs a \"清新日系\" aesthetic — references in the spirit of 新海誠 (Makoto Shinkai) background art warmth, 京阿尼 (Kyoto Animation) character illustration softness, 1990s–2000s shoujo manga print culture; exact stylistic execution is yours\nComposition: needs a mid-to-wide framing with the girl as focal point against the school building — exact angle and depth of field are yours\nSubject: must include a young woman in a sailor-style school uniform standing in front of a school building, with hair gently moving in the breeze\nScene/backdrop: must include a campus setting with cherry blossom trees, pink petals falling around the figure\nLighting/mood: needs a bright, warm spring sunlight atmosphere full of youthful energy — exact light source mix is yours\nColor palette: needs a soft, pastel-pink and warm-white dominant direction — exact hex values and ratios are yours\nMaterials/textures: needs a clean, slightly painterly illustration surface treatment — exact grain / sheen / weight is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_3ea1ba4573a5484ba7c6f8929ebea6f7.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an illustration of a cherry blossom season campus scene featuring a girl in a sailor uniform (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"清新日系\\\" aesthetic — references in the spirit of 新海誠 (Makoto Shinkai) background art warmth, 京阿尼 (Kyoto Animation) character illustration softness, 1990s–2000s shoujo manga print culture; exact stylistic execution is yours\\nComposition: needs a mid-to-wide framing with the girl as focal point against the school building — exact angle and depth of field are yours\\nSubject: must include a young woman in a sailor-style school uniform standing in front of a school building, with hair gently moving in the breeze\\nScene/backdrop: must include a campus setting with cherry blossom trees, pink petals falling around the figure\\nLighting/mood: needs a bright, warm spring sunlight atmosphere full of youthful energy — exact light source mix is yours\\nColor palette: needs a soft, pastel-pink and warm-white dominant direction — exact hex values and ratios are yours\\nMaterials/textures: needs a clean, slightly painterly illustration surface treatment — exact grain / sheen / weight is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11163
+}

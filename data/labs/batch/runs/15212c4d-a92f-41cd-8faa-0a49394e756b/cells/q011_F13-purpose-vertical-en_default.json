@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing magazine-style cover design for a Xiaohongshu post announcing \"GPT-image-2\" and \"Lovart\" platform launch.\n\nStyle/medium: high-end editorial magazine cover, premium aesthetic\nComposition: diagonal layout\nSubject: GPT-image-2 × Lovart platform collaboration announcement\nScene/backdrop: \nLighting/mood: \nColor palette: high-contrast accent colors\nMaterials/textures: \nText (verbatim): \"GPT-image-2\" \"Lovart\"\nConstraints: must read clearly as Xiaohongshu cover thumbnail\nAvoid: generic flat social media aesthetic, low-contrast palettes",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ae9117bb-28c7-49a3-b461-1bede4d27ec6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing magazine-style cover design for a Xiaohongshu post announcing \\\"GPT-image-2\\\" and \\\"Lovart\\\" platform launch.\\n\\nStyle/medium: high-end editorial magazine cover, premium aesthetic\\nComposition: diagonal layout\\nSubject: GPT-image-2 × Lovart platform collaboration announcement\\nScene/backdrop: \\nLighting/mood: \\nColor palette: high-contrast accent colors\\nMaterials/textures: \\nText (verbatim): \\\"GPT-image-2\\\" \\\"Lovart\\\"\\nConstraints: must read clearly as Xiaohongshu cover thumbnail\\nAvoid: generic flat social media aesthetic, low-contrast palettes\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7465
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 284,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张礼盒手串的ins展示图。\n\n风格/媒介:ins风摄影风格，疗愈感，高级，有氛围\n构图:\n  6张方案之一\n  偏整体礼盒展示，产品主体突出\n主体:\n  礼盒（参考图#6、#5的盒子款式）\n  手串（从白羊、天蝎、处女款中任选一款）\n场景/背景:\n光线/氛围:疗愈、ins风、高级、有氛围感\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:礼盒与手串组合展示，参考图#1至#5的ins风格\n避免:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 6,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aaec8f0b0-1cb6-476d-8ab8-beed5cf96989/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张礼盒手串的ins展示图。\\n\\n风格/媒介:ins风摄影风格，疗愈感，高级，有氛围\\n构图:\\n  6张方案之一\\n  偏整体礼盒展示，产品主体突出\\n主体:\\n  礼盒（参考图#6、#5的盒子款式）\\n  手串（从白羊、天蝎、处女款中任选一款）\\n场景/背景:\\n光线/氛围:疗愈、ins风、高级、有氛围感\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:礼盒与手串组合展示，参考图#1至#5的ins风格\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 6, \"output_format\": \"jpeg\"}",
+  "ms": 6366,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

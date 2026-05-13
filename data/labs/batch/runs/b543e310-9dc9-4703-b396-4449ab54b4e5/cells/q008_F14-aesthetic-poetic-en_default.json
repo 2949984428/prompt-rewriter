@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing promotional poster for cross-border e-commerce sales, designed for social media and advertising platforms, with layered typography and product integration.\n\nStyle/medium: commercial poster design with the rhythmic tension of layered typography, balancing complexity with visual breathing room\nComposition: 16:9 horizontal format, dynamic layered text arrangement with strategic overlapping and occlusion by product elements, asymmetric energy with centered focal weight\nSubject: prominent artistic display typography spelling out promotional messaging, partially obscured by featured product or brand mascot element creating depth\nScene/backdrop: rich commercial environment with subtle gradients and abstract shapes supporting the layered text without competing\nLighting/mood: dramatic directional light creating depth between text layers, the excitement of a limited-time offer held in controlled tension\nColor palette: saturated promotional hues with warm accent tones against cooler base, the chromatic energy of commerce tempered by restraint\nMaterials/textures: polished digital surfaces with subtle dimensional depth, the smooth confidence of premium retail\nText (verbatim): 跨境电商促销 / 限时特惠 / 全球好物 (as artistic stacked typography)\nConstraints: 16:9 aspect ratio, layered text must remain partially legible, product occlusion must enhance not destroy readability, complexity without visual chaos\nAvoid: unreadable text buried under products, cluttered composition without hierarchy, generic stock-photo aesthetic, Western holiday clichés inappropriate for Chinese cross-border context",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5afe97d9-44a2-45cc-a552-b73c70a62852/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing promotional poster for cross-border e-commerce sales, designed for social media and advertising platforms, with layered typography and product integration.\\n\\nStyle/medium: commercial poster design with the rhythmic tension of layered typography, balancing complexity with visual breathing room\\nComposition: 16:9 horizontal format, dynamic layered text arrangement with strategic overlapping and occlusion by product elements, asymmetric energy with centered focal weight\\nSubject: prominent artistic display typography spelling out promotional messaging, partially obscured by featured product or brand mascot element creating depth\\nScene/backdrop: rich commercial environment with subtle gradients and abstract shapes supporting the layered text without competing\\nLighting/mood: dramatic directional light creating depth between text layers, the excitement of a limited-time offer held in controlled tension\\nColor palette: saturated promotional hues with warm accent tones against cooler base, the chromatic energy of commerce tempered by restraint\\nMaterials/textures: polished digital surfaces with subtle dimensional depth, the smooth confidence of premium retail\\nText (verbatim): 跨境电商促销 / 限时特惠 / 全球好物 (as artistic stacked typography)\\nConstraints: 16:9 aspect ratio, layered text must remain partially legible, product occlusion must enhance not destroy readability, complexity without visual chaos\\nAvoid: unreadable text buried under products, cluttered composition without hierarchy, generic stock-photo aesthetic, Western holiday clichés inappropriate for Chinese cross-border context\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12217
+}

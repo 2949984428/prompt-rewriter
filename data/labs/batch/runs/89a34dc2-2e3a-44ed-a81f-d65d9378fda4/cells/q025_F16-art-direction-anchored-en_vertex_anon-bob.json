@@ -1,0 +1,15 @@
+{
+  "query_idx": 25,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"生成一张 Sloth Agent LOGO 变体图 —— 水印效果。\\n\\n风格/媒介:LOGO 设计，水印效果\\n构图:与原始 LOGO 相同构图和尺寸\\n主体:Sloth Agent LOGO，水印风格，半透明叠印质感，低不透明度\\n场景/背景:透明或白色背景\\n光线/氛围:\\n色彩方案:低饱和度，接近透明的浅灰或浅蓝灰色调\\n材质/纹理:水印纹理，半透明\\n文字(原样):Sloth Agent\\n约束:保持原始 LOGO 的图形结构与比例不变\\n避免:不透明实色填充，高对比度\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"生成一张 Sloth Agent LOGO 变体图 —— 浮雕效果。\\n\\n风格/媒介:LOGO 设计，浮雕效果（emboss）\\n构图:与原始 LOGO 相同构图和尺寸\\n主体:Sloth Agent LOGO，浮雕风格，凸起立体压印质感\\n场景/背景:米白色或浅米灰色背景，与浮雕同色系\\n光线/氛围:侧光打亮，强调浮雕凹凸立体感\\n色彩方案:单色，与背景同色系，靠光影区分形体\\n材质/纹理:压印浮雕纹理，哑光\\n文字(原样):Sloth Agent\\n约束:保持原始 LOGO 的图形结构与比例不变\\n避免:彩色填充，高饱和度\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"生成一张 Sloth Agent LOGO 变体图 —— 金属灰效果。\\n\\n风格/媒介:LOGO 设计，金属灰效果\\n构图:与原始 LOGO 相同构图和尺寸\\n主体:Sloth Agent LOGO，金属灰风格，拉丝或抛光金属质感\\n场景/背景:深灰或黑色背景\\n光线/氛围:金属高光反射，局部强光\\n色彩方案:银灰色系，金属光泽渐变\\n材质/纹理:拉丝金属或抛光金属纹理\\n文字(原样):Sloth Agent\\n约束:保持原始 LOGO 的图形结构与比例不变\\n避免:彩色，暖色调，塑料质感\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"生成一张 Sloth Agent LOGO 变体图 —— 黑色效果。\\n\\n风格/媒介:LOGO 设计，纯黑色版本\\n构图:与原始 LOGO 相同构图和尺寸\\n主体:Sloth Agent LOGO，纯黑色实色填充，无渐变\\n场景/背景:白色背景\\n光线/氛围:\\n色彩方案:纯黑色 #000000，白色背景\\n材质/纹理:平面实色，无纹理\\n文字(原样):Sloth Agent\\n约束:保持原始 LOGO 的图形结构与比例不变\\n避免:灰色，渐变，阴影，任何彩色\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"生成一张 Sloth Agent LOGO 变体图 —— 黑底白色效果。\\n\\n风格/媒介:LOGO 设计，黑底白色反色版本\\n构图:与原始 LOGO 相同构图和尺寸\\n主体:Sloth Agent LOGO，纯白色实色填充，无渐变\\n场景/背景:纯黑色背景 #000000\\n光线/氛围:\\n色彩方案:白色图形 #FFFFFF，黑色背景 #000000\\n材质/纹理:平面实色，无纹理\\n文字(原样):Sloth Agent\\n约束:保持原始 LOGO 的图形结构与比例不变\\n避免:灰色，渐变，阴影，任何彩色\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 19936,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

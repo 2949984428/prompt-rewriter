@@ -1,0 +1,26 @@
+{
+  "query_idx": 66,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "做一个柠檬茶饮品牌， [@image:#1:image][@image:#2:屏幕截图 2026-04-22 224158]，是我给这个品牌做的一些辅助图形和品牌logo，帮我延展物料（不要土味感，要高级合理的）",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A39133f8e-81d3-4b19-8d0f-b32713e92d04/0.png",
+    "/api/image-file/lovart%3A39133f8e-81d3-4b19-8d0f-b32713e92d04/1.png",
+    "/api/image-file/lovart%3A39133f8e-81d3-4b19-8d0f-b32713e92d04/2.png",
+    "/api/image-file/lovart%3A39133f8e-81d3-4b19-8d0f-b32713e92d04/3.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"柠檬茶饮品牌视觉物料延展设计，基于已有辅助图形与品牌logo风格进行延展，品牌调性：高级感、克制、现代简约，非土味。物料包含：品牌手提袋、纸杯包装、名片、帆布袋等周边物料平铺展示，整体配色以柠檬黄与白色为主调，辅以干净的无衬线字体排版，版式简洁有设计感，产品摄影风格，白色或浅灰色背景，自然光漫射，品牌感强。\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6744,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

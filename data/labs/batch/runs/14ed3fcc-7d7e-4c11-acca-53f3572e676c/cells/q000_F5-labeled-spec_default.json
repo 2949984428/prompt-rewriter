@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial landscape photo, wide format\nPrimary request: ancient primeval forest at dawn with Tyndall light beams piercing through dense canopy onto moss-covered rocks, mountain stream in midground, layered depth from ferns to redwood trunks to misty peaks\nScene/backdrop: deep old-growth forest interior at early morning; thin mist drifting between trees; distant mountain silhouette faintly visible through haze; winding crystal-clear mountain stream reflecting surrounding green foliage\nSubject: foreground — lush fern clusters and wild mushrooms on forest floor; midground — towering redwood trunks rising out of frame; background — soft hazy mountain ridge\nStyle/medium: photorealistic nature photography, wide-angle lens, visible depth of field\nComposition/framing: wide-angle shot, 16–24mm lens, strong foreground-to-background layering, prominent bokeh on distant elements\nLighting/mood: first light of dawn, dramatic Tyndall god rays breaking through dense canopy, dappled golden light on moss-covered ancient rocks, mysterious and serene atmosphere\nColor palette: deep forest green, vivid emerald green, warm golden yellow; rich tonal gradation between shadow and light\nMaterials/textures: velvety moss on weathered stone, wet fern fronds, rough redwood bark, soft mist diffusion, mirror-like water surface reflections\nAvoid: artificial HDR halos, oversaturated neon green, plastic foliage, lens flare overload, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cc812645-d933-4f3e-a599-99fa8cfaae61/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial landscape photo, wide format\\nPrimary request: ancient primeval forest at dawn with Tyndall light beams piercing through dense canopy onto moss-covered rocks, mountain stream in midground, layered depth from ferns to redwood trunks to misty peaks\\nScene/backdrop: deep old-growth forest interior at early morning; thin mist drifting between trees; distant mountain silhouette faintly visible through haze; winding crystal-clear mountain stream reflecting surrounding green foliage\\nSubject: foreground — lush fern clusters and wild mushrooms on forest floor; midground — towering redwood trunks rising out of frame; background — soft hazy mountain ridge\\nStyle/medium: photorealistic nature photography, wide-angle lens, visible depth of field\\nComposition/framing: wide-angle shot, 16–24mm lens, strong foreground-to-background layering, prominent bokeh on distant elements\\nLighting/mood: first light of dawn, dramatic Tyndall god rays breaking through dense canopy, dappled golden light on moss-covered ancient rocks, mysterious and serene atmosphere\\nColor palette: deep forest green, vivid emerald green, warm golden yellow; rich tonal gradation between shadow and light\\nMaterials/textures: velvety moss on weathered stone, wet fern fronds, rough redwood bark, soft mist diffusion, mirror-like water surface reflections\\nAvoid: artificial HDR halos, oversaturated neon green, plastic foliage, lens flare overload, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10917
+}

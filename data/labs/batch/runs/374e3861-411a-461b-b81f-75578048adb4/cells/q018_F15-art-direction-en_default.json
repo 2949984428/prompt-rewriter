@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a professional product photography scene for a smartwatch.\n\nStyle/medium: needs a minimalist business aesthetic — exact stylistic execution is yours\nComposition: must include smartwatch as focal point, coffee cup and notebook arranged nearby\nSubject: must include the smartwatch (one), coffee cup, notebook\nScene/backdrop: must include a marble tabletop surface\nLighting/mood: must be natural light from the side\nColor palette: \nMaterials/textures: needs to emphasize product texture and quality — exact surface treatment is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/61e3b059-49f3-4b23-a155-fc5e217a55b7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a professional product photography scene for a smartwatch.\\n\\nStyle/medium: needs a minimalist business aesthetic — exact stylistic execution is yours\\nComposition: must include smartwatch as focal point, coffee cup and notebook arranged nearby\\nSubject: must include the smartwatch (one), coffee cup, notebook\\nScene/backdrop: must include a marble tabletop surface\\nLighting/mood: must be natural light from the side\\nColor palette: \\nMaterials/textures: needs to emphasize product texture and quality — exact surface treatment is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9443
+}

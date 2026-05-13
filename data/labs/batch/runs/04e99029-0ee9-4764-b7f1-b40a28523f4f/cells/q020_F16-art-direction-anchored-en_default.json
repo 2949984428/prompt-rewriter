@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand exposure advertisement for OPPO Find X9 Ultra full-screen new product launch.\n\nStyle/medium: needs a high-impact brand exposure aesthetic — references in the spirit of Apple product launch campaigns, Samsung Galaxy flagship launch visuals, OnePlus minimalist tech advertising; exact stylistic execution is yours\nComposition: must be vertical 9:16 format optimized for mobile screen capture\nSubject: must include OPPO Find X9 Ultra smartphone as the hero product\nScene/backdrop: needs a premium tech launch atmosphere — exact environment design is yours\nLighting/mood: needs a dramatic, high-contrast atmosphere — exact light source mix is yours\nColor palette: needs a bold, attention-grabbing direction — exact hex values and ratios are yours\nMaterials/textures: needs a sleek tech surface treatment — exact finish and reflectivity is yours\nText (verbatim): must include \"OPPO\" brand name, \"Find X9 Ultra\" product name\nConstraints: must be 1080×1920 resolution, brand exposure priority, visual impact first\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8a218e01-0e45-48ef-978e-975fe5af947b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a brand exposure advertisement for OPPO Find X9 Ultra full-screen new product launch.\\n\\nStyle/medium: needs a high-impact brand exposure aesthetic — references in the spirit of Apple product launch campaigns, Samsung Galaxy flagship launch visuals, OnePlus minimalist tech advertising; exact stylistic execution is yours\\nComposition: must be vertical 9:16 format optimized for mobile screen capture\\nSubject: must include OPPO Find X9 Ultra smartphone as the hero product\\nScene/backdrop: needs a premium tech launch atmosphere — exact environment design is yours\\nLighting/mood: needs a dramatic, high-contrast atmosphere — exact light source mix is yours\\nColor palette: needs a bold, attention-grabbing direction — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek tech surface treatment — exact finish and reflectivity is yours\\nText (verbatim): must include \\\"OPPO\\\" brand name, \\\"Find X9 Ultra\\\" product name\\nConstraints: must be 1080×1920 resolution, brand exposure priority, visual impact first\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10739
+}

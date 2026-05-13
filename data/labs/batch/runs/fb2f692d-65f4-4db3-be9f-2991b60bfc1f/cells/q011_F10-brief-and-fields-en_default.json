@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a product launch announcement on Xiaohongshu (Little Red Book).\n\nStyle/medium: editorial magazine cover aesthetic, clean contemporary layout with premium typography, inspired by Kinfolk or Monocle editorial design\nComposition: diagonal composition with dynamic visual flow from top-left to bottom-right, generous white space, asymmetrical balance\nSubject: product launch announcement featuring \"GPT-image-2\" and \"Lovart\" as hero text elements, minimalist graphic accents\nScene/backdrop: solid or subtly textured background, no distracting scenery, focus entirely on typography and layout\nLighting/mood: high contrast lighting, dramatic shadows for depth, sophisticated and confident mood\nColor palette: high contrast accent color (deep navy, burnt orange, or forest green) against neutral base (off-white or soft gray), limited palette for premium feel\nText (verbatim): \"GPT-image-2\", \"Lovart\"\nConstraints: must work as 3:4 vertical cover image for Xiaohongshu platform; text must remain legible at thumbnail size\nAvoid: gradient overload, generic stock imagery, drop shadows on text, cluttered layout, Behance generic flat style, 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/837b96a9-ca23-4d02-bf6d-646db6e9b5b0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for a product launch announcement on Xiaohongshu (Little Red Book).\\n\\nStyle/medium: editorial magazine cover aesthetic, clean contemporary layout with premium typography, inspired by Kinfolk or Monocle editorial design\\nComposition: diagonal composition with dynamic visual flow from top-left to bottom-right, generous white space, asymmetrical balance\\nSubject: product launch announcement featuring \\\"GPT-image-2\\\" and \\\"Lovart\\\" as hero text elements, minimalist graphic accents\\nScene/backdrop: solid or subtly textured background, no distracting scenery, focus entirely on typography and layout\\nLighting/mood: high contrast lighting, dramatic shadows for depth, sophisticated and confident mood\\nColor palette: high contrast accent color (deep navy, burnt orange, or forest green) against neutral base (off-white or soft gray), limited palette for premium feel\\nText (verbatim): \\\"GPT-image-2\\\", \\\"Lovart\\\"\\nConstraints: must work as 3:4 vertical cover image for Xiaohongshu platform; text must remain legible at thumbnail size\\nAvoid: gradient overload, generic stock imagery, drop shadows on text, cluttered layout, Behance generic flat style, 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10056
+}

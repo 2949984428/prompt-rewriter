@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a short-form video vertical cover for an 8k GGU gaming monitor product launch, intended for Douyin / TikTok / Xiaohongshu short video cover.\n\nStyle/medium: minimalist premium tech product poster, short video cover\nComposition: rule of thirds, large typography dominant\nSubject: 8k GGU gaming monitor 1000hz, global debut new panel, low latency, perfect color\nScene/backdrop: clean tech-forward backdrop, subtle gradient or solid premium surface\nLighting/mood: sleek, premium, high-end tech atmosphere\nColor palette: minimalist palette — deep black / gunmetal / electric blue accents\nMaterials/textures: matte finish, subtle metallic sheen, crisp typography\nText (verbatim): \"8k GGU 电竞显示器 1000hz\" (main headline), \"全球首发全新面板 低延迟 完美色彩\" (subhead)\nConstraints: vertical format optimized for mobile, large bold headline for thumb-stopping impact, text must dominate frame, clean negative space\nAvoid: cluttered layout, small text, generic gaming RGB overload, busy backgrounds",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6a7953f4-265b-47a2-a3db-c1364c3eb1ab/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a short-form video vertical cover for an 8k GGU gaming monitor product launch, intended for Douyin / TikTok / Xiaohongshu short video cover.\\n\\nStyle/medium: minimalist premium tech product poster, short video cover\\nComposition: rule of thirds, large typography dominant\\nSubject: 8k GGU gaming monitor 1000hz, global debut new panel, low latency, perfect color\\nScene/backdrop: clean tech-forward backdrop, subtle gradient or solid premium surface\\nLighting/mood: sleek, premium, high-end tech atmosphere\\nColor palette: minimalist palette — deep black / gunmetal / electric blue accents\\nMaterials/textures: matte finish, subtle metallic sheen, crisp typography\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\" (main headline), \\\"全球首发全新面板 低延迟 完美色彩\\\" (subhead)\\nConstraints: vertical format optimized for mobile, large bold headline for thumb-stopping impact, text must dominate frame, clean negative space\\nAvoid: cluttered layout, small text, generic gaming RGB overload, busy backgrounds\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10477
+}

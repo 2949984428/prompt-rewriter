@@ -1,0 +1,23 @@
+{
+  "query_idx": 162,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图，生成电商白底主图。\n\n风格/媒介：电商白底主图，符合亚马逊主图规范\n构图：1:1 方图\n主体：原图产品，去掉白色绳子\n场景/背景：纯白色背景，RGB(255,255,255)\n光线/氛围：\n色彩方案：背景纯白 RGB(255,255,255)\n材质/纹理：\n文字(原样)：\n约束：无阴影；保留产品主体其他部分不变；符合亚马逊主图规范\n避免：阴影；白色绳子；任何非白色背景元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aece27f49-26b4-40fa-a995-7c71728096c0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图，生成电商白底主图。\\n\\n风格/媒介：电商白底主图，符合亚马逊主图规范\\n构图：1:1 方图\\n主体：原图产品，去掉白色绳子\\n场景/背景：纯白色背景，RGB(255,255,255)\\n光线/氛围：\\n色彩方案：背景纯白 RGB(255,255,255)\\n材质/纹理：\\n文字(原样)：\\n约束：无阴影；保留产品主体其他部分不变；符合亚马逊主图规范\\n避免：阴影；白色绳子；任何非白色背景元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7865,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

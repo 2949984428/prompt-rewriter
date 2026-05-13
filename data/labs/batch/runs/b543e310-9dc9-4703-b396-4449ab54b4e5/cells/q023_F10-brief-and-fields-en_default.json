@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational infographic card for children explaining the Three Kingdoms Battle of Red Cliffs.\n\nStyle/medium: flat vector infographic, educational children's illustration, storybook cartoon style with friendly character designs\nComposition: single large knowledge card layout, title at top, main story illustration occupying central space, bullet points aligned in sidebar\nSubject: Battle of Red Cliffs (赤壁之战) from Three Kingdoms era, simplified historical narrative for young learners, cartoon figures of key characters\nScene/backdrop: stylized Yangtze River battle scene, simplified warships, fire arrows, cartoon clouds and water\nLighting/mood: bright and cheerful daytime, clear visibility, engaging and educational atmosphere\nColor palette: warm oranges and reds for fire elements, cool blues for water, earth tones for land, high contrast for readability\nText (verbatim): \"赤壁之战\"\nConstraints: must be readable for children ages 6-12; all text must be large and legible; bullet points must use proper punctuation\nAvoid: realistic violence or gore; overly complex historical details; dark or scary imagery; small unreadable text; cluttered layout",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/164120db-7495-42d0-aef4-2707e83b45d2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an educational infographic card for children explaining the Three Kingdoms Battle of Red Cliffs.\\n\\nStyle/medium: flat vector infographic, educational children's illustration, storybook cartoon style with friendly character designs\\nComposition: single large knowledge card layout, title at top, main story illustration occupying central space, bullet points aligned in sidebar\\nSubject: Battle of Red Cliffs (赤壁之战) from Three Kingdoms era, simplified historical narrative for young learners, cartoon figures of key characters\\nScene/backdrop: stylized Yangtze River battle scene, simplified warships, fire arrows, cartoon clouds and water\\nLighting/mood: bright and cheerful daytime, clear visibility, engaging and educational atmosphere\\nColor palette: warm oranges and reds for fire elements, cool blues for water, earth tones for land, high contrast for readability\\nText (verbatim): \\\"赤壁之战\\\"\\nConstraints: must be readable for children ages 6-12; all text must be large and legible; bullet points must use proper punctuation\\nAvoid: realistic violence or gore; overly complex historical details; dark or scary imagery; small unreadable text; cluttered layout\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8359
+}

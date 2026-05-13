@@ -1,0 +1,23 @@
+{
+  "query_idx": 56,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "根据[@image:#1:6c9ee44b7ef6a706ca53926074a72bcf]的logo风格继续优化[@image:#2:Cloud Islander品牌logo]，并像[@image:#1:6c9ee44b7ef6a706ca53926074a72bcf]生成相关配套物料的品牌vi海报",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A754c6f07-fa96-40e3-b6cc-f4ef85dfa658/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"根据[@image:#1:6c9ee44b7ef6a706ca53926074a72bcf]的logo风格继续优化[@image:#2:Cloud Islander品牌logo]，并像[@image:#1:6c9ee44b7ef6a706ca53926074a72bcf]生成相关配套物料的品牌vi海报\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2925,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

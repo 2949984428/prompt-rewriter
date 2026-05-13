@@ -1,0 +1,23 @@
+{
+  "query_idx": 63,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "我的品牌名是loofae，现在要设计一个科技极简风logo，精灵感，oo是眼睛，ae想连起来像翅膀",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae5eec797-9da2-4afa-bf95-8093f792c170/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"我的品牌名是loofae，现在要设计一个科技极简风logo，精灵感，oo是眼睛，ae想连起来像翅膀\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2703,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

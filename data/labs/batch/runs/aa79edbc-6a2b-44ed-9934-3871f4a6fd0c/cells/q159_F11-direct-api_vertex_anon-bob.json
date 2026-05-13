@@ -1,0 +1,23 @@
+{
+  "query_idx": 159,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:O1CN01vlSroo1mn8U41pL4J_!!2315904998-0-cib] 为阻力带产品页面设计视觉素材，包括主图、产品特写和突显性能与材质的运动员上脚照，发布在抖音商城。",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7190c7e5-a660-41ec-968d-19d6b01ba7ea/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:O1CN01vlSroo1mn8U41pL4J_!!2315904998-0-cib] 为阻力带产品页面设计视觉素材，包括主图、产品特写和突显性能与材质的运动员上脚照，发布在抖音商城。\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5995,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

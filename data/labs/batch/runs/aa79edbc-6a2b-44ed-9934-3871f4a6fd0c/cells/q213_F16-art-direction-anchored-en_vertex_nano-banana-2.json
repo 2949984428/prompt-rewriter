@@ -1,0 +1,23 @@
+{
+  "query_idx": 213,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Instagram 帖子视觉图 —— 主题：Dubai Rental Yield Insights。\n\n风格/媒介: Instagram 信息图 / 社交媒体帖子\n构图:\n  竖版构图，适合 Instagram 单图帖\n  信息层次清晰，标题突出\n主体: Dubai Rental Yield Insights 数据可视化信息图\n场景/背景:\n光线/氛围: 现代感、商务感\n色彩方案:\n材质/纹理:\n文字(原样): Dubai Rental Yield Insights\n约束:\n  融合 5 张 UCP 参考图（UCP 1 / UCP 2 / UCP 3 / UCP 4 / UCP 5）的视觉风格与内容要素\n避免:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A96a5cf71-b336-48fc-bb55-75a4dce45f00/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Instagram 帖子视觉图 —— 主题：Dubai Rental Yield Insights。\\n\\n风格/媒介: Instagram 信息图 / 社交媒体帖子\\n构图:\\n  竖版构图，适合 Instagram 单图帖\\n  信息层次清晰，标题突出\\n主体: Dubai Rental Yield Insights 数据可视化信息图\\n场景/背景:\\n光线/氛围: 现代感、商务感\\n色彩方案:\\n材质/纹理:\\n文字(原样): Dubai Rental Yield Insights\\n约束:\\n  融合 5 张 UCP 参考图（UCP 1 / UCP 2 / UCP 3 / UCP 4 / UCP 5）的视觉风格与内容要素\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6915,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

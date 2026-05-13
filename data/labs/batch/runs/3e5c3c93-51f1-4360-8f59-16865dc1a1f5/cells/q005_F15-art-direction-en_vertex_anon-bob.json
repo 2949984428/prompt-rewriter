@@ -1,0 +1,21 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing educational infographic explaining the definitions of and relationships among 7 AI-related concepts.\n\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\nComposition: must include all 7 concepts as distinct visual nodes with connecting lines/arrows showing relationships, definitions embedded alongside each node\nSubject: must include all 7 concepts with brief definitions and relationship links:\n  - AI\n  - MCP\n  - AI Agent\n  - OpenClaw\n  - AI Skill\n  - 蒸馏\n  - CLI\nScene/backdrop: needs a light, approachable infographic layout — exact background treatment is yours\nLighting/mood: \nColor palette: needs a friendly, easy-to-read direction — exact palette is yours\nMaterials/textures: needs a hand-drawn / sketch texture feel — exact line weight and paper texture are yours\nText (verbatim): must include all 7 concept labels verbatim: \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must preserve all 7 concept nodes; definitions and relationship arrows must be legible; layout must be approachable and easy to understand at a glance\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa7006b67-a4e1-4fcc-bfd8-6309f08b158a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-04-img2-east-us2.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing educational infographic explaining the definitions of and relationships among 7 AI-related concepts.\\n\\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\\nComposition: must include all 7 concepts as distinct visual nodes with connecting lines/arrows showing relationships, definitions embedded alongside each node\\nSubject: must include all 7 concepts with brief definitions and relationship links:\\n  - AI\\n  - MCP\\n  - AI Agent\\n  - OpenClaw\\n  - AI Skill\\n  - 蒸馏\\n  - CLI\\nScene/backdrop: needs a light, approachable infographic layout — exact background treatment is yours\\nLighting/mood: \\nColor palette: needs a friendly, easy-to-read direction — exact palette is yours\\nMaterials/textures: needs a hand-drawn / sketch texture feel — exact line weight and paper texture are yours\\nText (verbatim): must include all 7 concept labels verbatim: \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must preserve all 7 concept nodes; definitions and relationship arrows must be legible; layout must be approachable and easy to understand at a glance\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9057
+}

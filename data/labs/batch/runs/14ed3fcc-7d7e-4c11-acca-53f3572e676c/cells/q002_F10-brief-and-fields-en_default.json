@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original editorial illustration of a classical beauty in elaborate hanfu seated on a wooden pavilion in a Jiangnan water town.\n\nStyle/medium: Chinese fine-line gongbi painting fused with xieyi ink-wash expressiveness; delicate brushwork with poetic, airy atmosphere; inspired by Song-dynasty court painting aesthetics\nComposition: symmetrical framing, mid-distance full-figure shot, subject centered on pavilion platform, balanced negative space above and below\nSubject: elegant young woman in layered light-celadon hanfu with gold embroidery, seated gracefully, holding a round silk folding fan, turning her head to gaze into the distance; hair pinned in a classical ji bun adorned with jade hairpin and pearl ornaments; refined, understated makeup\nScene/backdrop: traditional wooden pavilion surrounded by a blooming lotus pond — pink-white lotus flowers swaying gently in the breeze, lotus leaves beaded with glistening water droplets; background features Huizhou-style architecture with white-plastered walls and dark grey roof tiles, winding bluestone-slab paths; several white egrets skimming low over the water surface\nLighting/mood: soft diffused daylight, gentle and luminous, evoking a tranquil, poetic mood; cool ambient light with warm gold accents from embroidery\nColor palette: pale celadon and ink-wash grey as the dominant tones, gold embroidery as accent, pink-white lotus as secondary warmth, overall palette restrained and elegant\nMaterials/textures: fine silk fabric with visible embroidery thread detail, smooth jade hairpin surface, translucent water droplets on lotus leaves, weathered wood grain on pavilion planks\nAvoid: modern styling, Western portrait conventions, oversaturated colors, harsh shadows, photorealistic rendering, generic anime style, watermark",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/97208dc6-b890-4b7e-baf3-21e267e9f415/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original editorial illustration of a classical beauty in elaborate hanfu seated on a wooden pavilion in a Jiangnan water town.\\n\\nStyle/medium: Chinese fine-line gongbi painting fused with xieyi ink-wash expressiveness; delicate brushwork with poetic, airy atmosphere; inspired by Song-dynasty court painting aesthetics\\nComposition: symmetrical framing, mid-distance full-figure shot, subject centered on pavilion platform, balanced negative space above and below\\nSubject: elegant young woman in layered light-celadon hanfu with gold embroidery, seated gracefully, holding a round silk folding fan, turning her head to gaze into the distance; hair pinned in a classical ji bun adorned with jade hairpin and pearl ornaments; refined, understated makeup\\nScene/backdrop: traditional wooden pavilion surrounded by a blooming lotus pond — pink-white lotus flowers swaying gently in the breeze, lotus leaves beaded with glistening water droplets; background features Huizhou-style architecture with white-plastered walls and dark grey roof tiles, winding bluestone-slab paths; several white egrets skimming low over the water surface\\nLighting/mood: soft diffused daylight, gentle and luminous, evoking a tranquil, poetic mood; cool ambient light with warm gold accents from embroidery\\nColor palette: pale celadon and ink-wash grey as the dominant tones, gold embroidery as accent, pink-white lotus as secondary warmth, overall palette restrained and elegant\\nMaterials/textures: fine silk fabric with visible embroidery thread detail, smooth jade hairpin surface, translucent water droplets on lotus leaves, weathered wood grain on pavilion planks\\nAvoid: modern styling, Western portrait conventions, oversaturated colors, harsh shadows, photorealistic rendering, generic anime style, watermark\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15145
+}

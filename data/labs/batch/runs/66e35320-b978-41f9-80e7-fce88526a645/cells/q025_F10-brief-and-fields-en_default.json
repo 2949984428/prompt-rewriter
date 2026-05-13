@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media cover image for a Xiaohongshu (小红书) creator account, featuring a DJI Pocket 4 product review in a relatable amateur style.\n\nStyle/medium: Xiaohongshu native aesthetic, amateur creator vibe, casual flat-lay photography with digital text overlay, cute and playful design language\nComposition: 3x3 grid layout (九宫格), centered product placement, title prominently positioned in the center\nSubject: DJI Pocket 4 camera device, clean product shot with natural hand-holding or desk setup, approachable creator aesthetic\nScene/backdrop: minimal desk or lifestyle setting, soft neutral background with subtle props suggesting content creation\nLighting/mood: soft natural daylight, bright and friendly atmosphere, approachable and authentic\nColor palette: clean white base, soft pastels as accents, high contrast for readability, cute and youthful tones\nText (verbatim): \"大强pocket4初体验\"\nConstraints: text must use cute, differentiated font style; overall design must feel authentic and non-corporate; optimized for 小红书 cover thumbnail visibility\nAvoid: corporate stock photo aesthetic, generic sans-serif fonts, over-polished commercial look, watermark, 8K stuffer terms",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5b087640-5cd5-4887-b956-6ce48b26be1e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing social media cover image for a Xiaohongshu (小红书) creator account, featuring a DJI Pocket 4 product review in a relatable amateur style.\\n\\nStyle/medium: Xiaohongshu native aesthetic, amateur creator vibe, casual flat-lay photography with digital text overlay, cute and playful design language\\nComposition: 3x3 grid layout (九宫格), centered product placement, title prominently positioned in the center\\nSubject: DJI Pocket 4 camera device, clean product shot with natural hand-holding or desk setup, approachable creator aesthetic\\nScene/backdrop: minimal desk or lifestyle setting, soft neutral background with subtle props suggesting content creation\\nLighting/mood: soft natural daylight, bright and friendly atmosphere, approachable and authentic\\nColor palette: clean white base, soft pastels as accents, high contrast for readability, cute and youthful tones\\nText (verbatim): \\\"大强pocket4初体验\\\"\\nConstraints: text must use cute, differentiated font style; overall design must feel authentic and non-corporate; optimized for 小红书 cover thumbnail visibility\\nAvoid: corporate stock photo aesthetic, generic sans-serif fonts, over-polished commercial look, watermark, 8K stuffer terms\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8177
+}

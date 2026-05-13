@@ -1,0 +1,21 @@
+{
+  "query_idx": 248,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Generate a YouTube thumbnail for Marvel's Spider-Man 2.\n\n风格/媒介: AAA video game thumbnail style, anime-inspired, polished and cinematic, high energy\n构图:\n  角色居中前景，crossed-arm pose，floating seated position\n  背景为夜间纽约城市天际线\n  画面一侧放置粗体超大文字\n  Venom 与另一个 Spider-Man 剪影隐约出现在角色身后\n主体:\n  参考图 #1 中的肌肉型战士角色，重新设计为 Spider-Man 形象\n  保留：muscular build、crossed-arm pose、floating seated position、sharp eyes、high brown ponytail、giant sword on his back\n  战衣改为 sleek black-and-red Spider-Man symbiote-style suit，胸口有 glowing white spider emblem\n  战衣加入 subtle web textures 与 futuristic armored details\n  表情 intense and confident\n场景/背景: 夜间纽约城市天际线，lightning、glowing neon lights、destroyed streets、Spider-Man 2 action elements\n光线/氛围:\n  dramatic shadows，glowing highlights\n  blue and red lighting effects\n  motion blur、sparks、smoke\n色彩方案: highly saturated，strong contrast，black and red dominant，glowing accents\n材质/纹理: symbiote suit texture，web pattern，futuristic armor plating\n文字(原样): PART 1\n约束:\n  整体风格参照 official Marvel's Spider-Man 2 YouTube thumbnail\n  maximum click-through appeal\n避免: flat lighting, muted colors, plain background",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:生图失败",
+  "raw": "{\"prompt\": \"Generate a YouTube thumbnail for Marvel's Spider-Man 2.\\n\\n风格/媒介: AAA video game thumbnail style, anime-inspired, polished and cinematic, high energy\\n构图:\\n  角色居中前景，crossed-arm pose，floating seated position\\n  背景为夜间纽约城市天际线\\n  画面一侧放置粗体超大文字\\n  Venom 与另一个 Spider-Man 剪影隐约出现在角色身后\\n主体:\\n  参考图 #1 中的肌肉型战士角色，重新设计为 Spider-Man 形象\\n  保留：muscular build、crossed-arm pose、floating seated position、sharp eyes、high brown ponytail、giant sword on his back\\n  战衣改为 sleek black-and-red Spider-Man symbiote-style suit，胸口有 glowing white spider emblem\\n  战衣加入 subtle web textures 与 futuristic armored details\\n  表情 intense and confident\\n场景/背景: 夜间纽约城市天际线，lightning、glowing neon lights、destroyed streets、Spider-Man 2 action elements\\n光线/氛围:\\n  dramatic shadows，glowing highlights\\n  blue and red lighting effects\\n  motion blur、sparks、smoke\\n色彩方案: highly saturated，strong contrast，black and red dominant，glowing accents\\n材质/纹理: symbiote suit texture，web pattern，futuristic armor plating\\n文字(原样): PART 1\\n约束:\\n  整体风格参照 official Marvel's Spider-Man 2 YouTube thumbnail\\n  maximum click-through appeal\\n避免: flat lighting, muted colors, plain background\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 14703,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

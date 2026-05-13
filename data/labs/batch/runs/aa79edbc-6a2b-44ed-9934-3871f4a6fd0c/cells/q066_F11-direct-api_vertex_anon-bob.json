@@ -1,0 +1,23 @@
+{
+  "query_idx": 66,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "做一个柠檬茶饮品牌， [@image:#1:image][@image:#2:屏幕截图 2026-04-22 224158]，是我给这个品牌做的一些辅助图形和品牌logo，帮我延展物料（不要土味感，要高级合理的）",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5bce1007-9519-4b59-963c-f2890944add0/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"做一个柠檬茶饮品牌， [@image:#1:image][@image:#2:屏幕截图 2026-04-22 224158]，是我给这个品牌做的一些辅助图形和品牌logo，帮我延展物料（不要土味感，要高级合理的）\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3005,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

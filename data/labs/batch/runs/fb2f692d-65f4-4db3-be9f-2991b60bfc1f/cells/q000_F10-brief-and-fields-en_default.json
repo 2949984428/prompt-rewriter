@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for pearl milk tea targeting a pink girly aesthetic with summer refreshment vibes.\n\nStyle/medium: social media cover design for Xiaohongshu (小红书), soft pastel illustration with dreamy girly aesthetic\nSubject: pearl milk tea (boba tea) in a clear cup, visible tapioca pearls at the bottom, condensation droplets on cup surface\nComposition: centered product shot with generous negative space for text overlay, 3:4 vertical ratio\nScene/backdrop: minimal soft gradient background, subtle summer elements like floating flower petals or soft bokeh\nLighting/mood: bright diffused daylight, airy and refreshing summer atmosphere\nColor palette: soft pink as dominant base, cream/beige from the milk tea as anchor, white highlights for freshness\nMaterials/textures: glossy plastic cup with realistic condensation, chewy tapioca pearls with slight sheen\nConstraints: must work as Xiaohongshu cover thumbnail; text-safe area in upper third\nAvoid: dark or moody tones; cluttered backgrounds; realistic human faces; generic stock photo aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/46f5e3ca-0f91-4f3f-9769-c8bdcfea0fa9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for pearl milk tea targeting a pink girly aesthetic with summer refreshment vibes.\\n\\nStyle/medium: social media cover design for Xiaohongshu (小红书), soft pastel illustration with dreamy girly aesthetic\\nSubject: pearl milk tea (boba tea) in a clear cup, visible tapioca pearls at the bottom, condensation droplets on cup surface\\nComposition: centered product shot with generous negative space for text overlay, 3:4 vertical ratio\\nScene/backdrop: minimal soft gradient background, subtle summer elements like floating flower petals or soft bokeh\\nLighting/mood: bright diffused daylight, airy and refreshing summer atmosphere\\nColor palette: soft pink as dominant base, cream/beige from the milk tea as anchor, white highlights for freshness\\nMaterials/textures: glossy plastic cup with realistic condensation, chewy tapioca pearls with slight sheen\\nConstraints: must work as Xiaohongshu cover thumbnail; text-safe area in upper third\\nAvoid: dark or moody tones; cluttered backgrounds; realistic human faces; generic stock photo aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8977
+}

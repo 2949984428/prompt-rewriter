@@ -1,0 +1,23 @@
+{
+  "query_idx": 314,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张吹风机产品朋友圈配图。\n\n风格/媒介：产品展示图，参考图2的排版风格\n构图：与参考图2排版一致，展示吹风机正反两面\n主体：吹风机（参考图1产品外观），正面与反面均呈现\n场景/背景：白色背景\n光线/氛围：\n色彩方案：白色色调为主\n材质/纹理：\n文字(原样)：\n约束：尺寸 800×800px，仅生成一张，排版与参考图2一致\n避免：",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4d2fd70f-efe5-483e-9671-33541759be76/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张吹风机产品朋友圈配图。\\n\\n风格/媒介：产品展示图，参考图2的排版风格\\n构图：与参考图2排版一致，展示吹风机正反两面\\n主体：吹风机（参考图1产品外观），正面与反面均呈现\\n场景/背景：白色背景\\n光线/氛围：\\n色彩方案：白色色调为主\\n材质/纹理：\\n文字(原样)：\\n约束：尺寸 800×800px，仅生成一张，排版与参考图2一致\\n避免：\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7551,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

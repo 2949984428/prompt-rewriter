@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic explaining the definitions of and relationships between multiple AI-related concepts, in a hand-drawn illustration style, visually rich and easy to understand.\n\nStyle/medium: hand-drawn sketch infographic, pen-and-ink with light watercolor fills, whiteboard explainer aesthetic, reminiscent of RSA Animate or sketchnote visual thinking\nComposition: multi-panel layout with each concept in its own labeled node, connected by annotated arrows showing relationships, balanced across the canvas with generous whitespace\nSubject: seven interconnected concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — each node contains a short definition label and a small illustrative doodle icon\nScene/backdrop: clean off-white paper texture background, no photographic environment\nLighting/mood: flat even lighting appropriate for a diagram, friendly and approachable tone\nColor palette: warm off-white base, each concept node accented with a distinct pastel highlight (soft blue, green, yellow, orange, pink, purple, teal), black ink for text and lines\nMaterials/textures: visible pencil sketch lines, slight paper grain, hand-lettered annotation style\nText (verbatim): \"AI\" / \"MCP\" / \"AI Agent\" / \"OpenClaw\" / \"AI Skill\" / \"蒸馏\" / \"CLI\"\nConstraints: all seven concept labels must be legible; relationship arrows must be annotated with brief connector phrases; layout must work as a single flat image; no 3D perspective distortion\nAvoid: corporate slide deck aesthetic, generic clipart icons, overcrowded illegible text, photorealistic rendering, dark background",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/746f683e-5347-46f0-a963-12028151ae35/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an infographic explaining the definitions of and relationships between multiple AI-related concepts, in a hand-drawn illustration style, visually rich and easy to understand.\\n\\nStyle/medium: hand-drawn sketch infographic, pen-and-ink with light watercolor fills, whiteboard explainer aesthetic, reminiscent of RSA Animate or sketchnote visual thinking\\nComposition: multi-panel layout with each concept in its own labeled node, connected by annotated arrows showing relationships, balanced across the canvas with generous whitespace\\nSubject: seven interconnected concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — each node contains a short definition label and a small illustrative doodle icon\\nScene/backdrop: clean off-white paper texture background, no photographic environment\\nLighting/mood: flat even lighting appropriate for a diagram, friendly and approachable tone\\nColor palette: warm off-white base, each concept node accented with a distinct pastel highlight (soft blue, green, yellow, orange, pink, purple, teal), black ink for text and lines\\nMaterials/textures: visible pencil sketch lines, slight paper grain, hand-lettered annotation style\\nText (verbatim): \\\"AI\\\" / \\\"MCP\\\" / \\\"AI Agent\\\" / \\\"OpenClaw\\\" / \\\"AI Skill\\\" / \\\"蒸馏\\\" / \\\"CLI\\\"\\nConstraints: all seven concept labels must be legible; relationship arrows must be annotated with brief connector phrases; layout must work as a single flat image; no 3D perspective distortion\\nAvoid: corporate slide deck aesthetic, generic clipart icons, overcrowded illegible text, photorealistic rendering, dark background\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11544
+}

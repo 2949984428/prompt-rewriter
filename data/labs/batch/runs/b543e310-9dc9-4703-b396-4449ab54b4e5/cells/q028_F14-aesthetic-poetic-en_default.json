@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID badge design for ByteDance (字节跳动), showing both front and back sides, intended for internal company use with photorealistic authenticity.\n\nStyle/medium: photorealistic product photography of a modern corporate employee badge, clean and professional corporate identity design\nComposition: badge shown in two views — front side displaying employee photo and name, back side showing company logo and access information, arranged side by side or as a reversible flip view\nSubject: ByteDance employee ID badge with lanyard hole, standard credit-card size format\nScene/backdrop: subtle neutral gradient or soft studio backdrop that doesn't distract from the badge\nLighting/medium: soft diffused studio lighting with gentle highlights on the plastic surface, avoiding harsh reflections\nColor palette: ByteDance brand colors — deep navy blue, white, with subtle red accents; clean corporate palette\nMaterials/textures: matte laminated plastic card with subtle surface sheen, crisp printed text and photo\nText (verbatim): 字节跳动\nConstraints: both front and back sides visible, realistic proportions matching standard ID card dimensions (85.60 × 53.98 mm), professional corporate aesthetic\nAvoid: cartoonish or illustrated style, fantasy elements, cluttered backgrounds, exaggerated shadows, 8K/masterpiece stuffer language",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d0cb99ba-d70d-4e11-a797-a4af28096da6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing employee ID badge design for ByteDance (字节跳动), showing both front and back sides, intended for internal company use with photorealistic authenticity.\\n\\nStyle/medium: photorealistic product photography of a modern corporate employee badge, clean and professional corporate identity design\\nComposition: badge shown in two views — front side displaying employee photo and name, back side showing company logo and access information, arranged side by side or as a reversible flip view\\nSubject: ByteDance employee ID badge with lanyard hole, standard credit-card size format\\nScene/backdrop: subtle neutral gradient or soft studio backdrop that doesn't distract from the badge\\nLighting/medium: soft diffused studio lighting with gentle highlights on the plastic surface, avoiding harsh reflections\\nColor palette: ByteDance brand colors — deep navy blue, white, with subtle red accents; clean corporate palette\\nMaterials/textures: matte laminated plastic card with subtle surface sheen, crisp printed text and photo\\nText (verbatim): 字节跳动\\nConstraints: both front and back sides visible, realistic proportions matching standard ID card dimensions (85.60 × 53.98 mm), professional corporate aesthetic\\nAvoid: cartoonish or illustrated style, fantasy elements, cluttered backgrounds, exaggerated shadows, 8K/masterpiece stuffer language\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9036
+}

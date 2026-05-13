@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a detailed technical illustration of a Sony A7 camera disassembly showing all internal components.\n\nStyle/medium: needs a technical diagram / exploded view aesthetic — exact illustration style and rendering technique are yours\nComposition: must be exploded-view layout with all components separated and visible\nSubject: must include all Sony A7 camera components with their names labeled:\n  - Body / chassis\n  - Image sensor\n  - Main circuit board (PCB)\n  - Shutter mechanism\n  - Viewfinder (EVF)\n  - LCD screen assembly\n  - Battery compartment\n  - Memory card slot\n  - Lens mount\n  - IBIS (In-Body Image Stabilization) unit\n  - Heat sink / thermal management\n  - Buttons and dials assembly\n  - Ports and connectors (USB, HDMI, microphone, headphone)\n  - Grip assembly\n  - Weather sealing gaskets\nScene/backdrop: needs a clean neutral background — exact tone is yours\nLighting/mood: needs a technical/product photography lighting — exact light placement is yours\nColor palette: \nMaterials/textures: needs a mix of metallic, plastic, and electronic component textures — exact surface treatment is yours\nText (verbatim): must include component names in Spanish as labeled callouts (e.g., \"Sensor de imagen\", \"Obturador\", \"Pantalla LCD\", \"Montura de lente E\", \"Estabilizador de imagen\", \"Tarjeta de memoria\", \"Batería NP-FZ100\", etc.)\nConstraints: must preserve accurate Sony A7 internal architecture, all major components visible and labeled\nAvoid: must avoid incorrect component placement, must avoid generic camera parts that don't match A7 series specifications",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cf642833-0240-4086-8cdc-2e11dc8bec1d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a detailed technical illustration of a Sony A7 camera disassembly showing all internal components.\\n\\nStyle/medium: needs a technical diagram / exploded view aesthetic — exact illustration style and rendering technique are yours\\nComposition: must be exploded-view layout with all components separated and visible\\nSubject: must include all Sony A7 camera components with their names labeled:\\n  - Body / chassis\\n  - Image sensor\\n  - Main circuit board (PCB)\\n  - Shutter mechanism\\n  - Viewfinder (EVF)\\n  - LCD screen assembly\\n  - Battery compartment\\n  - Memory card slot\\n  - Lens mount\\n  - IBIS (In-Body Image Stabilization) unit\\n  - Heat sink / thermal management\\n  - Buttons and dials assembly\\n  - Ports and connectors (USB, HDMI, microphone, headphone)\\n  - Grip assembly\\n  - Weather sealing gaskets\\nScene/backdrop: needs a clean neutral background — exact tone is yours\\nLighting/mood: needs a technical/product photography lighting — exact light placement is yours\\nColor palette: \\nMaterials/textures: needs a mix of metallic, plastic, and electronic component textures — exact surface treatment is yours\\nText (verbatim): must include component names in Spanish as labeled callouts (e.g., \\\"Sensor de imagen\\\", \\\"Obturador\\\", \\\"Pantalla LCD\\\", \\\"Montura de lente E\\\", \\\"Estabilizador de imagen\\\", \\\"Tarjeta de memoria\\\", \\\"Batería NP-FZ100\\\", etc.)\\nConstraints: must preserve accurate Sony A7 internal architecture, all major components visible and labeled\\nAvoid: must avoid incorrect component placement, must avoid generic camera parts that don't match A7 series specifications\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14543
+}

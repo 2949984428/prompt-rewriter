@@ -1,0 +1,23 @@
+{
+  "query_idx": 223,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:1774719530984]Transformer cette photo en portrait professionnel pour carte d'identité.\n⚠️ Ne pas modifier le visage : conserver exactement les traits originaux, la forme du visage, les yeux, le nez, la bouche, la couleur de peau et l’expression (aucune retouche morphologique).\nRemplacer uniquement l’arrière-plan par un fond studio propre et neutre (blanc ou gris clair).\nModifier uniquement la tenue : ajouter une chemise blanche élégante avec une cravate classique.\nAméliorer la qualité de l’image : supprimer le bruit, augmenter la netteté, améliorer la lumière et les détails, tout en gardant un rendu naturel (pas de filtre excessif).\nÉclairage studio professionnel, bien équilibré.\nQualité 8K, très haute définition (HD).\nFormat carré (1:1) adapté pour Facebook, cadrage centré visage + épaules.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7ce17701-2bcb-4661-90d4-2242b65bdeca/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:1774719530984]Transformer cette photo en portrait professionnel pour carte d'identité.\\n⚠️ Ne pas modifier le visage : conserver exactement les traits originaux, la forme du visage, les yeux, le nez, la bouche, la couleur de peau et l'expression (aucune retouche morphologique).\\nRemplacer uniquement l'arrière-plan par un fond studio propre et neutre (blanc ou gris clair).\\nModifier uniquement la tenue : ajouter une chemise blanche élégante avec une cravate classique.\\nAméliorer la qualité de l'image : supprimer le bruit, augmenter la netteté, améliorer la lumière et les détails, tout en gardant un rendu naturel (pas de filtre excessif).\\nÉclairage studio professionnel, bien équilibré.\\nQualité 8K, très haute définition (HD).\\nFormat carré (1:1) adapté pour Facebook, cadrage centré visage + épaules.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4358,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

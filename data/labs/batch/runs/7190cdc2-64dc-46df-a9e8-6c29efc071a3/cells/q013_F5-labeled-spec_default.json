@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: cultural-brand-poster\nAsset type: modern art poster for cultural festival or brand promotion\nPrimary request: Dunhuang flying apsara (Feitian) reimagined in contemporary Guochao illustration style, balancing tradition and modernity\nScene/backdrop: arched cave structure from Dunhuong grottoes blended with modern geometric patterns, clouds, lotus flowers, pomegranate blossoms, scattered petals\nSubject: elegant flying apsara (celestial maiden) in modified Dunhuang mural costume, fluid dynamic ribbons, holding a pipa lute, graceful dancing posture\nStyle/medium: Guochao illustration, Chinese contemporary art style, digital painting with traditional ink aesthetics\nComposition/framing: centered figure, full and dynamic composition with visual tension, decorative border elements\nLighting/mood: ethereal and luminous atmosphere, spiritual and celebratory mood\nColor palette: rich and opulent palette transitioning from traditional mineral pigments (azurite blue, cinnabar red, ochre brown) to modern gradients (purple and gold)\nMaterials/textures: flowing silk ribbons, stone texture of cave walls, delicate petals, metallic gold accents\nText (verbatim): \"字体设计融入传统篆刻元素\"\nConstraints: maintain balance between traditional Dunhuang aesthetics and contemporary design, keep the apsara as central focal point, preserve cultural authenticity\nAvoid: 8K, masterpiece, ultra-detailed, plastic textures, Western fantasy tropes, cartoonish proportions, oversaturated neon colors",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bb4354c1-43ea-4296-a32c-11ac912d3f7b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: cultural-brand-poster\\nAsset type: modern art poster for cultural festival or brand promotion\\nPrimary request: Dunhuang flying apsara (Feitian) reimagined in contemporary Guochao illustration style, balancing tradition and modernity\\nScene/backdrop: arched cave structure from Dunhuong grottoes blended with modern geometric patterns, clouds, lotus flowers, pomegranate blossoms, scattered petals\\nSubject: elegant flying apsara (celestial maiden) in modified Dunhuang mural costume, fluid dynamic ribbons, holding a pipa lute, graceful dancing posture\\nStyle/medium: Guochao illustration, Chinese contemporary art style, digital painting with traditional ink aesthetics\\nComposition/framing: centered figure, full and dynamic composition with visual tension, decorative border elements\\nLighting/mood: ethereal and luminous atmosphere, spiritual and celebratory mood\\nColor palette: rich and opulent palette transitioning from traditional mineral pigments (azurite blue, cinnabar red, ochre brown) to modern gradients (purple and gold)\\nMaterials/textures: flowing silk ribbons, stone texture of cave walls, delicate petals, metallic gold accents\\nText (verbatim): \\\"字体设计融入传统篆刻元素\\\"\\nConstraints: maintain balance between traditional Dunhuang aesthetics and contemporary design, keep the apsara as central focal point, preserve cultural authenticity\\nAvoid: 8K, masterpiece, ultra-detailed, plastic textures, Western fantasy tropes, cartoonish proportions, oversaturated neon colors\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12130
+}

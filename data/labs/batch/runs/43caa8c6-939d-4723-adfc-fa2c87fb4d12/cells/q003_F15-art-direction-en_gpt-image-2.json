@@ -1,0 +1,21 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: needs a modern, clean, universally approachable aesthetic — exact stylistic execution is yours\nComposition: must be a square avatar format with a clear, readable focal element centered\nSubject: must include visual references to the three content pillars: new energy vehicles, digital/tech products, and lifestyle/everyday goods — balanced and harmonious as a unified icon\nScene/backdrop: needs a neutral, platform-agnostic backdrop — exact treatment is yours\nLighting/mood: needs a fresh, approachable, energetic atmosphere — exact light treatment is yours\nColor palette: needs a direction that feels contemporary and cross-culturally neutral — exact palette is yours\nMaterials/textures: \nText (verbatim): \nConstraints: must be culturally neutral and inoffensive across both Chinese and international social platforms; must avoid any symbols, gestures, colors, or imagery that carry negative or taboo connotations in major global cultures\nAvoid: must avoid political symbols, religious iconography, culturally sensitive color combinations (e.g., pure white-only or pure black-only mourning associations), offensive gestures, or any imagery that could alienate specific cultural groups",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Ac69430a8-c7b3-4b27-a9f7-35eb07ac365f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: needs a modern, clean, universally approachable aesthetic — exact stylistic execution is yours\\nComposition: must be a square avatar format with a clear, readable focal element centered\\nSubject: must include visual references to the three content pillars: new energy vehicles, digital/tech products, and lifestyle/everyday goods — balanced and harmonious as a unified icon\\nScene/backdrop: needs a neutral, platform-agnostic backdrop — exact treatment is yours\\nLighting/mood: needs a fresh, approachable, energetic atmosphere — exact light treatment is yours\\nColor palette: needs a direction that feels contemporary and cross-culturally neutral — exact palette is yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must be culturally neutral and inoffensive across both Chinese and international social platforms; must avoid any symbols, gestures, colors, or imagery that carry negative or taboo connotations in major global cultures\\nAvoid: must avoid political symbols, religious iconography, culturally sensitive color combinations (e.g., pure white-only or pure black-only mourning associations), offensive gestures, or any imagery that could alienate specific cultural groups\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9472
+}

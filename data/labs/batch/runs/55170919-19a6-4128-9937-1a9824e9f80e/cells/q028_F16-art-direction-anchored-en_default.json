@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an employee ID badge for \"字节跳动\" (ByteDance), showing both front and back sides (all in-image text in Chinese).\n\nStyle/medium: needs a \"realistic\" corporate badge aesthetic — references in the spirit of Apple employee badge design heritage, Google campus pass card tradition, contemporary Chinese tech company ID systems; exact stylistic execution is yours\nComposition: must show both front and back sides of the badge\nSubject: must include \"字节跳动\" as the company name\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include \"字节跳动\"\nConstraints: must include all in-image text in Chinese by default; must show front and back sides\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9cc136d9-68bc-4eca-8c03-df0f53d7dc2c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an employee ID badge for \\\"字节跳动\\\" (ByteDance), showing both front and back sides (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"realistic\\\" corporate badge aesthetic — references in the spirit of Apple employee badge design heritage, Google campus pass card tradition, contemporary Chinese tech company ID systems; exact stylistic execution is yours\\nComposition: must show both front and back sides of the badge\\nSubject: must include \\\"字节跳动\\\" as the company name\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"字节跳动\\\"\\nConstraints: must include all in-image text in Chinese by default; must show front and back sides\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8328
+}

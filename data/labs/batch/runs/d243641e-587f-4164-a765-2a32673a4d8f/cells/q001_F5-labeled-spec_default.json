@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: step-by-step technical tutorial infographic, horizontal or vertical layout\nPrimary request: illustrated guide showing how to deploy Hermes inside a Docker container and integrate GLMCodingPlan, with clearly labeled steps 1-2-3-4\nScene/backdrop: clean white or light gray background with subtle grid or tech-pattern texture\nSubject: four sequential steps depicting: 1) pulling/building a Docker image for Hermes, 2) running the Docker container with configuration flags, 3) connecting/integrating GLMCodingPlan API or service, 4) verifying the deployment and testing the connection; each step shown with a diagram panel, terminal command snippet, and small icon\nStyle/medium: flat vector illustration with code block elements, technical diagram style\nComposition/framing: top-down vertical flow or left-to-right horizontal flow, each step in a clearly bordered card/panel\nLighting/mood: clean, modern, instructional — no shadows, flat and readable\nColor palette: deep navy blue for step headers, teal/cyan accent for Docker elements, green for GLMCodingPlan elements, white card backgrounds, dark gray monospace text for code snippets\nMaterials/textures: flat vector, no gradients except subtle card shadows for depth\nText (verbatim): step labels \"1\", \"2\", \"3\", \"4\" prominently displayed; section titles such as \"Pull Docker Image\", \"Run Hermes Container\", \"接入 GLMCodingPlan\", \"Verify & Test\"\nConstraints: all four steps must be visible and clearly numbered 1 through 4; code snippets must appear in monospace font blocks; Docker whale logo style icon and GLMCodingPlan label must be present\nAvoid: blurry text, overlapping panels, decorative clutter unrelated to the technical content, photorealistic rendering",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5827514e-1361-41a2-afc3-da2973fee385/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: step-by-step technical tutorial infographic, horizontal or vertical layout\\nPrimary request: illustrated guide showing how to deploy Hermes inside a Docker container and integrate GLMCodingPlan, with clearly labeled steps 1-2-3-4\\nScene/backdrop: clean white or light gray background with subtle grid or tech-pattern texture\\nSubject: four sequential steps depicting: 1) pulling/building a Docker image for Hermes, 2) running the Docker container with configuration flags, 3) connecting/integrating GLMCodingPlan API or service, 4) verifying the deployment and testing the connection; each step shown with a diagram panel, terminal command snippet, and small icon\\nStyle/medium: flat vector illustration with code block elements, technical diagram style\\nComposition/framing: top-down vertical flow or left-to-right horizontal flow, each step in a clearly bordered card/panel\\nLighting/mood: clean, modern, instructional — no shadows, flat and readable\\nColor palette: deep navy blue for step headers, teal/cyan accent for Docker elements, green for GLMCodingPlan elements, white card backgrounds, dark gray monospace text for code snippets\\nMaterials/textures: flat vector, no gradients except subtle card shadows for depth\\nText (verbatim): step labels \\\"1\\\", \\\"2\\\", \\\"3\\\", \\\"4\\\" prominently displayed; section titles such as \\\"Pull Docker Image\\\", \\\"Run Hermes Container\\\", \\\"接入 GLMCodingPlan\\\", \\\"Verify & Test\\\"\\nConstraints: all four steps must be visible and clearly numbered 1 through 4; code snippets must appear in monospace font blocks; Docker whale logo style icon and GLMCodingPlan label must be present\\nAvoid: blurry text, overlapping panels, decorative clutter unrelated to the technical content, photorealistic rendering\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13843
+}

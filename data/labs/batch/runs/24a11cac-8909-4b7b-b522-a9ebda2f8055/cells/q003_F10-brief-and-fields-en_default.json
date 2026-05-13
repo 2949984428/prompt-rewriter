@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a minimalist Scandinavian interior living room scene, clean and warmly lit.\n\nStyle/medium: photorealistic interior editorial photography, Scandinavian minimalist aesthetic in the spirit of Kinfolk magazine\nComposition: wide-angle shot from a slightly elevated eye-level perspective, capturing the full room with natural symmetry and generous negative space\nSubject: grey fabric sofa as the focal piece, flanked by a potted green plant and a standing floor lamp, all arranged with deliberate restraint\nScene/backdrop: white walls, light natural wood-tone flooring, floor-to-ceiling window allowing abundant daylight to stream in\nLighting/mood: soft natural daylight pouring through large windows, warm and diffused, casting gentle shadows — bright, clean, and inviting\nColor palette: white as the dominant base, light wood as warm secondary, grey as the sofa anchor, muted green as the single accent\nMaterials/textures: linen-textured sofa fabric with subtle weave, smooth matte white walls, natural wood grain on floor planks\nAvoid: dark moody tones, clutter, ornate decoration, harsh shadows, oversaturated colors, staged showroom stiffness",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a9226765-521e-4620-be15-eeab94861af6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a minimalist Scandinavian interior living room scene, clean and warmly lit.\\n\\nStyle/medium: photorealistic interior editorial photography, Scandinavian minimalist aesthetic in the spirit of Kinfolk magazine\\nComposition: wide-angle shot from a slightly elevated eye-level perspective, capturing the full room with natural symmetry and generous negative space\\nSubject: grey fabric sofa as the focal piece, flanked by a potted green plant and a standing floor lamp, all arranged with deliberate restraint\\nScene/backdrop: white walls, light natural wood-tone flooring, floor-to-ceiling window allowing abundant daylight to stream in\\nLighting/mood: soft natural daylight pouring through large windows, warm and diffused, casting gentle shadows — bright, clean, and inviting\\nColor palette: white as the dominant base, light wood as warm secondary, grey as the sofa anchor, muted green as the single accent\\nMaterials/textures: linen-textured sofa fabric with subtle weave, smooth matte white walls, natural wood grain on floor planks\\nAvoid: dark moody tones, clutter, ornate decoration, harsh shadows, oversaturated colors, staged showroom stiffness\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9351
+}

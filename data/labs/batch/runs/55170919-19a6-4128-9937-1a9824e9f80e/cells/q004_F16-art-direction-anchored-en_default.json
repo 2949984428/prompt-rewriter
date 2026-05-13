@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing PPT cover slide for an automotive product launch announcement (all in-image text in Chinese).\n\nStyle/medium: needs a \"通透震撼\" aesthetic — references in the spirit of Apple product launch keynote slides, Porsche automotive photography heritage, contemporary Chinese automotive brand visual systems; exact stylistic execution is yours\nComposition: must include primary title centered or left-aligned, secondary subtitle positioned below or adjacent\nSubject: must include the vehicle \"长安起源Q06\" as the focal subject\nScene/backdrop: needs an immersive, expansive backdrop — exact environment is yours\nLighting/mood: needs a \"震撼\" atmosphere with luminous transparency — exact light source mix is yours\nColor palette: needs a brand-appropriate direction aligned with Changan brand identity — exact hex values are yours\nMaterials/textures: needs a polished, premium surface treatment — exact finish is yours\nText (verbatim): must include \"长安起源Q06将于9月上市\" (split as main title and subtitle per composition)\nConstraints: must include all in-image text in Chinese by default; must preserve the product name \"长安起源Q06\" and launch timing \"9月上市\"\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aeeb7d1d-fa18-409a-baba-23515919f5c3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing PPT cover slide for an automotive product launch announcement (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"通透震撼\\\" aesthetic — references in the spirit of Apple product launch keynote slides, Porsche automotive photography heritage, contemporary Chinese automotive brand visual systems; exact stylistic execution is yours\\nComposition: must include primary title centered or left-aligned, secondary subtitle positioned below or adjacent\\nSubject: must include the vehicle \\\"长安起源Q06\\\" as the focal subject\\nScene/backdrop: needs an immersive, expansive backdrop — exact environment is yours\\nLighting/mood: needs a \\\"震撼\\\" atmosphere with luminous transparency — exact light source mix is yours\\nColor palette: needs a brand-appropriate direction aligned with Changan brand identity — exact hex values are yours\\nMaterials/textures: needs a polished, premium surface treatment — exact finish is yours\\nText (verbatim): must include \\\"长安起源Q06将于9月上市\\\" (split as main title and subtitle per composition)\\nConstraints: must include all in-image text in Chinese by default; must preserve the product name \\\"长安起源Q06\\\" and launch timing \\\"9月上市\\\"\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 19610
+}

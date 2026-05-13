@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing styled smartphone photo of Korean café coffee and desserts, with hand-drawn white-pen annotation overlays on each element — no people.\n\nStyle/medium: needs a Korean café aesthetic shot in a casual smartphone photography style, suitable for Instagram Stories — exact stylistic execution is yours\nComposition: must include hand-drawn white-pen annotation lines and arrows pointing to each visible element (drinks, food, space details), with deliberate negative space left between annotations\nSubject: must include coffee drink(s) and dessert/sweets as focal subjects, no people\nScene/backdrop: needs a Korean café interior atmosphere — exact décor details are yours\nLighting/mood: needs a soft, warm, editorial café atmosphere — exact light source mix is yours\nColor palette: needs a muted, trendy café direction — exact tones are yours\nMaterials/textures: needs a rough, hand-drawn overlay texture — exact line weight variation and imperfection level are yours\nText (verbatim): must include handwritten Japanese annotations (7割ひらがな・3割かんじ) in white pen style, one short diary-voice comment per element, following these rules:\n  • 飲み物 → 味・温度・気持ち（例：「すっきり」「やさしい甘さ」）\n  • 食べ物 → 食感・おいしさ（例：「しっとり」「さいこう」）\n  • 空間 → 雰囲気（例：「ほっとする」「いい時間」）\n  • 全体一言 → （例：「しあわせすぎた〜」）\n  Decorative elements: 蒸気のイラスト / キラキラ / ハート / 小さな顔文字 を適度に添える\nConstraints: must preserve hand-drawn line style — single-stroke rough slightly uneven white lines tracing object outlines; arrows or dashed lines for visual flow; Instagram Stories / magazine rough-notes finish; annotations must feel like diary entries, not labels\nAvoid: must avoid over-decorated or cluttered layout — preserve breathing room / negative space between annotations; must avoid any human figures or faces",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ad848e04-b9e6-49dd-855c-d9ab4552e853/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing styled smartphone photo of Korean café coffee and desserts, with hand-drawn white-pen annotation overlays on each element — no people.\\n\\nStyle/medium: needs a Korean café aesthetic shot in a casual smartphone photography style, suitable for Instagram Stories — exact stylistic execution is yours\\nComposition: must include hand-drawn white-pen annotation lines and arrows pointing to each visible element (drinks, food, space details), with deliberate negative space left between annotations\\nSubject: must include coffee drink(s) and dessert/sweets as focal subjects, no people\\nScene/backdrop: needs a Korean café interior atmosphere — exact décor details are yours\\nLighting/mood: needs a soft, warm, editorial café atmosphere — exact light source mix is yours\\nColor palette: needs a muted, trendy café direction — exact tones are yours\\nMaterials/textures: needs a rough, hand-drawn overlay texture — exact line weight variation and imperfection level are yours\\nText (verbatim): must include handwritten Japanese annotations (7割ひらがな・3割かんじ) in white pen style, one short diary-voice comment per element, following these rules:\\n  • 飲み物 → 味・温度・気持ち（例：「すっきり」「やさしい甘さ」）\\n  • 食べ物 → 食感・おいしさ（例：「しっとり」「さいこう」）\\n  • 空間 → 雰囲気（例：「ほっとする」「いい時間」）\\n  • 全体一言 → （例：「しあわせすぎた〜」）\\n  Decorative elements: 蒸気のイラスト / キラキラ / ハート / 小さな顔文字 を適度に添える\\nConstraints: must preserve hand-drawn line style — single-stroke rough slightly uneven white lines tracing object outlines; arrows or dashed lines for visual flow; Instagram Stories / magazine rough-notes finish; annotations must feel like diary entries, not labels\\nAvoid: must avoid over-decorated or cluttered layout — preserve breathing room / negative space between annotations; must avoid any human figures or faces\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16801
+}

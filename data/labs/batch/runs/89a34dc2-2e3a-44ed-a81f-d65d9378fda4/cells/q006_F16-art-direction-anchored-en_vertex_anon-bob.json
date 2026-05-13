@@ -1,0 +1,23 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计企业 logo —— 基于参考图生成矢量风格企业 logo。\n\n风格/媒介:矢量图形\n构图:\n主体:企业 logo\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:参考上传图片 #1 的视觉元素与识别信息\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A376afb5d-5677-4ecf-aaaa-4e0f51dc5ae4/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计企业 logo —— 基于参考图生成矢量风格企业 logo。\\n\\n风格/媒介:矢量图形\\n构图:\\n主体:企业 logo\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:参考上传图片 #1 的视觉元素与识别信息\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5254,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

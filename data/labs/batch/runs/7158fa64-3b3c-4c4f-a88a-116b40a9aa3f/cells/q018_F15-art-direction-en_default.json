@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an e-commerce landing page hero section mockup for a Japanese beauty brand \"LUMEA BEAUTY\".\n\nStyle/medium: needs a clean, bright, airy, feminine aesthetic with floral accents — exact restraint level and layout execution are yours\nComposition: must be a hero section with left column (text content), center subject (model), right column (product + stats), bottom benefit cards — exact spacing and grid is yours\nSubject: must include a young East Asian woman smiling, touching her cheek, holding a dropper bottle of serum\nScene/backdrop: needs a soft, airy environment with purple flower accents — exact set design is yours\nLighting/mood: needs soft, bright, feminine lighting — exact light source mix is yours\nColor palette: must be soft pink and white dominant with purple floral accents — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"LUMEA BEAUTY\" (logo), \"特徴\" / \"成分\" / \"お客様の声\" / \"使い方\" / \"FAQ\" (navigation), \"今すぐ試す\" (header CTA), \"鏡を見るたび、うるおう透明感。\" (headline), \"乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。\" (subheadline), \"敏感肌OK\" / \"高保湿\" / \"朝晩使える\" (feature badges), \"美容成分をしっかり届ける\" / \"ハリ・ツヤのある印象へ\" / \"続けやすいシンプルケア\" (bullet points), \"初回限定で試してみる >\" / \"成分をチェック >\" (CTA buttons), \"送料無料 / 初回限定 / 定期縛りなし\" (trust badges), \"満足度 96%\" / \"美容成分 5種配合\" / \"愛用者 12,000人突破\" (stat cards), \"うるおい\" / \"透明感\" / \"使いやすさ\" (benefit cards)\nConstraints: must preserve all Japanese text verbatim, must include 5 navigation links, 3 feature badges, 3 bullet points, 2 CTA buttons, 3 stat cards, 3 benefit cards, 2 product items (dropper bottle + box)\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f2fb2806-af2a-4884-93e6-609f02ee83b3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an e-commerce landing page hero section mockup for a Japanese beauty brand \\\"LUMEA BEAUTY\\\".\\n\\nStyle/medium: needs a clean, bright, airy, feminine aesthetic with floral accents — exact restraint level and layout execution are yours\\nComposition: must be a hero section with left column (text content), center subject (model), right column (product + stats), bottom benefit cards — exact spacing and grid is yours\\nSubject: must include a young East Asian woman smiling, touching her cheek, holding a dropper bottle of serum\\nScene/backdrop: needs a soft, airy environment with purple flower accents — exact set design is yours\\nLighting/mood: needs soft, bright, feminine lighting — exact light source mix is yours\\nColor palette: must be soft pink and white dominant with purple floral accents — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"LUMEA BEAUTY\\\" (logo), \\\"特徴\\\" / \\\"成分\\\" / \\\"お客様の声\\\" / \\\"使い方\\\" / \\\"FAQ\\\" (navigation), \\\"今すぐ試す\\\" (header CTA), \\\"鏡を見るたび、うるおう透明感。\\\" (headline), \\\"乾燥・くすみが気になる肌に。美容成分を贅沢に配合した、毎日のための集中保湿美容液。\\\" (subheadline), \\\"敏感肌OK\\\" / \\\"高保湿\\\" / \\\"朝晩使える\\\" (feature badges), \\\"美容成分をしっかり届ける\\\" / \\\"ハリ・ツヤのある印象へ\\\" / \\\"続けやすいシンプルケア\\\" (bullet points), \\\"初回限定で試してみる >\\\" / \\\"成分をチェック >\\\" (CTA buttons), \\\"送料無料 / 初回限定 / 定期縛りなし\\\" (trust badges), \\\"満足度 96%\\\" / \\\"美容成分 5種配合\\\" / \\\"愛用者 12,000人突破\\\" (stat cards), \\\"うるおい\\\" / \\\"透明感\\\" / \\\"使いやすさ\\\" (benefit cards)\\nConstraints: must preserve all Japanese text verbatim, must include 5 navigation links, 3 feature badges, 3 bullet points, 2 CTA buttons, 3 stat cards, 3 benefit cards, 2 product items (dropper bottle + box)\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 18296
+}

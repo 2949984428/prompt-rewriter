@@ -1,0 +1,23 @@
+{
+  "query_idx": 300,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Editar imagem de thumbnail para YouTube.\n\n风格/媒介:\n构图:\n主体:\n  Aumentar o logotipo LV para maior destaque, mas sem exagero\n  Posicionar o logotipo LV no lado oposto do terno\n  Deixar a gravata borboleta com degradê verde e amarelo representando as cores do Brasil\n场景/背景:\n光线/氛围:\n色彩方案:Gravata borboleta em degradê verde e amarelo (cores do Brasil)\n材质/纹理:\n文字(原样):\n约束:\n  Manter todos os outros elementos da imagem original inalterados\n  Thumbnail para YouTube\n避免:Exagerar no tamanho do logotipo LV",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aec4d011b-20b0-4977-8ca3-cbb163133649/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Editar imagem de thumbnail para YouTube.\\n\\n风格/媒介:\\n构图:\\n主体:\\n  Aumentar o logotipo LV para maior destaque, mas sem exagero\\n  Posicionar o logotipo LV no lado oposto do terno\\n  Deixar a gravata borboleta com degradê verde e amarelo representando as cores do Brasil\\n场景/背景:\\n光线/氛围:\\n色彩方案:Gravata borboleta em degradê verde e amarelo (cores do Brasil)\\n材质/纹理:\\n文字(原样):\\n约束:\\n  Manter todos os outros elementos da imagem original inalterados\\n  Thumbnail para YouTube\\n避免:Exagerar no tamanho do logotipo LV\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9553,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

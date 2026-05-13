@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand color palette and typography specification sheet for \"染秋 (RAN QIU)\", an autumn fragrance brand.\n\nStyle/medium: needs an East Asian editorial brand-guideline aesthetic — exact layout execution is yours\nComposition: must be a brand style guide sheet showing primary colors, secondary colors, and typography specimens in a single flat layout\nSubject: must include the brand identity system for 染秋 (RAN QIU):\n  Primary palette: autumn-derived colors drawn from osmanthus, persimmon, maple leaf, oolong tea\n  Secondary palette: warm spice tones drawn from cinnamon, sandalwood, amber\n  Typography: Chinese + Latin type pairing specimen showing 染秋 / RAN QIU wordmark and supporting typeface\nScene/backdrop: \nLighting/mood: \nColor palette: needs a warm, muted autumn direction — tones of deep amber, burnt persimmon, osmanthus gold, smoky oolong, maple rust — exact hex values and ratios are yours\nMaterials/textures: needs a subtle ink-wash or dyed-fabric texture reference evoking traditional Chinese 染 (dyeing) craft — exact surface treatment is yours\nText (verbatim): must include \"染秋\" and \"RAN QIU\" and the three fragrance line names: \"桂花乌龙\" / \"琥珀枫叶\" / \"柿霜暮色\"\nConstraints: must preserve all color swatches labeled with names, primary and secondary color groups clearly separated, typography shown at multiple weights/sizes\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8d763249-7884-4f64-86d0-d198a8889374/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a brand color palette and typography specification sheet for \\\"染秋 (RAN QIU)\\\", an autumn fragrance brand.\\n\\nStyle/medium: needs an East Asian editorial brand-guideline aesthetic — exact layout execution is yours\\nComposition: must be a brand style guide sheet showing primary colors, secondary colors, and typography specimens in a single flat layout\\nSubject: must include the brand identity system for 染秋 (RAN QIU):\\n  Primary palette: autumn-derived colors drawn from osmanthus, persimmon, maple leaf, oolong tea\\n  Secondary palette: warm spice tones drawn from cinnamon, sandalwood, amber\\n  Typography: Chinese + Latin type pairing specimen showing 染秋 / RAN QIU wordmark and supporting typeface\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a warm, muted autumn direction — tones of deep amber, burnt persimmon, osmanthus gold, smoky oolong, maple rust — exact hex values and ratios are yours\\nMaterials/textures: needs a subtle ink-wash or dyed-fabric texture reference evoking traditional Chinese 染 (dyeing) craft — exact surface treatment is yours\\nText (verbatim): must include \\\"染秋\\\" and \\\"RAN QIU\\\" and the three fragrance line names: \\\"桂花乌龙\\\" / \\\"琥珀枫叶\\\" / \\\"柿霜暮色\\\"\\nConstraints: must preserve all color swatches labeled with names, primary and secondary color groups clearly separated, typography shown at multiple weights/sizes\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10664
+}

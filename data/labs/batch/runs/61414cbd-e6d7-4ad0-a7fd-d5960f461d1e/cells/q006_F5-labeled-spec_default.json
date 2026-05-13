@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: e-commerce promotional poster\nAsset type: 618 anniversary campaign announcement poster for social media and e-commerce platforms\nPrimary request: bold announcement poster for UGREEN NAS private cloud brand 618 anniversary celebration\nScene/backdrop: clean gradient background with subtle tech-inspired geometric patterns, floating product silhouettes\nSubject: UGREEN NAS private cloud device as hero product, sleek modern design with soft product glow\nStyle/medium: digital illustration with 3D product rendering, commercial advertising style\nComposition/framing: centered product focus with balanced negative space, vertical poster format\nLighting/mood: soft studio lighting with rim light on product, celebratory and premium mood\nColor palette: brand green (#00A651) as primary + white + subtle gold accents for anniversary celebration\nMaterials/textures: matte metallic product finish, smooth gradient background, subtle particle effects\nText (verbatim): \"绿联私有云品牌618周年庆活动\"\nConstraints: keep brand green as dominant color, maintain clean readable layout for e-commerce display\nAvoid: cluttered composition, clashing colors, low contrast text, generic stock imagery",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0e6ba487-f804-4c93-968d-11a43e7f65a3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: e-commerce promotional poster\\nAsset type: 618 anniversary campaign announcement poster for social media and e-commerce platforms\\nPrimary request: bold announcement poster for UGREEN NAS private cloud brand 618 anniversary celebration\\nScene/backdrop: clean gradient background with subtle tech-inspired geometric patterns, floating product silhouettes\\nSubject: UGREEN NAS private cloud device as hero product, sleek modern design with soft product glow\\nStyle/medium: digital illustration with 3D product rendering, commercial advertising style\\nComposition/framing: centered product focus with balanced negative space, vertical poster format\\nLighting/mood: soft studio lighting with rim light on product, celebratory and premium mood\\nColor palette: brand green (#00A651) as primary + white + subtle gold accents for anniversary celebration\\nMaterials/textures: matte metallic product finish, smooth gradient background, subtle particle effects\\nText (verbatim): \\\"绿联私有云品牌618周年庆活动\\\"\\nConstraints: keep brand green as dominant color, maintain clean readable layout for e-commerce display\\nAvoid: cluttered composition, clashing colors, low contrast text, generic stock imagery\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10517
+}

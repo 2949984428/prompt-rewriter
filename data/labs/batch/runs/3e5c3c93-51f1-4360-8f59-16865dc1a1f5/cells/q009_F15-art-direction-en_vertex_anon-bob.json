@@ -1,0 +1,21 @@
+{
+  "query_idx": 9,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand promotional poster for RAN QIU with a warm autumn atmosphere and poetic, serene visual experience.\n\nStyle/medium: needs an 东方美学 minimalist aesthetic with natural poetry and warmth — exact stylistic execution is yours\nComposition: needs generous negative space and shallow depth-of-field treatment — exact framing is yours\nSubject: must include the RAN QIU brand wordmark as a focal element alongside natural autumn elements\nScene/backdrop: needs a warm autumn atmosphere — exact scene is yours\nLighting/mood: needs a golden-hour, warm and healing atmosphere — exact light source mix is yours\nColor palette: must be #8B3A1E (深秋棕红) dominant, with #E8DCCB (米色) and #D4A574 (金棕色)\nMaterials/textures: needs a natural, organic surface treatment — exact texture weight is yours\nText (verbatim): must include \"RAN QIU\"\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7d5e6ba5-5985-47db-8e00-eb4f924350a6/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a brand promotional poster for RAN QIU with a warm autumn atmosphere and poetic, serene visual experience.\\n\\nStyle/medium: needs an 东方美学 minimalist aesthetic with natural poetry and warmth — exact stylistic execution is yours\\nComposition: needs generous negative space and shallow depth-of-field treatment — exact framing is yours\\nSubject: must include the RAN QIU brand wordmark as a focal element alongside natural autumn elements\\nScene/backdrop: needs a warm autumn atmosphere — exact scene is yours\\nLighting/mood: needs a golden-hour, warm and healing atmosphere — exact light source mix is yours\\nColor palette: must be #8B3A1E (深秋棕红) dominant, with #E8DCCB (米色) and #D4A574 (金棕色)\\nMaterials/textures: needs a natural, organic surface treatment — exact texture weight is yours\\nText (verbatim): must include \\\"RAN QIU\\\"\\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8649
+}

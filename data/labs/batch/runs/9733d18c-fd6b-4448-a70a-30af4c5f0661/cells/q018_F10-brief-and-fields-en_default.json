@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial fashion illustration for a haute couture evening gown inspired by deep-sea creatures.\n\nStyle/medium: fashion illustration blended with editorial photography, haute couture runway campaign aesthetic, mixed media with digital painting and photographic elements\nComposition: full-length figure shot, model standing centered against void backdrop, three-quarter view, medium distance to showcase full gown silhouette\nSubject: floor-length evening gown with cascading multi-layered semi-transparent organza skirt printed with jellyfish tentacle motifs, structured bodice with three-dimensional embroidery mimicking coral reef textures, Swarovski crystals in blue, green and purple embedded throughout bodice\nScene/backdrop: pure black studio void, minimalist to eliminate distraction from garment\nLighting/mood: professional stage lighting from multiple angles, dramatic spotlighting to emphasize translucent fabric layers and bioluminescent glow effects, mysterious and luxurious atmosphere\nColor palette: deep ocean blue as base, bioluminescent violet as accent glow, coral orange as warm highlight, iridescent shimmer throughout\nMaterials/textures: sheer organza with layered translucency, three-dimensional embroidered coral textures, faceted crystal surfaces catching light, fluid draping suggesting underwater movement\nAvoid: 8K stuffer terms, generic stock photo aesthetic, cluttered background, cartoonish rendering, visible mannequin or hanger",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9a51b734-dbc6-4fd5-ba29-6da512ec9f65/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing editorial fashion illustration for a haute couture evening gown inspired by deep-sea creatures.\\n\\nStyle/medium: fashion illustration blended with editorial photography, haute couture runway campaign aesthetic, mixed media with digital painting and photographic elements\\nComposition: full-length figure shot, model standing centered against void backdrop, three-quarter view, medium distance to showcase full gown silhouette\\nSubject: floor-length evening gown with cascading multi-layered semi-transparent organza skirt printed with jellyfish tentacle motifs, structured bodice with three-dimensional embroidery mimicking coral reef textures, Swarovski crystals in blue, green and purple embedded throughout bodice\\nScene/backdrop: pure black studio void, minimalist to eliminate distraction from garment\\nLighting/mood: professional stage lighting from multiple angles, dramatic spotlighting to emphasize translucent fabric layers and bioluminescent glow effects, mysterious and luxurious atmosphere\\nColor palette: deep ocean blue as base, bioluminescent violet as accent glow, coral orange as warm highlight, iridescent shimmer throughout\\nMaterials/textures: sheer organza with layered translucency, three-dimensional embroidered coral textures, faceted crystal surfaces catching light, fluid draping suggesting underwater movement\\nAvoid: 8K stuffer terms, generic stock photo aesthetic, cluttered background, cartoonish rendering, visible mannequin or hanger\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10985
+}

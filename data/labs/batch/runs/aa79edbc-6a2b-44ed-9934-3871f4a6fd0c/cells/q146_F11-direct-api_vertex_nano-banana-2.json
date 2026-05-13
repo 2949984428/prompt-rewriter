@@ -1,0 +1,23 @@
+{
+  "query_idx": 146,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:2ec0d2f4dd9c1f97cea68f324afa6a8e][@image:#2:44c6415eafbd3c3dc0271b953975fa2c][@image:#3:0c6dda5db2b1ebd37c4d4641581e89ab]图1-3是产品多角度展示，[@image:#4: Image]学习参考图4的风格\n，[@image:#5: Image]学习图5的文案排版\n，策划一套产品A普通详情页，联网搜索标竞品，提炼出卖点，5张详情页，全英文标题，统一详情页的风格",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 5,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2814a348-808b-469d-9ad9-49ee7e043985/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:2ec0d2f4dd9c1f97cea68f324afa6a8e][@image:#2:44c6415eafbd3c3dc0271b953975fa2c][@image:#3:0c6dda5db2b1ebd37c4d4641581e89ab]图1-3是产品多角度展示，[@image:#4: Image]学习参考图4的风格\\n，[@image:#5: Image]学习图5的文案排版\\n，策划一套产品A普通详情页，联网搜索标竞品，提炼出卖点，5张详情页，全英文标题，统一详情页的风格\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 5, \"output_format\": \"png\"}",
+  "ms": 3791,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

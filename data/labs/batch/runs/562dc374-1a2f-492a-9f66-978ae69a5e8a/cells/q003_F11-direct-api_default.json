@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张极简主义风格的北欧家居场景，白色墙面，浅木色地板，一张灰色布艺沙发，旁边有绿植和落地灯，阳光透过大窗户洒进来，整体干净明亮，温馨舒适",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3d936c9d-8117-486e-b5a5-8926def6c828/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"设计一张极简主义风格的北欧家居场景，白色墙面，浅木色地板，一张灰色布艺沙发，旁边有绿植和落地灯，阳光透过大窗户洒进来，整体干净明亮，温馨舒适\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 4150
+}

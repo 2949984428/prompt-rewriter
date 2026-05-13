@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing abstract expressionist artwork for modern art gallery display.\n\nStyle/medium: needs an \"abstract expressionist\" aesthetic — references in the spirit of Jackson Pollock's action painting, Willem de Kooning's gestural abstraction, Helen Frankenthaler's color-field soak-stain technique; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include abstract forms with no concrete imagery\nScene/backdrop: \nLighting/mood: needs an emotionally charged, energetic atmosphere — exact mood balance is yours\nColor palette: needs bold color collision direction — exact hue combinations are yours\nMaterials/textures: needs fluid brushstroke treatment — exact paint viscosity and stroke weight is yours\nText (verbatim): \nConstraints: \nAvoid: must avoid any concrete recognizable imagery",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/63e16dc7-b9d8-403e-9e87-8b47c226445a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing abstract expressionist artwork for modern art gallery display.\\n\\nStyle/medium: needs an \\\"abstract expressionist\\\" aesthetic — references in the spirit of Jackson Pollock's action painting, Willem de Kooning's gestural abstraction, Helen Frankenthaler's color-field soak-stain technique; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include abstract forms with no concrete imagery\\nScene/backdrop: \\nLighting/mood: needs an emotionally charged, energetic atmosphere — exact mood balance is yours\\nColor palette: needs bold color collision direction — exact hue combinations are yours\\nMaterials/textures: needs fluid brushstroke treatment — exact paint viscosity and stroke weight is yours\\nText (verbatim): \\nConstraints: \\nAvoid: must avoid any concrete recognizable imagery\"}",
+  "ms": 9247
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original digital illustration of a dark gothic castle interior (all in-image text in Chinese).\n\nStyle/medium: needs a 暗黑哥特 aesthetic — exact stylistic execution is yours\nComposition: must include towering vaulted ceiling as dominant vertical element\nSubject: must include the gothic castle interior with high arched vault, stained glass windows casting blood-red light, candelabras, and iron chain decorations\nScene/backdrop: must include a grand gothic interior space with heavy shadows throughout\nLighting/mood: needs a mysterious and oppressive atmosphere — exact light source mix is yours; must include blood-red colored light streaming through stained glass windows as primary light source\nColor palette: needs a dark, shadow-dominant direction with blood-red accent light — exact tonal ratios are yours\nMaterials/textures: needs heavy stone, aged iron, and candlelight surface treatment — exact grain and texture weight are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c83dd36d-abd6-488d-a165-4fdc216f58f4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original digital illustration of a dark gothic castle interior (all in-image text in Chinese).\\n\\nStyle/medium: needs a 暗黑哥特 aesthetic — exact stylistic execution is yours\\nComposition: must include towering vaulted ceiling as dominant vertical element\\nSubject: must include the gothic castle interior with high arched vault, stained glass windows casting blood-red light, candelabras, and iron chain decorations\\nScene/backdrop: must include a grand gothic interior space with heavy shadows throughout\\nLighting/mood: needs a mysterious and oppressive atmosphere — exact light source mix is yours; must include blood-red colored light streaming through stained glass windows as primary light source\\nColor palette: needs a dark, shadow-dominant direction with blood-red accent light — exact tonal ratios are yours\\nMaterials/textures: needs heavy stone, aged iron, and candlelight surface treatment — exact grain and texture weight are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15943
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 60,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计姓氏 logo —— 「徐」，突出食养与手工理念。\n\n风格/媒介:\n  中式文化内涵风格\n  手工感、传统工艺美感\n  参考图 #1 #2 #3 #4 的整体风格气质\n构图:\n  以「徐」字为核心视觉元素\n  融入食养或手工相关图形符号\n主体:「徐」姓氏 logo\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:手工感笔触或刻印质感\n文字(原样):徐\n约束:\n  logo 形式，适合品牌标识使用\n  体现食养、手工、文化内涵三重属性\n避免:过于现代极简或科技感风格",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa04bdef6-2037-4dfb-9826-589f3d37e2c9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计姓氏 logo —— 「徐」，突出食养与手工理念。\\n\\n风格/媒介:\\n  中式文化内涵风格\\n  手工感、传统工艺美感\\n  参考图 #1 #2 #3 #4 的整体风格气质\\n构图:\\n  以「徐」字为核心视觉元素\\n  融入食养或手工相关图形符号\\n主体:「徐」姓氏 logo\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:手工感笔触或刻印质感\\n文字(原样):徐\\n约束:\\n  logo 形式，适合品牌标识使用\\n  体现食养、手工、文化内涵三重属性\\n避免:过于现代极简或科技感风格\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7646,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

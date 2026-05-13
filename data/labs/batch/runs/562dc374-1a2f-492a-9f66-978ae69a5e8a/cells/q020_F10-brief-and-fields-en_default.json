@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial still-life photograph of a wabi-sabi arrangement featuring weathered ceramics and dried branches.\n\nStyle/medium: fine art still-life photography, wabi-sabi aesthetic, Japanese minimalism, subtle imperfections celebrated\nComposition: medium shot, slightly off-center arrangement, 50mm lens, shallow depth of field with soft background falloff\nSubject: rustic hand-thrown ceramic vase with uneven glaze and visible firing marks, holding bare dried branches with twisted forms\nScene/backdrop: aged wooden table with worn patina, visible grain and scratches, plain wall behind\nLighting/mood: soft natural daylight streaming through a window at an angle, gentle shadows, quiet contemplative atmosphere\nColor palette: muted earth tones — warm beige, soft gray, weathered brown, subtle ochre accents\nMaterials/textures: rough unglazed clay surface, brittle dry wood, scratched matte wood grain, dust particles in light\nAvoid: polished perfection, saturated colors, studio flash, plastic textures, over-sharpening, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bc047e9c-7074-4511-916e-edaa9be1bcde/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial still-life photograph of a wabi-sabi arrangement featuring weathered ceramics and dried branches.\\n\\nStyle/medium: fine art still-life photography, wabi-sabi aesthetic, Japanese minimalism, subtle imperfections celebrated\\nComposition: medium shot, slightly off-center arrangement, 50mm lens, shallow depth of field with soft background falloff\\nSubject: rustic hand-thrown ceramic vase with uneven glaze and visible firing marks, holding bare dried branches with twisted forms\\nScene/backdrop: aged wooden table with worn patina, visible grain and scratches, plain wall behind\\nLighting/mood: soft natural daylight streaming through a window at an angle, gentle shadows, quiet contemplative atmosphere\\nColor palette: muted earth tones — warm beige, soft gray, weathered brown, subtle ochre accents\\nMaterials/textures: rough unglazed clay surface, brittle dry wood, scratched matte wood grain, dust particles in light\\nAvoid: polished perfection, saturated colors, studio flash, plastic textures, over-sharpening, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10143
+}

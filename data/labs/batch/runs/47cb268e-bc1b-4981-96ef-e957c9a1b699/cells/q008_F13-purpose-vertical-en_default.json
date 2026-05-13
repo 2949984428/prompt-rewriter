@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cross-border e-commerce promotional poster with typographic art and layered stacking text, designed for a 16:9 advertising banner format.\n\nStyle/medium: commercial promotional poster, bold editorial graphic design with artistic typography\nComposition: 16:9 horizontal layout; layered type stacking fills the background with overlapping text at varying scales; a hero product (or product cluster) placed in the foreground physically overlaps and occludes portions of the stacked lettering, creating depth\nSubject: cross-border e-commerce promotion — hero product(s) as the dominant foreground element breaking through the type layers\nScene/backdrop: abstract or gradient backdrop unified by dense stacked typographic layers; complex but visually ordered — each element has a clear hierarchy so the composition reads as intentional, not chaotic\nLighting/mood: energetic, commercial, attention-grabbing; strong contrast between product and background type layers\nColor palette: bold, high-contrast promotional palette — vivid accent colors for artistic headline type against a darker or richly saturated background\nMaterials/textures: \nText (verbatim): \nConstraints: artistic headline lettering (艺术字) must be present; stacked multi-layer typography (字体堆叠) must fill background; at least one product or subject element must visually overlap and partially obscure the background text; composition must be complex yet structured — not cluttered; final aspect ratio must be 16:9\nAvoid: sparse or minimal layouts, single-layer flat text, generic stock-photo collage style, chaotic unreadable clutter",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2b5a0014-baa4-4b19-9098-ecc4cf9637fd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing cross-border e-commerce promotional poster with typographic art and layered stacking text, designed for a 16:9 advertising banner format.\\n\\nStyle/medium: commercial promotional poster, bold editorial graphic design with artistic typography\\nComposition: 16:9 horizontal layout; layered type stacking fills the background with overlapping text at varying scales; a hero product (or product cluster) placed in the foreground physically overlaps and occludes portions of the stacked lettering, creating depth\\nSubject: cross-border e-commerce promotion — hero product(s) as the dominant foreground element breaking through the type layers\\nScene/backdrop: abstract or gradient backdrop unified by dense stacked typographic layers; complex but visually ordered — each element has a clear hierarchy so the composition reads as intentional, not chaotic\\nLighting/mood: energetic, commercial, attention-grabbing; strong contrast between product and background type layers\\nColor palette: bold, high-contrast promotional palette — vivid accent colors for artistic headline type against a darker or richly saturated background\\nMaterials/textures: \\nText (verbatim): \\nConstraints: artistic headline lettering (艺术字) must be present; stacked multi-layer typography (字体堆叠) must fill background; at least one product or subject element must visually overlap and partially obscure the background text; composition must be complex yet structured — not cluttered; final aspect ratio must be 16:9\\nAvoid: sparse or minimal layouts, single-layer flat text, generic stock-photo collage style, chaotic unreadable clutter\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11247
+}

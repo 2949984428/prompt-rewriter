@@ -44,6 +44,8 @@ interface ImageUploaderProps {
   useR2Upload?: boolean;
   // busy 状态透传给父组件,父级可以根据这个 disable 跑批按钮
   onBusyChange?: (busy: boolean) => void;
+  // 2026-05-13:启用后多一行 URL 输入条,粘贴 http(s):// URL 直接入 value 不上传
+  enableUrlInput?: boolean;
 }
 
 function formatBytes(b: number): string {
@@ -66,6 +68,7 @@ export function ImageUploader({
   skipCompression = false,
   useR2Upload = false,
   onBusyChange,
+  enableUrlInput = false,
 }: ImageUploaderProps) {
   const inputRef = useRef<HTMLInputElement>(null);
   const [error, setError] = useState<string | null>(null);
@@ -204,6 +207,24 @@ export function ImageUploader({
     onChange(value.filter((_, idx) => idx !== i));
   };
 
+  // URL 输入(enableUrlInput 模式):粘贴 http(s):// URL,直接入 value(不走 R2)
+  const [urlInput, setUrlInput] = useState("");
+  const onAddUrl = () => {
+    const u = urlInput.trim();
+    if (!u) return;
+    if (!/^https?:\/\//i.test(u)) {
+      setError("URL 必须 http:// 或 https:// 开头");
+      return;
+    }
+    if (value.length >= effMax) {
+      setError(`最多 ${effMax} 张`);
+      return;
+    }
+    setError(null);
+    onChange([...value, u]);
+    setUrlInput("");
+  };
+
   // 自动 hint:超 server target 时会自动压,所以不再吓唬用户"≤ 1.5MB"
   const autoHint =
     hint ??
@@ -233,6 +254,13 @@ export function ImageUploader({
               alt={`reference-${i}`}
               className="h-full w-full object-cover"
             />
+            {/* 左上序号 chip:图一/图二/...,跟 prompt 里 [@image:#N:...] 引用对齐 */}
+            <span
+              className="absolute left-0.5 top-0.5 rounded-sm bg-near-black/75 px-1 py-px font-mono text-[10px] font-medium text-ivory"
+              title={`第 ${i + 1} 张参考图 (在 prompt 里用 #${i + 1} 引用)`}
+            >
+              #{i + 1}
+            </span>
             <button
               type="button"
               onClick={() => onRemove(i)}
@@ -272,6 +300,33 @@ export function ImageUploader({
           onChange={(e) => onPick(e.target.files)}
         />
       </div>
+      {/* URL 输入条:enableUrlInput 模式 */}
+      {enableUrlInput && remaining > 0 && (
+        <div className="mt-2 flex gap-1.5">
+          <input
+            type="url"
+            placeholder="或粘贴图片 URL(http/https)"
+            value={urlInput}
+            onChange={(e) => setUrlInput(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === "Enter") {
+                e.preventDefault();
+                onAddUrl();
+              }
+            }}
+            className="flex-1 rounded-md border border-border-cream bg-ivory px-3 py-1.5 font-mono text-[12px] text-near-black placeholder:text-stone-gray focus:border-terracotta focus:outline-none"
+          />
+          <button
+            type="button"
+            onClick={onAddUrl}
+            disabled={!urlInput.trim()}
+            className="rounded-md border border-border-warm bg-ivory px-3 py-1.5 text-[12px] text-near-black transition hover:border-terracotta hover:bg-warm-sand/40 disabled:cursor-not-allowed disabled:opacity-40"
+            title="把 URL 加进参考图列表(不上传 R2,直接透传给生图 gateway)"
+          >
+            添加 URL
+          </button>
+        </div>
+      )}
       {error && (
         <p className="mt-1 font-mono text-[11px] text-coral">{error}</p>
       )}

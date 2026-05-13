@@ -1,0 +1,23 @@
+{
+  "query_idx": 231,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "塗鴉手繪風 1:1 适用于Instagram，活潑有活力的背景 挪威三文魚凍乾 買三送一  賣點文字 全部符合[@image:#1:三文魚 20.04]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad486e756-cccd-45c0-9010-7080f400a763/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"塗鴉手繪風 1:1 适用于Instagram，活潑有活力的背景 挪威三文魚凍乾 買三送一  賣點文字 全部符合[@image:#1:三文魚 20.04]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6399,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

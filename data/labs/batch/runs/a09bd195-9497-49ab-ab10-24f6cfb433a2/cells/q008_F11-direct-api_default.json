@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张工业风格的咖啡馆 interior，裸露的水泥墙面，金属管道，复古皮质沙发，大窗户透进自然光，墙上挂着黑白摄影作品，氛围粗犷又有格调",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/85f9b784-995d-4832-9d6e-caa25bf6eb4b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

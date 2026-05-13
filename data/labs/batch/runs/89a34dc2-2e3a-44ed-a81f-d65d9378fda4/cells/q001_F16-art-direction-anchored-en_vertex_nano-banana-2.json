@@ -1,0 +1,23 @@
+{
+  "query_idx": 1,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成文创周边产品样机图——基于上传的品牌 LOGO 与插画，展示组合或单个产品陈列。\n\n风格/媒介:专业产品摄影，photorealistic\n构图:\n  多件产品组合陈列或单品特写\n  产品自然摆放，层次错落\n主体:\n  咖啡杯（印有品牌 LOGO / 插画）\n  笔记本（印有品牌 LOGO / 插画）\n  眼罩\n  毛绒围巾\n  可爱毛绒手提包\n  围裙\n  以上产品均契合 IP 插画形象，印有对应品牌图案\n场景/背景:米色背景\n光线/氛围:专业布光，干净柔和\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  LOGO 与插画图案须与上传的 Image 1 / Image 2 / Image 3 保持一致\n  定位为 IP 文创周边\n避免:杂乱背景，过度阴影，与 IP 形象不符的图案",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af25e0a94-8125-4bac-b807-8b2e53fbafab/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成文创周边产品样机图——基于上传的品牌 LOGO 与插画，展示组合或单个产品陈列。\\n\\n风格/媒介:专业产品摄影，photorealistic\\n构图:\\n  多件产品组合陈列或单品特写\\n  产品自然摆放，层次错落\\n主体:\\n  咖啡杯（印有品牌 LOGO / 插画）\\n  笔记本（印有品牌 LOGO / 插画）\\n  眼罩\\n  毛绒围巾\\n  可爱毛绒手提包\\n  围裙\\n  以上产品均契合 IP 插画形象，印有对应品牌图案\\n场景/背景:米色背景\\n光线/氛围:专业布光，干净柔和\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  LOGO 与插画图案须与上传的 Image 1 / Image 2 / Image 3 保持一致\\n  定位为 IP 文创周边\\n避免:杂乱背景，过度阴影，与 IP 形象不符的图案\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9061,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

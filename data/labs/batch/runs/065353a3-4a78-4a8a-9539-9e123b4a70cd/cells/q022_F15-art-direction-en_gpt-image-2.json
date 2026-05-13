@@ -1,0 +1,21 @@
+{
+  "query_idx": 22,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing styled smartphone photo of Korean-cafe-style fashionable coffee and desserts, with hand-drawn white-pen annotation overlays in a Japanese diary note style — no people.\n\nStyle/medium: needs a Korean cafe aesthetic shot in a casual smartphone photography style suitable for Instagram Stories — exact stylistic execution is yours\nComposition: must include the coffee and desserts as focal subjects with hand-drawn annotation lines, arrows, and dashed guides layered over the photo pointing to each element\nSubject: must include coffee drink(s) and dessert/sweets items typical of a Korean cafe setting (no people)\nScene/backdrop: needs a Korean cafe interior or flat-lay surface context — exact backdrop is yours\nLighting/mood: needs a soft, fashionable, cozy cafe atmosphere — exact light source mix is yours\nColor palette: needs a light, airy, muted-pastel direction typical of Korean cafe aesthetics — exact tones are yours\nMaterials/textures: needs the annotation layer to feel like white-pen hand-drawn lines — slightly uneven, single-stroke, rough quality — exact line weight is yours\nText (verbatim): must include handwritten Japanese annotation text (7割ひらがな・3割かんじ) for each element following these rules:\n  • 飲み物 → 味・温度・気持ち（例：「すっきり」「やさしい甘さ」）\n  • 食べ物 → 食感・おいしさ（例：「しっとり」「さいこう」）\n  • 空間 → 雰囲気（例：「ほっとする」「いい時間」）\n  • 全体 → 一言まとめ（例：「しあわせすぎた〜」）\n  Decoration: add subtle steam lines ☁, sparkles ✦, heart ♡, small emoji-like doodles — moderate, leaving breathing room / 余白\nConstraints: must preserve hand-drawn outline traces around object silhouettes; annotations must feel like a personal diary / one-liner / emotional note; overall finish must feel Instagram-story × magazine rough-note style — fashionable yet casual\nAvoid: overcrowded annotations; heavy or digital-looking text; people or human figures",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A3b059532-658e-42a1-8f5e-290a810e6721/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing styled smartphone photo of Korean-cafe-style fashionable coffee and desserts, with hand-drawn white-pen annotation overlays in a Japanese diary note style — no people.\\n\\nStyle/medium: needs a Korean cafe aesthetic shot in a casual smartphone photography style suitable for Instagram Stories — exact stylistic execution is yours\\nComposition: must include the coffee and desserts as focal subjects with hand-drawn annotation lines, arrows, and dashed guides layered over the photo pointing to each element\\nSubject: must include coffee drink(s) and dessert/sweets items typical of a Korean cafe setting (no people)\\nScene/backdrop: needs a Korean cafe interior or flat-lay surface context — exact backdrop is yours\\nLighting/mood: needs a soft, fashionable, cozy cafe atmosphere — exact light source mix is yours\\nColor palette: needs a light, airy, muted-pastel direction typical of Korean cafe aesthetics — exact tones are yours\\nMaterials/textures: needs the annotation layer to feel like white-pen hand-drawn lines — slightly uneven, single-stroke, rough quality — exact line weight is yours\\nText (verbatim): must include handwritten Japanese annotation text (7割ひらがな・3割かんじ) for each element following these rules:\\n  • 飲み物 → 味・温度・気持ち（例：「すっきり」「やさしい甘さ」）\\n  • 食べ物 → 食感・おいしさ（例：「しっとり」「さいこう」）\\n  • 空間 → 雰囲気（例：「ほっとする」「いい時間」）\\n  • 全体 → 一言まとめ（例：「しあわせすぎた〜」）\\n  Decoration: add subtle steam lines ☁, sparkles ✦, heart ♡, small emoji-like doodles — moderate, leaving breathing room / 余白\\nConstraints: must preserve hand-drawn outline traces around object silhouettes; annotations must feel like a personal diary / one-liner / emotional note; overall finish must feel Instagram-story × magazine rough-note style — fashionable yet casual\\nAvoid: overcrowded annotations; heavy or digital-looking text; people or human figures\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17070
+}

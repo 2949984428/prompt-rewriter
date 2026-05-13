@@ -1,0 +1,18 @@
+{
+  "query_idx": 6,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a movie poster for \"大话西游\" (A Chinese Odyssey), reimagined in 1990s Hong Kong cinema style, featuring the iconic rooftop embrace between Zhi Zunbao and Zixia with Niu Mowang and Tang Seng standing in the distance, with film grain texture.\n\nStyle/medium: 1990s Hong Kong cinema poster aesthetic with the romantic melancholy and saturated film grain of Wong Kar-wai's visual world\nComposition: the embracing couple as the emotional center, two distant figures anchoring the background depth, generous negative space for title treatment\nSubject: Zhi Zunbao and Zixia in their legendary rooftop embrace, Niu Mowang and Tang Seng standing apart in the far distance as witnesses\nScene/backdrop: ancient city wall at dusk, the sky bleeding from amber into deep violet\nLighting/mood: the golden hour of memory, tender and bittersweet, light catching the folds of flowing robes\nColor palette: saturated amber and violet in conversation, the warmth of nostalgia against the cool promise of separation\nMaterials/textures: 35mm film grain, the slight softness of projected celluloid, brushed silk of period costumes\nText (verbatim): 大话西游\nConstraints: \nAvoid: modern digital sharpness, contemporary design aesthetics, Western fantasy poster clichés",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_844618b4b5604698bb6d4f4b5c6a0724.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"Create a movie poster for \\\"大话西游\\\" (A Chinese Odyssey), reimagined in 1990s Hong Kong cinema style, featuring the iconic rooftop embrace between Zhi Zunbao and Zixia with Niu Mowang and Tang Seng standing in the distance, with film grain texture.\\n\\nStyle/medium: 1990s Hong Kong cinema poster aesthetic with the romantic melancholy and saturated film grain of Wong Kar-wai's visual world\\nComposition: the embracing couple as the emotional center, two distant figures anchoring the background depth, generous negative space for title treatment\\nSubject: Zhi Zunbao and Zixia in their legendary rooftop embrace, Niu Mowang and Tang Seng standing apart in the far distance as witnesses\\nScene/backdrop: ancient city wall at dusk, the sky bleeding from amber into deep violet\\nLighting/mood: the golden hour of memory, tender and bittersweet, light catching the folds of flowing robes\\nColor palette: saturated amber and violet in conversation, the warmth of nostalgia against the cool promise of separation\\nMaterials/textures: 35mm film grain, the slight softness of projected celluloid, brushed silk of period costumes\\nText (verbatim): 大话西游\\nConstraints: \\nAvoid: modern digital sharpness, contemporary design aesthetics, Western fantasy poster clichés\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12963
+}

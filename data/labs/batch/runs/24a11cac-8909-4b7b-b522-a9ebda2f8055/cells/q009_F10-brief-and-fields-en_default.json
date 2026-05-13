@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a photorealistic product shot of a sapphire diamond-encrusted ring, showcasing extreme close-up jewelry detail against a black velvet backdrop.\n\nStyle/medium: photorealistic macro jewelry photography, studio product shot in the spirit of high-end Cartier or Tiffany campaign imagery, hyper-detailed gemstone rendering\nComposition: extreme close-up macro framing, slight three-quarter angle to capture facet play, shallow depth of field with sharp focus on the sapphire center stone\nSubject: sapphire solitaire ring with diamond pavé setting, deep royal-blue sapphire center stone with vivid internal fire and light refraction, brilliant-cut diamonds catching and scattering light\nScene/backdrop: pure black velvet surface and background, seamless dark void that isolates the ring\nLighting/mood: focused studio spot lighting angled to trigger internal refraction within the sapphire, producing spectral fire — violet, cobalt, and electric-blue caustic flares inside the stone; secondary rim light to define the metal band edges; luxurious and opulent mood\nColor palette: deep royal blue as dominant anchor, white diamond sparkle as contrast, warm gold or cool platinum metal as structural tone, all against absolute black\nMaterials/textures: mirror-polished metal band with visible reflection, individual diamond facets with sharp light breaks, sapphire surface showing depth and internal light scatter, black velvet with subtle pile texture\nAvoid: plastic-looking gemstones, flat or dull stone color, overexposed blown-out highlights, generic jewelry render aesthetic, watermark, stuffer 8K tags",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/682590fc-502f-4b0a-8d5e-019934e3dac8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a photorealistic product shot of a sapphire diamond-encrusted ring, showcasing extreme close-up jewelry detail against a black velvet backdrop.\\n\\nStyle/medium: photorealistic macro jewelry photography, studio product shot in the spirit of high-end Cartier or Tiffany campaign imagery, hyper-detailed gemstone rendering\\nComposition: extreme close-up macro framing, slight three-quarter angle to capture facet play, shallow depth of field with sharp focus on the sapphire center stone\\nSubject: sapphire solitaire ring with diamond pavé setting, deep royal-blue sapphire center stone with vivid internal fire and light refraction, brilliant-cut diamonds catching and scattering light\\nScene/backdrop: pure black velvet surface and background, seamless dark void that isolates the ring\\nLighting/mood: focused studio spot lighting angled to trigger internal refraction within the sapphire, producing spectral fire — violet, cobalt, and electric-blue caustic flares inside the stone; secondary rim light to define the metal band edges; luxurious and opulent mood\\nColor palette: deep royal blue as dominant anchor, white diamond sparkle as contrast, warm gold or cool platinum metal as structural tone, all against absolute black\\nMaterials/textures: mirror-polished metal band with visible reflection, individual diamond facets with sharp light breaks, sapphire surface showing depth and internal light scatter, black velvet with subtle pile texture\\nAvoid: plastic-looking gemstones, flat or dull stone color, overexposed blown-out highlights, generic jewelry render aesthetic, watermark, stuffer 8K tags\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12468
+}

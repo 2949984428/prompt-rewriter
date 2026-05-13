@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an Instagram-style photo of stylish coffee and dessert in a Korean cafe setting (all in-image text in Japanese).\n\nStyle/medium: needs a \"Korean cafe Instagram aesthetic\" — references in the spirit of 2010s Korean cafe interior photography, Japanese magazine \"MORE\" editorial spreads, Instagram flat-lay culture; exact stylistic execution is yours\nComposition: must be smartphone-shot angle, no human subjects visible\nSubject: must include coffee beverage and dessert items as focal subjects\nScene/backdrop: must be Korean cafe interior setting\nLighting/mood: needs a bright, airy atmosphere suitable for Instagram — exact light source mix is yours\nColor palette: needs a warm, muted pastel direction — exact hex values are yours\nMaterials/textures: needs a clean, slightly glossy surface treatment — exact sheen is yours\nText (verbatim): must include handwritten Japanese annotations (70% hiragana, 30% simple kanji) with diary-style comments:\n  - 饮料: 味道・温度・心情 (例: 清爽、温柔的甜味)\n  - 食物: 口感・美味 (例: 湿润、最高)\n  - 空间: 氛围 (例: 放松、美好时光)\n  - 整体: 一言总结 (例: 幸福过头了～)\nConstraints: must include all in-image text in Japanese by default; must preserve white fine hand-drawn line style, rough uneven single-stroke quality, outline tracing around objects, arrows and dotted lines for eye guidance, steam/sparkles/hearts/small emoticons as decoration with intentional留白 (white space), Instagram story meets magazine rough-note aesthetic, fashionable yet relaxed mood\nAvoid: must avoid human subjects, must avoid over-decoration without留白",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e3b8dece-023a-4cde-89cf-ecd75b002489/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an Instagram-style photo of stylish coffee and dessert in a Korean cafe setting (all in-image text in Japanese).\\n\\nStyle/medium: needs a \\\"Korean cafe Instagram aesthetic\\\" — references in the spirit of 2010s Korean cafe interior photography, Japanese magazine \\\"MORE\\\" editorial spreads, Instagram flat-lay culture; exact stylistic execution is yours\\nComposition: must be smartphone-shot angle, no human subjects visible\\nSubject: must include coffee beverage and dessert items as focal subjects\\nScene/backdrop: must be Korean cafe interior setting\\nLighting/mood: needs a bright, airy atmosphere suitable for Instagram — exact light source mix is yours\\nColor palette: needs a warm, muted pastel direction — exact hex values are yours\\nMaterials/textures: needs a clean, slightly glossy surface treatment — exact sheen is yours\\nText (verbatim): must include handwritten Japanese annotations (70% hiragana, 30% simple kanji) with diary-style comments:\\n  - 饮料: 味道・温度・心情 (例: 清爽、温柔的甜味)\\n  - 食物: 口感・美味 (例: 湿润、最高)\\n  - 空间: 氛围 (例: 放松、美好时光)\\n  - 整体: 一言总结 (例: 幸福过头了～)\\nConstraints: must include all in-image text in Japanese by default; must preserve white fine hand-drawn line style, rough uneven single-stroke quality, outline tracing around objects, arrows and dotted lines for eye guidance, steam/sparkles/hearts/small emoticons as decoration with intentional留白 (white space), Instagram story meets magazine rough-note aesthetic, fashionable yet relaxed mood\\nAvoid: must avoid human subjects, must avoid over-decoration without留白\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17758
+}

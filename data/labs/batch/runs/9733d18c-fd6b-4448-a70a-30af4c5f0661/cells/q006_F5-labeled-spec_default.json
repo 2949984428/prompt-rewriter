@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration\nAsset type: children's picture book illustration, suitable for ages 3-8\nPrimary request: a cute red panda wearing round glasses and blue striped overalls reading a book in a cozy treehouse library\nScene/backdrop: warm treehouse library interior with wooden shelves filled with colorful books, round windows showing golden autumn forest outside\nSubject: red panda with round glasses and blue striped overalls, sitting on a beanbag chair holding an open book\nStyle/medium: children's book illustration, cute and whimsical, rounded smooth lines, bright saturated colors\nComposition/framing: medium shot showing the treehouse interior, cozy and inviting atmosphere\nLighting/mood: warm sunlight streaming through round windows creating soft light spots on pages, cozy and heartwarming\nColor palette: warm golden yellows + soft browns + bright blues + autumn oranges + cozy cream whites\nMaterials/textures: soft fabric beanbag, glossy book covers, wooden textures, fluffy fur\nConstraints: keep the red panda as main character with round glasses and blue striped overalls, maintain cute rounded style suitable for young children\nAvoid: realistic proportions, sharp angles, dark shadows, complex details overwhelming for children, photorealistic rendering",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c8b4904b-e9af-4651-8e70-85502ec1c571/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: illustration\\nAsset type: children's picture book illustration, suitable for ages 3-8\\nPrimary request: a cute red panda wearing round glasses and blue striped overalls reading a book in a cozy treehouse library\\nScene/backdrop: warm treehouse library interior with wooden shelves filled with colorful books, round windows showing golden autumn forest outside\\nSubject: red panda with round glasses and blue striped overalls, sitting on a beanbag chair holding an open book\\nStyle/medium: children's book illustration, cute and whimsical, rounded smooth lines, bright saturated colors\\nComposition/framing: medium shot showing the treehouse interior, cozy and inviting atmosphere\\nLighting/mood: warm sunlight streaming through round windows creating soft light spots on pages, cozy and heartwarming\\nColor palette: warm golden yellows + soft browns + bright blues + autumn oranges + cozy cream whites\\nMaterials/textures: soft fabric beanbag, glossy book covers, wooden textures, fluffy fur\\nConstraints: keep the red panda as main character with round glasses and blue striped overalls, maintain cute rounded style suitable for young children\\nAvoid: realistic proportions, sharp angles, dark shadows, complex details overwhelming for children, photorealistic rendering\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11291
+}

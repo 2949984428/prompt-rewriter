@@ -1,0 +1,23 @@
+{
+  "query_idx": 44,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "将图1 [@image:#1: Image]纯黑色的矢量 logo 的动作换为图2 [@image:#2: Image]的动作，造型完全和图 2 一致，没有任何破绽，马的脚和尾巴以及人物打球的姿势，球杆的位置，握紧球杆的手。高质量的 logo 设计作品，大师级。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9daa2210-2f49-456e-a2aa-17d5164e14cc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"将图1 [@image:#1: Image]纯黑色的矢量 logo 的动作换为图2 [@image:#2: Image]的动作，造型完全和图 2 一致，没有任何破绽，马的脚和尾巴以及人物打球的姿势，球杆的位置，握紧球杆的手。高质量的 logo 设计作品，大师级。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3667,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

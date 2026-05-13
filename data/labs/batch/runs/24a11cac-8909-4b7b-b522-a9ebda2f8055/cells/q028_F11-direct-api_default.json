@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张专业健身房场景，肌肉线条分明的运动员正在做硬拉，汗水和力量的美感，工业风装修，冷色调灯光，充满阳刚之气",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3d58cbba-f473-47cb-a22d-27943325f27a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一张专业健身房场景，肌肉线条分明的运动员正在做硬拉，汗水和力量的美感，工业风装修，冷色调灯光，充满阳刚之气\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2933
+}

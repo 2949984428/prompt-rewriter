@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张纪实摄影风格的街头人文，印度瓦拉纳西的恒河晨浴，虔诚的信徒，晨雾中的船只，暖色调的阳光，充满异域文化气息",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6eae4fc3-9490-4c27-ac6c-ad776f7b5750/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

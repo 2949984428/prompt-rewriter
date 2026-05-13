@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a panoramic scroll painting of the Lantern Festival in Tang Dynasty Chang'an, with thousands of lanterns illuminating the night sky.\n\nStyle/medium: traditional Chinese gongbi zhongcai (meticulous brushwork with heavy colors), handscroll format in the spirit of Qingming Shanghe Tu, ink and mineral pigments on silk\nComposition: horizontal bird's-eye view sweeping across the entire cityscape, elevated vantage point revealing streets and architecture in layers\nSubject: Tang Dynasty Chang'an city during Lantern Festival, thousands of hanging lanterns in various shapes and sizes, crowds of people in traditional hanfu, palace buildings and pagodas\nScene/backdrop: ancient Chinese capital city at night, imperial palace in the distance, market streets lined with lantern stalls, willow trees along the river\nLighting/mood: warm golden glow from countless lanterns reflecting on faces and streets, deep indigo night sky as contrast, festive and prosperous atmosphere\nColor palette: rich mineral reds and golds from lanterns as dominant warm tones, deep blues and blacks for night sky and shadows, subtle greens for architectural details\nMaterials/textures: smooth silk surface with visible brushwork, layered mineral pigments creating depth, fine line work defining architectural elements\nAvoid: modern electric lighting, anachronistic clothing or objects, photographic realism, Western perspective distortion, plastic textures",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0cac9056-a023-4949-af7e-400c8df3974c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a panoramic scroll painting of the Lantern Festival in Tang Dynasty Chang'an, with thousands of lanterns illuminating the night sky.\\n\\nStyle/medium: traditional Chinese gongbi zhongcai (meticulous brushwork with heavy colors), handscroll format in the spirit of Qingming Shanghe Tu, ink and mineral pigments on silk\\nComposition: horizontal bird's-eye view sweeping across the entire cityscape, elevated vantage point revealing streets and architecture in layers\\nSubject: Tang Dynasty Chang'an city during Lantern Festival, thousands of hanging lanterns in various shapes and sizes, crowds of people in traditional hanfu, palace buildings and pagodas\\nScene/backdrop: ancient Chinese capital city at night, imperial palace in the distance, market streets lined with lantern stalls, willow trees along the river\\nLighting/mood: warm golden glow from countless lanterns reflecting on faces and streets, deep indigo night sky as contrast, festive and prosperous atmosphere\\nColor palette: rich mineral reds and golds from lanterns as dominant warm tones, deep blues and blacks for night sky and shadows, subtle greens for architectural details\\nMaterials/textures: smooth silk surface with visible brushwork, layered mineral pigments creating depth, fine line work defining architectural elements\\nAvoid: modern electric lighting, anachronistic clothing or objects, photographic realism, Western perspective distortion, plastic textures\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11757
+}

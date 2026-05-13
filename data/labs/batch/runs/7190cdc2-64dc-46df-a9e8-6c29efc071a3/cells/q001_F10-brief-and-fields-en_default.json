@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original editorial photo of a young woman in traditional Hanfu standing on a stone arch bridge in a Jiangnan water town.\n\nStyle/medium: Chinese gongbi painting meets xieyi ink wash, delicate brushwork with soft ink diffusion, Eastern aesthetic sensibility\nComposition: medium shot at eye level, woman centered on stone arch bridge, umbrella framing face, river and boat in lower third\nSubject: young woman in traditional Hanfu, holding an oil-paper umbrella painted with blue-and-white porcelain patterns, umbrella partially covering face, gentle and distant gaze\nScene/backdrop: Jiangnan water town, stone arch bridge over flowing river, black-awning boat passing underneath, boatman wearing bamboo hat, white-walled Hui-style architecture with dark tiles reflected in water, pink walls covered in green ivy, wooden window lattices carved with floral and bird motifs\nLighting/mood: overcast sky with dense clouds, fine drizzle like silk threads, misty rain atmosphere enveloping the scene, soft and ethereal mood\nColor palette: muted and elegant tones, soft grays and blues as base, warm touches of traditional Hanfu colors as accent, ink wash gradations\nMaterials/textures: flowing silk fabric of Hanfu, oiled paper texture of umbrella, weathered stone of bridge, smooth water surface with reflections, carved wood grain of window lattices\nAvoid: saturated neon colors, harsh shadows, modern elements, western architectural details, oversharpening, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/02f2077f-76e7-497e-97ec-54dc4f560ef1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original editorial photo of a young woman in traditional Hanfu standing on a stone arch bridge in a Jiangnan water town.\\n\\nStyle/medium: Chinese gongbi painting meets xieyi ink wash, delicate brushwork with soft ink diffusion, Eastern aesthetic sensibility\\nComposition: medium shot at eye level, woman centered on stone arch bridge, umbrella framing face, river and boat in lower third\\nSubject: young woman in traditional Hanfu, holding an oil-paper umbrella painted with blue-and-white porcelain patterns, umbrella partially covering face, gentle and distant gaze\\nScene/backdrop: Jiangnan water town, stone arch bridge over flowing river, black-awning boat passing underneath, boatman wearing bamboo hat, white-walled Hui-style architecture with dark tiles reflected in water, pink walls covered in green ivy, wooden window lattices carved with floral and bird motifs\\nLighting/mood: overcast sky with dense clouds, fine drizzle like silk threads, misty rain atmosphere enveloping the scene, soft and ethereal mood\\nColor palette: muted and elegant tones, soft grays and blues as base, warm touches of traditional Hanfu colors as accent, ink wash gradations\\nMaterials/textures: flowing silk fabric of Hanfu, oiled paper texture of umbrella, weathered stone of bridge, smooth water surface with reflections, carved wood grain of window lattices\\nAvoid: saturated neon colors, harsh shadows, modern elements, western architectural details, oversharpening, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12817
+}

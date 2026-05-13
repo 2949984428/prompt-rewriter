@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-art\nAsset type: editorial illustration, wall art print\nPrimary request: watercolor painting of Provence lavender fields in a European village\nScene/backdrop: French countryside, rolling lavender fields stretching to distant hills, winding gravel path, tall cypress trees lining the road, ancient stone mill with orange roof on hillside\nSubject: elderly farmer wearing straw hat working in lavender field, wooden wheelbarrow filled with lavender bundles in foreground\nStyle/medium: transparent watercolor technique, light and airy brushstrokes, luminous color washes, illustration style\nComposition/framing: wide landscape composition, foreground subject with depth to distant hills, pastoral scene\nLighting/mood: bright sunny day, warm and romantic French pastoral atmosphere, healing and cozy mood\nColor palette: translucent purple lavender, azure blue sky, lush greens, warm orange roof accents, fluffy white clouds, harmonious color harmony\nMaterials/textures: wet-on-wet watercolor washes, visible paper texture, delicate brushwork, soft color gradients\nConstraints: maintain watercolor transparency and lightness, preserve the romantic Provence aesthetic\nAvoid: photorealistic rendering, heavy opaque colors, digital-looking smooth gradients, cluttered composition",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6cb5b639-2b0c-4bba-83ae-c515c3d16514/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-art\\nAsset type: editorial illustration, wall art print\\nPrimary request: watercolor painting of Provence lavender fields in a European village\\nScene/backdrop: French countryside, rolling lavender fields stretching to distant hills, winding gravel path, tall cypress trees lining the road, ancient stone mill with orange roof on hillside\\nSubject: elderly farmer wearing straw hat working in lavender field, wooden wheelbarrow filled with lavender bundles in foreground\\nStyle/medium: transparent watercolor technique, light and airy brushstrokes, luminous color washes, illustration style\\nComposition/framing: wide landscape composition, foreground subject with depth to distant hills, pastoral scene\\nLighting/mood: bright sunny day, warm and romantic French pastoral atmosphere, healing and cozy mood\\nColor palette: translucent purple lavender, azure blue sky, lush greens, warm orange roof accents, fluffy white clouds, harmonious color harmony\\nMaterials/textures: wet-on-wet watercolor washes, visible paper texture, delicate brushwork, soft color gradients\\nConstraints: maintain watercolor transparency and lightness, preserve the romantic Provence aesthetic\\nAvoid: photorealistic rendering, heavy opaque colors, digital-looking smooth gradients, cluttered composition\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9867
+}

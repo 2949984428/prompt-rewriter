@@ -1,0 +1,24 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 工笔重彩 horizontal scroll painting of the 元宵灯会 in 唐代长安城.\n\nStyle/medium: needs a 工笔重彩长卷 aesthetic — exact brushwork fineness and pigment layering are yours\nComposition: must be a panoramic horizontal scroll (长卷) format\nSubject: must include the 元宵灯会 scene with 万盏花灯 illuminating the night sky\nScene/backdrop: must include 唐代长安城 at night as the setting\nLighting/mood: needs a lantern-lit night atmosphere with warm, glowing light across the scene — exact light distribution is yours\nColor palette: needs a rich, luminous direction befitting 重彩 — exact pigment choices and ratios are yours\nMaterials/textures: needs a traditional Chinese painting surface treatment — exact silk or paper texture is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3985b3e4-7960-4832-bae7-555eb7b52c17/0.jpg",
+    "/api/image-file/lovart%3A3985b3e4-7960-4832-bae7-555eb7b52c17/1.jpg",
+    "/api/image-file/lovart%3A3985b3e4-7960-4832-bae7-555eb7b52c17/2.jpg",
+    "/api/image-file/lovart%3A3985b3e4-7960-4832-bae7-555eb7b52c17/3.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 工笔重彩 horizontal scroll painting of the 元宵灯会 in 唐代长安城.\\n\\nStyle/medium: needs a 工笔重彩长卷 aesthetic — exact brushwork fineness and pigment layering are yours\\nComposition: must be a panoramic horizontal scroll (长卷) format\\nSubject: must include the 元宵灯会 scene with 万盏花灯 illuminating the night sky\\nScene/backdrop: must include 唐代长安城 at night as the setting\\nLighting/mood: needs a lantern-lit night atmosphere with warm, glowing light across the scene — exact light distribution is yours\\nColor palette: needs a rich, luminous direction befitting 重彩 — exact pigment choices and ratios are yours\\nMaterials/textures: needs a traditional Chinese painting surface treatment — exact silk or paper texture is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7310
+}

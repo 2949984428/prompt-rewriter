@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an architectural concept illustration of a futuristic sustainable city with a streamlined white building floating mid-air.\n\nStyle/medium: photorealistic architectural concept render, clean editorial illustration in the spirit of Zaha Hadid Architects' visionary renderings\nComposition: wide-angle mid-distance view, slightly elevated angle, building centered with sky and cityscape as backdrop, generous negative space above\nSubject: sleek streamlined white building suspended in the air, smooth organic curves, large transparent glass surfaces, clean energy installations (solar panels, wind turbines integrated into structure), surrounded by autonomous drones in flight and holographic projection displays\nScene/backdrop: open sky environment, distant urban skyline below, soft atmospheric haze suggesting elevated altitude\nLighting/mood: bright diffused daylight, soft shadows, optimistic and visionary tone evoking a clean sustainable future\nColor palette: dominant white and light grey for the building, sky blue as backdrop, translucent cyan and electric blue for holographic projections, green accents for vegetation and clean energy elements\nMaterials/textures: smooth matte white composite panels, reflective glass surfaces, subtle metallic trim on drone bodies\nAvoid: dystopian darkness, heavy industrial pollution, cluttered composition, generic sci-fi neon overload, deformed building geometry, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/25972f4c-ed4b-497f-ae87-373484b948d1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an architectural concept illustration of a futuristic sustainable city with a streamlined white building floating mid-air.\\n\\nStyle/medium: photorealistic architectural concept render, clean editorial illustration in the spirit of Zaha Hadid Architects' visionary renderings\\nComposition: wide-angle mid-distance view, slightly elevated angle, building centered with sky and cityscape as backdrop, generous negative space above\\nSubject: sleek streamlined white building suspended in the air, smooth organic curves, large transparent glass surfaces, clean energy installations (solar panels, wind turbines integrated into structure), surrounded by autonomous drones in flight and holographic projection displays\\nScene/backdrop: open sky environment, distant urban skyline below, soft atmospheric haze suggesting elevated altitude\\nLighting/mood: bright diffused daylight, soft shadows, optimistic and visionary tone evoking a clean sustainable future\\nColor palette: dominant white and light grey for the building, sky blue as backdrop, translucent cyan and electric blue for holographic projections, green accents for vegetation and clean energy elements\\nMaterials/textures: smooth matte white composite panels, reflective glass surfaces, subtle metallic trim on drone bodies\\nAvoid: dystopian darkness, heavy industrial pollution, cluttered composition, generic sci-fi neon overload, deformed building geometry, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13097
+}

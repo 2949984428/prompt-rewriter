@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "📋 品牌资产清单\n1. 标志系统（3个）\n \n主标志：Evergreen   完整 logo（图标+文字）\n叶子图标：独立的品牌图标元素\n文字标识：纯文字版本的品牌名称\n2. 字体系统\n \n标题字体：Poppins（用于标题和重点文字）\n正文字体：Montserrat（用于正文和说明文字）\n3. 品牌理念\n \n品牌使命：Evergreen   是一个生活方式补水品牌，通过设计精美的产品，旨在日常生活中提升平衡、健康和可持续性\n核心价值：平衡、目的、健康、冒险、可持续性\n4. 色彩系统\n \n🔵 天空蓝 #A3CEF1（主色）\n💗 粉紫色 #F1B2DC（辅助色）\n⚪ 银色金属   #C0C0C0（点缀色）\n5. 视觉参考（4张）\n \n户外生活方式摄影\n工作室产品摄影\n水纹理素材\n叶子纹理素材\n \n画一个该品牌水杯产品的亚马逊产品套图",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ae17cc4c-fc83-4cf5-ad15-6b91ab24034f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

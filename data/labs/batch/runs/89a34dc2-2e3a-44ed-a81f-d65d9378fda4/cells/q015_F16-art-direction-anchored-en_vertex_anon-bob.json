@@ -1,0 +1,23 @@
+{
+  "query_idx": 15,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑图二（全民logo-02）。\n\n风格/媒介:\n构图:\n主体:图二的所有元素保持不变\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n  将图一（国风超有戏）的材质质感迁移到图二上\n  图二中蓝色笔画呈现丝绸质感\n文字(原样):\n约束:图二的构图、元素、布局完全保持不变，仅做材质质感迁移\n避免:改变图二的任何元素、颜色或构图",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2bb474b4-08e5-4963-9a7a-ced2b8f2158f/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑图二（全民logo-02）。\\n\\n风格/媒介:\\n构图:\\n主体:图二的所有元素保持不变\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n  将图一（国风超有戏）的材质质感迁移到图二上\\n  图二中蓝色笔画呈现丝绸质感\\n文字(原样):\\n约束:图二的构图、元素、布局完全保持不变，仅做材质质感迁移\\n避免:改变图二的任何元素、颜色或构图\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 4882,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

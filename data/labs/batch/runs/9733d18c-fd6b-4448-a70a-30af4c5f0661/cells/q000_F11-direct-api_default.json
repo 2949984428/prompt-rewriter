@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "在一片广袤的原始森林深处，清晨的第一缕阳光穿透浓密的树冠，形成丁达尔光柱，照射在布满青苔的古老岩石上。林间薄雾缭绕，远处有一条清澈的山涧溪流蜿蜒流淌，水面倒映着周围翠绿的植被。画面前景是几株蕨类植物和野生蘑菇，中景是高耸入云的红杉树干，背景是若隐若现的山峦轮廓。整体色调以深绿、翠绿、金黄为主，光影层次丰富，营造出一种神秘而宁静的自然氛围。摄影风格，超高清，8K分辨率，广角镜头，景深效果明显。",
+    "size": "2048x2048",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6b4fa04b-c442-4f50-948a-d0e89f484d9d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

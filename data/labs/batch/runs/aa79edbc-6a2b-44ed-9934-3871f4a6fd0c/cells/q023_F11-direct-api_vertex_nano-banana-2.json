@@ -1,0 +1,23 @@
+{
+  "query_idx": 23,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a premium minimalist architectural logo for BAU in uppercase. Create a refined geometric wordmark with clean spacing, sharp typography, and a timeless European design-bureau aesthetic. The identity should feel modern, sophisticated, precise, and high-end, suitable for an architecture, interior design, and construction brand. Use a monochrome palette such as black and ivory. Avoid cliché house icons, tools, gradients, and playful effects. Focus on elegant typography, subtle custom letter details, and a calm luxury editorial feel.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A24ace5cd-b454-4211-a717-5af6172b321c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a premium minimalist architectural logo for BAU in uppercase. Create a refined geometric wordmark with clean spacing, sharp typography, and a timeless European design-bureau aesthetic. The identity should feel modern, sophisticated, precise, and high-end, suitable for an architecture, interior design, and construction brand. Use a monochrome palette such as black and ivory. Avoid cliché house icons, tools, gradients, and playful effects. Focus on elegant typography, subtle custom letter details, and a calm luxury editorial feel.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4121,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

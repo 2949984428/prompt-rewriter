@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing single large knowledge card for children explaining the story of the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms period.\n\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\nComposition: must be a single large card layout with a clear title at top, cartoon story scene as the main visual, and bullet-point key facts listed alongside\nSubject: must include the Battle of Red Cliffs (赤壁之战) as the central subject, depicted through cartoon characters and naval battle scene\nScene/backdrop: must include a river battle scene evoking the 赤壁 setting with fire, warships, and dramatic action\nLighting/mood: needs a vivid, energetic atmosphere suitable for children — exact light treatment is yours\nColor palette: needs a bright, child-friendly direction — exact color choices are yours\nMaterials/textures: \nText (verbatim): must include \"赤壁之战\" as the card title (large, prominent)\nConstraints: must preserve single-card format; bullet-point key facts must be clearly listed alongside the illustration; content must be age-appropriate for children\nAvoid: must avoid overly dark or violent imagery; avoid adult-complexity visual style",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/86b63c39-6967-4499-a8dc-137034233395/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing single large knowledge card for children explaining the story of the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms period.\\n\\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\\nComposition: must be a single large card layout with a clear title at top, cartoon story scene as the main visual, and bullet-point key facts listed alongside\\nSubject: must include the Battle of Red Cliffs (赤壁之战) as the central subject, depicted through cartoon characters and naval battle scene\\nScene/backdrop: must include a river battle scene evoking the 赤壁 setting with fire, warships, and dramatic action\\nLighting/mood: needs a vivid, energetic atmosphere suitable for children — exact light treatment is yours\\nColor palette: needs a bright, child-friendly direction — exact color choices are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"赤壁之战\\\" as the card title (large, prominent)\\nConstraints: must preserve single-card format; bullet-point key facts must be clearly listed alongside the illustration; content must be age-appropriate for children\\nAvoid: must avoid overly dark or violent imagery; avoid adult-complexity visual style\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9052
+}

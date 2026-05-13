@@ -1,0 +1,23 @@
+{
+  "query_idx": 19,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计品牌 Logo —— 千亿家 / Qianyi Haven。\n\n风格/媒介: 简约 logo 设计，矢量风格\n构图: 图形与品牌名称组合排布，图文结合\n主体: 简约猫咪造型与\"家\"的元素融合为一体的 logo 图形\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样): 千亿家　Qianyi Haven\n约束: logo 图形需同时体现猫咪与家的意象，文字与图形组合呈现\n避免: 写实风格、复杂装饰、多余背景",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2e27de2d-bd09-46e0-b9f6-cb3beeed13f2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计品牌 Logo —— 千亿家 / Qianyi Haven。\\n\\n风格/媒介: 简约 logo 设计，矢量风格\\n构图: 图形与品牌名称组合排布，图文结合\\n主体: 简约猫咪造型与\\\"家\\\"的元素融合为一体的 logo 图形\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样): 千亿家　Qianyi Haven\\n约束: logo 图形需同时体现猫咪与家的意象，文字与图形组合呈现\\n避免: 写实风格、复杂装饰、多余背景\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 6365,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

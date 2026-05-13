@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial travel photo, wide landscape crop\nPrimary request: luxury infinity pool overlooking the ocean in a tropical resort setting\nScene/backdrop: tropical beachside hotel, infinity pool edge merging with deep blue sea horizon, open sky\nSubject: infinity pool with crystal-clear turquoise water, sun loungers with white cushions, colorful beach umbrellas, tall coconut palm trees lining the pool deck\nStyle/medium: photorealistic travel editorial photography\nComposition/framing: wide-angle shot, slight low angle, pool in foreground leading eye to ocean horizon\nLighting/mood: bright midday tropical sun, warm and inviting, vibrant and energetic holiday atmosphere\nColor palette: vivid turquoise pool water, deep sapphire ocean, bright white clouds, lush tropical green palms, warm sandy beige deck, pops of coral and yellow from umbrellas\nMaterials/textures: smooth stone pool deck, reflective water surface with caustic light patterns, textured palm fronds, soft cushion fabric\nConstraints: no people required, keep infinity edge clearly visible merging with sea horizon\nAvoid: overcast sky, muted desaturated tones, cluttered composition, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/24c73f0b-a4fa-4ebe-b7ce-6e75ae1c2708/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial travel photo, wide landscape crop\\nPrimary request: luxury infinity pool overlooking the ocean in a tropical resort setting\\nScene/backdrop: tropical beachside hotel, infinity pool edge merging with deep blue sea horizon, open sky\\nSubject: infinity pool with crystal-clear turquoise water, sun loungers with white cushions, colorful beach umbrellas, tall coconut palm trees lining the pool deck\\nStyle/medium: photorealistic travel editorial photography\\nComposition/framing: wide-angle shot, slight low angle, pool in foreground leading eye to ocean horizon\\nLighting/mood: bright midday tropical sun, warm and inviting, vibrant and energetic holiday atmosphere\\nColor palette: vivid turquoise pool water, deep sapphire ocean, bright white clouds, lush tropical green palms, warm sandy beige deck, pops of coral and yellow from umbrellas\\nMaterials/textures: smooth stone pool deck, reflective water surface with caustic light patterns, textured palm fronds, soft cushion fabric\\nConstraints: no people required, keep infinity edge clearly visible merging with sea horizon\\nAvoid: overcast sky, muted desaturated tones, cluttered composition, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 8731
+}

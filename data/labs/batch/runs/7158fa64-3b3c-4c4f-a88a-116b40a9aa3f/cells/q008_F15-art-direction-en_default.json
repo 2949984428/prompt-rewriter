@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for cross-border e-commerce promotion.\n\nStyle/medium: needs a layered typography aesthetic with artistic lettering — exact stylistic execution and font choices are yours\nComposition: must be 16:9 aspect ratio, must include layered/stacked typography arrangement, must include products or main subjects partially overlapping/obscuring some text elements\nSubject: must include promotional products or main visual subjects as focal elements\nScene/backdrop: \nLighting/mood: needs a promotional energy — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must include artistic lettering, must include stacked/layered typography, must maintain visual complexity without appearing cluttered, must have products or subjects partially blocking some text\nAvoid: must avoid visual clutter despite complexity",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a454a452-7e57-4ac9-991f-b930a4456c80/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for cross-border e-commerce promotion.\\n\\nStyle/medium: needs a layered typography aesthetic with artistic lettering — exact stylistic execution and font choices are yours\\nComposition: must be 16:9 aspect ratio, must include layered/stacked typography arrangement, must include products or main subjects partially overlapping/obscuring some text elements\\nSubject: must include promotional products or main visual subjects as focal elements\\nScene/backdrop: \\nLighting/mood: needs a promotional energy — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include artistic lettering, must include stacked/layered typography, must maintain visual complexity without appearing cluttered, must have products or subjects partially blocking some text\\nAvoid: must avoid visual clutter despite complexity\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12723
+}

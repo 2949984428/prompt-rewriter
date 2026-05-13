@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: editorial product shot, luxury magazine ad or e-commerce hero image\nPrimary request: minimalist product photography of a high-end perfume bottle with architectural geometric aesthetics\nScene/backdrop: pure white marble pedestal, gradient off-white background with ample negative space\nSubject: luxury perfume bottle with irregular polyhedral cut design, ultra-transparent glass material, pale amber liquid inside, matte black metal cap with embossed brand logo relief pattern\nStyle/medium: minimalist product photography, clean and restrained, luxury editorial aesthetic\nComposition/framing: centered composition, generous negative space, square crop\nLighting/mood: soft diffused light from upper left, creating delicate refractive spectrum on the glass surface, high-key elegant atmosphere\nColor palette: cool neutral tones, pure white marble, pale amber liquid, matte black accents, off-white gradient background\nMaterials/textures: ultra-transparent glass with refractive properties, matte black metal with embossed relief, smooth white marble surface\nConstraints: keep the bottle as the sole focal point, maintain clean and minimal aesthetic, preserve the geometric polyhedral cut design\nAvoid: cluttered background, harsh shadows, oversaturated colors, busy props, plastic-looking materials",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/96538235-f46f-4e08-be12-dc4c02c21201/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: editorial product shot, luxury magazine ad or e-commerce hero image\\nPrimary request: minimalist product photography of a high-end perfume bottle with architectural geometric aesthetics\\nScene/backdrop: pure white marble pedestal, gradient off-white background with ample negative space\\nSubject: luxury perfume bottle with irregular polyhedral cut design, ultra-transparent glass material, pale amber liquid inside, matte black metal cap with embossed brand logo relief pattern\\nStyle/medium: minimalist product photography, clean and restrained, luxury editorial aesthetic\\nComposition/framing: centered composition, generous negative space, square crop\\nLighting/mood: soft diffused light from upper left, creating delicate refractive spectrum on the glass surface, high-key elegant atmosphere\\nColor palette: cool neutral tones, pure white marble, pale amber liquid, matte black accents, off-white gradient background\\nMaterials/textures: ultra-transparent glass with refractive properties, matte black metal with embossed relief, smooth white marble surface\\nConstraints: keep the bottle as the sole focal point, maintain clean and minimal aesthetic, preserve the geometric polyhedral cut design\\nAvoid: cluttered background, harsh shadows, oversaturated colors, busy props, plastic-looking materials\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10563
+}

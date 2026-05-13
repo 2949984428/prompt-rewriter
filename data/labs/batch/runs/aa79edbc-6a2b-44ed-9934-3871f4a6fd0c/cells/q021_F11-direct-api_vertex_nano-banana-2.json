@@ -1,0 +1,23 @@
+{
+  "query_idx": 21,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image]将图1做简化，线条和色块更清晰，然后和文字“泰香记”相结合的logo设计，要求有新中式的风格，",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A14adf6d7-4ff9-4568-bd7e-c43adee1f609/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image]将图1做简化，线条和色块更清晰，然后和文字\\\"泰香记\\\"相结合的logo设计，要求有新中式的风格，\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3332,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "参考图放到一个家庭电视背景墙下的柜子上，要求聚焦产品，不突儿",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cc7ff959-0fba-4fba-9336-bb7ba2d1b02c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

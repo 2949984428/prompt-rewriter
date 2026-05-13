@@ -1,0 +1,20 @@
+{
+  "query_idx": 32,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original surrealist dream-scene illustration (all in-image text in Chinese).\n\nStyle/medium: needs a \"超现实主义\" aesthetic — references in the spirit of Salvador Dalí's melting-object iconography, René Magritte's philosophical visual paradoxes, 1970s surrealist science-fiction book cover illustration; exact stylistic execution is yours\nComposition: needs a grand, vertically expansive composition with multiple surreal elements layered across sky and sea — exact framing and depth arrangement is yours\nSubject: must include all of the following surreal elements:\n  - a colossal moon rising from the ocean surface\n  - whales flying through the sky\n  - melting clocks\n  - a staircase ascending into the clouds\nScene/backdrop: must include an ocean surface below and a vast sky above, merging into a dreamlike space\nLighting/mood: needs a philosophical, visually striking atmosphere with dreamlike luminosity — exact light source mix is yours\nColor palette: needs a direction evoking depth and otherworldliness — exact hues and ratios are yours\nMaterials/textures: needs a painterly or rendered surface treatment — exact medium weight is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: must avoid generic fantasy clichés; must avoid flat or cartoonish rendering that undercuts the philosophical weight",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8e163b16-fb4c-49a0-99e0-bd2f82c34e47/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original surrealist dream-scene illustration (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"超现实主义\\\" aesthetic — references in the spirit of Salvador Dalí's melting-object iconography, René Magritte's philosophical visual paradoxes, 1970s surrealist science-fiction book cover illustration; exact stylistic execution is yours\\nComposition: needs a grand, vertically expansive composition with multiple surreal elements layered across sky and sea — exact framing and depth arrangement is yours\\nSubject: must include all of the following surreal elements:\\n  - a colossal moon rising from the ocean surface\\n  - whales flying through the sky\\n  - melting clocks\\n  - a staircase ascending into the clouds\\nScene/backdrop: must include an ocean surface below and a vast sky above, merging into a dreamlike space\\nLighting/mood: needs a philosophical, visually striking atmosphere with dreamlike luminosity — exact light source mix is yours\\nColor palette: needs a direction evoking depth and otherworldliness — exact hues and ratios are yours\\nMaterials/textures: needs a painterly or rendered surface treatment — exact medium weight is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: must avoid generic fantasy clichés; must avoid flat or cartoonish rendering that undercuts the philosophical weight\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11132
+}

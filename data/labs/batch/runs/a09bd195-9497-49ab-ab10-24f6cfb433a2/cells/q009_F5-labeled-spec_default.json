@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: luxury jewelry catalog shot, 1:1 square crop\nPrimary request: hyper-realistic macro close-up of a sapphire ring with diamond halo, fire and brilliance visible inside the gemstone\nScene/backdrop: pure black velvet fabric, seamless and texture-rich\nSubject: cushion-cut deep blue sapphire center stone, surrounded by pavé-set brilliant-cut diamonds, platinum or white gold band with intricate milgrain detail\nStyle/medium: photorealistic product photography, macro jewelry shot\nComposition/framing: extreme close-up macro, 90mm macro lens, shallow depth of field isolating the ring\nLighting/mood: studio lighting with focused spotlight creating internal reflections and fire in the sapphire, dramatic and luxurious\nColor palette: deep royal blue + diamond white sparkles + platinum silver + black velvet\nMaterials/textures: faceted sapphire with visible internal brilliance, crisp diamond facets, soft matte black velvet, polished precious metal\nConstraints: sapphire must show fire and light dispersion, diamonds must sparkle with clear facets, velvet texture must be visible\nAvoid: plastic-looking gems, flat lighting, oversaturated colors, artificial glow effects, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/98428c71-adee-46ab-8e9d-90af300be552/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: luxury jewelry catalog shot, 1:1 square crop\\nPrimary request: hyper-realistic macro close-up of a sapphire ring with diamond halo, fire and brilliance visible inside the gemstone\\nScene/backdrop: pure black velvet fabric, seamless and texture-rich\\nSubject: cushion-cut deep blue sapphire center stone, surrounded by pavé-set brilliant-cut diamonds, platinum or white gold band with intricate milgrain detail\\nStyle/medium: photorealistic product photography, macro jewelry shot\\nComposition/framing: extreme close-up macro, 90mm macro lens, shallow depth of field isolating the ring\\nLighting/mood: studio lighting with focused spotlight creating internal reflections and fire in the sapphire, dramatic and luxurious\\nColor palette: deep royal blue + diamond white sparkles + platinum silver + black velvet\\nMaterials/textures: faceted sapphire with visible internal brilliance, crisp diamond facets, soft matte black velvet, polished precious metal\\nConstraints: sapphire must show fire and light dispersion, diamonds must sparkle with clear facets, velvet texture must be visible\\nAvoid: plastic-looking gems, flat lighting, oversaturated colors, artificial glow effects, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10027
+}

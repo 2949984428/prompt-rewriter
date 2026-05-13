@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a tri-fold travel brochure for a 4-day, 3-night 杭州 self-guided itinerary.\n\nStyle/medium: needs a \"travel-attack-card\" aesthetic — references in the spirit of Japanese 攻略本 print tradition, Lonely Planet illustrated city brochures, 1990s Hong Kong tourism foldouts; exact stylistic execution is yours\nComposition: must be tri-fold layout with real 杭州 map as central spine, 4 day-panels divided clearly\nSubject: must include all 28 spots across 4 day-panels:\n  Day 1: 断桥残雪 / 白堤 / 孤山 / 曲院风荷 / 苏堤春晓 / 花港观鱼 / 雷峰塔 / 柳浪闻莺\n  Day 2: 灵隐寺 / 飞来峰 / 法喜寺 / 宋城\n  Day 3: 九溪十八涧 / 龙井村 / 十里琅珰 / 云栖竹径\n  Day 4: 拱宸桥 / 桥西历史街区 / 小河直街 / 大兜路香积寺 / 西溪湿地 / 周家村 / 深潭口\nScene/backdrop: must be a real 杭州 map base with all routes connecting day-panels\nLighting/mood: \nColor palette: \nMaterials/textures: must include paper cardstock cutouts with floating shadow under each landmark\nText (verbatim): must include all itinerary copy on each panel — full text below for verbatim placement:\n  Day 1: 断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺 / 建议时间：7:30出发，避开人流高峰 / 必玩亮点：断桥日出 孤山秘境 雷峰塔俯瞰 / 午餐推荐：楼外楼（东坡肉+龙井虾仁），人均150元 / 避坑指南：别坐环湖电瓶车！租共享单车更自由（每小时5元）\n  Day 2: 灵隐寺→飞来峰造像→法喜寺→宋城 / 灵隐寺祈福：摸\"咫尺西天\"照壁沾福气，请网红十八籽手串（46元） / 法喜寺机位：最高殿阁俯拍黄墙黛瓦，求姻缘超灵验 / 宋城必看：《宋城千古情》演出（贵宾席320元），体验全息投影+水上飞人 / 拍照TIP：法喜寺出口的江南驿古道，光影绝美 / 晚餐推荐：素描餐厅（榴莲烤鸡+焦糖布丁），人均90元\n  Day 3: 九溪十八涧→龙井村→十里琅珰→云栖竹径 / 小众玩法：九溪踩水 龙井问茶 云栖竹径 / 交通贴士：九溪入口乘摆渡车（8元）直达九溪烟树 / 晚餐推荐：茶人村（私房桂鱼+香芋煲），人均120元\n  Day 4: 方案A：运河文艺线 拱宸桥→桥西历史街区→小河直街→大兜路香积寺 / 必体验：中国伞/刀剪剑博物馆（免费）、水上巴士1号线（3元） / 方案B：西溪湿地轻奢游 周家村→深潭口（非诚勿扰取景地）→氦气球俯瞰湿地（180元） / 伴手礼推荐：南宋胡记荷花酥（38元/盒） 万事利丝绸方巾（150-300元） / 住宿红黑榜：西湖边优选：杭州君悦酒店（湖景房超绝）、青芝坞民宿（人均200元） 避雷区域：火车站周边老破小，隔音差且价格虚高 / 交通干货：地铁支付宝领\"杭州地铁乘车码\" 萧山机场→西湖：地铁1号线直达（7元/50分钟） 灵隐寺专线：龙翔桥地铁站乘7W路（5元）\nConstraints: must preserve real geographic accuracy of 杭州, 4 day-panels visible, all 景点 preserved\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/75d83bb8-0c51-46f0-8f93-c012c67f3241/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a tri-fold travel brochure for a 4-day, 3-night 杭州 self-guided itinerary.\\n\\nStyle/medium: needs a \\\"travel-attack-card\\\" aesthetic — references in the spirit of Japanese 攻略本 print tradition, Lonely Planet illustrated city brochures, 1990s Hong Kong tourism foldouts; exact stylistic execution is yours\\nComposition: must be tri-fold layout with real 杭州 map as central spine, 4 day-panels divided clearly\\nSubject: must include all 28 spots across 4 day-panels:\\n  Day 1: 断桥残雪 / 白堤 / 孤山 / 曲院风荷 / 苏堤春晓 / 花港观鱼 / 雷峰塔 / 柳浪闻莺\\n  Day 2: 灵隐寺 / 飞来峰 / 法喜寺 / 宋城\\n  Day 3: 九溪十八涧 / 龙井村 / 十里琅珰 / 云栖竹径\\n  Day 4: 拱宸桥 / 桥西历史街区 / 小河直街 / 大兜路香积寺 / 西溪湿地 / 周家村 / 深潭口\\nScene/backdrop: must be a real 杭州 map base with all routes connecting day-panels\\nLighting/mood: \\nColor palette: \\nMaterials/textures: must include paper cardstock cutouts with floating shadow under each landmark\\nText (verbatim): must include all itinerary copy on each panel — full text below for verbatim placement:\\n  Day 1: 断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺 / 建议时间：7:30出发，避开人流高峰 / 必玩亮点：断桥日出 孤山秘境 雷峰塔俯瞰 / 午餐推荐：楼外楼（东坡肉+龙井虾仁），人均150元 / 避坑指南：别坐环湖电瓶车！租共享单车更自由（每小时5元）\\n  Day 2: 灵隐寺→飞来峰造像→法喜寺→宋城 / 灵隐寺祈福：摸\\\"咫尺西天\\\"照壁沾福气，请网红十八籽手串（46元） / 法喜寺机位：最高殿阁俯拍黄墙黛瓦，求姻缘超灵验 / 宋城必看：《宋城千古情》演出（贵宾席320元），体验全息投影+水上飞人 / 拍照TIP：法喜寺出口的江南驿古道，光影绝美 / 晚餐推荐：素描餐厅（榴莲烤鸡+焦糖布丁），人均90元\\n  Day 3: 九溪十八涧→龙井村→十里琅珰→云栖竹径 / 小众玩法：九溪踩水 龙井问茶 云栖竹径 / 交通贴士：九溪入口乘摆渡车（8元）直达九溪烟树 / 晚餐推荐：茶人村（私房桂鱼+香芋煲），人均120元\\n  Day 4: 方案A：运河文艺线 拱宸桥→桥西历史街区→小河直街→大兜路香积寺 / 必体验：中国伞/刀剪剑博物馆（免费）、水上巴士1号线（3元） / 方案B：西溪湿地轻奢游 周家村→深潭口（非诚勿扰取景地）→氦气球俯瞰湿地（180元） / 伴手礼推荐：南宋胡记荷花酥（38元/盒） 万事利丝绸方巾（150-300元） / 住宿红黑榜：西湖边优选：杭州君悦酒店（湖景房超绝）、青芝坞民宿（人均200元） 避雷区域：火车站周边老破小，隔音差且价格虚高 / 交通干货：地铁支付宝领\\\"杭州地铁乘车码\\\" 萧山机场→西湖：地铁1号线直达（7元/50分钟） 灵隐寺专线：龙翔桥地铁站乘7W路（5元）\\nConstraints: must preserve real geographic accuracy of 杭州, 4 day-panels visible, all 景点 preserved\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 28008
+}

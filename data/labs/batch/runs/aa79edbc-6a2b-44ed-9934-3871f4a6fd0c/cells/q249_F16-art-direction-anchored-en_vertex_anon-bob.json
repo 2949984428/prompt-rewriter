@@ -1,0 +1,23 @@
+{
+  "query_idx": 249,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑上传的图片（athletic woman in kitchen）。\n\n风格/媒介:photorealistic\n构图:\n主体:\n  运动女性人物\n  完全保留人物身份、面部结构、表情、身体姿态、服装、配饰\n场景/背景:完全保留原有厨房环境、构图与整体布局\n光线/氛围:均衡的工作室级光线，增强动态范围、对比度与立体感\n色彩方案:\n材质/纹理:\n  精确面部轮廓\n  真实皮肤质感（自然可见毛孔）\n  清晰发丝\n  锐利真实的眼睛\n  干净清晰的边缘\n文字(原样):\n约束:\n  不修改、不重新诠释、不替换、不添加任何新视觉元素\n  仅重建并优化微观细节\n避免:改变人物形象、改变场景、改变构图、添加新元素",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A73d45a09-e285-48b3-b0e4-41d8af564c37/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑上传的图片（athletic woman in kitchen）。\\n\\n风格/媒介:photorealistic\\n构图:\\n主体:\\n  运动女性人物\\n  完全保留人物身份、面部结构、表情、身体姿态、服装、配饰\\n场景/背景:完全保留原有厨房环境、构图与整体布局\\n光线/氛围:均衡的工作室级光线，增强动态范围、对比度与立体感\\n色彩方案:\\n材质/纹理:\\n  精确面部轮廓\\n  真实皮肤质感（自然可见毛孔）\\n  清晰发丝\\n  锐利真实的眼睛\\n  干净清晰的边缘\\n文字(原样):\\n约束:\\n  不修改、不重新诠释、不替换、不添加任何新视觉元素\\n  仅重建并优化微观细节\\n避免:改变人物形象、改变场景、改变构图、添加新元素\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 7345,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

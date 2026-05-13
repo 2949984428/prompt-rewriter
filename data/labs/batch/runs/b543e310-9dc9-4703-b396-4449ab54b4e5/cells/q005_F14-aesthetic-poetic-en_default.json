@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an illustrated infographic explaining the definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, Distillation, and CLI, designed for educational clarity with a hand-drawn aesthetic.\n\nStyle/medium: hand-drawn educational infographic with the approachable warmth of a sketched whiteboard explanation, pen-and-paper honesty with soft ink textures\nComposition: central hub-and-spoke diagram with AI at the center, connected concepts radiating outward in clear visual clusters, supporting panels for definitions\nSubject: \n  - AI: central node, foundational concept\n  - MCP: protocol layer connecting AI to external tools\n  - AI Agent: autonomous entity using AI to perform tasks\n  - OpenClaw: tool/framework reference\n  - AI Skill: modular capability unit for AI systems\n  - Distillation: knowledge compression technique\n  - CLI: command-line interface for interaction\n  - Relationship arrows showing hierarchy and dependencies\nScene/backdrop: clean off-white paper texture with subtle grid lines suggesting a notebook page\nLighting/mood: the clear daylight of a focused learning moment, approachable and unintimidating\nColor palette: warm graphite and soft ink blacks with one gentle accent color (muted teal or amber) for emphasis and relationship lines\nMaterials/textures: ballpoint pen lines with the slight wobble of real handwriting, soft paper grain, gentle marker fills\nText (verbatim): AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — all concept labels preserved in their original form\nConstraints: all 7 concepts must be visually present, definitions must be readable, relationship arrows must clearly indicate direction and hierarchy\nAvoid: overly polished digital aesthetic, cluttered layout, illegible small text, decorative elements that obscure information hierarchy",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/07b1f2f3-b11e-4f01-bb02-ab98e2466d2b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an illustrated infographic explaining the definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, Distillation, and CLI, designed for educational clarity with a hand-drawn aesthetic.\\n\\nStyle/medium: hand-drawn educational infographic with the approachable warmth of a sketched whiteboard explanation, pen-and-paper honesty with soft ink textures\\nComposition: central hub-and-spoke diagram with AI at the center, connected concepts radiating outward in clear visual clusters, supporting panels for definitions\\nSubject: \\n  - AI: central node, foundational concept\\n  - MCP: protocol layer connecting AI to external tools\\n  - AI Agent: autonomous entity using AI to perform tasks\\n  - OpenClaw: tool/framework reference\\n  - AI Skill: modular capability unit for AI systems\\n  - Distillation: knowledge compression technique\\n  - CLI: command-line interface for interaction\\n  - Relationship arrows showing hierarchy and dependencies\\nScene/backdrop: clean off-white paper texture with subtle grid lines suggesting a notebook page\\nLighting/mood: the clear daylight of a focused learning moment, approachable and unintimidating\\nColor palette: warm graphite and soft ink blacks with one gentle accent color (muted teal or amber) for emphasis and relationship lines\\nMaterials/textures: ballpoint pen lines with the slight wobble of real handwriting, soft paper grain, gentle marker fills\\nText (verbatim): AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — all concept labels preserved in their original form\\nConstraints: all 7 concepts must be visually present, definitions must be readable, relationship arrows must clearly indicate direction and hierarchy\\nAvoid: overly polished digital aesthetic, cluttered layout, illegible small text, decorative elements that obscure information hierarchy\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13964
+}

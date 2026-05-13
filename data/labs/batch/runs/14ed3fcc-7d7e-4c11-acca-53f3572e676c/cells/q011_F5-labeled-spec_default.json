@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: architectural visualization / interior design rendering, wide horizontal crop\nPrimary request: photorealistic render of a modern living room blending Nordic minimalism and Japanese wabi-sabi aesthetics\nScene/backdrop: spacious indoor living room with floor-to-ceiling windows, soft natural daylight flooding in, blurred green foliage visible outside\nSubject: low-profile linen off-white fabric sofa with assorted textured throw pillows; irregular-edge natural stone coffee table with raw organic silhouette; tall fiddle-leaf fig (琴叶榕) in a corner planter; slender arc floor lamp with thin stem; open shelf with a curated selection of books and ceramic objects following danshari (断舍離) principles\nStyle/medium: architectural visualization, photorealistic 3D render, soft natural lighting\nComposition/framing: eye-level wide shot, slight receding perspective, balanced symmetry with breathing negative space\nLighting/mood: abundant diffused natural light from large floor-to-ceiling windows, no harsh shadows, calm and contemplative Zen atmosphere, quiet and restrained\nColor palette: white, light grey, warm off-white linen, pale white-oak wood tones, muted earth ceramics, soft green foliage accents\nMaterials/textures: matte white wall paint, light white-oak solid hardwood flooring with visible grain, raw natural stone with unfinished edges, woven linen fabric, unglazed ceramic surfaces\nConstraints: maintain minimalist spatial composition with generous empty space; no clutter; no decorative excess; preserve wabi-sabi imperfection in stone and ceramics\nAvoid: overly staged styling, artificial-looking renders, harsh directional shadows, saturated colors, busy patterns",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8bf3c80b-a3dc-46d1-95e2-0c411c11c299/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: architectural visualization / interior design rendering, wide horizontal crop\\nPrimary request: photorealistic render of a modern living room blending Nordic minimalism and Japanese wabi-sabi aesthetics\\nScene/backdrop: spacious indoor living room with floor-to-ceiling windows, soft natural daylight flooding in, blurred green foliage visible outside\\nSubject: low-profile linen off-white fabric sofa with assorted textured throw pillows; irregular-edge natural stone coffee table with raw organic silhouette; tall fiddle-leaf fig (琴叶榕) in a corner planter; slender arc floor lamp with thin stem; open shelf with a curated selection of books and ceramic objects following danshari (断舍離) principles\\nStyle/medium: architectural visualization, photorealistic 3D render, soft natural lighting\\nComposition/framing: eye-level wide shot, slight receding perspective, balanced symmetry with breathing negative space\\nLighting/mood: abundant diffused natural light from large floor-to-ceiling windows, no harsh shadows, calm and contemplative Zen atmosphere, quiet and restrained\\nColor palette: white, light grey, warm off-white linen, pale white-oak wood tones, muted earth ceramics, soft green foliage accents\\nMaterials/textures: matte white wall paint, light white-oak solid hardwood flooring with visible grain, raw natural stone with unfinished edges, woven linen fabric, unglazed ceramic surfaces\\nConstraints: maintain minimalist spatial composition with generous empty space; no clutter; no decorative excess; preserve wabi-sabi imperfection in stone and ceramics\\nAvoid: overly staged styling, artificial-looking renders, harsh directional shadows, saturated colors, busy patterns\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13972
+}

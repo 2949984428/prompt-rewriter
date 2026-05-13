@@ -1,0 +1,21 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing PPT cover slide for a domestic China fundraising roadshow announcing the GPT-5.5 launch, with 奥特曼 as the speaker.\n\nStyle/medium: needs a high-stakes China domestic roadshow pitch deck aesthetic — exact stylistic execution is yours\nComposition: must be a single landscape slide cover layout with clear hierarchy: headline, speaker name, event context\nSubject: must include GPT-5.5 launch announcement as the central theme, 奥特曼 as named speaker\nScene/backdrop: needs a premium tech-finance backdrop — exact visual treatment is yours\nLighting/mood: needs a confident, authoritative GP/VC roadshow atmosphere — exact mood execution is yours\nColor palette: needs a direction aligned with top-tier GP institutional tone — exact palette is yours\nMaterials/textures: needs a polished, print-ready slide surface feel — exact finish is yours\nText (verbatim): must include \"GPT-5.5\" (headline, prominent), \"奥特曼\" (speaker name), and roadshow context copy in Chinese\nConstraints: must conform to China domestic roadshow (路演) visual conventions; must reflect GP institutional调性\nAvoid: consumer app store aesthetics, overly casual or startup-garage look",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6c059ce2-1788-4255-95bf-a6c7f1c3bfd2/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing PPT cover slide for a domestic China fundraising roadshow announcing the GPT-5.5 launch, with 奥特曼 as the speaker.\\n\\nStyle/medium: needs a high-stakes China domestic roadshow pitch deck aesthetic — exact stylistic execution is yours\\nComposition: must be a single landscape slide cover layout with clear hierarchy: headline, speaker name, event context\\nSubject: must include GPT-5.5 launch announcement as the central theme, 奥特曼 as named speaker\\nScene/backdrop: needs a premium tech-finance backdrop — exact visual treatment is yours\\nLighting/mood: needs a confident, authoritative GP/VC roadshow atmosphere — exact mood execution is yours\\nColor palette: needs a direction aligned with top-tier GP institutional tone — exact palette is yours\\nMaterials/textures: needs a polished, print-ready slide surface feel — exact finish is yours\\nText (verbatim): must include \\\"GPT-5.5\\\" (headline, prominent), \\\"奥特曼\\\" (speaker name), and roadshow context copy in Chinese\\nConstraints: must conform to China domestic roadshow (路演) visual conventions; must reflect GP institutional调性\\nAvoid: consumer app store aesthetics, overly casual or startup-garage look\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9027
+}

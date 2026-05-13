@@ -1,0 +1,23 @@
+{
+  "query_idx": 64,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:国风超有戏][@image:#2:全民logo-02]将图一的材质质感迁移到图二上，保持图二的元素不变，图二上蓝色的笔画是丝绸质感的",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A68e71d71-11ab-4aa6-b76e-15ec87dec994/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:国风超有戏][@image:#2:全民logo-02]将图一的材质质感迁移到图二上，保持图二的元素不变，图二上蓝色的笔画是丝绸质感的\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2969,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

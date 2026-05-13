@@ -1,0 +1,21 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing screenshot-style illustration of a 抖音 live-stream featuring a young woman resembling a \"神仙姐姐\" aesthetic.\n\nStyle/medium: needs a realistic live-stream screenshot aesthetic — exact stylistic execution is yours\nComposition: must be 9:16 vertical, mimicking a 抖音 live-stream UI layout with on-screen overlays (viewer count, comments, gift animations, etc.)\nSubject: must include a young woman with an ethereal \"神仙姐姐\" appearance holding up a sign with both hands\nScene/backdrop: needs a live-stream room atmosphere — exact background treatment is yours\nLighting/mood: needs a soft, flattering live-stream lighting atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign she is holding\nConstraints: must preserve 抖音 live-stream UI visual language (top bar, comment feed, interaction icons); sign must be clearly legible and held facing the camera\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad427c759-e11c-4137-8144-b3a5d7ff6ad4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-04-img2-sweden.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing screenshot-style illustration of a 抖音 live-stream featuring a young woman resembling a \\\"神仙姐姐\\\" aesthetic.\\n\\nStyle/medium: needs a realistic live-stream screenshot aesthetic — exact stylistic execution is yours\\nComposition: must be 9:16 vertical, mimicking a 抖音 live-stream UI layout with on-screen overlays (viewer count, comments, gift animations, etc.)\\nSubject: must include a young woman with an ethereal \\\"神仙姐姐\\\" appearance holding up a sign with both hands\\nScene/backdrop: needs a live-stream room atmosphere — exact background treatment is yours\\nLighting/mood: needs a soft, flattering live-stream lighting atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign she is holding\\nConstraints: must preserve 抖音 live-stream UI visual language (top bar, comment feed, interaction icons); sign must be clearly legible and held facing the camera\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8695
+}

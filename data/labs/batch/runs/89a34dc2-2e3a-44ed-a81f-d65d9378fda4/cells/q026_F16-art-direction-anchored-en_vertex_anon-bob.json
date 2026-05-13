@@ -1,0 +1,23 @@
+{
+  "query_idx": 26,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个游泳圈造型的 logo。\n\n风格/媒介: 参考上传图片的画风\n构图:\n主体: 游泳圈造型 logo\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束: 画风参考 #1 图片\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ade965169-370d-42fd-9c3f-7101271d55a7/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个游泳圈造型的 logo。\\n\\n风格/媒介: 参考上传图片的画风\\n构图:\\n主体: 游泳圈造型 logo\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束: 画风参考 #1 图片\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5965,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

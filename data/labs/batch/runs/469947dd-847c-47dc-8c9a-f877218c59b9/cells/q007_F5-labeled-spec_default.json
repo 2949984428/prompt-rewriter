@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: e-commerce hero image, square crop\nPrimary request: smartwatch worn on wrist in active sports context, dynamic motion blur conveying energy and vitality\nScene/backdrop: blurred gym environment with exercise equipment, shallow depth of field background\nSubject: modern smartwatch on athletic wrist, sleek wearable device with clean digital display, active pose suggesting movement\nStyle/medium: commercial product photography, high-end tech editorial\nComposition/framing: close-up on wrist and watch, macro product shot with motion blur on background elements\nLighting/mood: cool-toned tech lighting, cyan and blue accent lights, dramatic rim lighting, energetic and futuristic mood\nColor palette: cool tech blues + cyan + silver metal + deep shadows\nMaterials/textures: brushed aluminum or matte black watch case, smooth silicone or metal band, sweat-glistening skin\nConstraints: keep smartwatch as sharp focal point while background has intentional motion blur, maintain readable watch face\nAvoid: warm yellow lighting, cluttered sharp background, plastic toy-like watch appearance, watermark",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "https://assets-persist.lovart.ai/agent_images/46d2de20-8292-4c9f-ba80-6337e3b82180.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: product-mockup\\nAsset type: e-commerce hero image, square crop\\nPrimary request: smartwatch worn on wrist in active sports context, dynamic motion blur conveying energy and vitality\\nScene/backdrop: blurred gym environment with exercise equipment, shallow depth of field background\\nSubject: modern smartwatch on athletic wrist, sleek wearable device with clean digital display, active pose suggesting movement\\nStyle/medium: commercial product photography, high-end tech editorial\\nComposition/framing: close-up on wrist and watch, macro product shot with motion blur on background elements\\nLighting/mood: cool-toned tech lighting, cyan and blue accent lights, dramatic rim lighting, energetic and futuristic mood\\nColor palette: cool tech blues + cyan + silver metal + deep shadows\\nMaterials/textures: brushed aluminum or matte black watch case, smooth silicone or metal band, sweat-glistening skin\\nConstraints: keep smartwatch as sharp focal point while background has intentional motion blur, maintain readable watch face\\nAvoid: warm yellow lighting, cluttered sharp background, plastic toy-like watch appearance, watermark\"}",
+  "ms": 12312
+}

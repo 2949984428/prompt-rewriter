@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a social media cover image for a Xiaohongshu (小红书) creator account, featuring a 9-grid layout (九高格) (all in-image text in Chinese).\n\nStyle/medium: needs a \"素人风格\" (authentic creator / \"real person\" amateur) aesthetic — references in the spirit of 2010s Tumblr soft girl visual culture, Sanrio kawaii illustration heritage, early Xiaohongshu creator flat-lay tradition; exact stylistic execution is yours\nComposition: must be 九高格 (9-grid) layout, central title placement\nSubject: must include DJI Pocket 4 (大疆pocket4) as the featured product\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" (central title, cute and differentiated typography)\nConstraints: must include all in-image text in Chinese by default; must preserve 九高格 grid structure\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b46d96ee-95d9-4f0d-afa7-7560a2a00f82/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a social media cover image for a Xiaohongshu (小红书) creator account, featuring a 9-grid layout (九高格) (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"素人风格\\\" (authentic creator / \\\"real person\\\" amateur) aesthetic — references in the spirit of 2010s Tumblr soft girl visual culture, Sanrio kawaii illustration heritage, early Xiaohongshu creator flat-lay tradition; exact stylistic execution is yours\\nComposition: must be 九高格 (9-grid) layout, central title placement\\nSubject: must include DJI Pocket 4 (大疆pocket4) as the featured product\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" (central title, cute and differentiated typography)\\nConstraints: must include all in-image text in Chinese by default; must preserve 九高格 grid structure\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9971
+}

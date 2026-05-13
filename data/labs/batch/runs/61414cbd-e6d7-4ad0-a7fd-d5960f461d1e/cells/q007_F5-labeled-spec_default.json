@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: brand-advertising\nAsset type: mobile full-screen splash ad, 9:16 vertical format\nPrimary request: OPPO Find X9 Yta new product launch announcement, brand exposure prioritized, high visual impact\nScene/backdrop: clean minimal studio backdrop with subtle gradient, space for product showcase\nSubject: OPPO Find X9 Yta smartphone, sleek modern design, flagship positioning\nStyle/medium: premium commercial product photography, high-end brand advertising aesthetic\nComposition/framing: centered hero product shot, vertical 9:16 ratio optimized for mobile screens\nLighting/mood: dramatic studio lighting with soft highlights, premium and aspirational mood\nColor palette: OPPO brand colors, sleek metallic tones, deep blacks, accent highlights\nMaterials/textures: brushed metal finish, glass reflections, premium tactile surfaces\nText (verbatim): \"OPPO丰机截屏，网发布的OPPQ）FindX9Yta全屏新品牌窗厂告\"\nConstraints: 1080×1920 resolution, brand exposure as priority, visual impact first, full-screen mobile format\nAvoid: cluttered composition, low contrast, amateur lighting, watermark, text legibility issues",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/50541b1a-b4dc-4039-8788-079db1c32674/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: brand-advertising\\nAsset type: mobile full-screen splash ad, 9:16 vertical format\\nPrimary request: OPPO Find X9 Yta new product launch announcement, brand exposure prioritized, high visual impact\\nScene/backdrop: clean minimal studio backdrop with subtle gradient, space for product showcase\\nSubject: OPPO Find X9 Yta smartphone, sleek modern design, flagship positioning\\nStyle/medium: premium commercial product photography, high-end brand advertising aesthetic\\nComposition/framing: centered hero product shot, vertical 9:16 ratio optimized for mobile screens\\nLighting/mood: dramatic studio lighting with soft highlights, premium and aspirational mood\\nColor palette: OPPO brand colors, sleek metallic tones, deep blacks, accent highlights\\nMaterials/textures: brushed metal finish, glass reflections, premium tactile surfaces\\nText (verbatim): \\\"OPPO丰机截屏，网发布的OPPQ）FindX9Yta全屏新品牌窗厂告\\\"\\nConstraints: 1080×1920 resolution, brand exposure as priority, visual impact first, full-screen mobile format\\nAvoid: cluttered composition, low contrast, amateur lighting, watermark, text legibility issues\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12990
+}

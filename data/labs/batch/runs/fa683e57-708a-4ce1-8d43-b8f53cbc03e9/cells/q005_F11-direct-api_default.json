@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张科幻太空场景，宇航员漂浮在地球轨道上，身后是璀璨的银河和星云，太空站的部分结构在画面边缘，宇航服细节清晰，光线来自地球的反射，壮观震撼",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4c893e68-313d-44cf-9b91-a47d90f28624/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"生成一张科幻太空场景，宇航员漂浮在地球轨道上，身后是璀璨的银河和星云，太空站的部分结构在画面边缘，宇航服细节清晰，光线来自地球的反射，壮观震撼\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7629
+}

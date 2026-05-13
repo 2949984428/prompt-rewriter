@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "制作一个公众号文章封面。\n标题：染秋 - 秋意染染 时光留香\n主题：染秋香氛新品发布\n构图方法：中心构图。\n风格：高级质感风。\n要求：突出标题。\n比例：900x500",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0ec44e3d-0493-45d3-af97-34432331fa84/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"制作一个公众号文章封面。\\n标题：染秋 - 秋意染染 时光留香\\n主题：染秋香氛新品发布\\n构图方法：中心构图。\\n风格：高级质感风。\\n要求：突出标题。\\n比例：900x500\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2952
+}

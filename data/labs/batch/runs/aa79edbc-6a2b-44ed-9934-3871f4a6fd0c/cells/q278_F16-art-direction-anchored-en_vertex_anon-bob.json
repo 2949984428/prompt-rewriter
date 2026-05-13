@@ -1,0 +1,23 @@
+{
+  "query_idx": 278,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张文明婚俗公益创意海报。\n\n风格/媒介:公益海报，创意平面设计\n构图:适合微博发布的竖版构图，视觉重心突出主题\n主体:文明婚俗公益海报，以\"不要高彩礼\"为核心主题\n场景/背景:\n光线/氛围:温暖积极，传递正向社会价值观\n色彩方案:\n材质/纹理:\n文字(原样):文明婚俗\n约束:适配微博平台发布尺寸\n避免:低俗、负面、灰暗的视觉表达",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0acadbee-4657-4f8a-bdec-4fe55d6fc81a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张文明婚俗公益创意海报。\\n\\n风格/媒介:公益海报，创意平面设计\\n构图:适合微博发布的竖版构图，视觉重心突出主题\\n主体:文明婚俗公益海报，以\\\"不要高彩礼\\\"为核心主题\\n场景/背景:\\n光线/氛围:温暖积极，传递正向社会价值观\\n色彩方案:\\n材质/纹理:\\n文字(原样):文明婚俗\\n约束:适配微博平台发布尺寸\\n避免:低俗、负面、灰暗的视觉表达\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7082,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

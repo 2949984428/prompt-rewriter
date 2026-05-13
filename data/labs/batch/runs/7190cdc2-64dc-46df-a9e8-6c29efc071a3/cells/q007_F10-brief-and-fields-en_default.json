@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an editorial illustration of a bustling Lantern Festival street market in traditional Chinese festival style.\n\nStyle/medium: 工笔重彩画 (gongbi heavy-color painting), meticulous brushwork with rich mineral pigments, narrative scroll composition inspired by 《清明上河图》 (Qingming Shanghe Tu / Along the River During the Qingming Festival)\nComposition: wide panoramic horizontal scroll format, densely populated street scene with layered depth, eye-level perspective looking down the lantern-lit avenue\nSubject: ancient Chinese street festival at night, crowds in festive attire, children chasing with rabbit lanterns, vendors selling tangyuan, candied hawthorn, and flower lanterns\nScene/backdrop: historic street lined with shops, red lanterns, palace lanterns, and revolving horse lanterns illuminating the night sky, distant dragon and lion dance troupes with drums, fireworks bursting overhead\nLighting/mood: warm lantern glow casting red-orange light on crowds, festive and celebratory atmosphere, night sky illuminated by countless lights\nColor palette: dominant reds, golds, and oranges with accents of warm yellow, creating a harmonious and joyous festive palette\nMaterials/textures: fine brushwork details, silk-like smooth color application, architectural precision in buildings and lanterns, delicate fabric textures on costumes\nAvoid: modern elements, anachronistic objects, photorealistic rendering, plastic textures, 8K stuffer terms, washed-out colors",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7f448cf1-f042-400b-8c7d-a7547cf0a199/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an editorial illustration of a bustling Lantern Festival street market in traditional Chinese festival style.\\n\\nStyle/medium: 工笔重彩画 (gongbi heavy-color painting), meticulous brushwork with rich mineral pigments, narrative scroll composition inspired by 《清明上河图》 (Qingming Shanghe Tu / Along the River During the Qingming Festival)\\nComposition: wide panoramic horizontal scroll format, densely populated street scene with layered depth, eye-level perspective looking down the lantern-lit avenue\\nSubject: ancient Chinese street festival at night, crowds in festive attire, children chasing with rabbit lanterns, vendors selling tangyuan, candied hawthorn, and flower lanterns\\nScene/backdrop: historic street lined with shops, red lanterns, palace lanterns, and revolving horse lanterns illuminating the night sky, distant dragon and lion dance troupes with drums, fireworks bursting overhead\\nLighting/mood: warm lantern glow casting red-orange light on crowds, festive and celebratory atmosphere, night sky illuminated by countless lights\\nColor palette: dominant reds, golds, and oranges with accents of warm yellow, creating a harmonious and joyous festive palette\\nMaterials/textures: fine brushwork details, silk-like smooth color application, architectural precision in buildings and lanterns, delicate fabric textures on costumes\\nAvoid: modern elements, anachronistic objects, photorealistic rendering, plastic textures, 8K stuffer terms, washed-out colors\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11252
+}

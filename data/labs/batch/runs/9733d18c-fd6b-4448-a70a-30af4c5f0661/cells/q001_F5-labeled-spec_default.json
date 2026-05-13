@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic aerial photograph, ultra-wide landscape\nPrimary request: aerial drone long-exposure shot of a futuristic metropolis at night, cyberpunk color grading\nScene/backdrop: modern international CBD with countless skyscrapers, elevated highways with light trails, distant harbor with giant cruise ships docked, neon billboards illuminating the sky\nSubject: iconic supertall skyscraper at center with sweeping searchlights from its roof piercing the night sky\nStyle/medium: drone aerial photography, long exposure, cinematic still\nComposition/framing: high-angle bird's-eye view, ultra-wide establishing shot\nLighting/mood: dramatic high-contrast night lighting, searchlights cutting through darkness, immersive cyberpunk atmosphere\nColor palette: dominant blue-violet tones, cyan and magenta neon accents, warm red/white light trails, deep blacks\nMaterials/textures: reflective glass curtain walls, smooth asphalt highways, metallic ship hulls, glowing neon surfaces\nConstraints: keep the central supertall building as focal point, preserve light trail motion blur, maintain cyberpunk aesthetic\nAvoid: oversaturated colors, cartoonish neon, deformed buildings, watermark, daytime lighting",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2dac8ad5-5a96-48bd-830d-3452f285fb90/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic aerial photograph, ultra-wide landscape\\nPrimary request: aerial drone long-exposure shot of a futuristic metropolis at night, cyberpunk color grading\\nScene/backdrop: modern international CBD with countless skyscrapers, elevated highways with light trails, distant harbor with giant cruise ships docked, neon billboards illuminating the sky\\nSubject: iconic supertall skyscraper at center with sweeping searchlights from its roof piercing the night sky\\nStyle/medium: drone aerial photography, long exposure, cinematic still\\nComposition/framing: high-angle bird's-eye view, ultra-wide establishing shot\\nLighting/mood: dramatic high-contrast night lighting, searchlights cutting through darkness, immersive cyberpunk atmosphere\\nColor palette: dominant blue-violet tones, cyan and magenta neon accents, warm red/white light trails, deep blacks\\nMaterials/textures: reflective glass curtain walls, smooth asphalt highways, metallic ship hulls, glowing neon surfaces\\nConstraints: keep the central supertall building as focal point, preserve light trail motion blur, maintain cyberpunk aesthetic\\nAvoid: oversaturated colors, cartoonish neon, deformed buildings, watermark, daytime lighting\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10805
+}

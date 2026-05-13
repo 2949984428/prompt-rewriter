@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing educational knowledge card infographic about the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms period, designed for children.\n\nStyle/medium: single large knowledge card, cartoon illustration style, children's educational infographic\nComposition: clear title at the top; key bullet points listed and labeled on the side; main area filled with cartoon story scenes\nSubject: Battle of Red Cliffs (赤壁之战), Three Kingdoms story for children\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 赤壁之战\nConstraints: child-friendly cartoon art; story told through illustrated panels or scenes; key points clearly marked with labels/bullets beside the main illustration\nAvoid: ",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/22eb1657-7d04-44d6-9d13-b6ca034f8cbf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an original, non-infringing educational knowledge card infographic about the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms period, designed for children.\\n\\nStyle/medium: single large knowledge card, cartoon illustration style, children's educational infographic\\nComposition: clear title at the top; key bullet points listed and labeled on the side; main area filled with cartoon story scenes\\nSubject: Battle of Red Cliffs (赤壁之战), Three Kingdoms story for children\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 赤壁之战\\nConstraints: child-friendly cartoon art; story told through illustrated panels or scenes; key points clearly marked with labels/bullets beside the main illustration\\nAvoid: \", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6631
+}

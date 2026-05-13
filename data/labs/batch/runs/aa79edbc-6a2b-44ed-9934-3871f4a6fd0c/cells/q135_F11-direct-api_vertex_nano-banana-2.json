@@ -1,0 +1,23 @@
+{
+  "query_idx": 135,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "把[@image:#1:mmexport1774414464657]图片的白色上衣穿在[@image:#2:screenshot_2026-03-21_10-52-23] 图片模特身上，模特的五官，发型不变，头部小一点，生成独立的图片，保持衣服款式面料不变，模特脖子要纤细，画质要k，比例3:4，并且生成4张淘宝场景图，衣服纹理清晰",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af72d408e-4953-4a35-bfc1-93e59aceb702/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"把[@image:#1:mmexport1774414464657]图片的白色上衣穿在[@image:#2:screenshot_2026-03-21_10-52-23] 图片模特身上，模特的五官，发型不变，头部小一点，生成独立的图片，保持衣服款式面料不变，模特脖子要纤细，画质要k，比例3:4，并且生成4张淘宝场景图，衣服纹理清晰\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"png\"}",
+  "ms": 3860,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

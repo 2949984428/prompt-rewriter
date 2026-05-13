@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: cinematic-illustration\nAsset type: fantasy book cover or game key art, wide composition\nPrimary request: epic battle scene between a fire-breathing dragon and a shield-bearing knight charging forward\nScene/backdrop: burning castle ruins, lightning-filled stormy sky, smoke and embers in the air\nSubject: massive dragon with spread wings unleashing a torrent of flames, armored knight with raised shield mid-charge\nStyle/medium: digital fantasy illustration, painterly epic style\nComposition/framing: dynamic wide shot, diagonal action lines, sense of motion and intensity\nLighting/mood: dramatic lightning strikes illuminating the scene, fire glow casting warm orange light against cool storm clouds, epic and intense atmosphere\nColor palette: deep stormy blues and purples + fiery oranges and reds + metallic silver armor accents\nMaterials/textures: scaly dragon hide, polished steel armor, billowing smoke, crackling lightning\nConstraints: maintain dynamic action poses, keep both dragon and knight as co-focal points\nAvoid: static poses, flat lighting, cartoonish proportions, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4ab68836-7222-44df-9545-a99e740ed239/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: cinematic-illustration\\nAsset type: fantasy book cover or game key art, wide composition\\nPrimary request: epic battle scene between a fire-breathing dragon and a shield-bearing knight charging forward\\nScene/backdrop: burning castle ruins, lightning-filled stormy sky, smoke and embers in the air\\nSubject: massive dragon with spread wings unleashing a torrent of flames, armored knight with raised shield mid-charge\\nStyle/medium: digital fantasy illustration, painterly epic style\\nComposition/framing: dynamic wide shot, diagonal action lines, sense of motion and intensity\\nLighting/mood: dramatic lightning strikes illuminating the scene, fire glow casting warm orange light against cool storm clouds, epic and intense atmosphere\\nColor palette: deep stormy blues and purples + fiery oranges and reds + metallic silver armor accents\\nMaterials/textures: scaly dragon hide, polished steel armor, billowing smoke, crackling lightning\\nConstraints: maintain dynamic action poses, keep both dragon and knight as co-focal points\\nAvoid: static poses, flat lighting, cartoonish proportions, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10364
+}

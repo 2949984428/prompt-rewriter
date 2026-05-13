@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: children-book-illustration\nAsset type: children's picture book spread, square crop\nPrimary request: a forest concert scene with cute small animals performing music — a rabbit playing cello and a squirrel playing flute\nScene/backdrop: enchanted fairy-tale forest with whimsical mushroom houses and a rainbow arching across the sky\nSubject: adorable rabbit holding a cello with a bow, cheerful squirrel blowing a flute, both dressed in tiny storybook outfits, performing on a small woodland stage\nStyle/medium: children's picture book illustration, soft gouache painting style, hand-drawn feel\nComposition/framing: wide shot, eye-level with the animals, centered stage composition with mushroom houses flanking both sides\nLighting/mood: warm soft daylight, cheerful and whimsical, full of childlike wonder and joy\nColor palette: vivid and bright — sky blue, sunshine yellow, cherry red, grass green, soft purple, warm orange; rich rainbow hues in background\nMaterials/textures: smooth gouache-like paint texture, slightly rounded and soft edges, gentle outlines\nConstraints: keep all animals cute and non-threatening, rainbow and mushroom houses must be visible in background\nAvoid: dark or scary shadows, realistic anatomy, muted or desaturated colors, adult aesthetic",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ee66a503-52fa-448a-b7f6-4e8415f4c124/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: children-book-illustration\\nAsset type: children's picture book spread, square crop\\nPrimary request: a forest concert scene with cute small animals performing music — a rabbit playing cello and a squirrel playing flute\\nScene/backdrop: enchanted fairy-tale forest with whimsical mushroom houses and a rainbow arching across the sky\\nSubject: adorable rabbit holding a cello with a bow, cheerful squirrel blowing a flute, both dressed in tiny storybook outfits, performing on a small woodland stage\\nStyle/medium: children's picture book illustration, soft gouache painting style, hand-drawn feel\\nComposition/framing: wide shot, eye-level with the animals, centered stage composition with mushroom houses flanking both sides\\nLighting/mood: warm soft daylight, cheerful and whimsical, full of childlike wonder and joy\\nColor palette: vivid and bright — sky blue, sunshine yellow, cherry red, grass green, soft purple, warm orange; rich rainbow hues in background\\nMaterials/textures: smooth gouache-like paint texture, slightly rounded and soft edges, gentle outlines\\nConstraints: keep all animals cute and non-threatening, rainbow and mushroom houses must be visible in background\\nAvoid: dark or scary shadows, realistic anatomy, muted or desaturated colors, adult aesthetic\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9254
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 32,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "创作一张超现实主义风格的梦境场景，巨大的月亮从海面升起，鲸鱼在空中飞翔，时钟融化，楼梯通向云端，充满哲学意味和视觉冲击力",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/490eefbe-62e2-48e3-b3d1-2c600601c7b7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"创作一张超现实主义风格的梦境场景，巨大的月亮从海面升起，鲸鱼在空中飞翔，时钟融化，楼梯通向云端，充满哲学意味和视觉冲击力\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 3260
+}

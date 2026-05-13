@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Xiaohongshu cover for the announcement \"GPT-image-2 is now live on Lovart platform,\" with elevated editorial magazine aesthetics.\n\nStyle/medium: editorial magazine cover with the geometric restraint of a modern fashion publication, designed for social feed impact\nComposition: diagonal layout, subject and text arranged along a dynamic diagonal axis creating visual tension and movement\nSubject: the announcement \"GPT-image-2\" and \"Lovart\" as typographic hero elements, positioned to guide the eye across the diagonal\nScene/backdrop: clean minimal backdrop allowing the diagonal typography to breathe and dominate\nLighting/mood: crisp directional light creating subtle depth, the confidence of a breaking news announcement\nColor palette: high-contrast accent colors — deep blacks or rich navy against electric highlights, the tension between restraint and announcement\nMaterials/textures: matte paper finish with subtle editorial grain, the tactile quality of a premium print magazine\nText (verbatim): GPT-image-2, Lovart\nConstraints: diagonal composition mandatory, both brand names must be prominent and legible, Xiaohongshu 3:4 vertical format\nAvoid: cluttered backgrounds, low contrast, centered static composition, decorative elements that compete with the announcement",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/35dd4441-566c-4ff5-a6b6-8e5bfc1b1591/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a Xiaohongshu cover for the announcement \\\"GPT-image-2 is now live on Lovart platform,\\\" with elevated editorial magazine aesthetics.\\n\\nStyle/medium: editorial magazine cover with the geometric restraint of a modern fashion publication, designed for social feed impact\\nComposition: diagonal layout, subject and text arranged along a dynamic diagonal axis creating visual tension and movement\\nSubject: the announcement \\\"GPT-image-2\\\" and \\\"Lovart\\\" as typographic hero elements, positioned to guide the eye across the diagonal\\nScene/backdrop: clean minimal backdrop allowing the diagonal typography to breathe and dominate\\nLighting/mood: crisp directional light creating subtle depth, the confidence of a breaking news announcement\\nColor palette: high-contrast accent colors — deep blacks or rich navy against electric highlights, the tension between restraint and announcement\\nMaterials/textures: matte paper finish with subtle editorial grain, the tactile quality of a premium print magazine\\nText (verbatim): GPT-image-2, Lovart\\nConstraints: diagonal composition mandatory, both brand names must be prominent and legible, Xiaohongshu 3:4 vertical format\\nAvoid: cluttered backgrounds, low contrast, centered static composition, decorative elements that compete with the announcement\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11806
+}

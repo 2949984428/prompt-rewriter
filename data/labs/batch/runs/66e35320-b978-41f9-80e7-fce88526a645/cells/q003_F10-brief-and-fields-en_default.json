@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing logo for a tech lifestyle content creator, covering EVs, digital gadgets, and lifestyle products.\n\nStyle/medium: clean flat vector logo, minimalist geometric design, universal appeal for global social media\nSubject: abstract symbol combining tech and lifestyle elements (circuit lines, leaf shape for EV/eco, or simple geometric mark), balanced with clean wordmark space\nComposition: centered mark with generous padding, circular or square format for avatar use\nColor palette: neutral base (deep navy or charcoal) with one accent (electric blue or soft green), works in monochrome\nText (verbatim): \"\"\nConstraints: must scale clearly to 100x100px avatar size; monochrome version must work without color; no culturally sensitive symbols or colors; avoid religious, political, or region-specific imagery\nAvoid: gradients unless essential; complex illustrations; region-specific symbols; religious iconography; political imagery; culturally sensitive colors; overly trendy design that dates quickly; Behance generic tech style",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/26bfcea9-a012-43ca-8e02-d7e98af0c60b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing logo for a tech lifestyle content creator, covering EVs, digital gadgets, and lifestyle products.\\n\\nStyle/medium: clean flat vector logo, minimalist geometric design, universal appeal for global social media\\nSubject: abstract symbol combining tech and lifestyle elements (circuit lines, leaf shape for EV/eco, or simple geometric mark), balanced with clean wordmark space\\nComposition: centered mark with generous padding, circular or square format for avatar use\\nColor palette: neutral base (deep navy or charcoal) with one accent (electric blue or soft green), works in monochrome\\nText (verbatim): \\\"\\\"\\nConstraints: must scale clearly to 100x100px avatar size; monochrome version must work without color; no culturally sensitive symbols or colors; avoid religious, political, or region-specific imagery\\nAvoid: gradients unless essential; complex illustrations; region-specific symbols; religious iconography; political imagery; culturally sensitive colors; overly trendy design that dates quickly; Behance generic tech style\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10165
+}

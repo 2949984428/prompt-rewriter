@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a 9:16 vertical screenshot of a Douyin live stream featuring a female streamer (all in-image text in Chinese).\n\nStyle/medium: needs a live-streaming UI aesthetic with real-time comments overlay — exact interface styling is yours\nComposition: must be vertical 9:16 framing typical of mobile live-stream platforms\nSubject: must include a female streamer (神仙姐姐 persona) holding a sign\nScene/backdrop: must include typical live-stream room setting with comment bubbles and viewer count overlay\nLighting/mood: needs a warm, engaging live-stream atmosphere — exact lighting setup is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign the streamer is holding\nConstraints: must include all in-image text in Chinese by default; must preserve the sign text exactly as written; must include typical Douyin live-stream UI elements (comment area, viewer count, gift buttons)\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4791afa9-4033-444c-b7f7-4e294fb271e3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate a 9:16 vertical screenshot of a Douyin live stream featuring a female streamer (all in-image text in Chinese).\\n\\nStyle/medium: needs a live-streaming UI aesthetic with real-time comments overlay — exact interface styling is yours\\nComposition: must be vertical 9:16 framing typical of mobile live-stream platforms\\nSubject: must include a female streamer (神仙姐姐 persona) holding a sign\\nScene/backdrop: must include typical live-stream room setting with comment bubbles and viewer count overlay\\nLighting/mood: needs a warm, engaging live-stream atmosphere — exact lighting setup is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign the streamer is holding\\nConstraints: must include all in-image text in Chinese by default; must preserve the sign text exactly as written; must include typical Douyin live-stream UI elements (comment area, viewer count, gift buttons)\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10596
+}

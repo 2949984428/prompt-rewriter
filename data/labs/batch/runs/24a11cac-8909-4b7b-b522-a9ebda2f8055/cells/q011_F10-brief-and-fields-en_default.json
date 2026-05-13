@@ -1,0 +1,18 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an editorial illustration of a cherry blossom season school scene in a fresh Japanese anime-inspired style.\n\nStyle/medium: clean Japanese illustration style, soft watercolor-like rendering with gentle linework, reminiscent of Makoto Shinkai's warm school-day aesthetics\nComposition: medium full-body shot, slight low angle looking up toward the school building entrance, natural 50mm-equivalent framing with shallow background softness\nSubject: a young woman in a classic sailor-style school uniform (水手服), standing in front of a school building, hair gently lifted by a soft breeze, expression serene and youthful\nScene/backdrop: Japanese school campus in full cherry blossom season, pink sakura petals drifting down through the air, school building facade visible behind her\nLighting/mood: bright midday sunlight with warm golden tones, soft lens flare through the sakura canopy, cheerful and nostalgic spring atmosphere\nColor palette: soft pink sakura as the dominant accent, white and navy of the sailor uniform as anchor, warm golden sunlight as overlay, pale sky blue as background base\nMaterials/textures: delicate petal translucency, flowing fabric folds in the uniform, fine individual hair strands catching the light\nAvoid: dark or moody shadows, autumn or winter color grading, overly sharp hard edges, generic Western school setting, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_e09a47e3e5354ea89921e15a782f13e1.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an editorial illustration of a cherry blossom season school scene in a fresh Japanese anime-inspired style.\\n\\nStyle/medium: clean Japanese illustration style, soft watercolor-like rendering with gentle linework, reminiscent of Makoto Shinkai's warm school-day aesthetics\\nComposition: medium full-body shot, slight low angle looking up toward the school building entrance, natural 50mm-equivalent framing with shallow background softness\\nSubject: a young woman in a classic sailor-style school uniform (水手服), standing in front of a school building, hair gently lifted by a soft breeze, expression serene and youthful\\nScene/backdrop: Japanese school campus in full cherry blossom season, pink sakura petals drifting down through the air, school building facade visible behind her\\nLighting/mood: bright midday sunlight with warm golden tones, soft lens flare through the sakura canopy, cheerful and nostalgic spring atmosphere\\nColor palette: soft pink sakura as the dominant accent, white and navy of the sailor uniform as anchor, warm golden sunlight as overlay, pale sky blue as background base\\nMaterials/textures: delicate petal translucency, flowing fabric folds in the uniform, fine individual hair strands catching the light\\nAvoid: dark or moody shadows, autumn or winter color grading, overly sharp hard edges, generic Western school setting, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10527
+}

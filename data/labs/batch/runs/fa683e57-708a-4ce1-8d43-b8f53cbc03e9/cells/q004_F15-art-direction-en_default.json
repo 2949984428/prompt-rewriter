@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a food-photography close-up of Japanese ramen (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a food-photography aesthetic — exact stylistic execution is yours\nComposition: must be a close-up shot with shallow depth of field (background bokeh), chopsticks lifting noodles as focal point\nSubject: must include tonkotsu broth, chashu, soft-boiled egg, nori, scallions, chopsticks lifting noodles\nScene/backdrop: must be a blurred background context\nLighting/mood: needs an appetizing, steamy atmosphere — exact light source mix is yours\nColor palette: needs a rich, appetizing direction — exact saturation and warmth are yours\nMaterials/textures: must include steam rising from the hot broth\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/81cdef19-7276-4535-9d5d-c1210b4b12e9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a food-photography close-up of Japanese ramen (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a food-photography aesthetic — exact stylistic execution is yours\\nComposition: must be a close-up shot with shallow depth of field (background bokeh), chopsticks lifting noodles as focal point\\nSubject: must include tonkotsu broth, chashu, soft-boiled egg, nori, scallions, chopsticks lifting noodles\\nScene/backdrop: must be a blurred background context\\nLighting/mood: needs an appetizing, steamy atmosphere — exact light source mix is yours\\nColor palette: needs a rich, appetizing direction — exact saturation and warmth are yours\\nMaterials/textures: must include steam rising from the hot broth\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14219
+}

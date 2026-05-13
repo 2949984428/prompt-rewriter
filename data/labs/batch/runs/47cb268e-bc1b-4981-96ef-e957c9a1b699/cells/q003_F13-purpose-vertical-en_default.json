@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, consumer electronics, and lifestyle products — suitable for both Chinese and international platforms.\n\nStyle/medium: flat illustration avatar, clean icon-style design\nComposition: centered, square-crop-safe, single focal element with balanced negative space\nSubject: a stylized abstract emblem combining a lightning bolt (energy / EV), a circuit or chip motif (tech / digital), and a small leaf or spark accent (lifestyle / eco); no human face or figure\nScene/backdrop: solid or minimal gradient background, platform-neutral\nLighting/mood: friendly, modern, approachable\nColor palette: electric blue and white as primary, with a small accent of green or soft orange — universally positive, avoids culturally sensitive color combinations\nMaterials/textures: smooth flat vector shapes, subtle gloss or outline detail\nText (verbatim): \nConstraints: must read clearly at 100×100 px thumbnail size; no human likeness, no religious symbols, no flags, no hand gestures, no animals that carry cultural taboos; design must be culturally neutral and inoffensive across CN / US / EU / Middle East / SEA audiences\nAvoid: realistic photography style, overly complex detail that collapses at small size, red-and-green combination (color-blind conflict), white-on-white, black as dominant background color, any symbol that could be read as political or religious",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d36b27a7-fd32-4015-9046-012cc76ad1f7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, consumer electronics, and lifestyle products — suitable for both Chinese and international platforms.\\n\\nStyle/medium: flat illustration avatar, clean icon-style design\\nComposition: centered, square-crop-safe, single focal element with balanced negative space\\nSubject: a stylized abstract emblem combining a lightning bolt (energy / EV), a circuit or chip motif (tech / digital), and a small leaf or spark accent (lifestyle / eco); no human face or figure\\nScene/backdrop: solid or minimal gradient background, platform-neutral\\nLighting/mood: friendly, modern, approachable\\nColor palette: electric blue and white as primary, with a small accent of green or soft orange — universally positive, avoids culturally sensitive color combinations\\nMaterials/textures: smooth flat vector shapes, subtle gloss or outline detail\\nText (verbatim): \\nConstraints: must read clearly at 100×100 px thumbnail size; no human likeness, no religious symbols, no flags, no hand gestures, no animals that carry cultural taboos; design must be culturally neutral and inoffensive across CN / US / EU / Middle East / SEA audiences\\nAvoid: realistic photography style, overly complex detail that collapses at small size, red-and-green combination (color-blind conflict), white-on-white, black as dominant background color, any symbol that could be read as political or religious\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12392
+}

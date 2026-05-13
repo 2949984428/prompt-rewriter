@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a minimalist product shot of a luxury perfume bottle for high-end magazine advertising or e-commerce hero image.\n\nStyle/medium: minimalist product photography, architectural precision, luxury editorial aesthetic\nComposition: centered framing with generous negative space, eye-level straight-on angle, medium telephoto lens\nSubject: high-end perfume bottle with irregular polyhedral faceted glass body, ultra-clear transparency, pale amber liquid inside, matte black metal cap with embossed brand logo relief pattern\nScene/backdrop: pure white marble pedestal, gradient off-white background, clean and restrained environment\nLighting/mood: soft diffused light from upper left, creating refined refraction spectrum across faceted glass surfaces, cool and elegant atmosphere\nColor palette: pale amber as liquid accent, matte black cap as dark anchor, off-white and marble white as neutral base\nMaterials/textures: crystal-clear faceted glass with light refraction, matte black metal cap with subtle embossed texture, smooth cold marble surface\nAvoid: busy backgrounds, warm yellow tones, harsh shadows, cluttered composition, generic stock photo aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0bb0cc61-5572-4a0b-80a6-9afeb8c082c7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a minimalist product shot of a luxury perfume bottle for high-end magazine advertising or e-commerce hero image.\\n\\nStyle/medium: minimalist product photography, architectural precision, luxury editorial aesthetic\\nComposition: centered framing with generous negative space, eye-level straight-on angle, medium telephoto lens\\nSubject: high-end perfume bottle with irregular polyhedral faceted glass body, ultra-clear transparency, pale amber liquid inside, matte black metal cap with embossed brand logo relief pattern\\nScene/backdrop: pure white marble pedestal, gradient off-white background, clean and restrained environment\\nLighting/mood: soft diffused light from upper left, creating refined refraction spectrum across faceted glass surfaces, cool and elegant atmosphere\\nColor palette: pale amber as liquid accent, matte black cap as dark anchor, off-white and marble white as neutral base\\nMaterials/textures: crystal-clear faceted glass with light refraction, matte black metal cap with subtle embossed texture, smooth cold marble surface\\nAvoid: busy backgrounds, warm yellow tones, harsh shadows, cluttered composition, generic stock photo aesthetic\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9661
+}

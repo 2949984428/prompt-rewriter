@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a futuristic architectural concept illustration.\n\nStyle/medium: needs a \"未来主义\" aesthetic — references in the spirit of Zaha Hadid fluid architecture movement, Syd Mead sci-fi industrial design heritage, contemporary parametric architecture visualization; exact stylistic execution is yours\nComposition: \nSubject: must include a streamlined white building suspended in mid-air, drones, holographic projections, and clean energy facilities\nScene/backdrop: \nLighting/mood: needs a sustainable urban future atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must embody a sustainable urban development vision\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c985a62b-db2b-4b88-83ac-75b671f08b11/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a futuristic architectural concept illustration.\\n\\nStyle/medium: needs a \\\"未来主义\\\" aesthetic — references in the spirit of Zaha Hadid fluid architecture movement, Syd Mead sci-fi industrial design heritage, contemporary parametric architecture visualization; exact stylistic execution is yours\\nComposition: \\nSubject: must include a streamlined white building suspended in mid-air, drones, holographic projections, and clean energy facilities\\nScene/backdrop: \\nLighting/mood: needs a sustainable urban future atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must embody a sustainable urban development vision\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8820
+}

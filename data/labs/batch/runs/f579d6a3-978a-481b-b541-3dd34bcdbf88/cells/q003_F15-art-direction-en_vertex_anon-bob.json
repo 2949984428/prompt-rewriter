@@ -1,0 +1,21 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: needs a modern, clean, universally approachable aesthetic — exact stylistic execution is yours\nComposition: must be a square avatar format with a clear focal center, visually balanced at small display sizes\nSubject: must include visual elements representing the three content pillars: new energy vehicles / digital tech / lifestyle goods — unified into a single cohesive icon or character\nScene/backdrop: needs a neutral, platform-agnostic backdrop — exact background treatment is yours\nLighting/mood: needs a friendly, energetic yet approachable atmosphere — exact light treatment is yours\nColor palette: needs a vibrant but universally safe direction — exact palette is yours\nMaterials/textures: \nText (verbatim): \nConstraints: must be culturally neutral and free of symbols, gestures, colors, or iconography that carry negative or taboo connotations in any major culture or religion; must read clearly at small avatar sizes (32px–200px)\nAvoid: must avoid religious symbols, politically sensitive imagery, culturally exclusive gestures, overly aggressive or dark tones, and any element that could alienate audiences on either Chinese or international social platforms",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7bb496bd-acef-4b1d-b813-c89922ffccdb/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: needs a modern, clean, universally approachable aesthetic — exact stylistic execution is yours\\nComposition: must be a square avatar format with a clear focal center, visually balanced at small display sizes\\nSubject: must include visual elements representing the three content pillars: new energy vehicles / digital tech / lifestyle goods — unified into a single cohesive icon or character\\nScene/backdrop: needs a neutral, platform-agnostic backdrop — exact background treatment is yours\\nLighting/mood: needs a friendly, energetic yet approachable atmosphere — exact light treatment is yours\\nColor palette: needs a vibrant but universally safe direction — exact palette is yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must be culturally neutral and free of symbols, gestures, colors, or iconography that carry negative or taboo connotations in any major culture or religion; must read clearly at small avatar sizes (32px–200px)\\nAvoid: must avoid religious symbols, politically sensitive imagery, culturally exclusive gestures, overly aggressive or dark tones, and any element that could alienate audiences on either Chinese or international social platforms\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10815
+}

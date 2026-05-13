@@ -1,0 +1,23 @@
+{
+  "query_idx": 250,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张手机屏幕截图比例的图片。\n\n风格/媒介:模拟真实的抖音直播间界面截图，photorealistic\n构图:\n  手机竖屏截图构图\n  直播间界面布局，包含直播画面、弹幕区、礼物特效区等典型抖音直播UI元素\n主体:\n  詹姆斯（LeBron James）与参考角色在抖音直播间联合带货球鞋\n  画面中可见 Iverson、Curry 等美国知名人物在直播间刷礼物（礼物特效浮现）\n场景/背景:直播间场景，背景陈列球鞋商品\n光线/氛围:直播间补光灯氛围\n色彩方案:\n材质/纹理:\n文字(原样):抖音直播间界面文字元素（弹幕、礼物提示等符合抖音UI风格）\n约束:\n  参考 #1 图中角色的外貌设定\n  画面整体模拟真实抖音直播截图的UI与视觉风格\n避免:卡通化、插画风格",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae1dee0f8-2c3b-48ff-981b-296b47ae7744/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张手机屏幕截图比例的图片。\\n\\n风格/媒介:模拟真实的抖音直播间界面截图，photorealistic\\n构图:\\n  手机竖屏截图构图\\n  直播间界面布局，包含直播画面、弹幕区、礼物特效区等典型抖音直播UI元素\\n主体:\\n  詹姆斯（LeBron James）与参考角色在抖音直播间联合带货球鞋\\n  画面中可见 Iverson、Curry 等美国知名人物在直播间刷礼物（礼物特效浮现）\\n场景/背景:直播间场景，背景陈列球鞋商品\\n光线/氛围:直播间补光灯氛围\\n色彩方案:\\n材质/纹理:\\n文字(原样):抖音直播间界面文字元素（弹幕、礼物提示等符合抖音UI风格）\\n约束:\\n  参考 #1 图中角色的外貌设定\\n  画面整体模拟真实抖音直播截图的UI与视觉风格\\n避免:卡通化、插画风格\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10229,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

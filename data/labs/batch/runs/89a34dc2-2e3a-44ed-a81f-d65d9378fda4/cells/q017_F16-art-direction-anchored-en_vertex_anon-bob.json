@@ -1,0 +1,23 @@
+{
+  "query_idx": 17,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张横版 logo application 展示图，包含网页、手机 App、明信片、信纸等办公用具的品牌应用场景。\n\n风格/媒介：与参考图中的 logo 及背景风格保持一致\n构图：\n  横版排版，多场景并排展示\n  包含网页界面、手机 App 界面、明信片、信纸等办公用具\n  各应用场景整齐排列在同一画面中\n主体：参考图中的 logo 应用于各类品牌物料\n场景/背景：与参考图背景风格一致\n光线/氛围：\n色彩方案：沿用参考图 logo 及背景的色彩体系\n材质/纹理：\n文字(原样)：\n约束：\n  logo 造型、颜色、字体严格沿用参考图 #1\n  背景风格与参考图保持一致\n  所有应用场景统一品牌视觉语言\n避免：改变 logo 设计或引入参考图以外的新色彩",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A45531b8e-6778-48c2-8729-32962215d7ea/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张横版 logo application 展示图，包含网页、手机 App、明信片、信纸等办公用具的品牌应用场景。\\n\\n风格/媒介：与参考图中的 logo 及背景风格保持一致\\n构图：\\n  横版排版，多场景并排展示\\n  包含网页界面、手机 App 界面、明信片、信纸等办公用具\\n  各应用场景整齐排列在同一画面中\\n主体：参考图中的 logo 应用于各类品牌物料\\n场景/背景：与参考图背景风格一致\\n光线/氛围：\\n色彩方案：沿用参考图 logo 及背景的色彩体系\\n材质/纹理：\\n文字(原样)：\\n约束：\\n  logo 造型、颜色、字体严格沿用参考图 #1\\n  背景风格与参考图保持一致\\n  所有应用场景统一品牌视觉语言\\n避免：改变 logo 设计或引入参考图以外的新色彩\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7847,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 286,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张视频代剪广告海报，用于小红书发布。\n\n风格/媒介:广告海报\n构图:竖版构图，适合小红书比例\n主体:视频代剪服务广告\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:竖版海报，适配小红书展示尺寸\n避免:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A44d654b0-cb99-47bd-8b08-c9123e075c90/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张视频代剪广告海报，用于小红书发布。\\n\\n风格/媒介:广告海报\\n构图:竖版构图，适合小红书比例\\n主体:视频代剪服务广告\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:竖版海报，适配小红书展示尺寸\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4530,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

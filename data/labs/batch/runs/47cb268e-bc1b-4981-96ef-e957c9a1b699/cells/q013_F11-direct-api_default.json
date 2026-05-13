@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "制作一个短视频竖版封面。\n标题：8k GGU 电竞显示器 1000hz\n主题：全球首发全新面板 低延迟 完美色彩\n构图方法：三分线构图\n风格：极简高级感。\n要求：大字标题，吸引眼球。",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6701a41d-98e5-4ea0-9bcf-79a9b1c09ccc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"制作一个短视频竖版封面。\\n标题：8k GGU 电竞显示器 1000hz\\n主题：全球首发全新面板 低延迟 完美色彩\\n构图方法：三分线构图\\n风格：极简高级感。\\n要求：大字标题，吸引眼球。\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3165
+}

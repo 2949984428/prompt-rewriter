@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster / PPT cover slide for the launch of 长安起源Q06, an automotive brand reveal, scheduled for September.\n\nStyle/medium: photorealistic automotive marketing key visual, sleek and bold editorial design in the spirit of premium Chinese auto brand campaigns\nComposition: wide cinematic horizontal layout, hero car centered or slightly offset, title and subtitle text overlaid in the lower third, generous negative space above for visual impact\nSubject: 长安起源Q06 as the hero vehicle, rendered with sharp body lines, glossy paint, and commanding presence; brand-aligned headline and subtitle text\nScene/backdrop: dramatic open environment — dark gradient sky breaking into deep blue or midnight teal, suggesting depth and transparency; subtle light rays or volumetric atmosphere to convey a sense of breakthrough and arrival\nLighting/mood: high-contrast dramatic lighting with cool blue-white key light hitting the car body, rim lighting to separate subject from background, awe-inspiring and forward-looking mood\nColor palette: deep midnight blue and near-black as base, electric ice-blue or silver as accent on car highlights, warm gold or white for headline text to signal premium brand tone\nMaterials/textures: mirror-finish car paint with visible reflections, glass-like atmospheric depth in background, subtle metallic sheen on typographic elements\nText (verbatim): \"长安起源Q06\" as main headline; \"9月上市\" as subtitle\nConstraints: text must remain legible against the background; layout must work as a 16:9 widescreen PPT cover; brand hierarchy — car name largest, launch date secondary\nAvoid: generic stock-photo car backgrounds, lens flare overload, cluttered layout, watermark, cartoon or illustrated style",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5d949a49-12e6-4628-a513-7e5e1e1780aa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster / PPT cover slide for the launch of 长安起源Q06, an automotive brand reveal, scheduled for September.\\n\\nStyle/medium: photorealistic automotive marketing key visual, sleek and bold editorial design in the spirit of premium Chinese auto brand campaigns\\nComposition: wide cinematic horizontal layout, hero car centered or slightly offset, title and subtitle text overlaid in the lower third, generous negative space above for visual impact\\nSubject: 长安起源Q06 as the hero vehicle, rendered with sharp body lines, glossy paint, and commanding presence; brand-aligned headline and subtitle text\\nScene/backdrop: dramatic open environment — dark gradient sky breaking into deep blue or midnight teal, suggesting depth and transparency; subtle light rays or volumetric atmosphere to convey a sense of breakthrough and arrival\\nLighting/mood: high-contrast dramatic lighting with cool blue-white key light hitting the car body, rim lighting to separate subject from background, awe-inspiring and forward-looking mood\\nColor palette: deep midnight blue and near-black as base, electric ice-blue or silver as accent on car highlights, warm gold or white for headline text to signal premium brand tone\\nMaterials/textures: mirror-finish car paint with visible reflections, glass-like atmospheric depth in background, subtle metallic sheen on typographic elements\\nText (verbatim): \\\"长安起源Q06\\\" as main headline; \\\"9月上市\\\" as subtitle\\nConstraints: text must remain legible against the background; layout must work as a 16:9 widescreen PPT cover; brand hierarchy — car name largest, launch date secondary\\nAvoid: generic stock-photo car backgrounds, lens flare overload, cluttered layout, watermark, cartoon or illustrated style\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13561
+}

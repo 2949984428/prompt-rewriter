@@ -272,6 +272,43 @@ export function ExperimentDetail({ id }: { id: string }) {
               </div>
             </div>
 
+            {/* 参考图(若 inputs.reference_image_urls 有值,2026-05-13 之后落盘的 record 才有) */}
+            {Array.isArray(record.inputs?.reference_image_urls) &&
+              record.inputs.reference_image_urls.length > 0 && (
+                <div>
+                  <div className="mb-1 text-[11px] uppercase tracking-wider text-stone-gray">
+                    参考图 ({record.inputs.reference_image_urls.length})
+                  </div>
+                  <div className="flex flex-wrap gap-2">
+                    {(record.inputs.reference_image_urls as string[]).map(
+                      (u, i) => (
+                        <a
+                          key={i}
+                          href={u}
+                          target="_blank"
+                          rel="noreferrer"
+                          className="relative block h-20 w-20 overflow-hidden rounded-md border border-border-cream bg-ivory transition hover:border-terracotta"
+                          title={u}
+                        >
+                          {/* eslint-disable-next-line @next/next/no-img-element */}
+                          <img
+                            src={u}
+                            alt=""
+                            className="h-full w-full object-cover"
+                          />
+                          <span
+                            className="absolute left-1 top-1 rounded-sm bg-near-black/75 px-1.5 py-0.5 font-mono text-[10px] font-medium text-ivory"
+                            title={`第 ${i + 1} 张`}
+                          >
+                            #{i + 1}
+                          </span>
+                        </a>
+                      ),
+                    )}
+                  </div>
+                </div>
+              )}
+
             {/* 策略版本 + 模型 chips */}
             <div className="grid gap-3 md:grid-cols-2">
               <ChipBlock

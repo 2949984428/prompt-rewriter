@@ -1,0 +1,23 @@
+{
+  "query_idx": 88,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Edit the logo image (reference #1) to look as if it is written with soy sauce, referencing the soy sauce writing style from reference #2.\n\n风格/媒介: soy sauce as writing medium, liquid brushstroke texture, photorealistic\n构图: top-down / overhead view angle\n主体: the logo text/mark from reference #1, rendered as if drawn or written with soy sauce\n场景/背景: flat surface viewed from directly above\n光线/氛围: top-view flat lay lighting consistent with overhead angle\n色彩方案: dark brown soy sauce tones\n材质/纹理: glossy liquid soy sauce texture, wet pooling edges, as seen in reference #2\n文字(原样):\n约束:\n  preserve the original logo letterforms / shapes from reference #1\n  soy sauce writing style must match reference #2\n避免: upright or perspective angle; dry or matte texture",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae807d88b-a45b-4ea8-8338-157d37bd494d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Edit the logo image (reference #1) to look as if it is written with soy sauce, referencing the soy sauce writing style from reference #2.\\n\\n风格/媒介: soy sauce as writing medium, liquid brushstroke texture, photorealistic\\n构图: top-down / overhead view angle\\n主体: the logo text/mark from reference #1, rendered as if drawn or written with soy sauce\\n场景/背景: flat surface viewed from directly above\\n光线/氛围: top-view flat lay lighting consistent with overhead angle\\n色彩方案: dark brown soy sauce tones\\n材质/纹理: glossy liquid soy sauce texture, wet pooling edges, as seen in reference #2\\n文字(原样):\\n约束:\\n  preserve the original logo letterforms / shapes from reference #1\\n  soy sauce writing style must match reference #2\\n避免: upright or perspective angle; dry or matte texture\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7778,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

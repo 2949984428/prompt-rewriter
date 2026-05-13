@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Xiaohongshu cover post for a \"suren\" (authentic amateur) creator, featuring DJI Pocket 4 first impressions, designed for the 9-grid cover format.\n\nStyle/medium: Xiaohongshu 9-grid cover post, authentic amateur creator aesthetic, unpolished smartphone-photo feel\nComposition: 9-grid layout (3x3), central hero panel with product, surrounding panels showing lifestyle context shots\nSubject: DJI Pocket 4 handheld gimbal camera, held by hands in casual lifestyle settings, product shots mixed with behind-the-scenes moments\nScene/backdrop: everyday life scenes — desk setup, outdoor walk, cafe table, bedroom floor — shot in natural unposed moments\nLighting/mood: natural daylight or indoor ambient, soft and approachable, not overly staged\nColor palette: warm and friendly, slightly desaturated for that \"suren\" authentic feel\nMaterials/textures: real skin textures, fabric, wood surfaces, matte plastic of the device\nText (verbatim): \"大强pocket4初体验\"\nConstraints: 9-grid format visible, font must be cute and differentiated from standard templates, amateur-not-influencer vibe\nAvoid: polished influencer aesthetic, stock-photo perfection, generic Xiaohongshu template fonts, over-retouched skin",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/20da129a-1654-47e6-ab2c-71ee64192cf7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a Xiaohongshu cover post for a \\\"suren\\\" (authentic amateur) creator, featuring DJI Pocket 4 first impressions, designed for the 9-grid cover format.\\n\\nStyle/medium: Xiaohongshu 9-grid cover post, authentic amateur creator aesthetic, unpolished smartphone-photo feel\\nComposition: 9-grid layout (3x3), central hero panel with product, surrounding panels showing lifestyle context shots\\nSubject: DJI Pocket 4 handheld gimbal camera, held by hands in casual lifestyle settings, product shots mixed with behind-the-scenes moments\\nScene/backdrop: everyday life scenes — desk setup, outdoor walk, cafe table, bedroom floor — shot in natural unposed moments\\nLighting/mood: natural daylight or indoor ambient, soft and approachable, not overly staged\\nColor palette: warm and friendly, slightly desaturated for that \\\"suren\\\" authentic feel\\nMaterials/textures: real skin textures, fabric, wood surfaces, matte plastic of the device\\nText (verbatim): \\\"大强pocket4初体验\\\"\\nConstraints: 9-grid format visible, font must be cute and differentiated from standard templates, amateur-not-influencer vibe\\nAvoid: polished influencer aesthetic, stock-photo perfection, generic Xiaohongshu template fonts, over-retouched skin\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12072
+}

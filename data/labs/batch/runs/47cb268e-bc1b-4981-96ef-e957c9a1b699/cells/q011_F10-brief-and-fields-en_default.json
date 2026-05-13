@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster (小红书 cover, 9:16 vertical) announcing that GPT-image-2 is now live on the Lovart platform, with a high-end editorial magazine aesthetic.\n\nStyle/medium: high-end editorial magazine cover, flat graphic design with bold typographic hierarchy, inspired by Wallpaper* and Vogue editorial layouts\nComposition: diagonal composition — key visual elements and text blocks arranged along a strong diagonal axis from lower-left to upper-right, creating dynamic tension; portrait 9:16 frame\nSubject: bold typographic announcement featuring verbatim text \"GPT-image-2\" and \"Lovart\" as the two dominant visual anchors, supported by a concise tagline implying the platform launch\nScene/backdrop: clean, minimal abstract background that reinforces the diagonal structure — geometric planes or sharp angular shapes along the diagonal\nLighting/mood: high-contrast, sharp and confident; no soft gradients; strong graphic punch with a premium editorial mood\nColor palette: deep neutral base (near-black or off-white) with one high-contrast accent color (electric blue, vivid red, or acid yellow) used exclusively on the key text and diagonal accent elements to create maximum visual tension\nText (verbatim): \"GPT-image-2\" and \"Lovart\"\nConstraints: text \"GPT-image-2\" and \"Lovart\" must be legible and prominent; diagonal layout must be clearly perceivable; no more than two accent colors; design must feel premium, not busy\nAvoid: gradients as background wash, drop shadows, clipart icons, generic tech circuit textures, overcrowded layout, pastel tones, symmetrical centered composition",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/85b15e2e-f6fe-49e4-b118-fbc0e7b5780d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster (小红书 cover, 9:16 vertical) announcing that GPT-image-2 is now live on the Lovart platform, with a high-end editorial magazine aesthetic.\\n\\nStyle/medium: high-end editorial magazine cover, flat graphic design with bold typographic hierarchy, inspired by Wallpaper* and Vogue editorial layouts\\nComposition: diagonal composition — key visual elements and text blocks arranged along a strong diagonal axis from lower-left to upper-right, creating dynamic tension; portrait 9:16 frame\\nSubject: bold typographic announcement featuring verbatim text \\\"GPT-image-2\\\" and \\\"Lovart\\\" as the two dominant visual anchors, supported by a concise tagline implying the platform launch\\nScene/backdrop: clean, minimal abstract background that reinforces the diagonal structure — geometric planes or sharp angular shapes along the diagonal\\nLighting/mood: high-contrast, sharp and confident; no soft gradients; strong graphic punch with a premium editorial mood\\nColor palette: deep neutral base (near-black or off-white) with one high-contrast accent color (electric blue, vivid red, or acid yellow) used exclusively on the key text and diagonal accent elements to create maximum visual tension\\nText (verbatim): \\\"GPT-image-2\\\" and \\\"Lovart\\\"\\nConstraints: text \\\"GPT-image-2\\\" and \\\"Lovart\\\" must be legible and prominent; diagonal layout must be clearly perceivable; no more than two accent colors; design must feel premium, not busy\\nAvoid: gradients as background wash, drop shadows, clipart icons, generic tech circuit textures, overcrowded layout, pastel tones, symmetrical centered composition\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12318
+}

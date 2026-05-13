@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a professional product photography scene featuring a smartwatch on a marble surface (all in-image text in Chinese).\n\nStyle/medium: needs a 简约商务 aesthetic — exact stylistic execution is yours\nComposition: must include the smartwatch as the primary focal subject, with a coffee cup and notebook as supporting props on the marble surface\nSubject: must include a smartwatch (one, hero product), a coffee cup (one), and a notebook (one)\nScene/backdrop: must include a marble tabletop surface\nLighting/mood: must be natural side lighting — exact light quality and shadow treatment are yours\nColor palette: needs a clean, business-minimal direction — exact tones and ratios are yours\nMaterials/textures: needs a premium surface treatment emphasizing marble texture and product tactile quality — exact grain and sheen are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must emphasize product texture and material quality as the visual priority\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/24dabcd7-b832-4333-a2c0-41681946716d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a professional product photography scene featuring a smartwatch on a marble surface (all in-image text in Chinese).\\n\\nStyle/medium: needs a 简约商务 aesthetic — exact stylistic execution is yours\\nComposition: must include the smartwatch as the primary focal subject, with a coffee cup and notebook as supporting props on the marble surface\\nSubject: must include a smartwatch (one, hero product), a coffee cup (one), and a notebook (one)\\nScene/backdrop: must include a marble tabletop surface\\nLighting/mood: must be natural side lighting — exact light quality and shadow treatment are yours\\nColor palette: needs a clean, business-minimal direction — exact tones and ratios are yours\\nMaterials/textures: needs a premium surface treatment emphasizing marble texture and product tactile quality — exact grain and sheen are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must emphasize product texture and material quality as the visual priority\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9008
+}

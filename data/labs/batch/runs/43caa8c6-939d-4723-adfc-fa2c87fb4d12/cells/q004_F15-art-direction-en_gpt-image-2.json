@@ -1,0 +1,21 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide for an automotive brand launch campaign.\n\nStyle/medium: needs a cinematic, high-impact visual aesthetic with a sense of translucency and depth — exact stylistic execution is yours\nComposition: must be a wide landscape cover layout with title and subtitle prominently placed\nSubject: must include the 长安起源Q06 as the hero subject\nScene/backdrop: needs a dramatic, immersive backdrop that feels expansive and brand-premium — exact scene is yours\nLighting/mood: needs a striking, awe-inspiring atmosphere with a sense of translucency and visual depth — exact light treatment is yours\nColor palette: needs a direction aligned with automotive brand prestige — exact palette and ratios are yours\nMaterials/textures: needs a polished, high-end surface quality — exact material treatment is yours\nText (verbatim): must include \"长安起源Q06\" (primary title), \"9月上市\" (subtitle)\nConstraints: must preserve legibility of title and subtitle against the background\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A6441e3df-09ef-4ac5-a32c-35c59f10db21/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide for an automotive brand launch campaign.\\n\\nStyle/medium: needs a cinematic, high-impact visual aesthetic with a sense of translucency and depth — exact stylistic execution is yours\\nComposition: must be a wide landscape cover layout with title and subtitle prominently placed\\nSubject: must include the 长安起源Q06 as the hero subject\\nScene/backdrop: needs a dramatic, immersive backdrop that feels expansive and brand-premium — exact scene is yours\\nLighting/mood: needs a striking, awe-inspiring atmosphere with a sense of translucency and visual depth — exact light treatment is yours\\nColor palette: needs a direction aligned with automotive brand prestige — exact palette and ratios are yours\\nMaterials/textures: needs a polished, high-end surface quality — exact material treatment is yours\\nText (verbatim): must include \\\"长安起源Q06\\\" (primary title), \\\"9月上市\\\" (subtitle)\\nConstraints: must preserve legibility of title and subtitle against the background\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7533
+}

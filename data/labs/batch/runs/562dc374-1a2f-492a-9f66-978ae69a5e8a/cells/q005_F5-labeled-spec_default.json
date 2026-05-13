@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic still, space exploration imagery\nPrimary request: astronaut floating in Earth orbit with stunning galaxy and nebula in background, partial space station structure at frame edge\nScene/backdrop: low Earth orbit, curved Earth horizon below, vast starfield with colorful nebula and Milky Way core, modular space station truss visible at periphery\nSubject: astronaut in detailed EVA spacesuit, reflective visor showing Earth reflection, body in relaxed zero-gravity pose, suit fabric texture and joint mechanisms clearly visible\nStyle/medium: photorealistic digital art, NASA-style documentary photography\nComposition/framing: wide establishing shot, astronaut positioned off-center, Earth occupying lower third, cosmic background filling upper frame, slight Dutch angle for dynamism\nLighting/mood: soft blue-white Earthshine illuminating the suit from below, deep space blackness punctuated by distant stars, awe-inspiring and majestic atmosphere\nColor palette: deep space black + vibrant blue-white Earth reflection + purple and pink nebula hues + metallic silver suit\nMaterials/textures: matte white spacesuit fabric with scuff marks, gold visor coating, metallic station components, smooth Earth atmosphere gradient\nConstraints: maintain photorealistic suit details, Earth must show curvature and atmosphere glow\nAvoid: cartoonish proportions, flat lighting, oversaturated colors, lens flare abuse, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3ebeb70d-0b62-4a4a-b035-adc09fc7cd05/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic still, space exploration imagery\\nPrimary request: astronaut floating in Earth orbit with stunning galaxy and nebula in background, partial space station structure at frame edge\\nScene/backdrop: low Earth orbit, curved Earth horizon below, vast starfield with colorful nebula and Milky Way core, modular space station truss visible at periphery\\nSubject: astronaut in detailed EVA spacesuit, reflective visor showing Earth reflection, body in relaxed zero-gravity pose, suit fabric texture and joint mechanisms clearly visible\\nStyle/medium: photorealistic digital art, NASA-style documentary photography\\nComposition/framing: wide establishing shot, astronaut positioned off-center, Earth occupying lower third, cosmic background filling upper frame, slight Dutch angle for dynamism\\nLighting/mood: soft blue-white Earthshine illuminating the suit from below, deep space blackness punctuated by distant stars, awe-inspiring and majestic atmosphere\\nColor palette: deep space black + vibrant blue-white Earth reflection + purple and pink nebula hues + metallic silver suit\\nMaterials/textures: matte white spacesuit fabric with scuff marks, gold visor coating, metallic station components, smooth Earth atmosphere gradient\\nConstraints: maintain photorealistic suit details, Earth must show curvature and atmosphere glow\\nAvoid: cartoonish proportions, flat lighting, oversaturated colors, lens flare abuse, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12066
+}

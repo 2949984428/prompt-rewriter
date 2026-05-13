@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic for a step-by-step tutorial on deploying Hermes in a Docker container and integrating with GLMCodingPlan.\n\nStyle/medium: infographic, step-by-step diagram\nComposition: \nSubject: Docker container deployment of Hermes, GLMCodingPlan integration workflow\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: clear numbered steps 1 2 3 4, technical illustration style\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/920dabfe-fdf8-446e-915c-540e4f4f79ab/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing infographic for a step-by-step tutorial on deploying Hermes in a Docker container and integrating with GLMCodingPlan.\\n\\nStyle/medium: infographic, step-by-step diagram\\nComposition: \\nSubject: Docker container deployment of Hermes, GLMCodingPlan integration workflow\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: clear numbered steps 1 2 3 4, technical illustration style\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5475
+}

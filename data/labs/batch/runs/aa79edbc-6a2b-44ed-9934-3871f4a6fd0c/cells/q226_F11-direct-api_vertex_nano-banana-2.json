@@ -1,0 +1,23 @@
+{
+  "query_idx": 226,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张 Instagram 帖子，内容是：面向z时代，勇敢表达自己对于世界，对于战争，对于国际大事的见解。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2fff84e8-274d-4400-8005-d18dc28c7070/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一张 Instagram 帖子，内容是：面向z时代，勇敢表达自己对于世界，对于战争，对于国际大事的见解。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3432,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

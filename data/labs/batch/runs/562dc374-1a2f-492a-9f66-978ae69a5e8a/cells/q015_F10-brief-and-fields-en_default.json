@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing illustration of a steampunk mechanical apparatus with intricate gears, pipes and gauges.\n\nStyle/medium: steampunk illustration, Victorian industrial aesthetic, mechanical blueprint meets artistic rendering\nComposition: detailed close-up of the apparatus core, angled perspective showing depth of layered components, balanced arrangement of mechanical elements\nSubject: complex mechanical apparatus with interlocking brass gears, copper pipes, pressure gauges with ornate dials, steam valves, riveted metal plates\nScene/backdrop: neutral or subtly textured background to emphasize the machinery, hint of workshop environment\nLighting/mood: warm ambient light reflecting off brass and copper surfaces, subtle rim lighting to highlight metallic edges, nostalgic and precise atmosphere\nColor palette: warm brass and copper tones as dominant, oxidized green patina accents, dark iron shadows, cream or sepia undertones\nMaterials/textures: polished brass with subtle tarnish, smooth copper tubing, cast iron with machined surfaces, engraved Victorian decorative patterns, visible rivets and seams\nAvoid: modern plastic materials, clean futuristic aesthetics, overly pristine surfaces, 8K stuffer words, photorealistic rendering style",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4bd8cf13-fd66-4819-9f31-2bad08dc0e5d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing illustration of a steampunk mechanical apparatus with intricate gears, pipes and gauges.\\n\\nStyle/medium: steampunk illustration, Victorian industrial aesthetic, mechanical blueprint meets artistic rendering\\nComposition: detailed close-up of the apparatus core, angled perspective showing depth of layered components, balanced arrangement of mechanical elements\\nSubject: complex mechanical apparatus with interlocking brass gears, copper pipes, pressure gauges with ornate dials, steam valves, riveted metal plates\\nScene/backdrop: neutral or subtly textured background to emphasize the machinery, hint of workshop environment\\nLighting/mood: warm ambient light reflecting off brass and copper surfaces, subtle rim lighting to highlight metallic edges, nostalgic and precise atmosphere\\nColor palette: warm brass and copper tones as dominant, oxidized green patina accents, dark iron shadows, cream or sepia undertones\\nMaterials/textures: polished brass with subtle tarnish, smooth copper tubing, cast iron with machined surfaces, engraved Victorian decorative patterns, visible rivets and seams\\nAvoid: modern plastic materials, clean futuristic aesthetics, overly pristine surfaces, 8K stuffer words, photorealistic rendering style\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10464
+}

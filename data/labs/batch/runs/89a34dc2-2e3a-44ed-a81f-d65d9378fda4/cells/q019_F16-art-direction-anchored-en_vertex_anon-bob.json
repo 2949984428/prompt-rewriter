@@ -1,0 +1,15 @@
+{
+  "query_idx": 19,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"生成品牌 VI 规范展示图 —— 基于用户提供的 Logo（Vintage™ 标志 + 字母 R 标志）。\\n\\n风格/媒介: 品牌 VI 规范展示，平面设计\\n构图:\\n  VI 规范总览版式\\n  展示 Logo 主标志、辅助图形、色彩规范、字体规范排列\\n主体: 以用户提供的 Vintage™ Logo 与字母 R Logo 为核心识别元素\\n场景/背景: 白色或浅灰色规范展示背景\\n光线/氛围: 干净、专业\\n色彩方案: 沿用 Logo 原有色彩体系\\n材质/纹理:\\n文字(原样): Vintage™\\n约束:\\n  Logo 图形须与用户提供的 [@image:#1:Vintage™][@image:#2:字母R] 保持一致\\n  不得改变 Logo 造型与比例\\n避免: 自行发明 Logo 图形或品牌色\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"生成品牌周边应用展示图 —— 基于用户提供的 Logo（Vintage™ 标志 + 字母 R 标志），展示名片、信封、手提袋等周边物料。\\n\\n风格/媒介: 品牌周边 Mockup 展示，平面设计\\n构图:\\n  多件周边物料平铺或立体排列\\n  包含名片、信封、手提袋等常见品牌物料\\n主体:\\n  名片、信封、手提袋等周边物料\\n  物料上印有 Vintage™ Logo 与字母 R Logo\\n场景/背景: 简洁中性背景，突出物料本身\\n光线/氛围: 干净、专业\\n色彩方案: 沿用 Logo 原有色彩体系\\n材质/纹理: 纸质、布面等常见物料质感\\n文字(原样): Vintage™\\n约束:\\n  Logo 图形须与用户提供的 [@image:#1:Vintage™][@image:#2:字母R] 保持一致\\n  不得改变 Logo 造型与比例\\n避免: 自行发明 Logo 图形或品牌色\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"生成 PPT 模版展示图 —— 基于用户提供的 Logo（Vintage™ 标志 + 字母 R 标志），展示品牌 PPT 幻灯片模版。\\n\\n风格/媒介: PPT 幻灯片模版，平面设计\\n构图:\\n  展示封面页、目录页、内容页、结尾页等多页版式\\n  版式整洁，留有内容区域\\n主体:\\n  PPT 幻灯片模版页面\\n  页眉或页脚处放置 Vintage™ Logo 与字母 R Logo\\n场景/背景: PPT 页面背景，简洁\\n光线/氛围: 干净、商务\\n色彩方案: 沿用 Logo 原有色彩体系\\n材质/纹理:\\n文字(原样): Vintage™\\n约束:\\n  Logo 图形须与用户提供的 [@image:#1:Vintage™][@image:#2:字母R] 保持一致\\n  PPT 比例为 16:9\\n  不得改变 Logo 造型与比例\\n避免: 自行发明 Logo 图形或品牌色\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 18135,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

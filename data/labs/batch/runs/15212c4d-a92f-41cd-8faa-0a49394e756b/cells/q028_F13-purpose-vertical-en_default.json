@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing employee ID badge for ByteDance, showing both front and back sides, with photorealistic rendering.\n\nStyle/medium: photorealistic product mockup, employee ID badge\nComposition: dual-sided layout showing front and back of the badge side by side or front-and-back view\nSubject: ByteDance employee ID badge\nScene/backdrop: neutral studio backdrop or shallow depth of field surface\nLighting/mood: soft product photography lighting with subtle reflections on plastic/laminate surface\nColor palette: ByteDance brand colors (blue, white, black accents)\nMaterials/textures: PVC card stock, glossy laminate finish, lanyard clip hardware\nText (verbatim): 字节跳动\nConstraints: both front and back sides must be visible, realistic badge proportions and thickness, lanyard hole visible\nAvoid: cartoonish or flat illustration style, missing back side, fantasy elements",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6322a94c-1cc0-484c-9216-041375711543/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing employee ID badge for ByteDance, showing both front and back sides, with photorealistic rendering.\\n\\nStyle/medium: photorealistic product mockup, employee ID badge\\nComposition: dual-sided layout showing front and back of the badge side by side or front-and-back view\\nSubject: ByteDance employee ID badge\\nScene/backdrop: neutral studio backdrop or shallow depth of field surface\\nLighting/mood: soft product photography lighting with subtle reflections on plastic/laminate surface\\nColor palette: ByteDance brand colors (blue, white, black accents)\\nMaterials/textures: PVC card stock, glossy laminate finish, lanyard clip hardware\\nText (verbatim): 字节跳动\\nConstraints: both front and back sides must be visible, realistic badge proportions and thickness, lanyard hole visible\\nAvoid: cartoonish or flat illustration style, missing back side, fantasy elements\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9104
+}

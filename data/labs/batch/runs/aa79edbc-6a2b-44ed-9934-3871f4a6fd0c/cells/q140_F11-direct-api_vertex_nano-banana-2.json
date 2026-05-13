@@ -1,0 +1,23 @@
+{
+  "query_idx": 140,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:户外训犬腰包电商主图]上衣修改为短袖，按照亚马逊平台规范尺寸",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab4311f9d-bc0d-45d4-83ee-92928dfcfe46/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:户外训犬腰包电商主图]上衣修改为短袖，按照亚马逊平台规范尺寸\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3127,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

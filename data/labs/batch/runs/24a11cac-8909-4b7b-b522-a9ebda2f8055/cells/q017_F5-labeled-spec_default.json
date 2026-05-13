@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: fine-art-illustration\nAsset type: abstract expressionist painting, gallery-ready artwork\nPrimary request: bold abstract expressionist composition with clashing colors, fluid gestural brushstrokes, no figurative imagery, full of raw emotion and kinetic energy\nScene/backdrop: no defined scene; pure abstract field of paint\nSubject: non-representational forms — swirling, dripping, and slashing brushwork layered across the canvas\nStyle/medium: abstract expressionism, oil painting aesthetic, gestural impasto texture\nComposition/framing: full-bleed canvas, dynamic diagonal energy flows, no focal center, all-over composition\nLighting/mood: no external light source; mood conveyed through color tension — intense, visceral, emotionally charged\nColor palette: clashing saturated hues — deep crimson, electric cobalt, burnt sienna, acid yellow, near-black — with raw unpainted gaps\nMaterials/textures: thick impasto ridges, visible palette-knife scrapes, drips and splatter, layered paint buildup\nConstraints: no recognizable figures, faces, objects, or text; keep the composition non-representational throughout\nAvoid: decorative prettiness, pastel softness, symmetrical balance, digital-clean edges, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/456eef33-7590-4e02-8a81-6d3f91eab0ab/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: fine-art-illustration\\nAsset type: abstract expressionist painting, gallery-ready artwork\\nPrimary request: bold abstract expressionist composition with clashing colors, fluid gestural brushstrokes, no figurative imagery, full of raw emotion and kinetic energy\\nScene/backdrop: no defined scene; pure abstract field of paint\\nSubject: non-representational forms — swirling, dripping, and slashing brushwork layered across the canvas\\nStyle/medium: abstract expressionism, oil painting aesthetic, gestural impasto texture\\nComposition/framing: full-bleed canvas, dynamic diagonal energy flows, no focal center, all-over composition\\nLighting/mood: no external light source; mood conveyed through color tension — intense, visceral, emotionally charged\\nColor palette: clashing saturated hues — deep crimson, electric cobalt, burnt sienna, acid yellow, near-black — with raw unpainted gaps\\nMaterials/textures: thick impasto ridges, visible palette-knife scrapes, drips and splatter, layered paint buildup\\nConstraints: no recognizable figures, faces, objects, or text; keep the composition non-representational throughout\\nAvoid: decorative prettiness, pastel softness, symmetrical balance, digital-clean edges, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12120
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 11,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成品牌VI海报 —— 参考图1的logo风格，优化图2（Cloud Islander品牌logo），并生成配套物料品牌VI海报。\n\n风格/媒介: 参考图1的logo风格与整体视觉语言\n构图: 参考图1的配套物料版式与构图方式\n主体: Cloud Islander品牌logo及配套VI物料海报\n场景/背景: 参考图1的背景处理方式\n光线/氛围: 参考图1的整体氛围基调\n色彩方案: 参考图1的品牌色彩体系\n材质/纹理: 参考图1的材质与纹理表现\n文字(原样): Cloud Islander\n约束:\n  以图2的Cloud Islander品牌logo为优化基础\n  风格须与图1保持一致\n  输出为品牌VI配套物料海报形式\n避免: 脱离图1视觉风格的设计方向",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3f50ac1c-b190-4b01-a7c5-6fb15d2c229f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成品牌VI海报 —— 参考图1的logo风格，优化图2（Cloud Islander品牌logo），并生成配套物料品牌VI海报。\\n\\n风格/媒介: 参考图1的logo风格与整体视觉语言\\n构图: 参考图1的配套物料版式与构图方式\\n主体: Cloud Islander品牌logo及配套VI物料海报\\n场景/背景: 参考图1的背景处理方式\\n光线/氛围: 参考图1的整体氛围基调\\n色彩方案: 参考图1的品牌色彩体系\\n材质/纹理: 参考图1的材质与纹理表现\\n文字(原样): Cloud Islander\\n约束:\\n  以图2的Cloud Islander品牌logo为优化基础\\n  风格须与图1保持一致\\n  输出为品牌VI配套物料海报形式\\n避免: 脱离图1视觉风格的设计方向\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7003,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

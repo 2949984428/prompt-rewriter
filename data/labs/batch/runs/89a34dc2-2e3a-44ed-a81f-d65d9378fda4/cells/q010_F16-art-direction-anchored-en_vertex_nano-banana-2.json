@@ -1,0 +1,23 @@
+{
+  "query_idx": 10,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个 logo，模仿参考图的风格。\n\n风格/媒介: 模仿参考图 #1 的视觉风格\n构图:\n主体: logo 设计\n场景/背景:\n光线/氛围:\n色彩方案: 参考图 #1 的色彩方案\n材质/纹理:\n文字(原样): nook tea\n约束: 严格保留英文名称 \"nook tea\"；风格紧贴参考图 #1\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A24742532-7c4d-4740-98b9-17d432d801c7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个 logo，模仿参考图的风格。\\n\\n风格/媒介: 模仿参考图 #1 的视觉风格\\n构图:\\n主体: logo 设计\\n场景/背景:\\n光线/氛围:\\n色彩方案: 参考图 #1 的色彩方案\\n材质/纹理:\\n文字(原样): nook tea\\n约束: 严格保留英文名称 \\\"nook tea\\\"；风格紧贴参考图 #1\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8838,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

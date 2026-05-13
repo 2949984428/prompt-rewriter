@@ -1,0 +1,23 @@
+{
+  "query_idx": 145,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "这是我的产品，生成一个电商详情页面，要高端精致一点 [@image:#1: Image]",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A124db3e7-bd03-4943-b032-787090f94301/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"这是我的产品，生成一个电商详情页面，要高端精致一点 [@image:#1: Image]\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2653,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

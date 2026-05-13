@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing single-panel knowledge card illustration for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms period, in a cartoon storybook style.\n\nStyle/medium: single large knowledge card, children's cartoon illustration, storybook infographic aesthetic\nComposition: full-card layout — large central cartoon scene occupying the majority of the card, title banner at the top, bullet-point key facts panel arranged neatly along the side margin with numbered or dotted markers\nSubject: Battle of Red Cliffs (赤壁之战) — cartoon depiction of the key story moments: Cao Cao's massive fleet on the Yangtze River, Zhou Yu and Zhuge Liang's alliance, the fire attack strategy (火攻), burning ships, and the dramatic defeat of Cao Cao's navy\nScene/backdrop: Yangtze River at night or dusk, large fleet of warships, dramatic flames spreading across the water\nLighting/mood: warm dramatic glow from the fire attack, exciting and adventurous tone appropriate for children\nColor palette: bright, saturated, child-friendly colors — deep river blue, warm orange-red flames, vivid greens and golds for the characters\nMaterials/textures: flat cartoon illustration with clean outlines, soft cel-shading, storybook texture\nText (verbatim): 标题：「赤壁之战」; 要点列表（旁边标点）：① 时间：公元208年 ② 交战双方：曹操 vs 孙刘联军 ③ 关键人物：曹操、周瑜、诸葛亮 ④ 策略：火烧赤壁 ⑤ 结果：曹操大败，三国鼎立格局形成\nConstraints: title must be prominent at the top; key-points bullet list must be clearly readable along the side; central cartoon scene must be the dominant visual; all text in Chinese; child-friendly, non-violent depiction of the battle (flames and ships, no gore)\nAvoid: adult-oriented war imagery, realistic gore or violence, cluttered layout, overly small text, Western comic style",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6229d748-834b-47a1-97e5-920b7b86df3a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing single-panel knowledge card illustration for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms period, in a cartoon storybook style.\\n\\nStyle/medium: single large knowledge card, children's cartoon illustration, storybook infographic aesthetic\\nComposition: full-card layout — large central cartoon scene occupying the majority of the card, title banner at the top, bullet-point key facts panel arranged neatly along the side margin with numbered or dotted markers\\nSubject: Battle of Red Cliffs (赤壁之战) — cartoon depiction of the key story moments: Cao Cao's massive fleet on the Yangtze River, Zhou Yu and Zhuge Liang's alliance, the fire attack strategy (火攻), burning ships, and the dramatic defeat of Cao Cao's navy\\nScene/backdrop: Yangtze River at night or dusk, large fleet of warships, dramatic flames spreading across the water\\nLighting/mood: warm dramatic glow from the fire attack, exciting and adventurous tone appropriate for children\\nColor palette: bright, saturated, child-friendly colors — deep river blue, warm orange-red flames, vivid greens and golds for the characters\\nMaterials/textures: flat cartoon illustration with clean outlines, soft cel-shading, storybook texture\\nText (verbatim): 标题：「赤壁之战」; 要点列表（旁边标点）：① 时间：公元208年 ② 交战双方：曹操 vs 孙刘联军 ③ 关键人物：曹操、周瑜、诸葛亮 ④ 策略：火烧赤壁 ⑤ 结果：曹操大败，三国鼎立格局形成\\nConstraints: title must be prominent at the top; key-points bullet list must be clearly readable along the side; central cartoon scene must be the dominant visual; all text in Chinese; child-friendly, non-violent depiction of the battle (flames and ships, no gore)\\nAvoid: adult-oriented war imagery, realistic gore or violence, cluttered layout, overly small text, Western comic style\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14485
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a full-screen brand exposure marketing poster designed as a smartphone screenshot for OPPO Find X9 Pro, prioritizing visual impact.\n\nStyle/medium: high-impact flat digital advertising, bold graphic design in the spirit of premium smartphone launch campaigns\nComposition: full-bleed vertical layout (9:16), centered hero product with generous breathing room, strong visual hierarchy from top brand name to bottom CTA zone\nSubject: OPPO Find X9 Pro smartphone as hero product, sleek and modern industrial design, prominent camera module detail\nScene/backdrop: deep black or ultra-dark gradient background to maximize contrast and premium feel\nLighting/mood: dramatic single-source rim lighting on the device, cool blue-white accent glow, high-contrast and commanding\nColor palette: deep black as dominant base, OPPO brand red as accent, cold silver/white highlight on device edges\nText (verbatim): \"OPPO Find X9 Pro\"\nConstraints: must read as a realistic phone screenshot UI frame; brand name must be legible at full-screen scale; layout must feel like an official OEM launch ad\nAvoid: cluttered backgrounds, warm or soft lighting, generic stock-photo aesthetic, watermarks, lorem ipsum placeholder text",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/55d5f725-85ff-4123-a237-574a4ea33ef5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a full-screen brand exposure marketing poster designed as a smartphone screenshot for OPPO Find X9 Pro, prioritizing visual impact.\\n\\nStyle/medium: high-impact flat digital advertising, bold graphic design in the spirit of premium smartphone launch campaigns\\nComposition: full-bleed vertical layout (9:16), centered hero product with generous breathing room, strong visual hierarchy from top brand name to bottom CTA zone\\nSubject: OPPO Find X9 Pro smartphone as hero product, sleek and modern industrial design, prominent camera module detail\\nScene/backdrop: deep black or ultra-dark gradient background to maximize contrast and premium feel\\nLighting/mood: dramatic single-source rim lighting on the device, cool blue-white accent glow, high-contrast and commanding\\nColor palette: deep black as dominant base, OPPO brand red as accent, cold silver/white highlight on device edges\\nText (verbatim): \\\"OPPO Find X9 Pro\\\"\\nConstraints: must read as a realistic phone screenshot UI frame; brand name must be legible at full-screen scale; layout must feel like an official OEM launch ad\\nAvoid: cluttered backgrounds, warm or soft lighting, generic stock-photo aesthetic, watermarks, lorem ipsum placeholder text\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12773
+}

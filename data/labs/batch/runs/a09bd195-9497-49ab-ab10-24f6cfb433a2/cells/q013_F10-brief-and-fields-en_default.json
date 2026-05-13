@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a tropical resort pool deck overlooking the ocean.\n\nStyle/medium: photorealistic resort photography, tropical vacation aesthetic, high saturation\nComposition: wide-angle establishing shot, eye-level perspective, infinity pool as leading line toward horizon\nSubject: infinity-edge swimming pool with crystal clear turquoise water, wooden sun loungers with white cushions, striped fabric beach umbrellas\nScene/backdrop: tropical ocean view, calm sea meeting sky at horizon, white sand beach visible below, scattered coconut palms with full green fronds, bright blue sky with fluffy cumulus clouds\nLighting/mood: bright midday tropical sun, warm golden light, cheerful and inviting vacation atmosphere\nColor palette: saturated turquoise pool water, deep ocean blue, vibrant green palm fronds, warm wood tones, crisp white furniture, azure sky\nMaterials/textures: rippling water surface, natural wood grain on deck, woven rattan textures, crisp cotton fabric, glossy palm leaves\nAvoid: muted colors, overcast sky, empty pool, plastic-looking furniture, watermark, generic stock photo aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f648328e-b7e3-4015-910f-638d4de976ee/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a tropical resort pool deck overlooking the ocean.\\n\\nStyle/medium: photorealistic resort photography, tropical vacation aesthetic, high saturation\\nComposition: wide-angle establishing shot, eye-level perspective, infinity pool as leading line toward horizon\\nSubject: infinity-edge swimming pool with crystal clear turquoise water, wooden sun loungers with white cushions, striped fabric beach umbrellas\\nScene/backdrop: tropical ocean view, calm sea meeting sky at horizon, white sand beach visible below, scattered coconut palms with full green fronds, bright blue sky with fluffy cumulus clouds\\nLighting/mood: bright midday tropical sun, warm golden light, cheerful and inviting vacation atmosphere\\nColor palette: saturated turquoise pool water, deep ocean blue, vibrant green palm fronds, warm wood tones, crisp white furniture, azure sky\\nMaterials/textures: rippling water surface, natural wood grain on deck, woven rattan textures, crisp cotton fabric, glossy palm leaves\\nAvoid: muted colors, overcast sky, empty pool, plastic-looking furniture, watermark, generic stock photo aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9577
+}

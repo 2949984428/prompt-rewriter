@@ -1,0 +1,21 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing realistic employee ID badge for 字节跳动, showing both front and back sides.\n\nStyle/medium: needs a realistic, corporate ID card aesthetic — exact stylistic execution is yours\nComposition: must show both front and back sides of the badge laid out clearly\nSubject: must include a 字节跳动 employee ID badge (front and back)\nScene/backdrop: \nLighting/mood: needs a realistic, studio-product-shot atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a realistic plastic card surface treatment — exact finish and sheen are yours\nText (verbatim): \nConstraints: must preserve both sides visible in one image; must look like a real corporate employee badge\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aadb8b3f0-c8f6-4b9f-adb7-d2d4b722d6fa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing realistic employee ID badge for 字节跳动, showing both front and back sides.\\n\\nStyle/medium: needs a realistic, corporate ID card aesthetic — exact stylistic execution is yours\\nComposition: must show both front and back sides of the badge laid out clearly\\nSubject: must include a 字节跳动 employee ID badge (front and back)\\nScene/backdrop: \\nLighting/mood: needs a realistic, studio-product-shot atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a realistic plastic card surface treatment — exact finish and sheen are yours\\nText (verbatim): \\nConstraints: must preserve both sides visible in one image; must look like a real corporate employee badge\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9553
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a muscular athlete performing a deadlift in an industrial-style gym.\n\nStyle/medium: photorealistic editorial fitness photography, gritty industrial aesthetic\nComposition: medium shot from 45-degree angle, low camera position emphasizing the lift, 35mm lens, sharp focus on muscle definition\nSubject: athletic male with defined muscle lines, visible sweat on skin, intense concentration, proper deadlift form with barbell\nScene/backdrop: industrial gym interior, exposed brick walls, metal beams, concrete floors, minimal equipment visible\nLighting/mood: cool-toned overhead lighting, directional spotlights creating dramatic shadows, masculine and powerful atmosphere\nColor palette: cool steel blue and grey as base, warm skin tones as contrast, metallic silver from equipment\nMaterials/textures: glistening sweat on skin, rough concrete texture, cold metal barbell, worn leather weightlifting belt\nAvoid: soft lighting, warm color casts, cluttered background, deformed hands, plastic skin texture, 8K stuffer aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8ce1a511-0dd8-4e27-9016-d4818a6f1323/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a muscular athlete performing a deadlift in an industrial-style gym.\\n\\nStyle/medium: photorealistic editorial fitness photography, gritty industrial aesthetic\\nComposition: medium shot from 45-degree angle, low camera position emphasizing the lift, 35mm lens, sharp focus on muscle definition\\nSubject: athletic male with defined muscle lines, visible sweat on skin, intense concentration, proper deadlift form with barbell\\nScene/backdrop: industrial gym interior, exposed brick walls, metal beams, concrete floors, minimal equipment visible\\nLighting/mood: cool-toned overhead lighting, directional spotlights creating dramatic shadows, masculine and powerful atmosphere\\nColor palette: cool steel blue and grey as base, warm skin tones as contrast, metallic silver from equipment\\nMaterials/textures: glistening sweat on skin, rough concrete texture, cold metal barbell, worn leather weightlifting belt\\nAvoid: soft lighting, warm color casts, cluttered background, deformed hands, plastic skin texture, 8K stuffer aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10456
+}

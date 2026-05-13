@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing technical infographic for a Sony A7 camera exploded-view diagram.\n\nStyle/medium: clean technical illustration, exploded-view diagram style, instructional manual aesthetic, vector-based with precise linework\nComposition: centered camera body with parts radiating outward in an organized exploded arrangement, labels pointing to each component, isometric perspective\nSubject: Sony A7 camera disassembled into core components — lens mount, sensor unit, shutter mechanism, battery compartment, memory card slot, viewfinder assembly, rear LCD screen, main circuit board, grip, hot shoe mount\nScene/backdrop: clean white or light gray gradient background, minimal grid lines for technical reference\nLighting/mood: even diffused studio lighting, neutral and clinical, designed for clarity and educational readability\nColor palette: metallic silver and black for camera parts, bold accent colors for callout labels, high contrast text\nText (verbatim): \"Sony A7\"\nConstraints: must be clearly readable at small sizes; all labels must be legible; exploded view must show logical assembly order\nAvoid: photorealistic textures; cluttered overlapping parts; illegible small text; 3D render noise; watermarks",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/94c2713a-d503-428f-b9a2-fb46f41e9a03/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing technical infographic for a Sony A7 camera exploded-view diagram.\\n\\nStyle/medium: clean technical illustration, exploded-view diagram style, instructional manual aesthetic, vector-based with precise linework\\nComposition: centered camera body with parts radiating outward in an organized exploded arrangement, labels pointing to each component, isometric perspective\\nSubject: Sony A7 camera disassembled into core components — lens mount, sensor unit, shutter mechanism, battery compartment, memory card slot, viewfinder assembly, rear LCD screen, main circuit board, grip, hot shoe mount\\nScene/backdrop: clean white or light gray gradient background, minimal grid lines for technical reference\\nLighting/mood: even diffused studio lighting, neutral and clinical, designed for clarity and educational readability\\nColor palette: metallic silver and black for camera parts, bold accent colors for callout labels, high contrast text\\nText (verbatim): \\\"Sony A7\\\"\\nConstraints: must be clearly readable at small sizes; all labels must be legible; exploded view must show logical assembly order\\nAvoid: photorealistic textures; cluttered overlapping parts; illegible small text; 3D render noise; watermarks\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11049
+}

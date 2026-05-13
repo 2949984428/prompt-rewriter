@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational knowledge card for children explaining the story of 赤壁之战 from the Three Kingdoms.\n\nStyle/medium: needs a cartoon-story illustration aesthetic suitable for children — exact stylistic execution is yours\nComposition: must be a single large knowledge card layout with clear title area and bullet-point sidebar\nSubject: must include the story of 赤壁之战 (赤壁之战)\nScene/backdrop: needs a cartoon-story visual treatment — exact scene selection is yours\nLighting/mood: needs a child-friendly, engaging atmosphere — exact tone balance is yours\nColor palette: needs a vibrant, child-appropriate direction — exact color choices are yours\nMaterials/textures: \nText (verbatim): must include \"赤壁之战\" (title, clear and prominent), with key story points listed alongside with punctuation\nConstraints: must be a single knowledge card format, title must be clear and prominent, key points must be listed with punctuation in sidebar, cartoon-story visual style throughout\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7e669974-41df-499c-9eba-2c5d1b951df7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an educational knowledge card for children explaining the story of 赤壁之战 from the Three Kingdoms.\\n\\nStyle/medium: needs a cartoon-story illustration aesthetic suitable for children — exact stylistic execution is yours\\nComposition: must be a single large knowledge card layout with clear title area and bullet-point sidebar\\nSubject: must include the story of 赤壁之战 (赤壁之战)\\nScene/backdrop: needs a cartoon-story visual treatment — exact scene selection is yours\\nLighting/mood: needs a child-friendly, engaging atmosphere — exact tone balance is yours\\nColor palette: needs a vibrant, child-appropriate direction — exact color choices are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"赤壁之战\\\" (title, clear and prominent), with key story points listed alongside with punctuation\\nConstraints: must be a single knowledge card format, title must be clear and prominent, key points must be listed with punctuation in sidebar, cartoon-story visual style throughout\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11734
+}

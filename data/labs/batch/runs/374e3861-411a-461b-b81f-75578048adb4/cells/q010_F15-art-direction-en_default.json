@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing environment concept art for a post-apocalyptic wasteland scene.\n\nStyle/medium: needs a post-apocalyptic wasteland aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include a modified armored vehicle\nScene/backdrop: must include a desolate desert with collapsed city ruins in the distance, dusty yellow sky, sandstorm atmosphere\nLighting/mood: needs an apocalyptic survival tension atmosphere — exact light source mix is yours\nColor palette: needs a dusty yellow/dusky direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aa8d3bc0-e6f9-4bc0-afad-4eed6ec31bd1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing environment concept art for a post-apocalyptic wasteland scene.\\n\\nStyle/medium: needs a post-apocalyptic wasteland aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include a modified armored vehicle\\nScene/backdrop: must include a desolate desert with collapsed city ruins in the distance, dusty yellow sky, sandstorm atmosphere\\nLighting/mood: needs an apocalyptic survival tension atmosphere — exact light source mix is yours\\nColor palette: needs a dusty yellow/dusky direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7871
+}

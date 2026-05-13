@@ -1,0 +1,24 @@
+{
+  "query_idx": 189,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:_MG_3291][@image:#2:_MG_3283] 帮我做淘宝产品图，需要纯白背景,去除污渍划痕,增强金属质感和纹理,优化光影效果,底座金属漆补全，移除阴影，提升高清图清晰度，不要改变所有产品原本结构，各生成两张",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 2,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A09e7fbb5-a346-4ab4-af6c-78f4c6a22196/0.png",
+    "/api/image-file/lovart%3A09e7fbb5-a346-4ab4-af6c-78f4c6a22196/1.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:_MG_3291][@image:#2:_MG_3283] 帮我做淘宝产品图，需要纯白背景,去除污渍划痕,增强金属质感和纹理,优化光影效果,底座金属漆补全，移除阴影，提升高清图清晰度，不要改变所有产品原本结构，各生成两张\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 2, \"output_format\": \"png\"}",
+  "ms": 3069,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,5 +1,309 @@
 [
   {
+    "id": "exp_2dae0504-872b-42b4-adce-92fa602e9615",
+    "ts": 1778677178855,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1:20260303-150051] 为耳钉产品页面设计淘宝平台视觉素材，场景图1张，包含产品特写和突显性能与材质，有欧美模特佩戴照",
+    "summary": "[@image:#1:20260303-150051] 为耳钉产品页面设计淘宝平台视觉素材，场景图1张，包含产品特写和突显性能与材质，有欧美模特佩戴照",
+    "status": "completed",
+    "ref": "data/experiments/exp_2dae0504-872b-42b4-adce-92fa602e9615.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_eefc6159-5f36-4570-9c31-c8ca7d26f8a3",
+    "ts": 1778676614984,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "这是我的产品 [@image:#1:%E6%A1%A8%E6%9D%BF%E6%A3%9A%E6%8B%8D%E7%99%BD%E5%BA%95%E5%9B%BE]，生成淘宝场景图，阳光明亮的高山溪流户外场景，画面背景是辽阔的山谷、起伏的灰绿色山体、成片松林、清澈浅溪与散落巨石，天空晴朗湛蓝，整体呈现自然探险，户外休闲探险风，三位年轻男女在林间露营交流，一名男子站立手扶桨板，另一名背着登山包的男子站在一旁微笑交谈，一名女子半蹲坐在桨板边整理装备，周围摆放红色露营折叠椅、露营灯、背包、桨叶、收纳装备，树木之间悬挂蓝绿色吊床，画面自然抓拍感，人物互动轻松真实，构图丰富，户外生活方式大片，旅行与露营结合水上运动元素，高清摄影，真实光影，细节清晰，氛围温暖治愈，品牌感强，商业广告风",
+    "summary": "这是我的产品 [@image:#1:%E6%A1%A8%E6%9D%BF%E6%A3%9A%E6%8B%8D%E7%99%BD%E5%BA%95%E5%9B%B…",
+    "status": "completed",
+    "ref": "data/experiments/exp_eefc6159-5f36-4570-9c31-c8ca7d26f8a3.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "vertex/nano-banana-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_e53e80fd-0a7a-4c5f-aa77-0003315179c0",
+    "ts": 1778676075386,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "参考图[@image:#1:6e81a4477f8732c9fdeec6d80469401b116c1f56e69f77d87cd1fbe7dd0c1786]为图[@image:#2:A93A0598]母子花盆添加多肉植物，生成1张淘宝场景图，母亲节，温馨的居家风格，2k画质，1:1比例",
+    "summary": "参考图[@image:#1:6e81a4477f8732c9fdeec6d80469401b116c1f56e69f77d87cd1fbe7dd0c1786]为…",
+    "status": "completed",
+    "ref": "data/experiments/exp_e53e80fd-0a7a-4c5f-aa77-0003315179c0.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_f50fc8c3-829f-4038-b551-53094b8f46ff",
+    "ts": 1778674946794,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "根据我上传的商品图，做淘宝 1 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "根据我上传的商品图，做淘宝 1 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "status": "completed",
+    "ref": "data/experiments/exp_f50fc8c3-829f-4038-b551-53094b8f46ff.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_2570967b-20c7-4c5e-b564-1ab17524d0a5",
+    "ts": 1778674649458,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 1 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 1 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "status": "completed",
+    "ref": "data/experiments/exp_2570967b-20c7-4c5e-b564-1ab17524d0a5.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_94326388-18be-4c69-81f3-2bfea4167f5e",
+    "ts": 1778666213760,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "315 queries × 2 skills",
+    "summary": "315 queries × 2 skills",
+    "status": "completed",
+    "ref": "data/experiments/exp_94326388-18be-4c69-81f3-2bfea4167f5e.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "(skill)",
+      "strategy_versions": {},
+      "models": {
+        "search": "bedrock/claude-sonnet-4-6",
+        "review": "bedrock/claude-sonnet-4-6",
+        "image": ""
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "batch_skill"
+    }
+  },
+  {
+    "id": "exp_f94f3924-4e9c-4d04-a7ed-3187b7802284",
+    "ts": 1778674186547,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1:image]生成1张泰国电商风格驱壁虎凝胶主图，比例1:1，整体风格贴合泰国Shopee爆款视觉。保持产品包装上的原有文字不变，主体突出产品本身。画面中要突出使用场景，营造真实生活氛围。重点表现壁虎害怕产品气味，出现明显“逃跑、远离”的动态效果，壁虎使用卡通风格表现，更夸张、更有视觉冲击力。整体构图要突出“痛点+效果”，画面干净但具有冲击力。字体要大、清晰，文案简短有力，只使用肯定句，不要过多文字。主图文案必须为泰语，颜色可以适当丰富，提高吸引力，符合电商高转化设计，可以夸张一点（类似Shopee热卖风格）。",
+    "summary": "[@image:#1:image]生成1张泰国电商风格驱壁虎凝胶主图，比例1:1，整体风格贴合泰国Shopee爆款视觉。保持产品包装上的原有文字不变，主体突出产…",
+    "status": "completed",
+    "ref": "data/experiments/exp_f94f3924-4e9c-4d04-a7ed-3187b7802284.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_4ffbb0d2-3423-4d34-9620-28774ec57f76",
+    "ts": 1778673963712,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作1张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作1张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，…",
+    "status": "completed",
+    "ref": "data/experiments/exp_4ffbb0d2-3423-4d34-9620-28774ec57f76.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_dc0ea53f-1d0d-43ab-8032-ac138ed3a24d",
+    "ts": 1778673917059,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作1张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作1张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，…",
+    "status": "completed",
+    "ref": "data/experiments/exp_dc0ea53f-1d0d-43ab-8032-ac138ed3a24d.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_d61d020e-17e7-4595-9480-b789b4159f5c",
+    "ts": 1778673735261,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "summary": "做淘宝详情页 5 张图,包装保持一致,要高级感,主图带「夏季新品 20% off」",
+    "status": "completed",
+    "ref": "data/experiments/exp_d61d020e-17e7-4595-9480-b789b4159f5c.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_0155ae65-519e-4602-a75f-8d74978c4d06",
+    "ts": 1778673434918,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "107 queries × 2 pipelines",
+    "summary": "107 queries × 2 pipelines",
+    "status": "completed",
+    "ref": "data/experiments/exp_0155ae65-519e-4602-a75f-8d74978c4d06.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "(pipeline 默认)",
+        "review": "(pipeline 默认)",
+        "image": "(pipeline 默认)"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "batch_pipeline"
+    }
+  },
+  {
+    "id": "53770d4a-dad7-42a2-85a7-e2c997574a60",
+    "ts": 1778673436120,
+    "lab_id": "batch",
+    "query": "参考图[@image:#1:6e81a4477f8732c9fdeec6d80469401b116c1f56e69f77d87cd1fbe7dd0c1786]为图[@image:#2:A93A0598]母子花盆添加多肉植物，生成4张不同风格淘宝场景图，母亲节，温馨的居家风格，2k画质，1:1比例",
+    "summary": "107 queries × 0 skills · 电商批测",
+    "status": "partial",
+    "ref": "data/labs/batch/runs/53770d4a-dad7-42a2-85a7-e2c997574a60.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "n_queries": 107,
+      "n_skills": 0,
+      "mode": "set"
+    }
+  },
+  {
+    "id": "exp_8bd217c3-49d3-4ea2-9bb1-23b8cff405ec",
+    "ts": 1778673089154,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作一套抖音商城产品图，包含三张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。\n卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作一套抖音商城产品图，包含三张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。\n卖…",
+    "status": "completed",
+    "ref": "data/experiments/exp_8bd217c3-49d3-4ea2-9bb1-23b8cff405ec.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
     "id": "exp_fcd113ed-e71c-4a4d-808e-9bcdd8b1501a",
     "ts": 1778672565992,
     "lab_id": "labs.pipeline.experiment",

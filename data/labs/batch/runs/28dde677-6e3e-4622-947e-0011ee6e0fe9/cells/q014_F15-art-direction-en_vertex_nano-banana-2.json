@@ -1,0 +1,21 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original UI design system showcase illustration featuring a web Dashboard, mobile interface, cards, buttons, and controls.\n\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\nComposition: must include multiple UI components arranged in a layered, hierarchical layout — web Dashboard, mobile interface, cards, buttons, and controls all visible\nSubject: must include all UI components:\n  - Web Dashboard panel\n  - Mobile interface screen\n  - Card components\n  - Button components\n  - Control widgets (toggles, sliders, inputs, etc.)\nScene/backdrop: needs a dark tech-environment backdrop — exact depth and spatial treatment is yours\nLighting/mood: needs a visually striking, high-tech atmosphere with strong depth and layering — exact glow, bloom, and light source mix is yours\nColor palette: needs a cool-toned tech direction — exact accent colors, gradients, and contrast ratios are yours\nMaterials/textures: needs a sleek, glass-morphism or flat-panel surface treatment — exact sheen and layering weight is yours\nText (verbatim): \nConstraints: must preserve all five UI component categories as clearly distinguishable elements in the composition\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Add9c3b27-a937-440e-b241-d9322a0e5cb2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original UI design system showcase illustration featuring a web Dashboard, mobile interface, cards, buttons, and controls.\\n\\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\\nComposition: must include multiple UI components arranged in a layered, hierarchical layout — web Dashboard, mobile interface, cards, buttons, and controls all visible\\nSubject: must include all UI components:\\n  - Web Dashboard panel\\n  - Mobile interface screen\\n  - Card components\\n  - Button components\\n  - Control widgets (toggles, sliders, inputs, etc.)\\nScene/backdrop: needs a dark tech-environment backdrop — exact depth and spatial treatment is yours\\nLighting/mood: needs a visually striking, high-tech atmosphere with strong depth and layering — exact glow, bloom, and light source mix is yours\\nColor palette: needs a cool-toned tech direction — exact accent colors, gradients, and contrast ratios are yours\\nMaterials/textures: needs a sleek, glass-morphism or flat-panel surface treatment — exact sheen and layering weight is yours\\nText (verbatim): \\nConstraints: must preserve all five UI component categories as clearly distinguishable elements in the composition\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8005
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing technical exploded-view diagram of a Sony A7 camera, intended for educational reference or product documentation.\n\nStyle/medium: technical exploded-view diagram, product illustration with labeled callouts\nComposition: exploded isometric or perspective view showing all components separated along axis lines, with numbered callouts pointing to each part\nSubject: Sony A7 camera decomposed into all constituent parts: body shell, sensor assembly, shutter mechanism, mirrorless mount, EVF (electronic viewfinder), LCD screen assembly, battery compartment, SD card slot, control dials, buttons, grip, hot shoe, lens mount ring, image stabilization unit, main circuit board, battery, and all internal mechanical components\nScene/backdrop: clean neutral background (white or light gray), typical of technical documentation\nLighting/mood: even, shadowless technical lighting for clarity\nColor palette: neutral grays and blacks for camera body, metallic accents for mechanical parts, color-coded callout lines\nMaterials/textures: brushed metal, matte plastic, glass elements, rubber grip texture\nText (verbatim): Sony A7, all part names labeled in Spanish (\"sensor\", \"montura E\", \"obturador\", \"pantalla LCD\", \"visor electrónico\", \"estabilizador de imagen\", etc.)\nConstraints: all major components must be visible and labeled, exploded spacing must clearly show relationships between parts, professional technical illustration style\nAvoid: cluttered overlapping, missing key components, photorealistic rendering (keep it diagrammatic), decorative elements",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8f9a1bac-97a2-46c3-b571-7f79430fe267/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing technical exploded-view diagram of a Sony A7 camera, intended for educational reference or product documentation.\\n\\nStyle/medium: technical exploded-view diagram, product illustration with labeled callouts\\nComposition: exploded isometric or perspective view showing all components separated along axis lines, with numbered callouts pointing to each part\\nSubject: Sony A7 camera decomposed into all constituent parts: body shell, sensor assembly, shutter mechanism, mirrorless mount, EVF (electronic viewfinder), LCD screen assembly, battery compartment, SD card slot, control dials, buttons, grip, hot shoe, lens mount ring, image stabilization unit, main circuit board, battery, and all internal mechanical components\\nScene/backdrop: clean neutral background (white or light gray), typical of technical documentation\\nLighting/mood: even, shadowless technical lighting for clarity\\nColor palette: neutral grays and blacks for camera body, metallic accents for mechanical parts, color-coded callout lines\\nMaterials/textures: brushed metal, matte plastic, glass elements, rubber grip texture\\nText (verbatim): Sony A7, all part names labeled in Spanish (\\\"sensor\\\", \\\"montura E\\\", \\\"obturador\\\", \\\"pantalla LCD\\\", \\\"visor electrónico\\\", \\\"estabilizador de imagen\\\", etc.)\\nConstraints: all major components must be visible and labeled, exploded spacing must clearly show relationships between parts, professional technical illustration style\\nAvoid: cluttered overlapping, missing key components, photorealistic rendering (keep it diagrammatic), decorative elements\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14142
+}

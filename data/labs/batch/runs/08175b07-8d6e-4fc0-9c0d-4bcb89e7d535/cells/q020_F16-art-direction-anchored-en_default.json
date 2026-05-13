@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand exposure mobile advertisement for OPPO Find X9.\n\nStyle/medium: needs a high-impact brand exposure aesthetic — references in the spirit of Apple product launch campaigns, Samsung Galaxy flagship teasers, OnePlus minimalist tech visual language; exact stylistic execution is yours\nComposition: must be 9:16 vertical format optimized for mobile full-screen display\nSubject: must include OPPO Find X9 as the focal product\nScene/backdrop: \nLighting/mood: needs a premium tech product atmosphere with visual impact priority — exact lighting approach is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"OPPO Find X9\" (brand and model name)\nConstraints: must be 1080×1920 pixels, brand exposure type with visual impact as priority\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/92a0e563-fadd-4938-9a9b-e1af965b0af3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a brand exposure mobile advertisement for OPPO Find X9.\\n\\nStyle/medium: needs a high-impact brand exposure aesthetic — references in the spirit of Apple product launch campaigns, Samsung Galaxy flagship teasers, OnePlus minimalist tech visual language; exact stylistic execution is yours\\nComposition: must be 9:16 vertical format optimized for mobile full-screen display\\nSubject: must include OPPO Find X9 as the focal product\\nScene/backdrop: \\nLighting/mood: needs a premium tech product atmosphere with visual impact priority — exact lighting approach is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"OPPO Find X9\\\" (brand and model name)\\nConstraints: must be 1080×1920 pixels, brand exposure type with visual impact as priority\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8826
+}

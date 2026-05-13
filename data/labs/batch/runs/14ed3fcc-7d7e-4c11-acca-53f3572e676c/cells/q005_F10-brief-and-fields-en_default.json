@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial fashion photo for a high-end womenswear commercial campaign, minimalist aesthetic.\n\nStyle/medium: photorealistic large-format fashion photography, high-contrast black-and-white with single color accent, referencing Helmut Newton's classic fashion editorial aesthetic — sharp, precise, commanding\nComposition: three-quarter body shot, model turned 45 degrees to camera, head tilted slightly upward, 85mm portrait lens, tight controlled framing with generous negative space\nSubject: female model in a pure white structured architectural gown — exaggerated sculptural shoulder construction, cinched waist, A-line skirt flare; model's posture is upright and elegant, gaze sharp and self-assured; deep red lips as the sole color accent against an otherwise monochrome scene\nScene/backdrop: seamless all-white infinity paper backdrop, no environmental elements, pure studio void\nLighting/mood: butterfly lighting setup — key light positioned directly above at 45-degree downward angle, creating strong highlight-to-shadow contrast that emphasizes the three-dimensional sculptural structure of the garment; mood is cold, authoritative, and refined\nColor palette: white, black, and mid-gray as the entire tonal range; deep red lips as the only chromatic element — all other color suppressed to near-monochrome\nMaterials/textures: crisp matte fabric with visible structural seams and sharp folded edges on the shoulder panels; smooth seamless paper background with no texture\nAvoid: warm tones, soft diffused lighting, casual posture, busy background, color contamination beyond the red lip accent, over-retouched plastic skin, generic stock-photo composition",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5913539c-afc3-4376-9b2e-4e5eea69963b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial fashion photo for a high-end womenswear commercial campaign, minimalist aesthetic.\\n\\nStyle/medium: photorealistic large-format fashion photography, high-contrast black-and-white with single color accent, referencing Helmut Newton's classic fashion editorial aesthetic — sharp, precise, commanding\\nComposition: three-quarter body shot, model turned 45 degrees to camera, head tilted slightly upward, 85mm portrait lens, tight controlled framing with generous negative space\\nSubject: female model in a pure white structured architectural gown — exaggerated sculptural shoulder construction, cinched waist, A-line skirt flare; model's posture is upright and elegant, gaze sharp and self-assured; deep red lips as the sole color accent against an otherwise monochrome scene\\nScene/backdrop: seamless all-white infinity paper backdrop, no environmental elements, pure studio void\\nLighting/mood: butterfly lighting setup — key light positioned directly above at 45-degree downward angle, creating strong highlight-to-shadow contrast that emphasizes the three-dimensional sculptural structure of the garment; mood is cold, authoritative, and refined\\nColor palette: white, black, and mid-gray as the entire tonal range; deep red lips as the only chromatic element — all other color suppressed to near-monochrome\\nMaterials/textures: crisp matte fabric with visible structural seams and sharp folded edges on the shoulder panels; smooth seamless paper background with no texture\\nAvoid: warm tones, soft diffused lighting, casual posture, busy background, color contamination beyond the red lip accent, over-retouched plastic skin, generic stock-photo composition\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 13282
+}

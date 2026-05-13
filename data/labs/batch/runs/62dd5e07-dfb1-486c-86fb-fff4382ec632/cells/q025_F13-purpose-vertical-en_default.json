@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Xiaohongshu-style 9-grid cover vertical image for a UGC creator post featuring the DJI Pocket 4 product.\n\nStyle/medium: Xiaohongshu 素人 (everyday-creator) aesthetic, warm and approachable, flat-lay + lifestyle hybrid, 9-grid cover format\nComposition: 9-grid (九宫格) layout, vertical portrait orientation, product DJI Pocket 4 prominently featured at center or foreground, central title text overlaid in a cute, differentiated font\nSubject: 素人 UGC creator holding or showcasing the DJI Pocket 4 camera; product clearly identifiable as a small handheld gimbal camera\nScene/backdrop: cozy lifestyle backdrop consistent with Xiaohongshu 素人 content — soft neutral or warm-toned room / café / outdoor natural light setting\nLighting/mood: soft, warm, natural light; approachable and relatable, not overly polished or commercial\nColor palette: warm neutrals with soft accent tones (cream, beige, warm white) consistent with Xiaohongshu 素人 feed aesthetic\nMaterials/textures: \nText (verbatim): 大疆pocket4初体验\nConstraints: title text \"大疆pocket4初体验\" must appear at center of the cover in a cute, differentiated (非常规) font style; 9-grid cover format must be respected; product must read as DJI Pocket 4\nAvoid: overly commercial advertising look, cold corporate lighting, generic stock-photo style, standard sans-serif or boring fonts for the title",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/107c4b48-267b-4b89-8c73-ecf221b0d172/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing Xiaohongshu-style 9-grid cover vertical image for a UGC creator post featuring the DJI Pocket 4 product.\\n\\nStyle/medium: Xiaohongshu 素人 (everyday-creator) aesthetic, warm and approachable, flat-lay + lifestyle hybrid, 9-grid cover format\\nComposition: 9-grid (九宫格) layout, vertical portrait orientation, product DJI Pocket 4 prominently featured at center or foreground, central title text overlaid in a cute, differentiated font\\nSubject: 素人 UGC creator holding or showcasing the DJI Pocket 4 camera; product clearly identifiable as a small handheld gimbal camera\\nScene/backdrop: cozy lifestyle backdrop consistent with Xiaohongshu 素人 content — soft neutral or warm-toned room / café / outdoor natural light setting\\nLighting/mood: soft, warm, natural light; approachable and relatable, not overly polished or commercial\\nColor palette: warm neutrals with soft accent tones (cream, beige, warm white) consistent with Xiaohongshu 素人 feed aesthetic\\nMaterials/textures: \\nText (verbatim): 大疆pocket4初体验\\nConstraints: title text \\\"大疆pocket4初体验\\\" must appear at center of the cover in a cute, differentiated (非常规) font style; 9-grid cover format must be respected; product must read as DJI Pocket 4\\nAvoid: overly commercial advertising look, cold corporate lighting, generic stock-photo style, standard sans-serif or boring fonts for the title\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10122
+}

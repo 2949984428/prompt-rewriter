@@ -1,0 +1,21 @@
+{
+  "query_idx": 19,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\n\nStyle/medium: needs a tech-forward e-commerce campaign aesthetic — exact stylistic execution is yours\nComposition: needs a bold hero-layout composition — exact framing and hierarchy are yours\nSubject: must include 绿联私有云 brand identity and 618 anniversary sale as the focal theme\nScene/backdrop: needs a festive campaign atmosphere — exact backdrop treatment is yours\nLighting/mood: needs a vibrant, celebratory energy — exact light source mix is yours\nColor palette: needs a direction aligned with 绿联 brand identity and 618 promotional energy — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"绿联私有云\" (brand name), \"618\" (hero number), \"周年庆\" (event label)\nConstraints: must read as an e-commerce announcement poster\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A8344f990-cd8a-4555-9acb-8b393a560b7a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\\n\\nStyle/medium: needs a tech-forward e-commerce campaign aesthetic — exact stylistic execution is yours\\nComposition: needs a bold hero-layout composition — exact framing and hierarchy are yours\\nSubject: must include 绿联私有云 brand identity and 618 anniversary sale as the focal theme\\nScene/backdrop: needs a festive campaign atmosphere — exact backdrop treatment is yours\\nLighting/mood: needs a vibrant, celebratory energy — exact light source mix is yours\\nColor palette: needs a direction aligned with 绿联 brand identity and 618 promotional energy — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"绿联私有云\\\" (brand name), \\\"618\\\" (hero number), \\\"周年庆\\\" (event label)\\nConstraints: must read as an e-commerce announcement poster\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7119
+}

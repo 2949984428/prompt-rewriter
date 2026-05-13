@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a movie poster reimagining of 大话西游 (A Chinese Odyssey) in 1990s Hong Kong cinema style, featuring 至尊宝 and 紫霞 sharing a passionate kiss against a city wall, with 牛魔王 and 唐僧 standing in the distant background.\n\nStyle/medium: 1990s Hong Kong film poster, photorealistic with heavy film grain, inspired by Wong Kar-wai and Stephen Chow era visual language, analog photography aesthetic\nComposition: medium shot centered on the kissing couple against a weathered stone city wall, background figures small and out of focus in the far distance, slight dutch tilt for dramatic tension\nSubject: 至尊宝 in classic costume embracing 紫霞 in a passionate kiss against the city wall; 牛魔王 and 唐僧 as silhouetted figures standing apart in the hazy background\nScene/backdrop: ancient Chinese city wall at dusk or golden hour, crumbling stone texture, dusty atmospheric haze\nLighting/mood: warm amber and dusty golden backlight, long shadows, melancholic and romantic mood evoking bittersweet love\nColor palette: faded warm amber and burnt orange as dominant tones, desaturated mid-tones with slight cyan shadow, aged color bleed typical of 90s Hong Kong film stock\nMaterials/textures: heavy analog film grain throughout, visible halation around light sources, slight color fringing, worn poster print texture\nAvoid: digital clean rendering, modern CGI look, oversaturated colors, contemporary poster layout, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2f8e3304-6e5f-4474-a3d4-d63748a8cfe4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a movie poster reimagining of 大话西游 (A Chinese Odyssey) in 1990s Hong Kong cinema style, featuring 至尊宝 and 紫霞 sharing a passionate kiss against a city wall, with 牛魔王 and 唐僧 standing in the distant background.\\n\\nStyle/medium: 1990s Hong Kong film poster, photorealistic with heavy film grain, inspired by Wong Kar-wai and Stephen Chow era visual language, analog photography aesthetic\\nComposition: medium shot centered on the kissing couple against a weathered stone city wall, background figures small and out of focus in the far distance, slight dutch tilt for dramatic tension\\nSubject: 至尊宝 in classic costume embracing 紫霞 in a passionate kiss against the city wall; 牛魔王 and 唐僧 as silhouetted figures standing apart in the hazy background\\nScene/backdrop: ancient Chinese city wall at dusk or golden hour, crumbling stone texture, dusty atmospheric haze\\nLighting/mood: warm amber and dusty golden backlight, long shadows, melancholic and romantic mood evoking bittersweet love\\nColor palette: faded warm amber and burnt orange as dominant tones, desaturated mid-tones with slight cyan shadow, aged color bleed typical of 90s Hong Kong film stock\\nMaterials/textures: heavy analog film grain throughout, visible halation around light sources, slight color fringing, worn poster print texture\\nAvoid: digital clean rendering, modern CGI look, oversaturated colors, contemporary poster layout, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10122
+}

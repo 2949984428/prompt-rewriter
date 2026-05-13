@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for 绿联私有云 brand 618 anniversary celebration e-commerce announcement.\n\nStyle/medium: needs a \"618周年庆\" festive e-commerce aesthetic — references in the spirit of Tmall Double 11 visual campaigns, 京东618 super brand day graphics, Chinese tech brand launch poster tradition; exact stylistic execution is yours\nComposition: \nSubject: must include 绿联私有云 brand as the focal subject, 618 anniversary celebration context\nScene/backdrop: \nLighting/mood: needs a celebratory, high-energy commercial atmosphere — exact mood balance is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1f2ccd54-8fe3-4598-92c0-499d8a94305c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for 绿联私有云 brand 618 anniversary celebration e-commerce announcement.\\n\\nStyle/medium: needs a \\\"618周年庆\\\" festive e-commerce aesthetic — references in the spirit of Tmall Double 11 visual campaigns, 京东618 super brand day graphics, Chinese tech brand launch poster tradition; exact stylistic execution is yours\\nComposition: \\nSubject: must include 绿联私有云 brand as the focal subject, 618 anniversary celebration context\\nScene/backdrop: \\nLighting/mood: needs a celebratory, high-energy commercial atmosphere — exact mood balance is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8546
+}

@@ -1,0 +1,15 @@
+{
+  "query_idx": 1,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"Logo design for a company named \\\"appkit\\\", using the letter \\\"A\\\" as the core graphic element, styled after Claude brand identity. Claude brand style: warm gradient from coral-orange to soft purple/lavender, smooth rounded forms, gentle and approachable aesthetic, soft glow, clean sans-serif logotype \\\"appkit\\\" beside the \\\"A\\\" mark. The \\\"A\\\" lettermark is rendered as a modern abstract shape with warm coral-to-violet gradient fill, subtle shadow, on a clean white background. Flat vector logo, minimal, no text other than \\\"appkit\\\".\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"Logo design for a company named \\\"appkit\\\", using the letter \\\"A\\\" as the core graphic element, styled after Lovart brand identity. Lovart brand style: bold romantic aesthetic, deep rich colors with pink, magenta and dark navy, expressive brushstroke or fluid ink texture within the \\\"A\\\" letterform, artistic and creative energy, elegant yet playful, the \\\"A\\\" mark features flowing curves with a magenta-to-deep-purple gradient, paired with clean lowercase logotype \\\"appkit\\\". Flat vector logo on white background, no extra text.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"Logo design for a company named \\\"appkit\\\", using the letter \\\"A\\\" as the core graphic element, styled after Figma brand identity. Figma brand style: geometric precision, bold primary colors (red, purple, blue, green, orange) arranged in a modular grid, the \\\"A\\\" lettermark is constructed from overlapping geometric shapes with flat solid colors inspired by Figma's component nodes, crisp edges, no gradients, modern and technical, paired with clean bold sans-serif logotype \\\"appkit\\\". Flat vector logo on white background, no extra text.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13726,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

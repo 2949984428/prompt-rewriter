@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an architectural visualization rendering of a modern living room blending Nordic minimalism with Japanese wabi-sabi aesthetics.\n\nStyle/medium: photorealistic interior visualization, architectural rendering with natural material textures\nComposition: eye-level perspective across the main living area, wide-angle lens capturing sofa zone and window wall, balanced negative space\nSubject: low-profile linen off-white fabric sofa with mixed-texture cushions, irregular natural stone coffee table with raw edge, tall fiddle-leaf fig plant in corner, slender arched floor lamp\nScene/backdrop: modern living room with large floor-to-ceiling windows showing blurred green vegetation outside, light white oak solid wood flooring, matte white painted walls, bookshelf with curated books and ceramic objects following minimalist principles\nLighting/mood: abundant soft natural daylight from floor-to-ceiling windows, gentle diffused illumination creating quiet and restrained zen atmosphere\nColor palette: white and light gray as base, off-white linen as anchor, natural wood and stone textures as organic accents\nMaterials/textures: matte white painted walls, light white oak wood flooring with visible grain, natural linen fabric with subtle weave, raw-edge stone with organic texture, ceramic with handmade quality\nAvoid: clutter, excessive decoration, bright saturated colors, artificial harsh lighting, glossy plastic surfaces, deformed furniture proportions",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/05661e42-124a-49b9-a492-00a4c9856b0a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an architectural visualization rendering of a modern living room blending Nordic minimalism with Japanese wabi-sabi aesthetics.\\n\\nStyle/medium: photorealistic interior visualization, architectural rendering with natural material textures\\nComposition: eye-level perspective across the main living area, wide-angle lens capturing sofa zone and window wall, balanced negative space\\nSubject: low-profile linen off-white fabric sofa with mixed-texture cushions, irregular natural stone coffee table with raw edge, tall fiddle-leaf fig plant in corner, slender arched floor lamp\\nScene/backdrop: modern living room with large floor-to-ceiling windows showing blurred green vegetation outside, light white oak solid wood flooring, matte white painted walls, bookshelf with curated books and ceramic objects following minimalist principles\\nLighting/mood: abundant soft natural daylight from floor-to-ceiling windows, gentle diffused illumination creating quiet and restrained zen atmosphere\\nColor palette: white and light gray as base, off-white linen as anchor, natural wood and stone textures as organic accents\\nMaterials/textures: matte white painted walls, light white oak wood flooring with visible grain, natural linen fabric with subtle weave, raw-edge stone with organic texture, ceramic with handmade quality\\nAvoid: clutter, excessive decoration, bright saturated colors, artificial harsh lighting, glossy plastic surfaces, deformed furniture proportions\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10967
+}

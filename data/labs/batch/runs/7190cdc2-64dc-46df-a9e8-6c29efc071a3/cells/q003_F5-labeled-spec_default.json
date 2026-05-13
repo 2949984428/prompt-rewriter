@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: commercial food photography, fine-dining editorial\nPrimary request: meticulously plated French main course — sous-vide duck breast with black truffle sauce, sliced to reveal perfect rose-pink gradient interior, golden crispy skin with visible texture\nScene/backdrop: dark marble tabletop, blurred background suggesting Michelin-starred restaurant ambiance\nSubject: duck breast slices arranged on celery root purée base, garnished with micro herbs, edible flowers, and drops of reduced red wine sauce; white matte bone china plate; silver cutlery; Burgundy wine glass with wine stains on inner wall\nStyle/medium: high-end commercial food photography, fine-dining editorial\nComposition/framing: top-down 3/4 angle, shallow depth of field, focus on duck breast cross-section\nLighting/mood: side-backlight (rim light) emphasizing texture and gloss, moody and luxurious atmosphere\nColor palette: deep burgundy wine + rose-pink duck + golden crispy skin + white bone china + dark marble + green micro herbs\nMaterials/textures: crispy duck skin with visible pores, velvety celery purée, matte porcelain, polished silver, liquid wine stains\nConstraints: preserve the rose-pink gradient of duck breast, keep skin texture crisp and golden, maintain wine stains on glass interior\nAvoid: overcooked gray meat, plastic-looking food, flat lighting, oversaturated colors, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9596926b-7ce1-4d0d-8ec8-be4235aa5d27/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: commercial food photography, fine-dining editorial\\nPrimary request: meticulously plated French main course — sous-vide duck breast with black truffle sauce, sliced to reveal perfect rose-pink gradient interior, golden crispy skin with visible texture\\nScene/backdrop: dark marble tabletop, blurred background suggesting Michelin-starred restaurant ambiance\\nSubject: duck breast slices arranged on celery root purée base, garnished with micro herbs, edible flowers, and drops of reduced red wine sauce; white matte bone china plate; silver cutlery; Burgundy wine glass with wine stains on inner wall\\nStyle/medium: high-end commercial food photography, fine-dining editorial\\nComposition/framing: top-down 3/4 angle, shallow depth of field, focus on duck breast cross-section\\nLighting/mood: side-backlight (rim light) emphasizing texture and gloss, moody and luxurious atmosphere\\nColor palette: deep burgundy wine + rose-pink duck + golden crispy skin + white bone china + dark marble + green micro herbs\\nMaterials/textures: crispy duck skin with visible pores, velvety celery purée, matte porcelain, polished silver, liquid wine stains\\nConstraints: preserve the rose-pink gradient of duck breast, keep skin texture crisp and golden, maintain wine stains on glass interior\\nAvoid: overcooked gray meat, plastic-looking food, flat lighting, oversaturated colors, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12215
+}

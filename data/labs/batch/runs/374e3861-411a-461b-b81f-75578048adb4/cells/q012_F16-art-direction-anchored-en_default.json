@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing interior illustration of a dark gothic castle.\n\nStyle/medium: needs a \"暗黑哥特\" aesthetic — references in the spirit of 19th-century Victorian gothic revival architecture photography, Tim Burton's gothic production design heritage, German Expressionist film set design (The Cabinet of Dr. Caligari era); exact stylistic execution is yours\nComposition: must include towering vaulted ceilings as a dominant architectural feature\nSubject: must include candelabras and iron chain decorations as interior elements\nScene/backdrop: must include stained glass windows with blood-red light filtering through\nLighting/mood: needs a mysterious and oppressive atmosphere with heavy shadows — exact light source mix is yours\nColor palette: needs a blood-red dominant direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/34cb9a7d-b2fb-4489-bdf7-54768bc6753b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing interior illustration of a dark gothic castle.\\n\\nStyle/medium: needs a \\\"暗黑哥特\\\" aesthetic — references in the spirit of 19th-century Victorian gothic revival architecture photography, Tim Burton's gothic production design heritage, German Expressionist film set design (The Cabinet of Dr. Caligari era); exact stylistic execution is yours\\nComposition: must include towering vaulted ceilings as a dominant architectural feature\\nSubject: must include candelabras and iron chain decorations as interior elements\\nScene/backdrop: must include stained glass windows with blood-red light filtering through\\nLighting/mood: needs a mysterious and oppressive atmosphere with heavy shadows — exact light source mix is yours\\nColor palette: needs a blood-red dominant direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9206
+}

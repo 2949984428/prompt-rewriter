@@ -1,0 +1,18 @@
+{
+  "query_idx": 4,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a PPT cover slide visual for an automotive brand launch campaign.\n\nStyle/medium: needs a \"通透震撼\" aesthetic — references in the spirit of Audi / BMW global launch campaign photography, 2020s automotive CGI reveal visual tradition, Blade Runner 2049 cinematic atmosphere; exact stylistic execution is yours\nComposition: must include a centered title and subtitle layout over a full-bleed background\nSubject: must include the car 长安起源Q06 as the hero subject\nScene/backdrop: needs a dramatic, immersive backdrop that feels expansive and cinematic — exact environment is yours\nLighting/mood: needs a powerful, luminous atmosphere — exact light treatment is yours\nColor palette: needs a palette aligned with premium automotive brand tonality — exact hues are yours\nMaterials/textures: \nText (verbatim): must include \"长安起源Q06\" (primary title), \"9月上市\" (subtitle)\nConstraints: \nAvoid: cluttered layout, low-contrast text, generic stock-photo feel",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit https://aka.ms/aoaicodeofconduct\",\"error_code\":\"API_CALL_ERROR\",\"provider_error_code\":\"Forbidden\",\"http_status_code\":403,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create a PPT cover slide visual for an automotive brand launch campaign.\\n\\nStyle/medium: needs a \\\"通透震撼\\\" aesthetic — references in the spirit of Audi / BMW global launch campaign photography, 2020s automotive CGI reveal visual tradition, Blade Runner 2049 cinematic atmosphere; exact stylistic execution is yours\\nComposition: must include a centered title and subtitle layout over a full-bleed background\\nSubject: must include the car 长安起源Q06 as the hero subject\\nScene/backdrop: needs a dramatic, immersive backdrop that feels expansive and cinematic — exact environment is yours\\nLighting/mood: needs a powerful, luminous atmosphere — exact light treatment is yours\\nColor palette: needs a palette aligned with premium automotive brand tonality — exact hues are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"长安起源Q06\\\" (primary title), \\\"9月上市\\\" (subtitle)\\nConstraints: \\nAvoid: cluttered layout, low-contrast text, generic stock-photo feel\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8968
+}

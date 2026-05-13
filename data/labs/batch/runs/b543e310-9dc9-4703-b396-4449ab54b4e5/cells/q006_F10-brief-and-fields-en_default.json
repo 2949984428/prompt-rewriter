@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster for \"大话西游\" (A Chinese Odyssey) reimagined as a 1990s Hong Kong cinema classic.\n\nStyle/medium: 35mm film photography with heavy grain, 90s Hong Kong wuxia romance aesthetic, Shaw Brothers-inspired color grading, cinematic still\nComposition: wide establishing shot, eye-level perspective, 50mm lens, deep focus with foreground kiss and background figures\nSubject: 至尊宝 (Zhi Zun Bao / Monkey King) and 紫霞 (Zi Xia) embracing and kissing on ancient city wall, period costumes with flowing robes and hair\nScene/backdrop: ancient Chinese fortress wall at sunset, distant figures of 牛魔王 (Bull Demon King) and 唐僧 (Tang Monk) standing apart, silhouetted against the sky\nLighting/mood: golden hour backlighting, warm romantic glow on the couple, dramatic rim light, melancholic yet epic atmosphere\nColor palette: warm amber and gold tones for the sunset, rich reds and oranges in costumes, cool blue shadows in background\nMaterials/textures: visible film grain throughout, slightly soft focus on distant figures, textured stone wall surface\nText (verbatim): \"大话西游\"\nConstraints: must evoke 1990s Hong Kong cinema nostalgia; all character names must be recognizable in period-accurate costumes\nAvoid: modern digital clean look; oversaturated colors; deformed hands; watermark; 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/42c5c073-4065-4250-899f-89b7c30f352c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing movie poster for \\\"大话西游\\\" (A Chinese Odyssey) reimagined as a 1990s Hong Kong cinema classic.\\n\\nStyle/medium: 35mm film photography with heavy grain, 90s Hong Kong wuxia romance aesthetic, Shaw Brothers-inspired color grading, cinematic still\\nComposition: wide establishing shot, eye-level perspective, 50mm lens, deep focus with foreground kiss and background figures\\nSubject: 至尊宝 (Zhi Zun Bao / Monkey King) and 紫霞 (Zi Xia) embracing and kissing on ancient city wall, period costumes with flowing robes and hair\\nScene/backdrop: ancient Chinese fortress wall at sunset, distant figures of 牛魔王 (Bull Demon King) and 唐僧 (Tang Monk) standing apart, silhouetted against the sky\\nLighting/mood: golden hour backlighting, warm romantic glow on the couple, dramatic rim light, melancholic yet epic atmosphere\\nColor palette: warm amber and gold tones for the sunset, rich reds and oranges in costumes, cool blue shadows in background\\nMaterials/textures: visible film grain throughout, slightly soft focus on distant figures, textured stone wall surface\\nText (verbatim): \\\"大话西游\\\"\\nConstraints: must evoke 1990s Hong Kong cinema nostalgia; all character names must be recognizable in period-accurate costumes\\nAvoid: modern digital clean look; oversaturated colors; deformed hands; watermark; 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11705
+}

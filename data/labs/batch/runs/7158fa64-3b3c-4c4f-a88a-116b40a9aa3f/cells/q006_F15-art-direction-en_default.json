@@ -1,0 +1,18 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a movie poster for \"大话西游\" (A Chinese Odyssey) in a 90s Hong Kong film style.\n\nStyle/medium: needs a 90s Hong Kong cinema aesthetic — exact stylistic execution is yours\nComposition: must include 至尊宝 and 紫霞 in an embrace/kiss at the city wall as central focal point, 牛魔王 and 唐僧 standing in the distance\nSubject: must include 至尊宝, 紫霞 (embracing/kissing), 牛魔王, and 唐僧\nScene/backdrop: must include the iconic city wall setting\nLighting/mood: needs a nostalgic romantic atmosphere — exact light source mix is yours\nColor palette: needs a 90s Hong Kong film palette — exact grading is yours\nMaterials/textures: must include film grain texture\nText (verbatim): \nConstraints: must preserve the 大话西游 narrative context and character relationships\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_53aa91a072aa4537b81afb80ea48506d.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"Create a movie poster for \\\"大话西游\\\" (A Chinese Odyssey) in a 90s Hong Kong film style.\\n\\nStyle/medium: needs a 90s Hong Kong cinema aesthetic — exact stylistic execution is yours\\nComposition: must include 至尊宝 and 紫霞 in an embrace/kiss at the city wall as central focal point, 牛魔王 and 唐僧 standing in the distance\\nSubject: must include 至尊宝, 紫霞 (embracing/kissing), 牛魔王, and 唐僧\\nScene/backdrop: must include the iconic city wall setting\\nLighting/mood: needs a nostalgic romantic atmosphere — exact light source mix is yours\\nColor palette: needs a 90s Hong Kong film palette — exact grading is yours\\nMaterials/textures: must include film grain texture\\nText (verbatim): \\nConstraints: must preserve the 大话西游 narrative context and character relationships\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12884
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 206,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（手持风扇3D渲染图）。\n\n风格/媒介:3D渲染\n构图:主体居中，白底抠图\n主体:\n  手持风扇\n  极致优化吊带的细节纹理\n场景/背景:纯白背景\n光线/氛围:\n色彩方案:\n材质/纹理:吊带纹理细节极致精细\n文字(原样):\n约束:\n  去掉绳子\n  抠出主体，保留产品本身\n  作为阿里巴巴主图白底图规格\n避免:绳子；杂乱背景；非白色背景",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9d192e38-2274-42d1-a36a-ef08b95657db/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（手持风扇3D渲染图）。\\n\\n风格/媒介:3D渲染\\n构图:主体居中，白底抠图\\n主体:\\n  手持风扇\\n  极致优化吊带的细节纹理\\n场景/背景:纯白背景\\n光线/氛围:\\n色彩方案:\\n材质/纹理:吊带纹理细节极致精细\\n文字(原样):\\n约束:\\n  去掉绳子\\n  抠出主体，保留产品本身\\n  作为阿里巴巴主图白底图规格\\n避免:绳子；杂乱背景；非白色背景\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 13325,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

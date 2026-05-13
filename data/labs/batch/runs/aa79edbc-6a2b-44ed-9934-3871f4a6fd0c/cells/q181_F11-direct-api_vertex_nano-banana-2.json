@@ -1,0 +1,15 @@
+{
+  "query_idx": 181,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"Amazon main listing product photo of a sun hat / visor cap for sale on US Amazon platform. The hat is placed centered on a pure white seamless background, shot from a slightly elevated front-facing angle showing the full product. Clean studio lighting with soft shadows, no props, no model, no text overlays. The hat's brim, fabric texture, stitching details, and any band or logo are clearly visible. photorealistic product shot.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"Amazon A+ Premium lifestyle scene photo for a sun hat sold on US Amazon. A woman wearing the sun hat outdoors on a bright sunny day — beach or park setting, natural sunlight, relaxed summer mood. She is smiling, wearing casual summer clothes. The hat is the hero product, clearly visible. Wide horizontal composition. photorealistic editorial photo, warm natural light, vibrant but not oversaturated colors.\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"Amazon A+ Premium product feature close-up detail photo of a sun hat for US Amazon listing. Split into two panels side by side on white background: left panel shows close-up of the hat brim edge and UV-protective fabric weave texture; right panel shows the interior sweatband and adjustable strap detail. Clean studio lighting, pure white background, photorealistic product photography, no text.\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"Amazon A+ Premium comparison infographic-style product photo for a sun hat on US Amazon. Horizontal layout on a clean light gray background. Three versions of the hat displayed side by side showing different color options or size variants. Each hat is neatly spaced, shot from the same front angle, soft even studio lighting. photorealistic product shot, no text, no overlays.\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"Amazon A+ Premium brand story lifestyle photo for a sun hat sold on US Amazon. A woman is walking along a sunny beach boardwalk, wearing the sun hat, light summer dress, golden hour warm light. Vertical portrait composition. The hat is prominently featured, brim casting a soft shadow on her face. photorealistic, natural skin tones, airy and aspirational summer mood.\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 21366,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

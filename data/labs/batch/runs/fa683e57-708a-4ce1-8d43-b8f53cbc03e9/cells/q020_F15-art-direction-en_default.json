@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a still-life photograph of a rustic pottery vase with dried branches on a weathered wooden table (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"侘寂\" (wabi-sabi) aesthetic — exact stylistic execution is yours\nComposition: must include natural light streaming in diagonally from a window\nSubject: must include a coarse pottery vase with dried branches\nScene/backdrop: must include a weathered wooden table\nLighting/mood: must be natural light from window, diagonal angle — needs an atmosphere emphasizing imperfect beauty and traces of time\nColor palette: \nMaterials/textures: needs a textured surface treatment emphasizing imperfection and time-worn quality — exact grain and patina are yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/47b916f6-75c9-44f3-952a-6596efab3b44/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a still-life photograph of a rustic pottery vase with dried branches on a weathered wooden table (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"侘寂\\\" (wabi-sabi) aesthetic — exact stylistic execution is yours\\nComposition: must include natural light streaming in diagonally from a window\\nSubject: must include a coarse pottery vase with dried branches\\nScene/backdrop: must include a weathered wooden table\\nLighting/mood: must be natural light from window, diagonal angle — needs an atmosphere emphasizing imperfect beauty and traces of time\\nColor palette: \\nMaterials/textures: needs a textured surface treatment emphasizing imperfection and time-worn quality — exact grain and patina are yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9226
+}

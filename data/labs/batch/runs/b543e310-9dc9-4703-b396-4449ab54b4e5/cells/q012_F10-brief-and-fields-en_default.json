@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a WeChat Official Account article cover announcing the \"染秋\" fragrance launch.\n\nStyle/medium: premium editorial design, high-end luxury aesthetic, clean typography-driven layout\nComposition: centered composition, title placed at visual center with balanced negative space, 900x500 aspect ratio\nSubject: elegant Chinese title \"染秋 - 秋意染染 时光留香\" as the focal point, refined fragrance bottle or autumn leaf motif as secondary element\nScene/backdrop: minimalist gradient background transitioning from warm amber to soft cream, subtle autumn atmosphere\nLighting/mood: soft diffused lighting, sophisticated and serene mood\nColor palette: warm amber and burnt orange as primary, cream and soft gold as secondary, deep brown as accent\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title must be the dominant visual element; design must read clearly at 900x500 thumbnail size; maintain premium brand feel\nAvoid: cluttered layout, multiple competing focal points, generic stock imagery, excessive decorative elements, busy patterns",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ec9810bd-7ecb-4114-aa06-2cbb94729e84/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a WeChat Official Account article cover announcing the \\\"染秋\\\" fragrance launch.\\n\\nStyle/medium: premium editorial design, high-end luxury aesthetic, clean typography-driven layout\\nComposition: centered composition, title placed at visual center with balanced negative space, 900x500 aspect ratio\\nSubject: elegant Chinese title \\\"染秋 - 秋意染染 时光留香\\\" as the focal point, refined fragrance bottle or autumn leaf motif as secondary element\\nScene/backdrop: minimalist gradient background transitioning from warm amber to soft cream, subtle autumn atmosphere\\nLighting/mood: soft diffused lighting, sophisticated and serene mood\\nColor palette: warm amber and burnt orange as primary, cream and soft gold as secondary, deep brown as accent\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title must be the dominant visual element; design must read clearly at 900x500 thumbnail size; maintain premium brand feel\\nAvoid: cluttered layout, multiple competing focal points, generic stock imagery, excessive decorative elements, busy patterns\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9190
+}

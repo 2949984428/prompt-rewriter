@@ -1,0 +1,23 @@
+{
+  "query_idx": 51,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个 logo，英文名为 nook tea，模仿参考图的风格。\n\n风格/媒介:模仿参考图 #1 的视觉风格\n构图:\n主体:logo 设计，品牌名 nook tea\n场景/背景:\n光线/氛围:\n色彩方案:参考图 #1 的配色风格\n材质/纹理:\n文字(原样):nook tea\n约束:以参考图 #1 的风格为准\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7edbdbd7-0a76-4743-95cc-67334f472399/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个 logo，英文名为 nook tea，模仿参考图的风格。\\n\\n风格/媒介:模仿参考图 #1 的视觉风格\\n构图:\\n主体:logo 设计，品牌名 nook tea\\n场景/背景:\\n光线/氛围:\\n色彩方案:参考图 #1 的配色风格\\n材质/纹理:\\n文字(原样):nook tea\\n约束:以参考图 #1 的风格为准\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5455,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

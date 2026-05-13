@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster / PPT cover slide for the Changan Qiyuan Q06 September launch announcement.\n\nStyle/medium: \nComposition: \nSubject: Changan Qiyuan Q06 car launch, with title and subtitle text\nScene/backdrop: translucent, visually striking background\nLighting/mood: dramatic, impactful\nColor palette: \nMaterials/textures: \nText (verbatim): \"长安起源Q06\" \"9月上市\"\nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/95317afc-629c-461d-bff3-b8e365030d65/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing marketing poster / PPT cover slide for the Changan Qiyuan Q06 September launch announcement.\\n\\nStyle/medium: \\nComposition: \\nSubject: Changan Qiyuan Q06 car launch, with title and subtitle text\\nScene/backdrop: translucent, visually striking background\\nLighting/mood: dramatic, impactful\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"长安起源Q06\\\" \\\"9月上市\\\"\\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4427
+}

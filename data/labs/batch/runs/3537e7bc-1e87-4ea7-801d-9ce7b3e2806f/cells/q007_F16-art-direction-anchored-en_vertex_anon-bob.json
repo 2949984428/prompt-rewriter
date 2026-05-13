@@ -1,0 +1,21 @@
+{
+  "query_idx": 7,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Tarea: Crear una ilustración técnica detallada de descomposición en explosión (exploded view) de una cámara Sony A7.\n\nEstilo visual: Diagrama técnico de ingeniería, estilo manual de servicio o catálogo de piezas, fondo blanco limpio, líneas de guía que conectan cada componente con sus etiquetas.\n\nComposición:\n- Vista en explosión centrada, mostrando todos los componentes separados pero alineados según su posición original\n- Líneas finas de guía conectando cada pieza a su etiqueta correspondiente\n- Etiquetas claras con los nombres técnicos de cada componente\n\nPiezas a identificar y etiquetar:\n- Cuerpo principal / Chasis de magnesio\n- Sensor CMOS full-frame\n- Montura de lente E-mount\n- Espejo del obturador / Obturador focal plane\n- Pentaprisma / Visor electrónico EVF\n- Pantalla LCD trasera articulada\n- Dial de modo / Mode dial\n- Dial de control frontal y trasero\n- Botón del disparador / Shutter button\n- Compartimento de batería NP-FW50\n- Ranura para tarjeta SD\n- Sensor de estabilización IBIS (In-Body Image Stabilization)\n- Placa frontal de agarre / Grip de goma\n- Conectores: HDMI, USB, micrófono, auriculares\n- Tapa del sensor / Body cap\n- Anillo de montura metálico\n- Circuitos internos / PCB principal\n- Mecanismo de limpieza del sensor\n- Diafragma del obturador\n\nIluminación: Iluminación técnica uniforme, sin sombras dramáticas, ideal para diagramas de servicio\n\nColores: Tono técnico, grises metálicos, negros mate, toques de plata en componentes metálicos, texto en negro sobre fondo blanco\n\nNota: Las etiquetas deben ser legibles y posicionadas estratégicamente alrededor de la composición para no obstruir la vista de las piezas.",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad4bc6f3c-2d5b-403a-a2d2-9be89d2c2c01/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Tarea: Crear una ilustración técnica detallada de descomposición en explosión (exploded view) de una cámara Sony A7.\\n\\nEstilo visual: Diagrama técnico de ingeniería, estilo manual de servicio o catálogo de piezas, fondo blanco limpio, líneas de guía que conectan cada componente con sus etiquetas.\\n\\nComposición:\\n- Vista en explosión centrada, mostrando todos los componentes separados pero alineados según su posición original\\n- Líneas finas de guía conectando cada pieza a su etiqueta correspondiente\\n- Etiquetas claras con los nombres técnicos de cada componente\\n\\nPiezas a identificar y etiquetar:\\n- Cuerpo principal / Chasis de magnesio\\n- Sensor CMOS full-frame\\n- Montura de lente E-mount\\n- Espejo del obturador / Obturador focal plane\\n- Pentaprisma / Visor electrónico EVF\\n- Pantalla LCD trasera articulada\\n- Dial de modo / Mode dial\\n- Dial de control frontal y trasero\\n- Botón del disparador / Shutter button\\n- Compartimento de batería NP-FW50\\n- Ranura para tarjeta SD\\n- Sensor de estabilización IBIS (In-Body Image Stabilization)\\n- Placa frontal de agarre / Grip de goma\\n- Conectores: HDMI, USB, micrófono, auriculares\\n- Tapa del sensor / Body cap\\n- Anillo de montura metálico\\n- Circuitos internos / PCB principal\\n- Mecanismo de limpieza del sensor\\n- Diafragma del obturador\\n\\nIluminación: Iluminación técnica uniforme, sin sombras dramáticas, ideal para diagramas de servicio\\n\\nColores: Tono técnico, grises metálicos, negros mate, toques de plata en componentes metálicos, texto en negro sobre fondo blanco\\n\\nNota: Las etiquetas deben ser legibles y posicionadas estratégicamente alrededor de la composición para no obstruir la vista de las piezas.\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15232
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 116,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:4]用这个产品生成一张简约展示台电商图，符合天猫平台要求，比例3:4",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A58573827-fdae-4da5-9dab-9de9bbf2c569/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:4]用这个产品生成一张简约展示台电商图，符合天猫平台要求，比例3:4\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2587,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

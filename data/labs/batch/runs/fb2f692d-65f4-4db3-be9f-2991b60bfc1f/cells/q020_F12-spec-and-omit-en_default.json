@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for OPPO Find X9.\n\nStyle/medium: \nComposition: \nSubject: OPPO Find X9 smartphone\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): OPPO Find X9\nConstraints: 1080×1920 aspect ratio, brand exposure priority, visual impact priority\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/57f91d59-0346-4e84-b4a2-e48970f6b244/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing marketing poster for OPPO Find X9.\\n\\nStyle/medium: \\nComposition: \\nSubject: OPPO Find X9 smartphone\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): OPPO Find X9\\nConstraints: 1080×1920 aspect ratio, brand exposure priority, visual impact priority\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4765
+}

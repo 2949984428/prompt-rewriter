@@ -1,0 +1,23 @@
+{
+  "query_idx": 308,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑参考图 #1。\n\n风格/媒介:\n构图:\n主体:保持原图主体自然不变，保留所有原始细节\n场景/背景:\n光线/氛围:柔和均衡的光线\n色彩方案:保留原始色彩，调整亮度与对比度使画面干净清爽\n材质/纹理:增强清晰度，细节更精致\n文字(原样):\n约束:\n  保持主体与整体构图不变\n  添加细腻阴影与轻微景深感\n  竖版构图（接近 4:5 Instagram 比例）\n避免:过度处理导致主体失真或色彩偏移",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5d0fbe61-c269-4fd0-af6b-187cff447417/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑参考图 #1。\\n\\n风格/媒介:\\n构图:\\n主体:保持原图主体自然不变，保留所有原始细节\\n场景/背景:\\n光线/氛围:柔和均衡的光线\\n色彩方案:保留原始色彩，调整亮度与对比度使画面干净清爽\\n材质/纹理:增强清晰度，细节更精致\\n文字(原样):\\n约束:\\n  保持主体与整体构图不变\\n  添加细腻阴影与轻微景深感\\n  竖版构图（接近 4:5 Instagram 比例）\\n避免:过度处理导致主体失真或色彩偏移\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 31222,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

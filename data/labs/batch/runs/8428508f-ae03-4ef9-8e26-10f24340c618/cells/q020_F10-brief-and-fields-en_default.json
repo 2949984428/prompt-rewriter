@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for OPPO Find X9 Ultra, a flagship smartphone full-screen brand advertisement for web/social media release.\n\nStyle/medium: photorealistic product marketing poster, high-contrast editorial style in the spirit of premium smartphone launch campaigns (Apple/Samsung keynote aesthetic)\nComposition: full-bleed vertical layout, centered hero product shot, phone occupying 60–70% of frame height, bold headline text anchored at top or bottom third\nSubject: OPPO Find X9 Ultra smartphone, ultra-thin bezels, large circular camera module on rear, glossy premium finish, screen displaying vivid brand visuals\nScene/backdrop: deep black or dark gradient void background, subtle light bloom behind device to create depth\nLighting/mood: dramatic studio rim lighting from upper-left, cool blue-white specular highlights on device edges, high-contrast and aspirational\nColor palette: deep black as dominant base, OPPO brand green/teal as accent, bright white for text and highlights — contrast-first hierarchy\nMaterials/textures: glass back with mirror-like reflections, polished metal frame with sharp edge catchlights, subtle lens glass refraction\nText (verbatim): \"OPPO Find X9 Ultra\"\nConstraints: must read as a full-screen 1080×1920 mobile web banner; brand name must be legible at full scale; layout must work as a brand-exposure hero visual\nAvoid: cluttered background, lens flare overload, generic tech blue gradient, watermark, floating random UI elements, blurry device edges",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/357234cd-e35c-4fce-b9b1-2cff1b9776d1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster for OPPO Find X9 Ultra, a flagship smartphone full-screen brand advertisement for web/social media release.\\n\\nStyle/medium: photorealistic product marketing poster, high-contrast editorial style in the spirit of premium smartphone launch campaigns (Apple/Samsung keynote aesthetic)\\nComposition: full-bleed vertical layout, centered hero product shot, phone occupying 60–70% of frame height, bold headline text anchored at top or bottom third\\nSubject: OPPO Find X9 Ultra smartphone, ultra-thin bezels, large circular camera module on rear, glossy premium finish, screen displaying vivid brand visuals\\nScene/backdrop: deep black or dark gradient void background, subtle light bloom behind device to create depth\\nLighting/mood: dramatic studio rim lighting from upper-left, cool blue-white specular highlights on device edges, high-contrast and aspirational\\nColor palette: deep black as dominant base, OPPO brand green/teal as accent, bright white for text and highlights — contrast-first hierarchy\\nMaterials/textures: glass back with mirror-like reflections, polished metal frame with sharp edge catchlights, subtle lens glass refraction\\nText (verbatim): \\\"OPPO Find X9 Ultra\\\"\\nConstraints: must read as a full-screen 1080×1920 mobile web banner; brand name must be legible at full scale; layout must work as a brand-exposure hero visual\\nAvoid: cluttered background, lens flare overload, generic tech blue gradient, watermark, floating random UI elements, blurry device edges\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12057
+}

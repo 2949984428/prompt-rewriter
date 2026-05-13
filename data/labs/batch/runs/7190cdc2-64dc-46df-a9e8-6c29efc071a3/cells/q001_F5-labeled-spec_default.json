@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: fine art editorial photo, suitable for book cover or art print\nPrimary request: a young woman in traditional Hanfu standing on a stone arch bridge in a Jiangnan water town, holding an oil-paper umbrella with blue-and-white porcelain patterns, umbrella partially covering her face, gentle and distant gaze\nScene/backdrop: Jiangnan ancient water town, stone arch bridge over a canal, black-awning boats (wupeng boats) passing slowly below, boatman wearing bamboo hat, white-walled black-tiled Hui-style architecture with climbing ivy on pink walls, wooden window frames with delicate bird-and-flower carvings\nSubject: young woman in traditional Hanfu, delicate facial features partially obscured by umbrella, serene expression, flowing silk robes\nStyle/medium: fusion of Chinese gongbi (meticulous brushwork) and xieyi (freehand ink wash) painting aesthetics, photorealistic with painterly quality\nComposition/framing: medium shot from eye-level, bridge as leading line, subject positioned slightly off-center, depth through layered background of boats and buildings\nLighting/mood: overcast diffused light, misty rainy atmosphere, soft and melancholic, ethereal and contemplative\nColor palette: muted ink-wash tones, soft grays and blues, pale pink walls, dark roof tiles, subtle green ivy, desaturated overall\nMaterials/textures: smooth silk Hanfu fabric, wet stone bridge surface, aged wood textures, translucent umbrella paper, water reflections, mist droplets\nConstraints: preserve the traditional Hanfu details, maintain the blue-and-white porcelain patterns on the umbrella, keep the misty Jiangnan atmosphere\nAvoid: oversaturated colors, modern elements, bright sunlight, sharp shadows, anime style, western architectural elements",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cd6b808f-9c52-4f0e-9438-d084aeafc40c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: fine art editorial photo, suitable for book cover or art print\\nPrimary request: a young woman in traditional Hanfu standing on a stone arch bridge in a Jiangnan water town, holding an oil-paper umbrella with blue-and-white porcelain patterns, umbrella partially covering her face, gentle and distant gaze\\nScene/backdrop: Jiangnan ancient water town, stone arch bridge over a canal, black-awning boats (wupeng boats) passing slowly below, boatman wearing bamboo hat, white-walled black-tiled Hui-style architecture with climbing ivy on pink walls, wooden window frames with delicate bird-and-flower carvings\\nSubject: young woman in traditional Hanfu, delicate facial features partially obscured by umbrella, serene expression, flowing silk robes\\nStyle/medium: fusion of Chinese gongbi (meticulous brushwork) and xieyi (freehand ink wash) painting aesthetics, photorealistic with painterly quality\\nComposition/framing: medium shot from eye-level, bridge as leading line, subject positioned slightly off-center, depth through layered background of boats and buildings\\nLighting/mood: overcast diffused light, misty rainy atmosphere, soft and melancholic, ethereal and contemplative\\nColor palette: muted ink-wash tones, soft grays and blues, pale pink walls, dark roof tiles, subtle green ivy, desaturated overall\\nMaterials/textures: smooth silk Hanfu fabric, wet stone bridge surface, aged wood textures, translucent umbrella paper, water reflections, mist droplets\\nConstraints: preserve the traditional Hanfu details, maintain the blue-and-white porcelain patterns on the umbrella, keep the misty Jiangnan atmosphere\\nAvoid: oversaturated colors, modern elements, bright sunlight, sharp shadows, anime style, western architectural elements\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14163
+}

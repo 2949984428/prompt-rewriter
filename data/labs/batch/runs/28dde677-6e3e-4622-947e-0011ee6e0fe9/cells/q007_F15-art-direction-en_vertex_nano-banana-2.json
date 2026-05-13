@@ -1,0 +1,21 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\n\nStyle/medium: needs a technical exploded-diagram aesthetic — exact stylistic execution is yours\nComposition: must be exploded-view layout with all parts spread outward from the camera body, clearly separated and labeled\nSubject: must include the Sony A7 camera fully disassembled into all its individual components with part names labeled\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include part/component name labels for each piece (in Spanish)\nConstraints: must preserve all major and minor components visible and identifiable; labels must connect clearly to each corresponding part\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7a3a570d-de2f-4b92-8ec7-4f3a36f5c210/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\\n\\nStyle/medium: needs a technical exploded-diagram aesthetic — exact stylistic execution is yours\\nComposition: must be exploded-view layout with all parts spread outward from the camera body, clearly separated and labeled\\nSubject: must include the Sony A7 camera fully disassembled into all its individual components with part names labeled\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include part/component name labels for each piece (in Spanish)\\nConstraints: must preserve all major and minor components visible and identifiable; labels must connect clearly to each corresponding part\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7196
+}

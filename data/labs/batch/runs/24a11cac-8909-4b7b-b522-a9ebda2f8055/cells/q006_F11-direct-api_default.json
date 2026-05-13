@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "画一张复古胶片风格的街头人像，90年代香港街头，穿着牛仔外套的年轻女子倚靠在霓虹灯牌下，夜色朦胧，有电影般的颗粒感和暖色调，充满怀旧情绪",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9614a7d2-ca96-4a9a-8ce6-b2d19c0a1b9e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"画一张复古胶片风格的街头人像，90年代香港街头，穿着牛仔外套的年轻女子倚靠在霓虹灯牌下，夜色朦胧，有电影般的颗粒感和暖色调，充满怀旧情绪\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3872
+}

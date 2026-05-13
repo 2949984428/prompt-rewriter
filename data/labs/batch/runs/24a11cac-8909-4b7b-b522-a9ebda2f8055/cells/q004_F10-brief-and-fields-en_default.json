@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial food photo of a Japanese ramen close-up, rich tonkotsu broth, styled for appetite-driven food photography.\n\nStyle/medium: photorealistic food photography, macro editorial style in the spirit of Kenji Lopez-Alt or Saveur magazine spreads, shallow depth of field\nComposition: tight overhead-to-45-degree close-up angle, 85mm macro lens, subject fills the frame with chopsticks lifting noodles as the focal hero\nSubject: steaming bowl of tonkotsu ramen topped with chashu pork slices, soft-boiled ramen egg (溏心蛋) halved to reveal jammy yolk, nori sheet, sliced green onions; chopsticks mid-lift with a tangle of noodles, steam wisps rising\nScene/backdrop: dark matte wooden table surface, background softly blurred (bokeh), minimal props\nLighting/mood: warm directional side light with subtle fill, golden and inviting, emphasizing steam and broth sheen, deeply appetizing\nColor palette: rich amber-gold broth as dominant tone, ivory noodles and creamy egg yolk as mid-tones, dark nori and charred chashu edges as contrast anchors, green onion as fresh accent\nMaterials/textures: glossy broth surface with visible fat droplets, tender chashu with caramelized crust, silky noodle strands, matte ceramic bowl rim\nAvoid: flat lighting, overhead-only flat lay, plastic-looking food surfaces, over-saturated color grading, watermark, blurry noodles",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/1b59b262-1cd2-49b1-98b4-7db148aa179e/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial food photo of a Japanese ramen close-up, rich tonkotsu broth, styled for appetite-driven food photography.\\n\\nStyle/medium: photorealistic food photography, macro editorial style in the spirit of Kenji Lopez-Alt or Saveur magazine spreads, shallow depth of field\\nComposition: tight overhead-to-45-degree close-up angle, 85mm macro lens, subject fills the frame with chopsticks lifting noodles as the focal hero\\nSubject: steaming bowl of tonkotsu ramen topped with chashu pork slices, soft-boiled ramen egg (溏心蛋) halved to reveal jammy yolk, nori sheet, sliced green onions; chopsticks mid-lift with a tangle of noodles, steam wisps rising\\nScene/backdrop: dark matte wooden table surface, background softly blurred (bokeh), minimal props\\nLighting/mood: warm directional side light with subtle fill, golden and inviting, emphasizing steam and broth sheen, deeply appetizing\\nColor palette: rich amber-gold broth as dominant tone, ivory noodles and creamy egg yolk as mid-tones, dark nori and charred chashu edges as contrast anchors, green onion as fresh accent\\nMaterials/textures: glossy broth surface with visible fat droplets, tender chashu with caramelized crust, silky noodle strands, matte ceramic bowl rim\\nAvoid: flat lighting, overhead-only flat lay, plastic-looking food surfaces, over-saturated color grading, watermark, blurry noodles\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 11846
+}

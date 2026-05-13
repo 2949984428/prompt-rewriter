@@ -1,0 +1,23 @@
+{
+  "query_idx": 172,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "请按照亚马逊的标准把这些产品图片处理成正方形。白色的底，把盘子以外的其他的杂乱的背景都取舍掉。以盘子为主[@image:#1:IMG_0151][@image:#2:IMG_9898]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A87736903-a5a9-4593-80c7-4c4399df97a4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"请按照亚马逊的标准把这些产品图片处理成正方形。白色的底，把盘子以外的其他的杂乱的背景都取舍掉。以盘子为主[@image:#1:IMG_0151][@image:#2:IMG_9898]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3369,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

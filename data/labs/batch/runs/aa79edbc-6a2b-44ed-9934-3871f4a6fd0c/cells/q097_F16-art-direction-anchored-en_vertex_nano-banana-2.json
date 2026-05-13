@@ -1,0 +1,23 @@
+{
+  "query_idx": 97,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a minimalist logo for a mobile app called \"Spritr\".\n\n风格/媒介: flat design, vector, clean lines, high contrast\n构图: centered composition, icon + logotype combination\n主体: a sleek modern bottle being opened, with liquid splash forming a subtle flame or energy wave\n场景/背景: dark background — black or deep purple\n光线/氛围: trendy, youthful, high-energy nightlife vibe\n色彩方案: dark background (black or deep purple) with neon accents — electric blue, pink, or green\n材质/纹理:\n文字(原样):\n约束: no text, icon-only; bold modern sans-serif futuristic feel carried through the icon shape\n避免: photorealism, gradients, drop shadows, decorative clutter",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A631d9351-faa3-443a-b883-9974f71e8c8d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a minimalist logo for a mobile app called \\\"Spritr\\\".\\n\\n风格/媒介: flat design, vector, clean lines, high contrast\\n构图: centered composition, icon + logotype combination\\n主体: a sleek modern bottle being opened, with liquid splash forming a subtle flame or energy wave\\n场景/背景: dark background — black or deep purple\\n光线/氛围: trendy, youthful, high-energy nightlife vibe\\n色彩方案: dark background (black or deep purple) with neon accents — electric blue, pink, or green\\n材质/纹理:\\n文字(原样):\\n约束: no text, icon-only; bold modern sans-serif futuristic feel carried through the icon shape\\n避免: photorealism, gradients, drop shadows, decorative clutter\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5603,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

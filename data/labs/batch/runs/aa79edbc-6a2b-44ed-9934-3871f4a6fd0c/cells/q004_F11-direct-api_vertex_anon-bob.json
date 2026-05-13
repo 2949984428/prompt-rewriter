@@ -1,0 +1,23 @@
+{
+  "query_idx": 4,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "設計一個保健食品品牌,主要客群為愛美的女性,注重質感,會使用保養品的人.參考國際高端保養品牌的字體樣式\n品牌名稱為:耀研",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Afaa88885-04f4-4282-b10f-034416a8dcf5/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"設計一個保健食品品牌,主要客群為愛美的女性,注重質感,會使用保養品的人.參考國際高端保養品牌的字體樣式\\n品牌名稱為:耀研\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3309,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

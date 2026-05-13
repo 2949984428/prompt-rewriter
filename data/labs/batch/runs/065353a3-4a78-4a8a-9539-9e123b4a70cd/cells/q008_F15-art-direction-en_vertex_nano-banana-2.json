@@ -1,0 +1,21 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign with a complex but well-organized visual composition.\n\nStyle/medium: needs a bold, graphic-design-forward promotional aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include layered typography stacking with artistic lettering; must have a product or hero subject physically overlapping and partially obscuring some of the type layers\nSubject: must include a hero product or brand subject as the main focal element that overlaps the text\nScene/backdrop: \nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs a vibrant, attention-grabbing direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must preserve: (1) artistic/decorative lettering treatment, (2) typographic stacking with multiple text layers at varying scales, (3) product/subject overlapping type to create depth, (4) complex but visually organized composition — not chaotic\nAvoid: must avoid flat, sparse, or minimalist layouts; must avoid cluttered chaos where hierarchy is lost",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6d168142-f791-47d7-b677-0375ee8c4e14/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign with a complex but well-organized visual composition.\\n\\nStyle/medium: needs a bold, graphic-design-forward promotional aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include layered typography stacking with artistic lettering; must have a product or hero subject physically overlapping and partially obscuring some of the type layers\\nSubject: must include a hero product or brand subject as the main focal element that overlaps the text\\nScene/backdrop: \\nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs a vibrant, attention-grabbing direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must preserve: (1) artistic/decorative lettering treatment, (2) typographic stacking with multiple text layers at varying scales, (3) product/subject overlapping type to create depth, (4) complex but visually organized composition — not chaotic\\nAvoid: must avoid flat, sparse, or minimalist layouts; must avoid cluttered chaos where hierarchy is lost\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10722
+}

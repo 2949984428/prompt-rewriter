@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: architectural photography, wide panoramic crop\nPrimary request: wide-angle low-angle shot of a karesansui (dry landscape) garden at a famous Zen Buddhist temple in Kyoto, Japan\nScene/backdrop: traditional Zen temple garden enclosed by low wooden verandas with evenly spaced pillars casting geometric shadows; aged earthen wall topped with moss in the background; autumn afternoon setting\nSubject: raked white gravel with meticulously combed concentric circles and wave-ripple patterns symbolizing ocean and waves; several moss-covered rocks of varied forms distributed asymmetrically, representing islands and mountain peaks\nStyle/medium: architectural photography, 35mm film-inspired, photorealistic\nComposition/framing: wide-angle lens (16–24mm), low-angle perspective emphasizing geometric beauty of raked patterns and spatial depth, horizontal panoramic framing\nLighting/mood: oblique late-afternoon autumn sunlight casting long elongated shadows from rocks and veranda pillars; warm, tranquil, deeply meditative Zen atmosphere\nColor palette: warm off-white / cream gravel, deep moss green on rocks and wall cap, muted warm grey earthen wall, rich amber-brown aged wood pillars\nMaterials/textures: fine raked gravel with precise ridge-and-furrow texture, rough weathered rock surfaces with velvety moss, aged timber with visible grain, crumbling earthen plaster wall\nConstraints: preserve the precise geometric rake patterns in the gravel as the dominant visual element; no people in frame; maintain the enclosed, contemplative spatial composition\nAvoid: oversaturated colors, modern elements or signage, symmetrical composition, flat midday lighting",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2c7fbd27-ea6c-4407-902b-a4c37241a4d4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: architectural photography, wide panoramic crop\\nPrimary request: wide-angle low-angle shot of a karesansui (dry landscape) garden at a famous Zen Buddhist temple in Kyoto, Japan\\nScene/backdrop: traditional Zen temple garden enclosed by low wooden verandas with evenly spaced pillars casting geometric shadows; aged earthen wall topped with moss in the background; autumn afternoon setting\\nSubject: raked white gravel with meticulously combed concentric circles and wave-ripple patterns symbolizing ocean and waves; several moss-covered rocks of varied forms distributed asymmetrically, representing islands and mountain peaks\\nStyle/medium: architectural photography, 35mm film-inspired, photorealistic\\nComposition/framing: wide-angle lens (16–24mm), low-angle perspective emphasizing geometric beauty of raked patterns and spatial depth, horizontal panoramic framing\\nLighting/mood: oblique late-afternoon autumn sunlight casting long elongated shadows from rocks and veranda pillars; warm, tranquil, deeply meditative Zen atmosphere\\nColor palette: warm off-white / cream gravel, deep moss green on rocks and wall cap, muted warm grey earthen wall, rich amber-brown aged wood pillars\\nMaterials/textures: fine raked gravel with precise ridge-and-furrow texture, rough weathered rock surfaces with velvety moss, aged timber with visible grain, crumbling earthen plaster wall\\nConstraints: preserve the precise geometric rake patterns in the gravel as the dominant visual element; no people in frame; maintain the enclosed, contemplative spatial composition\\nAvoid: oversaturated colors, modern elements or signage, symmetrical composition, flat midday lighting\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16180
+}

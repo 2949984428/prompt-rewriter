@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing editorial photo of a Korean café-style coffee and dessert scene for Instagram, smartphone-captured aesthetic.\n\nStyle/medium: smartphone photography, Korean café aesthetic, editorial food photography with hand-drawn annotation overlay, casual Instagram story style\nComposition: top-down 45-degree angle, shallow depth of field, coffee cup and dessert as hero subjects, negative space for annotations\nSubject: iced latte in a clear glass with visible layers, flaky croissant or Korean-style cake on ceramic plate, no people\nScene/backdrop: minimalist Korean café interior, light wood table surface, soft natural window light, blurred background\nLighting/mood: soft diffused daylight from window, bright and airy, relaxed and stylish atmosphere\nColor palette: warm beige and cream tones as base, coffee brown as anchor, soft pink or mint accents from café decor\nMaterials/textures: visible ice cubes, flaky pastry layers, ceramic glaze, wood grain\nText (verbatim): \"【描写规则】・像用白色笔画出那样的细手绘线条・一笔写成风格的粗糙、略微不均匀・像描摹物体外周那样添加轮廓线・用箭头或虚线制造视线引导\"\nConstraints: hand-drawn white line annotations in Japanese (70% hiragana, 30% simple kanji), short diary-style comments on taste/texture/mood, decorative elements (steam, sparkles, hearts) with intentional white space, magazine rough-note aesthetic\nAvoid: stock photo look, over-processed HDR, cluttered composition, watermark, 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7e8bca7e-528f-41eb-a250-d0ae00741cb1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing editorial photo of a Korean café-style coffee and dessert scene for Instagram, smartphone-captured aesthetic.\\n\\nStyle/medium: smartphone photography, Korean café aesthetic, editorial food photography with hand-drawn annotation overlay, casual Instagram story style\\nComposition: top-down 45-degree angle, shallow depth of field, coffee cup and dessert as hero subjects, negative space for annotations\\nSubject: iced latte in a clear glass with visible layers, flaky croissant or Korean-style cake on ceramic plate, no people\\nScene/backdrop: minimalist Korean café interior, light wood table surface, soft natural window light, blurred background\\nLighting/mood: soft diffused daylight from window, bright and airy, relaxed and stylish atmosphere\\nColor palette: warm beige and cream tones as base, coffee brown as anchor, soft pink or mint accents from café decor\\nMaterials/textures: visible ice cubes, flaky pastry layers, ceramic glaze, wood grain\\nText (verbatim): \\\"【描写规则】・像用白色笔画出那样的细手绘线条・一笔写成风格的粗糙、略微不均匀・像描摹物体外周那样添加轮廓线・用箭头或虚线制造视线引导\\\"\\nConstraints: hand-drawn white line annotations in Japanese (70% hiragana, 30% simple kanji), short diary-style comments on taste/texture/mood, decorative elements (steam, sparkles, hearts) with intentional white space, magazine rough-note aesthetic\\nAvoid: stock photo look, over-processed HDR, cluttered composition, watermark, 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13030
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 94,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成 logo 设计方案，参考用户提供的两张设计图（#1、#2）。\n\n风格/媒介：logo 设计，参考两张上传图的视觉风格\n构图：logo 构图，整体简洁完整\n主体：logo\n场景/背景：\n光线/氛围：\n色彩方案：参考上传图的配色方向\n材质/纹理：\n文字（原样）：\n约束：需与两张参考设计有所区别，提供不同的设计方向\n避免：",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1a1290d8-cf08-4757-a883-a9a54ee2d924/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成 logo 设计方案，参考用户提供的两张设计图（#1、#2）。\\n\\n风格/媒介：logo 设计，参考两张上传图的视觉风格\\n构图：logo 构图，整体简洁完整\\n主体：logo\\n场景/背景：\\n光线/氛围：\\n色彩方案：参考上传图的配色方向\\n材质/纹理：\\n文字（原样）：\\n约束：需与两张参考设计有所区别，提供不同的设计方向\\n避免：\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"png\"}",
+  "ms": 5459,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

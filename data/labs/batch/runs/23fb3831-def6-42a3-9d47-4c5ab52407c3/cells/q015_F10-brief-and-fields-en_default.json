@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a photorealistic editorial screenshot of a TikTok (Douyin) live stream featuring the actress known as \"神仙姐姐\" (Liu Yifei lookalike), filmed in 9:16 vertical format.\n\nStyle/medium: photorealistic mobile screenshot simulation, mimicking a real Douyin live broadcast UI with on-screen overlays, comment scrolls, and viewer count badges\nComposition: vertical 9:16 frame, medium close-up shot of the host from chest up, centered subject, front-facing camera angle typical of mobile live streaming\nSubject: a beautiful young Chinese woman resembling \"神仙姐姐\", elegant and graceful appearance, holding up a handwritten or printed sign with both hands at chest level; the sign reads exactly: \"今晚直播，欢迎来参亦菲畅聊！\"\nScene/backdrop: indoor live streaming setup, soft ring-light glow, blurred neutral or warm-toned background suggesting a cozy home or studio environment\nLighting/mood: soft frontal ring light, warm and flattering, bright and welcoming mood suitable for a live broadcast\nColor palette: warm skin tones as anchor, soft background neutrals, Douyin UI elements in red and white accent colors\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\" on the sign held by the host; Douyin-style UI overlay text including live viewer count and scrolling comments\nConstraints: must look like a genuine Douyin app live stream screenshot with authentic UI chrome (top bar with host name, heart/gift icons, comment feed on lower portion of screen); sign text must be legible and clearly visible\nAvoid: blurry or illegible sign text, distorted hands or fingers, generic Western streaming UI, over-saturated skin, watermarks unrelated to Douyin UI",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9a7b421f-4f80-4dbd-9874-6738ee00e93a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a photorealistic editorial screenshot of a TikTok (Douyin) live stream featuring the actress known as \\\"神仙姐姐\\\" (Liu Yifei lookalike), filmed in 9:16 vertical format.\\n\\nStyle/medium: photorealistic mobile screenshot simulation, mimicking a real Douyin live broadcast UI with on-screen overlays, comment scrolls, and viewer count badges\\nComposition: vertical 9:16 frame, medium close-up shot of the host from chest up, centered subject, front-facing camera angle typical of mobile live streaming\\nSubject: a beautiful young Chinese woman resembling \\\"神仙姐姐\\\", elegant and graceful appearance, holding up a handwritten or printed sign with both hands at chest level; the sign reads exactly: \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nScene/backdrop: indoor live streaming setup, soft ring-light glow, blurred neutral or warm-toned background suggesting a cozy home or studio environment\\nLighting/mood: soft frontal ring light, warm and flattering, bright and welcoming mood suitable for a live broadcast\\nColor palette: warm skin tones as anchor, soft background neutrals, Douyin UI elements in red and white accent colors\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign held by the host; Douyin-style UI overlay text including live viewer count and scrolling comments\\nConstraints: must look like a genuine Douyin app live stream screenshot with authentic UI chrome (top bar with host name, heart/gift icons, comment feed on lower portion of screen); sign text must be legible and clearly visible\\nAvoid: blurry or illegible sign text, distorted hands or fingers, generic Western streaming UI, over-saturated skin, watermarks unrelated to Douyin UI\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13218
+}

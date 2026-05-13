@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an Instagram-ready smartphone photo of a Korean café-style latte and dessert, annotated with meaningful hand-drawn notes for each element.\n\nStyle/medium: smartphone photo with hand-drawn annotation overlay, Instagram story aesthetic, magazine rough-note style\nComposition: flat-lay or slightly angled table-top view, clean framing with intentional negative space\nSubject: Korean café latte art coffee and matching dessert (croffle or basque cheesecake), no people\nScene/backdrop: minimalist Korean café interior table, soft natural window light, marble or wood surface\nLighting/mood: bright, airy, warm daylight streaming through café window\nColor palette: warm neutrals with cream, beige, soft browns, subtle latte art contrast\nMaterials/textures: ceramic cup, glossy coffee surface, textured dessert, paper napkin, wooden table grain\nText (verbatim): 日语手写注释 — 饮料：「さわやか」「やさしい甘み」；食物：「しっとり」「さいこう」；空间：「リラックス」「すてきな時間」；整体：「しあわせすぎる～」\nConstraints: hand-drawn white fine lines, single-stroke rough uneven style, contour lines tracing object outlines, arrows and dotted lines for eye guidance, steam/sparkles/hearts/mini emoticons as decoration, 70% hiragana 30% simple kanji, diary-like short comments, leave intentional blank space, no overcrowding\nAvoid: heavy shadows, cluttered composition, Western café aesthetic, generic stock photo look, excessive decoration covering the subject",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d48e18f0-2b25-4f35-b9be-d092a35142b5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an Instagram-ready smartphone photo of a Korean café-style latte and dessert, annotated with meaningful hand-drawn notes for each element.\\n\\nStyle/medium: smartphone photo with hand-drawn annotation overlay, Instagram story aesthetic, magazine rough-note style\\nComposition: flat-lay or slightly angled table-top view, clean framing with intentional negative space\\nSubject: Korean café latte art coffee and matching dessert (croffle or basque cheesecake), no people\\nScene/backdrop: minimalist Korean café interior table, soft natural window light, marble or wood surface\\nLighting/mood: bright, airy, warm daylight streaming through café window\\nColor palette: warm neutrals with cream, beige, soft browns, subtle latte art contrast\\nMaterials/textures: ceramic cup, glossy coffee surface, textured dessert, paper napkin, wooden table grain\\nText (verbatim): 日语手写注释 — 饮料：「さわやか」「やさしい甘み」；食物：「しっとり」「さいこう」；空间：「リラックス」「すてきな時間」；整体：「しあわせすぎる～」\\nConstraints: hand-drawn white fine lines, single-stroke rough uneven style, contour lines tracing object outlines, arrows and dotted lines for eye guidance, steam/sparkles/hearts/mini emoticons as decoration, 70% hiragana 30% simple kanji, diary-like short comments, leave intentional blank space, no overcrowding\\nAvoid: heavy shadows, cluttered composition, Western café aesthetic, generic stock photo look, excessive decoration covering the subject\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14182
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration\nAsset type: children's picture book illustration, print-ready\nPrimary request: a chubby little brown bear collecting acorns in an autumn forest, wearing blue striped overalls and an oversized red beret\nScene/backdrop: warm autumn forest with golden and orange fallen leaves on the ground, sunlight filtering through trees creating dappled shadows, a small wooden cabin with chimney smoke in the distance\nSubject: round, plump brown bear with rosy pink cheeks, endearing and innocent expression, chubby paws holding a pile of acorns, wearing blue striped overalls and a slightly oversized red beret\nStyle/medium: children's book illustration, blend of Studio Ghibli animation and Nordic illustration styles, rounded soft linework, high color saturation, warm and cozy aesthetic\nComposition/framing: mid-shot, bear as central focus with forest environment surrounding\nLighting/mood: warm golden hour sunlight filtering through autumn foliage, soft dappled light, cozy and heartwarming atmosphere\nColor palette: warm autumn tones (golden yellow, burnt orange, rust red) + sky blue overalls + bright red beret + soft browns for bear fur\nMaterials/textures: soft rounded brushstrokes, smooth color blending, no harsh edges, gentle texture suitable for children's visual comfort\nConstraints: maintain cute and innocent child-friendly aesthetic, bear must appear friendly and non-threatening, keep illustration style consistent with 3-6 age group picture books\nAvoid: realistic fur texture, sharp angular lines, dark or scary elements, photorealistic rendering, complex details overwhelming for young children",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/76b90576-00a9-4c9d-a040-44705a3c6258/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration\\nAsset type: children's picture book illustration, print-ready\\nPrimary request: a chubby little brown bear collecting acorns in an autumn forest, wearing blue striped overalls and an oversized red beret\\nScene/backdrop: warm autumn forest with golden and orange fallen leaves on the ground, sunlight filtering through trees creating dappled shadows, a small wooden cabin with chimney smoke in the distance\\nSubject: round, plump brown bear with rosy pink cheeks, endearing and innocent expression, chubby paws holding a pile of acorns, wearing blue striped overalls and a slightly oversized red beret\\nStyle/medium: children's book illustration, blend of Studio Ghibli animation and Nordic illustration styles, rounded soft linework, high color saturation, warm and cozy aesthetic\\nComposition/framing: mid-shot, bear as central focus with forest environment surrounding\\nLighting/mood: warm golden hour sunlight filtering through autumn foliage, soft dappled light, cozy and heartwarming atmosphere\\nColor palette: warm autumn tones (golden yellow, burnt orange, rust red) + sky blue overalls + bright red beret + soft browns for bear fur\\nMaterials/textures: soft rounded brushstrokes, smooth color blending, no harsh edges, gentle texture suitable for children's visual comfort\\nConstraints: maintain cute and innocent child-friendly aesthetic, bear must appear friendly and non-threatening, keep illustration style consistent with 3-6 age group picture books\\nAvoid: realistic fur texture, sharp angular lines, dark or scary elements, photorealistic rendering, complex details overwhelming for young children\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13048
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a professional documentary-style banner image for a Weibo news/hot-topic post.\n\nStyle/medium: professional documentary photography, mobile-captured aesthetic with high-end polish\nComposition: wide panoramic banner, 16:9 horizontal format, ample negative space for text overlay, street-level perspective looking toward skyline\nSubject: city skyline at dusk with pedestrians in motion blur, distant skyscrapers reflecting sunset\nScene/backdrop: urban cityscape transitioning from day to night, neon signs beginning to illuminate, golden hour sky meeting twilight\nLighting/mood: dramatic chiaroscuro, warm sunset glow against cool neon light, high contrast between light and shadow, authentic on-site atmosphere\nColor palette: warm amber sunset tones transitioning to cool blue-purple twilight, neon pink and cyan accents\nMaterials/textures: photorealistic urban surfaces, glass reflections on buildings, motion-blurred figures\nText (verbatim): \"城市里的安静时刻\" (large headline, bold/modern font, prominent placement), \"黄昏，总能治愈一天的匆忙\" (subtext), \"@龙爪槐守望者real · 生活观察\" (watermark, bottom or lower-right)\nConstraints: horizontal panoramic composition with generous negative space for text, authentic documentary feel, sharp details, professional Weibo hot-post aesthetic\nAvoid: generic stock photo look, oversaturated colors, artificial HDR effects, stuffer words like \"8K\" or \"masterpiece\"",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bc595aba-ea9d-44eb-9b78-ae69bcbf970f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a professional documentary-style banner image for a Weibo news/hot-topic post.\\n\\nStyle/medium: professional documentary photography, mobile-captured aesthetic with high-end polish\\nComposition: wide panoramic banner, 16:9 horizontal format, ample negative space for text overlay, street-level perspective looking toward skyline\\nSubject: city skyline at dusk with pedestrians in motion blur, distant skyscrapers reflecting sunset\\nScene/backdrop: urban cityscape transitioning from day to night, neon signs beginning to illuminate, golden hour sky meeting twilight\\nLighting/mood: dramatic chiaroscuro, warm sunset glow against cool neon light, high contrast between light and shadow, authentic on-site atmosphere\\nColor palette: warm amber sunset tones transitioning to cool blue-purple twilight, neon pink and cyan accents\\nMaterials/textures: photorealistic urban surfaces, glass reflections on buildings, motion-blurred figures\\nText (verbatim): \\\"城市里的安静时刻\\\" (large headline, bold/modern font, prominent placement), \\\"黄昏，总能治愈一天的匆忙\\\" (subtext), \\\"@龙爪槐守望者real · 生活观察\\\" (watermark, bottom or lower-right)\\nConstraints: horizontal panoramic composition with generous negative space for text, authentic documentary feel, sharp details, professional Weibo hot-post aesthetic\\nAvoid: generic stock photo look, oversaturated colors, artificial HDR effects, stuffer words like \\\"8K\\\" or \\\"masterpiece\\\"\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12845
+}

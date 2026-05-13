@@ -1,0 +1,23 @@
+{
+  "query_idx": 38,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a logo for a company named ZARICH.\n\nStyle/medium: logo design, clean and bold\nComposition:\nSubject: company logo featuring the name \"ZARICH\"\nScene/backdrop:\nLighting/mood:\nColor palette:\nMaterials/textures:\nText (verbatim): ZARICH\nConstraints:\nAvoid: decorative clutter, low-contrast layouts",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa922eb82-882d-4ab3-b21e-3ab11a654e67/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a logo for a company named ZARICH.\\n\\nStyle/medium: logo design, clean and bold\\nComposition:\\nSubject: company logo featuring the name \\\"ZARICH\\\"\\nScene/backdrop:\\nLighting/mood:\\nColor palette:\\nMaterials/textures:\\nText (verbatim): ZARICH\\nConstraints:\\nAvoid: decorative clutter, low-contrast layouts\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5194,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing photorealistic employee ID badge design for ByteDance (字节跳动), showing both front and back sides.\n\nStyle/medium: photorealistic product shot, physical ID card render\nComposition: two cards side by side — left card showing front face, right card showing back face — on a neutral surface with soft shadow\nSubject: ByteDance (字节跳动) employee ID badge, front side with company logo, employee photo placeholder, name field, job title field, employee number; back side with barcode or QR code, company address or policy text, magnetic stripe\nScene/backdrop: clean neutral light background, cards lying flat or slightly angled for depth\nLighting/mood: soft diffused light, subtle shadow beneath each card to convey physical material weight\nColor palette: white card base with ByteDance brand colors (black and orange accents)\nMaterials/textures: glossy PVC card surface with slight specular highlight, printed ink texture, lanyard hole at top\nText (verbatim): 字节跳动\nConstraints: both front and back must be fully visible and legible; card proportions must match standard CR80 ID card (85.6 × 54 mm)\nAvoid: cartoon or flat illustration style, blurry text, missing either side of the card",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2748e63f-d706-4630-85fd-206a880b82a1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing photorealistic employee ID badge design for ByteDance (字节跳动), showing both front and back sides.\\n\\nStyle/medium: photorealistic product shot, physical ID card render\\nComposition: two cards side by side — left card showing front face, right card showing back face — on a neutral surface with soft shadow\\nSubject: ByteDance (字节跳动) employee ID badge, front side with company logo, employee photo placeholder, name field, job title field, employee number; back side with barcode or QR code, company address or policy text, magnetic stripe\\nScene/backdrop: clean neutral light background, cards lying flat or slightly angled for depth\\nLighting/mood: soft diffused light, subtle shadow beneath each card to convey physical material weight\\nColor palette: white card base with ByteDance brand colors (black and orange accents)\\nMaterials/textures: glossy PVC card surface with slight specular highlight, printed ink texture, lanyard hole at top\\nText (verbatim): 字节跳动\\nConstraints: both front and back must be fully visible and legible; card proportions must match standard CR80 ID card (85.6 × 54 mm)\\nAvoid: cartoon or flat illustration style, blurry text, missing either side of the card\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10435
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 139,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑图一的产品图。\n\n风格/媒介：场景合成图，拼多多电商风格\n构图：纯色背景铺底，茶元素点缀画面\n主体：将图一产品的外观效果替换为图二的效果图样式\n场景/背景：纯色背景\n光线/氛围：\n色彩方案：\n材质/纹理：\n文字(原样)：\n约束：\n  参考图二的产品效果图作为替换目标\n  保留图一产品的整体构图位置\n  加入茶相关元素（如茶叶、茶汤、茶具等）烘托氛围\n  适合拼多多平台发布的场景图风格\n避免：",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A969f832a-be4a-40ad-8662-71ee783c9859/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑图一的产品图。\\n\\n风格/媒介：场景合成图，拼多多电商风格\\n构图：纯色背景铺底，茶元素点缀画面\\n主体：将图一产品的外观效果替换为图二的效果图样式\\n场景/背景：纯色背景\\n光线/氛围：\\n色彩方案：\\n材质/纹理：\\n文字(原样)：\\n约束：\\n  参考图二的产品效果图作为替换目标\\n  保留图一产品的整体构图位置\\n  加入茶相关元素（如茶叶、茶汤、茶具等）烘托氛围\\n  适合拼多多平台发布的场景图风格\\n避免：\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 6409,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

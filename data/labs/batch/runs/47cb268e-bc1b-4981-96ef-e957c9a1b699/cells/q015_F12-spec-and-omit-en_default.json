@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic still mockup of a TikTok (Douyin) live-stream screenshot featuring a young woman resembling a celestial beauty (\"神仙姐姐\").\n\nStyle/medium: screenshot UI mockup, live-stream interface\nComposition: 9:16 vertical, subject holding a sign facing camera\nSubject: a young woman (\"神仙姐姐\") holding a handwritten sign during a live broadcast\nScene/backdrop: Douyin / TikTok live-stream interface with on-screen UI overlays (viewer count, comments, like icons)\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: sign text must read exactly \"今晚直播，欢迎来参亦菲畅聊！\"; include typical Douyin live-stream UI elements\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/657d750a-49b0-47b1-a246-f9c3d4c7322c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing cinematic still mockup of a TikTok (Douyin) live-stream screenshot featuring a young woman resembling a celestial beauty (\\\"神仙姐姐\\\").\\n\\nStyle/medium: screenshot UI mockup, live-stream interface\\nComposition: 9:16 vertical, subject holding a sign facing camera\\nSubject: a young woman (\\\"神仙姐姐\\\") holding a handwritten sign during a live broadcast\\nScene/backdrop: Douyin / TikTok live-stream interface with on-screen UI overlays (viewer count, comments, like icons)\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: sign text must read exactly \\\"今晚直播，欢迎来参亦菲畅聊！\\\"; include typical Douyin live-stream UI elements\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6113
+}

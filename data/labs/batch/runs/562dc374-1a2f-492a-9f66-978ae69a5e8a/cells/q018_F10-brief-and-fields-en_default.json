@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a professional product shot of a smartwatch on a marble surface with coffee and notebook, business lifestyle context.\n\nStyle/medium: professional product photography, minimalist commercial aesthetic, clean editorial style\nComposition: three-quarter overhead angle, shallow depth of field with focus on smartwatch, balanced triangular arrangement of objects\nSubject: modern smartwatch with visible screen and metallic case, positioned as hero product\nScene/backdrop: white or light grey marble countertop, ceramic coffee cup with saucer, closed leather-bound notebook with pen\nLighting/mood: soft natural window light from left side, gentle shadows, calm and sophisticated atmosphere\nColor palette: neutral tones (white marble, beige coffee, dark leather) with metallic watch as focal accent\nMaterials/textures: polished cold marble veins, brushed metal watch case, smooth ceramic glaze, textured leather grain\nAvoid: cluttered composition, artificial studio lighting, oversaturated colors, generic stock photo look, 8K stuffer words",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4af90935-5fae-48cf-8c21-2801bbf113af/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a professional product shot of a smartwatch on a marble surface with coffee and notebook, business lifestyle context.\\n\\nStyle/medium: professional product photography, minimalist commercial aesthetic, clean editorial style\\nComposition: three-quarter overhead angle, shallow depth of field with focus on smartwatch, balanced triangular arrangement of objects\\nSubject: modern smartwatch with visible screen and metallic case, positioned as hero product\\nScene/backdrop: white or light grey marble countertop, ceramic coffee cup with saucer, closed leather-bound notebook with pen\\nLighting/mood: soft natural window light from left side, gentle shadows, calm and sophisticated atmosphere\\nColor palette: neutral tones (white marble, beige coffee, dark leather) with metallic watch as focal accent\\nMaterials/textures: polished cold marble veins, brushed metal watch case, smooth ceramic glaze, textured leather grain\\nAvoid: cluttered composition, artificial studio lighting, oversaturated colors, generic stock photo look, 8K stuffer words\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9021
+}

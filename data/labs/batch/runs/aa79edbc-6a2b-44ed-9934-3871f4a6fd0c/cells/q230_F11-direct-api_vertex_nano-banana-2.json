@@ -1,0 +1,23 @@
+{
+  "query_idx": 230,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "做一张故宫建筑的图文笔记，图片比例3:4，发小红书平台",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A20f1d1be-c181-4475-9870-a37ef8bb2f4c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"做一张故宫建筑的图文笔记，图片比例3:4，发小红书平台\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2719,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

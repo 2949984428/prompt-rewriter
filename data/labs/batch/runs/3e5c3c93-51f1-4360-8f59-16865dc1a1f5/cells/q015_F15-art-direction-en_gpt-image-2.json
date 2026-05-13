@@ -1,0 +1,21 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a realistic screenshot of a 抖音 live-stream featuring 神仙姐姐 holding a handwritten sign.\n\nStyle/medium: needs a realistic 抖音 live-stream screenshot aesthetic — exact stylistic execution is yours\nComposition: must be a 9:16 vertical portrait framing with 抖音 live-stream UI overlay elements (viewer count, comments, gift animations, etc.)\nSubject: must include 神仙姐姐 holding a sign in front of her\nScene/backdrop: needs a typical live-stream room or studio backdrop — exact setting is yours\nLighting/mood: needs a warm, lively live-stream atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign she is holding\nConstraints: must preserve 抖音 live-stream UI feel with on-screen overlay elements typical of the platform\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A14445a42-1a03-4fd9-a769-f13dae0cc48b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a realistic screenshot of a 抖音 live-stream featuring 神仙姐姐 holding a handwritten sign.\\n\\nStyle/medium: needs a realistic 抖音 live-stream screenshot aesthetic — exact stylistic execution is yours\\nComposition: must be a 9:16 vertical portrait framing with 抖音 live-stream UI overlay elements (viewer count, comments, gift animations, etc.)\\nSubject: must include 神仙姐姐 holding a sign in front of her\\nScene/backdrop: needs a typical live-stream room or studio backdrop — exact setting is yours\\nLighting/mood: needs a warm, lively live-stream atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign she is holding\\nConstraints: must preserve 抖音 live-stream UI feel with on-screen overlay elements typical of the platform\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8963
+}

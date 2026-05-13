@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "画一个赛博朋克风格的未来城市夜景，高楼林立，霓虹灯闪烁，有飞行汽车穿梭其中，天空下着酸雨，地面有积水反射灯光，色调以蓝紫为主，充满科技感和颓废氛围",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0fac2f8b-d76b-4124-9d48-c374a2d458ac/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"画一个赛博朋克风格的未来城市夜景，高楼林立，霓虹灯闪烁，有飞行汽车穿梭其中，天空下着酸雨，地面有积水反射灯光，色调以蓝紫为主，充满科技感和颓废氛围\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3874
+}

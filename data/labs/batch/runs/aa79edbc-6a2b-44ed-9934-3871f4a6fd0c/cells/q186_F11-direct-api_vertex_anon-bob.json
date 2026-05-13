@@ -1,0 +1,23 @@
+{
+  "query_idx": 186,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:电饭煲] tik tok shop平台，将图1中的产品替换为图2的产品，保持图1场景光影和氛围不变。图2的产品颜色和质感保持原貌，不被染色或改变，整体融合自然，效果如真实拍摄。[@image:#2:f8c7ab03ccb7023bc44ccb518acdf41a]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9a3c039b-c428-4e00-b853-9662259b2c06/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:电饭煲] tik tok shop平台，将图1中的产品替换为图2的产品，保持图1场景光影和氛围不变。图2的产品颜色和质感保持原貌，不被染色或改变，整体融合自然，效果如真实拍摄。[@image:#2:f8c7ab03ccb7023bc44ccb518acdf41a]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3707,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

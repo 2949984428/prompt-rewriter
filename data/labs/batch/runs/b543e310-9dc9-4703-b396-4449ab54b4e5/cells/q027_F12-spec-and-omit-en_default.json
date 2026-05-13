@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Chinese gongbi-style long scroll painting of the Lantern Festival in Tang Dynasty Chang'an.\n\nStyle/medium: gongbi zhongcai (meticulous brushwork, heavy colors), long scroll format\nComposition: panoramic view\nSubject: Lantern Festival celebration in Tang Dynasty Chang'an\nScene/backdrop: Chang'an city at night during Lantern Festival with thousands of lanterns\nLighting/mood: thousands of lanterns illuminating the night sky\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/be09154c-6585-4958-b4b8-3b0ac1a11ce3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing Chinese gongbi-style long scroll painting of the Lantern Festival in Tang Dynasty Chang'an.\\n\\nStyle/medium: gongbi zhongcai (meticulous brushwork, heavy colors), long scroll format\\nComposition: panoramic view\\nSubject: Lantern Festival celebration in Tang Dynasty Chang'an\\nScene/backdrop: Chang'an city at night during Lantern Festival with thousands of lanterns\\nLighting/mood: thousands of lanterns illuminating the night sky\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 6350
+}

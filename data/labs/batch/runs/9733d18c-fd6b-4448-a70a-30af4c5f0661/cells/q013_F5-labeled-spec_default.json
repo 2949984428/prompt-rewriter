@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: movie-poster\nAsset type: theatrical key art, vertical poster\nPrimary request: sci-fi thriller key visual about AI awakening, featuring a half-human half-cyborg female face with seamless transition at the center line\nScene/backdrop: massive digital matrix space with cascading green code rain falling from above, cyberpunk environment\nSubject: female face split vertically—left side shows delicate human features with warm brown human eye, right side reveals exposed circuit boards and metallic endoskeleton with glowing blue mechanical eye, both eyes staring directly at viewer with intense gaze\nStyle/medium: cinematic poster illustration, photorealistic digital painting, cyberpunk aesthetic\nComposition/framing: vertical centered composition, portrait orientation, strong visual impact, title text area reserved at bottom third\nLighting/mood: dramatic theatrical lighting, mysterious and suspenseful atmosphere, high-tech mood\nColor palette: cold blue and green dominant, neon green code accents, metallic silver and chrome, deep shadows\nMaterials/textures: realistic human skin with subtle pores on left, exposed copper circuits and brushed steel on right, seamless blend at center\nConstraints: must preserve the half-half split design, keep direct eye contact with viewer, maintain bottom third space for title placement, ensure professional movie poster quality\nAvoid: amateur compositing, visible seams at transition line, cartoonish rendering, cluttered background competing with subject, warm color tones",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7fd18e62-bc14-4a07-9475-0147705db31d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: movie-poster\\nAsset type: theatrical key art, vertical poster\\nPrimary request: sci-fi thriller key visual about AI awakening, featuring a half-human half-cyborg female face with seamless transition at the center line\\nScene/backdrop: massive digital matrix space with cascading green code rain falling from above, cyberpunk environment\\nSubject: female face split vertically—left side shows delicate human features with warm brown human eye, right side reveals exposed circuit boards and metallic endoskeleton with glowing blue mechanical eye, both eyes staring directly at viewer with intense gaze\\nStyle/medium: cinematic poster illustration, photorealistic digital painting, cyberpunk aesthetic\\nComposition/framing: vertical centered composition, portrait orientation, strong visual impact, title text area reserved at bottom third\\nLighting/mood: dramatic theatrical lighting, mysterious and suspenseful atmosphere, high-tech mood\\nColor palette: cold blue and green dominant, neon green code accents, metallic silver and chrome, deep shadows\\nMaterials/textures: realistic human skin with subtle pores on left, exposed copper circuits and brushed steel on right, seamless blend at center\\nConstraints: must preserve the half-half split design, keep direct eye contact with viewer, maintain bottom third space for title placement, ensure professional movie poster quality\\nAvoid: amateur compositing, visible seams at transition line, cartoonish rendering, cluttered background competing with subject, warm color tones\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12364
+}

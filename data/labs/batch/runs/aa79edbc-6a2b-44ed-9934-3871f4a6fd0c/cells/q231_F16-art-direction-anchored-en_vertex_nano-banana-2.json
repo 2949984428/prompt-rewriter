@@ -1,0 +1,23 @@
+{
+  "query_idx": 231,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一張 Instagram 方形貼文背景圖。\n\n風格/媒介:塗鴉手繪風，活潑有活力\n構圖:1:1 方形構圖，賣點文字與主體協調排布\n主體:挪威三文魚凍乾產品，視覺風格參考 @image:#1:三文魚 20.04\n場景/背景:活潑有活力的手繪塗鴉背景\n光線/氛圍:輕快、充滿活力\n色彩方案:\n材質/紋理:手繪塗鴉質感\n文字(原樣):挪威三文魚凍乾　買三送一\n約束:所有元素（風格、主體、文字、配色）全部符合 @image:#1:三文魚 20.04 的視覺參考\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1deaf938-0f69-47e4-bb27-2b2bf58e8f33/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一張 Instagram 方形貼文背景圖。\\n\\n風格/媒介:塗鴉手繪風，活潑有活力\\n構圖:1:1 方形構圖，賣點文字與主體協調排布\\n主體:挪威三文魚凍乾產品，視覺風格參考 @image:#1:三文魚 20.04\\n場景/背景:活潑有活力的手繪塗鴉背景\\n光線/氛圍:輕快、充滿活力\\n色彩方案:\\n材質/紋理:手繪塗鴉質感\\n文字(原樣):挪威三文魚凍乾　買三送一\\n約束:所有元素（風格、主體、文字、配色）全部符合 @image:#1:三文魚 20.04 的視覺參考\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6975,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

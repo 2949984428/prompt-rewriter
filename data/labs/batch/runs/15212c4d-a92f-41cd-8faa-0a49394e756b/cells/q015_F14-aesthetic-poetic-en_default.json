@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 9:16 vertical screenshot of a Douyin live stream featuring \"神仙姐姐\" holding a sign, designed for social media sharing.\n\nStyle/medium: mobile UI screenshot of a live streaming interface, clean modern Douyin aesthetic\nComposition: 9:16 vertical format, live stream interface layout with viewer count and comment bar at bottom, streamer centered in frame\nSubject: \"神仙姐姐\" (a graceful female streamer) holding a handheld sign at chest level, warm engaging expression\nScene/backdrop: softly lit indoor streaming room with subtle ambient lighting\nLighting/mood: warm flattering ring-light glow on the streamer's face, cozy intimate atmosphere\nColor palette: warm skin tones against soft neutral background, the sign in contrasting light color for readability\nMaterials/textures: \nText (verbatim): 今晚直播，欢迎来参亦菲畅聊！\nConstraints: 9:16 aspect ratio, sign text clearly legible, authentic Douyin live stream UI elements visible\nAvoid: harsh shadows, cluttered background, unreadable small text, Western streaming platform UI elements",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/28666928-df9d-429f-ac20-7a3832a5be83/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a 9:16 vertical screenshot of a Douyin live stream featuring \\\"神仙姐姐\\\" holding a sign, designed for social media sharing.\\n\\nStyle/medium: mobile UI screenshot of a live streaming interface, clean modern Douyin aesthetic\\nComposition: 9:16 vertical format, live stream interface layout with viewer count and comment bar at bottom, streamer centered in frame\\nSubject: \\\"神仙姐姐\\\" (a graceful female streamer) holding a handheld sign at chest level, warm engaging expression\\nScene/backdrop: softly lit indoor streaming room with subtle ambient lighting\\nLighting/mood: warm flattering ring-light glow on the streamer's face, cozy intimate atmosphere\\nColor palette: warm skin tones against soft neutral background, the sign in contrasting light color for readability\\nMaterials/textures: \\nText (verbatim): 今晚直播，欢迎来参亦菲畅聊！\\nConstraints: 9:16 aspect ratio, sign text clearly legible, authentic Douyin live stream UI elements visible\\nAvoid: harsh shadows, cluttered background, unreadable small text, Western streaming platform UI elements\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11734
+}

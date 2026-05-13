@@ -1,0 +1,23 @@
+{
+  "query_idx": 244,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Gemini_Generated_Image_3odpof3odpof3odp]\"Enhance this image to look professional and high-quality while preserving all original details and colors. Improve the lighting to be soft and balanced, adjust brightness and contrast for a clean and visually appealing look, and increase sharpness for ultra-high resolution. Add subtle, elegant shadows and a slight depth for a more realistic and aesthetic feel. Ensure the main subject remains natural and unchanged, with refined details and a polished, premium result. Format the image in Instagram post size (1080ￗ1350) and ensure it is high resolution and ready for publishing.\"",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad88a5f19-be8f-4403-b04d-efb960d38ddf/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Gemini_Generated_Image_3odpof3odpof3odp]\\\"Enhance this image to look professional and high-quality while preserving all original details and colors. Improve the lighting to be soft and balanced, adjust brightness and contrast for a clean and visually appealing look, and increase sharpness for ultra-high resolution. Add subtle, elegant shadows and a slight depth for a more realistic and aesthetic feel. Ensure the main subject remains natural and unchanged, with refined details and a polished, premium result. Format the image in Instagram post size (1080ￗ1350) and ensure it is high resolution and ready for publishing.\\\"\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3339,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a single large educational knowledge card for children explaining the story of 三国赤壁之战 (all in-image text in Chinese).\n\nStyle/medium: needs a \"卡通画故事\" aesthetic for children — references in the spirit of 上海美术电影制片厂 classic animation heritage, 故宫文创 children's illustration series, 丰子恺 storytelling illustration tradition; exact stylistic execution is yours\nComposition: must be single large knowledge card layout with clear title area and adjacent bullet-point list\nSubject: must include the story of 三国赤壁之战 as the central narrative\nScene/backdrop: \nLighting/mood: needs a storytelling atmosphere suitable for children — exact tone is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include clear title and bullet-point key facts with punctuation\nConstraints: must include all in-image text in Chinese by default; must be child-friendly educational format\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b6bd1530-2b75-4aa4-8ea0-c89040a33c53/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a single large educational knowledge card for children explaining the story of 三国赤壁之战 (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"卡通画故事\\\" aesthetic for children — references in the spirit of 上海美术电影制片厂 classic animation heritage, 故宫文创 children's illustration series, 丰子恺 storytelling illustration tradition; exact stylistic execution is yours\\nComposition: must be single large knowledge card layout with clear title area and adjacent bullet-point list\\nSubject: must include the story of 三国赤壁之战 as the central narrative\\nScene/backdrop: \\nLighting/mood: needs a storytelling atmosphere suitable for children — exact tone is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include clear title and bullet-point key facts with punctuation\\nConstraints: must include all in-image text in Chinese by default; must be child-friendly educational format\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8682
+}

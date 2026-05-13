@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: luxury beauty advertisement, social media promotional image\nPrimary request: high-end skincare serum advertisement with rose petals and water splash\nScene/backdrop: soft pink gradient background, clean and airy studio feel\nSubject: glass serum bottle with pale golden liquid visible through transparent body, surrounded by scattered rose petals and dynamic water droplets mid-splash\nStyle/medium: photorealistic product photography, luxury editorial\nComposition/framing: centered product shot, slight low angle to emphasize elegance, shallow depth of field\nLighting/mood: soft natural diffused light, gentle highlights on glass surface, warm and refined atmosphere\nColor palette: soft blush pink gradient background + warm pale gold liquid + ivory and deep rose petal tones + clear water droplets\nMaterials/textures: smooth transparent glass with subtle reflections, silky liquid sheen, delicate rose petal texture, glistening water splash\nConstraints: keep the serum bottle as the hero product; rose petals and water droplets as supporting elements only; no human hands or faces\nAvoid: harsh shadows, cluttered background, plastic-looking bottle, oversaturated colors",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ecb12c2a-3d54-4350-bd64-be7ee865d00b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: luxury beauty advertisement, social media promotional image\\nPrimary request: high-end skincare serum advertisement with rose petals and water splash\\nScene/backdrop: soft pink gradient background, clean and airy studio feel\\nSubject: glass serum bottle with pale golden liquid visible through transparent body, surrounded by scattered rose petals and dynamic water droplets mid-splash\\nStyle/medium: photorealistic product photography, luxury editorial\\nComposition/framing: centered product shot, slight low angle to emphasize elegance, shallow depth of field\\nLighting/mood: soft natural diffused light, gentle highlights on glass surface, warm and refined atmosphere\\nColor palette: soft blush pink gradient background + warm pale gold liquid + ivory and deep rose petal tones + clear water droplets\\nMaterials/textures: smooth transparent glass with subtle reflections, silky liquid sheen, delicate rose petal texture, glistening water splash\\nConstraints: keep the serum bottle as the hero product; rose petals and water droplets as supporting elements only; no human hands or faces\\nAvoid: harsh shadows, cluttered background, plastic-looking bottle, oversaturated colors\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11875
+}

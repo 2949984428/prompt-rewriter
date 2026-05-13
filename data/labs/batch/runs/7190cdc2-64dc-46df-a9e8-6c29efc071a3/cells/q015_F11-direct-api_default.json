@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "室内设计效果图，展示一间日式侘寂风格的冥想茶室。空间面积约20平方米，整体色调以米白、原木色、炭灰和苔藓绿为主。地面铺设手工烧制的不规则陶砖，中央放置一张低矮的黑胡桃木茶桌，桌面有自然的木纹和细微裂纹，旁边摆放着几个蒲团坐垫。一侧墙面为原始质感的硅藻泥，另一侧是落地推拉式障子门，透过半透明的和纸可见室外竹林的绰约身影。角落里摆放着一个粗陶花器，插着几枝枯枝和苔藓球。自然光从天窗斜射而入，光影静谧而禅意十足，整体空间传达出极度克制的东方美学与内心宁静。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4e92dd68-dc73-4cf8-b424-cc8480e6fcab/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original editorial aerial photograph of the boundary between Amazon rainforest and modern agricultural development.\n\nStyle/medium: documentary aerial photography, photorealistic, National Geographic-style environmental storytelling\nComposition: high-altitude bird's-eye view, top-down perspective, wide landscape framing capturing the horizon\nSubject: stark boundary line dividing two landscapes — dense virgin rainforest with layered canopy and emergent Brazil nut trees on the left; geometric, orderly soybean farmland in varying green-to-yellow growth stages on the right\nScene/backdrop: Amazon rainforest meeting agricultural frontier, clear-cut boundary with visible blackened burn scars and fallen trees, red dirt highway winding through the distance with trucks kicking up red dust\nLighting/mood: natural daylight, neutral color temperature, documentary realism, somber and thought-provoking atmosphere\nColor palette: deep forest greens and canopy layers on left, geometric patches of chartreuse to ochre farmland on right, stark black burn scars, rust-red earth and dust\nMaterials/textures: dense textured rainforest canopy with individual emergent tree crowns, smooth geometric crop rows, charred black earth, dusty red soil\nAvoid: oversaturated colors, HDR effects, 8K stuffer language, romanticized beauty, watermark, deformed trees\n",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c60d9de3-78f4-4281-85f3-b3ad5eac8c23/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original editorial aerial photograph of the boundary between Amazon rainforest and modern agricultural development.\\n\\nStyle/medium: documentary aerial photography, photorealistic, National Geographic-style environmental storytelling\\nComposition: high-altitude bird's-eye view, top-down perspective, wide landscape framing capturing the horizon\\nSubject: stark boundary line dividing two landscapes — dense virgin rainforest with layered canopy and emergent Brazil nut trees on the left; geometric, orderly soybean farmland in varying green-to-yellow growth stages on the right\\nScene/backdrop: Amazon rainforest meeting agricultural frontier, clear-cut boundary with visible blackened burn scars and fallen trees, red dirt highway winding through the distance with trucks kicking up red dust\\nLighting/mood: natural daylight, neutral color temperature, documentary realism, somber and thought-provoking atmosphere\\nColor palette: deep forest greens and canopy layers on left, geometric patches of chartreuse to ochre farmland on right, stark black burn scars, rust-red earth and dust\\nMaterials/textures: dense textured rainforest canopy with individual emergent tree crowns, smooth geometric crop rows, charred black earth, dusty red soil\\nAvoid: oversaturated colors, HDR effects, 8K stuffer language, romanticized beauty, watermark, deformed trees\\n\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10801
+}

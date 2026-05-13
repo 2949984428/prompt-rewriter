@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: social-media-cover\nAsset type: short video vertical cover, 9:16\nPrimary request: bold headline \"8k GGU 电竞显示器 1000hz\" with high visual impact\nScene/backdrop: clean gradient or solid dark background with subtle tech texture\nSubject: large typography as hero element, minimal tech product silhouette optional\nStyle/medium: minimalist graphic design, premium tech aesthetic\nComposition/framing: rule of thirds layout, headline placed at upper third intersection\nLighting/mood: soft ambient glow, sophisticated and premium\nColor palette: deep charcoal or black base + electric blue or silver accent + high contrast white text\nText (verbatim): \"8k GGU 电竞显示器 1000hz\", \"全球首发全新面板 低延迟 完美色彩\"\nConstraints: large headline must dominate frame, maintain minimal aesthetic, text must be highly legible\nAvoid: cluttered elements, multiple fonts, decorative ornaments, watermark",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fccc1644-92f6-408f-8d31-f890d3896e72/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: social-media-cover\\nAsset type: short video vertical cover, 9:16\\nPrimary request: bold headline \\\"8k GGU 电竞显示器 1000hz\\\" with high visual impact\\nScene/backdrop: clean gradient or solid dark background with subtle tech texture\\nSubject: large typography as hero element, minimal tech product silhouette optional\\nStyle/medium: minimalist graphic design, premium tech aesthetic\\nComposition/framing: rule of thirds layout, headline placed at upper third intersection\\nLighting/mood: soft ambient glow, sophisticated and premium\\nColor palette: deep charcoal or black base + electric blue or silver accent + high contrast white text\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\", \\\"全球首发全新面板 低延迟 完美色彩\\\"\\nConstraints: large headline must dominate frame, maintain minimal aesthetic, text must be highly legible\\nAvoid: cluttered elements, multiple fonts, decorative ornaments, watermark\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8114
+}

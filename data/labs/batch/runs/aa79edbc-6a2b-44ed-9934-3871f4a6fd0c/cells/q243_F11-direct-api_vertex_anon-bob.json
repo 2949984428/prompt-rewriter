@@ -1,0 +1,30 @@
+{
+  "query_idx": 243,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "我制作8张3：4的小红书笔记图，2K高清，风格保持一致。详细描述（糖尿病人能吃和不能吃食物清单，一文说清楚，封面标题一定要大，醒目）。要非常专业无错误和详细介绍。像一个老师一样给学生详细讲解。文字要准确，字体为黑体，有一个边框，画面干净、背景干净，底色白底，构图合理，小红书科普笔记，精简、更有呼吸感的版本，字数少一些，形象的图片多一些！1张为首图，7张为内页；",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af9c81d0b-d1d6-43ae-957b-97de212c6c24/0.jpg",
+    "/api/image-file/lovart%3Af9c81d0b-d1d6-43ae-957b-97de212c6c24/1.jpg",
+    "/api/image-file/lovart%3Af9c81d0b-d1d6-43ae-957b-97de212c6c24/2.jpg",
+    "/api/image-file/lovart%3Af9c81d0b-d1d6-43ae-957b-97de212c6c24/3.jpg",
+    "/api/image-file/lovart%3Af9c81d0b-d1d6-43ae-957b-97de212c6c24/4.jpg",
+    "/api/image-file/lovart%3Af9c81d0b-d1d6-43ae-957b-97de212c6c24/5.jpg",
+    "/api/image-file/lovart%3Af9c81d0b-d1d6-43ae-957b-97de212c6c24/6.jpg",
+    "/api/image-file/lovart%3Af9c81d0b-d1d6-43ae-957b-97de212c6c24/7.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"我制作8张3：4的小红书笔记图，2K高清，风格保持一致。详细描述（糖尿病人能吃和不能吃食物清单，一文说清楚，封面标题一定要大，醒目）。要非常专业无错误和详细介绍。像一个老师一样给学生详细讲解。文字要准确，字体为黑体，有一个边框，画面干净、背景干净，底色白底，构图合理，小红书科普笔记，精简、更有呼吸感的版本，字数少一些，形象的图片多一些！1张为首图，7张为内页；\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4485,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

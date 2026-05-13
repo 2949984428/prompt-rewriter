@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: brand exposure ad, mobile screen capture\nPrimary request: OPPO Find X9 Pro full-screen brand announcement poster, 1080×1920 vertical format\nScene/backdrop: clean gradient background transitioning from deep blue to electric purple, subtle light rays emanating from center\nSubject: OPPO Find X9 Pro smartphone floating at dynamic angle, ultra-slim bezels visible, reflective glass back with camera module detail\nStyle/medium: digital product render, commercial advertising aesthetic\nComposition/framing: centered hero product, vertical 9:16 ratio, generous negative space for brand messaging\nLighting/mood: dramatic rim lighting, soft ambient glow, premium and futuristic atmosphere\nColor palette: OPPO signature green accent + deep blue to purple gradient + silver/white highlights\nMaterials/textures: brushed metal frame, glossy ceramic back, sapphire camera lens glass\nText (verbatim): \"OPPO Find X9 Pro\"\nConstraints: maintain 1080×1920 aspect ratio, product must dominate visual hierarchy, brand logo clearly visible\nAvoid: cluttered background, competing focal points, low contrast text, generic stock aesthetic, watermark",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/876d5fe5-e033-42af-b75c-b7967df6e108/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: brand exposure ad, mobile screen capture\\nPrimary request: OPPO Find X9 Pro full-screen brand announcement poster, 1080×1920 vertical format\\nScene/backdrop: clean gradient background transitioning from deep blue to electric purple, subtle light rays emanating from center\\nSubject: OPPO Find X9 Pro smartphone floating at dynamic angle, ultra-slim bezels visible, reflective glass back with camera module detail\\nStyle/medium: digital product render, commercial advertising aesthetic\\nComposition/framing: centered hero product, vertical 9:16 ratio, generous negative space for brand messaging\\nLighting/mood: dramatic rim lighting, soft ambient glow, premium and futuristic atmosphere\\nColor palette: OPPO signature green accent + deep blue to purple gradient + silver/white highlights\\nMaterials/textures: brushed metal frame, glossy ceramic back, sapphire camera lens glass\\nText (verbatim): \\\"OPPO Find X9 Pro\\\"\\nConstraints: maintain 1080×1920 aspect ratio, product must dominate visual hierarchy, brand logo clearly visible\\nAvoid: cluttered background, competing focal points, low contrast text, generic stock aesthetic, watermark\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10759
+}

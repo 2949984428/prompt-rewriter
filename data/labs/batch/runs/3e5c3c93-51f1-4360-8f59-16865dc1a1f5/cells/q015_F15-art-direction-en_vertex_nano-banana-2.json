@@ -1,0 +1,21 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing illustration of a 抖音 live-stream screenshot featuring a young woman resembling a famous Chinese actress known as \"神仙姐姐\".\n\nStyle/medium: needs a realistic live-stream screenshot aesthetic — exact stylistic execution is yours\nComposition: must be 9:16 vertical, mimicking a 抖音 live-stream UI layout with on-screen overlays (viewer count, comments, gifts, etc.)\nSubject: must include a young woman (神仙姐姐 likeness, elegant and ethereal) holding up a handwritten sign facing the camera\nScene/backdrop: needs a typical live-stream room or studio backdrop — exact setting is yours\nLighting/mood: needs a warm, welcoming live-stream atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign held by the subject; must include typical 抖音 live-stream UI text overlays (viewer count, comment bubbles, etc.) in appropriate positions\nConstraints: must preserve 9:16 aspect ratio; sign text must be clearly legible and held visibly in the subject's hands\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0f5ec004-e807-4d45-8497-5328015023bf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing illustration of a 抖音 live-stream screenshot featuring a young woman resembling a famous Chinese actress known as \\\"神仙姐姐\\\".\\n\\nStyle/medium: needs a realistic live-stream screenshot aesthetic — exact stylistic execution is yours\\nComposition: must be 9:16 vertical, mimicking a 抖音 live-stream UI layout with on-screen overlays (viewer count, comments, gifts, etc.)\\nSubject: must include a young woman (神仙姐姐 likeness, elegant and ethereal) holding up a handwritten sign facing the camera\\nScene/backdrop: needs a typical live-stream room or studio backdrop — exact setting is yours\\nLighting/mood: needs a warm, welcoming live-stream atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign held by the subject; must include typical 抖音 live-stream UI text overlays (viewer count, comment bubbles, etc.) in appropriate positions\\nConstraints: must preserve 9:16 aspect ratio; sign text must be clearly legible and held visibly in the subject's hands\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8502
+}

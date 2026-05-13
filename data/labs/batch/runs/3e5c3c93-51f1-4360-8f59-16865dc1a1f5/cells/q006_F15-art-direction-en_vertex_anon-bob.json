@@ -1,0 +1,21 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster reimagining the aesthetic of 大话西游 in a 90s 港片 style.\n\nStyle/medium: needs a 90s 港片 film aesthetic with 胶片颗粒 — exact grain level and film stock treatment is yours\nComposition: must include a foreground couple embracing against a city wall, two figures standing in the distant background\nSubject: must include 至尊宝 and 紫霞 sharing a kiss against a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\nScene/backdrop: needs a dramatic, cinematic backdrop evoking the world of 大话西游 — exact environment and time-of-day is yours\nLighting/mood: needs a dramatic, melancholic 90s Hong Kong cinema atmosphere — exact light source mix is yours\nColor palette: needs a direction consistent with 90s 港片 color grading — exact tones and ratios are yours\nMaterials/textures: must include visible 胶片颗粒 film grain texture\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2921b167-682f-4366-84cf-12f9d5dbf484/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster reimagining the aesthetic of 大话西游 in a 90s 港片 style.\\n\\nStyle/medium: needs a 90s 港片 film aesthetic with 胶片颗粒 — exact grain level and film stock treatment is yours\\nComposition: must include a foreground couple embracing against a city wall, two figures standing in the distant background\\nSubject: must include 至尊宝 and 紫霞 sharing a kiss against a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\\nScene/backdrop: needs a dramatic, cinematic backdrop evoking the world of 大话西游 — exact environment and time-of-day is yours\\nLighting/mood: needs a dramatic, melancholic 90s Hong Kong cinema atmosphere — exact light source mix is yours\\nColor palette: needs a direction consistent with 90s 港片 color grading — exact tones and ratios are yours\\nMaterials/textures: must include visible 胶片颗粒 film grain texture\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11239
+}

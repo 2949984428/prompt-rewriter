@@ -1,0 +1,21 @@
+{
+  "query_idx": 77,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "你是一个logo设计师，现在为一个酒吧设计一个logo，名字为“不仅 RNB bar”，其中“不仅”可以用倾斜的字体，模拟比萨斜塔，背景招牌底色以蓝色为主色调（招牌很大，11米高，也要满足放大后的图形基础审美），logo按潮流或极简，先设计黑白的；酒吧内部拟定轻工业主题，略有包豪斯风格。根据我的需求帮我设计三款logo，并阐述你的设计理念",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 3,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:轮询生图超过 180s 未出结果",
+  "raw": "{\"prompt\": \"你是一个logo设计师，现在为一个酒吧设计一个logo，名字为\\\"不仅 RNB bar\\\"，其中\\\"不仅\\\"可以用倾斜的字体，模拟比萨斜塔，背景招牌底色以蓝色为主色调（招牌很大，11米高，也要满足放大后的图形基础审美），logo按潮流或极简，先设计黑白的；酒吧内部拟定轻工业主题，略有包豪斯风格。根据我的需求帮我设计三款logo，并阐述你的设计理念\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 3, \"output_format\": \"png\"}",
+  "ms": 3510,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

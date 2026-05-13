@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original brand color and typography guideline poster for 染秋 (RAN QIU), an autumn-inspired fragrance brand rooted in Eastern philosophy.\n\nStyle/medium: editorial brand guideline poster, clean modern layout with subtle Eastern aesthetic, grid-based composition, Behance portfolio style\nSubject: color swatches and typography specimens for 染秋 fragrance brand, featuring primary and secondary colors inspired by autumn botanicals\nComposition: vertical poster format with top section for brand name, middle section for color palette swatches, bottom section for typography specimens, generous white space\nColor palette: warm terracotta and persimmon orange as primary, amber and golden yellow as secondary, deep charcoal for text, cream paper background\nText (verbatim): \"染秋\" \"RAN QIU\" \"桂花乌龙\" \"琥珀枫叶\" \"柿霜暮色\"\nConstraints: color swatches must show hex codes; typography must display both Chinese characters and Latin alphabet; layout must be scalable for print and digital use\nAvoid: generic gradient backgrounds; western floral motifs; overly decorative elements; neon colors; 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/07aca045-a8a4-497e-89ee-1b2d9122afeb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original brand color and typography guideline poster for 染秋 (RAN QIU), an autumn-inspired fragrance brand rooted in Eastern philosophy.\\n\\nStyle/medium: editorial brand guideline poster, clean modern layout with subtle Eastern aesthetic, grid-based composition, Behance portfolio style\\nSubject: color swatches and typography specimens for 染秋 fragrance brand, featuring primary and secondary colors inspired by autumn botanicals\\nComposition: vertical poster format with top section for brand name, middle section for color palette swatches, bottom section for typography specimens, generous white space\\nColor palette: warm terracotta and persimmon orange as primary, amber and golden yellow as secondary, deep charcoal for text, cream paper background\\nText (verbatim): \\\"染秋\\\" \\\"RAN QIU\\\" \\\"桂花乌龙\\\" \\\"琥珀枫叶\\\" \\\"柿霜暮色\\\"\\nConstraints: color swatches must show hex codes; typography must display both Chinese characters and Latin alphabet; layout must be scalable for print and digital use\\nAvoid: generic gradient backgrounds; western floral motifs; overly decorative elements; neon colors; 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10508
+}

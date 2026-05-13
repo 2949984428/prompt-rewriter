@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a social media cover announcing GPT-image-2 launch on Lovart platform.\n\nStyle/medium: high-end editorial magazine cover, minimalist luxury aesthetic, Vogue-style typography\nComposition: diagonal layout with dynamic asymmetry, text elements placed along diagonal axis from top-left to bottom-right, generous negative space\nSubject: bold typographic announcement featuring \"GPT-image-2\" and \"Lovart\" as hero text\nScene/backdrop: clean abstract gradient or solid premium background, subtle texture suggesting paper stock\nLighting/mood: studio lighting, crisp and sophisticated, confident and modern\nColor palette: high contrast with one dominant accent color (deep navy, burnt orange, or electric blue) against neutral base (off-white or soft gray)\nText (verbatim): \"GPT-image-2\" \"Lovart\"\nConstraints: must work as 3:4 vertical cover format; text must remain legible at thumbnail size; magazine-grade hierarchy\nAvoid: cluttered layout, more than 3 colors, stock photography, generic tech startup gradients, drop shadows on text",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a795d21f-eeed-4311-abdd-14936336ab78/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a social media cover announcing GPT-image-2 launch on Lovart platform.\\n\\nStyle/medium: high-end editorial magazine cover, minimalist luxury aesthetic, Vogue-style typography\\nComposition: diagonal layout with dynamic asymmetry, text elements placed along diagonal axis from top-left to bottom-right, generous negative space\\nSubject: bold typographic announcement featuring \\\"GPT-image-2\\\" and \\\"Lovart\\\" as hero text\\nScene/backdrop: clean abstract gradient or solid premium background, subtle texture suggesting paper stock\\nLighting/mood: studio lighting, crisp and sophisticated, confident and modern\\nColor palette: high contrast with one dominant accent color (deep navy, burnt orange, or electric blue) against neutral base (off-white or soft gray)\\nText (verbatim): \\\"GPT-image-2\\\" \\\"Lovart\\\"\\nConstraints: must work as 3:4 vertical cover format; text must remain legible at thumbnail size; magazine-grade hierarchy\\nAvoid: cluttered layout, more than 3 colors, stock photography, generic tech startup gradients, drop shadows on text\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9723
+}

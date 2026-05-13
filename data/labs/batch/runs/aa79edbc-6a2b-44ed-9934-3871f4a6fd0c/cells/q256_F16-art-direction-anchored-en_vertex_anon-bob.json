@@ -1,0 +1,23 @@
+{
+  "query_idx": 256,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张海岛度假派对主题海报，以上传图片为视觉参考。\n\n风格/媒介:简约高级，层次丰富\n构图:\n  9:16 竖版构图\n  层次感强，前后空间关系明确\n主体:海岛度假派对主题海报\n场景/背景:海岛度假氛围\n光线/氛围:度假派对氛围\n色彩方案:\n材质/纹理:\n文字(原样):都市逃逸计划\n约束:\n  参考上传图片的视觉风格与构图\n  适配小红书发布尺寸\n避免:繁复堆砌、低端廉价感",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6bcee800-3c3d-419c-afe2-18c30c0b775b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一张海岛度假派对主题海报，以上传图片为视觉参考。\\n\\n风格/媒介:简约高级，层次丰富\\n构图:\\n  9:16 竖版构图\\n  层次感强，前后空间关系明确\\n主体:海岛度假派对主题海报\\n场景/背景:海岛度假氛围\\n光线/氛围:度假派对氛围\\n色彩方案:\\n材质/纹理:\\n文字(原样):都市逃逸计划\\n约束:\\n  参考上传图片的视觉风格与构图\\n  适配小红书发布尺寸\\n避免:繁复堆砌、低端廉价感\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6782,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

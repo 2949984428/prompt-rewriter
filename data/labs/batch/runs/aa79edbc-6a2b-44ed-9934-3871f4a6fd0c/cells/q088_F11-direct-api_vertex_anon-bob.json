@@ -1,0 +1,23 @@
+{
+  "query_idx": 88,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "write this logo to look like it's written with soy sauce like the second reference attached with a top view angle[@image:#1:logo][@image:#2:9e859b7a88bdd672dbac93b0ac1cd5e5]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7ed146de-93c9-484b-9e21-dc36412a3d71/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"write this logo to look like it's written with soy sauce like the second reference attached with a top view angle[@image:#1:logo][@image:#2:9e859b7a88bdd672dbac93b0ac1cd5e5]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3295,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

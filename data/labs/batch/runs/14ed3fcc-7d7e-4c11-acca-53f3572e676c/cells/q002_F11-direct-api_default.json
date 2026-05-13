@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "一位身着精致汉服的古典美人坐于江南水乡的木质亭台之上，手持团扇，回眸凝视远方。亭台四周是盛开的荷花池，粉白色荷花在微风中轻轻摇曳，荷叶上滚动着晶莹的水珠。背景是白墙黛瓦的徽派建筑群，青石板小路蜿蜒其间，几只白鹭在水面低飞。人物服饰以淡青色和金色刺绣为主，发髻上插着玉簪和珍珠发饰，妆容精致典雅。整体画风融合工笔画细腻与写意画意境，色彩清雅，构图对称，充满诗情画意的东方美学韵味，4K超清。",
+    "size": "2048x2048",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/caa51b15-6a83-4962-afe5-c0b4065f0755/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

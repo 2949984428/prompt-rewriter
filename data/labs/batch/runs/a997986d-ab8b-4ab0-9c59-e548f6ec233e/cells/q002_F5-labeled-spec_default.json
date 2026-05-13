@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: fine-art illustration\nAsset type: editorial art for cultural magazine, vertical poster\nPrimary request: a classical Chinese beauty in exquisite Hanfu seated on a wooden pavilion, holding a round fan, looking back into the distance\nScene/backdrop: Jiangnan water town setting, wooden pavilion surrounded by blooming lotus pond, pink and white lotus flowers swaying in breeze, dewdrops rolling on lotus leaves, white-walled black-tiled Hui-style architecture, winding bluestone paths, white egrets flying low over water\nSubject: elegant classical Chinese lady wearing light cyan Hanfu with golden embroidery, intricate updo adorned with jade hairpins and pearl ornaments, refined delicate makeup, graceful posture with round silk fan in hand\nStyle/medium: fusion of gongbi (meticulous brushwork) and xieyi (freehand) Chinese painting styles, traditional Chinese ink wash with color\nComposition/framing: symmetrical composition, medium shot with figure as focal point, pavilion and lotus pond as layered foreground and background\nLighting/mood: soft diffused daylight, gentle morning atmosphere, poetic and serene Eastern aesthetic mood\nColor palette: soft cyan and gold for costume, pink and white lotus, emerald green leaves, muted ink gray architecture, warm cream paper tone\nMaterials/textures: flowing silk fabric with embroidered patterns, smooth jade and lustrous pearls, delicate paper fan, natural wood grain of pavilion, waxy lotus petals\nConstraints: preserve the symmetrical composition and poetic Eastern aesthetic, maintain the fusion of gongbi detail and xieyi atmosphere\nAvoid: photorealistic rendering, Western oil painting style, oversaturated neon colors, modern elements, deformed hands, cluttered composition",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0de18556-1b99-4e65-bc39-95aeb142974c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: fine-art illustration\\nAsset type: editorial art for cultural magazine, vertical poster\\nPrimary request: a classical Chinese beauty in exquisite Hanfu seated on a wooden pavilion, holding a round fan, looking back into the distance\\nScene/backdrop: Jiangnan water town setting, wooden pavilion surrounded by blooming lotus pond, pink and white lotus flowers swaying in breeze, dewdrops rolling on lotus leaves, white-walled black-tiled Hui-style architecture, winding bluestone paths, white egrets flying low over water\\nSubject: elegant classical Chinese lady wearing light cyan Hanfu with golden embroidery, intricate updo adorned with jade hairpins and pearl ornaments, refined delicate makeup, graceful posture with round silk fan in hand\\nStyle/medium: fusion of gongbi (meticulous brushwork) and xieyi (freehand) Chinese painting styles, traditional Chinese ink wash with color\\nComposition/framing: symmetrical composition, medium shot with figure as focal point, pavilion and lotus pond as layered foreground and background\\nLighting/mood: soft diffused daylight, gentle morning atmosphere, poetic and serene Eastern aesthetic mood\\nColor palette: soft cyan and gold for costume, pink and white lotus, emerald green leaves, muted ink gray architecture, warm cream paper tone\\nMaterials/textures: flowing silk fabric with embroidered patterns, smooth jade and lustrous pearls, delicate paper fan, natural wood grain of pavilion, waxy lotus petals\\nConstraints: preserve the symmetrical composition and poetic Eastern aesthetic, maintain the fusion of gongbi detail and xieyi atmosphere\\nAvoid: photorealistic rendering, Western oil painting style, oversaturated neon colors, modern elements, deformed hands, cluttered composition\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15477
+}

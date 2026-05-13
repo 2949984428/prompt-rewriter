@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original sports illustration in hot-blooded shonen anime style of a basketball player executing a powerful slam dunk mid-air.\n\nStyle/medium: shonen sports anime illustration, bold ink outlines, dynamic action lines (speed lines), high-contrast cel shading in the spirit of Slam Dunk / Kuroko's Basketball\nComposition: low-angle upward shot, player centered and towering against the sky, rim and net in foreground, crowd blurred in background, wide aspect feel with tight vertical drama\nSubject: male basketball player at peak hang time, arm fully extended driving ball into hoop, jersey rippling, sweat droplets scattering in arcs around the body, intense determined expression\nScene/backdrop: indoor basketball arena, packed cheering crowd in the stands, multiple camera flash bursts lighting the background\nLighting/mood: dramatic stage lighting from above mixed with scattered camera flashes, high-energy and electrifying atmosphere, full of tension and passion\nColor palette: vivid saturated primaries anchored by the player's jersey color, bright white flash highlights as accent, deep shadow zones for contrast\nMaterials/textures: cel-shaded flat color fills with sharp shadow edges, motion blur streaks on limbs and ball, sweat droplets rendered as flying liquid beads\nAvoid: realistic photographic rendering, muted desaturated palette, static pose, generic clip-art style, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0d42baab-ab98-4238-bfdb-6a0aac03924b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original sports illustration in hot-blooded shonen anime style of a basketball player executing a powerful slam dunk mid-air.\\n\\nStyle/medium: shonen sports anime illustration, bold ink outlines, dynamic action lines (speed lines), high-contrast cel shading in the spirit of Slam Dunk / Kuroko's Basketball\\nComposition: low-angle upward shot, player centered and towering against the sky, rim and net in foreground, crowd blurred in background, wide aspect feel with tight vertical drama\\nSubject: male basketball player at peak hang time, arm fully extended driving ball into hoop, jersey rippling, sweat droplets scattering in arcs around the body, intense determined expression\\nScene/backdrop: indoor basketball arena, packed cheering crowd in the stands, multiple camera flash bursts lighting the background\\nLighting/mood: dramatic stage lighting from above mixed with scattered camera flashes, high-energy and electrifying atmosphere, full of tension and passion\\nColor palette: vivid saturated primaries anchored by the player's jersey color, bright white flash highlights as accent, deep shadow zones for contrast\\nMaterials/textures: cel-shaded flat color fills with sharp shadow edges, motion blur streaks on limbs and ball, sweat droplets rendered as flying liquid beads\\nAvoid: realistic photographic rendering, muted desaturated palette, static pose, generic clip-art style, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11644
+}

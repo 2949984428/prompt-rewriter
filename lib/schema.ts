@@ -325,52 +325,51 @@ export const ExternalPicksSchema = z.object({
 });
 export type ExternalPicks = z.infer<typeof ExternalPicksSchema>;
 
-export const BatchRunRecordSchema = z.object({
+// ────────────────────────────────────────────────────────────────────
+// BatchRunMetaSchema:**不含 cells** 的元数据部分。
+//
+// 2026-05-13 架构改造:存储形态从单文件 `<id>.json` 拆成目录:
+//   data/labs/batch/runs/<id>/
+//     ├─ meta.json     ← BatchRunMeta(本 schema)
+//     └─ cells/
+//         └─ <cellKey>.json   ← BatchCell(每 cell 独立文件)
+//
+// 为什么拆分:
+//   - 列表 / 详情 read 路径之前要把 3MB 单文件全 parse 一遍才能抠 7 个 summary 字段,
+//     深嵌套 Zod 全量校验 CPU heavy,叠加 SSE 写盘锁导致 detail GET 30s+ 抖动
+//   - 拆分后:列表只读 meta.json(~5KB),详情默认 meta + cell_keys,单 cell 按需懒读
+//   - write 锁粒度从 per-record 降到 per-cell,SSE 跑批不阻塞 detail GET
+// ────────────────────────────────────────────────────────────────────
+export const BatchRunMetaSchema = z.object({
   id: z.string().min(1),
   created_at: z.string(),
   name: z.string().default(""),
   query_mode: BatchQueryModeSchema,
-  // derive 模式下保留派生时的目的描述;其他模式留空
   purpose: z.string().default(""),
-  // 三种模式最终都收敛成 queries[]:不论原始输入,server 端跑的就是这 N 行
   queries: z.array(z.string()).min(1),
-  // Phase 2:test_kind=pipeline 时 skill_ids 为 [],test_kind=skill 时至少 1 项(校验在 POST route 做)
   skill_ids: z.array(z.string()).default([]),
   scoring_dimensions: z.array(ScoringDimensionSchema).default([]),
-  cells: z.array(BatchCellSchema),
   rewrite_llm: z.string().default(""),
   status: BatchRunStatusSchema.default("draft"),
-  // 是否在每条 skill 的 system prompt 前注入 _universal.md(通用 5 条规则)。
-  // 默认 true:跟历史行为一致;新建跑批时 PM 可以勾掉验证"无通用规则" 时的输出表现。
-  // 旧 record(没有这个字段)被 default(true) 兜底,行为不变。
   include_universal: z.boolean().default(true),
-  // 参考图(base64 data URL 数组)。空 → 文生图;非空 → 所有 cell 走 image-edit(图生图)。
-  // 默认空数组兼容旧 record。上限 4 张,server 端跑批时透传给生图网关。
   reference_images: z.array(z.string()).default([]),
-  // 2026-05-13 方案 C:per-query 参考图覆盖(set 模式专属,主要服务"题目集每题自带图")。
-  //   长度可以 <= queries.length,索引 i 对应 query[i];越界 / undefined → fallback record.reference_images
-  //   元素 [] → 跟越界等价(没图,走文生图 / 或 fallback record level)
-  //   非空数组 → 该 query 下所有 cell(笛卡尔积里同 query_idx 的 N×M 个 cell)都用这组图
-  // 老 record 没此字段 → default([]) 兜底,跑批时所有 cell 走 record.reference_images。
   per_query_reference_images: z.array(z.array(z.string())).default([]),
-  // 生图模型 name:""(默认) → 内部 image gateway(env IMAGE_MODEL,默认 gpt-image-2);
-  // "vendor/name" → 走 Lovart Agent。由 lib/image-router 分发。
-  // 老 record 没此字段 → default("") 兜底,行为不变。
-  // 多 model 改造后:此字段保留作"默认 model"语义;实际跑的模型集合见 image_model_ids。
   image_model: z.string().default(""),
-  // 多 model 模式:跑批选了哪些生图模型。空 [] → 单 model 模式(用 image_model 那一个)。
-  // 非空 → cells 是 (query_idx × skill_id × image_model) 三维笛卡尔积。
-  // 老 record 没此字段 → default([]) 兜底,行为不变(走 image_model 单 model 路径)。
   image_model_ids: z.array(z.string()).default([]),
-  // 2026-05-13 Phase 2:批量测试种类。
-  //   "skill"(默认,老 record 兼容)→ Skill 批量测试台,cells 用 skill_ids 笛卡尔积
-  //   "pipeline" → Pipeline 测试台,cells 用 pipeline_ids 笛卡尔积
   test_kind: BatchTestKindSchema.default("skill"),
-  // Pipeline 测试台跑批选的 pipeline 列表。test_kind="pipeline" 时用,"skill" 时为 []。
   pipeline_ids: z.array(z.string()).default([]),
-  // 外部盲评结果(可选,通过导出 → 评分 → 导入流程获得)。
-  // 不放在 cell 上是因为 picks 是 query 级别决策(每 query 一个 winner),不是 cell 级别评分。
   external_picks: ExternalPicksSchema.optional(),
+  // 新增:cell 索引(顺序对应 cells/ 目录下的文件名,无序但完整)
+  // 老 record 兼容:从单文件读出后 derive 一份(组装时填充)
+  cell_keys: z.array(z.string()).default([]),
+});
+export type BatchRunMeta = z.infer<typeof BatchRunMetaSchema>;
+
+// BatchRunRecord = BatchRunMeta + cells:完整组装形态。
+// 这是给 export / SSE 启动快照 / 老路径兼容用。read 路径默认应该用 meta + 按需读 cell,
+// 不要把整个 record 一次性拉出来除非确实要全量(导出 / 老 detail-view)。
+export const BatchRunRecordSchema = BatchRunMetaSchema.extend({
+  cells: z.array(BatchCellSchema),
 });
 export type BatchRunRecord = z.infer<typeof BatchRunRecordSchema>;
 

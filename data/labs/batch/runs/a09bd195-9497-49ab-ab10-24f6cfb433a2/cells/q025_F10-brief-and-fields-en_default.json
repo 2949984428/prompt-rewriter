@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original architectural concept illustration for a futuristic sustainable city vision.\n\nStyle/medium: architectural concept illustration, futuristic utopian aesthetic, Syd Mead-inspired clean lines\nComposition: wide establishing shot, slightly elevated angle showing floating structure and surrounding airspace\nSubject: streamlined white building with flowing organic curves, suspended in mid-air, surrounded by small autonomous drones and holographic projection displays\nScene/backdrop: clean sky environment with visible solar arrays and wind turbines as clean energy infrastructure, distant city silhouette suggesting sustainable urban development\nLighting/mood: soft diffused daylight with subtle atmospheric haze, optimistic and aspirational mood\nColor palette: dominant clean white and light gray for architecture, soft blue sky gradients, subtle green accents for sustainability elements, holographic cyan/magenta for projections\nMaterials/textures: smooth matte white surfaces with subtle panel lines, translucent holographic overlays, sleek metallic drone bodies\nAvoid: dark dystopian tones, industrial decay, smog or pollution, generic sci-fi clutter, 8K stuffer words",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aa288ad7-e6a5-42ee-aa9f-b89e52c4da41/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original architectural concept illustration for a futuristic sustainable city vision.\\n\\nStyle/medium: architectural concept illustration, futuristic utopian aesthetic, Syd Mead-inspired clean lines\\nComposition: wide establishing shot, slightly elevated angle showing floating structure and surrounding airspace\\nSubject: streamlined white building with flowing organic curves, suspended in mid-air, surrounded by small autonomous drones and holographic projection displays\\nScene/backdrop: clean sky environment with visible solar arrays and wind turbines as clean energy infrastructure, distant city silhouette suggesting sustainable urban development\\nLighting/mood: soft diffused daylight with subtle atmospheric haze, optimistic and aspirational mood\\nColor palette: dominant clean white and light gray for architecture, soft blue sky gradients, subtle green accents for sustainability elements, holographic cyan/magenta for projections\\nMaterials/textures: smooth matte white surfaces with subtle panel lines, translucent holographic overlays, sleek metallic drone bodies\\nAvoid: dark dystopian tones, industrial decay, smog or pollution, generic sci-fi clutter, 8K stuffer words\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10721
+}

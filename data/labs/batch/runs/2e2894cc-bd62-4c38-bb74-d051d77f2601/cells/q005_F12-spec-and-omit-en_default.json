@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic explaining the relationships between AI concepts.\n\nStyle/medium: hand-drawn style infographic\nComposition: \nSubject: definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, CLI\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI\nConstraints: visually simple and easy to understand, combining text and illustrations\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4c86b77f-84b5-401d-a602-0278f7f23472/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing infographic explaining the relationships between AI concepts.\\n\\nStyle/medium: hand-drawn style infographic\\nComposition: \\nSubject: definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, CLI\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI\\nConstraints: visually simple and easy to understand, combining text and illustrations\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7210
+}

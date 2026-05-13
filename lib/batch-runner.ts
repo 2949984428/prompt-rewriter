@@ -195,23 +195,27 @@ async function tryRunPipelineCellOnce(args: {
   }
   const { ctx: finalCtx, trace, failedAt } = runResult;
 
-  // 主图:第 1 张已生图的 image_urls(用于 batch grid 缩略图)
-  const firstGen = step3Items.find(
-    (it) => Array.isArray(it.image_urls) && (it.image_urls as string[]).length > 0,
-  );
-  const firstUrls = firstGen ? (firstGen.image_urls as string[]) : [];
-
-  // 落盘:gateway url 会过期(参考 step3_item 流程已 emit 完成态),复用 saveImageBytes
-  // 多 generation 也跟 batch cell 一样,落到本地,image_urls 字段存第一张
-  // 完整 generations 存在 pipeline_outputs.generations(URL 已经是 step3_item 的最终值)
-  let finalUrls = firstUrls;
-  if (firstGen && firstUrls.length > 0) {
-    const taskId = String(firstGen.id ?? `pipe_${Date.now()}`);
-    const localPaths = await saveImageBytes(taskId, firstUrls);
-    if (localPaths.length === firstUrls.length && localPaths.every((p) => p)) {
-      finalUrls = localPaths;
+  // 2026-05-13:Pipeline N>1 时,planner 拆 N 个 function_call 各出 1 张图。
+  // 老逻辑只本地化第一张,其余丢失 — 改为铺平所有 generation.image_urls,逐个本地化
+  // 后存 cell.image_urls(数组顺序保留 fc 顺序,便于跟 generation 一一对应)
+  const allUrls: string[] = [];
+  for (const it of step3Items) {
+    const urls = Array.isArray(it.image_urls) ? (it.image_urls as string[]) : [];
+    if (urls.length === 0) continue;
+    const taskId = String(it.id ?? `pipe_${Date.now()}`);
+    let localPaths = urls;
+    try {
+      const saved = await saveImageBytes(taskId, urls);
+      if (saved.length === urls.length && saved.every((p) => p)) {
+        localPaths = saved;
+      }
+    } catch {
+      /* 本地化失败保留 gateway URL,跑批不阻塞 */
     }
+    allUrls.push(...localPaths);
   }
+  const finalUrls = allUrls;
+  const firstUrls = allUrls; // 兼容下方 failedAt 分支的 firstUrls.length === 0 判断
 
   // 跑批失败但生成了部分 step:整体标 fail,但保留部分产物
   if (failedAt && firstUrls.length === 0) {

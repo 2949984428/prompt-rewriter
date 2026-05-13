@@ -1,0 +1,23 @@
+{
+  "query_idx": 49,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "남녀 데이팅 서비스의 로고를 디자인하려 해. 서비스의 이름은 \"마주봄\"이고 메인 색은 붉은 계열을 사용했으면 좋겠어. 남녀가 서로 바라보는 모양인데 직관적이기 보다는 추상적인 모양으로 나타냈으면 좋겠어.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac97dd95c-c7c0-49f2-a777-77208dd5b48f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"남녀 데이팅 서비스의 로고를 디자인하려 해. 서비스의 이름은 \\\"마주봄\\\"이고 메인 색은 붉은 계열을 사용했으면 좋겠어. 남녀가 서로 바라보는 모양인데 직관적이기 보다는 추상적인 모양으로 나타냈으면 좋겠어.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4309,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

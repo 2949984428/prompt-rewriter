@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a hyper-realistic jewelry close-up illustration of a sapphire ring with diamond settings (all in-image text in Chinese).\n\nStyle/medium: needs a \"超写实\" aesthetic — references in the spirit of Albert Watson luxury product photography, Cartier campaign macro still-life tradition, 1980s–1990s high-jewellery editorial print culture; exact stylistic execution is yours\nComposition: must be extreme macro close-up, filling the frame with the ring\nSubject: must include a sapphire ring (one) with diamond pavé settings, fire and light refraction visible inside the gemstone\nScene/backdrop: must include a black velvet background\nLighting/mood: needs a dramatic, opulent atmosphere with light refracting inside the sapphire — exact light source mix is yours\nColor palette: needs a deep-blue sapphire dominant with diamond sparkle accents against deep black — exact hex values and ratios are yours\nMaterials/textures: needs a surface treatment that renders velvet texture, polished metal sheen, and gemstone internal facets with maximum tactile fidelity — exact grain and sheen levels are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3a18f633-8b80-4d14-b92d-596dbaf9e630/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a hyper-realistic jewelry close-up illustration of a sapphire ring with diamond settings (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"超写实\\\" aesthetic — references in the spirit of Albert Watson luxury product photography, Cartier campaign macro still-life tradition, 1980s–1990s high-jewellery editorial print culture; exact stylistic execution is yours\\nComposition: must be extreme macro close-up, filling the frame with the ring\\nSubject: must include a sapphire ring (one) with diamond pavé settings, fire and light refraction visible inside the gemstone\\nScene/backdrop: must include a black velvet background\\nLighting/mood: needs a dramatic, opulent atmosphere with light refracting inside the sapphire — exact light source mix is yours\\nColor palette: needs a deep-blue sapphire dominant with diamond sparkle accents against deep black — exact hex values and ratios are yours\\nMaterials/textures: needs a surface treatment that renders velvet texture, polished metal sheen, and gemstone internal facets with maximum tactile fidelity — exact grain and sheen levels are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 23083
+}

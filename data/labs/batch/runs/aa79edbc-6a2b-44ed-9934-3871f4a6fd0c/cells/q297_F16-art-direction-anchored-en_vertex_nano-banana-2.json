@@ -1,0 +1,23 @@
+{
+  "query_idx": 297,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a photorealistic close-up lifestyle photo in Xiaohongshu (Little Red Book) product-sharing style.\n\nStyle/medium: Xiaohongshu mom-sharing aesthetic, photorealistic, natural handheld-feel snapshot, warm and authentic\nComposition:\n  3:4 vertical frame\n  Subject standing sideways in front of a full-length mirror in a children's room\n  Camera close enough to clearly show shoulder seam line, side camo panel splice, and shorts inseam length\n  Boy's hand lightly tugging the waistband of the swimsuit to demonstrate fit\nSubject:\n  Same little boy as the reference image — preserve face, build, and skin tone faithfully\n  Wearing a two-piece swimsuit: royal blue (宝蓝色) body with camouflage-pattern spliced side panels\n  Swimsuit fit demonstration: waistband not digging in, no crotch bunching, high-stretch fabric lying smooth without feeling tight\nScene/backdrop: Clean, tidy children's bedroom; full-length mirror visible; minimal props\nLighting/mood:\n  Soft, natural indoor daylight\n  Authentic and relaxed, evoking a real parent's candid share — \"even chubby kids can wear this, so comfortable\"\nColor palette: Royal blue as dominant swimsuit color, camo panel accent, neutral warm room tones\nMaterials/textures: Stretchy swimwear fabric with visible texture; camo print on side panels rendered clearly\nText (verbatim):\nConstraints:\n  Preserve the boy's appearance from the reference image\n  Clearly render: shoulder seam line, side camo splice detail, shorts length proportions\n  No Chinese text or any text in the image\nAvoid: stiff or overly posed look; tight or ill-fitting appearance; cluttered background; harsh shadows; any on-image text",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A285ff700-de93-452c-916d-2dfd20422a30/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate a photorealistic close-up lifestyle photo in Xiaohongshu (Little Red Book) product-sharing style.\\n\\nStyle/medium: Xiaohongshu mom-sharing aesthetic, photorealistic, natural handheld-feel snapshot, warm and authentic\\nComposition:\\n  3:4 vertical frame\\n  Subject standing sideways in front of a full-length mirror in a children's room\\n  Camera close enough to clearly show shoulder seam line, side camo panel splice, and shorts inseam length\\n  Boy's hand lightly tugging the waistband of the swimsuit to demonstrate fit\\nSubject:\\n  Same little boy as the reference image — preserve face, build, and skin tone faithfully\\n  Wearing a two-piece swimsuit: royal blue (宝蓝色) body with camouflage-pattern spliced side panels\\n  Swimsuit fit demonstration: waistband not digging in, no crotch bunching, high-stretch fabric lying smooth without feeling tight\\nScene/backdrop: Clean, tidy children's bedroom; full-length mirror visible; minimal props\\nLighting/mood:\\n  Soft, natural indoor daylight\\n  Authentic and relaxed, evoking a real parent's candid share — \\\"even chubby kids can wear this, so comfortable\\\"\\nColor palette: Royal blue as dominant swimsuit color, camo panel accent, neutral warm room tones\\nMaterials/textures: Stretchy swimwear fabric with visible texture; camo print on side panels rendered clearly\\nText (verbatim):\\nConstraints:\\n  Preserve the boy's appearance from the reference image\\n  Clearly render: shoulder seam line, side camo splice detail, shorts length proportions\\n  No Chinese text or any text in the image\\nAvoid: stiff or overly posed look; tight or ill-fitting appearance; cluttered background; harsh shadows; any on-image text\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 18331,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

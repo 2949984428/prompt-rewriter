@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cross-border e-commerce promotional poster with typographic art and layered text composition, intended for advertising/marketing use.\n\nStyle/medium: commercial promotional poster, graphic design with decorative art typography and type-stacking layout\nComposition: 16:9 horizontal layout; layered typographic hierarchy with stacked font treatments; hero product or subject physically overlapping and occluding portions of the background text layers, creating depth\nSubject: cross-border e-commerce promotion; hero product (or branded subject) placed centrally, partially masking stacked lettering behind it\nScene/backdrop: visually rich but structured background — complex yet organized, no visual clutter\nLighting/mood: bold, energetic, promotional — high visual impact to drive viewer action\nColor palette: vivid, high-contrast commercial palette suitable for cross-border e-commerce advertising\nMaterials/textures: mixed typographic textures — decorative art lettering, stacked oversized type, layered graphic elements\nText (verbatim): \nConstraints: art typography required; type-stacking effect required; product/subject must visually overlap and partially cover background text; composition must feel complex but not chaotic; strict 16:9 aspect ratio\nAvoid: flat single-layer layout, sparse minimalist design, cluttered illegible mess, generic stock-photo collage aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/02e8e057-47d1-4cf5-9186-fdbb158b20d7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing cross-border e-commerce promotional poster with typographic art and layered text composition, intended for advertising/marketing use.\\n\\nStyle/medium: commercial promotional poster, graphic design with decorative art typography and type-stacking layout\\nComposition: 16:9 horizontal layout; layered typographic hierarchy with stacked font treatments; hero product or subject physically overlapping and occluding portions of the background text layers, creating depth\\nSubject: cross-border e-commerce promotion; hero product (or branded subject) placed centrally, partially masking stacked lettering behind it\\nScene/backdrop: visually rich but structured background — complex yet organized, no visual clutter\\nLighting/mood: bold, energetic, promotional — high visual impact to drive viewer action\\nColor palette: vivid, high-contrast commercial palette suitable for cross-border e-commerce advertising\\nMaterials/textures: mixed typographic textures — decorative art lettering, stacked oversized type, layered graphic elements\\nText (verbatim): \\nConstraints: art typography required; type-stacking effect required; product/subject must visually overlap and partially cover background text; composition must feel complex but not chaotic; strict 16:9 aspect ratio\\nAvoid: flat single-layer layout, sparse minimalist design, cluttered illegible mess, generic stock-photo collage aesthetic\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9499
+}

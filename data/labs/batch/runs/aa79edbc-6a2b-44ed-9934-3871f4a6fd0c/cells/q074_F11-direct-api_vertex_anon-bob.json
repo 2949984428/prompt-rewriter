@@ -1,0 +1,23 @@
+{
+  "query_idx": 74,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "我给这个品牌取名peakflow，是因为攀岩时专注的心流状态，你能根据这个品牌名，为我想一些设计方案和设计灵感吗。[@image:#1:PEAKFLOW高清透明logo]同时为我展现一些设计方向让我选择，我现在需要订下品牌整体的基调和风格，还有视觉呈现",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A537f6624-237e-4f97-9dbc-49b1e3cf2033/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Brand identity concept sheet for \\\"PEAKFLOW\\\" — a rock climbing brand inspired by the mental state of \\\"flow\\\" during climbing. Show 4 distinct design direction panels side by side:\\n\\nPanel 1 · Raw & Minimal: Clean sans-serif wordmark \\\"PEAKFLOW\\\" in charcoal on off-white. A single abstract mountain peak line that doubles as a waveform / EEG brainwave. Muted palette: chalk white, slate grey, obsidian black.\\n\\nPanel 2 · Organic & Earthy: \\\"PEAKFLOW\\\" lettering with subtle rock texture grain. Earthy tones: sandstone orange, terracotta, deep moss green. A circular emblem combining a mountain silhouette and a flowing water ripple.\\n\\nPanel 3 · Technical & Athletic: Bold geometric \\\"PEAKFLOW\\\" wordmark with angular cuts referencing carabiner or climbing hold shapes. High-contrast palette: electric blue, pure white, matte black. Dynamic diagonal composition suggesting upward momentum.\\n\\nPanel 4 · Zen & Flow: Fluid brushstroke-influenced \\\"PEAKFLOW\\\" logotype. Ink wash aesthetic, monochrome with a single accent of deep teal. A minimalist peak shape dissolving into flowing lines, evoking both summit and mental clarity.\\n\\nLayout: clean white background, each panel labeled with direction name, mood board style presentation.\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11982,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

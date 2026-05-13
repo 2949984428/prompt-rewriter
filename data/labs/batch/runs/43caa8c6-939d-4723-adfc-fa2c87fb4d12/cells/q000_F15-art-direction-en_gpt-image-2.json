@@ -1,0 +1,19 @@
+{
+  "query_idx": 0,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a 小红书 lifestyle cover image for a 珍珠奶茶 product.\n\nStyle/medium: needs a 粉色少女风 aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include 珍珠奶茶 as the focal subject\nScene/backdrop: \nLighting/mood: needs a 夏日清凉感 atmosphere — exact light source mix is yours\nColor palette: needs a pink, soft-girly direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit https://aka.ms/aoaicodeofconduct\",\"error_code\":\"API_CALL_ERROR\",\"provider_error_code\":\"Forbidden\",\"http_status_code\":403,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create a 小红书 lifestyle cover image for a 珍珠奶茶 product.\\n\\nStyle/medium: needs a 粉色少女风 aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include 珍珠奶茶 as the focal subject\\nScene/backdrop: \\nLighting/mood: needs a 夏日清凉感 atmosphere — exact light source mix is yours\\nColor palette: needs a pink, soft-girly direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5421
+}

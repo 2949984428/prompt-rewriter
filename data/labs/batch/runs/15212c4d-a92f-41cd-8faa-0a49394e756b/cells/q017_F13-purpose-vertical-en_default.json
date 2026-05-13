@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a tri-fold travel brochure illustration for a 4-day, 3-night Hangzhou self-guided itinerary, intended for Xiaohongshu travel-attack sharing.\n\nStyle/medium: tri-fold brochure illustration, Xiaohongshu travel-attack handbook aesthetic\nComposition: tri-fold layout with real Hangzhou map as central spine, 4 day-panels divided clearly, landmarks as floating cardstock cutouts above the map\nSubject: \n  Day 1 panel — West Lake classic loop: 断桥残雪 / 白堤 / 孤山 / 曲院风荷 / 苏堤春晓 / 花港观鱼 / 雷峰塔 / 柳浪闻莺\n  Day 2 panel — Zen Hangzhou: 灵隐寺 / 飞来峰造像 / 法喜寺 / 宋城\n  Day 3 panel — Tea hills: 九溪十八涧 / 龙井村 / 十里琅珰 / 云栖竹径\n  Day 4 panel — Wenli finale: 拱宸桥 / 桥西历史街区 / 小河直街 / 大兜路香积寺 / 西溪湿地\nScene/backdrop: Hangzhou geographic map base showing all routes connecting day-panels\nLighting/mood: bright, warm, cheerful (per Xiaohongshu travel-attack tonality)\nColor palette: warm earth tones with map-green and lake-blue accents\nMaterials/textures: paper cardstock cutouts with floating shadow under each landmark\nText (verbatim): all itinerary details (景点名 / 路线 / 餐厅推荐 / 价格 / 交通 / 住宿) printed as designed copy on the brochure panels\nConstraints: 4 day-panels visible, real Hangzhou geographic accuracy, all景点 preserved\nAvoid: info dumping into a single block, generic stock-photo style, Western tourism poster aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/69a1b2f0-f30d-4af2-9d75-01ab82d77a11/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a tri-fold travel brochure illustration for a 4-day, 3-night Hangzhou self-guided itinerary, intended for Xiaohongshu travel-attack sharing.\\n\\nStyle/medium: tri-fold brochure illustration, Xiaohongshu travel-attack handbook aesthetic\\nComposition: tri-fold layout with real Hangzhou map as central spine, 4 day-panels divided clearly, landmarks as floating cardstock cutouts above the map\\nSubject: \\n  Day 1 panel — West Lake classic loop: 断桥残雪 / 白堤 / 孤山 / 曲院风荷 / 苏堤春晓 / 花港观鱼 / 雷峰塔 / 柳浪闻莺\\n  Day 2 panel — Zen Hangzhou: 灵隐寺 / 飞来峰造像 / 法喜寺 / 宋城\\n  Day 3 panel — Tea hills: 九溪十八涧 / 龙井村 / 十里琅珰 / 云栖竹径\\n  Day 4 panel — Wenli finale: 拱宸桥 / 桥西历史街区 / 小河直街 / 大兜路香积寺 / 西溪湿地\\nScene/backdrop: Hangzhou geographic map base showing all routes connecting day-panels\\nLighting/mood: bright, warm, cheerful (per Xiaohongshu travel-attack tonality)\\nColor palette: warm earth tones with map-green and lake-blue accents\\nMaterials/textures: paper cardstock cutouts with floating shadow under each landmark\\nText (verbatim): all itinerary details (景点名 / 路线 / 餐厅推荐 / 价格 / 交通 / 住宿) printed as designed copy on the brochure panels\\nConstraints: 4 day-panels visible, real Hangzhou geographic accuracy, all景点 preserved\\nAvoid: info dumping into a single block, generic stock-photo style, Western tourism poster aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15100
+}

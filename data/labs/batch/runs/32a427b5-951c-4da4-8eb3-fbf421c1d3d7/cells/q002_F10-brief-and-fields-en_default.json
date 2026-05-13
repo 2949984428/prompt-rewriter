@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial banner photo for Weibo news/hot-topic feature, 16:9 aspect ratio, documentary street photography style.\n\nStyle/medium: photorealistic documentary street photography, mobile-captured aesthetic with professional polish, sharp detail\nComposition: wide panoramic horizontal banner, 16:9 aspect ratio, generous negative space for text overlay, city street level viewpoint\nSubject: silhouettes of pedestrians walking briskly in foreground, motion blur suggesting haste\nScene/backdrop: urban skyline at dusk, skyscrapers in distance reflecting golden sunset glow, neon signs beginning to illuminate\nLighting/mood: dramatic chiaroscuro contrast, warm golden hour sunlight fading into cool blue twilight, strong light/shadow interplay\nColor palette: warm amber and gold from sunset as anchor, cool cyan and magenta from neon as accent, deep blue shadows\nText (verbatim): \"城市里的安静时刻\", \"黄昏，总能治愈一天的匆忙\", \"@龙爪槐守望者real · 生活观察\"\nConstraints: horizontal panoramic format with ample negative space for headline placement; text must be clearly readable; professional news editorial quality\nAvoid: 8K stuffer words, over-processed HDR look, artificial sharpening artifacts, watermark as graphic element, stock photo generic aesthetic, cluttered composition",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7fa70a67-18b5-4f5f-b7b6-6b3c8cdb20b1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial banner photo for Weibo news/hot-topic feature, 16:9 aspect ratio, documentary street photography style.\\n\\nStyle/medium: photorealistic documentary street photography, mobile-captured aesthetic with professional polish, sharp detail\\nComposition: wide panoramic horizontal banner, 16:9 aspect ratio, generous negative space for text overlay, city street level viewpoint\\nSubject: silhouettes of pedestrians walking briskly in foreground, motion blur suggesting haste\\nScene/backdrop: urban skyline at dusk, skyscrapers in distance reflecting golden sunset glow, neon signs beginning to illuminate\\nLighting/mood: dramatic chiaroscuro contrast, warm golden hour sunlight fading into cool blue twilight, strong light/shadow interplay\\nColor palette: warm amber and gold from sunset as anchor, cool cyan and magenta from neon as accent, deep blue shadows\\nText (verbatim): \\\"城市里的安静时刻\\\", \\\"黄昏，总能治愈一天的匆忙\\\", \\\"@龙爪槐守望者real · 生活观察\\\"\\nConstraints: horizontal panoramic format with ample negative space for headline placement; text must be clearly readable; professional news editorial quality\\nAvoid: 8K stuffer words, over-processed HDR look, artificial sharpening artifacts, watermark as graphic element, stock photo generic aesthetic, cluttered composition\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11044
+}

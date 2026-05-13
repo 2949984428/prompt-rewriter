@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational infographic explaining definitions and relationships between AI concepts.\n\nStyle/medium: needs a hand-drawn sketch aesthetic — exact illustration execution is yours\nComposition: must show concept relationships clearly, with visual connections between nodes\nSubject: must include all 7 concepts with definitions and their interconnections:\n  - AI (人工智能)\n  - MCP (Model Context Protocol)\n  - AI Agent (AI智能体)\n  - OpenClaw\n  - AI Skill (AI技能)\n  - 蒸馏 (Distillation)\n  - CLI (Command Line Interface)\nScene/backdrop: \nLighting/mood: needs an approachable, beginner-friendly atmosphere — exact warmth level is yours\nColor palette: \nMaterials/textures: needs hand-drawn paper texture — exact grain and line weight is yours\nText (verbatim): must include all concept names: \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must preserve hierarchical or relational structure showing how concepts connect, must be visually intuitive for beginners\nAvoid: must avoid overly technical jargon without explanation, must avoid cluttered layouts",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e6f719e7-dbc6-4622-915b-1366199f16ba/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an educational infographic explaining definitions and relationships between AI concepts.\\n\\nStyle/medium: needs a hand-drawn sketch aesthetic — exact illustration execution is yours\\nComposition: must show concept relationships clearly, with visual connections between nodes\\nSubject: must include all 7 concepts with definitions and their interconnections:\\n  - AI (人工智能)\\n  - MCP (Model Context Protocol)\\n  - AI Agent (AI智能体)\\n  - OpenClaw\\n  - AI Skill (AI技能)\\n  - 蒸馏 (Distillation)\\n  - CLI (Command Line Interface)\\nScene/backdrop: \\nLighting/mood: needs an approachable, beginner-friendly atmosphere — exact warmth level is yours\\nColor palette: \\nMaterials/textures: needs hand-drawn paper texture — exact grain and line weight is yours\\nText (verbatim): must include all concept names: \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must preserve hierarchical or relational structure showing how concepts connect, must be visually intuitive for beginners\\nAvoid: must avoid overly technical jargon without explanation, must avoid cluttered layouts\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10534
+}

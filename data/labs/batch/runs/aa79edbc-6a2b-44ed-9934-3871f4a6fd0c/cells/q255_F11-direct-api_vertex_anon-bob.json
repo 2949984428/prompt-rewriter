@@ -1,0 +1,23 @@
+{
+  "query_idx": 255,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image]先把建筑设计改成横板的，不要延展那些不必要的场景，变成插画风格，比例：16：9，做出两张给我，适合小红书平台发布。",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 2,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2a106352-15a0-4faf-813e-90871ec7e6b2/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image]先把建筑设计改成横板的，不要延展那些不必要的场景，变成插画风格，比例：16：9，做出两张给我，适合小红书平台发布。\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 2, \"output_format\": \"png\"}",
+  "ms": 3247,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

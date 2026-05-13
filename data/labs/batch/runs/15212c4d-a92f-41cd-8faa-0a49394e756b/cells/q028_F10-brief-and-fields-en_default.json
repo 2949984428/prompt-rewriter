@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing employee ID card for \"字节期动\" (ByteDance parody), showing both front and back sides in a realistic product mockup.\n\nStyle/medium: photorealistic product photography, corporate ID card mockup with realistic plastic card texture\nComposition: flat lay top-down view showing front and back of card side by side, 85mm lens, sharp focus on both cards\nSubject: employee ID card for \"字节期动\", standard credit card size (86x54mm), with lanyard hole, realistic plastic surface\nScene/backdrop: clean neutral surface (light gray desk or white background), soft shadows beneath cards\nLighting/mood: soft diffused studio lighting from 45-degree angle, even illumination, professional product shot mood\nColor palette: corporate blue and white base, clean minimalist design\nMaterials/textures: matte plastic card surface with slight gloss reflection, realistic printed text and photo placeholder\nText (verbatim): \"字节期动\"\nConstraints: must show both front and back sides clearly; front side should include company logo area, employee photo placeholder, name field, ID number; back side should include barcode/QR code area and company address\nAvoid: cartoonish illustration style, overly saturated colors, watermark, generic Behance mockup look, 8K stuffer text",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4259a831-9f24-4679-8e35-3909c5bfc05c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing employee ID card for \\\"字节期动\\\" (ByteDance parody), showing both front and back sides in a realistic product mockup.\\n\\nStyle/medium: photorealistic product photography, corporate ID card mockup with realistic plastic card texture\\nComposition: flat lay top-down view showing front and back of card side by side, 85mm lens, sharp focus on both cards\\nSubject: employee ID card for \\\"字节期动\\\", standard credit card size (86x54mm), with lanyard hole, realistic plastic surface\\nScene/backdrop: clean neutral surface (light gray desk or white background), soft shadows beneath cards\\nLighting/mood: soft diffused studio lighting from 45-degree angle, even illumination, professional product shot mood\\nColor palette: corporate blue and white base, clean minimalist design\\nMaterials/textures: matte plastic card surface with slight gloss reflection, realistic printed text and photo placeholder\\nText (verbatim): \\\"字节期动\\\"\\nConstraints: must show both front and back sides clearly; front side should include company logo area, employee photo placeholder, name field, ID number; back side should include barcode/QR code area and company address\\nAvoid: cartoonish illustration style, overly saturated colors, watermark, generic Behance mockup look, 8K stuffer text\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11819
+}

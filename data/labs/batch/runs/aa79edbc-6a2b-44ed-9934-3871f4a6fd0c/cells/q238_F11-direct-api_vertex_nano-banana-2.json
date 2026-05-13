@@ -1,0 +1,23 @@
+{
+  "query_idx": 238,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "商业广告海报，绿色渐变背景，一位真实女性模特（photorealistic real human），长直发，自然肤色，佩戴黑色几何图案连衣裙与绿色长手套，手持绿色nova 11系列手机，手机背面有圆形摄像头模组；画面采用剪影式拼贴构图，人物为实拍照片抠像，周围环绕手绘风格涂鸦文字标签如'夏日出镜绿'、'COLOUR MONOGRAM'、'BRAVE!'等，字体粗犷现代，部分文字倾斜或旋转；整体高对比度，绿色主调中穿插白色/黑色文字与深色服装，留白呼吸空间充足；底部有小红书品牌标识及'标记我的生活'标语；右上角有'跳过'按钮，中部有'向上滑动 解锁时尚风向'提示；广告风格，高饱和度，平面设计感强，商业摄影布光，清晰锐利细节。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A168d1b3b-eb1b-4735-94fc-05dac7b241c2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"商业广告海报，绿色渐变背景，一位真实女性模特（photorealistic real human），长直发，自然肤色，佩戴黑色几何图案连衣裙与绿色长手套，手持绿色nova 11系列手机，手机背面有圆形摄像头模组；画面采用剪影式拼贴构图，人物为实拍照片抠像，周围环绕手绘风格涂鸦文字标签如'夏日出镜绿'、'COLOUR MONOGRAM'、'BRAVE!'等，字体粗犷现代，部分文字倾斜或旋转；整体高对比度，绿色主调中穿插白色/黑色文字与深色服装，留白呼吸空间充足；底部有小红书品牌标识及'标记我的生活'标语；右上角有'跳过'按钮，中部有'向上滑动 解锁时尚风向'提示；广告风格，高饱和度，平面设计感强，商业摄影布光，清晰锐利细节。\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4980,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

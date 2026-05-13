@@ -1,0 +1,23 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial product shot for a summer women's fashion e-commerce hero image featuring a white dress.\n\nStyle/medium: Japanese film photography aesthetic, bright and airy editorial fashion, Kodak Portra-inspired color science\nComposition: mid-shot framing the dress at 3/4 angle, 50mm lens, dress hem captured mid-sway to show movement\nSubject: flowing white summer dress with lightweight fabric catching the sea breeze, natural fabric drape and motion\nScene/backdrop: coastal beach setting with clear blue sky meeting turquoise ocean horizon, minimal sand visible\nLighting/mood: soft natural daylight, diffused sunlight creating gentle highlights on fabric, relaxed vacation atmosphere\nColor palette: clean white dress as anchor, bright cyan-blue ocean and sky as dominant backdrop, subtle warm skin tones as accent\nMaterials/textures: breathable cotton/linen blend fabric with visible weave, soft translucent layers catching wind\nAvoid: harsh shadows, oversaturated colors, plastic-looking fabric, cluttered backgrounds, generic stock photo aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/86f53255-52c1-4d4b-aabb-040de8832dec/0.png"
+  ],
+  "scores": {
+    "overall": 4.5,
+    "intent": 4
+  },
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial product shot for a summer women's fashion e-commerce hero image featuring a white dress.\\n\\nStyle/medium: Japanese film photography aesthetic, bright and airy editorial fashion, Kodak Portra-inspired color science\\nComposition: mid-shot framing the dress at 3/4 angle, 50mm lens, dress hem captured mid-sway to show movement\\nSubject: flowing white summer dress with lightweight fabric catching the sea breeze, natural fabric drape and motion\\nScene/backdrop: coastal beach setting with clear blue sky meeting turquoise ocean horizon, minimal sand visible\\nLighting/mood: soft natural daylight, diffused sunlight creating gentle highlights on fabric, relaxed vacation atmosphere\\nColor palette: clean white dress as anchor, bright cyan-blue ocean and sky as dominant backdrop, subtle warm skin tones as accent\\nMaterials/textures: breathable cotton/linen blend fabric with visible weave, soft translucent layers catching wind\\nAvoid: harsh shadows, oversaturated colors, plastic-looking fabric, cluttered backgrounds, generic stock photo aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 16449
+}

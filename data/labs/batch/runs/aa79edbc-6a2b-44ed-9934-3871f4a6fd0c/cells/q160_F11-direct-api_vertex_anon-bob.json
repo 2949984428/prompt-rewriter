@@ -1,0 +1,24 @@
+{
+  "query_idx": 160,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1: Image] 根据这个喜字窗花图案，帮我生成2张淘宝主图，要求图案结构、颜色不变，不要带文字标题，窗景是实景现代小区落地窗。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 2,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7d27907e-38e0-44c1-8505-b4a59daf854a/0.jpg",
+    "/api/image-file/lovart%3A7d27907e-38e0-44c1-8505-b4a59daf854a/1.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1: Image] 根据这个喜字窗花图案，帮我生成2张淘宝主图，要求图案结构、颜色不变，不要带文字标题，窗景是实景现代小区落地窗。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 2, \"output_format\": \"png\"}",
+  "ms": 4104,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

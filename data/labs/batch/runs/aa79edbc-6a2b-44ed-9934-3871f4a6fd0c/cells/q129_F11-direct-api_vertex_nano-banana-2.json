@@ -1,0 +1,23 @@
+{
+  "query_idx": 129,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Instagram carousel slide, clean modern layout, white background,\nprofessional furniture ecommerce aesthetic.\n\nTOP TEXT (bold, dark charcoal, 28px, centered):\n\"Está cansado de pagar caro por fotos para seu ecommerce de móveis?\"\nSUBTEXT below it (medium weight, 22px, centered):\n\"Se liga na solução! Essa imagem aqui foi feita 100% com IA!\"\n\nCENTER IMAGE: ultra-realistic AI-generated product photo of a \npremium walnut wood armchair with cream bouclé fabric seat, \npure white seamless background, three-point studio lighting, \nsoft drop shadow underneath, sharp wood grain and fabric texture \ndetails, front angle with slight 15-degree rotation, commercial \necommerce catalog quality, photorealistic, 8K, Publicado en la plataforma de Amazon.，no watermark\n\nBOTTOM TEXT (bold, with right arrow emoji →, centered, 22px):\n\"Passe para ver mais →\"\n\nOverall slide style: minimal, luxurious, high-end Brazilian \nfurniture marketplace aesthetic, no clutter, lots of white space",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0e9978b6-9f68-410b-880c-715980bc9f49/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Instagram carousel slide, clean modern layout, white background,\\nprofessional furniture ecommerce aesthetic.\\n\\nTOP TEXT (bold, dark charcoal, 28px, centered):\\n\\\"Está cansado de pagar caro por fotos para seu ecommerce de móveis?\\\"\\nSUBTEXT below it (medium weight, 22px, centered):\\n\\\"Se liga na solução! Essa imagem aqui foi feita 100% com IA!\\\"\\n\\nCENTER IMAGE: ultra-realistic AI-generated product photo of a \\npremium walnut wood armchair with cream bouclé fabric seat, \\npure white seamless background, three-point studio lighting, \\nsoft drop shadow underneath, sharp wood grain and fabric texture \\ndetails, front angle with slight 15-degree rotation, commercial \\necommerce catalog quality, photorealistic, 8K, Publicado en la plataforma de Amazon.，no watermark\\n\\nBOTTOM TEXT (bold, with right arrow emoji →, centered, 22px):\\n\\\"Passe para ver mais →\\\"\\n\\nOverall slide style: minimal, luxurious, high-end Brazilian \\nfurniture marketplace aesthetic, no clutter, lots of white space\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4162,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,26 @@
+{
+  "query_idx": 226,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张 Instagram 帖子。\n\n风格/媒介:社交媒体帖子，面向 Z 世代，视觉风格大胆有力\n构图:竖版构图，适合 Instagram 帖子比例\n主体:年轻人勇敢表达自我，关于世界、战争、国际大事的见解\n场景/背景:\n光线/氛围:勇敢、有力量感、敢于发声的氛围\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:内容面向 Z 世代，传达勇于表达观点的主题\n避免:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aba5c2961-c993-4686-845d-944df3c53327/0.jpg",
+    "/api/image-file/lovart%3Aba5c2961-c993-4686-845d-944df3c53327/1.jpg",
+    "/api/image-file/lovart%3Aba5c2961-c993-4686-845d-944df3c53327/2.jpg",
+    "/api/image-file/lovart%3Aba5c2961-c993-4686-845d-944df3c53327/3.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一张 Instagram 帖子。\\n\\n风格/媒介:社交媒体帖子，面向 Z 世代，视觉风格大胆有力\\n构图:竖版构图，适合 Instagram 帖子比例\\n主体:年轻人勇敢表达自我，关于世界、战争、国际大事的见解\\n场景/背景:\\n光线/氛围:勇敢、有力量感、敢于发声的氛围\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:内容面向 Z 世代，传达勇于表达观点的主题\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6233,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

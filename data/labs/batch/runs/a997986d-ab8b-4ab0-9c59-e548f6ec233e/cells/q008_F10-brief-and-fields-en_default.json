@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing digital art illustration of a deep-sea fantasy world featuring an ancient underwater civilization.\n\nStyle/medium: digital painting, highly detailed fantasy illustration, concept art style with intricate environmental storytelling\nComposition: wide establishing shot, eye-level perspective, deep depth of field with layered depth from foreground ruins to distant darkness\nSubject: mermaid princess in ancient attire examining a mysterious rune-covered stone tablet at center, surrounded by colossal stone pillars and arches overgrown with coral and sea anemones\nScene/backdrop: ancient submerged city ruins thousands of meters below sea level, bioluminescent glow illuminating the structures, giant jellyfish emitting blue-purple fluorescence, transparent deep-sea fish with self-illuminating organs, giant octopus tentacles emerging from distant darkness\nLighting/mood: bioluminescent light sources creating scattered points of glow against deep blue-black darkness, mysterious and dreamlike atmosphere\nColor palette: deep blue-black as base, accented with bioluminescent cyan-green, purple, and golden light points scattered throughout\nMaterials/textures: weathered ancient stone with coral encrustation, translucent jellyfish bells, iridescent fish scales, glowing organic textures\nAvoid: 8K stuffer aesthetic, photorealistic rendering, deformed anatomy, oversaturated neon colors, watermark\n",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4b6913be-1af4-40e3-bfe1-bff0924a1966/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing digital art illustration of a deep-sea fantasy world featuring an ancient underwater civilization.\\n\\nStyle/medium: digital painting, highly detailed fantasy illustration, concept art style with intricate environmental storytelling\\nComposition: wide establishing shot, eye-level perspective, deep depth of field with layered depth from foreground ruins to distant darkness\\nSubject: mermaid princess in ancient attire examining a mysterious rune-covered stone tablet at center, surrounded by colossal stone pillars and arches overgrown with coral and sea anemones\\nScene/backdrop: ancient submerged city ruins thousands of meters below sea level, bioluminescent glow illuminating the structures, giant jellyfish emitting blue-purple fluorescence, transparent deep-sea fish with self-illuminating organs, giant octopus tentacles emerging from distant darkness\\nLighting/mood: bioluminescent light sources creating scattered points of glow against deep blue-black darkness, mysterious and dreamlike atmosphere\\nColor palette: deep blue-black as base, accented with bioluminescent cyan-green, purple, and golden light points scattered throughout\\nMaterials/textures: weathered ancient stone with coral encrustation, translucent jellyfish bells, iridescent fish scales, glowing organic textures\\nAvoid: 8K stuffer aesthetic, photorealistic rendering, deformed anatomy, oversaturated neon colors, watermark\\n\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11822
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "未来都市夜景，赛博朋克风格，东京涩谷十字路口的超未来版本。高耸入云的摩天大楼外壁覆盖着密密麻麻的全息广告屏，日文、英文、中文霓虹字符交错闪烁，蓝紫色与橙红色的光晕将整条街道染成迷幻色彩。街道上行人如织，人群中混杂着仿生机器人，部分行人面部佩戴AR眼镜，身着发光材质的夸张服装。空中悬浮着无人机快递群和飞行出租车，尾焰拖出橙色光迹。地面湿润反光，倒映出上方所有灯光。画面采用超广角鱼眼镜头视角，极度细节化，电影级渲染质感，氛围压抑而充满张力。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a148b652-c254-4971-86d6-c43f962ff002/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

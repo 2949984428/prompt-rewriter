@@ -1,0 +1,23 @@
+{
+  "query_idx": 12,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "quero uma logomarca para escritorio de advogado e o nome do advogado é bruno henrique jose gomes da silva",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5f6fcceb-3d2a-4bf4-8f83-6ce36f368de9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"quero uma logomarca para escritorio de advogado e o nome do advogado é bruno henrique jose gomes da silva\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3161,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

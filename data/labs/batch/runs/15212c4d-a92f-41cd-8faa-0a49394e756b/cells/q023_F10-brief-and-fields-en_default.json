@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original educational infographic card explaining the Battle of Red Cliffs from Three Kingdoms for children.\n\nStyle/medium: flat vector illustration, cartoon storybook style, educational infographic for children aged 6-10, clear and friendly visual language\nComposition: single large knowledge card layout, title area at top, main story illustration occupying 60% of card, bullet points arranged neatly beside or below the illustration\nSubject: Battle of Red Cliffs (赤壁之战) story, simplified narrative showing key moments like fire attack, chained ships, and strategic victory, characters depicted in approachable cartoon style\nScene/backdrop: simplified river battle scene with stylized boats and flames, clean background that doesn't distract from educational content\nLighting/mood: bright and cheerful daytime atmosphere, inviting and educational mood suitable for young learners\nColor palette: warm oranges and reds for fire elements, cool blues for water, balanced with neutral card background for readability\nText (verbatim): \"赤壁之战\"\nConstraints: all text must be clearly legible with proper punctuation; layout must work as a single self-contained knowledge card; visual hierarchy must guide children from title to illustration to key points\nAvoid: realistic violence or gore; overly complex historical details; cluttered composition; dark or scary imagery; small unreadable text",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/76820a10-648f-4ac7-afbf-f450a9ca7614/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original educational infographic card explaining the Battle of Red Cliffs from Three Kingdoms for children.\\n\\nStyle/medium: flat vector illustration, cartoon storybook style, educational infographic for children aged 6-10, clear and friendly visual language\\nComposition: single large knowledge card layout, title area at top, main story illustration occupying 60% of card, bullet points arranged neatly beside or below the illustration\\nSubject: Battle of Red Cliffs (赤壁之战) story, simplified narrative showing key moments like fire attack, chained ships, and strategic victory, characters depicted in approachable cartoon style\\nScene/backdrop: simplified river battle scene with stylized boats and flames, clean background that doesn't distract from educational content\\nLighting/mood: bright and cheerful daytime atmosphere, inviting and educational mood suitable for young learners\\nColor palette: warm oranges and reds for fire elements, cool blues for water, balanced with neutral card background for readability\\nText (verbatim): \\\"赤壁之战\\\"\\nConstraints: all text must be clearly legible with proper punctuation; layout must work as a single self-contained knowledge card; visual hierarchy must guide children from title to illustration to key points\\nAvoid: realistic violence or gore; overly complex historical details; cluttered composition; dark or scary imagery; small unreadable text\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12567
+}

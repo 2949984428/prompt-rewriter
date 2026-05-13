@@ -1,0 +1,23 @@
+{
+  "query_idx": 299,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 YouTube 视频缩略图（miniatura do YouTube）——邀请观众观看下一个视频，主角为 Professora Juliana Freitas。\n\n风格/媒介: thumbnail criativa para YouTube, visual impactante e convidativo\n构图:\n  layout típico de miniatura do YouTube\n  destaque central para a Professora Juliana Freitas\n  logotipo visível em posição de destaque\n  espaço para texto de chamada à ação\n主体:\n  Professora Juliana Freitas (imagem da professora)\n  logotipo do canal/tema\n场景/背景: fundo relacionado ao tema do canal, visualmente atrativo\n光线/氛围: atmosfera animada e convidativa\n色彩方案: cores vibrantes e chamativas, coerentes com o tema e logotipo\n材质/纹理:\n文字(原样):\n约束:\n  incorporar o logotipo e a identidade visual do tema\n  usar a imagem real da Professora Juliana Freitas\n避免: visual poluído ou confuso",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A565f2109-5ecc-453f-9e09-8bd95b79321f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 YouTube 视频缩略图（miniatura do YouTube）——邀请观众观看下一个视频，主角为 Professora Juliana Freitas。\\n\\n风格/媒介: thumbnail criativa para YouTube, visual impactante e convidativo\\n构图:\\n  layout típico de miniatura do YouTube\\n  destaque central para a Professora Juliana Freitas\\n  logotipo visível em posição de destaque\\n  espaço para texto de chamada à ação\\n主体:\\n  Professora Juliana Freitas (imagem da professora)\\n  logotipo do canal/tema\\n场景/背景: fundo relacionado ao tema do canal, visualmente atrativo\\n光线/氛围: atmosfera animada e convidativa\\n色彩方案: cores vibrantes e chamativas, coerentes com o tema e logotipo\\n材质/纹理:\\n文字(原样):\\n约束:\\n  incorporar o logotipo e a identidade visual do tema\\n  usar a imagem real da Professora Juliana Freitas\\n避免: visual poluído ou confuso\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13070,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

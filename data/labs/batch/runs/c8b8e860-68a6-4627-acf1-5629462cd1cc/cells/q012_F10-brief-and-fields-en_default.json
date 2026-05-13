@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a WeChat article cover featuring the launch of \"染秋\" fragrance.\n\nStyle/medium: premium editorial design, high-end luxury aesthetic with refined typography\nComposition: centered layout, title as focal point, balanced negative space around edges\nSubject: elegant Chinese title \"染秋 - 秋意染染 时光留香\" as dominant visual element\nScene/backdrop: minimalist abstract autumn atmosphere, subtle gradient suggesting warmth and fragrance\nLighting/mood: soft diffused light, sophisticated and calm mood evoking autumn elegance\nColor palette: warm amber and golden tones as base, deep burgundy or bronze accents, cream white for breathing space\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title must be largest element; design must remain legible at 900x500px thumbnail size; no busy backgrounds\nAvoid: stock photography clichés, generic autumn leaves, watermarks, cluttered layouts, low contrast text on background",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4ace167c-4019-4bda-9ee1-f9643ae19d8d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a WeChat article cover featuring the launch of \\\"染秋\\\" fragrance.\\n\\nStyle/medium: premium editorial design, high-end luxury aesthetic with refined typography\\nComposition: centered layout, title as focal point, balanced negative space around edges\\nSubject: elegant Chinese title \\\"染秋 - 秋意染染 时光留香\\\" as dominant visual element\\nScene/backdrop: minimalist abstract autumn atmosphere, subtle gradient suggesting warmth and fragrance\\nLighting/mood: soft diffused light, sophisticated and calm mood evoking autumn elegance\\nColor palette: warm amber and golden tones as base, deep burgundy or bronze accents, cream white for breathing space\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title must be largest element; design must remain legible at 900x500px thumbnail size; no busy backgrounds\\nAvoid: stock photography clichés, generic autumn leaves, watermarks, cluttered layouts, low contrast text on background\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14030
+}

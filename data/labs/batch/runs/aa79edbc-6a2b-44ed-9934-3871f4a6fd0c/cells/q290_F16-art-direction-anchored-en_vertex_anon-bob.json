@@ -1,0 +1,25 @@
+{
+  "query_idx": 290,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a match day Instagram post announcing Matheus in the starting lineup.\n\nStyle/medium: Instagram post, graphic design\nComposition: bold text overlay with match details, dramatic visual hierarchy\nSubject: Matheus announced in the starting lineup\nScene/backdrop:\nLighting/mood: dramatic lighting\nColor palette:\nMaterials/textures:\nText (verbatim): match details (bold text)\nConstraints: square or portrait format suitable for Instagram\nAvoid:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4f13f0f5-a252-4419-9a6e-ad765264b39e/0.jpg",
+    "/api/image-file/lovart%3A4f13f0f5-a252-4419-9a6e-ad765264b39e/1.jpg",
+    "/api/image-file/lovart%3A4f13f0f5-a252-4419-9a6e-ad765264b39e/2.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a match day Instagram post announcing Matheus in the starting lineup.\\n\\nStyle/medium: Instagram post, graphic design\\nComposition: bold text overlay with match details, dramatic visual hierarchy\\nSubject: Matheus announced in the starting lineup\\nScene/backdrop:\\nLighting/mood: dramatic lighting\\nColor palette:\\nMaterials/textures:\\nText (verbatim): match details (bold text)\\nConstraints: square or portrait format suitable for Instagram\\nAvoid:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6543,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

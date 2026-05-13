@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for cross-border e-commerce promotion (all in-image text in Chinese).\n\nStyle/medium: needs a layered typographic aesthetic with artistic lettering — exact stylistic execution is yours\nComposition: must be 16:9 aspect ratio, must include font stacking/layering, must have products or main subject partially overlapping/obscuring some text elements, needs complex but non-cluttered visual arrangement — exact layout is yours\nSubject: must include e-commerce products as the main subject\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must preserve artistic lettering, font stacking, product-subject overlapping text, complex but organized composition, 16:9 ratio\nAvoid: must avoid cluttered or messy appearance",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a4644b30-3ec2-43bd-b4cc-2c4d313e87d2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for cross-border e-commerce promotion (all in-image text in Chinese).\\n\\nStyle/medium: needs a layered typographic aesthetic with artistic lettering — exact stylistic execution is yours\\nComposition: must be 16:9 aspect ratio, must include font stacking/layering, must have products or main subject partially overlapping/obscuring some text elements, needs complex but non-cluttered visual arrangement — exact layout is yours\\nSubject: must include e-commerce products as the main subject\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must preserve artistic lettering, font stacking, product-subject overlapping text, complex but organized composition, 16:9 ratio\\nAvoid: must avoid cluttered or messy appearance\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8317
+}

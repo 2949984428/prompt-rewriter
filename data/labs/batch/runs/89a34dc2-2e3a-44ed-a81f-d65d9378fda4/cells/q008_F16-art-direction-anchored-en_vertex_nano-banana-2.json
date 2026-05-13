@@ -1,0 +1,23 @@
+{
+  "query_idx": 8,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一套品牌周边设计方案 —— 基于用户上传的 Lovart Logo。\n\n风格/媒介: 与 Logo 保持一致的品牌视觉风格\n构图: 展示多件周边产品的整体陈列效果\n主体: 品牌周边套装（如马克杯、手提袋、T恤、贴纸、笔记本等常见周边品类），印有 Lovart Logo\n场景/背景:\n光线/氛围:\n色彩方案: 沿用 Lovart Logo 的品牌配色\n材质/纹理:\n文字(原样): Lovart\n约束: Logo 图案须忠实还原上传图片中的 Lovart Logo，不得改变 Logo 形态与配色\n避免: 与 Logo 风格不符的颜色或图形元素",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad6f0ba34-c331-42a9-8f2a-67277a478f0b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一套品牌周边设计方案 —— 基于用户上传的 Lovart Logo。\\n\\n风格/媒介: 与 Logo 保持一致的品牌视觉风格\\n构图: 展示多件周边产品的整体陈列效果\\n主体: 品牌周边套装（如马克杯、手提袋、T恤、贴纸、笔记本等常见周边品类），印有 Lovart Logo\\n场景/背景:\\n光线/氛围:\\n色彩方案: 沿用 Lovart Logo 的品牌配色\\n材质/纹理:\\n文字(原样): Lovart\\n约束: Logo 图案须忠实还原上传图片中的 Lovart Logo，不得改变 Logo 形态与配色\\n避免: 与 Logo 风格不符的颜色或图形元素\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6958,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

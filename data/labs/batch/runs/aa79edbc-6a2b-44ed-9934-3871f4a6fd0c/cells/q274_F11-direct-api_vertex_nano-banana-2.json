@@ -1,0 +1,23 @@
+{
+  "query_idx": 274,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:白酒海报-源文件下载-志’设ˌ网][@image:#2:图层 9]把图1的产品替换成图2的产品，，图1背景上的其他文字去掉，发布在微信朋友圈。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8d5a8126-0e52-45d8-a6fe-a2be612ae169/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:白酒海报-源文件下载-志'设ˌ网][@image:#2:图层 9]把图1的产品替换成图2的产品，，图1背景上的其他文字去掉，发布在微信朋友圈。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3096,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for OPPO Find X9 Ultra, a full-screen brand announcement.\n\nStyle/medium: bold commercial advertising, high-impact brand exposure, photorealistic product shot\nComposition: full-screen vertical layout optimized for 1080×1920, centered product hero, generous breathing room for brand impact\nSubject: OPPO Find X9 Ultra smartphone, sleek modern design, premium finish, screen glowing with UI\nScene/backdrop: minimal gradient or abstract tech background, subtle light rays, clean and uncluttered to maximize brand focus\nLighting/mood: dramatic studio lighting with strong rim light, high contrast, premium and aspirational mood\nColor palette: OPPO brand orange as accent against deep blacks and silvers, high contrast for visual punch\nMaterials/textures: brushed metal frame, glass back with subtle reflection, crisp screen display\nText (verbatim): \"OPPO Find X9 Ultra\"\nConstraints: must read clearly at thumbnail size; maintain brand recognition at 1080×1920 resolution\nAvoid: cluttered backgrounds, generic stock photo aesthetic, watermark, excessive text, low contrast",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a1deaa81-8a40-4733-91e9-76ce9cfed6eb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for OPPO Find X9 Ultra, a full-screen brand announcement.\\n\\nStyle/medium: bold commercial advertising, high-impact brand exposure, photorealistic product shot\\nComposition: full-screen vertical layout optimized for 1080×1920, centered product hero, generous breathing room for brand impact\\nSubject: OPPO Find X9 Ultra smartphone, sleek modern design, premium finish, screen glowing with UI\\nScene/backdrop: minimal gradient or abstract tech background, subtle light rays, clean and uncluttered to maximize brand focus\\nLighting/mood: dramatic studio lighting with strong rim light, high contrast, premium and aspirational mood\\nColor palette: OPPO brand orange as accent against deep blacks and silvers, high contrast for visual punch\\nMaterials/textures: brushed metal frame, glass back with subtle reflection, crisp screen display\\nText (verbatim): \\\"OPPO Find X9 Ultra\\\"\\nConstraints: must read clearly at thumbnail size; maintain brand recognition at 1080×1920 resolution\\nAvoid: cluttered backgrounds, generic stock photo aesthetic, watermark, excessive text, low contrast\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10168
+}

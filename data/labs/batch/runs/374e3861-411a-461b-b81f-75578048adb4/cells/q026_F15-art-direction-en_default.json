@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a retro American road-trip scene.\n\nStyle/medium: needs a retro American aesthetic — exact stylistic execution is yours\nComposition: must include a red convertible as the focal subject\nSubject: must include a red convertible car (one)\nScene/backdrop: must include Route 66, desert landscape, cacti, and a sunset sky dyed orange-red\nLighting/mood: needs a sunset atmosphere with free-spirited energy — exact light source mix is yours\nColor palette: must be orange-red dominant sunset tones\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d41bc898-843e-4696-95a0-9a2f174b1125/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a retro American road-trip scene.\\n\\nStyle/medium: needs a retro American aesthetic — exact stylistic execution is yours\\nComposition: must include a red convertible as the focal subject\\nSubject: must include a red convertible car (one)\\nScene/backdrop: must include Route 66, desert landscape, cacti, and a sunset sky dyed orange-red\\nLighting/mood: needs a sunset atmosphere with free-spirited energy — exact light source mix is yours\\nColor palette: must be orange-red dominant sunset tones\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11004
+}

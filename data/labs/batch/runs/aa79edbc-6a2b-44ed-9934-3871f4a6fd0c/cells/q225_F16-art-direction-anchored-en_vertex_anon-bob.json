@@ -1,0 +1,23 @@
+{
+  "query_idx": 225,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一款品牌头像 Logo —— \"Global Holiday Travel\"。\n\n风格/媒介:极简主义矢量 Logo，现代、优雅、国际化、高端奢华感\n构图:\n  居中构图，干净利落\n  适配正方形头像尺寸（Facebook / Instagram 头像）\n主体:\n  以地球仪为核心图形元素\n  结合旅行元素：飞行航线、日出弧线、海浪或抽象旅程线条之一\n  图形与品牌名称组合\n场景/背景:纯色背景或干净留白负空间\n光线/氛围:精致、简练、高辨识度\n色彩方案:深蓝、金色、白色\n材质/纹理:光滑干净的矢量线条，无纹理\n文字(原样):Global Holiday Travel\n约束:\n  平面矢量风格，非写实风格\n  无人物，无复杂背景，无过度装饰\n避免:写实渲染、杂乱装饰、复杂背景、人物形象",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Abfd66e6e-dc47-46f2-8416-b71ae95d7bd5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一款品牌头像 Logo —— \\\"Global Holiday Travel\\\"。\\n\\n风格/媒介:极简主义矢量 Logo，现代、优雅、国际化、高端奢华感\\n构图:\\n  居中构图，干净利落\\n  适配正方形头像尺寸（Facebook / Instagram 头像）\\n主体:\\n  以地球仪为核心图形元素\\n  结合旅行元素：飞行航线、日出弧线、海浪或抽象旅程线条之一\\n  图形与品牌名称组合\\n场景/背景:纯色背景或干净留白负空间\\n光线/氛围:精致、简练、高辨识度\\n色彩方案:深蓝、金色、白色\\n材质/纹理:光滑干净的矢量线条，无纹理\\n文字(原样):Global Holiday Travel\\n约束:\\n  平面矢量风格，非写实风格\\n  无人物，无复杂背景，无过度装饰\\n避免:写实渲染、杂乱装饰、复杂背景、人物形象\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8290,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

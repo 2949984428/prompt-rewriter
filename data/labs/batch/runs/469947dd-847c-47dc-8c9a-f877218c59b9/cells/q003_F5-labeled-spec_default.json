@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: e-commerce hero image, square crop\nPrimary request: skincare set product shot with natural ingredients concept, emphasizing texture and premium quality\nScene/backdrop: frosted glass tabletop, soft-focus green plants and morning mist in background\nSubject: skincare set products arranged neatly in a row, minimalist packaging, clean lines\nStyle/medium: commercial product photography, high-end cosmetic advertising\nComposition/framing: eye-level straight-on shot, centered arrangement, shallow depth of field\nLighting/mood: softbox lighting, soft diffused light, gentle shadows, serene and natural atmosphere\nColor palette: muted greens, soft whites, translucent glass tones, natural skin tones\nMaterials/textures: frosted glass surface with subtle reflections, matte product packaging, delicate mist texture\nConstraints: keep products as focal point with visible branding area, maintain clean and premium aesthetic\nAvoid: harsh shadows, oversaturated colors, cluttered background, plastic-looking materials, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1e5fc149-bcc6-4aa5-b7e7-6836e60ccebd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero image, square crop\\nPrimary request: skincare set product shot with natural ingredients concept, emphasizing texture and premium quality\\nScene/backdrop: frosted glass tabletop, soft-focus green plants and morning mist in background\\nSubject: skincare set products arranged neatly in a row, minimalist packaging, clean lines\\nStyle/medium: commercial product photography, high-end cosmetic advertising\\nComposition/framing: eye-level straight-on shot, centered arrangement, shallow depth of field\\nLighting/mood: softbox lighting, soft diffused light, gentle shadows, serene and natural atmosphere\\nColor palette: muted greens, soft whites, translucent glass tones, natural skin tones\\nMaterials/textures: frosted glass surface with subtle reflections, matte product packaging, delicate mist texture\\nConstraints: keep products as focal point with visible branding area, maintain clean and premium aesthetic\\nAvoid: harsh shadows, oversaturated colors, cluttered background, plastic-looking materials, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 20367
+}

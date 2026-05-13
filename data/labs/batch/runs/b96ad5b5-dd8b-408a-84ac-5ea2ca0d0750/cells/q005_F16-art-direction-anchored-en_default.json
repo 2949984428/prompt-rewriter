@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic explaining definitions and relationships between AI concepts, hand-drawn style, with illustrations and text (all in-image text in Chinese).\n\nStyle/medium: needs a \"hand-drawn\" educational infographic aesthetic — references in the spirit of sketchnote visual culture, IKEA assembly guide illustration tradition, Kurzgesagt (science explainer flat illustration); exact stylistic execution is yours\nComposition: must show concept relationships as connected diagram or flow, with clear hierarchy between parent and child concepts\nSubject: must include all 7 concepts: AI / MCP / AI Agent / OpenClaw / AI Skill / 蒸馏 / CLI\nScene/backdrop: \nLighting/mood: needs an approachable, easy-to-understand atmosphere — exact visual tone is yours\nColor palette: \nMaterials/textures: needs a hand-drawn surface treatment — exact sketch texture / marker weight is yours\nText (verbatim): must include concept labels: \"AI\" / \"MCP\" / \"AI Agent\" / \"OpenClaw\" / \"AI Skill\" / \"蒸馏\" / \"CLI\"\nConstraints: must include all in-image text in Chinese by default; must preserve all 7 concept terms in their original form; relationships between concepts must be visually clear\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bef1f171-8fa6-41cc-8968-81245291b571/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an infographic explaining definitions and relationships between AI concepts, hand-drawn style, with illustrations and text (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"hand-drawn\\\" educational infographic aesthetic — references in the spirit of sketchnote visual culture, IKEA assembly guide illustration tradition, Kurzgesagt (science explainer flat illustration); exact stylistic execution is yours\\nComposition: must show concept relationships as connected diagram or flow, with clear hierarchy between parent and child concepts\\nSubject: must include all 7 concepts: AI / MCP / AI Agent / OpenClaw / AI Skill / 蒸馏 / CLI\\nScene/backdrop: \\nLighting/mood: needs an approachable, easy-to-understand atmosphere — exact visual tone is yours\\nColor palette: \\nMaterials/textures: needs a hand-drawn surface treatment — exact sketch texture / marker weight is yours\\nText (verbatim): must include concept labels: \\\"AI\\\" / \\\"MCP\\\" / \\\"AI Agent\\\" / \\\"OpenClaw\\\" / \\\"AI Skill\\\" / \\\"蒸馏\\\" / \\\"CLI\\\"\\nConstraints: must include all in-image text in Chinese by default; must preserve all 7 concept terms in their original form; relationships between concepts must be visually clear\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12069
+}

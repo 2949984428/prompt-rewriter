@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic illustrating the step-by-step process of deploying Hermes in a Docker container and integrating it with GLMCodingPlan.\n\nStyle/medium: clean flat vector infographic, technical documentation style, clear visual hierarchy with numbered steps\nSubject: four-step deployment workflow showing Docker container setup, Hermes installation, GLMCodingPlan integration, and final configuration\nComposition: vertical layout with four numbered sections (1, 2, 3, 4), each containing an icon and concise text block, ample white space between steps\nScene/backdrop: neutral light gray or white background, subtle container/Docker iconography as decorative elements\nColor palette: Docker blue (#2496ED) as primary accent, muted grays for secondary elements, white for cards/sections\nText (verbatim): \"如何在docker容器里部署hermes，并且接入glmcodingplan\"\nConstraints: text must be in Chinese; icons must be universally recognizable; each step must be visually distinct\nAvoid: cluttered layouts; unreadable small fonts; gradients unless essential; generic stock illustration style",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0514c1ef-ecfa-4abc-89ae-568af156e7e0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing infographic illustrating the step-by-step process of deploying Hermes in a Docker container and integrating it with GLMCodingPlan.\\n\\nStyle/medium: clean flat vector infographic, technical documentation style, clear visual hierarchy with numbered steps\\nSubject: four-step deployment workflow showing Docker container setup, Hermes installation, GLMCodingPlan integration, and final configuration\\nComposition: vertical layout with four numbered sections (1, 2, 3, 4), each containing an icon and concise text block, ample white space between steps\\nScene/backdrop: neutral light gray or white background, subtle container/Docker iconography as decorative elements\\nColor palette: Docker blue (#2496ED) as primary accent, muted grays for secondary elements, white for cards/sections\\nText (verbatim): \\\"如何在docker容器里部署hermes，并且接入glmcodingplan\\\"\\nConstraints: text must be in Chinese; icons must be universally recognizable; each step must be visually distinct\\nAvoid: cluttered layouts; unreadable small fonts; gradients unless essential; generic stock illustration style\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10282
+}

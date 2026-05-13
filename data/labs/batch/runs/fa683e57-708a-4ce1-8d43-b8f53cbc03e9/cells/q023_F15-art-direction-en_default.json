@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial-style tactical gear showcase with firearms, body armor, and night-vision equipment (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a hardcore military tactical aesthetic — exact stylistic execution is yours\nComposition: must be an organized display layout with various firearms, ballistic vests, and night-vision devices arranged neatly\nSubject: must include various firearms, ballistic vests, and night-vision equipment\nScene/backdrop: must be a dark background\nLighting/mood: needs a cold, stern lighting atmosphere — exact light source mix is yours\nColor palette: needs a dark, cold-toned direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/808e0402-5f18-443a-bc72-9131d070a01a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial-style tactical gear showcase with firearms, body armor, and night-vision equipment (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a hardcore military tactical aesthetic — exact stylistic execution is yours\\nComposition: must be an organized display layout with various firearms, ballistic vests, and night-vision devices arranged neatly\\nSubject: must include various firearms, ballistic vests, and night-vision equipment\\nScene/backdrop: must be a dark background\\nLighting/mood: needs a cold, stern lighting atmosphere — exact light source mix is yours\\nColor palette: needs a dark, cold-toned direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10411
+}

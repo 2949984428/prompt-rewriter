@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo for Varanasi Ganges morning ritual, capturing cultural documentary street photography.\n\nStyle/medium: documentary street photography, National Geographic editorial style, photorealistic\nComposition: wide establishing shot at eye level, 35mm lens, layered depth with foreground bathers and background boats\nSubject: devout Hindu worshippers performing morning ablutions in the Ganges, traditional attire, reverent postures, hands raised in prayer\nScene/backdrop: Varanasi ghats at dawn, ancient stone steps descending to the river, wooden boats drifting through morning mist\nLighting/mood: warm golden sunrise light filtering through haze, soft diffused glow, spiritual and serene atmosphere\nColor palette: warm amber and saffron tones from sunrise, muted blues and grays from mist, earth tones from stone ghats\nMaterials/textures: weathered stone surfaces, rippling water with light reflections, cotton fabric of traditional clothing, wooden boat hulls\nAvoid: oversaturated HDR look, plastic skin textures, deformed hands, watermark, generic travel brochure aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/77ed4bc1-fbc4-4220-9b3f-56a9a23942cf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing editorial photo for Varanasi Ganges morning ritual, capturing cultural documentary street photography.\\n\\nStyle/medium: documentary street photography, National Geographic editorial style, photorealistic\\nComposition: wide establishing shot at eye level, 35mm lens, layered depth with foreground bathers and background boats\\nSubject: devout Hindu worshippers performing morning ablutions in the Ganges, traditional attire, reverent postures, hands raised in prayer\\nScene/backdrop: Varanasi ghats at dawn, ancient stone steps descending to the river, wooden boats drifting through morning mist\\nLighting/mood: warm golden sunrise light filtering through haze, soft diffused glow, spiritual and serene atmosphere\\nColor palette: warm amber and saffron tones from sunrise, muted blues and grays from mist, earth tones from stone ghats\\nMaterials/textures: weathered stone surfaces, rippling water with light reflections, cotton fabric of traditional clothing, wooden boat hulls\\nAvoid: oversaturated HDR look, plastic skin textures, deformed hands, watermark, generic travel brochure aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9345
+}

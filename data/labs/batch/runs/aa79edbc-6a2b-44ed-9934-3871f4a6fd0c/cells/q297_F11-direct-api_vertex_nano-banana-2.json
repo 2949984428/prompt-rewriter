@@ -1,0 +1,21 @@
+{
+  "query_idx": 297,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "[@image:#1:Gemini_Generated_Image_1bwth81bwth81bwt] 小红书种草风写实近景实拍，同一个小男孩穿着宝蓝色迷彩拼接分体泳衣，侧身站在儿童房落地镜前，手轻轻拉了一下泳衣腰头，展示泳衣不勒肚子、不卡裆、高弹贴合不紧绷的版型，背景是干净的儿童房，光线柔和自然，清晰拍出泳衣的肩线、侧边迷彩拼接、裤长的合适度，还原小红书宝妈 “胖宝宝也能穿的泳衣，太舒服了” 的实拍分享感，3:4 比例，8K 高清，细节真实自然，不要中文",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:生图失败",
+  "raw": "{\"prompt\": \"[@image:#1:Gemini_Generated_Image_1bwth81bwth81bwt] 小红书种草风写实近景实拍，同一个小男孩穿着宝蓝色迷彩拼接分体泳衣，侧身站在儿童房落地镜前，手轻轻拉了一下泳衣腰头，展示泳衣不勒肚子、不卡裆、高弹贴合不紧绷的版型，背景是干净的儿童房，光线柔和自然，清晰拍出泳衣的肩线、侧边迷彩拼接、裤长的合适度，还原小红书宝妈 \\\"胖宝宝也能穿的泳衣，太舒服了\\\" 的实拍分享感，3:4 比例，8K 高清，细节真实自然，不要中文\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4837,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

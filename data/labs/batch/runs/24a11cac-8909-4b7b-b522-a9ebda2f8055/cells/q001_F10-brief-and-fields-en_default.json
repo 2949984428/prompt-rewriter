@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial illustration of a cyberpunk futuristic city nightscape with towering skyscrapers, neon lights, and flying cars.\n\nStyle/medium: digital matte painting, cyberpunk editorial illustration in the spirit of Blade Runner 2049 and Syd Mead concept art, photorealistic rendering\nComposition: wide establishing shot, slight low-angle looking up into the skyline, deep perspective with layered depth — foreground puddles, mid-ground street level, background towering skyscrapers receding into haze\nSubject: dense futuristic megacity skyline packed with skyscrapers covered in holographic billboards and flickering neon signage; multiple flying cars streaking through narrow air corridors between buildings, motion-blur light trails visible\nScene/backdrop: nighttime city exterior, acid rain falling in visible diagonal streaks, ground-level street flooded with shallow puddles reflecting neon and building lights, smoggy low-hanging clouds diffusing glow from below\nLighting/mood: dominant blue-violet neon ambient light, secondary magenta and cyan accent glows from signage, harsh rim lighting on building edges, moody and decadent atmosphere with a sense of technological oppression\nColor palette: deep indigo and violet as base tones, electric cyan and magenta neon as accents, warm amber sparingly on distant windows, overall desaturated except for neon sources\nMaterials/textures: wet concrete and asphalt with mirror-like puddle reflections, glass and steel skyscraper facades with grime and wear, rain streaks on surfaces, atmospheric haze and volumetric light shafts\nAvoid: daytime lighting, warm sunny palette, clean utopian aesthetic, lens flare stuffer, 8K watermark, cheerful mood",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/695b8204-802b-47b3-a906-a27be335e386/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial illustration of a cyberpunk futuristic city nightscape with towering skyscrapers, neon lights, and flying cars.\\n\\nStyle/medium: digital matte painting, cyberpunk editorial illustration in the spirit of Blade Runner 2049 and Syd Mead concept art, photorealistic rendering\\nComposition: wide establishing shot, slight low-angle looking up into the skyline, deep perspective with layered depth — foreground puddles, mid-ground street level, background towering skyscrapers receding into haze\\nSubject: dense futuristic megacity skyline packed with skyscrapers covered in holographic billboards and flickering neon signage; multiple flying cars streaking through narrow air corridors between buildings, motion-blur light trails visible\\nScene/backdrop: nighttime city exterior, acid rain falling in visible diagonal streaks, ground-level street flooded with shallow puddles reflecting neon and building lights, smoggy low-hanging clouds diffusing glow from below\\nLighting/mood: dominant blue-violet neon ambient light, secondary magenta and cyan accent glows from signage, harsh rim lighting on building edges, moody and decadent atmosphere with a sense of technological oppression\\nColor palette: deep indigo and violet as base tones, electric cyan and magenta neon as accents, warm amber sparingly on distant windows, overall desaturated except for neon sources\\nMaterials/textures: wet concrete and asphalt with mirror-like puddle reflections, glass and steel skyscraper facades with grime and wear, rain streaks on surfaces, atmospheric haze and volumetric light shafts\\nAvoid: daytime lighting, warm sunny palette, clean utopian aesthetic, lens flare stuffer, 8K watermark, cheerful mood\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13307
+}

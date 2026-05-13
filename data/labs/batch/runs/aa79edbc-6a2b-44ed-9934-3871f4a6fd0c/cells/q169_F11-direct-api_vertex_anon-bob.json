@@ -1,0 +1,30 @@
+{
+  "query_idx": 169,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:坐垫主图1-1] 这是一款坐垫，长*宽*高尺寸是43厘米*42厘米*15厘米（到时候改成英寸）生成一套亚马逊爆款产品图包含8 张辅图1:1（，参考亚马逊同款爆款产品，卖点是记忆棉回弹",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 8,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9afec09f-277c-4da9-aa75-fc9c58aea74b/0.jpg",
+    "/api/image-file/lovart%3A9afec09f-277c-4da9-aa75-fc9c58aea74b/1.jpg",
+    "/api/image-file/lovart%3A9afec09f-277c-4da9-aa75-fc9c58aea74b/2.jpg",
+    "/api/image-file/lovart%3A9afec09f-277c-4da9-aa75-fc9c58aea74b/3.jpg",
+    "/api/image-file/lovart%3A9afec09f-277c-4da9-aa75-fc9c58aea74b/4.jpg",
+    "/api/image-file/lovart%3A9afec09f-277c-4da9-aa75-fc9c58aea74b/5.jpg",
+    "/api/image-file/lovart%3A9afec09f-277c-4da9-aa75-fc9c58aea74b/6.jpg",
+    "/api/image-file/lovart%3A9afec09f-277c-4da9-aa75-fc9c58aea74b/7.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:坐垫主图1-1] 这是一款坐垫，长*宽*高尺寸是43厘米*42厘米*15厘米（到时候改成英寸）生成一套亚马逊爆款产品图包含8 张辅图1:1（，参考亚马逊同款爆款产品，卖点是记忆棉回弹\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 8, \"output_format\": \"png\"}",
+  "ms": 3380,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

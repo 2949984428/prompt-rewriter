@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a UI mockup of a comprehensive design system featuring a web Dashboard, mobile interface, cards, buttons, and controls in a classic minimal tech style.\n\nStyle/medium: clean flat vector UI design system, sharp geometric precision in the spirit of Linear / Vercel design language, dark-mode-first\nComposition: multi-panel layout showing Dashboard (top-left, largest), mobile screen (top-right), component library grid (bottom row: cards, buttons, toggles, sliders, inputs), generous spacing between panels\nSubject: cohesive UI design system — web Dashboard with data charts, KPI cards, sidebar nav; mobile interface with bottom tab bar and list items; reusable components including outlined buttons, filled buttons, toggle switches, progress bars, and input fields\nScene/backdrop: deep near-black background (#0A0A0F range), subtle grid or dot-matrix texture at low opacity to reinforce tech atmosphere\nLighting/mood: layered glow effects — electric blue and cyan accent halos on active elements, subtle purple gradient on hero panel edges, high visual hierarchy with strong contrast between surface levels\nColor palette: near-black base, cool white for primary text, electric blue (#00AAFF range) as primary accent, cyan and violet as secondary accents, muted slate for inactive states\nMaterials/textures: frosted glass card surfaces with 1px luminous borders, smooth gradient fills on CTA buttons, crisp anti-aliased icon strokes at 1.5px\nConstraints: all components must be visually consistent and clearly legible; spacing follows an 8pt grid; icons use a unified 24px stroke style; layout must communicate scalability across breakpoints\nAvoid: skeuomorphic shadows, stock photo backgrounds, rainbow gradients, cluttered decoration, generic Bootstrap aesthetic, 8K stuffer labels",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7ecacd20-c3a8-4d34-a23c-6e052551a98a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a UI mockup of a comprehensive design system featuring a web Dashboard, mobile interface, cards, buttons, and controls in a classic minimal tech style.\\n\\nStyle/medium: clean flat vector UI design system, sharp geometric precision in the spirit of Linear / Vercel design language, dark-mode-first\\nComposition: multi-panel layout showing Dashboard (top-left, largest), mobile screen (top-right), component library grid (bottom row: cards, buttons, toggles, sliders, inputs), generous spacing between panels\\nSubject: cohesive UI design system — web Dashboard with data charts, KPI cards, sidebar nav; mobile interface with bottom tab bar and list items; reusable components including outlined buttons, filled buttons, toggle switches, progress bars, and input fields\\nScene/backdrop: deep near-black background (#0A0A0F range), subtle grid or dot-matrix texture at low opacity to reinforce tech atmosphere\\nLighting/mood: layered glow effects — electric blue and cyan accent halos on active elements, subtle purple gradient on hero panel edges, high visual hierarchy with strong contrast between surface levels\\nColor palette: near-black base, cool white for primary text, electric blue (#00AAFF range) as primary accent, cyan and violet as secondary accents, muted slate for inactive states\\nMaterials/textures: frosted glass card surfaces with 1px luminous borders, smooth gradient fills on CTA buttons, crisp anti-aliased icon strokes at 1.5px\\nConstraints: all components must be visually consistent and clearly legible; spacing follows an 8pt grid; icons use a unified 24px stroke style; layout must communicate scalability across breakpoints\\nAvoid: skeuomorphic shadows, stock photo backgrounds, rainbow gradients, cluttered decoration, generic Bootstrap aesthetic, 8K stuffer labels\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14134
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic movie poster reimagining of 大话西游 (A Chinese Odyssey) in 1990s Hong Kong film style.\n\nStyle/medium: 35mm film photography aesthetic, 1990s Hong Kong cinema poster art in the spirit of Wong Kar-wai and Jeffrey Lau — heavy film grain, faded warm emulsion, hand-painted poster sensibility with photographic base\nComposition: wide vertical poster framing, foreground dominated by the embracing couple against a crumbling ancient city wall, two distant figures standing apart in the far background, shallow depth of field pulling focus to the kiss\nSubject: 至尊宝 and 紫霞 locked in a passionate kiss pressed against a weathered stone city wall — 至尊宝 in tattered monk-warrior robes, 紫霞 in flowing purple fairy dress; in the blurred distance, 牛魔王 (Bull Demon King) in dark armored silhouette and 唐僧 (Tang Monk) in white kasaya robes stand apart, watching\nScene/backdrop: ancient Chinese fortress city wall at dusk, crumbling stone battlements, vast desolate sky with streaked clouds\nLighting/mood: golden-hour backlight casting long warm shadows, melancholic and bittersweet — the ache of doomed love, quintessential 1990s Hong Kong romantic tragedy tone\nColor palette: desaturated warm amber and dusty rose as base, faded cyan shadows, muted purple accent from 紫霞's dress, overall palette aged and slightly bleached as if from a worn VHS print\nMaterials/textures: heavy visible film grain throughout, halation around light sources, slight color bleed at edges, scratched emulsion texture on highlights\nAvoid: digital-clean rendering, oversaturated colors, modern CGI poster look, lens flare stuffer, watermark, 8K stuffer aesthetic",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b46807ff-855b-478a-bc7a-72415661d806/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a cinematic movie poster reimagining of 大话西游 (A Chinese Odyssey) in 1990s Hong Kong film style.\\n\\nStyle/medium: 35mm film photography aesthetic, 1990s Hong Kong cinema poster art in the spirit of Wong Kar-wai and Jeffrey Lau — heavy film grain, faded warm emulsion, hand-painted poster sensibility with photographic base\\nComposition: wide vertical poster framing, foreground dominated by the embracing couple against a crumbling ancient city wall, two distant figures standing apart in the far background, shallow depth of field pulling focus to the kiss\\nSubject: 至尊宝 and 紫霞 locked in a passionate kiss pressed against a weathered stone city wall — 至尊宝 in tattered monk-warrior robes, 紫霞 in flowing purple fairy dress; in the blurred distance, 牛魔王 (Bull Demon King) in dark armored silhouette and 唐僧 (Tang Monk) in white kasaya robes stand apart, watching\\nScene/backdrop: ancient Chinese fortress city wall at dusk, crumbling stone battlements, vast desolate sky with streaked clouds\\nLighting/mood: golden-hour backlight casting long warm shadows, melancholic and bittersweet — the ache of doomed love, quintessential 1990s Hong Kong romantic tragedy tone\\nColor palette: desaturated warm amber and dusty rose as base, faded cyan shadows, muted purple accent from 紫霞's dress, overall palette aged and slightly bleached as if from a worn VHS print\\nMaterials/textures: heavy visible film grain throughout, halation around light sources, slight color bleed at edges, scratched emulsion texture on highlights\\nAvoid: digital-clean rendering, oversaturated colors, modern CGI poster look, lens flare stuffer, watermark, 8K stuffer aesthetic\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 13370
+}

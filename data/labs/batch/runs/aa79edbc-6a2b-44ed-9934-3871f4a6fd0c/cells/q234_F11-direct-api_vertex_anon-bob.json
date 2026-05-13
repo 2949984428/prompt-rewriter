@@ -1,0 +1,23 @@
+{
+  "query_idx": 234,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "7) السلسلة = حدود\nالمجاز: الحيوان مربوط = حياته محدودة\nالتنفيذ:\nكلب مربوط بسلسلة\nالسلسلة مرسومة على شكل دايرة بتقفل عليه\nالسلوچن: ماشي مع شكل الدايرة\n“This is their world” نفذ الفكره دي تبع منظمه بيتا اعمل بوستر جاهز اسلمه للدكتور",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6e9c39ac-f7ab-47aa-9d70-f1508ac4b1af/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"7) السلسلة = حدود\\nالمجاز: الحيوان مربوط = حياته محدودة\\nالتنفيذ:\\nكلب مربوط بسلسلة\\nالسلسلة مرسومة على شكل دايرة بتقفل عليه\\nالسلوچن: ماشي مع شكل الدايرة\\n\\\"This is their world\\\" نفذ الفكره دي تبع منظمه بيتا اعمل بوستر جاهز اسلمه للدكتور\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6702,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

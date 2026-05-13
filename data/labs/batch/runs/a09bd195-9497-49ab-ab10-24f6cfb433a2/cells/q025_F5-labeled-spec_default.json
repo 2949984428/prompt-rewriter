@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: architectural-concept\nAsset type: concept visualization, hero shot\nPrimary request: futuristic floating building with streamlined white architecture, surrounded by drones and holographic projections, clean energy facilities\nScene/backdrop: aerial urban environment, sustainable cityscape with green infrastructure\nSubject: sleek white streamlined building suspended in mid-air, multiple drones orbiting, holographic displays, solar panels and wind turbines integrated\nStyle/medium: 3D architectural visualization, futuristic concept art\nComposition/framing: wide aerial establishing shot, dramatic perspective showing scale\nLighting/mood: bright daylight with soft atmospheric haze, optimistic and aspirational\nColor palette: clean white architecture + sky blue + green energy accents + holographic cyan/purple\nMaterials/textures: smooth matte white surfaces, reflective glass panels, holographic light emissions\nConstraints: maintain floating/suspended appearance, emphasize sustainable technology integration\nAvoid: dystopian atmosphere, dark shadows, industrial decay, cluttered composition",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/54d10d41-17b9-45d4-ac15-90a6e53d22e1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: architectural-concept\\nAsset type: concept visualization, hero shot\\nPrimary request: futuristic floating building with streamlined white architecture, surrounded by drones and holographic projections, clean energy facilities\\nScene/backdrop: aerial urban environment, sustainable cityscape with green infrastructure\\nSubject: sleek white streamlined building suspended in mid-air, multiple drones orbiting, holographic displays, solar panels and wind turbines integrated\\nStyle/medium: 3D architectural visualization, futuristic concept art\\nComposition/framing: wide aerial establishing shot, dramatic perspective showing scale\\nLighting/mood: bright daylight with soft atmospheric haze, optimistic and aspirational\\nColor palette: clean white architecture + sky blue + green energy accents + holographic cyan/purple\\nMaterials/textures: smooth matte white surfaces, reflective glass panels, holographic light emissions\\nConstraints: maintain floating/suspended appearance, emphasize sustainable technology integration\\nAvoid: dystopian atmosphere, dark shadows, industrial decay, cluttered composition\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8912
+}

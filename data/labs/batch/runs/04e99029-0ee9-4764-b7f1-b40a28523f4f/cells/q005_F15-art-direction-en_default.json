@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic explaining definitions and relationships between AI concepts.\n\nStyle/medium: needs a hand-drawn sketch aesthetic — exact line weight and illustration style is yours\nComposition: must include clear visual hierarchy showing definitions and relationship connections between concepts\nSubject: must include all 7 concepts with definitions and relationship mappings:\n  - AI\n  - MCP\n  - AI Agent\n  - OpenClaw\n  - AI Skill\n  - 蒸馏\n  - CLI\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: needs a hand-drawn paper texture feel — exact texture treatment is yours\nText (verbatim): must include concept names: \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must preserve all 7 concepts, definitions must be easy to understand, visual relationships must be clear\nAvoid: must avoid overly technical or complex visual clutter",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/faad73a3-94e6-43fe-b442-bbee4da761fd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an infographic explaining definitions and relationships between AI concepts.\\n\\nStyle/medium: needs a hand-drawn sketch aesthetic — exact line weight and illustration style is yours\\nComposition: must include clear visual hierarchy showing definitions and relationship connections between concepts\\nSubject: must include all 7 concepts with definitions and relationship mappings:\\n  - AI\\n  - MCP\\n  - AI Agent\\n  - OpenClaw\\n  - AI Skill\\n  - 蒸馏\\n  - CLI\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: needs a hand-drawn paper texture feel — exact texture treatment is yours\\nText (verbatim): must include concept names: \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must preserve all 7 concepts, definitions must be easy to understand, visual relationships must be clear\\nAvoid: must avoid overly technical or complex visual clutter\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10013
+}

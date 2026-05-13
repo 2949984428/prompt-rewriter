@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3x3 character expression grid featuring 赵灵儿 from 仙剑奇侠传 (all in-image text in Chinese).\n\nStyle/medium: needs a 3D animation, Pixar-style aesthetic — exact stylistic execution is yours\nComposition: must be a 3x3 grid layout (3 rows, 3 columns, 9 panels total), each panel showing the character peeking through a torn hole in white paper\nSubject: must include 赵灵儿 as the central character across all 9 panels, must include all 9 expressions and actions as specified:\n  Top-left: winking, adjusting glasses, green sweater\n  Top-center: smirking, lowering dark sunglasses, red leather jacket\n  Top-right: thinking, finger on chin, yellow hoodie\n  Middle-left: big smile, arms resting on edge, black and white striped shirt\n  Middle-center: smiling, thumbs up, orange button-up shirt\n  Middle-right: neutral, drinking boba tea, blue sweater\n  Bottom-left: happy, waving, purple sweater vest over white shirt\n  Bottom-center: laughing with eyes closed, arms crossed, pink cardigan\n  Bottom-right: silly, poking cheeks, teal sweater\nScene/backdrop: must include torn white paper holes as the framing device for each panel\nLighting/mood: needs a bright, expressive character portrait atmosphere — exact light source mix is yours\nColor palette: must include green, red, yellow, black/white, orange, blue, purple, pink, teal as outfit colors across panels\nMaterials/textures: \nText (verbatim): must include \"仙剑奇侠传\" / \"赵灵儿\" as character IP identification\nConstraints: must include all in-image text in Chinese by default; must preserve 9-panel grid structure, all 9 expressions/outfits/actions as listed, character consistency across panels\nAvoid: must avoid infringing on official 仙剑奇侠传 artwork — create original interpretation",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c7c8c918-86c6-4910-ac53-934f88a17e72/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing 3x3 character expression grid featuring 赵灵儿 from 仙剑奇侠传 (all in-image text in Chinese).\\n\\nStyle/medium: needs a 3D animation, Pixar-style aesthetic — exact stylistic execution is yours\\nComposition: must be a 3x3 grid layout (3 rows, 3 columns, 9 panels total), each panel showing the character peeking through a torn hole in white paper\\nSubject: must include 赵灵儿 as the central character across all 9 panels, must include all 9 expressions and actions as specified:\\n  Top-left: winking, adjusting glasses, green sweater\\n  Top-center: smirking, lowering dark sunglasses, red leather jacket\\n  Top-right: thinking, finger on chin, yellow hoodie\\n  Middle-left: big smile, arms resting on edge, black and white striped shirt\\n  Middle-center: smiling, thumbs up, orange button-up shirt\\n  Middle-right: neutral, drinking boba tea, blue sweater\\n  Bottom-left: happy, waving, purple sweater vest over white shirt\\n  Bottom-center: laughing with eyes closed, arms crossed, pink cardigan\\n  Bottom-right: silly, poking cheeks, teal sweater\\nScene/backdrop: must include torn white paper holes as the framing device for each panel\\nLighting/mood: needs a bright, expressive character portrait atmosphere — exact light source mix is yours\\nColor palette: must include green, red, yellow, black/white, orange, blue, purple, pink, teal as outfit colors across panels\\nMaterials/textures: \\nText (verbatim): must include \\\"仙剑奇侠传\\\" / \\\"赵灵儿\\\" as character IP identification\\nConstraints: must include all in-image text in Chinese by default; must preserve 9-panel grid structure, all 9 expressions/outfits/actions as listed, character consistency across panels\\nAvoid: must avoid infringing on official 仙剑奇侠传 artwork — create original interpretation\"}",
+  "ms": 15907
+}

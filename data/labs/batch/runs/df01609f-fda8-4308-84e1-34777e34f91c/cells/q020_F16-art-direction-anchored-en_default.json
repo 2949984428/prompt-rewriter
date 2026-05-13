@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a still-life photograph of a rough ceramic vase with dried branches on a weathered wooden table (all in-image text in Chinese).\n\nStyle/medium: needs a \"侘寂\" aesthetic — references in the spirit of 侘寂 wabi-sabi school (Japanese impermanence tradition), 1970s Japanese mingei craft photography, Hiroshi Sugimoto's minimalist still-life sensibility; exact stylistic execution is yours\nComposition: needs a natural, unhurried framing that emphasizes quiet asymmetry — exact framing and angle is yours\nSubject: must include a rough ceramic vase (one) with dried bare branches arranged inside, placed on a weathered wooden table with visible marks of age and texture\nScene/backdrop: must include a window as the light source with natural light raking in at an oblique angle; backdrop should carry visible traces of time and imperfection\nLighting/mood: needs a soft, oblique natural window-light atmosphere that reveals surface imperfections and the passage of time — exact light source mix is yours\nColor palette: needs a muted, desaturated earthy direction — exact tones and ratios are yours\nMaterials/textures: needs a surface treatment that foregrounds rough ceramic texture, dry wood grain, and the patina of age — exact grain and sheen is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must emphasize imperfection and the traces of time as the visual theme\nAvoid: must avoid clean, polished, or overly styled commercial still-life aesthetics; must avoid artificial studio lighting",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ff512981-6bb4-4416-95ec-8ec036a0c531/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a still-life photograph of a rough ceramic vase with dried branches on a weathered wooden table (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"侘寂\\\" aesthetic — references in the spirit of 侘寂 wabi-sabi school (Japanese impermanence tradition), 1970s Japanese mingei craft photography, Hiroshi Sugimoto's minimalist still-life sensibility; exact stylistic execution is yours\\nComposition: needs a natural, unhurried framing that emphasizes quiet asymmetry — exact framing and angle is yours\\nSubject: must include a rough ceramic vase (one) with dried bare branches arranged inside, placed on a weathered wooden table with visible marks of age and texture\\nScene/backdrop: must include a window as the light source with natural light raking in at an oblique angle; backdrop should carry visible traces of time and imperfection\\nLighting/mood: needs a soft, oblique natural window-light atmosphere that reveals surface imperfections and the passage of time — exact light source mix is yours\\nColor palette: needs a muted, desaturated earthy direction — exact tones and ratios are yours\\nMaterials/textures: needs a surface treatment that foregrounds rough ceramic texture, dry wood grain, and the patina of age — exact grain and sheen is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must emphasize imperfection and the traces of time as the visual theme\\nAvoid: must avoid clean, polished, or overly styled commercial still-life aesthetics; must avoid artificial studio lighting\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11432
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 62,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:ロゴ案（阿部さんお気に入り） (2)][@image:#2:ロゴ案（阿部さんお気に入り） (1)][@image:#3:ロゴ案（阿部さんお気に入り） (4)][@image:#4:ロゴ案（阿部さんお気に入り） (3)]これらのロゴを参考にしたブランドのロゴデザインをいくつか考案して。\n\n【制作イメージ】\n\n五角形や星などの「5」を連想できるモチーフをメインに\nスタイリッシュなフラットデザインのロゴ。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A69297934-3149-4a4e-87d1-6f18be2e6f5f/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:ロゴ案（阿部さんお気に入り） (2)][@image:#2:ロゴ案（阿部さんお気に入り） (1)][@image:#3:ロゴ案（阿部さんお気に入り） (4)][@image:#4:ロゴ案（阿部さんお気に入り） (3)]これらのロゴを参考にしたブランドのロゴデザインをいくつか考案して。\\n\\n【制作イメージ】\\n\\n五角形や星などの「5」を連想できるモチーフをメインに\\nスタイリッシュなフラットデザインのロゴ。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3702,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

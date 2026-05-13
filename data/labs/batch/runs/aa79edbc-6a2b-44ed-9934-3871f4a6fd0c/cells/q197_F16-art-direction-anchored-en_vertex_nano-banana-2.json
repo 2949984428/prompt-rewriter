@@ -1,0 +1,23 @@
+{
+  "query_idx": 197,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（图1）。\n\n风格/媒介:\n构图:\n主体:将图1中的灯替换成图2中的灯（图3为吸顶灯参考）\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  仅替换灯具，其他内容保持不变\n  输出比例为1:1（淘宝规格）\n避免:改动灯以外的任何元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3f4f197e-e992-438e-9f17-fdf0088cb468/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（图1）。\\n\\n风格/媒介:\\n构图:\\n主体:将图1中的灯替换成图2中的灯（图3为吸顶灯参考）\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  仅替换灯具，其他内容保持不变\\n  输出比例为1:1（淘宝规格）\\n避免:改动灯以外的任何元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7653,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

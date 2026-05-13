@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic for a technical tutorial on deploying Hermes in a Docker container and integrating GLMCodingPlan.\n\nStyle/medium: clean flat vector infographic, technical documentation style, numbered step-by-step layout\nSubject: four-step deployment workflow diagram showing Docker container setup, Hermes installation, GLMCodingPlan integration, and verification\nComposition: vertical layout with four numbered sections (1-2-3-4), each step in its own bordered panel, icons and arrows connecting steps\nColor palette: Docker blue (#2496ED) as primary, neutral gray for containers, green for success states, white background\nText (verbatim): \"如何在docker容器里部署hermes，并且接入glmcodingplan\"\nConstraints: must be readable at web resolution; each step must have a clear number badge (1, 2, 3, 4); arrows must show flow direction\nAvoid: photorealistic textures; cluttered 3D renders; decorative elements without function; watermark; 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8636006d-9369-45d2-9e62-567bf0d77e93/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing infographic for a technical tutorial on deploying Hermes in a Docker container and integrating GLMCodingPlan.\\n\\nStyle/medium: clean flat vector infographic, technical documentation style, numbered step-by-step layout\\nSubject: four-step deployment workflow diagram showing Docker container setup, Hermes installation, GLMCodingPlan integration, and verification\\nComposition: vertical layout with four numbered sections (1-2-3-4), each step in its own bordered panel, icons and arrows connecting steps\\nColor palette: Docker blue (#2496ED) as primary, neutral gray for containers, green for success states, white background\\nText (verbatim): \\\"如何在docker容器里部署hermes，并且接入glmcodingplan\\\"\\nConstraints: must be readable at web resolution; each step must have a clear number badge (1, 2, 3, 4); arrows must show flow direction\\nAvoid: photorealistic textures; cluttered 3D renders; decorative elements without function; watermark; 8K stuffer words\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9755
+}

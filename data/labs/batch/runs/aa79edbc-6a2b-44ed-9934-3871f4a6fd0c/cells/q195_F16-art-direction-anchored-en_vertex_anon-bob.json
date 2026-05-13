@@ -1,0 +1,23 @@
+{
+  "query_idx": 195,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成亚马逊高端泳镜产品主图——创意展示泳镜卖点集合。\n\n风格/媒介:\n  亚马逊高端泳镜主图风格\n  泳池风格，写实摄影感\n\n构图:\n  五张方案，各有排版差异\n  前景特写人物肩膀以上，45度侧面仰视角度，参考上传人物姿态[@image:#1]\n  人物占画面主体，背景为室内游泳池\n  卖点标签与文案排布在画面合适位置，与主体形成层次\n  整体构图饱满，前景人物与背景泳池形成空间纵深\n\n主体:\n  欧美男士，戴着泳镜，刚从泳池探出头，头发和身体微湿\n  肩膀以上特写\n\n场景/背景:\n  室内游泳池\n\n光线/氛围:\n  高端商业产品氛围\n\n色彩方案:\n\n材质/纹理:\n\n文字(原样):\n  标题：\"Gafas de Natación Antivaho HD\"\n  副标题：\"Universal para hombres, mujeres, adultos y adolescentes.\"\n  卖点标签（各附图形化标签图标）：\"Anti-UV\"、\"alta definición\"、\"antivaho\"\n\n约束:\n  画面比例 1:1\n  参考上传风格参考图[@image:#2:{1BE7C0D5-34C5-443D-A862-9245F5D22CE7}]\n  字体风格与画面整体风格一致\n  卖点标签需配合对应图形化图标进行排版\n  可添加符合画面风格的装饰元素或图标辅助排版\n\n避免:\n  文字错误或拼写变形\n  卖点标签与主体人物遮挡冲突导致信息不可读",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 5,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae24679bf-c249-4bb9-8f98-7b7eb5c5c3c3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成亚马逊高端泳镜产品主图——创意展示泳镜卖点集合。\\n\\n风格/媒介:\\n  亚马逊高端泳镜主图风格\\n  泳池风格，写实摄影感\\n\\n构图:\\n  五张方案，各有排版差异\\n  前景特写人物肩膀以上，45度侧面仰视角度，参考上传人物姿态[@image:#1]\\n  人物占画面主体，背景为室内游泳池\\n  卖点标签与文案排布在画面合适位置，与主体形成层次\\n  整体构图饱满，前景人物与背景泳池形成空间纵深\\n\\n主体:\\n  欧美男士，戴着泳镜，刚从泳池探出头，头发和身体微湿\\n  肩膀以上特写\\n\\n场景/背景:\\n  室内游泳池\\n\\n光线/氛围:\\n  高端商业产品氛围\\n\\n色彩方案:\\n\\n材质/纹理:\\n\\n文字(原样):\\n  标题：\\\"Gafas de Natación Antivaho HD\\\"\\n  副标题：\\\"Universal para hombres, mujeres, adultos y adolescentes.\\\"\\n  卖点标签（各附图形化标签图标）：\\\"Anti-UV\\\"、\\\"alta definición\\\"、\\\"antivaho\\\"\\n\\n约束:\\n  画面比例 1:1\\n  参考上传风格参考图[@image:#2:{1BE7C0D5-34C5-443D-A862-9245F5D22CE7}]\\n  字体风格与画面整体风格一致\\n  卖点标签需配合对应图形化图标进行排版\\n  可添加符合画面风格的装饰元素或图标辅助排版\\n\\n避免:\\n  文字错误或拼写变形\\n  卖点标签与主体人物遮挡冲突导致信息不可读\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 5, \"output_format\": \"png\"}",
+  "ms": 10475,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

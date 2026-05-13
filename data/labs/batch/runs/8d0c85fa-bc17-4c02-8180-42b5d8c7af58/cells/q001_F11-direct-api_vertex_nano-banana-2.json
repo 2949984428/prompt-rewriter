@@ -1,0 +1,26 @@
+{
+  "query_idx": 1,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image] 根据图片中的logo，生成应用场景及物品",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A52527764-c84a-4f44-93b2-249e9827aa92/0.png",
+    "/api/image-file/lovart%3A52527764-c84a-4f44-93b2-249e9827aa92/1.png",
+    "/api/image-file/lovart%3A52527764-c84a-4f44-93b2-249e9827aa92/2.png",
+    "/api/image-file/lovart%3A52527764-c84a-4f44-93b2-249e9827aa92/3.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image] 根据图片中的logo，生成应用场景及物品\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2677,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

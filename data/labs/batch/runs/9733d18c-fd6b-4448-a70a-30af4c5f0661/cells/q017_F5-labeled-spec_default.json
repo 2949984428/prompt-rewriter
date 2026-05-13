@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: medical educational illustration, high-resolution print-ready\nPrimary request: 3D anatomical visualization of human cardiovascular system with cross-sectioned heart showing four chambers, valves, and major blood vessels\nScene/backdrop: deep dark background to make anatomical structures stand out clearly, minimal clinical environment\nSubject: human heart cross-section revealing left/right atria and ventricles, aortic/pulmonary/mitral/tricuspid valves, aorta, pulmonary artery, superior/inferior vena cava; arterial system in bright red, venous system in deep blue, blood flow indicated by arrows with dynamic light effects\nStyle/medium: medical illustration in Netter Atlas style, modern 3D rendered texture, photorealistic anatomical accuracy\nComposition/framing: central heart anatomy with surrounding vascular network, clear labeling space reserved, medical textbook layout\nLighting/mood: dramatic rim lighting highlighting anatomical contours, subtle internal glow for blood flow visualization, clinical precision mood\nColor palette: arterial bright red, venous deep blue, coronary arteries highlighted in gold, dark charcoal background, anatomical tissue tones\nMaterials/textures: realistic myocardial fiber texture visible, glossy vascular surfaces, semi-translucent valve membranes, metallic gold for coronary highlights\nText (verbatim): \"医疗健康科普插画\"\nConstraints: preserve Netter-style anatomical accuracy, maintain clear labeling areas, ensure color-coded vessel differentiation (red arteries/blue veins), coronary arteries must be gold-highlighted\nAvoid: cartoonish simplification, incorrect anatomical proportions, cluttered composition, watermark, decorative elements that distract from educational purpose",
+    "size": "1536x1152",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3ebabc63-2eeb-44ed-a830-0cb9d506e580/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: medical educational illustration, high-resolution print-ready\\nPrimary request: 3D anatomical visualization of human cardiovascular system with cross-sectioned heart showing four chambers, valves, and major blood vessels\\nScene/backdrop: deep dark background to make anatomical structures stand out clearly, minimal clinical environment\\nSubject: human heart cross-section revealing left/right atria and ventricles, aortic/pulmonary/mitral/tricuspid valves, aorta, pulmonary artery, superior/inferior vena cava; arterial system in bright red, venous system in deep blue, blood flow indicated by arrows with dynamic light effects\\nStyle/medium: medical illustration in Netter Atlas style, modern 3D rendered texture, photorealistic anatomical accuracy\\nComposition/framing: central heart anatomy with surrounding vascular network, clear labeling space reserved, medical textbook layout\\nLighting/mood: dramatic rim lighting highlighting anatomical contours, subtle internal glow for blood flow visualization, clinical precision mood\\nColor palette: arterial bright red, venous deep blue, coronary arteries highlighted in gold, dark charcoal background, anatomical tissue tones\\nMaterials/textures: realistic myocardial fiber texture visible, glossy vascular surfaces, semi-translucent valve membranes, metallic gold for coronary highlights\\nText (verbatim): \\\"医疗健康科普插画\\\"\\nConstraints: preserve Netter-style anatomical accuracy, maintain clear labeling areas, ensure color-coded vessel differentiation (red arteries/blue veins), coronary arteries must be gold-highlighted\\nAvoid: cartoonish simplification, incorrect anatomical proportions, cluttered composition, watermark, decorative elements that distract from educational purpose\", \"size\": \"1536x1152\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13997
+}

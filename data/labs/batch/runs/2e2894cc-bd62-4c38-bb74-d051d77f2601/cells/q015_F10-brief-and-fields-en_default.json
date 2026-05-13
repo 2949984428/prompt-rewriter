@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a 9:16 vertical screenshot of a Douyin livestream featuring 神仙姐姐 holding a sign.\n\nStyle/medium: mobile UI screenshot, Douyin/TikTok livestream interface, photorealistic portrait\nComposition: vertical 9:16 aspect ratio, centered on host, phone screen mockup frame, livestream UI overlays visible\nSubject: 神仙姐姐 (elegant female host), holding a rectangular sign with both hands, serene expression, soft makeup\nScene/backdrop: typical livestream room setting, soft blurred background with ambient lighting\nLighting/mood: warm ring light on face, soft diffused fill, intimate livestream atmosphere\nColor palette: warm skin tones, neutral background, bright white sign for text contrast\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: must look like an authentic Douyin livestream screenshot with viewer count and comment area UI elements\nAvoid: watermark, distorted fingers, unreadable text, 8K stuffer labels, generic stock photo look",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c6409c0c-9fb5-474e-a3f2-573ffebdc5d1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate a 9:16 vertical screenshot of a Douyin livestream featuring 神仙姐姐 holding a sign.\\n\\nStyle/medium: mobile UI screenshot, Douyin/TikTok livestream interface, photorealistic portrait\\nComposition: vertical 9:16 aspect ratio, centered on host, phone screen mockup frame, livestream UI overlays visible\\nSubject: 神仙姐姐 (elegant female host), holding a rectangular sign with both hands, serene expression, soft makeup\\nScene/backdrop: typical livestream room setting, soft blurred background with ambient lighting\\nLighting/mood: warm ring light on face, soft diffused fill, intimate livestream atmosphere\\nColor palette: warm skin tones, neutral background, bright white sign for text contrast\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: must look like an authentic Douyin livestream screenshot with viewer count and comment area UI elements\\nAvoid: watermark, distorted fingers, unreadable text, 8K stuffer labels, generic stock photo look\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8926
+}

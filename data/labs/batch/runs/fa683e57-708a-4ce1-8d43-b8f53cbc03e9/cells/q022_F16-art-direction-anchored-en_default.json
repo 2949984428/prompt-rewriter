@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design illustration of a French romantic bedroom scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"法式浪漫\" aesthetic — references in the spirit of 19th-century French Rococo interior painting tradition, Sofia Coppola's Marie Antoinette production design, contemporary Parisian boutique hotel editorial photography; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a four-poster bed with gauze canopy, vintage vanity table, scattered rose petals\nScene/backdrop: must include Paris street view visible through window, morning light\nLighting/mood: needs a soft morning light with elegant and lazy atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e64b6c3d-94be-4036-8c93-c69a5f1de338/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an interior design illustration of a French romantic bedroom scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"法式浪漫\\\" aesthetic — references in the spirit of 19th-century French Rococo interior painting tradition, Sofia Coppola's Marie Antoinette production design, contemporary Parisian boutique hotel editorial photography; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a four-poster bed with gauze canopy, vintage vanity table, scattered rose petals\\nScene/backdrop: must include Paris street view visible through window, morning light\\nLighting/mood: needs a soft morning light with elegant and lazy atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11632
+}

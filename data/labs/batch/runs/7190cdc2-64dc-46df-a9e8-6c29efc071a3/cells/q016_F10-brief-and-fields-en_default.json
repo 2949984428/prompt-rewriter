@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial sports photograph capturing a peak moment in an NBA basketball game.\n\nStyle/medium: professional sports photography in the style of Getty Images, photorealistic, 1/2000 second shutter freeze\nComposition: telephoto lens compression, tight framing on airborne player at rim height, low-angle perspective emphasizing vertical elevation\nSubject: NBA player mid-air executing a powerful dunk, right arm extended high with ball, wrist cocked for the slam, face showing explosive intensity and focus, sweat droplets frozen mid-flight\nScene/backdrop: blurred arena crowd creating bokeh, sea of colorful glow sticks and phone flashlights forming dreamy light points, opposing player below jumping for a block attempt\nLighting/mood: dramatic overhead arena lights creating strong chiaroscuro contrast on the athlete's body, rim lighting on sweat droplets, theatrical tension\nColor palette: warm skin tones and orange basketball as anchor, cool arena shadows, vibrant multicolor crowd bokeh as accent\nMaterials/textures: glistening sweat beads with specular highlights, textured basketball surface, fabric weave of jersey visible\nAvoid: plastic skin, motion blur on main subject, watermark, over-sharpening, 8K stuffer aesthetic, cartoonish proportions",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a3f92f01-1a34-48ea-9f67-842288b0a495/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial sports photograph capturing a peak moment in an NBA basketball game.\\n\\nStyle/medium: professional sports photography in the style of Getty Images, photorealistic, 1/2000 second shutter freeze\\nComposition: telephoto lens compression, tight framing on airborne player at rim height, low-angle perspective emphasizing vertical elevation\\nSubject: NBA player mid-air executing a powerful dunk, right arm extended high with ball, wrist cocked for the slam, face showing explosive intensity and focus, sweat droplets frozen mid-flight\\nScene/backdrop: blurred arena crowd creating bokeh, sea of colorful glow sticks and phone flashlights forming dreamy light points, opposing player below jumping for a block attempt\\nLighting/mood: dramatic overhead arena lights creating strong chiaroscuro contrast on the athlete's body, rim lighting on sweat droplets, theatrical tension\\nColor palette: warm skin tones and orange basketball as anchor, cool arena shadows, vibrant multicolor crowd bokeh as accent\\nMaterials/textures: glistening sweat beads with specular highlights, textured basketball surface, fabric weave of jersey visible\\nAvoid: plastic skin, motion blur on main subject, watermark, over-sharpening, 8K stuffer aesthetic, cartoonish proportions\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11214
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: professional sports photography, editorial photo\nPrimary request: NBA Finals highlight moment of a star player wearing jersey #23 executing a powerful slam dunk while double-teamed by two defenders\nScene/backdrop: packed NBA arena with tens of thousands of standing cheering fans, court floor with visible brand logos and boundary lines, professional basketball court\nSubject: star basketball player wearing jersey #23, muscular physique with visible muscle definition, explosive and focused facial expression, perfect athletic arc in mid-air, two defending players attempting to block\nStyle/medium: professional sports photography, high-speed action capture\nComposition/framing: low-angle upward shot emphasizing height and explosive power, player as central focal point, background crowd forming spectacular bokeh\nLighting/mood: professional multi-point high-brightness arena lighting, unified color temperature, dramatic and intense atmosphere\nColor palette: court wood tones, team jersey colors, bright arena whites, crowd multicolor blur\nMaterials/textures: realistic sweat on skin, fabric texture of jerseys, polished wooden court floor, glossy court markings\nConstraints: preserve jersey number 23, keep both defenders visible in frame, maintain sharp focus on dunking player, court logos must be legible\nAvoid: motion blur, plastic skin, deformed hands, watermark, oversaturated colors, amateur lighting",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4fe41118-a406-4aa3-93e9-5734c1f2d397/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: professional sports photography, editorial photo\\nPrimary request: NBA Finals highlight moment of a star player wearing jersey #23 executing a powerful slam dunk while double-teamed by two defenders\\nScene/backdrop: packed NBA arena with tens of thousands of standing cheering fans, court floor with visible brand logos and boundary lines, professional basketball court\\nSubject: star basketball player wearing jersey #23, muscular physique with visible muscle definition, explosive and focused facial expression, perfect athletic arc in mid-air, two defending players attempting to block\\nStyle/medium: professional sports photography, high-speed action capture\\nComposition/framing: low-angle upward shot emphasizing height and explosive power, player as central focal point, background crowd forming spectacular bokeh\\nLighting/mood: professional multi-point high-brightness arena lighting, unified color temperature, dramatic and intense atmosphere\\nColor palette: court wood tones, team jersey colors, bright arena whites, crowd multicolor blur\\nMaterials/textures: realistic sweat on skin, fabric texture of jerseys, polished wooden court floor, glossy court markings\\nConstraints: preserve jersey number 23, keep both defenders visible in frame, maintain sharp focus on dunking player, court logos must be legible\\nAvoid: motion blur, plastic skin, deformed hands, watermark, oversaturated colors, amateur lighting\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11755
+}

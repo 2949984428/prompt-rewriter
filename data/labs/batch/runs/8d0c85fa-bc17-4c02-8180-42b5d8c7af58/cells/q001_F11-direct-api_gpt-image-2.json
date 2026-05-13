@@ -1,0 +1,23 @@
+{
+  "query_idx": 1,
+  "skill_id": "F11-direct-api",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image] 根据图片中的logo，生成应用场景及物品",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Aa7b37044-229b-492e-892a-2441bd33e7f1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image] 根据图片中的logo，生成应用场景及物品\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2878,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

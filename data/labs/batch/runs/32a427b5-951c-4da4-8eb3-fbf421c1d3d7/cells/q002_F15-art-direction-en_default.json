@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a professional documentary-style banner image for a Weibo news/hot topic post.\n\nStyle/medium: needs a documentary/news photography aesthetic with high-end mobile-captured realism — exact stylistic execution is yours\nComposition: must be wide panoramic 16:9 horizontal format with ample negative space for text overlay\nSubject: must include city skyline at dusk with pedestrians in motion\nScene/backdrop: must include urban cityscape at golden hour transitioning to night, distant skyscrapers reflecting sunset glow, neon signs beginning to illuminate\nLighting/mood: needs dramatic chiaroscuro with strong light-shadow contrast — exact light source balance is yours\nColor palette: needs warm sunset tones transitioning to cool neon accents — exact color grading is yours\nMaterials/textures: needs sharp detail and high-resolution finish — exact grain and texture treatment is yours\nText (verbatim): must include \"城市里的安静时刻\" as main headline in bold/modern font, must include \"黄昏，总能治愈一天的匆忙\" as subtitle, must include \"@龙爪槐守望者real · 生活观察\" as watermark in bottom right or lower area\nConstraints: must preserve 16:9 aspect ratio strictly, must maintain authentic on-site documentary feel, must allow ample horizontal space for text placement\nAvoid: must avoid artificial or overly processed looks, must avoid cluttered composition that conflicts with text readability",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cb546a21-8dce-4a81-a8ae-0e6704323e87/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate a professional documentary-style banner image for a Weibo news/hot topic post.\\n\\nStyle/medium: needs a documentary/news photography aesthetic with high-end mobile-captured realism — exact stylistic execution is yours\\nComposition: must be wide panoramic 16:9 horizontal format with ample negative space for text overlay\\nSubject: must include city skyline at dusk with pedestrians in motion\\nScene/backdrop: must include urban cityscape at golden hour transitioning to night, distant skyscrapers reflecting sunset glow, neon signs beginning to illuminate\\nLighting/mood: needs dramatic chiaroscuro with strong light-shadow contrast — exact light source balance is yours\\nColor palette: needs warm sunset tones transitioning to cool neon accents — exact color grading is yours\\nMaterials/textures: needs sharp detail and high-resolution finish — exact grain and texture treatment is yours\\nText (verbatim): must include \\\"城市里的安静时刻\\\" as main headline in bold/modern font, must include \\\"黄昏，总能治愈一天的匆忙\\\" as subtitle, must include \\\"@龙爪槐守望者real · 生活观察\\\" as watermark in bottom right or lower area\\nConstraints: must preserve 16:9 aspect ratio strictly, must maintain authentic on-site documentary feel, must allow ample horizontal space for text placement\\nAvoid: must avoid artificial or overly processed looks, must avoid cluttered composition that conflicts with text readability\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12363
+}

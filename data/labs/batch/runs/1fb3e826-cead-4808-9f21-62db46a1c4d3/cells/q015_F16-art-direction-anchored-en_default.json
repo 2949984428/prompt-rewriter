@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media screenshot mockup of a 抖音 live-stream broadcast.\n\nStyle/medium: needs a \"抖音直播截图\" aesthetic — references in the spirit of TikTok / 抖音 live-stream UI design language, 2020s Chinese short-video platform visual vernacular, mobile live-broadcast screen capture style; exact stylistic execution is yours\nComposition: must be 9:16 vertical, full-screen live-stream screenshot layout with typical 抖音 live UI overlays (comment feed, like animations, viewer count, host username bar)\nSubject: must include a young woman resembling a graceful, ethereal Chinese female celebrity (神仙姐姐 archetype) as the live-stream host, holding up a handwritten sign facing the camera\nScene/backdrop: must include a typical indoor live-stream setup backdrop\nLighting/mood: needs a warm, soft studio-light live-broadcast atmosphere — exact light mix is yours\nColor palette: \nMaterials/textures: must include the sign as a physical cardboard or paper placard held in both hands\nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" written on the sign the host is holding\nConstraints: must preserve 抖音 live-stream UI chrome (comment scroll, floating hearts, viewer count overlay) as part of the screenshot composition\nAvoid: real celebrity likeness; avoid any identifiable real person",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d9177245-83cc-4b9e-aa55-e5bac3a6275a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing social media screenshot mockup of a 抖音 live-stream broadcast.\\n\\nStyle/medium: needs a \\\"抖音直播截图\\\" aesthetic — references in the spirit of TikTok / 抖音 live-stream UI design language, 2020s Chinese short-video platform visual vernacular, mobile live-broadcast screen capture style; exact stylistic execution is yours\\nComposition: must be 9:16 vertical, full-screen live-stream screenshot layout with typical 抖音 live UI overlays (comment feed, like animations, viewer count, host username bar)\\nSubject: must include a young woman resembling a graceful, ethereal Chinese female celebrity (神仙姐姐 archetype) as the live-stream host, holding up a handwritten sign facing the camera\\nScene/backdrop: must include a typical indoor live-stream setup backdrop\\nLighting/mood: needs a warm, soft studio-light live-broadcast atmosphere — exact light mix is yours\\nColor palette: \\nMaterials/textures: must include the sign as a physical cardboard or paper placard held in both hands\\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" written on the sign the host is holding\\nConstraints: must preserve 抖音 live-stream UI chrome (comment scroll, floating hearts, viewer count overlay) as part of the screenshot composition\\nAvoid: real celebrity likeness; avoid any identifiable real person\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12438
+}

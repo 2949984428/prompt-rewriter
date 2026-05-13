@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing infographic for a Chinese ethnic minority costume museum guide.\n\nStyle/medium: museum exhibition panel, historical costume catalog, cultural heritage infographic, realistic editorial illustration, rice paper textured background\nComposition: top-to-bottom layout with fixed sections: header (main title + subtitle + intro), left structural breakdown with Chinese callout lines and close-up details, upper-right material/texture swatches with descriptions, mid-right color palette/pattern samples with cultural explanations, bottom wearing sequence flowchart and core characteristics summary, central full-body figure or central structural diagram depending on subject suitability\nSubject: Chinese ethnic minority traditional costume (auto-selected appropriate ethnic group, garment system, and era style)\nScene/backdrop: museum display environment, archival paper texture background in off-white, silk-white, light tea tones\nLighting/mood: neutral museum lighting, professional archival presentation, restrained and scholarly atmosphere\nColor palette: natural dye colors typical of Chinese ethnic textiles, earth tones, indigo, red, embroidered accents against paper background\nMaterials/textures: handwoven fabrics, embroidery threads, silver ornaments, batik patterns, brocade weaves, leather accessories\nText (verbatim): 中国少数民族服饰\nConstraints: all text must be simplified Chinese, clear and readable, no garbled characters or English, realistic structural accuracy, authentic material representation, encyclopedic tone\nAvoid: poster aesthetic, studio photography look, e-commerce style, anime illustration, cosplay aesthetic, incorrect labeling, fake materials, excessive decoration",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c01766b7-8740-47fb-bd86-1f93b5f34c94/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an original, non-infringing infographic for a Chinese ethnic minority costume museum guide.\\n\\nStyle/medium: museum exhibition panel, historical costume catalog, cultural heritage infographic, realistic editorial illustration, rice paper textured background\\nComposition: top-to-bottom layout with fixed sections: header (main title + subtitle + intro), left structural breakdown with Chinese callout lines and close-up details, upper-right material/texture swatches with descriptions, mid-right color palette/pattern samples with cultural explanations, bottom wearing sequence flowchart and core characteristics summary, central full-body figure or central structural diagram depending on subject suitability\\nSubject: Chinese ethnic minority traditional costume (auto-selected appropriate ethnic group, garment system, and era style)\\nScene/backdrop: museum display environment, archival paper texture background in off-white, silk-white, light tea tones\\nLighting/mood: neutral museum lighting, professional archival presentation, restrained and scholarly atmosphere\\nColor palette: natural dye colors typical of Chinese ethnic textiles, earth tones, indigo, red, embroidered accents against paper background\\nMaterials/textures: handwoven fabrics, embroidery threads, silver ornaments, batik patterns, brocade weaves, leather accessories\\nText (verbatim): 中国少数民族服饰\\nConstraints: all text must be simplified Chinese, clear and readable, no garbled characters or English, realistic structural accuracy, authentic material representation, encyclopedic tone\\nAvoid: poster aesthetic, studio photography look, e-commerce style, anime illustration, cosplay aesthetic, incorrect labeling, fake materials, excessive decoration\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13269
+}

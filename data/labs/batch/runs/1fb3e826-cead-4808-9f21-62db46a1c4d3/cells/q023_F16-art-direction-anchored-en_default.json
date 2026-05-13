@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing single-panel knowledge card illustration for children, presenting the story of 赤壁之战 from 三国.\n\nStyle/medium: needs a \"儿童卡通知识卡片\" aesthetic — references in the spirit of 中国小学生历史漫画 print tradition (e.g. 《漫画三国》), Usborne illustrated history cards for young readers, DK Eyewitness children's infographic spreads; exact stylistic execution is yours\nComposition: must be a single large card layout with a clear title at the top, story cartoon scene as the main body, and a bulleted key-points list arranged alongside the illustration\nSubject: must include the 赤壁之战 story — key figures (曹操, 周瑜, 诸葛亮), the fire attack on the fleet (火攻), and the battle on the 长江 river\nScene/backdrop: must include a dramatic river battle scene with warships, fire, and smoke on the 长江\nLighting/mood: needs a vivid, energetic, child-friendly adventure atmosphere — exact mood execution is yours\nColor palette: needs bright, saturated, child-friendly colors — exact palette is yours\nMaterials/textures: \nText (verbatim): must include title \"赤壁之战\" (large, top), and key-point bullet labels: \"• 时间：公元208年\" / \"• 主要人物：曹操、周瑜、诸葛亮\" / \"• 战术：火攻连环船\" / \"• 结果：曹操大败，三国鼎立格局形成\"\nConstraints: must be a single card panel; key-points list must be clearly legible alongside the cartoon scene\nAvoid: overly realistic or adult-oriented illustration styles; cluttered or illegible text layout",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5e5a20b4-05c0-461c-b707-84d5bb690d90/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing single-panel knowledge card illustration for children, presenting the story of 赤壁之战 from 三国.\\n\\nStyle/medium: needs a \\\"儿童卡通知识卡片\\\" aesthetic — references in the spirit of 中国小学生历史漫画 print tradition (e.g. 《漫画三国》), Usborne illustrated history cards for young readers, DK Eyewitness children's infographic spreads; exact stylistic execution is yours\\nComposition: must be a single large card layout with a clear title at the top, story cartoon scene as the main body, and a bulleted key-points list arranged alongside the illustration\\nSubject: must include the 赤壁之战 story — key figures (曹操, 周瑜, 诸葛亮), the fire attack on the fleet (火攻), and the battle on the 长江 river\\nScene/backdrop: must include a dramatic river battle scene with warships, fire, and smoke on the 长江\\nLighting/mood: needs a vivid, energetic, child-friendly adventure atmosphere — exact mood execution is yours\\nColor palette: needs bright, saturated, child-friendly colors — exact palette is yours\\nMaterials/textures: \\nText (verbatim): must include title \\\"赤壁之战\\\" (large, top), and key-point bullet labels: \\\"• 时间：公元208年\\\" / \\\"• 主要人物：曹操、周瑜、诸葛亮\\\" / \\\"• 战术：火攻连环船\\\" / \\\"• 结果：曹操大败，三国鼎立格局形成\\\"\\nConstraints: must be a single card panel; key-points list must be clearly legible alongside the cartoon scene\\nAvoid: overly realistic or adult-oriented illustration styles; cluttered or illegible text layout\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12346
+}

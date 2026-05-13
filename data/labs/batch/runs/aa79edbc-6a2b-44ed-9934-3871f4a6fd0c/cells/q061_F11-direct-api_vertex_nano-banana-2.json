@@ -1,0 +1,23 @@
+{
+  "query_idx": 61,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "A dynamic yet profoundly sophisticated monochrome logo, solid black and white. It features five abstracted, sweeping vector forms (like dynamic arrows or chevrons) that are not simply lines, but conceptual layers in synchronized motion. Their overlapping intersections create a complex, almost kinetic geometric pattern that converges at a single point, symbolizing unified purpose and forward momentum. Purely flat, high-definition lines, clean crisp edges, no text.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6a3165aa-e628-41ba-9fcd-b0ad8db35da2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"A dynamic yet profoundly sophisticated monochrome logo, solid black and white. It features five abstracted, sweeping vector forms (like dynamic arrows or chevrons) that are not simply lines, but conceptual layers in synchronized motion. Their overlapping intersections create a complex, almost kinetic geometric pattern that converges at a single point, symbolizing unified purpose and forward momentum. Purely flat, high-definition lines, clean crisp edges, no text.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3265,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

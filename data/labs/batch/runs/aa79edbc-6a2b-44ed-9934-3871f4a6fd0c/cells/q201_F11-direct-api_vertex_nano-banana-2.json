@@ -1,0 +1,23 @@
+{
+  "query_idx": 201,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:12841777129475_][@image:#2:12861777129476_][@image:#3:12871777129476_][@image:#4:12851777129475_][@image:#5:12831777129474_]产品是这件宠物连衣裙，适合小型犬穿，图1-3展示了连衣裙的侧面和背面，图4展示了连衣裙的正面，我想用最后一张图的小狗作为全部产品图的模特，请帮我生成一套符合Etsy审美的主图详情页图片，包含一张白底图，2张辅图，1张详情页\"",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3da55c5c-dab1-444f-9ad5-5978ed1fe82c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:12841777129475_][@image:#2:12861777129476_][@image:#3:12871777129476_][@image:#4:12851777129475_][@image:#5:12831777129474_]产品是这件宠物连衣裙，适合小型犬穿，图1-3展示了连衣裙的侧面和背面，图4展示了连衣裙的正面，我想用最后一张图的小狗作为全部产品图的模特，请帮我生成一套符合Etsy审美的主图详情页图片，包含一张白底图，2张辅图，1张详情页\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3867,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

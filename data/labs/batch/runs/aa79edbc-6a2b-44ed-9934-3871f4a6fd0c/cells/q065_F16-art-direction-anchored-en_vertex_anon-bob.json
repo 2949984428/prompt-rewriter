@@ -1,0 +1,23 @@
+{
+  "query_idx": 65,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一款工作室品牌 Logo。\n\n风格/媒介: 平面设计风格，现代简洁\n构图: Logo 构图，标志与文字组合\n主体: 工作室名称 \"SoooWhat Studio\"，业务涵盖平面设计、视觉设计、陈列设计、品牌设计\n场景/背景: 纯色或透明背景\n光线/氛围:\n色彩方案: 黑绿或蓝黄，对比度强\n材质/纹理:\n文字(原样): SoooWhat Studio\n约束:\n避免: 低对比度配色；复杂装饰",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac18827c4-46da-4f10-99f0-f521522405cf/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一款工作室品牌 Logo。\\n\\n风格/媒介: 平面设计风格，现代简洁\\n构图: Logo 构图，标志与文字组合\\n主体: 工作室名称 \\\"SoooWhat Studio\\\"，业务涵盖平面设计、视觉设计、陈列设计、品牌设计\\n场景/背景: 纯色或透明背景\\n光线/氛围:\\n色彩方案: 黑绿或蓝黄，对比度强\\n材质/纹理:\\n文字(原样): SoooWhat Studio\\n约束:\\n避免: 低对比度配色；复杂装饰\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 6395,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

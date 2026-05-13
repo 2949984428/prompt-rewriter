@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a panoramic scroll illustration of the 元宵灯会 in 唐代长安城 at night.\n\nStyle/medium: needs a \"工笔重彩长卷\" aesthetic — references in the spirit of 唐代壁画 tomb painting tradition, 宋画 gongbi court scrolls, 清明上河图 narrative panorama structure; exact stylistic execution is yours\nComposition: must be a horizontal panoramic scroll format showing wide cityscape view\nSubject: must include thousands of lanterns (万盏花灯) illuminating the night sky as the focal subject\nScene/backdrop: must be 唐代长安城 cityscape during 元宵灯会 festival\nLighting/mood: needs a festive night atmosphere with lantern glow — exact light distribution is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/89514e76-6303-4071-a872-fde620dcbf1d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a panoramic scroll illustration of the 元宵灯会 in 唐代长安城 at night.\\n\\nStyle/medium: needs a \\\"工笔重彩长卷\\\" aesthetic — references in the spirit of 唐代壁画 tomb painting tradition, 宋画 gongbi court scrolls, 清明上河图 narrative panorama structure; exact stylistic execution is yours\\nComposition: must be a horizontal panoramic scroll format showing wide cityscape view\\nSubject: must include thousands of lanterns (万盏花灯) illuminating the night sky as the focal subject\\nScene/backdrop: must be 唐代长安城 cityscape during 元宵灯会 festival\\nLighting/mood: needs a festive night atmosphere with lantern glow — exact light distribution is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9999
+}

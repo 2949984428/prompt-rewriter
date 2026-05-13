@@ -1,0 +1,23 @@
+{
+  "query_idx": 303,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张夜晚吃烧烤的美食分享图。\n\n风格/媒介:美食摄影风格，适合 Instagram 分享\n构图:竖版构图，烧烤食物为视觉焦点\n主体:烧烤食物，夜晚户外烧烤场景\n场景/背景:夜晚\n光线/氛围:夜晚氛围，烧烤炭火光感\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:9:16 竖版比例\n避免:",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7e4795fe-7bd6-4bef-91ac-e6cb240c1a1a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张夜晚吃烧烤的美食分享图。\\n\\n风格/媒介:美食摄影风格，适合 Instagram 分享\\n构图:竖版构图，烧烤食物为视觉焦点\\n主体:烧烤食物，夜晚户外烧烤场景\\n场景/背景:夜晚\\n光线/氛围:夜晚氛围，烧烤炭火光感\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:9:16 竖版比例\\n避免:\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 6914,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

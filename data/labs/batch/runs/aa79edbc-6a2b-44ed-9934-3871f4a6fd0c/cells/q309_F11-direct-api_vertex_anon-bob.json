@@ -1,0 +1,23 @@
+{
+  "query_idx": 309,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Las imágenes deben mostrar frutas como piñas, pero no frutas enteras; rodajas jugosas, como fresas, etc. Sin azúcar añadido, sin químicos, 100% natural. El tamaño de la imagen es de 1080 x 1920 píxeles, ideal para imágenes de portada de cuentas de video de WeChat.",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa5fd7bd6-6f8b-4874-b760-763b4c0b6711/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Las imágenes deben mostrar frutas como piñas, pero no frutas enteras; rodajas jugosas, como fresas, etc. Sin azúcar añadido, sin químicos, 100% natural. El tamaño de la imagen es de 1080 x 1920 píxeles, ideal para imágenes de portada de cuentas de video de WeChat.\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7932,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

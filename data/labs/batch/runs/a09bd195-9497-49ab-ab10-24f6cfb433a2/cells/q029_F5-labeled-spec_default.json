@@ -1,0 +1,20 @@
+{
+  "query_idx": 29,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-fantasy\nAsset type: editorial illustration, storybook spread\nPrimary request: dreamlike underwater fairy-tale world with mermaid, glowing jellyfish, sunken treasure, and light rays\nScene/backdrop: coral reef kingdom, ancient shipwreck with scattered gold coins and jewels, bioluminescent sea creatures\nSubject: graceful mermaid with flowing hair swimming among coral formations, translucent jellyfish emitting soft glow, weathered shipwreck with treasure chest\nStyle/medium: whimsical storybook illustration, watercolor-digital hybrid, fantasy art\nComposition/framing: wide underwater scene, eye-level perspective with depth layers\nLighting/mood: golden sunbeams piercing through water surface, dappled caustic light, magical and ethereal atmosphere\nColor palette: iridescent teals and aquas, coral pinks and oranges, gold treasure accents, bioluminescent purples and blues\nMaterials/textures: translucent jellyfish bells, rough barnacle-covered ship wood, smooth pearl surfaces, flowing mermaid hair\nConstraints: keep the dreamlike fairy-tale quality, ensure mermaid is central focal point\nAvoid: realistic horror elements, cluttered composition, muddy colors, photorealistic rendering",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4dfc17f5-380c-4ebc-83c3-fa3bf3dd59b1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: illustration-fantasy\\nAsset type: editorial illustration, storybook spread\\nPrimary request: dreamlike underwater fairy-tale world with mermaid, glowing jellyfish, sunken treasure, and light rays\\nScene/backdrop: coral reef kingdom, ancient shipwreck with scattered gold coins and jewels, bioluminescent sea creatures\\nSubject: graceful mermaid with flowing hair swimming among coral formations, translucent jellyfish emitting soft glow, weathered shipwreck with treasure chest\\nStyle/medium: whimsical storybook illustration, watercolor-digital hybrid, fantasy art\\nComposition/framing: wide underwater scene, eye-level perspective with depth layers\\nLighting/mood: golden sunbeams piercing through water surface, dappled caustic light, magical and ethereal atmosphere\\nColor palette: iridescent teals and aquas, coral pinks and oranges, gold treasure accents, bioluminescent purples and blues\\nMaterials/textures: translucent jellyfish bells, rough barnacle-covered ship wood, smooth pearl surfaces, flowing mermaid hair\\nConstraints: keep the dreamlike fairy-tale quality, ensure mermaid is central focal point\\nAvoid: realistic horror elements, cluttered composition, muddy colors, photorealistic rendering\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10287
+}

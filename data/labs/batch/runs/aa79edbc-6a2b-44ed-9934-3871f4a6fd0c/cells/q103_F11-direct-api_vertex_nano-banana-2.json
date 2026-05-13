@@ -1,0 +1,27 @@
+{
+  "query_idx": 103,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "参考图[@image:#1:6e81a4477f8732c9fdeec6d80469401b116c1f56e69f77d87cd1fbe7dd0c1786]为图[@image:#2:A93A0598]母子花盆添加多肉植物，生成4张不同风格淘宝场景图，母亲节，温馨的居家风格，2k画质，1:1比例",
+    "size": "2048x2048",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa429c705-36cd-4953-a613-4f68257c5417/0.png",
+    "/api/image-file/lovart%3Aa429c705-36cd-4953-a613-4f68257c5417/1.png",
+    "/api/image-file/lovart%3Aa429c705-36cd-4953-a613-4f68257c5417/2.png",
+    "/api/image-file/lovart%3Aa429c705-36cd-4953-a613-4f68257c5417/3.png",
+    "/api/image-file/lovart%3Aa429c705-36cd-4953-a613-4f68257c5417/4.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"参考图[@image:#1:6e81a4477f8732c9fdeec6d80469401b116c1f56e69f77d87cd1fbe7dd0c1786]为图[@image:#2:A93A0598]母子花盆添加多肉植物，生成4张不同风格淘宝场景图，母亲节，温馨的居家风格，2k画质，1:1比例\", \"size\": \"2048x2048\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"png\"}",
+  "ms": 2913,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

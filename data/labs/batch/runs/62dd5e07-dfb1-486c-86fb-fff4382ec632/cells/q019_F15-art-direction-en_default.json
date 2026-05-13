@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand's 618 anniversary sale event.\n\nStyle/medium: needs a festive e-commerce campaign aesthetic — exact stylistic execution is yours\nComposition: needs a bold, attention-grabbing vertical poster layout — exact framing is yours\nSubject: must include 绿联私有云 brand identity and 618 anniversary sale as the hero message\nScene/backdrop: needs a celebratory campaign backdrop — exact environment is yours\nLighting/mood: needs a vibrant, high-energy festive atmosphere — exact light treatment is yours\nColor palette: needs a direction aligned with 绿联 brand identity (green tones) combined with 618 sale energy — exact palette and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"绿联私有云\" and \"618\" and \"周年庆\"\nConstraints: must read clearly as an e-commerce sale announcement poster\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3d31ed05-f487-4955-9d82-124221d21f8b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand's 618 anniversary sale event.\\n\\nStyle/medium: needs a festive e-commerce campaign aesthetic — exact stylistic execution is yours\\nComposition: needs a bold, attention-grabbing vertical poster layout — exact framing is yours\\nSubject: must include 绿联私有云 brand identity and 618 anniversary sale as the hero message\\nScene/backdrop: needs a celebratory campaign backdrop — exact environment is yours\\nLighting/mood: needs a vibrant, high-energy festive atmosphere — exact light treatment is yours\\nColor palette: needs a direction aligned with 绿联 brand identity (green tones) combined with 618 sale energy — exact palette and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"绿联私有云\\\" and \\\"618\\\" and \\\"周年庆\\\"\\nConstraints: must read clearly as an e-commerce sale announcement poster\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7615
+}

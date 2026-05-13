@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for cross-border e-commerce promotion.\n\nStyle/medium: bold typographic poster design, layered artistic typography with depth and hierarchy, editorial poster aesthetic\nComposition: 16:9 landscape format, dynamic text layering with overlapping font styles at different scales, central product or subject partially obscuring text elements\nSubject: cross-border e-commerce promotional theme with layered artistic lettering, main product or focal element positioned to overlap and partially cover typography\nScene/backdrop: structured but visually rich environment with organized complexity, geometric or abstract background elements supporting the text layers\nLighting/mood: balanced studio lighting with subtle dimensional shadows on layered text, energetic and commercial mood\nColor palette: vibrant but controlled palette with high contrast between text layers, cohesive brand colors with strategic accent highlights\nMaterials/textures: clean vector typography with subtle dimensional effects, smooth product surfaces contrasting with textured text treatments\nConstraints: text must remain legible despite layering; overlapping elements must create intentional visual rhythm not chaos; 16:9 aspect ratio mandatory\nAvoid: cluttered disorganized layout, illegible text, generic stock photo aesthetic, flat single-layer typography, watermark, 8K stuffer language",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/70e7a278-7803-4655-b325-acc94fac11ee/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing marketing poster for cross-border e-commerce promotion.\\n\\nStyle/medium: bold typographic poster design, layered artistic typography with depth and hierarchy, editorial poster aesthetic\\nComposition: 16:9 landscape format, dynamic text layering with overlapping font styles at different scales, central product or subject partially obscuring text elements\\nSubject: cross-border e-commerce promotional theme with layered artistic lettering, main product or focal element positioned to overlap and partially cover typography\\nScene/backdrop: structured but visually rich environment with organized complexity, geometric or abstract background elements supporting the text layers\\nLighting/mood: balanced studio lighting with subtle dimensional shadows on layered text, energetic and commercial mood\\nColor palette: vibrant but controlled palette with high contrast between text layers, cohesive brand colors with strategic accent highlights\\nMaterials/textures: clean vector typography with subtle dimensional effects, smooth product surfaces contrasting with textured text treatments\\nConstraints: text must remain legible despite layering; overlapping elements must create intentional visual rhythm not chaos; 16:9 aspect ratio mandatory\\nAvoid: cluttered disorganized layout, illegible text, generic stock photo aesthetic, flat single-layer typography, watermark, 8K stuffer language\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10502
+}

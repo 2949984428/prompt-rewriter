@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: concept-art-game\nAsset type: game concept art, cinematic illustration\nPrimary request: epic fantasy dragon lair scene inside an active volcano's lava cave\nScene/backdrop: deep volcanic cavern interior with flowing molten lava on walls, distant cave entrance with moonlight streaming in\nSubject: massive ancient dragon perched atop a mountain of gold coins and treasure, deep crimson and black interwoven scales, wings spread covering half the cavern space, eyes emitting intense golden glow\nStyle/medium: realistic fantasy illustration, Dungeons & Dragons classic fantasy aesthetic, epic cinematic style\nComposition/framing: wide establishing shot, dramatic perspective emphasizing scale and grandeur\nLighting/mood: complex interplay of warm orange-red lava glow on scales, single cool moonbeam from cave entrance creating color temperature contrast, dramatic and epic atmosphere\nColor palette: deep crimson, orange-gold, black dominant, warm-cool contrast\nMaterials/textures: realistic dragon scales with light reflections, molten lava flow, gleaming gold coins, ancient magical artifacts, glowing magical gems, weathered armor\nConstraints: preserve the epic scale and D&D fantasy aesthetic, maintain realistic rendering quality\nAvoid: cartoonish style, flat lighting, low detail, cluttered composition, plastic textures",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/563fdd4c-905b-4c87-a9d2-cd21091bb218/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: concept-art-game\\nAsset type: game concept art, cinematic illustration\\nPrimary request: epic fantasy dragon lair scene inside an active volcano's lava cave\\nScene/backdrop: deep volcanic cavern interior with flowing molten lava on walls, distant cave entrance with moonlight streaming in\\nSubject: massive ancient dragon perched atop a mountain of gold coins and treasure, deep crimson and black interwoven scales, wings spread covering half the cavern space, eyes emitting intense golden glow\\nStyle/medium: realistic fantasy illustration, Dungeons & Dragons classic fantasy aesthetic, epic cinematic style\\nComposition/framing: wide establishing shot, dramatic perspective emphasizing scale and grandeur\\nLighting/mood: complex interplay of warm orange-red lava glow on scales, single cool moonbeam from cave entrance creating color temperature contrast, dramatic and epic atmosphere\\nColor palette: deep crimson, orange-gold, black dominant, warm-cool contrast\\nMaterials/textures: realistic dragon scales with light reflections, molten lava flow, gleaming gold coins, ancient magical artifacts, glowing magical gems, weathered armor\\nConstraints: preserve the epic scale and D&D fantasy aesthetic, maintain realistic rendering quality\\nAvoid: cartoonish style, flat lighting, low detail, cluttered composition, plastic textures\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10620
+}

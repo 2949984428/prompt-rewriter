@@ -1,0 +1,15 @@
+{
+  "query_idx": 152,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"设计天猫产品详情页 —— 第1张，共2张。\\n\\n风格/媒介:电商产品详情页设计图\\n构图:\\n  1:3 竖向长图\\n  详情页版式布局\\n主体:天猫平台产品详情页\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  参考上传的参考图 #1\\n  共2张详情页，此为第1张\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"设计天猫产品详情页 —— 第2张，共2张。\\n\\n风格/媒介:电商产品详情页设计图\\n构图:\\n  1:3 竖向长图\\n  详情页版式布局\\n主体:天猫平台产品详情页\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  参考上传的参考图 #1\\n  共2张详情页，此为第2张\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6331,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

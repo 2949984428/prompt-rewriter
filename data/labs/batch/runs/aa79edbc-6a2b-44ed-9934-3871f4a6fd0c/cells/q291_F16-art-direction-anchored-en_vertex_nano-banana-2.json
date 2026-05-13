@@ -1,0 +1,23 @@
+{
+  "query_idx": 291,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Pinterest 竖版美食图文 Pin。\n\n风格/媒介:\n  专业食品摄影风格\n  手写风格字体\n  温馨美式晚餐美学\n  高对比、干净版式\n\n构图:\n  上下两段式构图\n  上半部分：俯拍视角，质朴砧板上摆放新鲜食材——牛肉末、洋葱、彩椒、大蒜、调味料、新鲜香草\n  下半部分：完成摆盘的健康牛肉晚餐成品，可见热气，配有装饰点缀\n  中间位置：大号清晰手写风格粗体文字，移动端即看即读\n  底部：品牌标识\n\n主体:\n  上半：新鲜晚餐食材平铺于质朴砧板\n  下半：摆盘完成的健康牛肉晚餐，冒着热气\n\n场景/背景:\n  上半自然顶光，色彩鲜亮\n  下半温暖诱人的餐桌光线\n\n光线/氛围:\n  上半：自然光、明亮鲜活\n  下半：暖光、温馨诱人\n  整体：高对比、吸睛\n\n色彩方案:\n\n材质/纹理:\n  质朴木质砧板纹理\n\n文字(原样):\n  \"Healthy Ground Beef Recipes for Dinner\"（中间，大号粗体手写风格字体）\n  \"simmerrecipes.com\"（底部品牌）\n\n约束:\n  竖版构图，比例 2:3（对应 1000×1500px Pinterest Pin）\n  适配 Pinterest 移动端用户浏览体验\n  文字清晰可读，不被背景干扰\n\n避免:\n  文字模糊或被遮挡\n  杂乱背景干扰食材辨识",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A30cff135-ca51-4b57-a002-12b5b009aa39/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Pinterest 竖版美食图文 Pin。\\n\\n风格/媒介:\\n  专业食品摄影风格\\n  手写风格字体\\n  温馨美式晚餐美学\\n  高对比、干净版式\\n\\n构图:\\n  上下两段式构图\\n  上半部分：俯拍视角，质朴砧板上摆放新鲜食材——牛肉末、洋葱、彩椒、大蒜、调味料、新鲜香草\\n  下半部分：完成摆盘的健康牛肉晚餐成品，可见热气，配有装饰点缀\\n  中间位置：大号清晰手写风格粗体文字，移动端即看即读\\n  底部：品牌标识\\n\\n主体:\\n  上半：新鲜晚餐食材平铺于质朴砧板\\n  下半：摆盘完成的健康牛肉晚餐，冒着热气\\n\\n场景/背景:\\n  上半自然顶光，色彩鲜亮\\n  下半温暖诱人的餐桌光线\\n\\n光线/氛围:\\n  上半：自然光、明亮鲜活\\n  下半：暖光、温馨诱人\\n  整体：高对比、吸睛\\n\\n色彩方案:\\n\\n材质/纹理:\\n  质朴木质砧板纹理\\n\\n文字(原样):\\n  \\\"Healthy Ground Beef Recipes for Dinner\\\"（中间，大号粗体手写风格字体）\\n  \\\"simmerrecipes.com\\\"（底部品牌）\\n\\n约束:\\n  竖版构图，比例 2:3（对应 1000×1500px Pinterest Pin）\\n  适配 Pinterest 移动端用户浏览体验\\n  文字清晰可读，不被背景干扰\\n\\n避免:\\n  文字模糊或被遮挡\\n  杂乱背景干扰食材辨识\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 20962,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

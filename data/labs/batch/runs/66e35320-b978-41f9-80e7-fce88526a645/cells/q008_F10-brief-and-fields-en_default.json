@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional poster for cross-border e-commerce marketing with artistic typography and layered text effects.\n\nStyle/medium: bold graphic poster design, editorial advertising layout, contemporary commercial art direction\nComposition: 16:9 landscape format, dynamic layered typography with overlapping text blocks, product or main subject partially obscuring some letterforms, balanced negative space to prevent visual clutter\nSubject: artistic display typography with stacked/layered letterforms, commercial product or central visual element integrated with text\nScene/backdrop: clean but visually rich environment supporting the promotional message, depth through layering\nLighting/mood: controlled studio lighting with subtle shadows to enhance depth between layers, energetic and commercial mood\nColor palette: high-contrast brand colors with clear hierarchy, accent colors for call-to-action elements, cohesive palette preventing chaos\nMaterials/textures: crisp vector typography with subtle dimensional effects, smooth product surfaces, paper or digital texture as needed\nConstraints: text must remain legible despite layering; product integration must feel intentional not accidental; overall composition must be complex but organized\nAvoid: unreadable text due to excessive overlap; cluttered chaos without hierarchy; generic stock photo aesthetic; 8K/masterpiece filler language",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ebf4f59f-2e0f-4b17-be36-2257454fd461/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a promotional poster for cross-border e-commerce marketing with artistic typography and layered text effects.\\n\\nStyle/medium: bold graphic poster design, editorial advertising layout, contemporary commercial art direction\\nComposition: 16:9 landscape format, dynamic layered typography with overlapping text blocks, product or main subject partially obscuring some letterforms, balanced negative space to prevent visual clutter\\nSubject: artistic display typography with stacked/layered letterforms, commercial product or central visual element integrated with text\\nScene/backdrop: clean but visually rich environment supporting the promotional message, depth through layering\\nLighting/mood: controlled studio lighting with subtle shadows to enhance depth between layers, energetic and commercial mood\\nColor palette: high-contrast brand colors with clear hierarchy, accent colors for call-to-action elements, cohesive palette preventing chaos\\nMaterials/textures: crisp vector typography with subtle dimensional effects, smooth product surfaces, paper or digital texture as needed\\nConstraints: text must remain legible despite layering; product integration must feel intentional not accidental; overall composition must be complex but organized\\nAvoid: unreadable text due to excessive overlap; cluttered chaos without hierarchy; generic stock photo aesthetic; 8K/masterpiece filler language\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8480
+}

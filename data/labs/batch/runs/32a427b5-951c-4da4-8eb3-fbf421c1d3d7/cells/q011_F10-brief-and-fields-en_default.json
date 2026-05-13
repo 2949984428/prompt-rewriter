@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a platform announcement about GPT-image-2 launching on Lovart, designed for Xiaohongshu cover format.\n\nStyle/medium: high-end editorial magazine aesthetic, clean typography-driven layout, Vogue/Elle cover style\nComposition: diagonal composition, text and visual elements arranged along a strong diagonal axis from bottom-left to top-right, dynamic tension\nSubject: bold typographic announcement featuring \"GPT-image-2\" and \"Lovart\" as hero text\nScene/backdrop: minimal sophisticated background with subtle texture or gradient, negative space to emphasize text\nLighting/mood: dramatic high-contrast lighting, editorial studio lighting feel, confident and premium\nColor palette: high-contrast accent color scheme, deep neutral base with one bold accent color for emphasis\nText (verbatim): \"GPT-image-2\" \"Lovart\"\nConstraints: must read clearly at mobile thumbnail size; text hierarchy must be instantly scannable\nAvoid: generic stock imagery, cluttered layout, low contrast text, watermark, decorative elements that compete with typography",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9c72f05c-a0eb-4e8d-a9f1-eba50432ea5f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a platform announcement about GPT-image-2 launching on Lovart, designed for Xiaohongshu cover format.\\n\\nStyle/medium: high-end editorial magazine aesthetic, clean typography-driven layout, Vogue/Elle cover style\\nComposition: diagonal composition, text and visual elements arranged along a strong diagonal axis from bottom-left to top-right, dynamic tension\\nSubject: bold typographic announcement featuring \\\"GPT-image-2\\\" and \\\"Lovart\\\" as hero text\\nScene/backdrop: minimal sophisticated background with subtle texture or gradient, negative space to emphasize text\\nLighting/mood: dramatic high-contrast lighting, editorial studio lighting feel, confident and premium\\nColor palette: high-contrast accent color scheme, deep neutral base with one bold accent color for emphasis\\nText (verbatim): \\\"GPT-image-2\\\" \\\"Lovart\\\"\\nConstraints: must read clearly at mobile thumbnail size; text hierarchy must be instantly scannable\\nAvoid: generic stock imagery, cluttered layout, low contrast text, watermark, decorative elements that compete with typography\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9648
+}

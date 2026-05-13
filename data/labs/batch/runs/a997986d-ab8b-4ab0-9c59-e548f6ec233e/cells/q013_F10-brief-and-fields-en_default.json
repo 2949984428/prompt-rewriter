@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original movie poster for a sci-fi thriller about AI awakening.\n\nStyle/medium: cinematic movie poster, photorealistic digital composite, cyberpunk aesthetic inspired by Blade Runner and Ghost in the Shell\nComposition: vertical centered portrait orientation, subject positioned in lower two-thirds with title area reserved in bottom third, eye-level straight-on gaze at viewer, tight framing on face\nSubject: half-human half-cyborg female face, left side delicate human skin with natural brown eye, right side exposed precision circuit boards and metallic endoskeleton, seamless transition along vertical centerline, glowing blue mechanical eye\nScene/backdrop: vast digital matrix space, countless streams of green code falling from above like digital rain, deep atmospheric void\nLighting/mood: dramatic high-contrast key light from front, rim lighting defining the mechanical contours, moody and suspenseful with technological menace\nColor palette: cool blue as dominant base, acid green code streams as accent, metallic silver and chrome highlights, warm brown human eye as focal anchor\nMaterials/textures: realistic human skin with subtle pores, brushed aluminum and steel mechanical parts, visible copper traces and fiber optic cables, glossy synthetic surfaces\nText (verbatim): \"\"\nConstraints: title text area must remain empty in bottom third; vertical poster format; photorealistic render quality suitable for theatrical release\nAvoid: cartoonish or anime stylization; flat graphic design; deformed facial features; mismatched lighting between human and mechanical sides; oversaturated neon palette; watermarks",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/62a29805-8042-4bfe-825d-121c7f5976b0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original movie poster for a sci-fi thriller about AI awakening.\\n\\nStyle/medium: cinematic movie poster, photorealistic digital composite, cyberpunk aesthetic inspired by Blade Runner and Ghost in the Shell\\nComposition: vertical centered portrait orientation, subject positioned in lower two-thirds with title area reserved in bottom third, eye-level straight-on gaze at viewer, tight framing on face\\nSubject: half-human half-cyborg female face, left side delicate human skin with natural brown eye, right side exposed precision circuit boards and metallic endoskeleton, seamless transition along vertical centerline, glowing blue mechanical eye\\nScene/backdrop: vast digital matrix space, countless streams of green code falling from above like digital rain, deep atmospheric void\\nLighting/mood: dramatic high-contrast key light from front, rim lighting defining the mechanical contours, moody and suspenseful with technological menace\\nColor palette: cool blue as dominant base, acid green code streams as accent, metallic silver and chrome highlights, warm brown human eye as focal anchor\\nMaterials/textures: realistic human skin with subtle pores, brushed aluminum and steel mechanical parts, visible copper traces and fiber optic cables, glossy synthetic surfaces\\nText (verbatim): \\\"\\\"\\nConstraints: title text area must remain empty in bottom third; vertical poster format; photorealistic render quality suitable for theatrical release\\nAvoid: cartoonish or anime stylization; flat graphic design; deformed facial features; mismatched lighting between human and mechanical sides; oversaturated neon palette; watermarks\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13413
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 114,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:3da1bb46ff48e0af16c322de41545c85] 产品精修，采用纯净纯白背景。通过3D渲染精准还原产品本色与包装质感，金属光泽等材质细节真实呈现。全面清除指纹、灰尘及瑕疵，使产品焕然一新，光影立体饱满，大幅提升高级质感与精致度。产品标签与文字清晰锐利，光线柔和均匀，整体效果严格符合淘宝主图标准。不改变产品细节和摆放姿势。2k 1：1",
+    "size": "2048x2048",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7907013c-b60a-4af7-af16-324c1d5b8315/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:3da1bb46ff48e0af16c322de41545c85] 产品精修，采用纯净纯白背景。通过3D渲染精准还原产品本色与包装质感，金属光泽等材质细节真实呈现。全面清除指纹、灰尘及瑕疵，使产品焕然一新，光影立体饱满，大幅提升高级质感与精致度。产品标签与文字清晰锐利，光线柔和均匀，整体效果严格符合淘宝主图标准。不改变产品细节和摆放姿势。2k 1：1\", \"size\": \"2048x2048\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3781,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

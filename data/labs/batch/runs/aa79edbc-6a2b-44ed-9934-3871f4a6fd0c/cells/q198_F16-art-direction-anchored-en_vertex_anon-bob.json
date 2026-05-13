@@ -1,0 +1,23 @@
+{
+  "query_idx": 198,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an Amazon product listing image (1:1 square format) for a facial cleanser.\n\nStyle/medium: Clean commercial product photography, white background, bold graphic layout\nComposition:\n  Vertical composition\n  Large foamy lather displayed prominently above or around the tube\n  \"STEP 01\" label visible in the frame\nSubject:\n  Tube of facial cleanser (foam type)\n  Oversized fluffy dense foam bubbles surrounding or emerging from the tube\nScene/backdrop: Pure white background\nLighting/mood: Bright, clean, even lighting\nColor palette: White dominant, minimal accent colors\nMaterials/textures: Dense creamy foam texture\nText (verbatim): STEP 01\nConstraints:\n  1:1 square ratio\n  English text only\n  Intended for Amazon US listing\n  Foam must look rich, voluminous, and dense to convey deep-cleansing lather\nAvoid: Dark backgrounds, lifestyle scenes, human models",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Abc27a12d-106c-4477-8c81-b519196147bd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an Amazon product listing image (1:1 square format) for a facial cleanser.\\n\\nStyle/medium: Clean commercial product photography, white background, bold graphic layout\\nComposition:\\n  Vertical composition\\n  Large foamy lather displayed prominently above or around the tube\\n  \\\"STEP 01\\\" label visible in the frame\\nSubject:\\n  Tube of facial cleanser (foam type)\\n  Oversized fluffy dense foam bubbles surrounding or emerging from the tube\\nScene/backdrop: Pure white background\\nLighting/mood: Bright, clean, even lighting\\nColor palette: White dominant, minimal accent colors\\nMaterials/textures: Dense creamy foam texture\\nText (verbatim): STEP 01\\nConstraints:\\n  1:1 square ratio\\n  English text only\\n  Intended for Amazon US listing\\n  Foam must look rich, voluminous, and dense to convey deep-cleansing lather\\nAvoid: Dark backgrounds, lifestyle scenes, human models\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10644,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

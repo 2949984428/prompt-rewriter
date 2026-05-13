@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing character illustration for an ancient-style game (all in-image text in Chinese).\n\nStyle/medium: needs a \"神秘东方古风\" aesthetic — references in the spirit of 新中式 digital illustration movement, 宋画 ink-and-color figure painting tradition, 仙侠游戏立绘 (contemporary xianxia game character art heritage); exact stylistic execution is yours\nComposition: needs a full-body or three-quarter portrait composition suited for game character art — exact framing is yours\nSubject: must include a 汉服 woman playing the guqin (抚琴), robes billowing ethereally (衣袂飘飘), with an otherworldly immortal presence (仙气十足)\nScene/backdrop: must include a bamboo forest (竹林) setting; moonlight filtering through bamboo leaves casting dappled shadows (斑驳光影)\nLighting/mood: needs a mysterious, moonlit night atmosphere with soft dappled light — exact light source mix is yours\nColor palette: needs a cool, ethereal direction with deep shadow and luminous highlight contrast — exact hex values and ratios are yours\nMaterials/textures: needs a delicate, painterly surface treatment evoking silk, ink wash, and soft glow — exact grain and sheen is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/28dbe30a-f65d-4a96-ad4f-5794f79fcc8e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing character illustration for an ancient-style game (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"神秘东方古风\\\" aesthetic — references in the spirit of 新中式 digital illustration movement, 宋画 ink-and-color figure painting tradition, 仙侠游戏立绘 (contemporary xianxia game character art heritage); exact stylistic execution is yours\\nComposition: needs a full-body or three-quarter portrait composition suited for game character art — exact framing is yours\\nSubject: must include a 汉服 woman playing the guqin (抚琴), robes billowing ethereally (衣袂飘飘), with an otherworldly immortal presence (仙气十足)\\nScene/backdrop: must include a bamboo forest (竹林) setting; moonlight filtering through bamboo leaves casting dappled shadows (斑驳光影)\\nLighting/mood: needs a mysterious, moonlit night atmosphere with soft dappled light — exact light source mix is yours\\nColor palette: needs a cool, ethereal direction with deep shadow and luminous highlight contrast — exact hex values and ratios are yours\\nMaterials/textures: needs a delicate, painterly surface treatment evoking silk, ink wash, and soft glow — exact grain and sheen is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10933
+}

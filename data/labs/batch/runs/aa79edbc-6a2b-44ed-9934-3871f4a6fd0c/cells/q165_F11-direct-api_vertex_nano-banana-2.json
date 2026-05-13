@@ -1,0 +1,23 @@
+{
+  "query_idx": 165,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:IMG_1519] 产品建模级精修，将产品上的刺头、灰尘、指纹去除，崭新质感的黑色橡胶轮胎效果，亚马逊白底图，精修完美无痕，还原轮胎花纹细节",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Abc612090-c1e3-4cb5-9cff-7bb38c12f9c9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:IMG_1519] 产品建模级精修，将产品上的刺头、灰尘、指纹去除，崭新质感的黑色橡胶轮胎效果，亚马逊白底图，精修完美无痕，还原轮胎花纹细节\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3503,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

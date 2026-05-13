@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for OPPO Find X9 Pro smartphone, a brand exposure campaign with visual impact priority.\n\nStyle/medium: commercial product poster, bold graphic design with high contrast, tech-lifestyle aesthetic\nComposition: full-screen smartphone mockup centered, slight 3/4 angle to show screen depth, generous padding for brand breathing room\nSubject: OPPO Find X9 Pro smartphone with edge-to-edge display, sleek metallic frame, reflective glass back\nScene/backdrop: abstract gradient or studio backdrop, minimal to keep focus on device\nLighting/mood: dramatic studio lighting with soft rim light, premium and aspirational mood\nColor palette: deep blacks and metallic silvers as base, vibrant accent glow from screen, OPPO brand green as subtle highlight\nMaterials/textures: brushed aluminum frame, polished glass surface with subtle reflection, matte screen with UI glow\nText (verbatim): \"OPPO Find X9 Pro\"\nConstraints: must work at 1080×1920 vertical format; brand name must be prominent and legible; visual hierarchy prioritizes device over text\nAvoid: cluttered backgrounds, generic stock photo aesthetic, over-processed HDR look, watermarks, distracting UI elements on screen",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e2f03841-5a26-4b73-b8be-098c129b4d5c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for OPPO Find X9 Pro smartphone, a brand exposure campaign with visual impact priority.\\n\\nStyle/medium: commercial product poster, bold graphic design with high contrast, tech-lifestyle aesthetic\\nComposition: full-screen smartphone mockup centered, slight 3/4 angle to show screen depth, generous padding for brand breathing room\\nSubject: OPPO Find X9 Pro smartphone with edge-to-edge display, sleek metallic frame, reflective glass back\\nScene/backdrop: abstract gradient or studio backdrop, minimal to keep focus on device\\nLighting/mood: dramatic studio lighting with soft rim light, premium and aspirational mood\\nColor palette: deep blacks and metallic silvers as base, vibrant accent glow from screen, OPPO brand green as subtle highlight\\nMaterials/textures: brushed aluminum frame, polished glass surface with subtle reflection, matte screen with UI glow\\nText (verbatim): \\\"OPPO Find X9 Pro\\\"\\nConstraints: must work at 1080×1920 vertical format; brand name must be prominent and legible; visual hierarchy prioritizes device over text\\nAvoid: cluttered backgrounds, generic stock photo aesthetic, over-processed HDR look, watermarks, distracting UI elements on screen\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14520
+}

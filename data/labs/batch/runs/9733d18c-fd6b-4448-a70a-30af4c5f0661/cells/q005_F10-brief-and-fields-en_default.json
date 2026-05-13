@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial fashion photo for a high-end womenswear campaign featuring a structural white dress.\n\nStyle/medium: high-contrast fashion photography in the spirit of Helmut Newton, editorial commercial grade, sharp and crisp\nComposition: three-quarter profile pose, model at 45-degree angle to camera, head slightly tilted upward, elegant and upright posture\nSubject: female model in a pure white structural gown with architectural silhouette, exaggerated 3D shoulder construction, cinched waist, A-line skirt flare, fierce and confident gaze\nScene/backdrop: seamless white cyclorama background, minimal studio environment\nLighting/mood: butterfly lighting setup, key light from 45 degrees above center, strong highlight-to-shadow contrast emphasizing garment structure, dramatic and bold\nColor palette: achromatic base of black, white and gray, deep crimson red on lips as sole accent\nMaterials/textures: crisp fabric with sharp folds and architectural edges, smooth skin, matte white backdrop\nAvoid: soft lighting, pastel colors, cluttered background, over-retouched skin, 8K stuffer words, generic stock photo aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2fc519cd-b8af-467f-adfe-9f1cee85e04e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial fashion photo for a high-end womenswear campaign featuring a structural white dress.\\n\\nStyle/medium: high-contrast fashion photography in the spirit of Helmut Newton, editorial commercial grade, sharp and crisp\\nComposition: three-quarter profile pose, model at 45-degree angle to camera, head slightly tilted upward, elegant and upright posture\\nSubject: female model in a pure white structural gown with architectural silhouette, exaggerated 3D shoulder construction, cinched waist, A-line skirt flare, fierce and confident gaze\\nScene/backdrop: seamless white cyclorama background, minimal studio environment\\nLighting/mood: butterfly lighting setup, key light from 45 degrees above center, strong highlight-to-shadow contrast emphasizing garment structure, dramatic and bold\\nColor palette: achromatic base of black, white and gray, deep crimson red on lips as sole accent\\nMaterials/textures: crisp fabric with sharp folds and architectural edges, smooth skin, matte white backdrop\\nAvoid: soft lighting, pastel colors, cluttered background, over-retouched skin, 8K stuffer words, generic stock photo aesthetic\",\"size\": \"1024x1536\",\"quality\": \"medium\",\"n\": 1,\"output_format\": \"png\"}",
+  "ms": 16801
+}

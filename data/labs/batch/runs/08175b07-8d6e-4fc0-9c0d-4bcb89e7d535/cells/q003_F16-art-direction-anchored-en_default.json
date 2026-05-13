@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a profile avatar for a lifestyle tech content creator.\n\nStyle/medium: needs a modern minimalist aesthetic — references in the spirit of Apple product iconography, Scandinavian design heritage, Japanese MUJI visual language; exact stylistic execution is yours\nComposition: must be centered, balanced for use as circular crop on all major platforms\nSubject: must include abstract or symbolic elements representing new energy vehicles, digital products, and lifestyle goods — exact visual metaphor is yours\nScene/backdrop: must be clean and neutral, suitable for both Chinese and international social platforms\nLighting/mood: needs a calm, professional atmosphere — exact lighting treatment is yours\nColor palette: must be culturally neutral, avoiding colors with strong regional or religious associations\nMaterials/textures: \nText (verbatim): \nConstraints: must avoid symbols, gestures, or imagery that could offend specific cultural or religious groups; must work harmoniously as circular avatar on WeChat, Weibo, Instagram, Twitter/X, TikTok\nAvoid: must not include religious symbols, national flags, hand gestures, human faces, or text in any language",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/65644a3f-e989-409a-b00e-67dc22970e97/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a profile avatar for a lifestyle tech content creator.\\n\\nStyle/medium: needs a modern minimalist aesthetic — references in the spirit of Apple product iconography, Scandinavian design heritage, Japanese MUJI visual language; exact stylistic execution is yours\\nComposition: must be centered, balanced for use as circular crop on all major platforms\\nSubject: must include abstract or symbolic elements representing new energy vehicles, digital products, and lifestyle goods — exact visual metaphor is yours\\nScene/backdrop: must be clean and neutral, suitable for both Chinese and international social platforms\\nLighting/mood: needs a calm, professional atmosphere — exact lighting treatment is yours\\nColor palette: must be culturally neutral, avoiding colors with strong regional or religious associations\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must avoid symbols, gestures, or imagery that could offend specific cultural or religious groups; must work harmoniously as circular avatar on WeChat, Weibo, Instagram, Twitter/X, TikTok\\nAvoid: must not include religious symbols, national flags, hand gestures, human faces, or text in any language\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12127
+}

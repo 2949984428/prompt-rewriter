@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing UI design system for a tech dashboard and mobile interface, featuring cards, buttons, and controls.\n\nStyle/medium: flat vector UI design system, classic minimal tech aesthetic, clean geometric forms, Apple HIG meets Material Design 3\nSubject: dashboard layout with data visualization cards, mobile interface screens, button components, toggle switches, input fields, dropdown menus\nComposition: modular grid system, scalable components, responsive breakpoints shown, organized spacing hierarchy\nColor palette: deep navy or charcoal as primary background, electric blue or cyan as accent, soft white for text, subtle gray scale for secondary elements\nMaterials/textures: smooth matte surfaces, subtle glassmorphism on cards, crisp vector edges, no noise or grain\nConstraints: must scale from mobile to desktop; components must be reusable; minimum 8px grid system; dark mode first\nAvoid: skeuomorphic textures; drop shadows over 8px blur; more than 3 accent colors; gradients unless subtle; generic corporate blue; cluttered layouts",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/303c9643-1166-433c-8b3c-e10652c03d52/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing UI design system for a tech dashboard and mobile interface, featuring cards, buttons, and controls.\\n\\nStyle/medium: flat vector UI design system, classic minimal tech aesthetic, clean geometric forms, Apple HIG meets Material Design 3\\nSubject: dashboard layout with data visualization cards, mobile interface screens, button components, toggle switches, input fields, dropdown menus\\nComposition: modular grid system, scalable components, responsive breakpoints shown, organized spacing hierarchy\\nColor palette: deep navy or charcoal as primary background, electric blue or cyan as accent, soft white for text, subtle gray scale for secondary elements\\nMaterials/textures: smooth matte surfaces, subtle glassmorphism on cards, crisp vector edges, no noise or grain\\nConstraints: must scale from mobile to desktop; components must be reusable; minimum 8px grid system; dark mode first\\nAvoid: skeuomorphic textures; drop shadows over 8px blur; more than 3 accent colors; gradients unless subtle; generic corporate blue; cluttered layouts\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9879
+}

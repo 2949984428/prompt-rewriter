@@ -1,0 +1,23 @@
+{
+  "query_idx": 245,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:photo_٢٠٢٦-٠٤-٢٢_١١-٢٧-٣٣]\nPlace the provided flower bouquet exactly as it is, preserving all original details, colors, textures, and shape without any modification. Position it in a luxury white studio setting with a clean, minimal background. Ensure the bouquet is straight, well-balanced, and naturally positioned as if placed realistically in real life. Use soft, professional studio lighting with gentle, elegant shadows to enhance depth and realism. The composition should look high-end, refined, and suitable for a premium brand. Ensure ultra-high resolution and sharp focus. Format the image in Instagram post size (1080x1350, 4:5 ratio). The final result should look like a polished, realistic, professional photoshoot.",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6ea7205b-a2c7-451f-b60e-9f3ec7e4c436/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:photo_٢٠٢٦-٠٤-٢٢_١١-٢٧-٣٣]\\nPlace the provided flower bouquet exactly as it is, preserving all original details, colors, textures, and shape without any modification. Position it in a luxury white studio setting with a clean, minimal background. Ensure the bouquet is straight, well-balanced, and naturally positioned as if placed realistically in real life. Use soft, professional studio lighting with gentle, elegant shadows to enhance depth and realism. The composition should look high-end, refined, and suitable for a premium brand. Ensure ultra-high resolution and sharp focus. Format the image in Instagram post size (1080x1350, 4:5 ratio). The final result should look like a polished, realistic, professional photoshoot.\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3323,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

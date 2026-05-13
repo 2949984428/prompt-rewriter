@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial macro photograph of a water droplet reflection for a phone wallpaper.\n\nStyle/medium: macro photography, shallow depth of field, photorealistic\nComposition: extreme close-up macro shot, centered droplet filling 30% of frame, low angle at grass level\nSubject: single pristine water droplet with inverted landscape reflection inside, surrounded by grass blades and smaller dew drops\nScene/backdrop: early morning meadow, soft circular bokeh (bokeh balls) in background from out-of-focus light sources\nLighting/mood: soft diffused morning sunlight, gentle backlight creating translucency in droplet, serene and delicate\nColor palette: fresh greens as dominant, cool blue-white bokeh circles as accent, warm golden rim light on droplet\nMaterials/textures: glassy spherical water surface with internal refraction, dewy grass blades with fine serrations\nAvoid: oversaturated colors, artificial-looking bokeh, water droplet with no visible reflection, harsh shadows, 8K stuffer terms",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f1c0a4b5-a24c-48f7-9d08-9df5874f8685/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial macro photograph of a water droplet reflection for a phone wallpaper.\\n\\nStyle/medium: macro photography, shallow depth of field, photorealistic\\nComposition: extreme close-up macro shot, centered droplet filling 30% of frame, low angle at grass level\\nSubject: single pristine water droplet with inverted landscape reflection inside, surrounded by grass blades and smaller dew drops\\nScene/backdrop: early morning meadow, soft circular bokeh (bokeh balls) in background from out-of-focus light sources\\nLighting/mood: soft diffused morning sunlight, gentle backlight creating translucency in droplet, serene and delicate\\nColor palette: fresh greens as dominant, cool blue-white bokeh circles as accent, warm golden rim light on droplet\\nMaterials/textures: glassy spherical water surface with internal refraction, dewy grass blades with fine serrations\\nAvoid: oversaturated colors, artificial-looking bokeh, water droplet with no visible reflection, harsh shadows, 8K stuffer terms\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10023
+}

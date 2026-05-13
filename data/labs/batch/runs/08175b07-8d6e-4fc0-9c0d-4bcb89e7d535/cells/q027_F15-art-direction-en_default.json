@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a panoramic illustration of the Tang Dynasty 长安 city Lantern Festival at night.\n\nStyle/medium: must be 工笔重彩长卷 (meticulous brushwork, heavy color, handscroll format)\nComposition: needs a sweeping panoramic view of the entire cityscape — exact framing and perspective flow is yours\nSubject: must include thousands of lanterns (万盏花灯) illuminating the night sky\nScene/backdrop: must include Tang Dynasty 长安 cityscape at night during the Lantern Festival\nLighting/mood: needs a festive night atmosphere with countless lanterns as light sources — exact glow distribution is yours\nColor palette: needs a traditional Chinese painting color direction with rich mineral pigments — exact pigment choices are yours\nMaterials/textures: needs a silk handscroll surface treatment — exact paper/silk texture is yours\nText (verbatim): \nConstraints: must preserve Tang Dynasty 长安 geographic and architectural authenticity\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7d0b7339-ffac-42f0-a52f-7afd0b8da2ec/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a panoramic illustration of the Tang Dynasty 长安 city Lantern Festival at night.\\n\\nStyle/medium: must be 工笔重彩长卷 (meticulous brushwork, heavy color, handscroll format)\\nComposition: needs a sweeping panoramic view of the entire cityscape — exact framing and perspective flow is yours\\nSubject: must include thousands of lanterns (万盏花灯) illuminating the night sky\\nScene/backdrop: must include Tang Dynasty 长安 cityscape at night during the Lantern Festival\\nLighting/mood: needs a festive night atmosphere with countless lanterns as light sources — exact glow distribution is yours\\nColor palette: needs a traditional Chinese painting color direction with rich mineral pigments — exact pigment choices are yours\\nMaterials/textures: needs a silk handscroll surface treatment — exact paper/silk texture is yours\\nText (verbatim): \\nConstraints: must preserve Tang Dynasty 长安 geographic and architectural authenticity\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10428
+}

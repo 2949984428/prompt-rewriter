@@ -1,0 +1,23 @@
+{
+  "query_idx": 269,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generează un banner pentru Facebook post — anunț transmisie LIVE.\n\nStil/mediu: fotomontaj digital premium, atmosferă de festival și concert în aer liber\nCompoziție:\n  format banner Facebook post (orizontal)\n  biserica vizibilă ca element de fundal sau ancorare vizuală\n  text de anunț plasat proeminent în prim-plan\n  elemente decorative tradiționale românești (motive populare, broderie) ca accente\nSubiect:\n  anunț transmisie live a festivalului „Masa Pascală\"\n  pagina bisericii Sfântul Cuvios Arsenie cel Mare din Cornești\n  colective de muzică populară și bucate tradiționale din diferite regiuni\nScenă/fundal:\n  biserica Sfântul Cuvios Arsenie cel Mare din Cornești (conform imaginii de referință atașate)\n  atmosferă de festival pascal în aer liber\nLumină/atmosferă:\n  efect golden hour — lumină caldă aurie, razele soarelui la apus\n  atmosferă festivă, sărbătorească, pascală\nPaletă de culori:\n  auriu, alb, accente de roșu tradițional românesc\nMateriale/texturi:\n  elemente decorative tradiționale: motive populare, țesături, broderie\nText (exact):\n  „TRANSMISIE LIVE\"\n  „Masa Pascală\"\n  „26 aprilie | ora 12:00\"\n  „Biserica Sfântul Cuvios Arsenie cel Mare — Cornești\"\nConstrângeri:\n  folosește imaginea atașată a bisericii ca referință vizuală\n  aspectul trebuie să comunice atât spiritualitate cât și festival / concert\nEvită:\n  aspect generic de clipart\n  culori reci sau întunecate",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A404b83e0-179d-4f14-afa4-d608dc2a29f0/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generează un banner pentru Facebook post — anunț transmisie LIVE.\\n\\nStil/mediu: fotomontaj digital premium, atmosferă de festival și concert în aer liber\\nCompoziție:\\n  format banner Facebook post (orizontal)\\n  biserica vizibilă ca element de fundal sau ancorare vizuală\\n  text de anunț plasat proeminent în prim-plan\\n  elemente decorative tradiționale românești (motive populare, broderie) ca accente\\nSubiect:\\n  anunț transmisie live a festivalului „Masa Pascală\\\"\\n  pagina bisericii Sfântul Cuvios Arsenie cel Mare din Cornești\\n  colective de muzică populară și bucate tradiționale din diferite regiuni\\nScenă/fundal:\\n  biserica Sfântul Cuvios Arsenie cel Mare din Cornești (conform imaginii de referință atașate)\\n  atmosferă de festival pascal în aer liber\\nLumină/atmosferă:\\n  efect golden hour — lumină caldă aurie, razele soarelui la apus\\n  atmosferă festivă, sărbătorească, pascală\\nPaletă de culori:\\n  auriu, alb, accente de roșu tradițional românesc\\nMateriale/texturi:\\n  elemente decorative tradiționale: motive populare, țesături, broderie\\nText (exact):\\n  „TRANSMISIE LIVE\\\"\\n  „Masa Pascală\\\"\\n  „26 aprilie | ora 12:00\\\"\\n  „Biserica Sfântul Cuvios Arsenie cel Mare — Cornești\\\"\\nConstrângeri:\\n  folosește imaginea atașată a bisericii ca referință vizuală\\n  aspectul trebuie să comunice atât spiritualitate cât și festival / concert\\nEvită:\\n  aspect generic de clipart\\n  culori reci sau întunecate\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 15465,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing profile avatar for a self-media creator covering new energy vehicles, consumer electronics, and lifestyle products — suitable for both Chinese and international social platforms.\n\nStyle/medium: clean flat vector illustration, modern tech-lifestyle aesthetic, icon-grade clarity in the spirit of a polished app icon\nSubject: a compact, friendly composition combining three symbolic elements — a sleek EV silhouette, a small glowing screen device, and a leaf or spark motif — arranged in a balanced triangular layout with generous negative space\nComposition: centered square composition, equal visual weight on all three icons, 1:1 safe zone with 15% padding for platform cropping\nColor palette: deep navy or charcoal as base, electric teal or sky blue as primary accent, warm amber or lime green as secondary accent — colors carry universal positive associations and avoid culturally sensitive combinations\nConstraints: must read clearly at 64×64 px thumbnail size; monochrome version must remain legible; no human faces, no flags, no religious symbols, no country-specific iconography; culturally neutral across East Asian and Western audiences\nAvoid: gradients that look dated; overly complex line art that collapses at small sizes; red-and-green combination (color-blind conflict); white-on-white elements; generic Behance flat-icon clichés; any brand logos or trademarked vehicle shapes",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/48891275-6842-4f98-889f-02525f10dd5d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing profile avatar for a self-media creator covering new energy vehicles, consumer electronics, and lifestyle products — suitable for both Chinese and international social platforms.\\n\\nStyle/medium: clean flat vector illustration, modern tech-lifestyle aesthetic, icon-grade clarity in the spirit of a polished app icon\\nSubject: a compact, friendly composition combining three symbolic elements — a sleek EV silhouette, a small glowing screen device, and a leaf or spark motif — arranged in a balanced triangular layout with generous negative space\\nComposition: centered square composition, equal visual weight on all three icons, 1:1 safe zone with 15% padding for platform cropping\\nColor palette: deep navy or charcoal as base, electric teal or sky blue as primary accent, warm amber or lime green as secondary accent — colors carry universal positive associations and avoid culturally sensitive combinations\\nConstraints: must read clearly at 64×64 px thumbnail size; monochrome version must remain legible; no human faces, no flags, no religious symbols, no country-specific iconography; culturally neutral across East Asian and Western audiences\\nAvoid: gradients that look dated; overly complex line art that collapses at small sizes; red-and-green combination (color-blind conflict); white-on-white elements; generic Behance flat-icon clichés; any brand logos or trademarked vehicle shapes\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10848
+}

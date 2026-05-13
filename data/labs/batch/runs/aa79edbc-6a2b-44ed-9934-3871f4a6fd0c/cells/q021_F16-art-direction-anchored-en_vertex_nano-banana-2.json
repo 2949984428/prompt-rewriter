@@ -1,0 +1,23 @@
+{
+  "query_idx": 21,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个结合图1形象与文字的logo。\n\n风格/媒介:新中式风格，矢量logo设计\n构图:图形与文字\"泰香记\"相结合，构图简洁\n主体:以图1为基础做简化处理，线条更清晰，色块更分明\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\"泰香记\"\n约束:\n  参考图1的形象元素，进行简化再设计\n  线条和色块需清晰、干净\n避免:繁复装饰，写实风格，模糊线条",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A510bd94d-005c-4ed4-bdda-1153f58c383e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个结合图1形象与文字的logo。\\n\\n风格/媒介:新中式风格，矢量logo设计\\n构图:图形与文字\\\"泰香记\\\"相结合，构图简洁\\n主体:以图1为基础做简化处理，线条更清晰，色块更分明\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\\"泰香记\\\"\\n约束:\\n  参考图1的形象元素，进行简化再设计\\n  线条和色块需清晰、干净\\n避免:繁复装饰，写实风格，模糊线条\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5588,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

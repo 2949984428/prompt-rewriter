@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-character-art\nAsset type: game character splash art / visual novel standing illustration (古风游戏立绘)\nPrimary request: a mysterious elegant Chinese ancient-style female character in hanfu, playing guqin in a bamboo forest under moonlight\nScene/backdrop: dense bamboo forest at night, moonlight filtering through bamboo leaves casting dappled shadow patterns on the ground\nSubject: young woman in flowing hanfu with wide sleeves, seated gracefully before a guqin zither, long black hair adorned with jade hairpin, ethereal and otherworldly presence\nStyle/medium: Chinese ancient-style digital illustration, ink-wash influenced painting with soft cel shading, game character art aesthetic\nComposition/framing: medium full-body shot, slightly low angle, subject centered with bamboo framing both sides, vertical portrait orientation\nLighting/mood: cool silver moonlight as key light filtering through bamboo canopy, soft scattered light spots (月光斑驳), dreamy and mysterious atmosphere, 仙气十足\nColor palette: cool silver-white moonlight + deep jade green bamboo + soft ivory and pale blue hanfu + subtle gold accent on guqin\nMaterials/textures: flowing silk fabric with gentle motion (衣袂飘飘), smooth lacquered guqin surface, delicate bamboo leaf silhouettes\nConstraints: full hanfu attire must remain traditional and modest; bamboo forest must be clearly identifiable; guqin must be present and recognizable\nAvoid: modern clothing elements, overly dark unreadable shadows, cluttered background that competes with character, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/332dcd83-79d4-49f6-92c8-d799d850e318/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-character-art\\nAsset type: game character splash art / visual novel standing illustration (古风游戏立绘)\\nPrimary request: a mysterious elegant Chinese ancient-style female character in hanfu, playing guqin in a bamboo forest under moonlight\\nScene/backdrop: dense bamboo forest at night, moonlight filtering through bamboo leaves casting dappled shadow patterns on the ground\\nSubject: young woman in flowing hanfu with wide sleeves, seated gracefully before a guqin zither, long black hair adorned with jade hairpin, ethereal and otherworldly presence\\nStyle/medium: Chinese ancient-style digital illustration, ink-wash influenced painting with soft cel shading, game character art aesthetic\\nComposition/framing: medium full-body shot, slightly low angle, subject centered with bamboo framing both sides, vertical portrait orientation\\nLighting/mood: cool silver moonlight as key light filtering through bamboo canopy, soft scattered light spots (月光斑驳), dreamy and mysterious atmosphere, 仙气十足\\nColor palette: cool silver-white moonlight + deep jade green bamboo + soft ivory and pale blue hanfu + subtle gold accent on guqin\\nMaterials/textures: flowing silk fabric with gentle motion (衣袂飘飘), smooth lacquered guqin surface, delicate bamboo leaf silhouettes\\nConstraints: full hanfu attire must remain traditional and modest; bamboo forest must be clearly identifiable; guqin must be present and recognizable\\nAvoid: modern clothing elements, overly dark unreadable shadows, cluttered background that competes with character, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11347
+}

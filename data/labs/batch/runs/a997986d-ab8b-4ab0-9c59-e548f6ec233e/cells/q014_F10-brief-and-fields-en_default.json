@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a watercolor illustration of a Provence lavender field scene in a quiet European town.\n\nStyle/medium: transparent watercolor painting, light and airy brushwork, luminous color washes, editorial illustration style reminiscent of travel journals\nComposition: wide landscape view with layered depth, foreground farmer at lower third, lavender field leading eye toward distant hills, balanced rule of thirds placement\nSubject: elderly farmer wearing a straw hat tending lavender rows, wooden wheelbarrow filled with lavender bundles beside them\nScene/backdrop: vast purple lavender fields stretching toward rolling hills, winding gravel path through the fields, tall cypress trees lining the path, ancient stone mill with orange roof on distant hillside, bright azure sky with fluffy white clouds\nLighting/mood: warm southern French sunlight, soft diffused daylight, cheerful and romantic pastoral atmosphere\nColor palette: transparent lavender purple as dominant, sky blue as secondary, fresh green foliage, warm orange roof accent, harmonious pastel harmony\nMaterials/textures: visible watercolor paper grain, fluid transparent washes, soft color bleeding edges, delicate brushstroke texture\nAvoid: photorealistic rendering, heavy opaque paint, digital smooth gradients, 8K stuffer aesthetic, oversaturated neon colors",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/88d1c2f1-1e47-4c89-82af-f78556aefd56/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a watercolor illustration of a Provence lavender field scene in a quiet European town.\\n\\nStyle/medium: transparent watercolor painting, light and airy brushwork, luminous color washes, editorial illustration style reminiscent of travel journals\\nComposition: wide landscape view with layered depth, foreground farmer at lower third, lavender field leading eye toward distant hills, balanced rule of thirds placement\\nSubject: elderly farmer wearing a straw hat tending lavender rows, wooden wheelbarrow filled with lavender bundles beside them\\nScene/backdrop: vast purple lavender fields stretching toward rolling hills, winding gravel path through the fields, tall cypress trees lining the path, ancient stone mill with orange roof on distant hillside, bright azure sky with fluffy white clouds\\nLighting/mood: warm southern French sunlight, soft diffused daylight, cheerful and romantic pastoral atmosphere\\nColor palette: transparent lavender purple as dominant, sky blue as secondary, fresh green foliage, warm orange roof accent, harmonious pastel harmony\\nMaterials/textures: visible watercolor paper grain, fluid transparent washes, soft color bleeding edges, delicate brushstroke texture\\nAvoid: photorealistic rendering, heavy opaque paint, digital smooth gradients, 8K stuffer aesthetic, oversaturated neon colors\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9982
+}

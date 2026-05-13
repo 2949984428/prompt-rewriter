@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing cover image for a 小红书 (Xiaohongshu) creator-style post featuring the DJI Pocket 4.\n\nStyle/medium: needs a \"素人\" (authentic creator / non-professional) aesthetic — exact stylistic execution is yours\nComposition: must be a 9-grid layout for 小红书 cover\nSubject: must include the DJI Pocket 4 as the featured product\nScene/backdrop: \nLighting/mood: needs a casual, approachable atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" (central title, cute and differentiated typography)\nConstraints: must be vertical 小红书 cover format, 9-grid layout preserved\nAvoid: must avoid overly polished/professional influencer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d76935f0-af05-477a-b8e0-de905f525bfd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing cover image for a 小红书 (Xiaohongshu) creator-style post featuring the DJI Pocket 4.\\n\\nStyle/medium: needs a \\\"素人\\\" (authentic creator / non-professional) aesthetic — exact stylistic execution is yours\\nComposition: must be a 9-grid layout for 小红书 cover\\nSubject: must include the DJI Pocket 4 as the featured product\\nScene/backdrop: \\nLighting/mood: needs a casual, approachable atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" (central title, cute and differentiated typography)\\nConstraints: must be vertical 小红书 cover format, 9-grid layout preserved\\nAvoid: must avoid overly polished/professional influencer aesthetic\", \"size\":\"1024x1536\", \"quality\":\"medium\", \"n\":1, \"output_format\":\"png\"}",
+  "ms": 8537
+}

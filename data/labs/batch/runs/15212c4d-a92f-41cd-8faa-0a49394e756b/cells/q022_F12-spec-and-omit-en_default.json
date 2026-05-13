@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo of a Korean café-style coffee and dessert setup, smartphone photography aesthetic for Instagram.\n\nStyle/medium: smartphone photography, Korean café aesthetic, Instagram-ready, hand-drawn annotation overlay\nComposition: flat-lay or slightly angled overhead shot, no people\nSubject: coffee drink and dessert on café table\nScene/backdrop: Korean café interior or table setting\nLighting/mood: natural daylight, soft and warm\nColor palette: warm, muted tones typical of Korean café aesthetics\nMaterials/textures: ceramic cup, dessert pastry, wooden table or marble surface\nText (verbatim): \nConstraints: no people in frame, hand-drawn white line annotations with Japanese handwritten text (70% hiragana, 30% simple kanji), rough sketchy contour lines around objects, arrows and dashed lines for visual guidance, comments about taste/temperature/texture/atmosphere, steam sparkles hearts small emoji decorations, Instagram story style, magazine rough notes style, fashionable and relaxed mood, intentional negative space\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/22979771-54aa-4a60-9fdd-4e60b4dcc9db/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing editorial photo of a Korean café-style coffee and dessert setup, smartphone photography aesthetic for Instagram.\\n\\nStyle/medium: smartphone photography, Korean café aesthetic, Instagram-ready, hand-drawn annotation overlay\\nComposition: flat-lay or slightly angled overhead shot, no people\\nSubject: coffee drink and dessert on café table\\nScene/backdrop: Korean café interior or table setting\\nLighting/mood: natural daylight, soft and warm\\nColor palette: warm, muted tones typical of Korean café aesthetics\\nMaterials/textures: ceramic cup, dessert pastry, wooden table or marble surface\\nText (verbatim): \\nConstraints: no people in frame, hand-drawn white line annotations with Japanese handwritten text (70% hiragana, 30% simple kanji), rough sketchy contour lines around objects, arrows and dashed lines for visual guidance, comments about taste/temperature/texture/atmosphere, steam sparkles hearts small emoji decorations, Instagram story style, magazine rough notes style, fashionable and relaxed mood, intentional negative space\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11894
+}

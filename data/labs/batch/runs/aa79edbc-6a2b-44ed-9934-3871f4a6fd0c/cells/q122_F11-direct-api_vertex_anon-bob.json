@@ -1,0 +1,23 @@
+{
+  "query_idx": 122,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "帮我设计一个亚马逊产品主图，要求是纯白背景，尺寸是标准的亚马逊主图尺寸1600*1600，这是产品主体[@image:#1:image]这是2个配件，[@image:#2:image]散热器，[@image:#3:lQLPJxAumM5E_U3NApDNBCCw9DsUwGvw-34Jm5c5I74kAA_1056_656] 1T的HHD，主图中要包含这3个物品，要尽可能的要有设计感，图片必须遵守亚马逊规则",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0009c6f8-3653-4f5c-8eb1-6afea9d82330/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"帮我设计一个亚马逊产品主图，要求是纯白背景，尺寸是标准的亚马逊主图尺寸1600*1600，这是产品主体[@image:#1:image]这是2个配件，[@image:#2:image]散热器，[@image:#3:lQLPJxAumM5E_U3NApDNBCCw9DsUwGvw-34Jm5c5I74kAA_1056_656] 1T的HHD，主图中要包含这3个物品，要尽可能的要有设计感，图片必须遵守亚马逊规则\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3317,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial travel photography, landscape composition\nPrimary request: aerial and ground-level combined view of Jiangnan water town during rapeseed flower season, showcasing golden flower fields meeting traditional village architecture\nScene/backdrop: ancient village in Zhejiang, China, rolling hills with terraced tea plantations on distant slopes, clear blue sky with scattered white clouds\nSubject: endless golden rapeseed flower fields stretching to horizon, traditional white-wall black-tile houses scattered among flowers, ancient stone arch bridge crossing clear river, weeping willows with tender green branches swaying in wind, several villagers in traditional clothing working in fields\nStyle/medium: drone aerial photography combined with telephoto ground shots, photorealistic landscape\nComposition/framing: wide panoramic view from elevated angle transitioning to ground level details, 24-70mm and telephoto lens perspectives\nLighting/mood: natural morning light at 10 AM, soft and poetic atmosphere with gentle shadows, moderate color saturation\nColor palette: dominant golden yellow (rapeseed), deep blue sky, crisp white walls, black roof tiles, tender green willows and tea terraces\nMaterials/textures: blooming rapeseed petals, traditional tile roof textures, weathered stone bridge surface, flowing river water, soft willow branches\nConstraints: preserve the poetic contrast between golden fields and green tea terraces, maintain authentic Jiangnan water town character\nAvoid: oversaturated colors, artificial HDR effects, modern buildings, plastic-looking flowers, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aba74ae7-501e-4e9c-bbff-c386102ffaeb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial travel photography, landscape composition\\nPrimary request: aerial and ground-level combined view of Jiangnan water town during rapeseed flower season, showcasing golden flower fields meeting traditional village architecture\\nScene/backdrop: ancient village in Zhejiang, China, rolling hills with terraced tea plantations on distant slopes, clear blue sky with scattered white clouds\\nSubject: endless golden rapeseed flower fields stretching to horizon, traditional white-wall black-tile houses scattered among flowers, ancient stone arch bridge crossing clear river, weeping willows with tender green branches swaying in wind, several villagers in traditional clothing working in fields\\nStyle/medium: drone aerial photography combined with telephoto ground shots, photorealistic landscape\\nComposition/framing: wide panoramic view from elevated angle transitioning to ground level details, 24-70mm and telephoto lens perspectives\\nLighting/mood: natural morning light at 10 AM, soft and poetic atmosphere with gentle shadows, moderate color saturation\\nColor palette: dominant golden yellow (rapeseed), deep blue sky, crisp white walls, black roof tiles, tender green willows and tea terraces\\nMaterials/textures: blooming rapeseed petals, traditional tile roof textures, weathered stone bridge surface, flowing river water, soft willow branches\\nConstraints: preserve the poetic contrast between golden fields and green tea terraces, maintain authentic Jiangnan water town character\\nAvoid: oversaturated colors, artificial HDR effects, modern buildings, plastic-looking flowers, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16855
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing employee ID card for \"字节跳动\" (ByteDance), showing both front and back sides.\n\nStyle/medium: needs a \"真实感\" corporate ID aesthetic — references in the spirit of Apple employee badge design, Google campus card visual system, contemporary Chinese tech company credential design; exact stylistic execution is yours\nComposition: must include front side and back side visible (two-sided layout)\nSubject: must include the \"字节跳动\" brand context as the focal subject\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include \"字节跳动\"\nConstraints: must preserve dual-sided layout (front and back both visible)\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9e66fc53-1a00-4cf2-8070-f369cf2a61bb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing employee ID card for \\\"字节跳动\\\" (ByteDance), showing both front and back sides.\\n\\nStyle/medium: needs a \\\"真实感\\\" corporate ID aesthetic — references in the spirit of Apple employee badge design, Google campus card visual system, contemporary Chinese tech company credential design; exact stylistic execution is yours\\nComposition: must include front side and back side visible (two-sided layout)\\nSubject: must include the \\\"字节跳动\\\" brand context as the focal subject\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"字节跳动\\\"\\nConstraints: must preserve dual-sided layout (front and back both visible)\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10189
+}

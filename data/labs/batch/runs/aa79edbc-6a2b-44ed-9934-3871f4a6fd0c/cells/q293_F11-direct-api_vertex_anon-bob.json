@@ -1,0 +1,25 @@
+{
+  "query_idx": 293,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:笑脸图案改色][@image:#2:笑脸图案改色]图像比例调整为小红书封面3﹕4",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A46d22e06-e9f9-4453-ab70-575ed8b4464c/0.jpg",
+    "/api/image-file/lovart%3A46d22e06-e9f9-4453-ab70-575ed8b4464c/1.jpg",
+    "/api/image-file/lovart%3A46d22e06-e9f9-4453-ab70-575ed8b4464c/2.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:笑脸图案改色][@image:#2:笑脸图案改色]图像比例调整为小红书封面3﹕4\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11106,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

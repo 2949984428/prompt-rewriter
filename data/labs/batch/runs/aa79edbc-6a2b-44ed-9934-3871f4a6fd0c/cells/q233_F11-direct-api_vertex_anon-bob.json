@@ -1,0 +1,23 @@
+{
+  "query_idx": 233,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:扩展图片sdsdsdwd]整体变成金色，保留图片内容不变，用于微信朋友圈背景图。",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0bb3ee8f-da45-46b2-a306-1a48cd62fa8e/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:扩展图片sdsdsdwd]整体变成金色，保留图片内容不变，用于微信朋友圈背景图。\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4448,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

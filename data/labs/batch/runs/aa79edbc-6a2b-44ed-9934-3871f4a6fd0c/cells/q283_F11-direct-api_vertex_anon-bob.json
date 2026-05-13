@@ -1,0 +1,23 @@
+{
+  "query_idx": 283,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "aslında benim ihtiyacım olan 3240x1080 boyutunda bir background istiyorum. instagram profilimde 3 ayrı post paylaşacağım ve 3ünü de pinleyeceğim yan yana duracaklar ve bir bütün oluşturacaklar. mantık olarak 3 ayrı şehir olacak kahire luksor ve hurghada. bana ne yapabilirsin?",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1f2d6933-71ba-4cbd-87d0-6d022cc5a6d5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"aslında benim ihtiyacım olan 3240x1080 boyutunda bir background istiyorum. instagram profilimde 3 ayrı post paylaşacağım ve 3ünü de pinleyeceğim yan yana duracaklar ve bir bütün oluşturacaklar. mantık olarak 3 ayrı şehir olacak kahire luksor ve hurghada. bana ne yapabilirsin?\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3547,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

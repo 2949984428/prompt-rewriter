@@ -1,0 +1,25 @@
+{
+  "query_idx": 151,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:白天关灯状态1]参考图中的灯泡和底座，帮我设计一张淘宝主图，效果是夜晚，灯光为白色的。尺寸1440x1920的图，3张、",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 3,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7fb709b8-005e-47df-90ec-d87b13437f56/0.png",
+    "/api/image-file/lovart%3A7fb709b8-005e-47df-90ec-d87b13437f56/1.png",
+    "/api/image-file/lovart%3A7fb709b8-005e-47df-90ec-d87b13437f56/2.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:白天关灯状态1]参考图中的灯泡和底座，帮我设计一张淘宝主图，效果是夜晚，灯光为白色的。尺寸1440x1920的图，3张、\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 3, \"output_format\": \"png\"}",
+  "ms": 3006,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 12,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a logo for a law office.\n\nStyle/medium: logo design, clean and formal, suitable for legal profession\nComposition: balanced layout integrating the name and a visual symbol\nSubject: law office logo for attorney Bruno Henrique Jose Gomes da Silva\nScene/backdrop:\nLighting/mood:\nColor palette:\nMaterials/textures:\nText (verbatim): Bruno Henrique Jose Gomes da Silva\nConstraints: must read as a professional legal brand identity\nAvoid: overly decorative or playful elements",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0cd49e0a-7040-4668-b3ce-16296f10d0dd/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a logo for a law office.\\n\\nStyle/medium: logo design, clean and formal, suitable for legal profession\\nComposition: balanced layout integrating the name and a visual symbol\\nSubject: law office logo for attorney Bruno Henrique Jose Gomes da Silva\\nScene/backdrop:\\nLighting/mood:\\nColor palette:\\nMaterials/textures:\\nText (verbatim): Bruno Henrique Jose Gomes da Silva\\nConstraints: must read as a professional legal brand identity\\nAvoid: overly decorative or playful elements\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6107,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

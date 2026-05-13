@@ -1,0 +1,23 @@
+{
+  "query_idx": 213,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Instagram post about:[@image:#1:UCP 1][@image:#2:UCP 2][@image:#3:UCP 3][@image:#4:UCP 4][@image:#5:UCP 5]  Dubai Rental Yield Insights",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Abdcfe7b4-0fe7-40cc-bf7b-7a47808705ed/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a Instagram post about:[@image:#1:UCP 1][@image:#2:UCP 2][@image:#3:UCP 3][@image:#4:UCP 4][@image:#5:UCP 5]  Dubai Rental Yield Insights\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2986,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

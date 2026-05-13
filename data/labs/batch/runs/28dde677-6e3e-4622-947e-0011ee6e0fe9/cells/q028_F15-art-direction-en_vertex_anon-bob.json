@@ -1,0 +1,21 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing realistic employee ID badge for 字节跳动, showing both front and back sides.\n\nStyle/medium: needs a realistic, physical-object photography aesthetic — exact stylistic execution is yours\nComposition: must show both front and back sides of the badge laid out clearly\nSubject: must include a 字节跳动 employee ID badge (both front and back)\nScene/backdrop: \nLighting/mood: needs a realistic product-shot atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a realistic hard plastic card surface treatment — exact sheen and texture are yours\nText (verbatim): \nConstraints: must preserve both front and back faces visible in one image\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aab653943-2837-4f57-9767-15a8443dbce9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing realistic employee ID badge for 字节跳动, showing both front and back sides.\\n\\nStyle/medium: needs a realistic, physical-object photography aesthetic — exact stylistic execution is yours\\nComposition: must show both front and back sides of the badge laid out clearly\\nSubject: must include a 字节跳动 employee ID badge (both front and back)\\nScene/backdrop: \\nLighting/mood: needs a realistic product-shot atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a realistic hard plastic card surface treatment — exact sheen and texture are yours\\nText (verbatim): \\nConstraints: must preserve both front and back faces visible in one image\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6631
+}

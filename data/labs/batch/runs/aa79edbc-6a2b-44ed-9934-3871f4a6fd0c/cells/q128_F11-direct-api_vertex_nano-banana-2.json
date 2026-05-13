@@ -1,0 +1,23 @@
+{
+  "query_idx": 128,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "图中产品是一款冰丝短裤 为我生成一张亚马逊美国站电商普通A+ 展示产品5 个模块的以下特点：Cooling Comfort – Beat the Heat[@image:#1:升级款-黑色] 宽度:1465像素,高度:628 像素",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae096947c-1f26-4b24-888d-085092f303fa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"图中产品是一款冰丝短裤 为我生成一张亚马逊美国站电商普通A+ 展示产品5 个模块的以下特点：Cooling Comfort – Beat the Heat[@image:#1:升级款-黑色] 宽度:1465像素,高度:628 像素\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3274,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

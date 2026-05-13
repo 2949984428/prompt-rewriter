@@ -1,0 +1,23 @@
+{
+  "query_idx": 94,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一个 logo 设计，参考用户提供的两张设计图（#1 和 #2）。\n\n风格/媒介:参考两张提供的设计图的视觉风格，提供不同的 logo 方向\n构图:logo 构图清晰，适合品牌标识使用\n主体:logo 设计\n场景/背景:纯色或透明背景\n光线/氛围:\n色彩方案:参考两张设计图中的色彩方向\n材质/纹理:\n文字(原样):\n约束:需与两张参考设计有所区分，提供不同的设计方向\n避免:过于复杂的细节；与参考图完全相同的设计",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A80454bbd-802b-42c3-a969-3b52e483d5e9/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一个 logo 设计，参考用户提供的两张设计图（#1 和 #2）。\\n\\n风格/媒介:参考两张提供的设计图的视觉风格，提供不同的 logo 方向\\n构图:logo 构图清晰，适合品牌标识使用\\n主体:logo 设计\\n场景/背景:纯色或透明背景\\n光线/氛围:\\n色彩方案:参考两张设计图中的色彩方向\\n材质/纹理:\\n文字(原样):\\n约束:需与两张参考设计有所区分，提供不同的设计方向\\n避免:过于复杂的细节；与参考图完全相同的设计\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"png\"}",
+  "ms": 11181,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

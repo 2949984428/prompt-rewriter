@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: logo-brand\nAsset type: social media avatar, universal platform compatibility\nPrimary request: minimalist geometric logo combining electric vehicle silhouette, circuit/digital pattern, and lifestyle leaf element\nScene/backdrop: clean white or subtle gradient background, no cultural symbols or religious imagery\nSubject: abstract modern icon merging EV charging plug shape with tech circuit lines and organic leaf curve, balanced symmetry\nStyle/medium: flat vector illustration, clean line art, contemporary tech aesthetic\nComposition/framing: centered icon with generous padding, scalable for 1:1 crop\nLighting/mood: neutral, approachable, professional and friendly\nColor palette: electric blue + forest green + warm gray, no red/yellow dominance to avoid regional sensitivities\nMaterials/textures: smooth vector surfaces, no photorealistic textures\nConstraints: no human figures, no flags, no religious symbols, no hand gestures, no animal depictions, culturally neutral design\nAvoid: cultural appropriation, religious imagery, political symbols, realistic faces, complex details that lose clarity at small sizes",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/65c71349-46f1-47bb-89bd-be358b5d2ea5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: logo-brand\\nAsset type: social media avatar, universal platform compatibility\\nPrimary request: minimalist geometric logo combining electric vehicle silhouette, circuit/digital pattern, and lifestyle leaf element\\nScene/backdrop: clean white or subtle gradient background, no cultural symbols or religious imagery\\nSubject: abstract modern icon merging EV charging plug shape with tech circuit lines and organic leaf curve, balanced symmetry\\nStyle/medium: flat vector illustration, clean line art, contemporary tech aesthetic\\nComposition/framing: centered icon with generous padding, scalable for 1:1 crop\\nLighting/mood: neutral, approachable, professional and friendly\\nColor palette: electric blue + forest green + warm gray, no red/yellow dominance to avoid regional sensitivities\\nMaterials/textures: smooth vector surfaces, no photorealistic textures\\nConstraints: no human figures, no flags, no religious symbols, no hand gestures, no animal depictions, culturally neutral design\\nAvoid: cultural appropriation, religious imagery, political symbols, realistic faces, complex details that lose clarity at small sizes\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10199
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing sci-fi space illustration of an astronaut floating in Earth orbit (all in-image text in Chinese).\n\nStyle/medium: needs a cinematic sci-fi epic aesthetic — exact stylistic execution is yours\nComposition: must include astronaut as central subject, space station structure partially visible at frame edges, galaxy and nebula filling the background\nSubject: must include a single astronaut in detailed spacesuit floating in Earth orbit\nScene/backdrop: must include Earth below/behind, a brilliant Milky Way and nebula in deep space background, partial space station structure at the image edges\nLighting/mood: must be lit primarily by Earth's reflected light (earthshine); needs a grand, awe-inspiring atmosphere — exact light source balance is yours\nColor palette: needs a deep-space direction with vivid nebula hues contrasting against the darkness — exact palette and ratios are yours\nMaterials/textures: needs high-detail spacesuit surface treatment — exact material rendering is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; spacesuit details must be clearly rendered; Earth's reflected glow must be the dominant light source on the astronaut\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aae3498f-507f-4bce-a948-ae97e2b78558/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing sci-fi space illustration of an astronaut floating in Earth orbit (all in-image text in Chinese).\\n\\nStyle/medium: needs a cinematic sci-fi epic aesthetic — exact stylistic execution is yours\\nComposition: must include astronaut as central subject, space station structure partially visible at frame edges, galaxy and nebula filling the background\\nSubject: must include a single astronaut in detailed spacesuit floating in Earth orbit\\nScene/backdrop: must include Earth below/behind, a brilliant Milky Way and nebula in deep space background, partial space station structure at the image edges\\nLighting/mood: must be lit primarily by Earth's reflected light (earthshine); needs a grand, awe-inspiring atmosphere — exact light source balance is yours\\nColor palette: needs a deep-space direction with vivid nebula hues contrasting against the darkness — exact palette and ratios are yours\\nMaterials/textures: needs high-detail spacesuit surface treatment — exact material rendering is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; spacesuit details must be clearly rendered; Earth's reflected glow must be the dominant light source on the astronaut\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11472
+}

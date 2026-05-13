@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a warm family reunion dinner around a Chinese hot pot table.\n\nStyle/medium: photorealistic lifestyle photography, documentary style capturing authentic family moments\nComposition: eye-level medium shot capturing the full round table, 35mm lens, natural framing with family members arranged around the hot pot\nSubject: multi-generational Chinese family gathered around a round table, raising glasses in a toast, genuine laughter and warmth, chopsticks in hand\nScene/backdrop: cozy dining room interior, walls covered with family photographs and memories, steam rising from the bubbling hot pot at center\nLighting/mood: warm yellow ambient lighting from overhead fixtures, soft and inviting, creating an intimate and nostalgic atmosphere\nColor palette: warm yellow and amber tones as base, rich reds from hot pot ingredients, natural skin tones, muted wall colors\nMaterials/textures: glossy ceramic tableware, bubbling broth surface, steam wisps, printed photographs on wall, wooden furniture grain\nAvoid: cold blue tones, harsh flash lighting, sterile environment, deformed hands, plastic-looking food, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/320439db-889a-43e5-aff8-fc6f84f463a2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a warm family reunion dinner around a Chinese hot pot table.\\n\\nStyle/medium: photorealistic lifestyle photography, documentary style capturing authentic family moments\\nComposition: eye-level medium shot capturing the full round table, 35mm lens, natural framing with family members arranged around the hot pot\\nSubject: multi-generational Chinese family gathered around a round table, raising glasses in a toast, genuine laughter and warmth, chopsticks in hand\\nScene/backdrop: cozy dining room interior, walls covered with family photographs and memories, steam rising from the bubbling hot pot at center\\nLighting/mood: warm yellow ambient lighting from overhead fixtures, soft and inviting, creating an intimate and nostalgic atmosphere\\nColor palette: warm yellow and amber tones as base, rich reds from hot pot ingredients, natural skin tones, muted wall colors\\nMaterials/textures: glossy ceramic tableware, bubbling broth surface, steam wisps, printed photographs on wall, wooden furniture grain\\nAvoid: cold blue tones, harsh flash lighting, sterile environment, deformed hands, plastic-looking food, watermark\",\"size\": \"1536x1024\",\"quality\": \"medium\",\"n\": 1,\"output_format\": \"png\"}",
+  "ms": 9226
+}

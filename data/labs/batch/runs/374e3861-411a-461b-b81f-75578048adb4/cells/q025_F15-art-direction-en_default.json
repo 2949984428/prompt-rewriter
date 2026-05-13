@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an architectural concept illustration of a futuristic floating cityscape.\n\nStyle/medium: needs a futuristic architectural aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include a streamlined white building suspended in mid-air, drones, holographic projections, clean energy facilities\nScene/backdrop: must include an aerial/cityscape context for the floating structure\nLighting/mood: needs a sustainable-future atmosphere — exact light source mix is yours\nColor palette: needs a clean, white-forward direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8c1556a8-6b68-40cf-ab1b-dbbb36e0be06/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an architectural concept illustration of a futuristic floating cityscape.\\n\\nStyle/medium: needs a futuristic architectural aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include a streamlined white building suspended in mid-air, drones, holographic projections, clean energy facilities\\nScene/backdrop: must include an aerial/cityscape context for the floating structure\\nLighting/mood: needs a sustainable-future atmosphere — exact light source mix is yours\\nColor palette: needs a clean, white-forward direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12474
+}

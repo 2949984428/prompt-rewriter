@@ -1,0 +1,23 @@
+{
+  "query_idx": 287,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张商用宣传图 —— 以 #1 图中的产品为主体，采用 #2 图的视觉风格，整体使用 neo brutalism 风格。\n\n风格/媒介: neo brutalism；参考 #2 图的风格语言\n构图: 适配微信朋友圈竖版比例，主体产品突出居中或视觉重心明确\n主体: #1 图中的产品\n场景/背景: 符合 neo brutalism 风格的背景处理\n光线/氛围: neo brutalism 典型的强对比、硬朗氛围\n色彩方案: 参考 neo brutalism 惯用的高饱和撞色或黑白粗线条配色\n材质/纹理: 粗边框、硬阴影、平面感纹理，符合 neo brutalism 特征\n文字(原样):\n约束:\n  产品形象来自 #1 图\n  视觉风格参考 #2 图\n  用途为微信朋友圈商用宣传图\n避免: 写实摄影质感；柔光渐变；过度装饰性插画风格",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6ae8ce22-6b7d-4af2-8ffe-dea4bedac8e3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张商用宣传图 —— 以 #1 图中的产品为主体，采用 #2 图的视觉风格，整体使用 neo brutalism 风格。\\n\\n风格/媒介: neo brutalism；参考 #2 图的风格语言\\n构图: 适配微信朋友圈竖版比例，主体产品突出居中或视觉重心明确\\n主体: #1 图中的产品\\n场景/背景: 符合 neo brutalism 风格的背景处理\\n光线/氛围: neo brutalism 典型的强对比、硬朗氛围\\n色彩方案: 参考 neo brutalism 惯用的高饱和撞色或黑白粗线条配色\\n材质/纹理: 粗边框、硬阴影、平面感纹理，符合 neo brutalism 特征\\n文字(原样):\\n约束:\\n  产品形象来自 #1 图\\n  视觉风格参考 #2 图\\n  用途为微信朋友圈商用宣传图\\n避免: 写实摄影质感；柔光渐变；过度装饰性插画风格\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 19120,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

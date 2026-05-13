@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing short-video vertical cover image for a gaming monitor product launch, intended for a Douyin / TikTok / Reels short-video cover.\n\nStyle/medium: minimalist premium product cover, sleek tech aesthetic\nComposition: rule-of-thirds layout — large bold headline anchored in upper third, monitor hero shot centered, tagline in lower third\nSubject: GGU gaming monitor, ultra-modern industrial design, facing viewer\nScene/backdrop: dark near-black background with subtle tech-gradient or faint light sweep\nLighting/mood: dramatic single-source highlight on monitor bezel, cool-blue accent glow suggesting speed and precision\nColor palette: deep black / charcoal base, electric blue or white accent, high contrast\nMaterials/textures: glossy monitor surface, metallic stand\nText (verbatim): \"8K GGU 电竞显示器 1000Hz\" as oversized hero headline; \"全球首发 全新面板 低延迟 完美色彩\" as subtitle line\nConstraints: vertical 9:16 format, headline must be the dominant visual element and immediately eye-catching, rule-of-thirds composition strictly observed\nAvoid: cluttered layout, warm color tones, generic stock-photo style, decorative gradients that reduce readability",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e6c5e159-3a6b-4d8e-b267-9b6549aeea28/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing short-video vertical cover image for a gaming monitor product launch, intended for a Douyin / TikTok / Reels short-video cover.\\n\\nStyle/medium: minimalist premium product cover, sleek tech aesthetic\\nComposition: rule-of-thirds layout — large bold headline anchored in upper third, monitor hero shot centered, tagline in lower third\\nSubject: GGU gaming monitor, ultra-modern industrial design, facing viewer\\nScene/backdrop: dark near-black background with subtle tech-gradient or faint light sweep\\nLighting/mood: dramatic single-source highlight on monitor bezel, cool-blue accent glow suggesting speed and precision\\nColor palette: deep black / charcoal base, electric blue or white accent, high contrast\\nMaterials/textures: glossy monitor surface, metallic stand\\nText (verbatim): \\\"8K GGU 电竞显示器 1000Hz\\\" as oversized hero headline; \\\"全球首发 全新面板 低延迟 完美色彩\\\" as subtitle line\\nConstraints: vertical 9:16 format, headline must be the dominant visual element and immediately eye-catching, rule-of-thirds composition strictly observed\\nAvoid: cluttered layout, warm color tones, generic stock-photo style, decorative gradients that reduce readability\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9966
+}

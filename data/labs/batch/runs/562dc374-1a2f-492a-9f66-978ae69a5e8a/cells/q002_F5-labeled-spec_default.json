@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-art\nAsset type: fine art print, vertical scroll\nPrimary request: traditional Chinese ink wash landscape painting with mountains, mist, pine trees, thatched cottage, and an old fisherman by the stream\nScene/backdrop: layered mountain ranges fading into distance, ethereal mist swirling between peaks, serene mountain stream in foreground\nSubject: distant mountains like dark ink wash, pine trees with gnarled branches, rustic thatched-roof cottage, elderly scholar in traditional robes fishing by the stream\nStyle/medium: traditional Chinese ink wash painting (shanshui), xieyi freehand brushwork, rice paper texture\nComposition/framing: vertical scroll format, three-layer composition (foreground stream and figure, middle ground trees and cottage, background misty peaks), generous negative space\nLighting/mood: soft diffused natural light through mist, tranquil and contemplative atmosphere, ethereal and timeless\nColor palette: monochromatic ink tones (black, gray, white), subtle blue-green mineral accents on distant peaks, warm sepia on cottage\nMaterials/textures: rice paper absorbency, dry brush texture for pine bark, wet ink bleeding for mist, calligraphic line work\nConstraints: preserve traditional Chinese painting aesthetics, maintain intentional negative space (liu bai), emphasize spiritual emptiness and vastness\nAvoid: photorealistic detail, bright saturated colors, western perspective, heavy outlines, cluttered composition",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ea79a888-16b2-420e-a6a5-04c631e0529a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-art\\nAsset type: fine art print, vertical scroll\\nPrimary request: traditional Chinese ink wash landscape painting with mountains, mist, pine trees, thatched cottage, and an old fisherman by the stream\\nScene/backdrop: layered mountain ranges fading into distance, ethereal mist swirling between peaks, serene mountain stream in foreground\\nSubject: distant mountains like dark ink wash, pine trees with gnarled branches, rustic thatched-roof cottage, elderly scholar in traditional robes fishing by the stream\\nStyle/medium: traditional Chinese ink wash painting (shanshui), xieyi freehand brushwork, rice paper texture\\nComposition/framing: vertical scroll format, three-layer composition (foreground stream and figure, middle ground trees and cottage, background misty peaks), generous negative space\\nLighting/mood: soft diffused natural light through mist, tranquil and contemplative atmosphere, ethereal and timeless\\nColor palette: monochromatic ink tones (black, gray, white), subtle blue-green mineral accents on distant peaks, warm sepia on cottage\\nMaterials/textures: rice paper absorbency, dry brush texture for pine bark, wet ink bleeding for mist, calligraphic line work\\nConstraints: preserve traditional Chinese painting aesthetics, maintain intentional negative space (liu bai), emphasize spiritual emptiness and vastness\\nAvoid: photorealistic detail, bright saturated colors, western perspective, heavy outlines, cluttered composition\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11876
+}

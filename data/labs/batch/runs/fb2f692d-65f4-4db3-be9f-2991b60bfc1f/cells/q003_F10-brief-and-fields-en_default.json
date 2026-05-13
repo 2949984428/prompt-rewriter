@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing logo for a tech-lifestyle content creator covering EVs, gadgets, and daily essentials.\n\nStyle/medium: clean flat vector logo, universal minimalist aesthetic, works across Chinese and Western social platforms\nSubject: abstract geometric mark suggesting energy flow and connectivity, balanced with modern sans-serif wordmark\nComposition: centered mark with generous padding, scalable for circular crop (profile picture format)\nColor palette: neutral base (deep charcoal or warm gray) with one accent color (electric blue or amber), monochrome version must work\nConstraints: must read clearly at 32x32 favicon and 400x400 profile picture; monochrome version must work without color; no culturally sensitive symbols or colors; avoid imagery that could offend religious, political, or regional groups\nAvoid: national flags or patriotic symbols; religious iconography; hand gestures; animal symbols with cultural baggage; complex gradients; photorealistic elements; trendy design clichés that date quickly",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0e093770-d9da-46b9-98ed-5b37f8b99988/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing logo for a tech-lifestyle content creator covering EVs, gadgets, and daily essentials.\\n\\nStyle/medium: clean flat vector logo, universal minimalist aesthetic, works across Chinese and Western social platforms\\nSubject: abstract geometric mark suggesting energy flow and connectivity, balanced with modern sans-serif wordmark\\nComposition: centered mark with generous padding, scalable for circular crop (profile picture format)\\nColor palette: neutral base (deep charcoal or warm gray) with one accent color (electric blue or amber), monochrome version must work\\nConstraints: must read clearly at 32x32 favicon and 400x400 profile picture; monochrome version must work without color; no culturally sensitive symbols or colors; avoid imagery that could offend religious, political, or regional groups\\nAvoid: national flags or patriotic symbols; religious iconography; hand gestures; animal symbols with cultural baggage; complex gradients; photorealistic elements; trendy design clichés that date quickly\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9045
+}

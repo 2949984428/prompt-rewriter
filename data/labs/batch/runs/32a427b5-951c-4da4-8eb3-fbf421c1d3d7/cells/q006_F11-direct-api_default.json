@@ -1,0 +1,18 @@
+{
+  "query_idx": 6,
+  "skill_id": "F11-direct-api",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "大话西游海报，重置为90年代港片风格，至尊宝紫霞城墙拥吻，远处站着牛魔王和唐僧，胶片颗粒",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_9a74c07541c941b4816ec968b24bf69b.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"大话西游海报，重置为90年代港片风格，至尊宝紫霞城墙拥吻，远处站着牛魔王和唐僧，胶片颗粒\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 3797
+}

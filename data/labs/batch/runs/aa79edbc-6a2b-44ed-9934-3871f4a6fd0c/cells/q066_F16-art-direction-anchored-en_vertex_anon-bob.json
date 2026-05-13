@@ -1,0 +1,23 @@
+{
+  "query_idx": 66,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计柠檬茶饮品牌延展物料。\n\n风格/媒介：品牌视觉物料延展，高级感，非土味\n构图：\n主体：柠檬茶饮品牌，基于已有辅助图形与品牌 logo 延展\n场景/背景：\n光线/氛围：\n色彩方案：沿用参考图 #1 与参考图 #2 中的品牌色系\n材质/纹理：\n文字(原样)：\n约束：\n  严格遵循参考图 #1（辅助图形）与参考图 #2（品牌 logo）的视觉语言\n  物料延展需与原有品牌识别保持一致\n  不得引入与原品牌风格矛盾的元素\n避免：土味感、廉价感",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6f6175c5-3952-4069-8196-39639c6cd9e4/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计柠檬茶饮品牌延展物料。\\n\\n风格/媒介：品牌视觉物料延展，高级感，非土味\\n构图：\\n主体：柠檬茶饮品牌，基于已有辅助图形与品牌 logo 延展\\n场景/背景：\\n光线/氛围：\\n色彩方案：沿用参考图 #1 与参考图 #2 中的品牌色系\\n材质/纹理：\\n文字(原样)：\\n约束：\\n  严格遵循参考图 #1（辅助图形）与参考图 #2（品牌 logo）的视觉语言\\n  物料延展需与原有品牌识别保持一致\\n  不得引入与原品牌风格矛盾的元素\\n避免：土味感、廉价感\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5912,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

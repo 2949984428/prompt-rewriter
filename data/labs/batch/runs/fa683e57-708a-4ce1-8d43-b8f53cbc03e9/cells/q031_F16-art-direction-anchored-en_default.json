@@ -1,0 +1,20 @@
+{
+  "query_idx": 31,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design illustration of a tea room (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"新中式\" aesthetic — references in the spirit of 宋画 ink-and-color tradition, 明代文人书房 spatial composition, 隈研吾 contemporary natural material integration; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a solid wood tea table (原木茶台), purple clay teapot and tea cups (紫砂壶和茶杯), bonsai (盆景)\nScene/backdrop: must include calligraphy scrolls (书法卷轴) as background, bamboo shadows swaying outside the window (窗外竹影婆娑)\nLighting/mood: needs a serene, contemplative atmosphere for tea meditation (禅意盎然, 品茗静思) — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bb4a84b5-a733-473e-8abf-effba6ce5732/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an interior design illustration of a tea room (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"新中式\\\" aesthetic — references in the spirit of 宋画 ink-and-color tradition, 明代文人书房 spatial composition, 隈研吾 contemporary natural material integration; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a solid wood tea table (原木茶台), purple clay teapot and tea cups (紫砂壶和茶杯), bonsai (盆景)\\nScene/backdrop: must include calligraphy scrolls (书法卷轴) as background, bamboo shadows swaying outside the window (窗外竹影婆娑)\\nLighting/mood: needs a serene, contemplative atmosphere for tea meditation (禅意盎然, 品茗静思) — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9991
+}

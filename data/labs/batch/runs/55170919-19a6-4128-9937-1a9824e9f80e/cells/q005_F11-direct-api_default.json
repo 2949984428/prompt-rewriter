@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一个解释如下概念的定义和概念之间关系的信息图，手绘风格，图文并茂，浅显易懂，概念有：AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1fdb9529-02ce-4de0-b0d9-539fcb8945a6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"生成一个解释如下概念的定义和概念之间关系的信息图，手绘风格，图文并茂，浅显易懂，概念有：AI、MCP、AI Agent、OpenClaw、AI Skill、蒸馏、CLI\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10081
+}

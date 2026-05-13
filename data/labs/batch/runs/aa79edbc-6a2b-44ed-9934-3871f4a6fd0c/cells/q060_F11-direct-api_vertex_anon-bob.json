@@ -1,0 +1,23 @@
+{
+  "query_idx": 60,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一款姓氏logo， 徐，突出食养，手工，风格要有文化内涵，参考风格[@image:#1:ScreenShot_2026-04-21_225017_882][@image:#2:ScreenShot_2026-04-22_232756_664][@image:#3:ScreenShot_2026-04-22_232803_252][@image:#4:ScreenShot_2026-04-22_232814_689]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1785332b-8624-4234-b76b-69ee06f7a7bc/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一款姓氏logo， 徐，突出食养，手工，风格要有文化内涵，参考风格[@image:#1:ScreenShot_2026-04-21_225017_882][@image:#2:ScreenShot_2026-04-22_232756_664][@image:#3:ScreenShot_2026-04-22_232803_252][@image:#4:ScreenShot_2026-04-22_232814_689]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3589,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 31,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: interior-design-render\nAsset type: editorial interior photography, lifestyle magazine spread\nPrimary request: serene Chinese Zen tea room with natural wood tea table, Yixing clay teapot and cups, calligraphy scroll and bonsai as backdrop, bamboo shadows visible through window\nScene/backdrop: traditional Chinese tea room interior, floor-to-ceiling window overlooking bamboo grove, soft daylight filtering through leaves creating dappled shadows\nSubject: minimalist tea ceremony setup on solid wood tea table, authentic Yixing purple clay teapot with matching cups, aged calligraphy scroll hanging on wall, carefully pruned bonsai tree on wooden stand\nStyle/medium: contemporary Chinese interior design photography, soft naturalistic rendering\nComposition/framing: wide establishing shot, eye-level perspective, balanced symmetry with tea table as central anchor\nLighting/mood: soft diffused natural light from window, gentle shadows of bamboo leaves dancing on walls, tranquil and contemplative atmosphere\nColor palette: warm natural wood tones + deep brown clay + ink black calligraphy + fresh green bamboo + muted cream paper\nMaterials/textures: smooth polished wood grain, porous unglazed clay teaware, rice paper scroll texture, delicate bonsai foliage, translucent bamboo leaves\nConstraints: maintain authentic Chinese tea culture aesthetic, emphasize harmony between interior and nature\nAvoid: overly saturated colors, modern plastic materials, cluttered composition, artificial lighting, Western furniture elements",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/827ccfb1-5ca2-41f9-a148-1117bba33d3e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: interior-design-render\\nAsset type: editorial interior photography, lifestyle magazine spread\\nPrimary request: serene Chinese Zen tea room with natural wood tea table, Yixing clay teapot and cups, calligraphy scroll and bonsai as backdrop, bamboo shadows visible through window\\nScene/backdrop: traditional Chinese tea room interior, floor-to-ceiling window overlooking bamboo grove, soft daylight filtering through leaves creating dappled shadows\\nSubject: minimalist tea ceremony setup on solid wood tea table, authentic Yixing purple clay teapot with matching cups, aged calligraphy scroll hanging on wall, carefully pruned bonsai tree on wooden stand\\nStyle/medium: contemporary Chinese interior design photography, soft naturalistic rendering\\nComposition/framing: wide establishing shot, eye-level perspective, balanced symmetry with tea table as central anchor\\nLighting/mood: soft diffused natural light from window, gentle shadows of bamboo leaves dancing on walls, tranquil and contemplative atmosphere\\nColor palette: warm natural wood tones + deep brown clay + ink black calligraphy + fresh green bamboo + muted cream paper\\nMaterials/textures: smooth polished wood grain, porous unglazed clay teaware, rice paper scroll texture, delicate bonsai foliage, translucent bamboo leaves\\nConstraints: maintain authentic Chinese tea culture aesthetic, emphasize harmony between interior and nature\\nAvoid: overly saturated colors, modern plastic materials, cluttered composition, artificial lighting, Western furniture elements\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12146
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a realistic screenshot of a 抖音 live-stream featuring 神仙姐姐 holding a handwritten sign.\n\nStyle/medium: needs a realistic 抖音 live-stream screenshot aesthetic — exact stylistic execution is yours\nComposition: must be a vertical 9:16 live-stream UI layout with typical 抖音 overlay elements (comment bar, like button, viewer count, etc.)\nSubject: must include 神仙姐姐 as the live-stream host, holding a sign in front of her\nScene/backdrop: needs a casual indoor live-stream backdrop — exact setting is yours\nLighting/mood: needs a warm, intimate live-stream atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign she is holding\nConstraints: must preserve 抖音 live-stream UI framing; sign must be clearly legible and held up by 神仙姐姐\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A32761f0c-2467-4a16-a542-521fc0c4a3cc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a realistic screenshot of a 抖音 live-stream featuring 神仙姐姐 holding a handwritten sign.\\n\\nStyle/medium: needs a realistic 抖音 live-stream screenshot aesthetic — exact stylistic execution is yours\\nComposition: must be a vertical 9:16 live-stream UI layout with typical 抖音 overlay elements (comment bar, like button, viewer count, etc.)\\nSubject: must include 神仙姐姐 as the live-stream host, holding a sign in front of her\\nScene/backdrop: needs a casual indoor live-stream backdrop — exact setting is yours\\nLighting/mood: needs a warm, intimate live-stream atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign she is holding\\nConstraints: must preserve 抖音 live-stream UI framing; sign must be clearly legible and held up by 神仙姐姐\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9406
+}

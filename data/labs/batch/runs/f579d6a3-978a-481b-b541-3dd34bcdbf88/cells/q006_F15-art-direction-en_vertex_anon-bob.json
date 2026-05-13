@@ -1,0 +1,21 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster reimagining 大话西游 in a 90s Hong Kong cinema style.\n\nStyle/medium: needs a 90年代港片 film aesthetic — exact stylistic execution is yours\nComposition: must include foreground couple embracing against a city wall, two figures standing in the distance\nSubject: must include 至尊宝 and 紫霞 sharing a kiss against a city wall (foreground), 牛魔王 and 唐僧 standing in the background (distant)\nScene/backdrop: must include a dramatic city wall setting with cinematic depth\nLighting/mood: needs a 90年代港片 dramatic, melancholic atmosphere — exact light source mix is yours\nColor palette: needs a warm, faded, filmic direction — exact tones and ratios are yours\nMaterials/textures: needs a film-grain surface treatment — exact grain level is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A8f7520c2-8b90-4907-b948-700df2247dd4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster reimagining 大话西游 in a 90s Hong Kong cinema style.\\n\\nStyle/medium: needs a 90年代港片 film aesthetic — exact stylistic execution is yours\\nComposition: must include foreground couple embracing against a city wall, two figures standing in the distance\\nSubject: must include 至尊宝 and 紫霞 sharing a kiss against a city wall (foreground), 牛魔王 and 唐僧 standing in the background (distant)\\nScene/backdrop: must include a dramatic city wall setting with cinematic depth\\nLighting/mood: needs a 90年代港片 dramatic, melancholic atmosphere — exact light source mix is yours\\nColor palette: needs a warm, faded, filmic direction — exact tones and ratios are yours\\nMaterials/textures: needs a film-grain surface treatment — exact grain level is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7465
+}

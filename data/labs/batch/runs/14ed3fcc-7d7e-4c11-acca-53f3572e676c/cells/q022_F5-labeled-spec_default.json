@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: classical-oil-painting-portrait\nAsset type: museum-quality portrait painting, vertical canvas\nPrimary request: Rembrandt-style chiaroscuro portrait of a contemporary East Asian professional woman in her mid-30s, holding a thick heavy book\nScene/backdrop: deep dark brown background, near-featureless, all attention drawn to the subject's face\nSubject: East Asian woman, approximately 35 years old, wearing a dark navy/charcoal business suit, intelligent and resolute expression, one hand holding a thick heavy book with visible knuckle and skin texture detail\nStyle/medium: Dutch Golden Age oil painting, Rembrandt technique, thick impasto brushwork, visible oil paint texture and layered glazing\nComposition/framing: classic portrait framing, bust-to-waist, slight three-quarter angle, face as focal point\nLighting/mood: Rembrandt lighting — warm key light illuminating one side of the face with a distinct triangular highlight on the cheek, opposite side softly receding into shadow; solemn, dignified, introspective mood\nColor palette: burnt umber, raw sienna, deep crimson, dark brown; bright warm white reserved only for the facial highlight zone; no cool tones\nMaterials/textures: thick impasto oil paint strokes, visible bristle marks, rich glazed shadows, fine skin texture on face and hands, fabric weave on suit\nConstraints: maintain classical Rembrandt triangle highlight on face; keep background nearly detail-free; preserve fine hand and knuckle rendering; no modern photographic look\nAvoid: photorealistic rendering, smooth digital illustration, bright or colorful background, flat lighting, contemporary art style",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e7605b17-ee75-492a-877a-66e5ff97431b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: classical-oil-painting-portrait\\nAsset type: museum-quality portrait painting, vertical canvas\\nPrimary request: Rembrandt-style chiaroscuro portrait of a contemporary East Asian professional woman in her mid-30s, holding a thick heavy book\\nScene/backdrop: deep dark brown background, near-featureless, all attention drawn to the subject's face\\nSubject: East Asian woman, approximately 35 years old, wearing a dark navy/charcoal business suit, intelligent and resolute expression, one hand holding a thick heavy book with visible knuckle and skin texture detail\\nStyle/medium: Dutch Golden Age oil painting, Rembrandt technique, thick impasto brushwork, visible oil paint texture and layered glazing\\nComposition/framing: classic portrait framing, bust-to-waist, slight three-quarter angle, face as focal point\\nLighting/mood: Rembrandt lighting — warm key light illuminating one side of the face with a distinct triangular highlight on the cheek, opposite side softly receding into shadow; solemn, dignified, introspective mood\\nColor palette: burnt umber, raw sienna, deep crimson, dark brown; bright warm white reserved only for the facial highlight zone; no cool tones\\nMaterials/textures: thick impasto oil paint strokes, visible bristle marks, rich glazed shadows, fine skin texture on face and hands, fabric weave on suit\\nConstraints: maintain classical Rembrandt triangle highlight on face; keep background nearly detail-free; preserve fine hand and knuckle rendering; no modern photographic look\\nAvoid: photorealistic rendering, smooth digital illustration, bright or colorful background, flat lighting, contemporary art style\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14104
+}

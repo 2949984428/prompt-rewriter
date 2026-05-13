@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a warm family gathering around a hot pot dinner.\n\nStyle/medium: needs a cozy, documentary-style aesthetic — exact stylistic execution is yours\nComposition: must include a round Chinese dining table as the focal point, family members raising glasses in a toast\nSubject: must include a family group gathered around the table, hot pot steaming in the center\nScene/backdrop: must include a wall covered with photos in the background, 中式圆桌 setting\nLighting/mood: needs warm yellow ambient lighting, a lively and heartwarming atmosphere — exact light source mix is yours\nColor palette: needs a warm, inviting direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must preserve the 烟火气 (lively, bustling) and 幸福感 (sense of happiness) mood\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fcdfefa5-c487-44d5-8572-98e5765d4d22/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a warm family gathering around a hot pot dinner.\\n\\nStyle/medium: needs a cozy, documentary-style aesthetic — exact stylistic execution is yours\\nComposition: must include a round Chinese dining table as the focal point, family members raising glasses in a toast\\nSubject: must include a family group gathered around the table, hot pot steaming in the center\\nScene/backdrop: must include a wall covered with photos in the background, 中式圆桌 setting\\nLighting/mood: needs warm yellow ambient lighting, a lively and heartwarming atmosphere — exact light source mix is yours\\nColor palette: needs a warm, inviting direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must preserve the 烟火气 (lively, bustling) and 幸福感 (sense of happiness) mood\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11496
+}

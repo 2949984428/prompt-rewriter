@@ -1,0 +1,28 @@
+{
+  "query_idx": 72,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Bead Bloom横版logo方案1] 这是多巴胺串珠饰品的品牌logo，帮我完善一下品牌全案（多张图片形式）品牌手册中应体现：VI基础部分（包logo的变体、配色、字体等）、品牌应用部分、产品展示图、产品包装、沉浸式零售图、跨平台品牌应用",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A54ef2ece-6836-4453-b94b-8cbf18380070/0.png",
+    "/api/image-file/lovart%3A54ef2ece-6836-4453-b94b-8cbf18380070/1.png",
+    "/api/image-file/lovart%3A54ef2ece-6836-4453-b94b-8cbf18380070/2.png",
+    "/api/image-file/lovart%3A54ef2ece-6836-4453-b94b-8cbf18380070/3.png",
+    "/api/image-file/lovart%3A54ef2ece-6836-4453-b94b-8cbf18380070/4.png",
+    "/api/image-file/lovart%3A54ef2ece-6836-4453-b94b-8cbf18380070/5.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Bead Bloom横版logo方案1] 这是多巴胺串珠饰品的品牌logo，帮我完善一下品牌全案（多张图片形式）品牌手册中应体现：VI基础部分（包logo的变体、配色、字体等）、品牌应用部分、产品展示图、产品包装、沉浸式零售图、跨平台品牌应用\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4003,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

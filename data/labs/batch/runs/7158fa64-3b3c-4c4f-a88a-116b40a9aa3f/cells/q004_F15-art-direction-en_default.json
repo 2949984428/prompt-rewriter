@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a presentation cover slide for the launch announcement of 长安起源 Q06.\n\nStyle/medium: needs a premium, expansive aesthetic — exact stylistic execution is yours\nComposition: must include large primary title centered/upper, smaller subtitle below, with translucent background imagery\nSubject: must include \"长安起源 Q06\" as the product name, \"9月上市\" as the launch timing\nScene/backdrop: needs a transparent, awe-inspiring visual direction — exact imagery choice is yours\nLighting/mood: needs a premium launch atmosphere — exact light treatment is yours\nColor palette: needs a direction aligned with the 长安起源 brand identity — exact color values are yours\nMaterials/textures: needs a translucent, layered treatment — exact depth and opacity are yours\nText (verbatim): must include \"长安起源 Q06\" (title), \"9月上市\" (subtitle)\nConstraints: must preserve the brand identity of 长安起源, must work as a PPT cover slide\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f7364c20-d125-4dac-b3ba-30eb43536801/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a presentation cover slide for the launch announcement of 长安起源 Q06.\\n\\nStyle/medium: needs a premium, expansive aesthetic — exact stylistic execution is yours\\nComposition: must include large primary title centered/upper, smaller subtitle below, with translucent background imagery\\nSubject: must include \\\"长安起源 Q06\\\" as the product name, \\\"9月上市\\\" as the launch timing\\nScene/backdrop: needs a transparent, awe-inspiring visual direction — exact imagery choice is yours\\nLighting/mood: needs a premium launch atmosphere — exact light treatment is yours\\nColor palette: needs a direction aligned with the 长安起源 brand identity — exact color values are yours\\nMaterials/textures: needs a translucent, layered treatment — exact depth and opacity are yours\\nText (verbatim): must include \\\"长安起源 Q06\\\" (title), \\\"9月上市\\\" (subtitle)\\nConstraints: must preserve the brand identity of 长安起源, must work as a PPT cover slide\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11023
+}

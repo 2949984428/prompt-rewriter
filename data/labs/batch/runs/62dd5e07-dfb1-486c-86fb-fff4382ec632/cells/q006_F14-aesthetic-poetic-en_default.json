@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic poster for a reimagined \"A Chinese Odyssey\" (大话西游) in 1990s Hong Kong film style, featuring 至尊宝 and 紫霞 in a wall embrace, with 牛魔王 and 唐僧 standing in the distance.\n\nStyle/medium: 1990s Hong Kong cinema poster with the saturated film-grain soul of Stephen Chow's era — celluloid warmth, analog imperfection, the texture of a well-loved VHS sleeve\nComposition: mid-shot of the embracing couple centered on a crumbling ancient city wall, distant figures silhouetted against a wide dusk sky, vertical poster layout with generous sky above\nSubject: 至尊宝 and 紫霞 locked in a tender kiss against the city wall in the foreground; 牛魔王 and 唐僧 standing apart from each other in the far background, small against the horizon\nScene/backdrop: ancient stone city wall at golden dusk, crumbling parapets, vast open plain stretching to the horizon, heavy clouds catching the last light\nLighting/mood: the aching warmth of a last farewell — golden hour bleeding into deep amber, the kind of light that makes every moment feel borrowed and irreversible\nColor palette: burnt amber and dusty rose in the foreground warmth, cooling to muted indigo and slate at the horizon, the chromatic tension between love and loss\nMaterials/textures: heavy 35mm film grain throughout, slight color bleed at high-contrast edges, faded emulsion warmth, the tactile memory of analog celluloid\nText (verbatim): 大话西游\nConstraints: vertical poster format, film grain visible at all tonal ranges, figures clearly readable against backdrop\nAvoid: digital-clean rendering, CGI sheen, modern color grading, oversaturated fantasy palette, generic wuxia poster cliché",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/13ed8a61-9215-4300-99f7-da9e7db7d4e0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing cinematic poster for a reimagined \\\"A Chinese Odyssey\\\" (大话西游) in 1990s Hong Kong film style, featuring 至尊宝 and 紫霞 in a wall embrace, with 牛魔王 and 唐僧 standing in the distance.\\n\\nStyle/medium: 1990s Hong Kong cinema poster with the saturated film-grain soul of Stephen Chow's era — celluloid warmth, analog imperfection, the texture of a well-loved VHS sleeve\\nComposition: mid-shot of the embracing couple centered on a crumbling ancient city wall, distant figures silhouetted against a wide dusk sky, vertical poster layout with generous sky above\\nSubject: 至尊宝 and 紫霞 locked in a tender kiss against the city wall in the foreground; 牛魔王 and 唐僧 standing apart from each other in the far background, small against the horizon\\nScene/backdrop: ancient stone city wall at golden dusk, crumbling parapets, vast open plain stretching to the horizon, heavy clouds catching the last light\\nLighting/mood: the aching warmth of a last farewell — golden hour bleeding into deep amber, the kind of light that makes every moment feel borrowed and irreversible\\nColor palette: burnt amber and dusty rose in the foreground warmth, cooling to muted indigo and slate at the horizon, the chromatic tension between love and loss\\nMaterials/textures: heavy 35mm film grain throughout, slight color bleed at high-contrast edges, faded emulsion warmth, the tactile memory of analog celluloid\\nText (verbatim): 大话西游\\nConstraints: vertical poster format, film grain visible at all tonal ranges, figures clearly readable against backdrop\\nAvoid: digital-clean rendering, CGI sheen, modern color grading, oversaturated fantasy palette, generic wuxia poster cliché\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12819
+}

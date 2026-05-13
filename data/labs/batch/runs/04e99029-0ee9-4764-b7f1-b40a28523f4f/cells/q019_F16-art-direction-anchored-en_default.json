@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for UGREEN NAS brand 618 anniversary celebration e-commerce announcement.\n\nStyle/medium: needs a \"618周年庆\" e-commerce festive aesthetic — references in the spirit of Tmall Double 11 campaign visuals, 2010s Chinese e-commerce promotional poster tradition, JD.com 618 heritage; exact stylistic execution is yours\nComposition: \nSubject: must include \"绿联私有云\" brand context as the focal subject\nScene/backdrop: \nLighting/mood: needs a celebratory promotional atmosphere — exact light source mix is yours\nColor palette: needs a festive e-commerce direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"绿联私有云\"\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7decf5a5-b54b-4447-bc7d-c09e6a7b25b2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for UGREEN NAS brand 618 anniversary celebration e-commerce announcement.\\n\\nStyle/medium: needs a \\\"618周年庆\\\" e-commerce festive aesthetic — references in the spirit of Tmall Double 11 campaign visuals, 2010s Chinese e-commerce promotional poster tradition, JD.com 618 heritage; exact stylistic execution is yours\\nComposition: \\nSubject: must include \\\"绿联私有云\\\" brand context as the focal subject\\nScene/backdrop: \\nLighting/mood: needs a celebratory promotional atmosphere — exact light source mix is yours\\nColor palette: needs a festive e-commerce direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"绿联私有云\\\"\\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7630
+}

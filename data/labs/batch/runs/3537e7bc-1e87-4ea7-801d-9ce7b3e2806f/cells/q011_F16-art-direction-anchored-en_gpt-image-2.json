@@ -1,0 +1,21 @@
+{
+  "query_idx": 11,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "小红书封面，高级杂志感审美，\n主题文字：\"GPT-image-2\" 和 \"Lovart\"，\n构图：对角线构图，\n风格：高对比强调色，现代设计感，时尚杂志封面质感，简洁大气，视觉冲击力",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A9322e98d-7ccf-476a-abf8-0b5f8114e51e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"小红书封面，高级杂志感审美，\\n主题文字：\\\"GPT-image-2\\\" 和 \\\"Lovart\\\"，\\n构图：对角线构图，\\n风格：高对比强调色，现代设计感，时尚杂志封面质感，简洁大气，视觉冲击力\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7286
+}

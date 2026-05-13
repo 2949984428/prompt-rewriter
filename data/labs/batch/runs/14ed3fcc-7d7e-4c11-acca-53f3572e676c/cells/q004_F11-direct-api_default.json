@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "科幻概念艺术：2387年的火星殖民地全景图。红色荒漠地表上矗立着巨大的透明穹顶城市群，穹顶内部可见郁郁葱葱的植被和高楼建筑。穹顶外部有巨型太阳能采集阵列和大气层改造装置在运转。天空呈现火星特有的橙红色调，远处可见奥林匹斯山的轮廓。前景是一队身着先进宇航服的探险者正在进行地质勘探，旁边停放着多辆六轮驱动的火星车。整体风格参考硬科幻美学，写实主义渲染，光照模拟火星实际日照条件，色彩以赭红、橙黄、银灰为主色调，画面宏大壮观，充满未来感，电影级CGI质量。",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2a765e30-38e6-4cca-91e2-85da5f31801a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

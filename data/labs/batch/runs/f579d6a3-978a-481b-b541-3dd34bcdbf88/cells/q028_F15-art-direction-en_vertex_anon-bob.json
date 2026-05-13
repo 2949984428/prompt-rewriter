@@ -1,0 +1,21 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing product photo of a 字节跳动 employee ID badge, both front and back sides visible, with a realistic feel.\n\nStyle/medium: needs a realistic product-photography aesthetic — exact stylistic execution is yours\nComposition: must show both front and back sides of the badge\nSubject: must include a 字节跳动 employee ID badge (both sides)\nScene/backdrop: \nLighting/mood: needs a realistic, studio-quality atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a realistic lanyard, card surface, and print treatment — exact material finish is yours\nText (verbatim): \nConstraints: must preserve realistic ID badge proportions and both sides visible in one image\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A516120fb-c73c-425b-a16a-c94d3e85f6cb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing product photo of a 字节跳动 employee ID badge, both front and back sides visible, with a realistic feel.\\n\\nStyle/medium: needs a realistic product-photography aesthetic — exact stylistic execution is yours\\nComposition: must show both front and back sides of the badge\\nSubject: must include a 字节跳动 employee ID badge (both sides)\\nScene/backdrop: \\nLighting/mood: needs a realistic, studio-quality atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a realistic lanyard, card surface, and print treatment — exact material finish is yours\\nText (verbatim): \\nConstraints: must preserve realistic ID badge proportions and both sides visible in one image\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5954
+}

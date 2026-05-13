@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic explaining definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, and CLI.\n\nStyle/medium: needs a \"手绘\" (hand-drawn) aesthetic — references in the spirit of Edward Tufte's information design, 信息图 (infographic) illustration tradition, sketchnote visual thinking movement; exact stylistic execution is yours\nComposition: must include visual hierarchy showing concept definitions and their interconnections\nSubject: must include all 7 concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\nScene/backdrop: \nLighting/mood: needs an approachable, educational atmosphere — exact light treatment is yours\nColor palette: \nMaterials/textures: needs a hand-drawn, sketch-like surface treatment — exact paper texture and line weight is yours\nText (verbatim): must include concept labels \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must preserve all 7 concepts and their relationships, must be图文并茂 (image-text combined) and浅显易懂 (easy to understand)\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/424ef50e-6e93-465d-a1ad-6079f32d16a8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing infographic explaining definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, and CLI.\\n\\nStyle/medium: needs a \\\"手绘\\\" (hand-drawn) aesthetic — references in the spirit of Edward Tufte's information design, 信息图 (infographic) illustration tradition, sketchnote visual thinking movement; exact stylistic execution is yours\\nComposition: must include visual hierarchy showing concept definitions and their interconnections\\nSubject: must include all 7 concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\\nScene/backdrop: \\nLighting/mood: needs an approachable, educational atmosphere — exact light treatment is yours\\nColor palette: \\nMaterials/textures: needs a hand-drawn, sketch-like surface treatment — exact paper texture and line weight is yours\\nText (verbatim): must include concept labels \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must preserve all 7 concepts and their relationships, must be图文并茂 (image-text combined) and浅显易懂 (easy to understand)\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11677
+}

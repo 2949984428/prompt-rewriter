@@ -1,0 +1,18 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a movie poster for \"A Chinese Odyssey\" reinterpreted in 1990s Hong Kong cinema style.\n\nStyle/medium: must include 35mm film grain texture, needs a 1990s Hong Kong cinema aesthetic — exact stylistic execution is yours\nComposition: must feature Zhi Zunbao and Zixia in an embrace/kiss at the city wall as central focus, with Bull Demon King and Tang Monk standing in the distance\nSubject: must include Zhi Zunbao and Zixia (the central couple), Bull Demon King, and Tang Monk\nScene/backdrop: must include the iconic city wall from the film\nLighting/mood: needs a romantic yet dramatic atmosphere — exact light source mix is yours\nColor palette: needs a 1990s Hong Kong cinema color direction — exact grading is yours\nMaterials/textures: must include film grain texture\nText (verbatim): must include \"大话西游\"\nConstraints: must preserve the iconic wall scene composition, all four characters must be present\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_16f1422c08e2422c91bb8dbb612acb29.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"Create a movie poster for \\\"A Chinese Odyssey\\\" reinterpreted in 1990s Hong Kong cinema style.\\n\\nStyle/medium: must include 35mm film grain texture, needs a 1990s Hong Kong cinema aesthetic — exact stylistic execution is yours\\nComposition: must feature Zhi Zunbao and Zixia in an embrace/kiss at the city wall as central focus, with Bull Demon King and Tang Monk standing in the distance\\nSubject: must include Zhi Zunbao and Zixia (the central couple), Bull Demon King, and Tang Monk\\nScene/backdrop: must include the iconic city wall from the film\\nLighting/mood: needs a romantic yet dramatic atmosphere — exact light source mix is yours\\nColor palette: needs a 1990s Hong Kong cinema color direction — exact grading is yours\\nMaterials/textures: must include film grain texture\\nText (verbatim): must include \\\"大话西游\\\"\\nConstraints: must preserve the iconic wall scene composition, all four characters must be present\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9788
+}

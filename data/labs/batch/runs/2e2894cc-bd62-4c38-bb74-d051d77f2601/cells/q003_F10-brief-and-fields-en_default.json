@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing logo for a tech-lifestyle content creator focusing on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: clean flat vector logo, minimalist modern tech aesthetic, universal appeal across Eastern and Western markets\nSubject: abstract geometric mark suggesting energy flow or connection, paired with a simple monogram or symbol, balanced negative space\nComposition: centered mark with generous padding, scalable from small avatar to larger profile images\nColor palette: neutral base (slate gray or soft black) with one accent color (electric blue or sage green), avoids culturally sensitive color combinations\nText (verbatim): none\nConstraints: must read clearly at 64x64 avatar size; monochrome version must work without color; no religious, political, or culturally specific symbols; avoid hand gestures, animal motifs, or directional arrows that may carry unintended meanings\nAvoid: gradients unless essential; complex illustrations; culturally specific iconography; aggressive or controversial imagery; Behance generic flat style; religious symbols; national flags or patriotic elements",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7a85f198-4f8b-4b2a-8258-e4b2a76733f3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing logo for a tech-lifestyle content creator focusing on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: clean flat vector logo, minimalist modern tech aesthetic, universal appeal across Eastern and Western markets\\nSubject: abstract geometric mark suggesting energy flow or connection, paired with a simple monogram or symbol, balanced negative space\\nComposition: centered mark with generous padding, scalable from small avatar to larger profile images\\nColor palette: neutral base (slate gray or soft black) with one accent color (electric blue or sage green), avoids culturally sensitive color combinations\\nText (verbatim): none\\nConstraints: must read clearly at 64x64 avatar size; monochrome version must work without color; no religious, political, or culturally specific symbols; avoid hand gestures, animal motifs, or directional arrows that may carry unintended meanings\\nAvoid: gradients unless essential; complex illustrations; culturally specific iconography; aggressive or controversial imagery; Behance generic flat style; religious symbols; national flags or patriotic elements\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9566
+}

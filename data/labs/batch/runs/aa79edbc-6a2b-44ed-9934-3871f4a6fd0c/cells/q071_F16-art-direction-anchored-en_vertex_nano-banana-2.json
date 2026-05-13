@@ -1,0 +1,23 @@
+{
+  "query_idx": 71,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成品牌手册幻灯片第 1 页（封面）——\"萌宠星球\"品牌手册。\n\n风格/媒介: 现代简约、萌趣可爱、温暖亲和，幻灯片页面设计\n构图: 16:9 横版；主 Logo 居中展示；标题文字排版简洁优雅；大量留白\n主体: 品牌手册封面，Logo 图形（抽象猫科动物环抱心形）居中\n场景/背景: 纯白色背景，淡紫色点缀装饰\n光线/氛围: 温暖、柔和、干净\n色彩方案: 主色淡紫色（薰衣草紫，约 #D4C5E8），背景纯白，少量浅灰辅助\n材质/纹理:\n文字(原样): 萌宠星球 品牌手册 / Cute Planet Brand Guidelines\n约束: 16:9 比例；圆润粗体手绘感中文字体；字体层级清晰\n避免: 拉伸变形、高饱和色彩、复杂背景纹理",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A82fe3998-26bc-405a-86c6-f665db5bd17b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成品牌手册幻灯片第 1 页（封面）——\\\"萌宠星球\\\"品牌手册。\\n\\n风格/媒介: 现代简约、萌趣可爱、温暖亲和，幻灯片页面设计\\n构图: 16:9 横版；主 Logo 居中展示；标题文字排版简洁优雅；大量留白\\n主体: 品牌手册封面，Logo 图形（抽象猫科动物环抱心形）居中\\n场景/背景: 纯白色背景，淡紫色点缀装饰\\n光线/氛围: 温暖、柔和、干净\\n色彩方案: 主色淡紫色（薰衣草紫，约 #D4C5E8），背景纯白，少量浅灰辅助\\n材质/纹理:\\n文字(原样): 萌宠星球 品牌手册 / Cute Planet Brand Guidelines\\n约束: 16:9 比例；圆润粗体手绘感中文字体；字体层级清晰\\n避免: 拉伸变形、高饱和色彩、复杂背景纹理\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9759,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,15 @@
+{
+  "query_idx": 179,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"亚马逊 A+ 内容图，产品是平面土星星球闪钻项链。画面展示一位欧美女性佩戴该项链的优雅生活场景，背景为温暖的居家或咖啡馆氛围，柔和自然光。项链为主视觉焦点，土星星球造型闪钻细节清晰可见。西班牙语文字叠加：\\\"Collar de Saturno — Brilla como las estrellas\\\"，字体与背景色调自然融合。整体风格高端时尚，适合墨西哥市场女性消费者。\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"亚马逊 A+ 内容图，产品是平面土星星球闪钻项链。画面为产品特写与生活方式结合的版式，背景为深邃星空渐变色（深蓝到紫色），项链居中展示，闪钻在光线下熠熠生辉。左侧留白区域叠加西班牙语卖点文字：\\\"Diseño único del universo · Joyería que te hace brillar\\\"，字体为白色优雅衬线体，与星空背景协调。整体氛围神秘浪漫，适合墨西哥市场。\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"亚马逊 A+ 内容图，产品是平面土星星球闪钻项链。版式为左图右文布局：左侧展示欧美女性手持或佩戴项链的特写，皮肤细腻，指甲精致，背景为奶油白色简洁背景；右侧深色区域排列西班牙语卖点文字：\\\"✦ Elegancia galáctica ✦ Cierre seguro y cómodo ✦ Regalo perfecto para ella\\\"，每条卖点配小图标，字体与背景深色调自然融合。整体风格简约高端。\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"亚马逊 A+ 内容图，产品是平面土星星球闪钻项链。礼品场景版式：画面展示精美礼盒包装场景，项链放置在天鹅绒礼盒中，周围点缀玫瑰花瓣和星形装饰，背景为柔和玫瑰金色调。底部横幅叠加西班牙语文字：\\\"El regalo que ella siempre soñó — Perfecta para cada ocasión especial\\\"，字体为玫瑰金色烫金效果，与背景自然融合。整体氛围温馨浪漫，强调礼品属性，适合墨西哥节日市场。\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"亚马逊附图，场景图，1:1方图，产品是平面土星星球闪钻项链。欧美女性户外场景：一位欧美年轻女性在阳光明媚的户外（花园或街头），佩戴土星星球闪钻项链，微笑自信，项链在自然光下闪闪发光。背景虚化，绿植或建筑浅景深。无文字叠加，纯场景展示，光线温暖自然，整体氛围时尚活力，适合墨西哥市场审美。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"亚马逊附图，场景图，1:1方图，产品是平面土星星球闪钻项链。欧美女性晚宴场景：一位欧美女性身着优雅晚礼服，颈间佩戴土星星球闪钻项链，背景为柔和的餐厅烛光或派对灯光，项链闪钻在暖光下璀璨夺目。画面构图突出项链与整体造型的搭配，氛围高贵浪漫，无文字叠加，适合墨西哥高端消费场景。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"亚马逊附图，卖点图，1:1方图，产品是平面土星星球闪钻项链。极简白色背景，项链居中特写展示，闪钻细节清晰，土星星球造型立体感强。四周分布西班牙语卖点标注，箭头指向对应细节：\\\"Diseño plano y elegante · Circonitas brillantes · Colgante de Saturno único · Cadena ajustable\\\"，字体简洁现代，黑色或深灰色，与白色背景自然协调。整体风格干净专业。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"亚马逊附图，卖点图，1:1方图，产品是平面土星星球闪钻项链。深色星空背景（深蓝紫渐变），项链居中发光展示，闪钻反射星光效果。画面四角或底部排列西班牙语核心卖点图标组：\\\"⭐ Brillo deslumbrante\\\" / \\\"🪐 Diseño galáctico exclusivo\\\" / \\\"💝 Ideal como regalo\\\" / \\\"✨ Estilo versátil día y noche\\\"，图标与文字白色，与深色背景自然融合，整体氛围神秘时尚，强调产品独特星球设计卖点。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 36962,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

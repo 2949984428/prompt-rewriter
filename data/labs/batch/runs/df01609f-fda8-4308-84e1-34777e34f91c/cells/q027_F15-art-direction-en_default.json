@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing character illustration of a 汉服 woman playing guqin in a bamboo forest under moonlight (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a 古风 / 神秘东方 aesthetic suited for game character art (立绘) — exact stylistic execution is yours\nComposition: needs a vertical portrait framing befitting a game 立绘 — exact framing and angle are yours\nSubject: must include a 汉服 woman (one), seated and playing guqin, with flowing robes (衣袂飘飘), exuding an ethereal 仙气 presence\nScene/backdrop: must include a bamboo forest at night with moonlight filtering through bamboo leaves casting dappled shadows\nLighting/mood: needs a mysterious, moonlit atmosphere with 斑驳 light-and-shadow interplay through bamboo leaves — exact light source treatment is yours\nColor palette: needs a direction evoking cool moonlight and deep night with subtle warm accents — exact palette is yours\nMaterials/textures: needs delicate fabric and silk texture on the 汉服, and natural bamboo texture in the backdrop — exact surface treatment is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9b670417-5031-4037-b988-2038ea56db2f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing character illustration of a 汉服 woman playing guqin in a bamboo forest under moonlight (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a 古风 / 神秘东方 aesthetic suited for game character art (立绘) — exact stylistic execution is yours\\nComposition: needs a vertical portrait framing befitting a game 立绘 — exact framing and angle are yours\\nSubject: must include a 汉服 woman (one), seated and playing guqin, with flowing robes (衣袂飘飘), exuding an ethereal 仙气 presence\\nScene/backdrop: must include a bamboo forest at night with moonlight filtering through bamboo leaves casting dappled shadows\\nLighting/mood: needs a mysterious, moonlit atmosphere with 斑驳 light-and-shadow interplay through bamboo leaves — exact light source treatment is yours\\nColor palette: needs a direction evoking cool moonlight and deep night with subtle warm accents — exact palette is yours\\nMaterials/textures: needs delicate fabric and silk texture on the 汉服, and natural bamboo texture in the backdrop — exact surface treatment is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15908
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a photorealistic product shot of a sapphire ring with diamond pavé, showing fire and brilliance inside the gemstone.\n\nStyle/medium: photorealistic jewelry photography, macro product shot with shallow depth of field\nComposition: extreme close-up macro, eye-level angle, tight crop on ring face, soft bokeh\nSubject: oval-cut sapphire center stone with deep blue saturation, surrounded by brilliant-cut diamond pavé setting, platinum or white gold band\nScene/backdrop: pure black velvet background, seamless and textureless\nLighting/mood: dramatic studio lighting from multiple angles, creating internal fire and spectral dispersion (fire) within the sapphire, high contrast\nColor palette: deep royal blue as dominant, white diamond sparkle as accent, warm fire highlights, black negative space\nMaterials/textures: faceted gemstone with visible internal refraction, metallic band with subtle reflections, soft velvet matte surface\nAvoid: plastic-looking gems, flat lighting, cartoon reflections, oversaturated colors, watermark, 8K stuffer aesthetic",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/765f6e3a-05aa-4165-83cd-b1326c5b4374/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a photorealistic product shot of a sapphire ring with diamond pavé, showing fire and brilliance inside the gemstone.\\n\\nStyle/medium: photorealistic jewelry photography, macro product shot with shallow depth of field\\nComposition: extreme close-up macro, eye-level angle, tight crop on ring face, soft bokeh\\nSubject: oval-cut sapphire center stone with deep blue saturation, surrounded by brilliant-cut diamond pavé setting, platinum or white gold band\\nScene/backdrop: pure black velvet background, seamless and textureless\\nLighting/mood: dramatic studio lighting from multiple angles, creating internal fire and spectral dispersion (fire) within the sapphire, high contrast\\nColor palette: deep royal blue as dominant, white diamond sparkle as accent, warm fire highlights, black negative space\\nMaterials/textures: faceted gemstone with visible internal refraction, metallic band with subtle reflections, soft velvet matte surface\\nAvoid: plastic-looking gems, flat lighting, cartoon reflections, oversaturated colors, watermark, 8K stuffer aesthetic\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9175
+}

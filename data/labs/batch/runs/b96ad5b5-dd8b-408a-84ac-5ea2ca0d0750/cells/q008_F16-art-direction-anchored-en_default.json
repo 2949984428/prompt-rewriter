@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional poster for cross-border e-commerce marketing (all in-image text in Chinese).\n\nStyle/medium: needs a \"promotional\" aesthetic with layered typography and visual complexity — references in the spirit of 2020s Chinese e-commerce campaign graphics, Japanese ポスター (poster) maximalist tradition, contemporary streetwear brand lookbooks; exact stylistic execution is yours\nComposition: must be 16:9 aspect ratio, must include artistic typography with font stacking/layering, must include products or main subject partially overlapping/obscuring some text elements, must achieve complex but not cluttered visual density\nSubject: must include e-commerce products or promotional subject as focal element\nScene/backdrop: \nLighting/mood: needs a promotional campaign atmosphere — exact light treatment is yours\nColor palette: needs a commercial promotional direction — exact color values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must include artistic typography, font stacking, product/subject overlapping text, complex but organized composition, 16:9 aspect ratio\nAvoid: must avoid cluttered/chaotic visual organization",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/48d46fd7-1d67-4a78-9ba1-fa0f99138eea/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a promotional poster for cross-border e-commerce marketing (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"promotional\\\" aesthetic with layered typography and visual complexity — references in the spirit of 2020s Chinese e-commerce campaign graphics, Japanese ポスター (poster) maximalist tradition, contemporary streetwear brand lookbooks; exact stylistic execution is yours\\nComposition: must be 16:9 aspect ratio, must include artistic typography with font stacking/layering, must include products or main subject partially overlapping/obscuring some text elements, must achieve complex but not cluttered visual density\\nSubject: must include e-commerce products or promotional subject as focal element\\nScene/backdrop: \\nLighting/mood: needs a promotional campaign atmosphere — exact light treatment is yours\\nColor palette: needs a commercial promotional direction — exact color values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must include artistic typography, font stacking, product/subject overlapping text, complex but organized composition, 16:9 aspect ratio\\nAvoid: must avoid cluttered/chaotic visual organization\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11241
+}

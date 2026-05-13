@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: medical education poster, brand visual\nPrimary request: macro-micro composite visualization of human nervous system combining full-body neural network with magnified neuron anatomy\nScene/backdrop: deep cosmic black void with subtle starfield, creating sense of vastness and mystery\nSubject: semi-transparent human silhouette with glowing blue-white neural pathways extending from cerebral cortex through spinal cord to peripheral extremities; magnified inset showing detailed neuron structure including dendrites, axon, myelin sheath, and synaptic vesicles with neurotransmitter particles dispersing across synaptic cleft\nStyle/medium: scientific visualization blending medical illustration precision with artistic poster impact, digital 3D render with ethereal glow effects\nComposition/framing: centered full-body figure with neural network as primary focal point, circular magnified detail inset positioned at lower right showing cellular level\nLighting/mood: bioluminescent glow from neural pathways against dark cosmic background, dramatic contrast creating awe and scientific wonder\nColor palette: cool blues, cyan-white luminescence, deep cosmic black, subtle gold accents for synaptic highlights\nMaterials/textures: semi-transparent organic silhouette, fiber-optic neural lines with soft glow, cellular structures with scientific accuracy, particle effects for neurotransmitters\nConstraints: maintain medical accuracy in neuron anatomy, preserve the cosmic-neural visual metaphor, ensure both macro and micro scales are clearly readable\nAvoid: cartoonish simplification, cluttered background, warm color dominance, blurry cellular details, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2e23cbf7-8b34-4712-8823-b90ede493d58/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: medical education poster, brand visual\\nPrimary request: macro-micro composite visualization of human nervous system combining full-body neural network with magnified neuron anatomy\\nScene/backdrop: deep cosmic black void with subtle starfield, creating sense of vastness and mystery\\nSubject: semi-transparent human silhouette with glowing blue-white neural pathways extending from cerebral cortex through spinal cord to peripheral extremities; magnified inset showing detailed neuron structure including dendrites, axon, myelin sheath, and synaptic vesicles with neurotransmitter particles dispersing across synaptic cleft\\nStyle/medium: scientific visualization blending medical illustration precision with artistic poster impact, digital 3D render with ethereal glow effects\\nComposition/framing: centered full-body figure with neural network as primary focal point, circular magnified detail inset positioned at lower right showing cellular level\\nLighting/mood: bioluminescent glow from neural pathways against dark cosmic background, dramatic contrast creating awe and scientific wonder\\nColor palette: cool blues, cyan-white luminescence, deep cosmic black, subtle gold accents for synaptic highlights\\nMaterials/textures: semi-transparent organic silhouette, fiber-optic neural lines with soft glow, cellular structures with scientific accuracy, particle effects for neurotransmitters\\nConstraints: maintain medical accuracy in neuron anatomy, preserve the cosmic-neural visual metaphor, ensure both macro and micro scales are clearly readable\\nAvoid: cartoonish simplification, cluttered background, warm color dominance, blurry cellular details, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12029
+}

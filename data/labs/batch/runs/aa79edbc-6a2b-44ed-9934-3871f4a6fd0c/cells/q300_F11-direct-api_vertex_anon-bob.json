@@ -1,0 +1,23 @@
+{
+  "query_idx": 300,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "deixe a logotipo da LV maior para mais destaque em uma thumbnail para o youtube (mais não de forma exagerada e do outro lado do terno, também deixe a gravata borboleta com um degrade verde amarelo representando as cores do brasil)",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af9572ba4-3317-4bb9-bbec-6cae02cadb67/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"deixe a logotipo da LV maior para mais destaque em uma thumbnail para o youtube (mais não de forma exagerada e do outro lado do terno, também deixe a gravata borboleta com um degrade verde amarelo representando as cores do brasil)\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3442,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

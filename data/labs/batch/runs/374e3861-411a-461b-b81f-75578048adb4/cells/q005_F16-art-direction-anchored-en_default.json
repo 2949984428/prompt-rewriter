@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing sci-fi space scene featuring an astronaut floating in Earth orbit.\n\nStyle/medium: needs a \"科幻\" space aesthetic — references in the spirit of 2001: A Space Odyssey cinematic grandeur, NASA Apollo photography heritage, 1970s sci-fi book cover illustration tradition; exact stylistic execution is yours\nComposition: must include space station structures at the image edges, astronaut as central focal subject\nSubject: must include an astronaut in detailed spacesuit\nScene/backdrop: must include Earth orbit context, the Milky Way and nebulae in the background\nLighting/mood: needs a majestic, awe-inspiring atmosphere with Earth-reflected light — exact light source mix is yours\nColor palette: needs a cosmic direction with starlight and nebula hues — exact color values are yours\nMaterials/textures: needs detailed spacesuit surface treatment — exact material finish is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/19e02be4-3f84-425d-824c-17fc65e1bd39/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing sci-fi space scene featuring an astronaut floating in Earth orbit.\\n\\nStyle/medium: needs a \\\"科幻\\\" space aesthetic — references in the spirit of 2001: A Space Odyssey cinematic grandeur, NASA Apollo photography heritage, 1970s sci-fi book cover illustration tradition; exact stylistic execution is yours\\nComposition: must include space station structures at the image edges, astronaut as central focal subject\\nSubject: must include an astronaut in detailed spacesuit\\nScene/backdrop: must include Earth orbit context, the Milky Way and nebulae in the background\\nLighting/mood: needs a majestic, awe-inspiring atmosphere with Earth-reflected light — exact light source mix is yours\\nColor palette: needs a cosmic direction with starlight and nebula hues — exact color values are yours\\nMaterials/textures: needs detailed spacesuit surface treatment — exact material finish is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11549
+}

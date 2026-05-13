@@ -1,0 +1,23 @@
+{
+  "query_idx": 20,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张圆形头像艺术图，风格为高端街头涂鸦品牌视觉。\n\n风格/媒介:\n  涂鸦街头艺术风格（graffiti street-art）\n  喷漆纹理、滴漆、粗糙边缘、墙面颜料不完美感\n  分层标签（layered tags）、模板印记（stencil marks）、手写体细节（handstyle details）\n  高端街头服饰品牌视觉（premium streetwear identity）\n\n构图:\n  圆形裁切构图，适合头像使用\n  中央巨型文字主导整体版面，粗体压缩字母，极强视觉存在感\n  顶部居中放置街头涂鸦喷漆风格皇冠图案\n  构图中部横穿一条裂缝 / 断裂效果线\n  高对比度，居中构图，强烈纵深感\n\n主体:\n  中央核心文字\"ADM 2D\"，粗体压缩字体，喷漆质感\n  顶部涂鸦风格皇冠（spray tag 手绘感）\n  侧边日文书法涂鸦标签（Japanese calligraphy graffiti tags）\n  底部区域整合现代 WhatsApp 联系栏融入艺术画面\n\n场景/背景:\n  深黑色背景混合混凝土墙面纹理\n  开裂水泥、隐约砖块、城市小巷氛围\n\n光线/氛围:\n  发光蓝色光效（glowing blue accents）\n  电影感阴影，强烈层次感\n  攻击性与独家感的视觉品牌氛围\n\n色彩方案:\n  蓝色霓虹涂鸦配色：电光蓝、宝蓝、白色高光\n\n材质/纹理:\n  喷漆纹理、滴漆痕迹、粗糙边缘\n  裂缝水泥、砖墙肌理\n  油漆飞溅、马克笔涂鸦、喷雾雾气、贴纸、划痕、半调网点（halftone dots）\n  分层撕裂海报、淡烟雾效果\n\n文字(原样):ADM 2D\n\n约束:\n  圆形构图，头像尺寸适配\n  参考附图构图结构与整体视觉强度\n\n避免:\n  干净现代简约风格\n  平面矢量感\n  柔和或低对比色调",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6539bd5f-454a-491f-bab6-7eb124149b13/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张圆形头像艺术图，风格为高端街头涂鸦品牌视觉。\\n\\n风格/媒介:\\n  涂鸦街头艺术风格（graffiti street-art）\\n  喷漆纹理、滴漆、粗糙边缘、墙面颜料不完美感\\n  分层标签（layered tags）、模板印记（stencil marks）、手写体细节（handstyle details）\\n  高端街头服饰品牌视觉（premium streetwear identity）\\n\\n构图:\\n  圆形裁切构图，适合头像使用\\n  中央巨型文字主导整体版面，粗体压缩字母，极强视觉存在感\\n  顶部居中放置街头涂鸦喷漆风格皇冠图案\\n  构图中部横穿一条裂缝 / 断裂效果线\\n  高对比度，居中构图，强烈纵深感\\n\\n主体:\\n  中央核心文字\\\"ADM 2D\\\"，粗体压缩字体，喷漆质感\\n  顶部涂鸦风格皇冠（spray tag 手绘感）\\n  侧边日文书法涂鸦标签（Japanese calligraphy graffiti tags）\\n  底部区域整合现代 WhatsApp 联系栏融入艺术画面\\n\\n场景/背景:\\n  深黑色背景混合混凝土墙面纹理\\n  开裂水泥、隐约砖块、城市小巷氛围\\n\\n光线/氛围:\\n  发光蓝色光效（glowing blue accents）\\n  电影感阴影，强烈层次感\\n  攻击性与独家感的视觉品牌氛围\\n\\n色彩方案:\\n  蓝色霓虹涂鸦配色：电光蓝、宝蓝、白色高光\\n\\n材质/纹理:\\n  喷漆纹理、滴漆痕迹、粗糙边缘\\n  裂缝水泥、砖墙肌理\\n  油漆飞溅、马克笔涂鸦、喷雾雾气、贴纸、划痕、半调网点（halftone dots）\\n  分层撕裂海报、淡烟雾效果\\n\\n文字(原样):ADM 2D\\n\\n约束:\\n  圆形构图，头像尺寸适配\\n  参考附图构图结构与整体视觉强度\\n\\n避免:\\n  干净现代简约风格\\n  平面矢量感\\n  柔和或低对比色调\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 25063,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

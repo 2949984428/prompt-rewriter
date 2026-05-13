@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\n\nStyle/medium: needs a technical exploded-diagram aesthetic — exact stylistic execution is yours\nComposition: must be exploded-view layout with all parts separated and spread outward from the camera body, clearly readable\nSubject: must include the Sony A7 camera fully disassembled into all its individual parts (body shell, sensor, shutter mechanism, lens mount, viewfinder, buttons, dials, battery compartment, memory card slot, ports, grip, circuit boards, mirror assembly, etc.)\nScene/backdrop: clean neutral background to maximize part legibility\nLighting/mood: \nColor palette: needs a clear, high-legibility direction — exact palette is yours\nMaterials/textures: \nText (verbatim): must include the label \"Sony A7\" on the main body; must include individual part names as annotation labels pointing to each component\nConstraints: must preserve all visible parts labeled with their correct technical names in Spanish; all labels must be legible and connected to their respective parts\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/12d2fac6-3fe4-4c59-823a-21437d1c2e65/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\\n\\nStyle/medium: needs a technical exploded-diagram aesthetic — exact stylistic execution is yours\\nComposition: must be exploded-view layout with all parts separated and spread outward from the camera body, clearly readable\\nSubject: must include the Sony A7 camera fully disassembled into all its individual parts (body shell, sensor, shutter mechanism, lens mount, viewfinder, buttons, dials, battery compartment, memory card slot, ports, grip, circuit boards, mirror assembly, etc.)\\nScene/backdrop: clean neutral background to maximize part legibility\\nLighting/mood: \\nColor palette: needs a clear, high-legibility direction — exact palette is yours\\nMaterials/textures: \\nText (verbatim): must include the label \\\"Sony A7\\\" on the main body; must include individual part names as annotation labels pointing to each component\\nConstraints: must preserve all visible parts labeled with their correct technical names in Spanish; all labels must be legible and connected to their respective parts\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7885
+}

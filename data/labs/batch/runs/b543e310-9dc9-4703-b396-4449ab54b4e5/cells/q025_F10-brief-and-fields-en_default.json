@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a Xiaohongshu (Little Red Book) cover image featuring a DJI Pocket 4 camera in a casual amateur creator style.\n\nStyle/medium: Xiaohongshu native content aesthetic, casual amateur creator vibe, playful and approachable visual language\nComposition: 9-grid layout structure, centered title placement, vertical portrait format optimized for mobile feed\nSubject: DJI Pocket 4 camera as hero product, displayed in natural everyday context suggesting first-time user experience\nColor palette: soft pastel tones with warm accents, friendly and inviting, avoiding corporate coldness\nText (verbatim): \"大强pocket4初体验\"\nTypography: cute and differentiated font style, rounded and playful letterforms, friendly personality\nConstraints: must feel authentically amateur/UGC rather than polished commercial; 9-grid composition must be visible; text must be central and prominent\nAvoid: professional studio lighting, stock photo aesthetic, generic sans-serif fonts, overly polished commercial look, influencer-perfect staging",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/66f0b10b-5cee-4671-ab1e-8a6aac76224f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a Xiaohongshu (Little Red Book) cover image featuring a DJI Pocket 4 camera in a casual amateur creator style.\\n\\nStyle/medium: Xiaohongshu native content aesthetic, casual amateur creator vibe, playful and approachable visual language\\nComposition: 9-grid layout structure, centered title placement, vertical portrait format optimized for mobile feed\\nSubject: DJI Pocket 4 camera as hero product, displayed in natural everyday context suggesting first-time user experience\\nColor palette: soft pastel tones with warm accents, friendly and inviting, avoiding corporate coldness\\nText (verbatim): \\\"大强pocket4初体验\\\"\\nTypography: cute and differentiated font style, rounded and playful letterforms, friendly personality\\nConstraints: must feel authentically amateur/UGC rather than polished commercial; 9-grid composition must be visible; text must be central and prominent\\nAvoid: professional studio lighting, stock photo aesthetic, generic sans-serif fonts, overly polished commercial look, influencer-perfect staging\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9135
+}

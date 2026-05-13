@@ -1,0 +1,23 @@
+{
+  "query_idx": 261,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a canned salmon recipe food photography image for Instagram.\n\nStyle/medium: warm food photography, striking colors\nComposition:\n  split-screen layout\n  top half: flat lay of fresh ingredients (canned salmon chunks, lemon wedges, parsley, breadcrumbs)\n  bottom half: golden-brown cooked salmon patties\n  plain white banner in the center area carrying the title text\nSubject: canned salmon recipe visual — ingredients and finished salmon patties\nScene/backdrop: flat lay for top half; plated dish for bottom half\nLighting/mood: warm food photography lighting\nColor palette:\nMaterials/textures:\nText (verbatim): \"What is the correct way to eat canned salmon?\" in a stylish yet clear and legible handwritten font, readable at a glance; watermark \"simmerrecipes.com\" at the bottom\nConstraints: suitable for Instagram posting\nAvoid:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acd9b34ab-5daf-4642-964c-96adea4393e2/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate a canned salmon recipe food photography image for Instagram.\\n\\nStyle/medium: warm food photography, striking colors\\nComposition:\\n  split-screen layout\\n  top half: flat lay of fresh ingredients (canned salmon chunks, lemon wedges, parsley, breadcrumbs)\\n  bottom half: golden-brown cooked salmon patties\\n  plain white banner in the center area carrying the title text\\nSubject: canned salmon recipe visual — ingredients and finished salmon patties\\nScene/backdrop: flat lay for top half; plated dish for bottom half\\nLighting/mood: warm food photography lighting\\nColor palette:\\nMaterials/textures:\\nText (verbatim): \\\"What is the correct way to eat canned salmon?\\\" in a stylish yet clear and legible handwritten font, readable at a glance; watermark \\\"simmerrecipes.com\\\" at the bottom\\nConstraints: suitable for Instagram posting\\nAvoid:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6867,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

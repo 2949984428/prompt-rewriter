@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing social media cover image for a Xiaohongshu (Little Red Book) post featuring a DJI Pocket 4 review.\n\nStyle/medium: \nComposition: 9-grid layout\nSubject: DJI Pocket 4 product\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 大强pocket4初体验\nConstraints: cute font style, differentiated typography, authentic amateur creator aesthetic\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/27ad6fb1-8ec8-4d83-b1b8-fc0e71138d39/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing social media cover image for a Xiaohongshu (Little Red Book) post featuring a DJI Pocket 4 review.\\n\\nStyle/medium: \\nComposition: 9-grid layout\\nSubject: DJI Pocket 4 product\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 大强pocket4初体验\\nConstraints: cute font style, differentiated typography, authentic amateur creator aesthetic\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5186
+}

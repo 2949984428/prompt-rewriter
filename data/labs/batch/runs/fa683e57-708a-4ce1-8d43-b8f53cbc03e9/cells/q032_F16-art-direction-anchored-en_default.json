@@ -1,0 +1,20 @@
+{
+  "query_idx": 32,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing surrealist dreamscape illustration.\n\nStyle/medium: needs a surrealist dreamscape aesthetic — references in the spirit of Salvador Dalí's melting-clock surrealism, René Magritte's impossible-landscape tradition, Studio Ghibli's dreamlike sky compositions; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a giant moon rising from the sea, whales flying in the sky, melting clocks, a staircase leading to the clouds\nScene/backdrop: must include the sea at moonrise, sky with clouds, dreamlike atmosphere\nLighting/mood: needs a philosophical and visually striking atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f254fd39-4fe2-4c6f-9851-432b8695e47e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing surrealist dreamscape illustration.\\n\\nStyle/medium: needs a surrealist dreamscape aesthetic — references in the spirit of Salvador Dalí's melting-clock surrealism, René Magritte's impossible-landscape tradition, Studio Ghibli's dreamlike sky compositions; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a giant moon rising from the sea, whales flying in the sky, melting clocks, a staircase leading to the clouds\\nScene/backdrop: must include the sea at moonrise, sky with clouds, dreamlike atmosphere\\nLighting/mood: needs a philosophical and visually striking atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9213
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 162,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image]去掉白色绳子，一张1:1，2000*2000像素电商白底主图，背景纯白色。RGB(255,255,255)无阴影，符合亚马逊主图规范。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A449036c2-55fd-4fd5-b753-22517bbe4590/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image]去掉白色绳子，一张1:1，2000*2000像素电商白底主图，背景纯白色。RGB(255,255,255)无阴影，符合亚马逊主图规范。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2590,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

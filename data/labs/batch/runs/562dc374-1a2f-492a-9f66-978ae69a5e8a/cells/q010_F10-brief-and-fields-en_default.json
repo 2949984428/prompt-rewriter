@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic still of a post-apocalyptic wasteland scene with a modified armored vehicle in a desolate desert.\n\nStyle/medium: photorealistic digital matte painting, post-apocalyptic wasteland aesthetic in the spirit of Mad Max: Fury Road concept art\nComposition: wide establishing shot, low horizon line, armored vehicle positioned in lower third, collapsed city ruins in distant background, atmospheric perspective\nSubject: heavily modified armored vehicle with scrap metal plating, rusted chassis, reinforced bumpers, weathered paint, survival gear strapped to exterior\nScene/backdrop: vast desert wasteland, sand dunes, collapsed skyscrapers and crumbling infrastructure on horizon, dust storms swirling in distance\nLighting/mood: diffused golden-hour haze through thick dust particles, low visibility, oppressive and tense survival atmosphere\nColor palette: dominant ochre yellow and burnt orange sand, muted browns and rust reds on vehicle, sickly yellow-brown sky gradient\nMaterials/textures: coarse sand with wind ripples, corroded metal with peeling paint, cracked concrete ruins, fine airborne dust particles\nAvoid: clean surfaces, bright saturated colors, blue sky, pristine vehicles, over-sharpening, 8K stuffer aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cbfb005f-c846-49e7-b2c8-7959b4b40bd3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic still of a post-apocalyptic wasteland scene with a modified armored vehicle in a desolate desert.\\n\\nStyle/medium: photorealistic digital matte painting, post-apocalyptic wasteland aesthetic in the spirit of Mad Max: Fury Road concept art\\nComposition: wide establishing shot, low horizon line, armored vehicle positioned in lower third, collapsed city ruins in distant background, atmospheric perspective\\nSubject: heavily modified armored vehicle with scrap metal plating, rusted chassis, reinforced bumpers, weathered paint, survival gear strapped to exterior\\nScene/backdrop: vast desert wasteland, sand dunes, collapsed skyscrapers and crumbling infrastructure on horizon, dust storms swirling in distance\\nLighting/mood: diffused golden-hour haze through thick dust particles, low visibility, oppressive and tense survival atmosphere\\nColor palette: dominant ochre yellow and burnt orange sand, muted browns and rust reds on vehicle, sickly yellow-brown sky gradient\\nMaterials/textures: coarse sand with wind ripples, corroded metal with peeling paint, cracked concrete ruins, fine airborne dust particles\\nAvoid: clean surfaces, bright saturated colors, blue sky, pristine vehicles, over-sharpening, 8K stuffer aesthetic\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10332
+}

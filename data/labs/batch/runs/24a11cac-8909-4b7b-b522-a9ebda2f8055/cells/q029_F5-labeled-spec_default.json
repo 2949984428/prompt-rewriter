@@ -1,0 +1,20 @@
+{
+  "query_idx": 29,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-fantasy\nAsset type: digital illustration, wide landscape\nPrimary request: dreamy fairy-tale underwater world with a mermaid swimming among coral reefs, glowing jellyfish, sunken ship treasure, and light rays piercing down from the ocean surface\nScene/backdrop: deep underwater seabed, coral reef ecosystem, sunken wooden shipwreck with scattered gold coins and treasure chests, soft sandy floor\nSubject: graceful mermaid with flowing hair and iridescent tail gliding between colorful coral formations; clusters of bioluminescent jellyfish drifting nearby; treasure spilling from a moss-covered sunken ship\nStyle/medium: fairy-tale fantasy digital illustration, painterly, dreamlike\nComposition/framing: wide establishing shot, slightly low angle looking upward toward the light source, layered depth with foreground coral, midground mermaid, background ship and light rays\nLighting/mood: god rays of golden-blue light filtering down from the ocean surface, bioluminescent glow from jellyfish, magical and ethereal atmosphere\nColor palette: deep ocean blues and teals, warm golden treasure accents, soft pink and purple coral, glowing aqua and violet jellyfish light, iridescent mermaid tail\nMaterials/textures: translucent jellyfish membranes, shimmering fish scales, barnacle-encrusted wood of the shipwreck, soft coral polyps, sparkling gold coins\nConstraints: maintain dreamlike fantasy tone throughout; light rays must be visible from above the frame\nAvoid: photorealistic rendering, dark horror atmosphere, cluttered illegible composition, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eea43e71-71de-4534-adbf-acdd0134d66a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-fantasy\\nAsset type: digital illustration, wide landscape\\nPrimary request: dreamy fairy-tale underwater world with a mermaid swimming among coral reefs, glowing jellyfish, sunken ship treasure, and light rays piercing down from the ocean surface\\nScene/backdrop: deep underwater seabed, coral reef ecosystem, sunken wooden shipwreck with scattered gold coins and treasure chests, soft sandy floor\\nSubject: graceful mermaid with flowing hair and iridescent tail gliding between colorful coral formations; clusters of bioluminescent jellyfish drifting nearby; treasure spilling from a moss-covered sunken ship\\nStyle/medium: fairy-tale fantasy digital illustration, painterly, dreamlike\\nComposition/framing: wide establishing shot, slightly low angle looking upward toward the light source, layered depth with foreground coral, midground mermaid, background ship and light rays\\nLighting/mood: god rays of golden-blue light filtering down from the ocean surface, bioluminescent glow from jellyfish, magical and ethereal atmosphere\\nColor palette: deep ocean blues and teals, warm golden treasure accents, soft pink and purple coral, glowing aqua and violet jellyfish light, iridescent mermaid tail\\nMaterials/textures: translucent jellyfish membranes, shimmering fish scales, barnacle-encrusted wood of the shipwreck, soft coral polyps, sparkling gold coins\\nConstraints: maintain dreamlike fantasy tone throughout; light rays must be visible from above the frame\\nAvoid: photorealistic rendering, dark horror atmosphere, cluttered illegible composition, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10271
+}

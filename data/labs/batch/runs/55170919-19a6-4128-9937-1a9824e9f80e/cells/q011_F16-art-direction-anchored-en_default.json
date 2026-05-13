@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Xiaohongshu (小红书) cover image for a product launch announcement (all in-image text in Chinese).\n\nStyle/medium: needs a \"高级杂志感\" aesthetic — references in the spirit of Céline (Phoebe Philo era) campaign minimalism, Kinfolk magazine editorial heritage, Studio Nicholson lookbook composition; exact stylistic execution is yours\nComposition: must be diagonal composition\nSubject: must include the theme text \"GPT-image-2\" and \"Lovart\"\nScene/backdrop: \nLighting/mood: \nColor palette: needs high-contrast accent colors — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"GPT-image-2\", \"Lovart\"\nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/16451c0d-b0b8-4f68-9f93-af84a860875b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a Xiaohongshu (小红书) cover image for a product launch announcement (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"高级杂志感\\\" aesthetic — references in the spirit of Céline (Phoebe Philo era) campaign minimalism, Kinfolk magazine editorial heritage, Studio Nicholson lookbook composition; exact stylistic execution is yours\\nComposition: must be diagonal composition\\nSubject: must include the theme text \\\"GPT-image-2\\\" and \\\"Lovart\\\"\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs high-contrast accent colors — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT-image-2\\\", \\\"Lovart\\\"\\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 15492
+}

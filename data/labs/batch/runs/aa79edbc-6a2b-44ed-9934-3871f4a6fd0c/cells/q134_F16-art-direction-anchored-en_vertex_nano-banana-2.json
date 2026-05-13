@@ -1,0 +1,23 @@
+{
+  "query_idx": 134,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张淘宝电商场景图——以 @image:#1 衣架图中的产品为主体，参考 @image:#2 裙子场景图的场景形式，但场景需有差异化。\n\n风格/媒介:淘宝电商场景图，写实风格\n构图:\n  产品为视觉中心\n  场景构图参考 @image:#2 的形式，但呈现差异化场景\n主体:@image:#1 / @image:#3 衣架图中的产品（保持产品原样，不可替换或改变）\n场景/背景:参考 @image:#2 场景形式，设计差异化的生活/家居场景\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  产品必须与 @image:#1 / @image:#3 中的衣架产品完全一致\n  场景形式参考 @image:#2，但不可直接复制\n避免:改变或替换产品外观",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6d19897b-0e7d-4686-8334-12e7a1ef3836/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张淘宝电商场景图——以 @image:#1 衣架图中的产品为主体，参考 @image:#2 裙子场景图的场景形式，但场景需有差异化。\\n\\n风格/媒介:淘宝电商场景图，写实风格\\n构图:\\n  产品为视觉中心\\n  场景构图参考 @image:#2 的形式，但呈现差异化场景\\n主体:@image:#1 / @image:#3 衣架图中的产品（保持产品原样，不可替换或改变）\\n场景/背景:参考 @image:#2 场景形式，设计差异化的生活/家居场景\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  产品必须与 @image:#1 / @image:#3 中的衣架产品完全一致\\n  场景形式参考 @image:#2，但不可直接复制\\n避免:改变或替换产品外观\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10113,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

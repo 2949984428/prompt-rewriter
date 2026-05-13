@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing employee ID badge for a company named \"字节期动\" (ByteDance-inspired), front and back sides.\n\nStyle/medium: needs a realistic, authentic ID badge aesthetic — exact material finish and card thickness are yours\nComposition: must include both front and back sides of the badge, clearly separated\nSubject: must include an employee ID badge context\nScene/backdrop: \nLighting/mood: needs a realistic lighting atmosphere — exact light source is yours\nColor palette: \nMaterials/textures: needs a realistic plastic/laminated card surface treatment — exact sheen and texture are yours\nText (verbatim): must include \"字节期动\"\nConstraints: must show both front and back sides of the badge\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eaf34443-4145-4b31-b6a2-dfd1e875a225/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing employee ID badge for a company named \\\"字节期动\\\" (ByteDance-inspired), front and back sides.\\n\\nStyle/medium: needs a realistic, authentic ID badge aesthetic — exact material finish and card thickness are yours\\nComposition: must include both front and back sides of the badge, clearly separated\\nSubject: must include an employee ID badge context\\nScene/backdrop: \\nLighting/mood: needs a realistic lighting atmosphere — exact light source is yours\\nColor palette: \\nMaterials/textures: needs a realistic plastic/laminated card surface treatment — exact sheen and texture are yours\\nText (verbatim): must include \\\"字节期动\\\"\\nConstraints: must show both front and back sides of the badge\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8160
+}

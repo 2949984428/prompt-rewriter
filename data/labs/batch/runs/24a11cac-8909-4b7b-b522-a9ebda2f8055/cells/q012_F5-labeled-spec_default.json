@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: atmospheric interior editorial photo, square crop\nPrimary request: dark gothic castle interior with towering vaulted ceiling, blood-red light streaming through stained glass windows, candlestick holders and iron chain decorations, heavy shadows, mysterious and oppressive atmosphere\nScene/backdrop: grand gothic castle hall interior, massive stone vaulted arches, aged stone walls with deep crevices\nSubject: soaring ribbed vaulted ceiling, large stained glass windows casting blood-red colored light beams, ornate iron candelabras with dripping candles, heavy iron chains hanging as decoration\nStyle/medium: photorealistic dark gothic illustration, painterly with dramatic chiaroscuro\nComposition/framing: wide-angle interior shot, low eye-level, emphasizing the towering height of the vaulted ceiling\nLighting/mood: blood-red filtered light from stained glass, flickering candlelight pools in deep shadow, oppressive and mysterious, extreme contrast between light and darkness\nColor palette: deep crimson and blood red from stained glass, near-black stone grey, dim amber candlelight, dominant shadow blacks\nMaterials/textures: rough-hewn ancient stone, weathered iron chains with rust, melted wax drips on iron candelabras, dusty stained glass\nConstraints: no human figures; keep the atmosphere heavy, shadowed, and claustrophobic despite the grand scale\nAvoid: bright cheerful lighting, clean modern surfaces, cartoon style, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eb9a118a-d8af-4bc6-ac44-3d6697ecd21a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: atmospheric interior editorial photo, square crop\\nPrimary request: dark gothic castle interior with towering vaulted ceiling, blood-red light streaming through stained glass windows, candlestick holders and iron chain decorations, heavy shadows, mysterious and oppressive atmosphere\\nScene/backdrop: grand gothic castle hall interior, massive stone vaulted arches, aged stone walls with deep crevices\\nSubject: soaring ribbed vaulted ceiling, large stained glass windows casting blood-red colored light beams, ornate iron candelabras with dripping candles, heavy iron chains hanging as decoration\\nStyle/medium: photorealistic dark gothic illustration, painterly with dramatic chiaroscuro\\nComposition/framing: wide-angle interior shot, low eye-level, emphasizing the towering height of the vaulted ceiling\\nLighting/mood: blood-red filtered light from stained glass, flickering candlelight pools in deep shadow, oppressive and mysterious, extreme contrast between light and darkness\\nColor palette: deep crimson and blood red from stained glass, near-black stone grey, dim amber candlelight, dominant shadow blacks\\nMaterials/textures: rough-hewn ancient stone, weathered iron chains with rust, melted wax drips on iron candelabras, dusty stained glass\\nConstraints: no human figures; keep the atmosphere heavy, shadowed, and claustrophobic despite the grand scale\\nAvoid: bright cheerful lighting, clean modern surfaces, cartoon style, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16074
+}

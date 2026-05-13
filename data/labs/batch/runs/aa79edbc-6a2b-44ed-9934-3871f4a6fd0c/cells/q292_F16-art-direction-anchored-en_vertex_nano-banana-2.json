@@ -1,0 +1,23 @@
+{
+  "query_idx": 292,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个手语\"温暖\"的 icon，用于 YouTube 词条前的图标。\n\n风格/媒介:\n  icon 图标\n  参考附图中手语\"我爱你\"手势的风格\n构图:\n  小尺寸 icon 构图，主体居中\n  适合放在词条文字前方\n主体:\n  国际化手语手势，表达\"温暖\"含义\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  适用于 YouTube 平台发布\n  手势需具有国际通用手语的辨识度\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2e5fae35-742e-4112-be52-a5027cfbe470/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个手语\\\"温暖\\\"的 icon，用于 YouTube 词条前的图标。\\n\\n风格/媒介:\\n  icon 图标\\n  参考附图中手语\\\"我爱你\\\"手势的风格\\n构图:\\n  小尺寸 icon 构图，主体居中\\n  适合放在词条文字前方\\n主体:\\n  国际化手语手势，表达\\\"温暖\\\"含义\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  适用于 YouTube 平台发布\\n  手势需具有国际通用手语的辨识度\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12865,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

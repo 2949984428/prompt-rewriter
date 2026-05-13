@@ -1,0 +1,23 @@
+{
+  "query_idx": 313,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:世界杯足球小游戏界面_版本1][@image:#2:世界杯足球小游戏界面_版本10] 帮我根据参考图的ip形象特点，生成让用户觉得搞笑，有小红书传播度的踢足球ip形象",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Adf9b8ad0-3100-4ed6-bf1b-e0f0f3689259/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:世界杯足球小游戏界面_版本1][@image:#2:世界杯足球小游戏界面_版本10] 帮我根据参考图的ip形象特点，生成让用户觉得搞笑，有小红书传播度的踢足球ip形象\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3713,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

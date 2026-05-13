@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster / PPT cover slide for the launch of 长安起源Q06, an automotive brand reveal, scheduled for September release.\n\nStyle/medium: photorealistic automotive marketing visual, sleek and dramatic, in the spirit of high-end Chinese auto brand launch campaigns\nComposition: wide horizontal layout suited for a 16:9 presentation cover, car as hero element centered or slightly right-weighted, title and subtitle text overlaid on the left third\nSubject: 长安起源Q06 SUV silhouette rendered with sharp body lines and premium surface reflections, conveying power and modernity\nScene/backdrop: deep cosmic or atmospheric backdrop — dark gradient sky with volumetric light rays breaking through, translucent glass-like depth layers creating a sense of visual breakthrough and grandeur\nLighting/mood: dramatic rim lighting on the vehicle, cool blue-white ambient glow with warm accent highlights, awe-inspiring and forward-looking\nColor palette: deep midnight navy or near-black as base, electric ice-blue as primary accent, warm champagne gold as secondary accent for brand prestige\nMaterials/textures: mirror-polished car body with visible reflections, translucent layered light planes suggesting depth and transparency\nText (verbatim): \"长安起源Q06\" as main title, \"9月上市\" as subtitle\nConstraints: text zones must have sufficient contrast against background; layout must work as a 16:9 widescreen slide cover; brand name must be legible at presentation scale\nAvoid: generic stock-photo car backgrounds, lens flare overload, cluttered composition, watermark, flat lighting, cartoonish rendering",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/649adb2c-4856-43b0-953b-2803f50e55bf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster / PPT cover slide for the launch of 长安起源Q06, an automotive brand reveal, scheduled for September release.\\n\\nStyle/medium: photorealistic automotive marketing visual, sleek and dramatic, in the spirit of high-end Chinese auto brand launch campaigns\\nComposition: wide horizontal layout suited for a 16:9 presentation cover, car as hero element centered or slightly right-weighted, title and subtitle text overlaid on the left third\\nSubject: 长安起源Q06 SUV silhouette rendered with sharp body lines and premium surface reflections, conveying power and modernity\\nScene/backdrop: deep cosmic or atmospheric backdrop — dark gradient sky with volumetric light rays breaking through, translucent glass-like depth layers creating a sense of visual breakthrough and grandeur\\nLighting/mood: dramatic rim lighting on the vehicle, cool blue-white ambient glow with warm accent highlights, awe-inspiring and forward-looking\\nColor palette: deep midnight navy or near-black as base, electric ice-blue as primary accent, warm champagne gold as secondary accent for brand prestige\\nMaterials/textures: mirror-polished car body with visible reflections, translucent layered light planes suggesting depth and transparency\\nText (verbatim): \\\"长安起源Q06\\\" as main title, \\\"9月上市\\\" as subtitle\\nConstraints: text zones must have sufficient contrast against background; layout must work as a 16:9 widescreen slide cover; brand name must be legible at presentation scale\\nAvoid: generic stock-photo car backgrounds, lens flare overload, cluttered composition, watermark, flat lighting, cartoonish rendering\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12377
+}

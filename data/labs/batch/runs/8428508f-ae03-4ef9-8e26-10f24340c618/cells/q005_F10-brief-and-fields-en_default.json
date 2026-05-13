@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic explaining the definitions and relationships among seven AI concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, and CLI.\n\nStyle/medium: hand-drawn illustration style, sketch-and-ink with light watercolor washes, reminiscent of sketchnote / visual thinking diagrams by Mike Rohde\nComposition: portrait layout, top-to-bottom reading flow, each concept in its own labeled node, connected by annotated arrows showing relationships, generous white space between sections\nSubject: seven concept nodes — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — each with a small hand-drawn icon, a one-line plain-language definition, and relationship arrows to connected concepts\nScene/backdrop: clean off-white paper texture background, no decorative scenery\nLighting/mood: flat even lighting appropriate for a printed diagram, friendly and approachable tone\nColor palette: warm off-white base, dark ink lines as primary, three accent colors (sky blue, coral orange, soft green) used consistently to color-code concept categories\nMaterials/textures: visible pencil sketch lines under ink, subtle paper grain, hand-lettered labels in a casual sans-serif style\nText (verbatim): \"AI\" / \"MCP\" / \"AI Agent\" / \"OpenClaw\" / \"AI Skill\" / \"蒸馏\" / \"CLI\"\nConstraints: all seven concept labels must appear verbatim and legibly; relationship arrows must be annotated with brief connector phrases (e.g. \"uses\", \"runs on\", \"enables\"); diagram must be readable at A4 print size\nAvoid: corporate flat-design clipart, 3D effects, photorealistic rendering, gradient mesh backgrounds, overcrowded layout, decorative borders unrelated to content",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/58d27030-7b9b-4ad9-ab5c-a1c03cab1aff/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing infographic explaining the definitions and relationships among seven AI concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, and CLI.\\n\\nStyle/medium: hand-drawn illustration style, sketch-and-ink with light watercolor washes, reminiscent of sketchnote / visual thinking diagrams by Mike Rohde\\nComposition: portrait layout, top-to-bottom reading flow, each concept in its own labeled node, connected by annotated arrows showing relationships, generous white space between sections\\nSubject: seven concept nodes — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — each with a small hand-drawn icon, a one-line plain-language definition, and relationship arrows to connected concepts\\nScene/backdrop: clean off-white paper texture background, no decorative scenery\\nLighting/mood: flat even lighting appropriate for a printed diagram, friendly and approachable tone\\nColor palette: warm off-white base, dark ink lines as primary, three accent colors (sky blue, coral orange, soft green) used consistently to color-code concept categories\\nMaterials/textures: visible pencil sketch lines under ink, subtle paper grain, hand-lettered labels in a casual sans-serif style\\nText (verbatim): \\\"AI\\\" / \\\"MCP\\\" / \\\"AI Agent\\\" / \\\"OpenClaw\\\" / \\\"AI Skill\\\" / \\\"蒸馏\\\" / \\\"CLI\\\"\\nConstraints: all seven concept labels must appear verbatim and legibly; relationship arrows must be annotated with brief connector phrases (e.g. \\\"uses\\\", \\\"runs on\\\", \\\"enables\\\"); diagram must be readable at A4 print size\\nAvoid: corporate flat-design clipart, 3D effects, photorealistic rendering, gradient mesh backgrounds, overcrowded layout, decorative borders unrelated to content\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13211
+}

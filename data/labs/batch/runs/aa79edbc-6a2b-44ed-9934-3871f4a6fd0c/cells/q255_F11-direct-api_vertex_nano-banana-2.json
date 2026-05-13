@@ -1,0 +1,23 @@
+{
+  "query_idx": 255,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image]先把建筑设计改成横板的，不要延展那些不必要的场景，变成插画风格，比例：16：9，做出两张给我，适合小红书平台发布。",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 2,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac01d2b6d-b859-4f64-bf87-2a1c81d9d25b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image]先把建筑设计改成横板的，不要延展那些不必要的场景，变成插画风格，比例：16：9，做出两张给我，适合小红书平台发布。\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 2, \"output_format\": \"png\"}",
+  "ms": 6138,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

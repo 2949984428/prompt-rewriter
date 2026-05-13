@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing character illustration for a Chinese fantasy game, featuring a Hanfu-clad woman playing guqin in a bamboo forest.\n\nStyle/medium: digital game character illustration, ethereal Chinese fantasy art style, painterly brushwork with clean linework\nComposition: medium shot, three-quarter view, subject centered, flowing vertical composition\nSubject: elegant Hanfu-clad woman with long flowing hair, delicate facial features, traditional guqin in hands, sleeves and ribbons billowing in wind\nScene/backdrop: dense bamboo forest at night, tall bamboo stalks framing the subject, moonlit atmosphere\nLighting/mood: soft moonlight filtering through bamboo leaves, dappled light and shadow on ground and figure, mysterious and ethereal mood\nColor palette: cool moonlit blues and silvers as base, warm cream and pale jade for Hanfu fabric, deep emerald for bamboo\nMaterials/textures: flowing silk fabric with subtle sheen, smooth bamboo surfaces, soft hair strands, polished guqin wood\nAvoid: modern clothing elements, harsh artificial lighting, cluttered composition, generic anime style, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6d4e7030-2f57-4f72-a1f5-c6e03c1ffeb5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing character illustration for a Chinese fantasy game, featuring a Hanfu-clad woman playing guqin in a bamboo forest.\\n\\nStyle/medium: digital game character illustration, ethereal Chinese fantasy art style, painterly brushwork with clean linework\\nComposition: medium shot, three-quarter view, subject centered, flowing vertical composition\\nSubject: elegant Hanfu-clad woman with long flowing hair, delicate facial features, traditional guqin in hands, sleeves and ribbons billowing in wind\\nScene/backdrop: dense bamboo forest at night, tall bamboo stalks framing the subject, moonlit atmosphere\\nLighting/mood: soft moonlight filtering through bamboo leaves, dappled light and shadow on ground and figure, mysterious and ethereal mood\\nColor palette: cool moonlit blues and silvers as base, warm cream and pale jade for Hanfu fabric, deep emerald for bamboo\\nMaterials/textures: flowing silk fabric with subtle sheen, smooth bamboo surfaces, soft hair strands, polished guqin wood\\nAvoid: modern clothing elements, harsh artificial lighting, cluttered composition, generic anime style, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9534
+}

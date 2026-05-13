@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster (小红书 cover) for a pearl milk tea product, girly pink aesthetic with a summer refreshing vibe.\n\nStyle/medium: pastel flat-lay editorial photography, soft dreamy tones inspired by Korean beauty brand campaigns\nComposition: vertical portrait frame, centered subject with generous negative space, slight top-down angle\nSubject: a tall cup of pearl milk tea with visible tapioca pearls, condensation droplets on the cup surface, pastel pink paper straw\nScene/backdrop: soft pink and white gradient background, scattered pink flower petals and ice cubes as props\nLighting/mood: bright diffused natural light from above, airy and cool summer freshness, light and cheerful mood\nColor palette: blush pink as dominant, white and cream as base, translucent pearl tones as accent\nMaterials/textures: dewy condensation on cup, glossy tapioca pearls, soft petal surfaces\nAvoid: dark shadows, moody low-key lighting, cluttered background, oversaturated neon colors, generic stock photo flatness",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ab252720-ca59-4181-924f-25afbc8eba81/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster (小红书 cover) for a pearl milk tea product, girly pink aesthetic with a summer refreshing vibe.\\n\\nStyle/medium: pastel flat-lay editorial photography, soft dreamy tones inspired by Korean beauty brand campaigns\\nComposition: vertical portrait frame, centered subject with generous negative space, slight top-down angle\\nSubject: a tall cup of pearl milk tea with visible tapioca pearls, condensation droplets on the cup surface, pastel pink paper straw\\nScene/backdrop: soft pink and white gradient background, scattered pink flower petals and ice cubes as props\\nLighting/mood: bright diffused natural light from above, airy and cool summer freshness, light and cheerful mood\\nColor palette: blush pink as dominant, white and cream as base, translucent pearl tones as accent\\nMaterials/textures: dewy condensation on cup, glossy tapioca pearls, soft petal surfaces\\nAvoid: dark shadows, moody low-key lighting, cluttered background, oversaturated neon colors, generic stock photo flatness\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10114
+}

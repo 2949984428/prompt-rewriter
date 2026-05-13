@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing realistic employee ID badge for 字节跳动, showing both front and back sides.\n\nStyle/medium: needs a realistic, physical-object photography aesthetic — exact stylistic execution is yours\nComposition: must show both front and back sides of the badge laid out together\nSubject: must include a 字节跳动 employee ID badge (both sides visible)\nScene/backdrop: \nLighting/mood: needs a realistic product-shot atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a realistic hard plastic card surface treatment — exact sheen and texture is yours\nText (verbatim): \nConstraints: must preserve both front and back sides clearly visible in one image\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c0c2a2a7-239a-4532-ac46-16d08b2f1af2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing realistic employee ID badge for 字节跳动, showing both front and back sides.\\n\\nStyle/medium: needs a realistic, physical-object photography aesthetic — exact stylistic execution is yours\\nComposition: must show both front and back sides of the badge laid out together\\nSubject: must include a 字节跳动 employee ID badge (both sides visible)\\nScene/backdrop: \\nLighting/mood: needs a realistic product-shot atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a realistic hard plastic card surface treatment — exact sheen and texture is yours\\nText (verbatim): \\nConstraints: must preserve both front and back sides clearly visible in one image\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7858
+}

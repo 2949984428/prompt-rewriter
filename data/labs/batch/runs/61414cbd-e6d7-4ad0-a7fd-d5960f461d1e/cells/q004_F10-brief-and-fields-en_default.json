@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing travel guide brochure mockup for a 4-day Hangzhou itinerary, featuring a realistic Hangzhou map as the background.\n\nStyle/medium: flat lay product photography, realistic paper craft mockup, trifold brochure design with dimensional pop-up elements\nComposition: top-down flat lay view, trifold brochure spread open on textured kraft paper, famous landmarks floating as 3D paper cutouts above the map\nSubject: 4-day Hangzhou travel itinerary brochure with realistic Hangzhou city map as background, iconic landmarks suspended above the card stock\nScene/backdrop: clean kraft paper surface, soft studio lighting, minimalist workspace aesthetic\nLighting/mood: soft diffused overhead lighting, gentle shadows under floating elements, warm and inviting travel mood\nColor palette: warm kraft brown base, vibrant map colors for landmarks, clean white brochure paper, natural greens for West Lake references\nMaterials/textures: matte kraft paper texture, smooth brochure paper, dimensional paper cutout landmarks with subtle shadow depth\nText (verbatim): \"第一天：西湖经典游，打卡教科书里的江南 路线：断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺 第二天：禅意杭州，穿越千年宋韵 路线：灵隐寺→飞来峰造像→法喜寺→宋城 第三天：九溪烟树徒步，做一日茶山散人 路线：九溪十八涧→龙井村→十里琅珰→云栖竹径 第四天：文艺收官，解锁杭州AB面 方案A：运河文艺线 拱宸桥→桥西历史街区→小河直街→大兜路香积寺 方案B：西溪湿地轻奢游\"\nConstraints: brochure must clearly show trifold structure, landmarks must appear to float with realistic shadows, Hangzhou map must be recognizable\nAvoid: cluttered layout, unreadable small text, generic stock photos, plastic-looking materials, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/907ae313-d937-4ad2-8f01-7e8aa985dcce/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing travel guide brochure mockup for a 4-day Hangzhou itinerary, featuring a realistic Hangzhou map as the background.\\n\\nStyle/medium: flat lay product photography, realistic paper craft mockup, trifold brochure design with dimensional pop-up elements\\nComposition: top-down flat lay view, trifold brochure spread open on textured kraft paper, famous landmarks floating as 3D paper cutouts above the map\\nSubject: 4-day Hangzhou travel itinerary brochure with realistic Hangzhou city map as background, iconic landmarks suspended above the card stock\\nScene/backdrop: clean kraft paper surface, soft studio lighting, minimalist workspace aesthetic\\nLighting/mood: soft diffused overhead lighting, gentle shadows under floating elements, warm and inviting travel mood\\nColor palette: warm kraft brown base, vibrant map colors for landmarks, clean white brochure paper, natural greens for West Lake references\\nMaterials/textures: matte kraft paper texture, smooth brochure paper, dimensional paper cutout landmarks with subtle shadow depth\\nText (verbatim): \\\"第一天：西湖经典游，打卡教科书里的江南 路线：断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺 第二天：禅意杭州，穿越千年宋韵 路线：灵隐寺→飞来峰造像→法喜寺→宋城 第三天：九溪烟树徒步，做一日茶山散人 路线：九溪十八涧→龙井村→十里琅珰→云栖竹径 第四天：文艺收官，解锁杭州AB面 方案A：运河文艺线 拱宸桥→桥西历史街区→小河直街→大兜路香积寺 方案B：西溪湿地轻奢游\\\"\\nConstraints: brochure must clearly show trifold structure, landmarks must appear to float with realistic shadows, Hangzhou map must be recognizable\\nAvoid: cluttered layout, unreadable small text, generic stock photos, plastic-looking materials, watermark\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 28657
+}

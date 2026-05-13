@@ -1,0 +1,21 @@
+{
+  "query_idx": 24,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a technical step-by-step instructional diagram illustrating how to deploy hermes inside a docker container and integrate glmcodingplan.\n\nStyle/medium: needs a clean technical-diagram / infographic aesthetic — exact stylistic execution is yours\nComposition: must be a vertical multi-step layout with clearly numbered steps 1, 2, 3, 4\nSubject: must include all 4 deployment steps:\n  Step 1: setting up the docker environment / pulling the hermes image\n  Step 2: launching the hermes container with configuration\n  Step 3: integrating glmcodingplan into the running container\n  Step 4: verification and connection confirmation\nScene/backdrop: \nLighting/mood: \nColor palette: needs a technical / developer-tool direction — exact color scheme is yours\nMaterials/textures: \nText (verbatim): must include step labels \"1\" \"2\" \"3\" \"4\", \"hermes\", \"docker\", \"glmcodingplan\"\nConstraints: must preserve clear visual separation between each numbered step; each step must contain command/code block area and a brief annotation zone\nAvoid: must avoid decorative clutter that obscures technical readability",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7193fd02-2044-45ca-89a6-8e37219c8fd2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a technical step-by-step instructional diagram illustrating how to deploy hermes inside a docker container and integrate glmcodingplan.\\n\\nStyle/medium: needs a clean technical-diagram / infographic aesthetic — exact stylistic execution is yours\\nComposition: must be a vertical multi-step layout with clearly numbered steps 1, 2, 3, 4\\nSubject: must include all 4 deployment steps:\\n  Step 1: setting up the docker environment / pulling the hermes image\\n  Step 2: launching the hermes container with configuration\\n  Step 3: integrating glmcodingplan into the running container\\n  Step 4: verification and connection confirmation\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a technical / developer-tool direction — exact color scheme is yours\\nMaterials/textures: \\nText (verbatim): must include step labels \\\"1\\\" \\\"2\\\" \\\"3\\\" \\\"4\\\", \\\"hermes\\\", \\\"docker\\\", \\\"glmcodingplan\\\"\\nConstraints: must preserve clear visual separation between each numbered step; each step must contain command/code block area and a brief annotation zone\\nAvoid: must avoid decorative clutter that obscures technical readability\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8861
+}

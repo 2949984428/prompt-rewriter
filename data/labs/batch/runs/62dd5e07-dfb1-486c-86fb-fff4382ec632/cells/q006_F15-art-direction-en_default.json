@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a movie poster reimagining of 大话西游 (A Chinese Odyssey) in a 1990s Hong Kong cinema style.\n\nStyle/medium: must be 35mm film with visible grain; needs a 1990s Hong Kong cinema aesthetic — exact stylistic execution is yours\nComposition: needs a composition that foregrounds the embrace and places the distant figures in the background — exact framing is yours\nSubject: must include all four figures:\n  - 至尊宝 and 紫霞 sharing a kiss / embrace against a city wall (foreground)\n  - 牛魔王 standing in the distance (background)\n  - 唐僧 standing in the distance (background)\nScene/backdrop: must include a city wall as the setting for the foreground embrace\nLighting/mood: needs a mood evoking 90s Hong Kong romantic-epic cinema — exact light quality is yours\nColor palette: needs a direction consistent with 90s Hong Kong film stock — exact palette and grading are yours\nMaterials/textures: must include visible film grain throughout\nText (verbatim): \nConstraints: must read as a theatrical movie poster layout\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/be7f7345-97dc-415c-acd3-cde4040e34b1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a movie poster reimagining of 大话西游 (A Chinese Odyssey) in a 1990s Hong Kong cinema style.\\n\\nStyle/medium: must be 35mm film with visible grain; needs a 1990s Hong Kong cinema aesthetic — exact stylistic execution is yours\\nComposition: needs a composition that foregrounds the embrace and places the distant figures in the background — exact framing is yours\\nSubject: must include all four figures:\\n  - 至尊宝 and 紫霞 sharing a kiss / embrace against a city wall (foreground)\\n  - 牛魔王 standing in the distance (background)\\n  - 唐僧 standing in the distance (background)\\nScene/backdrop: must include a city wall as the setting for the foreground embrace\\nLighting/mood: needs a mood evoking 90s Hong Kong romantic-epic cinema — exact light quality is yours\\nColor palette: needs a direction consistent with 90s Hong Kong film stock — exact palette and grading are yours\\nMaterials/textures: must include visible film grain throughout\\nText (verbatim): \\nConstraints: must read as a theatrical movie poster layout\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9330
+}

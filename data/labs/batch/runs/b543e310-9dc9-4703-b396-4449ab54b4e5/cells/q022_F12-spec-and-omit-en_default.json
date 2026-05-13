@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing editorial photo of Korean cafe-style coffee and desserts, smartphone-shot for Instagram, no people.\n\nStyle/medium: smartphone photography, Instagram story aesthetic, hand-drawn annotation overlay\nComposition: \nSubject: coffee and desserts, Korean cafe style\nScene/backdrop: Korean cafe interior\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 日语手写文字（平假名7成、简单汉字3成）\nConstraints: no people in frame; hand-drawn white line annotations with rough, uneven single-stroke style; contour lines tracing object outlines; arrows and dashed lines for visual guidance; decorative elements (steam, sparkles, hearts, small emoji) moderately added with intentional white space; diary-like short comments on taste, texture, atmosphere, and overall summary; Instagram story / magazine rough note aesthetic; fashionable and relaxed mood\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/83e4d321-8b5c-44b1-ae66-c34700f76578/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an original, non-infringing editorial photo of Korean cafe-style coffee and desserts, smartphone-shot for Instagram, no people.\\n\\nStyle/medium: smartphone photography, Instagram story aesthetic, hand-drawn annotation overlay\\nComposition: \\nSubject: coffee and desserts, Korean cafe style\\nScene/backdrop: Korean cafe interior\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 日语手写文字（平假名7成、简单汉字3成）\\nConstraints: no people in frame; hand-drawn white line annotations with rough, uneven single-stroke style; contour lines tracing object outlines; arrows and dashed lines for visual guidance; decorative elements (steam, sparkles, hearts, small emoji) moderately added with intentional white space; diary-like short comments on taste, texture, atmosphere, and overall summary; Instagram story / magazine rough note aesthetic; fashionable and relaxed mood\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9207
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design illustration of an industrial-style cafe (all in-image text in Chinese).\n\nStyle/medium: needs a \"工业风格\" aesthetic — references in the spirit of 1990s New York loft conversion photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 cafe interior design movement; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include exposed concrete walls, metal pipes/ductwork, vintage leather sofa, large windows with natural light flooding in, black-and-white photography artworks hung on walls\nScene/backdrop: must include a cafe interior setting with the above architectural and furnishing elements\nLighting/mood: needs a raw yet refined atmosphere — exact light source mix is yours\nColor palette: needs a direction of muted industrial tones with natural light warmth — exact hex values and ratios are yours\nMaterials/textures: needs a surface treatment of rough concrete, aged metal, worn leather — exact grain and sheen is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f7fe6416-a16a-46d6-82ac-167302df8f2d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an interior design illustration of an industrial-style cafe (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"工业风格\\\" aesthetic — references in the spirit of 1990s New York loft conversion photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 cafe interior design movement; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include exposed concrete walls, metal pipes/ductwork, vintage leather sofa, large windows with natural light flooding in, black-and-white photography artworks hung on walls\\nScene/backdrop: must include a cafe interior setting with the above architectural and furnishing elements\\nLighting/mood: needs a raw yet refined atmosphere — exact light source mix is yours\\nColor palette: needs a direction of muted industrial tones with natural light warmth — exact hex values and ratios are yours\\nMaterials/textures: needs a surface treatment of rough concrete, aged metal, worn leather — exact grain and sheen is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9486
+}

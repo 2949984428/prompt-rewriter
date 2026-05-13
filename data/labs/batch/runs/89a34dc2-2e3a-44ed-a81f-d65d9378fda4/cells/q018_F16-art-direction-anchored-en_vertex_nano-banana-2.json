@@ -1,0 +1,23 @@
+{
+  "query_idx": 18,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计图形化 logo —— 以参考图中的白色卡通小鼠形象为主体。\n\n风格/媒介:图形化 logo，卡通风格，扁平插画\n构图:以小鼠图形为核心，简洁居中\n主体:白色卡通小鼠，参考 #1 图片中的形象\n场景/背景:纯色或透明背景\n光线/氛围:可爱、亲切\n色彩方案:以白色为主体色\n材质/纹理:\n文字(原样):\n约束:保持参考图中小鼠的卡通造型特征，logo 风格需图形化、识别度高\n避免:写实风格；复杂背景；多余装饰元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab5f04528-146c-467e-8da2-dfe55ab48581/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计图形化 logo —— 以参考图中的白色卡通小鼠形象为主体。\\n\\n风格/媒介:图形化 logo，卡通风格，扁平插画\\n构图:以小鼠图形为核心，简洁居中\\n主体:白色卡通小鼠，参考 #1 图片中的形象\\n场景/背景:纯色或透明背景\\n光线/氛围:可爱、亲切\\n色彩方案:以白色为主体色\\n材质/纹理:\\n文字(原样):\\n约束:保持参考图中小鼠的卡通造型特征，logo 风格需图形化、识别度高\\n避免:写实风格；复杂背景；多余装饰元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7546,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

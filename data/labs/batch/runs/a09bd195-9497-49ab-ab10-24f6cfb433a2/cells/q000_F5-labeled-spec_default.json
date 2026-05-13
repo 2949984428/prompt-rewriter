@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: social media ad, beauty campaign\nPrimary request: luxury serum bottle with rose petals and water splash for social media promotion\nScene/backdrop: soft pink gradient background, clean minimal studio setting\nSubject: elegant glass serum bottle with pale golden liquid inside, luxurious cosmetic packaging\nStyle/medium: high-end beauty product photography, editorial commercial\nComposition/framing: product shot with dynamic elements, centered composition with surrounding details\nLighting/mood: soft natural lighting, gentle diffused light, luxurious and refined atmosphere\nColor palette: soft pink gradient + pale golden liquid + rose pink petals + clear water droplets\nMaterials/textures: transparent glass bottle with subtle reflections, silky golden serum, delicate rose petals, crystalline water splash\nConstraints: maintain luxury aesthetic suitable for social media, keep product as clear focal point\nAvoid: harsh shadows, plastic-looking bottle, oversaturated colors, cluttered composition, artificial lighting",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/deb61242-faba-432f-8457-a0e74bf3a403/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: social media ad, beauty campaign\\nPrimary request: luxury serum bottle with rose petals and water splash for social media promotion\\nScene/backdrop: soft pink gradient background, clean minimal studio setting\\nSubject: elegant glass serum bottle with pale golden liquid inside, luxurious cosmetic packaging\\nStyle/medium: high-end beauty product photography, editorial commercial\\nComposition/framing: product shot with dynamic elements, centered composition with surrounding details\\nLighting/mood: soft natural lighting, gentle diffused light, luxurious and refined atmosphere\\nColor palette: soft pink gradient + pale golden liquid + rose pink petals + clear water droplets\\nMaterials/textures: transparent glass bottle with subtle reflections, silky golden serum, delicate rose petals, crystalline water splash\\nConstraints: maintain luxury aesthetic suitable for social media, keep product as clear focal point\\nAvoid: harsh shadows, plastic-looking bottle, oversaturated colors, cluttered composition, artificial lighting\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8876
+}

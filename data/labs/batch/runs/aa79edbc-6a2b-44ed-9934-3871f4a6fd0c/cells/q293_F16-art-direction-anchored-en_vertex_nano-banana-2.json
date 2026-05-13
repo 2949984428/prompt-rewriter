@@ -1,0 +1,23 @@
+{
+  "query_idx": 293,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图，将图像比例调整为小红书封面 3:4。\n\n风格/媒介:\n构图:小红书封面比例 3:4\n主体:笑脸图案\n场景/背景:\n光线/氛围:\n色彩方案:改色\n材质/纹理:\n文字(原样):\n约束:保留笑脸图案主体内容\n避免:",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 2,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac78c0852-84f1-4400-8313-1eb292d3aeba/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图，将图像比例调整为小红书封面 3:4。\\n\\n风格/媒介:\\n构图:小红书封面比例 3:4\\n主体:笑脸图案\\n场景/背景:\\n光线/氛围:\\n色彩方案:改色\\n材质/纹理:\\n文字(原样):\\n约束:保留笑脸图案主体内容\\n避免:\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 2, \"output_format\": \"png\"}",
+  "ms": 5186,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

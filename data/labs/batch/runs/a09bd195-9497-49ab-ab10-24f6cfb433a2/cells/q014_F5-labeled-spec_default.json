@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: phone wallpaper, 9:16 vertical crop\nPrimary request: extreme macro close-up of a water droplet reflecting the world within, surrounded by grass blades and dewdrops\nScene/backdrop: lush green grass meadow, circular bokeh orbs in background creating dreamy atmosphere\nSubject: single pristine water droplet acting as a natural lens, refracting inverted miniature landscape inside\nStyle/medium: macro photography, photorealistic nature documentary style\nComposition/framing: extreme close-up macro, shallow depth of field, droplet centered as focal point\nLighting/mood: soft morning diffused light, ethereal and delicate mood celebrating nature's intricacy\nColor palette: fresh greens, crystal clear water transparency, warm golden bokeh highlights\nMaterials/textures: spherical water surface tension, dewy grass blades with visible veins, smooth refractive droplet surface\nConstraints: keep the water droplet as the hero element with visible internal reflection, circular bokeh must be prominent in background\nAvoid: flat lighting, oversaturated colors, artificial plastic look, watermark, text overlay",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f613c440-ee33-476f-9bfa-0697360d317f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: phone wallpaper, 9:16 vertical crop\\nPrimary request: extreme macro close-up of a water droplet reflecting the world within, surrounded by grass blades and dewdrops\\nScene/backdrop: lush green grass meadow, circular bokeh orbs in background creating dreamy atmosphere\\nSubject: single pristine water droplet acting as a natural lens, refracting inverted miniature landscape inside\\nStyle/medium: macro photography, photorealistic nature documentary style\\nComposition/framing: extreme close-up macro, shallow depth of field, droplet centered as focal point\\nLighting/mood: soft morning diffused light, ethereal and delicate mood celebrating nature's intricacy\\nColor palette: fresh greens, crystal clear water transparency, warm golden bokeh highlights\\nMaterials/textures: spherical water surface tension, dewy grass blades with visible veins, smooth refractive droplet surface\\nConstraints: keep the water droplet as the hero element with visible internal reflection, circular bokeh must be prominent in background\\nAvoid: flat lighting, oversaturated colors, artificial plastic look, watermark, text overlay\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9225
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic scene illustration, wide landscape\nPrimary request: post-apocalyptic wasteland scene with a heavily modified armored vehicle in a desolate desert, collapsed city ruins in the distance, dust-filled sky\nScene/backdrop: vast barren desert wasteland, crumbling skyscraper ruins on the horizon, swirling sandstorm filling the air\nSubject: heavily armored and modified off-road vehicle with welded metal plates, scrap-metal spikes, chains, and jury-rigged weaponry; parked or rolling across cracked dry earth\nStyle/medium: photorealistic digital painting, post-apocalyptic concept art\nComposition/framing: wide establishing shot, low horizon line, vehicle positioned mid-ground, ruins receding into dusty background, slight low-angle perspective\nLighting/mood: dim ochre and amber sunlight filtered through thick dust haze, oppressive and tense atmosphere, harsh shadows, end-of-world survival tension\nColor palette: desaturated ochre, burnt sienna, ash grey, rust orange, murky yellow sky\nMaterials/textures: rusted corroded metal panels, cracked parched earth, swirling fine sand particles, crumbling concrete rubble\nAvoid: clean modern vehicles, blue sky, lush vegetation, cheerful lighting",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/72db9f9f-6941-4def-977f-78ff95e95962/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic scene illustration, wide landscape\\nPrimary request: post-apocalyptic wasteland scene with a heavily modified armored vehicle in a desolate desert, collapsed city ruins in the distance, dust-filled sky\\nScene/backdrop: vast barren desert wasteland, crumbling skyscraper ruins on the horizon, swirling sandstorm filling the air\\nSubject: heavily armored and modified off-road vehicle with welded metal plates, scrap-metal spikes, chains, and jury-rigged weaponry; parked or rolling across cracked dry earth\\nStyle/medium: photorealistic digital painting, post-apocalyptic concept art\\nComposition/framing: wide establishing shot, low horizon line, vehicle positioned mid-ground, ruins receding into dusty background, slight low-angle perspective\\nLighting/mood: dim ochre and amber sunlight filtered through thick dust haze, oppressive and tense atmosphere, harsh shadows, end-of-world survival tension\\nColor palette: desaturated ochre, burnt sienna, ash grey, rust orange, murky yellow sky\\nMaterials/textures: rusted corroded metal panels, cracked parched earth, swirling fine sand particles, crumbling concrete rubble\\nAvoid: clean modern vehicles, blue sky, lush vegetation, cheerful lighting\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12176
+}

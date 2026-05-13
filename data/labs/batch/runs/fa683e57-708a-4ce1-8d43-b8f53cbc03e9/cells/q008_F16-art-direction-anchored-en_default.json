@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design illustration of an industrial-style cafe (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs an \"industrial style\" aesthetic — references in the spirit of 1990s New York loft conversion photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 cafe interior design movement; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include exposed concrete walls, metal piping, vintage leather sofa, large windows with natural light, black-and-white photography on walls\nScene/backdrop: must include a cafe interior context\nLighting/mood: needs a rugged yet refined atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: must include rough concrete, aged metal, worn leather, matte photographic prints\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e335e032-eea8-490e-900b-0e1eb6ca1003/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an interior design illustration of an industrial-style cafe (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs an \\\"industrial style\\\" aesthetic — references in the spirit of 1990s New York loft conversion photography, Kinfolk magazine raw-material editorial style, Tokyo 倉庫系 cafe interior design movement; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include exposed concrete walls, metal piping, vintage leather sofa, large windows with natural light, black-and-white photography on walls\\nScene/backdrop: must include a cafe interior context\\nLighting/mood: needs a rugged yet refined atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: must include rough concrete, aged metal, worn leather, matte photographic prints\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9339
+}

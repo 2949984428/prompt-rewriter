@@ -1,0 +1,18 @@
+{
+  "query_idx": 11,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Xiaohongshu cover image announcing GPT-image-2 on the Lovart platform, in the restrained editorial spirit of Paula Scher's typographic poster work.\n\nStyle/medium: high-end magazine editorial cover with bold typographic architecture, the kind that commands a newsstand glance\nComposition: diagonal composition — key visual elements and text blocks arranged along a strong diagonal axis cutting from upper-left to lower-right, creating asymmetric tension\nSubject: the announcement that GPT-image-2 is now live on Lovart, expressed through typographic hierarchy and graphic accent shapes\nScene/backdrop: clean, minimal studio ground — negative space as a deliberate design choice, not emptiness\nLighting/mood: the cool confidence of a flagship editorial launch — no warmth, no softness, just presence\nColor palette: high-contrast accent color scheme — deep near-black ground in sharp dialogue with one saturated accent (electric cobalt or acid yellow), the tension between the two carrying the entire visual weight\nMaterials/textures: matte ink on coated stock, crisp edges, zero noise\nText (verbatim): GPT-image-2   Lovart\nConstraints: Xiaohongshu cover ratio (portrait 3:4), both verbatim text strings must be legible and prominent, diagonal composition must be clearly readable, high-contrast accent color must dominate\nAvoid: soft gradients, warm lifestyle tones, decorative flourishes, generic tech-startup blue, centered symmetrical layout",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_27e81c6c14d847f9a36d85cc7e36c59a.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing Xiaohongshu cover image announcing GPT-image-2 on the Lovart platform, in the restrained editorial spirit of Paula Scher's typographic poster work.\\n\\nStyle/medium: high-end magazine editorial cover with bold typographic architecture, the kind that commands a newsstand glance\\nComposition: diagonal composition — key visual elements and text blocks arranged along a strong diagonal axis cutting from upper-left to lower-right, creating asymmetric tension\\nSubject: the announcement that GPT-image-2 is now live on Lovart, expressed through typographic hierarchy and graphic accent shapes\\nScene/backdrop: clean, minimal studio ground — negative space as a deliberate design choice, not emptiness\\nLighting/mood: the cool confidence of a flagship editorial launch — no warmth, no softness, just presence\\nColor palette: high-contrast accent color scheme — deep near-black ground in sharp dialogue with one saturated accent (electric cobalt or acid yellow), the tension between the two carrying the entire visual weight\\nMaterials/textures: matte ink on coated stock, crisp edges, zero noise\\nText (verbatim): GPT-image-2   Lovart\\nConstraints: Xiaohongshu cover ratio (portrait 3:4), both verbatim text strings must be legible and prominent, diagonal composition must be clearly readable, high-contrast accent color must dominate\\nAvoid: soft gradients, warm lifestyle tones, decorative flourishes, generic tech-startup blue, centered symmetrical layout\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12501
+}

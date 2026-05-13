@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic still of a gothic castle interior with towering vaulted ceilings.\n\nStyle/medium: photorealistic digital painting, dark gothic horror aesthetic, inspired by classic Hammer horror films and medieval cathedral architecture\nComposition: wide-angle interior shot looking upward toward the vaulted ceiling, dramatic forced perspective emphasizing scale and height\nSubject: gothic castle interior with soaring ribbed vaults, pointed arches, massive stone columns\nScene/backdrop: medieval castle great hall, towering stone walls, ornate architectural details\nLighting/mood: blood-red light streaming through stained glass windows, heavy shadows pooling in corners, candlelight from wrought-iron candelabras creating flickering highlights, oppressive and mysterious atmosphere\nColor palette: deep blacks and charcoal grays as base, blood-red as dominant accent, warm amber candlelight highlights, desaturated stone textures\nMaterials/textures: rough-hewn stone walls, polished marble floors, wrought iron chains and candelabras, leaded stained glass with crimson panes, aged wood beams\nAvoid: bright daylight, cheerful colors, modern elements, clean minimalist aesthetic, 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3a0d8916-4041-45a7-97af-b0df7d8a7091/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing cinematic still of a gothic castle interior with towering vaulted ceilings.\\n\\nStyle/medium: photorealistic digital painting, dark gothic horror aesthetic, inspired by classic Hammer horror films and medieval cathedral architecture\\nComposition: wide-angle interior shot looking upward toward the vaulted ceiling, dramatic forced perspective emphasizing scale and height\\nSubject: gothic castle interior with soaring ribbed vaults, pointed arches, massive stone columns\\nScene/backdrop: medieval castle great hall, towering stone walls, ornate architectural details\\nLighting/mood: blood-red light streaming through stained glass windows, heavy shadows pooling in corners, candlelight from wrought-iron candelabras creating flickering highlights, oppressive and mysterious atmosphere\\nColor palette: deep blacks and charcoal grays as base, blood-red as dominant accent, warm amber candlelight highlights, desaturated stone textures\\nMaterials/textures: rough-hewn stone walls, polished marble floors, wrought iron chains and candelabras, leaded stained glass with crimson panes, aged wood beams\\nAvoid: bright daylight, cheerful colors, modern elements, clean minimalist aesthetic, 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11455
+}

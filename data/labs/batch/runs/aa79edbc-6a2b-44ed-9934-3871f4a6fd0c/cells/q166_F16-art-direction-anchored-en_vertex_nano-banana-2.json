@@ -1,0 +1,23 @@
+{
+  "query_idx": 166,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑/生成一张产品展示图，参考图片#2的排版布局，主体为图片#1中的吹风机正反面。\n\n风格/媒介:产品展示图，参考图片#2的整体风格\n构图:排版与参考图片#2完全一致\n主体:吹风机正面与反面\n场景/背景:卡其色色调背景\n光线/氛围:\n色彩方案:卡其色色调\n材质/纹理:\n文字(原样):\n约束:\n  仅生成一张\n  图片尺寸与参考图片#2一致\n  排版布局与参考图片#2一致\n  吹风机外观基于图片#1\n避免:",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A468423ec-f71d-4a1d-bdae-42c6577a7afb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑/生成一张产品展示图，参考图片#2的排版布局，主体为图片#1中的吹风机正反面。\\n\\n风格/媒介:产品展示图，参考图片#2的整体风格\\n构图:排版与参考图片#2完全一致\\n主体:吹风机正面与反面\\n场景/背景:卡其色色调背景\\n光线/氛围:\\n色彩方案:卡其色色调\\n材质/纹理:\\n文字(原样):\\n约束:\\n  仅生成一张\\n  图片尺寸与参考图片#2一致\\n  排版布局与参考图片#2一致\\n  吹风机外观基于图片#1\\n避免:\", \"size\": \"auto\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5615,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

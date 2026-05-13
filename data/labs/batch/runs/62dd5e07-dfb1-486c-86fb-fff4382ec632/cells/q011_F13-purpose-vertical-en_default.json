@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Xiaohongshu cover image announcing the launch of GPT-image-2 on the Lovart platform, with a high-end editorial magazine aesthetic.\n\nStyle/medium: high-end editorial magazine cover, bold graphic design\nComposition: diagonal composition — key visual elements and typography arranged along a strong diagonal axis\nSubject: launch announcement of GPT-image-2 on Lovart platform, with prominent display of both brand names\nScene/backdrop: \nLighting/mood: high contrast, sharp and dramatic to reinforce the accent color emphasis\nColor palette: high-contrast with a strong accent color (e.g., electric or neon accent against a near-black or stark white base)\nMaterials/textures: \nText (verbatim): \"GPT-image-2\" and \"Lovart\"\nConstraints: both \"GPT-image-2\" and \"Lovart\" must appear as legible typographic elements; diagonal layout must be clearly visible; image must work as a Xiaohongshu cover (portrait 3:4 ratio)\nAvoid: cluttered layout, soft pastel tones, generic social-media template look, gradients that reduce contrast",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f42f3dc9-ccc6-4bd4-97ef-bb0b56a02b9c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing Xiaohongshu cover image announcing the launch of GPT-image-2 on the Lovart platform, with a high-end editorial magazine aesthetic.\\n\\nStyle/medium: high-end editorial magazine cover, bold graphic design\\nComposition: diagonal composition — key visual elements and typography arranged along a strong diagonal axis\\nSubject: launch announcement of GPT-image-2 on Lovart platform, with prominent display of both brand names\\nScene/backdrop: \\nLighting/mood: high contrast, sharp and dramatic to reinforce the accent color emphasis\\nColor palette: high-contrast with a strong accent color (e.g., electric or neon accent against a near-black or stark white base)\\nMaterials/textures: \\nText (verbatim): \\\"GPT-image-2\\\" and \\\"Lovart\\\"\\nConstraints: both \\\"GPT-image-2\\\" and \\\"Lovart\\\" must appear as legible typographic elements; diagonal layout must be clearly visible; image must work as a Xiaohongshu cover (portrait 3:4 ratio)\\nAvoid: cluttered layout, soft pastel tones, generic social-media template look, gradients that reduce contrast\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7462
+}

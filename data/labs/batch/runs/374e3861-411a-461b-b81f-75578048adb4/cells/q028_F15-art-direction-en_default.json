@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photograph of a muscular athlete performing a deadlift in a professional gym setting.\n\nStyle/medium: needs an industrial aesthetic — exact stylistic execution is yours\nComposition: must include the athlete as the focal subject performing a deadlift\nSubject: must include a muscular athlete with defined muscle lines performing a deadlift\nScene/backdrop: must include a professional gym with industrial-style interior design\nLighting/mood: needs a cool-toned, masculine atmosphere — exact light source mix is yours\nColor palette: needs a cool-toned direction — exact hex values and ratios are yours\nMaterials/textures: must include sweat and power aesthetics — exact texture treatment is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c5a75d3b-3f78-48e9-9abb-102ef5559669/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photograph of a muscular athlete performing a deadlift in a professional gym setting.\\n\\nStyle/medium: needs an industrial aesthetic — exact stylistic execution is yours\\nComposition: must include the athlete as the focal subject performing a deadlift\\nSubject: must include a muscular athlete with defined muscle lines performing a deadlift\\nScene/backdrop: must include a professional gym with industrial-style interior design\\nLighting/mood: needs a cool-toned, masculine atmosphere — exact light source mix is yours\\nColor palette: needs a cool-toned direction — exact hex values and ratios are yours\\nMaterials/textures: must include sweat and power aesthetics — exact texture treatment is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9665
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 6,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个线下零食店LOGO与字体，品牌名：海地亚，品牌英文名：haidear，参考几多全，金粒门，有点推荐，蒲妈妈LOGO与字体",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac01cab23-817e-4e2c-8726-8f45db3c4b88/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个线下零食店LOGO与字体，品牌名：海地亚，品牌英文名：haidear，参考几多全，金粒门，有点推荐，蒲妈妈LOGO与字体\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2681,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

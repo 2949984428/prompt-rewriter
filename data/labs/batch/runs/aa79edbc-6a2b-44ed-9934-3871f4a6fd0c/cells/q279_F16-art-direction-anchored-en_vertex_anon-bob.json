@@ -1,0 +1,23 @@
+{
+  "query_idx": 279,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一張 YouTube Shorts 封面。\n\n風格/媒介：寫實攝影風格封面\n構圖：\n  9:16 豎向構圖，適合 YouTube Shorts\n  畫面中央呈現拔河拉扯場景\n  小嬰孩在上方抓住小熊玩偶的頭部位置，小狗在下方咬住小熊玩偶的腳部位置\n主體：\n  白人小嬰孩，表情用力誇張，雙手緊抓小熊玩偶的頭\n  小狗咬住同一隻小熊玩偶的腳\n  兩者同時拉扯同一隻小熊玩偶，形成拔河對峙\n場景/背景：\n光線/氛圍：\n色彩方案：\n材質/紋理：\n文字(原樣)：\n約束：\n  參考上傳的第一張圖作為視覺參考\n  保留小狗與小熊玩偶的角色設定\n避免：",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab45bde86-eafd-4018-8497-6efac7ae5294/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一張 YouTube Shorts 封面。\\n\\n風格/媒介：寫實攝影風格封面\\n構圖：\\n  9:16 豎向構圖，適合 YouTube Shorts\\n  畫面中央呈現拔河拉扯場景\\n  小嬰孩在上方抓住小熊玩偶的頭部位置，小狗在下方咬住小熊玩偶的腳部位置\\n主體：\\n  白人小嬰孩，表情用力誇張，雙手緊抓小熊玩偶的頭\\n  小狗咬住同一隻小熊玩偶的腳\\n  兩者同時拉扯同一隻小熊玩偶，形成拔河對峙\\n場景/背景：\\n光線/氛圍：\\n色彩方案：\\n材質/紋理：\\n文字(原樣)：\\n約束：\\n  參考上傳的第一張圖作為視覺參考\\n  保留小狗與小熊玩偶的角色設定\\n避免：\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8177,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

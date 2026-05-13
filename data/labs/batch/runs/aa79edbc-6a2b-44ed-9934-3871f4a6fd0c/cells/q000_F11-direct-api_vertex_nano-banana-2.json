@@ -1,0 +1,23 @@
+{
+  "query_idx": 0,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个logo要求简洁扁平化，蓝色或着红色，最多可用奥运五色，字母包含TJTC四个字母，视觉效果好",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A80aa495c-8891-404a-8da6-162a7506020b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个logo要求简洁扁平化，蓝色或着红色，最多可用奥运五色，字母包含TJTC四个字母，视觉效果好\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3608,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

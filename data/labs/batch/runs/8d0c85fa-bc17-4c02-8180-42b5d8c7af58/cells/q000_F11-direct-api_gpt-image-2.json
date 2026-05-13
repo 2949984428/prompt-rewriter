@@ -1,0 +1,23 @@
+{
+  "query_idx": 0,
+  "skill_id": "F11-direct-api",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:North_western_bus_logo] create a modern logo based on the image provided",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Ad1963a5a-5901-4d45-ada3-e9145545854d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:North_western_bus_logo] create a modern logo based on the image provided\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2892,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

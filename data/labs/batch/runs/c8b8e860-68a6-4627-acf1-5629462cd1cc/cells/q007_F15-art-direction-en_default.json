@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a detailed exploded-view technical diagram of a Sony A7 camera showing all its components.\n\nStyle/medium: needs a technical illustration aesthetic — exact rendering style is yours\nComposition: must be exploded-view layout with all parts separated and clearly arranged\nSubject: must include all internal and external components of a Sony A7 camera with their names labeled\nScene/backdrop: must be a clean technical diagram background\nLighting/mood: needs a clear, instructional atmosphere — exact lighting setup is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include component names in Spanish as labeled callouts (sensor, montura E, obturador, batería, tarjeta SD, visor electrónico, pantalla LCD, dial de modo, botón de disparo, etc.)\nConstraints: must preserve accurate camera anatomy, all major components visible and labeled\nAvoid: must avoid incorrect component placement or mislabeled parts",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/92cef1ff-eb36-4b60-bf71-04b36173cf1e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a detailed exploded-view technical diagram of a Sony A7 camera showing all its components.\\n\\nStyle/medium: needs a technical illustration aesthetic — exact rendering style is yours\\nComposition: must be exploded-view layout with all parts separated and clearly arranged\\nSubject: must include all internal and external components of a Sony A7 camera with their names labeled\\nScene/backdrop: must be a clean technical diagram background\\nLighting/mood: needs a clear, instructional atmosphere — exact lighting setup is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include component names in Spanish as labeled callouts (sensor, montura E, obturador, batería, tarjeta SD, visor electrónico, pantalla LCD, dial de modo, botón de disparo, etc.)\\nConstraints: must preserve accurate camera anatomy, all major components visible and labeled\\nAvoid: must avoid incorrect component placement or mislabeled parts\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17087
+}

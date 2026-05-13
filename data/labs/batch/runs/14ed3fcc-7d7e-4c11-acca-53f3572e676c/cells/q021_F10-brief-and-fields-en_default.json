@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of emperor penguins marching across sea ice before a massive blue glacier near the Ross Ice Shelf, Antarctica, at polar midnight sun — National Geographic cover level.\n\nStyle/medium: photorealistic polar nature photography, ultra-wide-angle lens, color-accurate rendering in the spirit of National Geographic editorial photography\nComposition: ultra-wide-angle shot, low horizon line, foreground close-up of 2–3 emperor penguins with the vast marching colony receding into the middle ground, towering blue glacier filling the background\nSubject: hundreds of emperor penguins in a sweeping procession across sea ice; foreground individuals showing crisp black-and-white plumage, vivid orange-yellow beak detail, and a chick nestled on a parent's feet\nScene/backdrop: Ross Ice Shelf vicinity, Antarctica; a colossal blue glacier with layered textures ranging from pale ice-blue to deep cobalt, with mysterious blue light glowing from within crevasses; distant icebergs floating on a calm polar sea\nLighting/mood: polar midnight sun low on the horizon, casting pale gold light across the scene; warm golden sky tones contrasting with the cold blue glacier and ice — surreal, sublime, fragile\nColor palette: deep cobalt and pale glacial blue as dominant tones, warm pale gold in the sky as counterpoint, black-and-white penguin forms as graphic anchors, orange-yellow beak accents\nMaterials/textures: visible individual feather strands on foreground penguins, translucent cracked ice surface with internal blue glow, matte compressed snow on sea ice, glassy calm water in the far distance\nAvoid: artificial HDR glow, oversaturated colors, deformed penguin anatomy, studio lighting artifacts, generic stock-photo flatness",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/77fcf250-3d05-4ac2-9fd7-2f80a80f6c3e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of emperor penguins marching across sea ice before a massive blue glacier near the Ross Ice Shelf, Antarctica, at polar midnight sun — National Geographic cover level.\\n\\nStyle/medium: photorealistic polar nature photography, ultra-wide-angle lens, color-accurate rendering in the spirit of National Geographic editorial photography\\nComposition: ultra-wide-angle shot, low horizon line, foreground close-up of 2–3 emperor penguins with the vast marching colony receding into the middle ground, towering blue glacier filling the background\\nSubject: hundreds of emperor penguins in a sweeping procession across sea ice; foreground individuals showing crisp black-and-white plumage, vivid orange-yellow beak detail, and a chick nestled on a parent's feet\\nScene/backdrop: Ross Ice Shelf vicinity, Antarctica; a colossal blue glacier with layered textures ranging from pale ice-blue to deep cobalt, with mysterious blue light glowing from within crevasses; distant icebergs floating on a calm polar sea\\nLighting/mood: polar midnight sun low on the horizon, casting pale gold light across the scene; warm golden sky tones contrasting with the cold blue glacier and ice — surreal, sublime, fragile\\nColor palette: deep cobalt and pale glacial blue as dominant tones, warm pale gold in the sky as counterpoint, black-and-white penguin forms as graphic anchors, orange-yellow beak accents\\nMaterials/textures: visible individual feather strands on foreground penguins, translucent cracked ice surface with internal blue glow, matte compressed snow on sea ice, glassy calm water in the far distance\\nAvoid: artificial HDR glow, oversaturated colors, deformed penguin anatomy, studio lighting artifacts, generic stock-photo flatness\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 13313
+}

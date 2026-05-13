@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: fashion-editorial\nAsset type: haute couture lookbook, runway campaign\nPrimary request: conceptual evening gown inspired by deep-sea bioluminescent creatures\nScene/backdrop: pure black studio void, professional stage lighting from multiple angles\nSubject: floor-length couture gown with multi-layer semi-transparent organza skirt printed with jellyfish tentacle patterns, bodice with 3D coral embroidery and Swarovski crystals in blue/green/purple\nStyle/medium: fashion illustration meets photography composite, haute couture editorial\nComposition/framing: full-length fashion portrait, centered figure, dramatic vertical emphasis\nLighting/mood: theatrical multi-source studio lighting highlighting translucent fabric and bioluminescent effects, mysterious and luxurious\nColor palette: deep ocean blue, fluorescent violet/purple, coral orange, iridescent crystal reflections\nMaterials/textures: layered organza with jellyfish print, 3D embroidered coral texture, Swarovski crystal embellishments, flowing translucent fabric\nConstraints: maintain bioluminescent glow effect, preserve couture craftsmanship details, keep black background for contrast\nAvoid: flat lighting, synthetic cheap fabric appearance, cluttered background, cartoonish colors, amateur photography",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/88d34905-4af9-4bbc-baf2-05d54a853d5f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: fashion-editorial\\nAsset type: haute couture lookbook, runway campaign\\nPrimary request: conceptual evening gown inspired by deep-sea bioluminescent creatures\\nScene/backdrop: pure black studio void, professional stage lighting from multiple angles\\nSubject: floor-length couture gown with multi-layer semi-transparent organza skirt printed with jellyfish tentacle patterns, bodice with 3D coral embroidery and Swarovski crystals in blue/green/purple\\nStyle/medium: fashion illustration meets photography composite, haute couture editorial\\nComposition/framing: full-length fashion portrait, centered figure, dramatic vertical emphasis\\nLighting/mood: theatrical multi-source studio lighting highlighting translucent fabric and bioluminescent effects, mysterious and luxurious\\nColor palette: deep ocean blue, fluorescent violet/purple, coral orange, iridescent crystal reflections\\nMaterials/textures: layered organza with jellyfish print, 3D embroidered coral texture, Swarovski crystal embellishments, flowing translucent fabric\\nConstraints: maintain bioluminescent glow effect, preserve couture craftsmanship details, keep black background for contrast\\nAvoid: flat lighting, synthetic cheap fabric appearance, cluttered background, cartoonish colors, amateur photography\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9827
+}

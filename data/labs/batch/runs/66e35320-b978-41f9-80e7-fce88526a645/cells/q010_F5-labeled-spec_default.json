@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: brand-guideline\nAsset type: brand color + typography specification sheet\nPrimary request: brand identity guideline display for \"染秋 (RAN QIU)\" autumn fragrance brand\nScene/backdrop: clean minimalist layout with color swatches and typography hierarchy\nSubject: primary color (#C4A35A golden amber), secondary color (#8B4513 warm brown), accent color (#D2691E persimmon), typography specimens showing Chinese and Latin letterforms\nStyle/medium: flat design, editorial layout, brand identity presentation\nComposition/framing: top-down grid layout, generous white space, organized hierarchy\nLighting/mood: soft diffused, warm and refined, autumn-inspired elegance\nColor palette: golden amber (#C4A35A), warm brown (#8B4513), persimmon orange (#D2691E), cream white background, subtle gray text\nMaterials/textures: matte paper texture, clean vector graphics\nText (verbatim): \"染秋 RAN QIU\"\nConstraints: must display primary color, secondary color, and typography specifications clearly; preserve Chinese characters \"染秋\" and pinyin \"RAN QIU\"\nAvoid: cluttered layout, neon colors, cold blue tones, decorative elements unrelated to autumn theme",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/91227f07-0e4c-4eb4-884c-c231a24851c9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: brand-guideline\\nAsset type: brand color + typography specification sheet\\nPrimary request: brand identity guideline display for \\\"染秋 (RAN QIU)\\\" autumn fragrance brand\\nScene/backdrop: clean minimalist layout with color swatches and typography hierarchy\\nSubject: primary color (#C4A35A golden amber), secondary color (#8B4513 warm brown), accent color (#D2691E persimmon), typography specimens showing Chinese and Latin letterforms\\nStyle/medium: flat design, editorial layout, brand identity presentation\\nComposition/framing: top-down grid layout, generous white space, organized hierarchy\\nLighting/mood: soft diffused, warm and refined, autumn-inspired elegance\\nColor palette: golden amber (#C4A35A), warm brown (#8B4513), persimmon orange (#D2691E), cream white background, subtle gray text\\nMaterials/textures: matte paper texture, clean vector graphics\\nText (verbatim): \\\"染秋 RAN QIU\\\"\\nConstraints: must display primary color, secondary color, and typography specifications clearly; preserve Chinese characters \\\"染秋\\\" and pinyin \\\"RAN QIU\\\"\\nAvoid: cluttered layout, neon colors, cold blue tones, decorative elements unrelated to autumn theme\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11339
+}

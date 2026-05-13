@@ -1,0 +1,23 @@
+{
+  "query_idx": 242,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（专业厨师领英照片）。\n\n风格/媒介:\n构图:\n主体:将图中人脸替换为与第二张图（@image:#2）完全一致的人脸\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  参考图像 @image:#1 作为编辑底图\n  参考图像 @image:#2 作为人脸来源，人脸须与其一模一样\n  除人脸区域外，其余内容（服装、背景、姿势、光线等）保持不变\n  最终图适用于领英（LinkedIn）头像/职业照场景\n避免:改动人脸以外的任何区域",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A615c3df2-f3ad-4330-9a7b-908b45badb42/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（专业厨师领英照片）。\\n\\n风格/媒介:\\n构图:\\n主体:将图中人脸替换为与第二张图（@image:#2）完全一致的人脸\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  参考图像 @image:#1 作为编辑底图\\n  参考图像 @image:#2 作为人脸来源，人脸须与其一模一样\\n  除人脸区域外，其余内容（服装、背景、姿势、光线等）保持不变\\n  最终图适用于领英（LinkedIn）头像/职业照场景\\n避免:改动人脸以外的任何区域\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5896,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

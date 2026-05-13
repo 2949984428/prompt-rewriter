@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional poster for cross-border e-commerce sales, designed for platform advertising, with layered typography and product-obscured text in a visually dense yet controlled composition.\n\nStyle/medium: promotional poster with the typographic exuberance of layered graphic design, balancing commercial urgency with visual rhythm\nComposition: 16:9 horizontal format, bold artistic typography layered at varying depths, product or subject partially obscuring some letterforms to create spatial tension\nSubject: promotional messaging with stacked and overlapping type treatments, product element positioned to interrupt and interact with text layers\nScene/backdrop: commercial promotional context with depth created through typographic layering and strategic obscuration\nLighting/mood: the energetic pulse of a sales event, dynamic but not chaotic\nColor palette: high-contrast commercial palette with disciplined color blocking to maintain legibility amid complexity\nMaterials/textures: crisp vector typography with subtle dimensional depth, clean product photography integration\nText (verbatim): 跨境电商促销\nConstraints: 16:9 aspect ratio, complex but not cluttered, intentional product-to-text overlap, artistic stacked typography\nAvoid: actual visual chaos, illegible text, generic stock-photo aesthetic, decorative noise without purpose",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3eab2fa7-2727-4a24-ba72-fd928efe1db6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional poster for cross-border e-commerce sales, designed for platform advertising, with layered typography and product-obscured text in a visually dense yet controlled composition.\\n\\nStyle/medium: promotional poster with the typographic exuberance of layered graphic design, balancing commercial urgency with visual rhythm\\nComposition: 16:9 horizontal format, bold artistic typography layered at varying depths, product or subject partially obscuring some letterforms to create spatial tension\\nSubject: promotional messaging with stacked and overlapping type treatments, product element positioned to interrupt and interact with text layers\\nScene/backdrop: commercial promotional context with depth created through typographic layering and strategic obscuration\\nLighting/mood: the energetic pulse of a sales event, dynamic but not chaotic\\nColor palette: high-contrast commercial palette with disciplined color blocking to maintain legibility amid complexity\\nMaterials/textures: crisp vector typography with subtle dimensional depth, clean product photography integration\\nText (verbatim): 跨境电商促销\\nConstraints: 16:9 aspect ratio, complex but not cluttered, intentional product-to-text overlap, artistic stacked typography\\nAvoid: actual visual chaos, illegible text, generic stock-photo aesthetic, decorative noise without purpose\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8889
+}

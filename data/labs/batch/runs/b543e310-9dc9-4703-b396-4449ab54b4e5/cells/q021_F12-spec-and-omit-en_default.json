@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3x3 character expression grid for Zhao Ling'er from Chinese Paladin (仙剑奇侠传赵灵儿).\n\nStyle/medium: 3D animation, Pixar style\nComposition: 3x3 grid layout, nine panels, each panel showing character peeking through a torn hole in white paper\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses as Zhao Ling'er\nScene/backdrop: white paper with torn circular holes as framing device for each panel\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: original non-infringing character design inspired by Zhao Ling'er IP; nine distinct expressions and outfits as specified: top-left winking adjusting glasses in green sweater; top-center smirking lowering dark sunglasses in red leather jacket; top-right thinking finger on chin in yellow hoodie; middle-left big smile arms resting on edge in black and white striped shirt; middle-center smiling thumbs up in orange button-up shirt; middle-right neutral drinking boba tea in blue sweater; bottom-left happy waving in purple sweater vest over white shirt; bottom-center laughing with eyes closed arms crossed in pink cardigan; bottom-right silly poking cheeks in teal sweater\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/678b027b-a88f-459d-9b9f-a30b21b3cc46/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 3x3 character expression grid for Zhao Ling'er from Chinese Paladin (仙剑奇侠传赵灵儿).\\n\\nStyle/medium: 3D animation, Pixar style\\nComposition: 3x3 grid layout, nine panels, each panel showing character peeking through a torn hole in white paper\\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses as Zhao Ling'er\\nScene/backdrop: white paper with torn circular holes as framing device for each panel\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: original non-infringing character design inspired by Zhao Ling'er IP; nine distinct expressions and outfits as specified: top-left winking adjusting glasses in green sweater; top-center smirking lowering dark sunglasses in red leather jacket; top-right thinking finger on chin in yellow hoodie; middle-left big smile arms resting on edge in black and white striped shirt; middle-center smiling thumbs up in orange button-up shirt; middle-right neutral drinking boba tea in blue sweater; bottom-left happy waving in purple sweater vest over white shirt; bottom-center laughing with eyes closed arms crossed in pink cardigan; bottom-right silly poking cheeks in teal sweater\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9287
+}

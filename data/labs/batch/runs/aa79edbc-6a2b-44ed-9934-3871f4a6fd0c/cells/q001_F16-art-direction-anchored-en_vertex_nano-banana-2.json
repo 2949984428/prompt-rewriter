@@ -1,0 +1,15 @@
+{
+  "query_idx": 1,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"设计 Logo —— 公司名 appkit，以字母 A 为核心造型，方案一：Claude 品牌风格。\\n\\n风格/媒介:参考 Claude 品牌视觉风格，扁平简洁 logo 设计\\n构图:以字母 A 为主体图形，居中构图，图形与文字 appkit 组合排列\\n主体:字母 A 构成的 logo 图形 + 文字 appkit\\n场景/背景:纯色或透明背景\\n光线/氛围:\\n色彩方案:参考 Claude 品牌配色（暖橙 / 米白 / 深棕色系）\\n材质/纹理:\\n文字(原样):appkit\\n约束:logo 设计，矢量风格，可识别度高\\n避免:写实质感、复杂装饰、多余图形元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"设计 Logo —— 公司名 appkit，以字母 A 为核心造型，方案二：Lovart 品牌风格。\\n\\n风格/媒介:参考 Lovart 品牌视觉风格，富有创意感与艺术气息的 logo 设计\\n构图:以字母 A 为主体图形，居中构图，图形与文字 appkit 组合排列\\n主体:字母 A 构成的 logo 图形 + 文字 appkit\\n场景/背景:纯色或透明背景\\n光线/氛围:\\n色彩方案:参考 Lovart 品牌配色（粉紫 / 渐变色系）\\n材质/纹理:\\n文字(原样):appkit\\n约束:logo 设计，矢量风格，可识别度高\\n避免:写实质感、复杂装饰、多余图形元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"设计 Logo —— 公司名 appkit，以字母 A 为核心造型，方案三：Figma 品牌风格。\\n\\n风格/媒介:参考 Figma 品牌视觉风格，几何感强、现代简约的 logo 设计\\n构图:以字母 A 为主体图形，居中构图，图形与文字 appkit 组合排列\\n主体:字母 A 构成的 logo 图形 + 文字 appkit\\n场景/背景:纯色或透明背景\\n光线/氛围:\\n色彩方案:参考 Figma 品牌配色（红 / 紫 / 蓝 / 绿多色几何色块）\\n材质/纹理:\\n文字(原样):appkit\\n约束:logo 设计，矢量风格，几何图形拼合，可识别度高\\n避免:写实质感、复杂装饰、多余图形元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12943,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

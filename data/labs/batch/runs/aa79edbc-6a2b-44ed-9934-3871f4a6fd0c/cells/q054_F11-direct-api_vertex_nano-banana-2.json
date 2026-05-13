@@ -1,0 +1,23 @@
+{
+  "query_idx": 54,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a clean and modern logo for a music school named \"Studio Gitare Požarevac\". The logo should feature a stylized guitar element (acoustic or electric) integrated creatively with typography. Use minimalistic and professional design, not overly complex. Include subtle musical elements like strings, sound waves, or notes if it fits naturally.\nThe color palette should be elegant (black, white, dark blue, or warm wood tones), avoiding overly bright or neon colors. The typography should be clear, slightly artistic but still highly readable.\nThe logo should feel premium, trustworthy, and creative, suitable for a guitar studio or music education brand.\nComposition should work well in both horizontal and centered versions. Clean background, high contrast. Vector style, scalable, suitable for print and social media.\nAdd a subtle local identity touch inspired by Požarevac, but keep it minimal and not cliché.\nStyle: minimal, modern, professional, music-focused branding, flat design, high-quality logo design.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6b12e49d-b811-42b7-bc73-b0a1b9f4d844/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a clean and modern logo for a music school named \\\"Studio Gitare Požarevac\\\". The logo should feature a stylized guitar element (acoustic or electric) integrated creatively with typography. Use minimalistic and professional design, not overly complex. Include subtle musical elements like strings, sound waves, or notes if it fits naturally.\\nThe color palette should be elegant (black, white, dark blue, or warm wood tones), avoiding overly bright or neon colors. The typography should be clear, slightly artistic but still highly readable.\\nThe logo should feel premium, trustworthy, and creative, suitable for a guitar studio or music education brand.\\nComposition should work well in both horizontal and centered versions. Clean background, high contrast. Vector style, scalable, suitable for print and social media.\\nAdd a subtle local identity touch inspired by Požarevac, but keep it minimal and not cliché.\\nStyle: minimal, modern, professional, music-focused branding, flat design, high-quality logo design.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4488,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

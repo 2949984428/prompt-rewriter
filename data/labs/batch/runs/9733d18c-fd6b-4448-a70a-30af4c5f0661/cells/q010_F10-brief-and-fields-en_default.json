@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original concept art illustration for a medieval fantasy dragon lair scene.\n\nStyle/medium: game concept art, Dungeons & Dragons classic fantasy aesthetic, photorealistic rendering with painterly brushwork\nComposition: wide establishing shot, low-angle perspective emphasizing the dragon's scale and dominance, depth of field with foreground treasure and background cave entrance\nSubject: massive ancient dragon with deep crimson and black interwoven scales, wings fully spread covering most of the cavern space, eyes emitting intense golden glow, coiled atop a mountain of gold coins and treasures\nScene/backdrop: active volcano lava cavern interior, molten lava flowing down cave walls, treasure pile containing exotic magical artifacts, ancient armors, and glowing magical gems, distant cave entrance with moonlight filtering in\nLighting/mood: warm orange-red lava glow illuminating dragon scales with complex light-shadow interplay, single beam of cool moonlight from cave entrance creating warm-cool contrast, dramatic and epic atmosphere\nColor palette: deep crimson and black as dragon base, orange and gold as lava and treasure highlights, cool silver-blue moonlight accent against warm volcanic tones\nMaterials/textures: glossy obsidian-like dragon scales with metallic sheen, rough volcanic rock surfaces, molten liquid metal lava, polished gold coins and gems with reflective surfaces\nAvoid: cartoonish stylization, flat lighting, oversaturated neon colors, 8K stuffer aesthetic, anime proportions",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f5ca601f-b2db-40b3-be32-61125f6db982/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original concept art illustration for a medieval fantasy dragon lair scene.\\n\\nStyle/medium: game concept art, Dungeons & Dragons classic fantasy aesthetic, photorealistic rendering with painterly brushwork\\nComposition: wide establishing shot, low-angle perspective emphasizing the dragon's scale and dominance, depth of field with foreground treasure and background cave entrance\\nSubject: massive ancient dragon with deep crimson and black interwoven scales, wings fully spread covering most of the cavern space, eyes emitting intense golden glow, coiled atop a mountain of gold coins and treasures\\nScene/backdrop: active volcano lava cavern interior, molten lava flowing down cave walls, treasure pile containing exotic magical artifacts, ancient armors, and glowing magical gems, distant cave entrance with moonlight filtering in\\nLighting/mood: warm orange-red lava glow illuminating dragon scales with complex light-shadow interplay, single beam of cool moonlight from cave entrance creating warm-cool contrast, dramatic and epic atmosphere\\nColor palette: deep crimson and black as dragon base, orange and gold as lava and treasure highlights, cool silver-blue moonlight accent against warm volcanic tones\\nMaterials/textures: glossy obsidian-like dragon scales with metallic sheen, rough volcanic rock surfaces, molten liquid metal lava, polished gold coins and gems with reflective surfaces\\nAvoid: cartoonish stylization, flat lighting, oversaturated neon colors, 8K stuffer aesthetic, anime proportions\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14353
+}

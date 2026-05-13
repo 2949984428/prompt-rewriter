@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: educational knowledge card for children\nPrimary request: single large knowledge card explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era\nScene/backdrop: clean white background with subtle decorative borders suitable for children's educational materials\nSubject: cartoon-style illustrated narrative of the Battle of Red Cliffs showing key moments: fire attack, chained ships, Zhuge Liang's strategy, and the final victory\nStyle/medium: flat vector illustration, cartoon storybook style, child-friendly character designs\nComposition/framing: top-down layout with clear title banner at top, main story illustration in center, bullet-point summary on the side\nLighting/mood: bright and cheerful, welcoming educational tone\nColor palette: warm oranges and reds for fire elements, cool blues for water and sky, soft earth tones for characters\nMaterials/textures: smooth vector graphics, no realistic textures\nText (verbatim): \"赤壁之战\"\nConstraints: title must be prominent and readable, bullet points must be clearly separated with punctuation, story must progress logically from left to right\nAvoid: scary or violent imagery, complex historical details unsuitable for children, cluttered layout, realistic gore or weapons",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/39bc67b4-1120-4db9-b529-9c0a648924ec/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: educational knowledge card for children\\nPrimary request: single large knowledge card explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era\\nScene/backdrop: clean white background with subtle decorative borders suitable for children's educational materials\\nSubject: cartoon-style illustrated narrative of the Battle of Red Cliffs showing key moments: fire attack, chained ships, Zhuge Liang's strategy, and the final victory\\nStyle/medium: flat vector illustration, cartoon storybook style, child-friendly character designs\\nComposition/framing: top-down layout with clear title banner at top, main story illustration in center, bullet-point summary on the side\\nLighting/mood: bright and cheerful, welcoming educational tone\\nColor palette: warm oranges and reds for fire elements, cool blues for water and sky, soft earth tones for characters\\nMaterials/textures: smooth vector graphics, no realistic textures\\nText (verbatim): \\\"赤壁之战\\\"\\nConstraints: title must be prominent and readable, bullet points must be clearly separated with punctuation, story must progress logically from left to right\\nAvoid: scary or violent imagery, complex historical details unsuitable for children, cluttered layout, realistic gore or weapons\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10039
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a luxury beauty product advertisement photo for a serum product, suitable for social media promotion (all in-image text in Chinese).\n\nStyle/medium: needs a 奢华精致 high-end beauty editorial aesthetic — exact stylistic execution is yours\nComposition: must include the serum bottle as the central focal subject, rose petals and water droplets arranged around it\nSubject: must include a glass serum bottle with pale golden liquid visible through the glass, rose petals, and splashing water droplets\nScene/backdrop: needs a soft pink gradient background\nLighting/mood: needs a soft, natural light atmosphere — exact light source mix is yours\nColor palette: needs a soft pink and pale gold direction — exact hex values and ratios are yours\nMaterials/textures: needs a glass and liquid surface treatment — exact sheen and refraction level is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c2610099-4967-459b-a089-47244c485128/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a luxury beauty product advertisement photo for a serum product, suitable for social media promotion (all in-image text in Chinese).\\n\\nStyle/medium: needs a 奢华精致 high-end beauty editorial aesthetic — exact stylistic execution is yours\\nComposition: must include the serum bottle as the central focal subject, rose petals and water droplets arranged around it\\nSubject: must include a glass serum bottle with pale golden liquid visible through the glass, rose petals, and splashing water droplets\\nScene/backdrop: needs a soft pink gradient background\\nLighting/mood: needs a soft, natural light atmosphere — exact light source mix is yours\\nColor palette: needs a soft pink and pale gold direction — exact hex values and ratios are yours\\nMaterials/textures: needs a glass and liquid surface treatment — exact sheen and refraction level is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11379
+}

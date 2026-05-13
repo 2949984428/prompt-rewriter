@@ -1,0 +1,23 @@
+{
+  "query_idx": 0,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: e-commerce hero banner for Tmall homepage\nPrimary request: luxury serum bottle floating among pink petals and water droplets\nScene/backdrop: soft gradient pink-to-purple background, dreamy ethereal atmosphere\nSubject: premium glass serum bottle with gold cap, elegant minimalist design, suspended in mid-air\nStyle/medium: high-end commercial photography with 3D rendering aesthetic\nComposition/framing: centered hero shot, ample negative space for text overlay, wide banner format\nLighting/mood: soft diffused studio lighting, glowing highlights on glass and droplets, luxurious and dreamy mood\nColor palette: soft pink, lavender purple, rose gold accents, pearlescent whites\nMaterials/textures: transparent glass with liquid refraction, silky smooth petals, crystal-clear water droplets with caustic light effects\nConstraints: maintain luxury brand aesthetic suitable for premium beauty campaign, keep bottle as clear focal point\nAvoid: harsh shadows, cluttered composition, plastic-looking materials, watermark, text overlay",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dfdc6c63-a9ff-4437-ae6b-916bd24de035/0.png"
+  ],
+  "scores": {
+    "overall": 4,
+    "intent": 4
+  },
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero banner for Tmall homepage\\nPrimary request: luxury serum bottle floating among pink petals and water droplets\\nScene/backdrop: soft gradient pink-to-purple background, dreamy ethereal atmosphere\\nSubject: premium glass serum bottle with gold cap, elegant minimalist design, suspended in mid-air\\nStyle/medium: high-end commercial photography with 3D rendering aesthetic\\nComposition/framing: centered hero shot, ample negative space for text overlay, wide banner format\\nLighting/mood: soft diffused studio lighting, glowing highlights on glass and droplets, luxurious and dreamy mood\\nColor palette: soft pink, lavender purple, rose gold accents, pearlescent whites\\nMaterials/textures: transparent glass with liquid refraction, silky smooth petals, crystal-clear water droplets with caustic light effects\\nConstraints: maintain luxury brand aesthetic suitable for premium beauty campaign, keep bottle as clear focal point\\nAvoid: harsh shadows, cluttered composition, plastic-looking materials, watermark, text overlay\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14816
+}

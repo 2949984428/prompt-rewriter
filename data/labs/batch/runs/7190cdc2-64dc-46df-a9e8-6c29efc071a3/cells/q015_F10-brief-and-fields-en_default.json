@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design rendering for a 20-square-meter Japanese wabi-sabi meditation tea room.\n\nStyle/medium: interior design visualization, wabi-sabi aesthetic, photorealistic architectural rendering\nComposition: wide-angle interior shot capturing the full room layout, eye-level perspective, balanced negative space\nSubject: low black walnut tea table with natural grain and fine cracks, several floor cushions (zabuton), irregular handmade terracotta floor tiles, rough clay flower vessel with dried branches and moss balls\nScene/backdrop: 20-square-meter meditation space, one wall in raw diatomaceous earth texture, opposite wall with floor-to-ceiling sliding shoji doors revealing bamboo grove silhouettes through translucent washi paper, skylight above\nLighting/mood: natural light streaming diagonally from skylight, soft diffused illumination, quiet and contemplative zen atmosphere\nColor palette: off-white as base, natural wood tones as anchor, charcoal gray and moss green as accents, restrained and earthy harmony\nMaterials/textures: hand-fired irregular terracotta tiles with organic edges, black walnut wood grain with natural imperfections, rough diatomaceous earth wall surface, translucent washi paper, coarse ceramic vessel, natural moss\nConstraints: must convey extreme restraint of Eastern aesthetics and inner tranquility; no modern furniture or bright colors\nAvoid: glossy surfaces, perfect symmetry, bright artificial lighting, cluttered decorations, generic Scandinavian minimalism",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b5d9a9f1-3512-4ce6-8413-4a2de81454ba/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an interior design rendering for a 20-square-meter Japanese wabi-sabi meditation tea room.\\n\\nStyle/medium: interior design visualization, wabi-sabi aesthetic, photorealistic architectural rendering\\nComposition: wide-angle interior shot capturing the full room layout, eye-level perspective, balanced negative space\\nSubject: low black walnut tea table with natural grain and fine cracks, several floor cushions (zabuton), irregular handmade terracotta floor tiles, rough clay flower vessel with dried branches and moss balls\\nScene/backdrop: 20-square-meter meditation space, one wall in raw diatomaceous earth texture, opposite wall with floor-to-ceiling sliding shoji doors revealing bamboo grove silhouettes through translucent washi paper, skylight above\\nLighting/mood: natural light streaming diagonally from skylight, soft diffused illumination, quiet and contemplative zen atmosphere\\nColor palette: off-white as base, natural wood tones as anchor, charcoal gray and moss green as accents, restrained and earthy harmony\\nMaterials/textures: hand-fired irregular terracotta tiles with organic edges, black walnut wood grain with natural imperfections, rough diatomaceous earth wall surface, translucent washi paper, coarse ceramic vessel, natural moss\\nConstraints: must convey extreme restraint of Eastern aesthetics and inner tranquility; no modern furniture or bright colors\\nAvoid: glossy surfaces, perfect symmetry, bright artificial lighting, cluttered decorations, generic Scandinavian minimalism\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11838
+}

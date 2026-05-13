@@ -1,0 +1,23 @@
+{
+  "query_idx": 255,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图，将建筑设计改为横版插画风格，适合小红书平台发布。\n\n风格/媒介:插画风格\n构图:横版，16:9 比例\n主体:建筑设计\n场景/背景:不延展原图中不必要的场景，保持主体聚焦\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:基于原图建筑主体进行改编，不添加原图没有的场景元素\n避免:不必要的场景延展",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 2,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac0555a00-523d-432e-8690-3c912ec53891/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图，将建筑设计改为横版插画风格，适合小红书平台发布。\\n\\n风格/媒介:插画风格\\n构图:横版，16:9 比例\\n主体:建筑设计\\n场景/背景:不延展原图中不必要的场景，保持主体聚焦\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:基于原图建筑主体进行改编，不添加原图没有的场景元素\\n避免:不必要的场景延展\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 2, \"output_format\": \"png\"}",
+  "ms": 6602,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个PPT封面，通透震撼的背景图片配合符合品牌调性的标题和副标题。主题是：长安起源Q06将于9月上市",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bdead20b-5a88-4976-9946-2958ad957005/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"设计一个PPT封面，通透震撼的背景图片配合符合品牌调性的标题和副标题。主题是：长安起源Q06将于9月上市\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8207
+}

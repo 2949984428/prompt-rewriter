@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\n\nStyle/medium: needs a \"电商周年庆\" aesthetic — references in the spirit of Tmall / JD.com 618 grand promotion visual language, 2010s Chinese e-commerce banner design tradition, Memphis-influenced tech-product campaign graphics; exact stylistic execution is yours\nComposition: must be a vertical poster layout with a clear hierarchy — headline at top, product/brand focal area in center, CTA zone at bottom\nSubject: must include 绿联私有云 as the featured brand and product hero\nScene/backdrop: needs a festive, high-energy campaign backdrop — exact environment is yours\nLighting/mood: needs a vibrant, celebratory mood — exact lighting treatment is yours\nColor palette: needs a bold, energetic palette befitting a 618 sale campaign — exact color selection is yours\nMaterials/textures: \nText (verbatim): must include \"618\" (large, primary headline), \"周年庆\" (secondary display text)\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0fff1128-fa7b-4119-81e5-77dfb8a26215/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\\n\\nStyle/medium: needs a \\\"电商周年庆\\\" aesthetic — references in the spirit of Tmall / JD.com 618 grand promotion visual language, 2010s Chinese e-commerce banner design tradition, Memphis-influenced tech-product campaign graphics; exact stylistic execution is yours\\nComposition: must be a vertical poster layout with a clear hierarchy — headline at top, product/brand focal area in center, CTA zone at bottom\\nSubject: must include 绿联私有云 as the featured brand and product hero\\nScene/backdrop: needs a festive, high-energy campaign backdrop — exact environment is yours\\nLighting/mood: needs a vibrant, celebratory mood — exact lighting treatment is yours\\nColor palette: needs a bold, energetic palette befitting a 618 sale campaign — exact color selection is yours\\nMaterials/textures: \\nText (verbatim): must include \\\"618\\\" (large, primary headline), \\\"周年庆\\\" (secondary display text)\\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10023
+}

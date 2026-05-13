@@ -1,0 +1,26 @@
+{
+  "query_idx": 210,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Instagram post about:Let’smake new",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa8d0f474-13cc-46f1-8d88-f116968ce697/0.jpg",
+    "/api/image-file/lovart%3Aa8d0f474-13cc-46f1-8d88-f116968ce697/1.jpg",
+    "/api/image-file/lovart%3Aa8d0f474-13cc-46f1-8d88-f116968ce697/2.jpg",
+    "/api/image-file/lovart%3Aa8d0f474-13cc-46f1-8d88-f116968ce697/3.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a Instagram post about:Let'smake new\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2518,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

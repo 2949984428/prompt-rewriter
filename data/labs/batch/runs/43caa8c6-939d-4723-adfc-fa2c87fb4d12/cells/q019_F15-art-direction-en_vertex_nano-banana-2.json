@@ -1,0 +1,21 @@
+{
+  "query_idx": 19,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\n\nStyle/medium: needs a 618 大促电商海报 aesthetic — exact stylistic execution is yours\nComposition: needs a bold, hierarchy-driven layout — exact framing and arrangement is yours\nSubject: must include 绿联私有云 as the hero brand subject\nScene/backdrop: needs a festive 618 周年庆 campaign atmosphere — exact backdrop treatment is yours\nLighting/mood: needs a high-energy, celebratory mood — exact light treatment is yours\nColor palette: needs a vibrant 大促 direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"绿联私有云\" (brand name), \"618\" (hero number), \"周年庆\" (event label)\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad6f88edf-4601-4a6d-9860-1a2b299eba15/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\\n\\nStyle/medium: needs a 618 大促电商海报 aesthetic — exact stylistic execution is yours\\nComposition: needs a bold, hierarchy-driven layout — exact framing and arrangement is yours\\nSubject: must include 绿联私有云 as the hero brand subject\\nScene/backdrop: needs a festive 618 周年庆 campaign atmosphere — exact backdrop treatment is yours\\nLighting/mood: needs a high-energy, celebratory mood — exact light treatment is yours\\nColor palette: needs a vibrant 大促 direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"绿联私有云\\\" (brand name), \\\"618\\\" (hero number), \\\"周年庆\\\" (event label)\\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6768
+}

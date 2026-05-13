@@ -1,0 +1,23 @@
+{
+  "query_idx": 257,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张竖版手机屏广告海报，小红书风格。\n\n风格/媒介: 小红书广告海报风格；拼贴式平面排版；商业时尚摄影与图形设计混排；photorealistic 人物主体\n构图:\n  竖版手机屏比例\n  顶部：小红书红色 logo + 黑底白字图标「时髦好物编辑部」，右上角「跳过」UI 按钮\n  中央：真实拍摄的东亚女性模特作为主体，占画面核心位置\n  周围散布手绘风英文 slogan 与不规则绿色贴纸标签（白色轮廓剪影）\n  底部：「向上滑动 解锁时尚风向」交互提示文字 + 小红书品牌页脚\n主体:\n  东亚女性模特，中长直发棕色，自然妆容，银色颈链\n  身穿黑色无袖连衣裙，裙上带白色几何 monogram 图案\n  双手戴亮绿色长手套\n  右手举起一部绿色华为 nova 11 手机（背面朝外，可见双摄模组与「nova」logo）\n  左手叉腰\n  直视镜头\n场景/背景: 单色高饱和绿色背景（Nova Green）\n光线/氛围: 棚拍商业时尚摄影布光，直接正面光，photorealistic 皮肤质感\n色彩方案: 主色调高饱和绿（Nova Green）；点缀白色、黑色\n材质/纹理: 拼贴风格图形；手绘粗体字感；不规则贴纸白色轮廓剪影\n文字(原样):\n  「夏日出镜绿」（手绘风粗体白色中文标题）\n  「COLOUR MONOGRAM」\n  「BRAVE!」\n  「PHOTOGRAPH TAKE A PHOTO」\n  「时髦好物编辑部」\n  「跳过」\n  「向上滑动 解锁时尚风向」\n约束:\n  竖版手机屏广告格式，集成 UI 元素\n  华为 nova 11 手机背面需清晰呈现双摄模组与「nova」logo\n避免: 横版构图；模糊或缺失的文字内容；过度后期磨皮失去真实皮肤质感",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2aa2c0c8-2b7c-4370-ba55-8170acfaa4de/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张竖版手机屏广告海报，小红书风格。\\n\\n风格/媒介: 小红书广告海报风格；拼贴式平面排版；商业时尚摄影与图形设计混排；photorealistic 人物主体\\n构图:\\n  竖版手机屏比例\\n  顶部：小红书红色 logo + 黑底白字图标「时髦好物编辑部」，右上角「跳过」UI 按钮\\n  中央：真实拍摄的东亚女性模特作为主体，占画面核心位置\\n  周围散布手绘风英文 slogan 与不规则绿色贴纸标签（白色轮廓剪影）\\n  底部：「向上滑动 解锁时尚风向」交互提示文字 + 小红书品牌页脚\\n主体:\\n  东亚女性模特，中长直发棕色，自然妆容，银色颈链\\n  身穿黑色无袖连衣裙，裙上带白色几何 monogram 图案\\n  双手戴亮绿色长手套\\n  右手举起一部绿色华为 nova 11 手机（背面朝外，可见双摄模组与「nova」logo）\\n  左手叉腰\\n  直视镜头\\n场景/背景: 单色高饱和绿色背景（Nova Green）\\n光线/氛围: 棚拍商业时尚摄影布光，直接正面光，photorealistic 皮肤质感\\n色彩方案: 主色调高饱和绿（Nova Green）；点缀白色、黑色\\n材质/纹理: 拼贴风格图形；手绘粗体字感；不规则贴纸白色轮廓剪影\\n文字(原样):\\n  「夏日出镜绿」（手绘风粗体白色中文标题）\\n  「COLOUR MONOGRAM」\\n  「BRAVE!」\\n  「PHOTOGRAPH TAKE A PHOTO」\\n  「时髦好物编辑部」\\n  「跳过」\\n  「向上滑动 解锁时尚风向」\\n约束:\\n  竖版手机屏广告格式，集成 UI 元素\\n  华为 nova 11 手机背面需清晰呈现双摄模组与「nova」logo\\n避免: 横版构图；模糊或缺失的文字内容；过度后期磨皮失去真实皮肤质感\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 19090,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

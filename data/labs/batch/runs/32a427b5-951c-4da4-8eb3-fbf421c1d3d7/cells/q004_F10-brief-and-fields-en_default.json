@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for the Changan Q06 vehicle launch announcement.\n\nStyle/medium: clean corporate presentation design, minimalist automotive marketing aesthetic, subtle gradient overlays\nComposition: centered layout with generous top and bottom margins, title hierarchy with clear visual weight\nSubject: \"长安起源Q06\" as primary headline with \"将于9月上市\" as supporting subheadline, modern sans-serif typography\nScene/backdrop: translucent atmospheric background suggesting motion and innovation, soft abstract light trails or cityscape silhouette with depth\nLighting/mood: soft diffused ambient light with subtle rim highlights, aspirational and forward-looking mood\nColor palette: deep navy or charcoal as base, electric blue or silver as accent, high contrast white for text legibility\nText (verbatim): \"长安起源Q06将于9月上市\"\nConstraints: must work as PowerPoint cover at 16:9 ratio; text must remain readable at thumbnail size; background must not overpower headline\nAvoid: cluttered elements, stock photo clichés, overly decorative fonts, heavy drop shadows, busy patterns behind text",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2ed8e2f4-ac40-4e16-9623-461372e034e3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for the Changan Q06 vehicle launch announcement.\\n\\nStyle/medium: clean corporate presentation design, minimalist automotive marketing aesthetic, subtle gradient overlays\\nComposition: centered layout with generous top and bottom margins, title hierarchy with clear visual weight\\nSubject: \\\"长安起源Q06\\\" as primary headline with \\\"将于9月上市\\\" as supporting subheadline, modern sans-serif typography\\nScene/backdrop: translucent atmospheric background suggesting motion and innovation, soft abstract light trails or cityscape silhouette with depth\\nLighting/mood: soft diffused ambient light with subtle rim highlights, aspirational and forward-looking mood\\nColor palette: deep navy or charcoal as base, electric blue or silver as accent, high contrast white for text legibility\\nText (verbatim): \\\"长安起源Q06将于9月上市\\\"\\nConstraints: must work as PowerPoint cover at 16:9 ratio; text must remain readable at thumbnail size; background must not overpower headline\\nAvoid: cluttered elements, stock photo clichés, overly decorative fonts, heavy drop shadows, busy patterns behind text\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9771
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 0,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 小红书 lifestyle cover image for a 珍珠奶茶 product.\n\nStyle/medium: needs a 粉色少女风 aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include 珍珠奶茶 as the focal subject\nScene/backdrop: needs a summer-cool, refreshing backdrop — exact setting is yours\nLighting/mood: needs a 夏日清凉感 atmosphere — exact light source mix is yours\nColor palette: needs a pink, soft-girl direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A84eab45c-43e5-4c15-95f3-4086f75dd341/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a 小红书 lifestyle cover image for a 珍珠奶茶 product.\\n\\nStyle/medium: needs a 粉色少女风 aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include 珍珠奶茶 as the focal subject\\nScene/backdrop: needs a summer-cool, refreshing backdrop — exact setting is yours\\nLighting/mood: needs a 夏日清凉感 atmosphere — exact light source mix is yours\\nColor palette: needs a pink, soft-girl direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6264
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic for a technical tutorial on deploying Hermes inside a Docker container and connecting it to GLMCodingPlan, software/DevOps use.\n\nStyle/medium: clean flat vector infographic, technical diagram style, Dribbble-quality developer documentation illustration\nComposition: vertical single-column layout, top-to-bottom flow with numbered step cards, generous white space between steps\nSubject: four clearly labeled sequential steps (①②③④) showing Docker container deployment of Hermes and GLMCodingPlan integration; each step card contains a small icon, a bold step number, a short action title, and a concise command/description block\nScene/backdrop: plain light gray or white background, no decorative environment\nLighting/mood: flat, no shadows, neutral and professional tone\nColor palette: Docker blue (#2496ED) as primary accent for container elements, a contrasting teal or green for GLMCodingPlan integration steps, dark charcoal for body text, white card backgrounds\nMaterials/textures: flat vector, no gradients, crisp edges, monospaced code font for command snippets\nText (verbatim): \"1\" \"2\" \"3\" \"4\" as step labels; \"Docker\" on container icons; \"Hermes\" and \"GLMCodingPlan\" as component labels\nConstraints: step numbers 1-2-3-4 must be visually dominant; arrows or connectors must clearly indicate flow direction; all text must be legible at thumbnail size; layout must be self-contained with no bleed\nAvoid: 3D effects, drop shadows, photorealistic textures, decorative gradients, clipart icons, watermarks, overcrowded layouts, ambiguous flow direction",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/75a5bd6e-e7d3-4038-90bf-e1ab57a71320/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing infographic for a technical tutorial on deploying Hermes inside a Docker container and connecting it to GLMCodingPlan, software/DevOps use.\\n\\nStyle/medium: clean flat vector infographic, technical diagram style, Dribbble-quality developer documentation illustration\\nComposition: vertical single-column layout, top-to-bottom flow with numbered step cards, generous white space between steps\\nSubject: four clearly labeled sequential steps (①②③④) showing Docker container deployment of Hermes and GLMCodingPlan integration; each step card contains a small icon, a bold step number, a short action title, and a concise command/description block\\nScene/backdrop: plain light gray or white background, no decorative environment\\nLighting/mood: flat, no shadows, neutral and professional tone\\nColor palette: Docker blue (#2496ED) as primary accent for container elements, a contrasting teal or green for GLMCodingPlan integration steps, dark charcoal for body text, white card backgrounds\\nMaterials/textures: flat vector, no gradients, crisp edges, monospaced code font for command snippets\\nText (verbatim): \\\"1\\\" \\\"2\\\" \\\"3\\\" \\\"4\\\" as step labels; \\\"Docker\\\" on container icons; \\\"Hermes\\\" and \\\"GLMCodingPlan\\\" as component labels\\nConstraints: step numbers 1-2-3-4 must be visually dominant; arrows or connectors must clearly indicate flow direction; all text must be legible at thumbnail size; layout must be self-contained with no bleed\\nAvoid: 3D effects, drop shadows, photorealistic textures, decorative gradients, clipart icons, watermarks, overcrowded layouts, ambiguous flow direction\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12282
+}

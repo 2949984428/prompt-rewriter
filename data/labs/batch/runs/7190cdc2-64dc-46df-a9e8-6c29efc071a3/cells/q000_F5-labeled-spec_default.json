@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial landscape photography, wide print\nPrimary request: ultra-realistic wide-angle morning scene of a pristine Nordic primeval forest with golden light, mossy rocks, winding stream, and misty mountains\nScene/backdrop: vast Nordic primeval forest, dense spruce and birch canopy, moss-covered boulders, crystal-clear winding stream, layered mountains in distance with thin mist at mid-height\nSubject: wild mushrooms and ferns in foreground, dewdrops glistening on leaf tips, visible pebbles through transparent water, gentle ripples on stream surface\nStyle/medium: photorealistic nature photography, ultra-detailed landscape\nComposition/framing: wide-angle, rich depth of field, layered foreground to background\nLighting/mood: first morning sunlight piercing through canopy, golden rays on moss and water, dreamy ethereal atmosphere, serene and alive\nColor palette: cool green dominant, golden sunlight accents, soft misty grays, rich moss greens, crystal water blues\nMaterials/textures: velvety moss, glossy dewdrops, smooth river pebbles, rough bark, delicate fern fronds, transparent flowing water\nConstraints: preserve the ethereal misty mountain layers, maintain the golden morning light quality, keep foreground botanical details sharp\nAvoid: oversaturated colors, artificial-looking dew, plastic vegetation, oversharpening, watermark, cartoonish rendering",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5227320e-d760-4faa-8d05-324c085d9ef2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial landscape photography, wide print\\nPrimary request: ultra-realistic wide-angle morning scene of a pristine Nordic primeval forest with golden light, mossy rocks, winding stream, and misty mountains\\nScene/backdrop: vast Nordic primeval forest, dense spruce and birch canopy, moss-covered boulders, crystal-clear winding stream, layered mountains in distance with thin mist at mid-height\\nSubject: wild mushrooms and ferns in foreground, dewdrops glistening on leaf tips, visible pebbles through transparent water, gentle ripples on stream surface\\nStyle/medium: photorealistic nature photography, ultra-detailed landscape\\nComposition/framing: wide-angle, rich depth of field, layered foreground to background\\nLighting/mood: first morning sunlight piercing through canopy, golden rays on moss and water, dreamy ethereal atmosphere, serene and alive\\nColor palette: cool green dominant, golden sunlight accents, soft misty grays, rich moss greens, crystal water blues\\nMaterials/textures: velvety moss, glossy dewdrops, smooth river pebbles, rough bark, delicate fern fronds, transparent flowing water\\nConstraints: preserve the ethereal misty mountain layers, maintain the golden morning light quality, keep foreground botanical details sharp\\nAvoid: oversaturated colors, artificial-looking dew, plastic vegetation, oversharpening, watermark, cartoonish rendering\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12595
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing character portrait for an ancient Chinese-style game splash art.\n\nStyle/medium: needs a \"神秘东方风格\" and \"仙气十足\" aesthetic — references in the spirit of 宋画 court-lady portraiture tradition, 敦煌飞天 mural painting heritage, contemporary Chinese fantasy game splash art (e.g., 剑网三 / 天涯明月刀 visual lineage); exact stylistic execution is yours\nComposition: must include flowing robes (衣袂飘飘) as a key visual element\nSubject: must include a woman in 汉服 playing a stringed instrument (抚琴)\nScene/backdrop: must include a bamboo forest (竹林) with moonlight filtering through leaves\nLighting/mood: needs a moonlit night atmosphere with dappled light (斑驳光影) — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must preserve the ethereal \"仙气\" quality suitable for game splash art\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d73f0f14-c84c-432f-b310-a1f0f5a7cf41/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing character portrait for an ancient Chinese-style game splash art.\\n\\nStyle/medium: needs a \\\"神秘东方风格\\\" and \\\"仙气十足\\\" aesthetic — references in the spirit of 宋画 court-lady portraiture tradition, 敦煌飞天 mural painting heritage, contemporary Chinese fantasy game splash art (e.g., 剑网三 / 天涯明月刀 visual lineage); exact stylistic execution is yours\\nComposition: must include flowing robes (衣袂飘飘) as a key visual element\\nSubject: must include a woman in 汉服 playing a stringed instrument (抚琴)\\nScene/backdrop: must include a bamboo forest (竹林) with moonlight filtering through leaves\\nLighting/mood: needs a moonlit night atmosphere with dappled light (斑驳光影) — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must preserve the ethereal \\\"仙气\\\" quality suitable for game splash art\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12421
+}

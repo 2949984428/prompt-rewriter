@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo mockup of a TikTok (Douyin) live-stream screenshot featuring a young beautiful Chinese actress resembling a celestial fairy figure (神仙姐姐).\n\nStyle/medium: photorealistic smartphone screenshot simulation, TikTok/Douyin live-stream UI overlay, candid portrait editorial style\nComposition: 9:16 vertical full-frame, medium close-up shot at eye level, subject centered with live-stream UI elements framing the edges, 50mm equivalent lens\nSubject: elegant young Chinese woman with delicate features, long dark hair, soft natural makeup, wearing casual-chic attire, holding up a handwritten sign with both hands at chest level, warm and welcoming smile\nScene/backdrop: indoor home or studio setting, softly blurred background with warm ambient light suggesting a cozy live-stream environment\nLighting/mood: soft frontal ring-light typical of live-stream setups, warm color temperature, bright and inviting mood\nColor palette: warm skin tones as anchor, soft pastel background, Douyin red/pink UI accent colors on overlay elements\nMaterials/textures: smooth skin with natural highlight, matte cardboard sign surface with handwritten-style text\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\" written on the sign held by the subject; Douyin live-stream UI overlay elements including viewer count, comment stream, and red heart animations along the edges\nConstraints: must look like an authentic Douyin live-stream screenshot with recognizable UI chrome (top bar with live badge, bottom comment bar, floating hearts); sign text must be legible and centered on the cardboard\nAvoid: blurry or illegible text on sign, distorted hands or fingers, generic stock-photo feel, over-retouched skin, watermark artifacts, mismatched UI elements",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cd009c48-818a-4fc9-a79e-57280e7a588a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing editorial photo mockup of a TikTok (Douyin) live-stream screenshot featuring a young beautiful Chinese actress resembling a celestial fairy figure (神仙姐姐).\\n\\nStyle/medium: photorealistic smartphone screenshot simulation, TikTok/Douyin live-stream UI overlay, candid portrait editorial style\\nComposition: 9:16 vertical full-frame, medium close-up shot at eye level, subject centered with live-stream UI elements framing the edges, 50mm equivalent lens\\nSubject: elegant young Chinese woman with delicate features, long dark hair, soft natural makeup, wearing casual-chic attire, holding up a handwritten sign with both hands at chest level, warm and welcoming smile\\nScene/backdrop: indoor home or studio setting, softly blurred background with warm ambient light suggesting a cozy live-stream environment\\nLighting/mood: soft frontal ring-light typical of live-stream setups, warm color temperature, bright and inviting mood\\nColor palette: warm skin tones as anchor, soft pastel background, Douyin red/pink UI accent colors on overlay elements\\nMaterials/textures: smooth skin with natural highlight, matte cardboard sign surface with handwritten-style text\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\" written on the sign held by the subject; Douyin live-stream UI overlay elements including viewer count, comment stream, and red heart animations along the edges\\nConstraints: must look like an authentic Douyin live-stream screenshot with recognizable UI chrome (top bar with live badge, bottom comment bar, floating hearts); sign text must be legible and centered on the cardboard\\nAvoid: blurry or illegible text on sign, distorted hands or fingers, generic stock-photo feel, over-retouched skin, watermark artifacts, mismatched UI elements\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14804
+}

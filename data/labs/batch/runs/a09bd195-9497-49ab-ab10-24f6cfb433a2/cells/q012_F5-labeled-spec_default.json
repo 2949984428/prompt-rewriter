@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: interior architectural photo, moody editorial\nPrimary request: dark gothic castle interior with towering vaulted ceilings, stained glass windows casting blood-red light, candle holders and iron chains as decor, heavy shadows\nScene/backdrop: grand medieval castle hall, towering Gothic arches, ornate iron fixtures, flickering candlelight\nSubject: imposing Gothic architecture, intricate stone carvings, heavy iron chains hanging from walls, antique candelabras\nStyle/medium: dark fantasy photography, chiaroscuro lighting, atmospheric interior\nComposition/framing: wide shot from ground level looking upward to emphasize scale of vaulted ceilings, 24mm lens\nLighting/mood: blood-red light filtering through stained glass, deep shadows, candlelight glow, mysterious and oppressive atmosphere\nColor palette: deep crimson red, charcoal black, stone gray, warm amber candlelight\nMaterials/textures: weathered stone walls, cold iron chains, aged wood, translucent stained glass, wax drips\nConstraints: maintain heavy shadow dominance, keep blood-red light as primary color source\nAvoid: bright daylight, cheerful colors, clean modern surfaces, cartoonish rendering, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "https://assets-persist.lovart.ai/agent_images/5dc5329d-c13e-4739-ae36-4fee63a27fa8.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: interior architectural photo, moody editorial\\nPrimary request: dark gothic castle interior with towering vaulted ceilings, stained glass windows casting blood-red light, candle holders and iron chains as decor, heavy shadows\\nScene/backdrop: grand medieval castle hall, towering Gothic arches, ornate iron fixtures, flickering candlelight\\nSubject: imposing Gothic architecture, intricate stone carvings, heavy iron chains hanging from walls, antique candelabras\\nStyle/medium: dark fantasy photography, chiaroscuro lighting, atmospheric interior\\nComposition/framing: wide shot from ground level looking upward to emphasize scale of vaulted ceilings, 24mm lens\\nLighting/mood: blood-red light filtering through stained glass, deep shadows, candlelight glow, mysterious and oppressive atmosphere\\nColor palette: deep crimson red, charcoal black, stone gray, warm amber candlelight\\nMaterials/textures: weathered stone walls, cold iron chains, aged wood, translucent stained glass, wax drips\\nConstraints: maintain heavy shadow dominance, keep blood-red light as primary color source\\nAvoid: bright daylight, cheerful colors, clean modern surfaces, cartoonish rendering, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10817
+}

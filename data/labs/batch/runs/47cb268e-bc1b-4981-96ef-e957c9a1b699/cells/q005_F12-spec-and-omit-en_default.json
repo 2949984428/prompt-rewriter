@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original infographic explaining the definitions of and relationships between the following concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI.\n\nStyle/medium: hand-drawn illustration style infographic\nComposition: multi-section layout with diagrams and text, showing concept definitions and interconnections\nSubject: concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — their definitions and relationships\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: hand-drawn lines, sketch-like icons\nText (verbatim): AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\nConstraints: visually accessible and easy to understand; each concept labeled with its name verbatim\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3c6ba369-7182-4757-8708-a2189599cba9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an original infographic explaining the definitions of and relationships between the following concepts: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI.\\n\\nStyle/medium: hand-drawn illustration style infographic\\nComposition: multi-section layout with diagrams and text, showing concept definitions and interconnections\\nSubject: concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — their definitions and relationships\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: hand-drawn lines, sketch-like icons\\nText (verbatim): AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\\nConstraints: visually accessible and easy to understand; each concept labeled with its name verbatim\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6031
+}

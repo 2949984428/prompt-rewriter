@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic illustrating the step-by-step deployment of Hermes in a Docker container with GLMCodingPlan integration (all in-image text in Chinese).\n\nStyle/medium: needs a technical documentation aesthetic — references in the spirit of GitHub README visual guides, Docker official documentation illustrations, modern DevOps diagramming conventions; exact stylistic execution is yours\nComposition: must be a 4-step sequential layout with clear numbering (1-2-3-4), each step as a distinct visual panel\nSubject: must include Docker container iconography, Hermes deployment elements, GLMCodingPlan integration markers, command-line snippets\nScene/backdrop: \nLighting/mood: \nColor palette: needs a clean technical direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): must include step labels \"1\", \"2\", \"3\", \"4\" with Chinese step titles and command examples\nConstraints: must include all in-image text in Chinese by default; must preserve 4 sequential steps clearly numbered; must show Docker container context and Hermes + GLMCodingPlan integration\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/05ed8bfd-f8b2-475b-8e7d-1dba0dd9fa1d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an infographic illustrating the step-by-step deployment of Hermes in a Docker container with GLMCodingPlan integration (all in-image text in Chinese).\\n\\nStyle/medium: needs a technical documentation aesthetic — references in the spirit of GitHub README visual guides, Docker official documentation illustrations, modern DevOps diagramming conventions; exact stylistic execution is yours\\nComposition: must be a 4-step sequential layout with clear numbering (1-2-3-4), each step as a distinct visual panel\\nSubject: must include Docker container iconography, Hermes deployment elements, GLMCodingPlan integration markers, command-line snippets\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a clean technical direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): must include step labels \\\"1\\\", \\\"2\\\", \\\"3\\\", \\\"4\\\" with Chinese step titles and command examples\\nConstraints: must include all in-image text in Chinese by default; must preserve 4 sequential steps clearly numbered; must show Docker container context and Hermes + GLMCodingPlan integration\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10324
+}

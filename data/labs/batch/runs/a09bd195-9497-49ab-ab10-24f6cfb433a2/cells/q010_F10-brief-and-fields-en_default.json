@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic still of a post-apocalyptic wasteland scene with a modified armored vehicle in a desolate desert.\n\nStyle/medium: photorealistic digital matte painting, Mad Max-inspired post-apocalyptic aesthetic, gritty survivalist atmosphere\nComposition: wide establishing shot, 24mm lens, low horizon line with vehicle positioned in lower third, collapsed city ruins in distant background\nSubject: heavily modified armored vehicle with welded metal plates, rusted bodywork, mounted weapons or tools, weathered and battle-worn\nScene/backdrop: vast desolate desert landscape, collapsed skyscrapers and ruined city structures on the horizon, dust storms visible in distance\nLighting/mood: hazy overcast sky with diffused amber-yellow light, dust particles catching light, oppressive and tense survival atmosphere\nColor palette: muted ochre and sand as base, sickly yellow-brown sky, rust orange accents on vehicle, desaturated overall with warm undertones\nMaterials/textures: fine wind-blown sand, corroded metal with peeling paint, cracked concrete ruins, swirling dust clouds\nAvoid: clean pristine surfaces, bright saturated colors, fantasy elements, zombies or monsters, lens flare abuse, 8K stuffer labels",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e581f55d-64ba-4b49-8348-dcfb203c3de7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing cinematic still of a post-apocalyptic wasteland scene with a modified armored vehicle in a desolate desert.\\n\\nStyle/medium: photorealistic digital matte painting, Mad Max-inspired post-apocalyptic aesthetic, gritty survivalist atmosphere\\nComposition: wide establishing shot, 24mm lens, low horizon line with vehicle positioned in lower third, collapsed city ruins in distant background\\nSubject: heavily modified armored vehicle with welded metal plates, rusted bodywork, mounted weapons or tools, weathered and battle-worn\\nScene/backdrop: vast desolate desert landscape, collapsed skyscrapers and ruined city structures on the horizon, dust storms visible in distance\\nLighting/mood: hazy overcast sky with diffused amber-yellow light, dust particles catching light, oppressive and tense survival atmosphere\\nColor palette: muted ochre and sand as base, sickly yellow-brown sky, rust orange accents on vehicle, desaturated overall with warm undertones\\nMaterials/textures: fine wind-blown sand, corroded metal with peeling paint, cracked concrete ruins, swirling dust clouds\\nAvoid: clean pristine surfaces, bright saturated colors, fantasy elements, zombies or monsters, lens flare abuse, 8K stuffer labels\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10359
+}

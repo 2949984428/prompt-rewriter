@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial illustration of a ginger cat's daily life in a healing, cozy style.\n\nStyle/medium: healing kawaii illustration, soft painterly texture with visible brushwork, Studio Ghibli-inspired warmth\nComposition: medium shot from slightly above, 50mm equivalent perspective, cat as focal point in lower third\nSubject: chubby orange tabby cat with fluffy fur, eyes half-closed in contentment, paws tucked, tail curled around body\nScene/backdrop: wooden windowsill with potted plant, snow falling outside on quiet winter street, bare tree branches visible\nLighting/mood: warm golden afternoon sunlight streaming through window, creating soft glow on fur, contrast with cool blue winter light outside\nColor palette: warm amber and cream tones inside as base, soft orange fur as anchor, cool pale blue and white snow as counterpoint\nMaterials/textures: soft fluffy fur with individual strands catching light, smooth wooden windowsill grain, powdery snow texture\nAvoid: photorealistic rendering, harsh shadows, oversaturated colors, watermark, 8K stuffer text",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1f1dcab5-083b-46aa-974a-93c5781f13e7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing editorial illustration of a ginger cat's daily life in a healing, cozy style.\\n\\nStyle/medium: healing kawaii illustration, soft painterly texture with visible brushwork, Studio Ghibli-inspired warmth\\nComposition: medium shot from slightly above, 50mm equivalent perspective, cat as focal point in lower third\\nSubject: chubby orange tabby cat with fluffy fur, eyes half-closed in contentment, paws tucked, tail curled around body\\nScene/backdrop: wooden windowsill with potted plant, snow falling outside on quiet winter street, bare tree branches visible\\nLighting/mood: warm golden afternoon sunlight streaming through window, creating soft glow on fur, contrast with cool blue winter light outside\\nColor palette: warm amber and cream tones inside as base, soft orange fur as anchor, cool pale blue and white snow as counterpoint\\nMaterials/textures: soft fluffy fur with individual strands catching light, smooth wooden windowsill grain, powdery snow texture\\nAvoid: photorealistic rendering, harsh shadows, oversaturated colors, watermark, 8K stuffer text\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9795
+}

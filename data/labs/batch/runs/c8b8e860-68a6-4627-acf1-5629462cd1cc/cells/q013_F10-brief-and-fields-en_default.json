@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a vertical short-form video thumbnail for a gaming monitor product launch.\n\nStyle/medium: minimalist high-end graphic design, clean sans-serif typography, tech product launch aesthetic\nComposition: rule of thirds layout, large bold headline occupying upper third, product info balanced in lower two-thirds\nSubject: gaming monitor promotional graphic with dominant text hierarchy\nScene/backdrop: pure solid or subtle gradient background, generous negative space\nColor palette: deep neutral base (charcoal or black) with electric blue or neon accent for tech feel, high contrast white text\nText (verbatim): \"8k GGU 电竞显示器 1000hz\", \"全球首发全新面板 低延迟 完美色彩\"\nConstraints: vertical 9:16 format optimized for mobile viewing; headline must be largest element; text must remain legible at small thumbnail size\nAvoid: cluttered layout, multiple competing fonts, decorative flourishes, stock photo backgrounds, generic gaming cliches (flames, skulls, circuit patterns)",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eda04b5b-c4ed-41ff-8d6b-33d00c67c95c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a vertical short-form video thumbnail for a gaming monitor product launch.\\n\\nStyle/medium: minimalist high-end graphic design, clean sans-serif typography, tech product launch aesthetic\\nComposition: rule of thirds layout, large bold headline occupying upper third, product info balanced in lower two-thirds\\nSubject: gaming monitor promotional graphic with dominant text hierarchy\\nScene/backdrop: pure solid or subtle gradient background, generous negative space\\nColor palette: deep neutral base (charcoal or black) with electric blue or neon accent for tech feel, high contrast white text\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\", \\\"全球首发全新面板 低延迟 完美色彩\\\"\\nConstraints: vertical 9:16 format optimized for mobile viewing; headline must be largest element; text must remain legible at small thumbnail size\\nAvoid: cluttered layout, multiple competing fonts, decorative flourishes, stock photo backgrounds, generic gaming cliches (flames, skulls, circuit patterns)\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14227
+}

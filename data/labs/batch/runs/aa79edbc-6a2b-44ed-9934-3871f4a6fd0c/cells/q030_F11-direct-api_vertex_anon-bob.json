@@ -1,0 +1,23 @@
+{
+  "query_idx": 30,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一套【台小漫】基础VI系统，台小漫是一个卖酒的，风格简约大气，主色是橙色。\n内容包含：\n1. Logo 设计：主标、横版、竖版、图标、黑白反色版本\n2. 色彩规范：主色、辅助色、中性色，附带 HEX/RGB/CMYK 色值\n3. 字体规范：中文标题、正文、英文标准字体及使用说明\n4. 基础应用场景：名片、手提袋、纸杯、头像、海报等效果图\n整体统一、可商用、排版干净专业。",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A35b03551-4ed7-441b-a0ab-fc50dbe69fa7/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一套【台小漫】基础VI系统，台小漫是一个卖酒的，风格简约大气，主色是橙色。\\n内容包含：\\n1. Logo 设计：主标、横版、竖版、图标、黑白反色版本\\n2. 色彩规范：主色、辅助色、中性色，附带 HEX/RGB/CMYK 色值\\n3. 字体规范：中文标题、正文、英文标准字体及使用说明\\n4. 基础应用场景：名片、手提袋、纸杯、头像、海报等效果图\\n整体统一、可商用、排版干净专业。\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3731,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

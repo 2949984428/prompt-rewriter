@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a young woman in a denim jacket leaning against a neon sign on a 1990s Hong Kong street at night.\n\nStyle/medium: 35mm film photography, vintage Hong Kong cinema aesthetic, visible film grain and halation, Wong Kar-wai inspired mood\nComposition: medium shot at eye level, 50mm lens, subject positioned off-center with neon sign as backdrop element\nSubject: young woman in oversized denim jacket, relaxed leaning pose, hair catching ambient light, contemplative expression\nScene/backdrop: 1990s Hong Kong street at night, blurred storefronts and signage in background, humid atmosphere\nLighting/mood: mixed neon glow (red/pink/green) from signage, soft ambient street light, hazy night atmosphere, nostalgic and melancholic\nColor palette: warm amber and orange tones as base, neon pink/red/green accents, lifted shadows with film color cast\nMaterials/textures: visible 35mm film grain, soft halation around light sources, slightly desaturated colors with warm push\nAvoid: digital sharpness, modern LED signage, oversaturated colors, clean studio lighting, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2722fadb-b8e3-44cf-8bd2-4cf0bc99a968/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a young woman in a denim jacket leaning against a neon sign on a 1990s Hong Kong street at night.\\n\\nStyle/medium: 35mm film photography, vintage Hong Kong cinema aesthetic, visible film grain and halation, Wong Kar-wai inspired mood\\nComposition: medium shot at eye level, 50mm lens, subject positioned off-center with neon sign as backdrop element\\nSubject: young woman in oversized denim jacket, relaxed leaning pose, hair catching ambient light, contemplative expression\\nScene/backdrop: 1990s Hong Kong street at night, blurred storefronts and signage in background, humid atmosphere\\nLighting/mood: mixed neon glow (red/pink/green) from signage, soft ambient street light, hazy night atmosphere, nostalgic and melancholic\\nColor palette: warm amber and orange tones as base, neon pink/red/green accents, lifted shadows with film color cast\\nMaterials/textures: visible 35mm film grain, soft halation around light sources, slightly desaturated colors with warm push\\nAvoid: digital sharpness, modern LED signage, oversaturated colors, clean studio lighting, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10595
+}

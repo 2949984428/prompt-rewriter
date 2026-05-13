@@ -1,0 +1,23 @@
+{
+  "query_idx": 311,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "I've attached this image to make it look more dramatic and documentary-style. This is actually my YouTube thumbnail background, so please optimize and adjust its color grading, lighting, and composition to make it look super realistic, dramatic, and documentary-style, while keeping the image resolution at 16:9. Most importantly, I don't want to cut out or crop from anywhere, just a stunning image, which depends on my...\"]} requirements[@image:#1:7541ef4bdcfe17b2833fe4aa8bc077fb]",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8eb4790d-07e8-4c29-ba22-fa2828f7a3d1/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"I've attached this image to make it look more dramatic and documentary-style. This is actually my YouTube thumbnail background, so please optimize and adjust its color grading, lighting, and composition to make it look super realistic, dramatic, and documentary-style, while keeping the image resolution at 16:9. Most importantly, I don't want to cut out or crop from anywhere, just a stunning image, which depends on my...\\\"]} requirements[@image:#1:7541ef4bdcfe17b2833fe4aa8bc077fb]\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3829,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

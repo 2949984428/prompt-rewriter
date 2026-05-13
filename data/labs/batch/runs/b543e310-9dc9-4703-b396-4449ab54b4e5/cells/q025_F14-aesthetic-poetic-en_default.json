@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Xiaohongshu cover post for a casual creator's first impression review of DJI Pocket 4, designed for the warm handbook tonality of the platform.\n\nStyle/medium: Xiaohongshu cover post with the approachable warmth of a friend's handwritten recommendation, designed for casual creator sharing\nComposition: 9-grid layout with the DJI Pocket 4 as central anchor, generous breathing room around the product, title positioned prominently at center\nSubject: DJI Pocket 4 handheld gimbal camera as hero product, surrounded by lifestyle context hints (travel moments, daily vlogging scenes)\nScene/backdrop: soft neutral studio-like setting with gentle lifestyle props suggesting casual creator authenticity\nLighting/mood: the soft diffused light of a cozy afternoon, inviting trust and curiosity\nColor palette: warm honey tones with playful accent colors, the gentle confidence of a friend's genuine recommendation\nMaterials/textures: matte paper-like surfaces, soft shadows, approachable tactile quality\nText (verbatim): 大强pocket4初体验\nConstraints: 9-grid structure visible, product clearly identifiable as DJI Pocket 4, title font must be cute and differentiated from standard system fonts\nAvoid: overly polished commercial aesthetic, generic stock photo look, cold corporate photography style",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e1a29a0d-87f8-4d05-ad68-f4c69080fad7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a Xiaohongshu cover post for a casual creator's first impression review of DJI Pocket 4, designed for the warm handbook tonality of the platform.\\n\\nStyle/medium: Xiaohongshu cover post with the approachable warmth of a friend's handwritten recommendation, designed for casual creator sharing\\nComposition: 9-grid layout with the DJI Pocket 4 as central anchor, generous breathing room around the product, title positioned prominently at center\\nSubject: DJI Pocket 4 handheld gimbal camera as hero product, surrounded by lifestyle context hints (travel moments, daily vlogging scenes)\\nScene/backdrop: soft neutral studio-like setting with gentle lifestyle props suggesting casual creator authenticity\\nLighting/mood: the soft diffused light of a cozy afternoon, inviting trust and curiosity\\nColor palette: warm honey tones with playful accent colors, the gentle confidence of a friend's genuine recommendation\\nMaterials/textures: matte paper-like surfaces, soft shadows, approachable tactile quality\\nText (verbatim): 大强pocket4初体验\\nConstraints: 9-grid structure visible, product clearly identifiable as DJI Pocket 4, title font must be cute and differentiated from standard system fonts\\nAvoid: overly polished commercial aesthetic, generic stock photo look, cold corporate photography style\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9046
+}

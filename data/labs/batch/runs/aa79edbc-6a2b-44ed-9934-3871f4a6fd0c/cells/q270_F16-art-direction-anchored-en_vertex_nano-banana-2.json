@@ -1,0 +1,23 @@
+{
+  "query_idx": 270,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 ins 风格时尚图，参考上传美甲图的款式配色风格。\n\n风格/媒介: ins 风格时尚摄影\n构图:\n  4 张方案之一\n  穿搭主题，模特不露头，展示服装与美甲细节\n主体: 穿搭模特（不露头），手部美甲可见，服装与整体造型\n场景/背景:\n光线/氛围:\n色彩方案: 与参考美甲图保持一致的款式配色风格\n材质/纹理:\n文字(原样):\n约束: 比例 4:5，内容与参考美甲款式配色风格关联\n避免: 露出模特面部",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A44cebb25-f7d7-4236-b6b6-a22784665536/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 ins 风格时尚图，参考上传美甲图的款式配色风格。\\n\\n风格/媒介: ins 风格时尚摄影\\n构图:\\n  4 张方案之一\\n  穿搭主题，模特不露头，展示服装与美甲细节\\n主体: 穿搭模特（不露头），手部美甲可见，服装与整体造型\\n场景/背景:\\n光线/氛围:\\n色彩方案: 与参考美甲图保持一致的款式配色风格\\n材质/纹理:\\n文字(原样):\\n约束: 比例 4:5，内容与参考美甲款式配色风格关联\\n避免: 露出模特面部\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"jpeg\"}",
+  "ms": 10787,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: aerial drone photograph, cinematic still\nPrimary request: bird's-eye drone shot of a modern international metropolis core business district at night, long-exposure effect\nScene/backdrop: dense skyline of a major city at night; in the distance a harbor with a massive cruise ship docked; neon advertisement billboards illuminating the sky\nSubject: countless skyscrapers with glass curtain-wall facades flickering in multicolored lights; elevated highways with red and white light trails from traffic flowing like veins through the city; a landmark supertall tower at the center of the frame with rooftop searchlights sweeping the night sky\nStyle/medium: cyberpunk-styled color grading, photorealistic drone photography, long-exposure light trails\nComposition/framing: extreme high-altitude top-down aerial perspective, wide-angle drone lens, deep depth of field showing entire city grid\nLighting/mood: high-contrast cyberpunk night; dominant blue-violet tones; neon multicolor glow from billboards and building facades; red and white streaking car light trails; searchlight beams cutting through the sky; dramatic and electric atmosphere\nColor palette: deep blue-violet as dominant base, electric cyan and magenta neon accents, warm amber and white light trails, vivid multicolor billboard reflections\nMaterials/textures: reflective glass curtain walls with grid patterns, wet asphalt reflecting neon, dark ocean water in harbor with ship lights\nConstraints: maintain extreme high-altitude overhead viewpoint; supertall landmark tower must be centered; long-exposure light trails on highways must be visible; harbor and cruise ship must appear in the distance\nAvoid: daytime lighting, flat low-contrast tones, missing light trails, ground-level perspective",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/52e5f2f2-a1e8-422f-989f-8ddf6d18d046/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: aerial drone photograph, cinematic still\\nPrimary request: bird's-eye drone shot of a modern international metropolis core business district at night, long-exposure effect\\nScene/backdrop: dense skyline of a major city at night; in the distance a harbor with a massive cruise ship docked; neon advertisement billboards illuminating the sky\\nSubject: countless skyscrapers with glass curtain-wall facades flickering in multicolored lights; elevated highways with red and white light trails from traffic flowing like veins through the city; a landmark supertall tower at the center of the frame with rooftop searchlights sweeping the night sky\\nStyle/medium: cyberpunk-styled color grading, photorealistic drone photography, long-exposure light trails\\nComposition/framing: extreme high-altitude top-down aerial perspective, wide-angle drone lens, deep depth of field showing entire city grid\\nLighting/mood: high-contrast cyberpunk night; dominant blue-violet tones; neon multicolor glow from billboards and building facades; red and white streaking car light trails; searchlight beams cutting through the sky; dramatic and electric atmosphere\\nColor palette: deep blue-violet as dominant base, electric cyan and magenta neon accents, warm amber and white light trails, vivid multicolor billboard reflections\\nMaterials/textures: reflective glass curtain walls with grid patterns, wet asphalt reflecting neon, dark ocean water in harbor with ship lights\\nConstraints: maintain extreme high-altitude overhead viewpoint; supertall landmark tower must be centered; long-exposure light trails on highways must be visible; harbor and cruise ship must appear in the distance\\nAvoid: daytime lighting, flat low-contrast tones, missing light trails, ground-level perspective\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13647
+}

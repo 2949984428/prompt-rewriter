@@ -1,0 +1,21 @@
+{
+  "query_idx": 19,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\n\nStyle/medium: needs a festive e-commerce campaign aesthetic — exact stylistic execution is yours\nComposition: must be vertical poster layout with clear visual hierarchy for headline and promotional messaging\nSubject: must include 绿联私有云 brand identity as the focal subject, 618 anniversary sale theme\nScene/backdrop: needs a celebratory campaign atmosphere — exact backdrop treatment is yours\nLighting/mood: needs a vibrant, high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs a bold, festive direction fitting a 618 大促 campaign — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"绿联私有云\" (brand name), \"618\" (prominent), \"周年庆\" (secondary)\nConstraints: must preserve brand name \"绿联私有云\" legibly; 618 numeral must be visually dominant\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5d792085-79db-4e2e-9f57-ba2b7ded5d0d/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing e-commerce promotional poster for 绿联私有云 brand 618 anniversary sale campaign.\\n\\nStyle/medium: needs a festive e-commerce campaign aesthetic — exact stylistic execution is yours\\nComposition: must be vertical poster layout with clear visual hierarchy for headline and promotional messaging\\nSubject: must include 绿联私有云 brand identity as the focal subject, 618 anniversary sale theme\\nScene/backdrop: needs a celebratory campaign atmosphere — exact backdrop treatment is yours\\nLighting/mood: needs a vibrant, high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs a bold, festive direction fitting a 618 大促 campaign — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"绿联私有云\\\" (brand name), \\\"618\\\" (prominent), \\\"周年庆\\\" (secondary)\\nConstraints: must preserve brand name \\\"绿联私有云\\\" legibly; 618 numeral must be visually dominant\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7515
+}

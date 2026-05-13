@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a luxury beauty product advertisement photo for a serum product, suitable for social media promotion (all in-image text in Chinese).\n\nStyle/medium: needs a \"奢华精致\" aesthetic — references in the spirit of La Mer / SK-II high-end cosmetics campaign photography, 1990s Vogue Paris beauty editorial visual language, contemporary 小红书 luxury skincare flat-lay culture; exact stylistic execution is yours\nComposition: \nSubject: must include a glass serum bottle with pale golden liquid visible through the glass, surrounded by rose petals and water droplet splashes\nScene/backdrop: must include a soft pink gradient background\nLighting/mood: needs a soft, natural light atmosphere — exact light source mix is yours\nColor palette: needs a soft pink, pale gold, and delicate rose direction — exact hex values and ratios are yours\nMaterials/textures: needs a glass-and-liquid surface treatment with translucency and fine water droplet detail — exact sheen and refraction level is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dffbb66b-3d33-4d9f-842d-0bf1593de37f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a luxury beauty product advertisement photo for a serum product, suitable for social media promotion (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"奢华精致\\\" aesthetic — references in the spirit of La Mer / SK-II high-end cosmetics campaign photography, 1990s Vogue Paris beauty editorial visual language, contemporary 小红书 luxury skincare flat-lay culture; exact stylistic execution is yours\\nComposition: \\nSubject: must include a glass serum bottle with pale golden liquid visible through the glass, surrounded by rose petals and water droplet splashes\\nScene/backdrop: must include a soft pink gradient background\\nLighting/mood: needs a soft, natural light atmosphere — exact light source mix is yours\\nColor palette: needs a soft pink, pale gold, and delicate rose direction — exact hex values and ratios are yours\\nMaterials/textures: needs a glass-and-liquid surface treatment with translucency and fine water droplet detail — exact sheen and refraction level is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10676
+}

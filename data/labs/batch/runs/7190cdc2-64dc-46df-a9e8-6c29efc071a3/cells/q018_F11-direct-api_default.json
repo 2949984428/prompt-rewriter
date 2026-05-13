@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "高端珠宝品牌广告大片风格，主角是一套以深海为灵感设计的蓝宝石与钻石套装珠宝，包含项链、耳环和手镯。项链主石为一颗15克拉的斯里兰卡皇家蓝蓝宝石，周围镶嵌着共计8克拉的梨形与圆形钻石，铂金底托雕刻着精细的海浪与珊瑚纹样。模特为一位气质高雅的东方女性，皮肤白皙，着深蓝色无肩带礼服，珠宝在颈部与耳畔熠熠生辉。拍摄场景为豪华游艇甲板，夜晚海风轻拂，背景是深邃的大海与繁星点点的夜空。摄影采用专业珠宝灯光系统，多角度补光确保宝石火彩完美呈现，整体画面奢华而神秘，参考Cartier与Tiffany顶级广告美学。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/650bcde7-3f41-4ba2-8839-f95a3ce50737/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original post-apocalyptic scene illustration featuring an armored vehicle in a desolate desert (all in-image text in Chinese).\n\nStyle/medium: needs a \"末日废土\" aesthetic — references in the spirit of Mad Max: Fury Road production design (2010s Australian post-apoc visual language), 1980s Heavy Metal magazine sci-fi illustration tradition, Fallout game concept art (2000s–2010s American wasteland design); exact stylistic execution is yours\nComposition: needs a wide cinematic framing with the armored vehicle as mid-ground focal point and ruined cityscape receding into the distant background — exact framing tightness is yours\nSubject: must include a heavily modified armored vehicle (one) in the foreground-to-mid zone, and collapsed urban ruins in the far background\nScene/backdrop: must include a desolate desert landscape with drifting sand and dust; collapsed city ruins visible in the distance\nLighting/mood: needs a tense, survival-pressure atmosphere with a hazy yellow-brown sky and windswept sand — exact light source mix is yours\nColor palette: needs a dusty yellow-brown and ash-grey dominant direction — exact hex values and ratios are yours\nMaterials/textures: needs a weathered, corroded, grit-heavy surface treatment on the vehicle and ruins — exact rust level and grain is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: must avoid clean, pristine, or utopian visual cues; must avoid blue sky or lush greenery",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3eeff9d3-3f73-44e2-936b-78f8cac06204/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original post-apocalyptic scene illustration featuring an armored vehicle in a desolate desert (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"末日废土\\\" aesthetic — references in the spirit of Mad Max: Fury Road production design (2010s Australian post-apoc visual language), 1980s Heavy Metal magazine sci-fi illustration tradition, Fallout game concept art (2000s–2010s American wasteland design); exact stylistic execution is yours\\nComposition: needs a wide cinematic framing with the armored vehicle as mid-ground focal point and ruined cityscape receding into the distant background — exact framing tightness is yours\\nSubject: must include a heavily modified armored vehicle (one) in the foreground-to-mid zone, and collapsed urban ruins in the far background\\nScene/backdrop: must include a desolate desert landscape with drifting sand and dust; collapsed city ruins visible in the distance\\nLighting/mood: needs a tense, survival-pressure atmosphere with a hazy yellow-brown sky and windswept sand — exact light source mix is yours\\nColor palette: needs a dusty yellow-brown and ash-grey dominant direction — exact hex values and ratios are yours\\nMaterials/textures: needs a weathered, corroded, grit-heavy surface treatment on the vehicle and ruins — exact rust level and grain is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: must avoid clean, pristine, or utopian visual cues; must avoid blue sky or lush greenery\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11539
+}

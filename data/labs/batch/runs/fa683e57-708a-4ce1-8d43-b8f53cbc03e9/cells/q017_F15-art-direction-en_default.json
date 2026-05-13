@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing abstract expressionist artwork suitable for modern art gallery display.\n\nStyle/medium: needs an abstract expressionist aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must be non-representational, conveying emotion and energy through form and color alone\nScene/backdrop: \nLighting/mood: \nColor palette: needs bold color collision direction — exact color choices and ratios are yours\nMaterials/textures: needs flowing, gestural brushwork texture — exact paint application is yours\nText (verbatim): \nConstraints: \nAvoid: must avoid any recognizable or concrete imagery",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b263b99a-ba22-4959-9e34-e054e1cb46b1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing abstract expressionist artwork suitable for modern art gallery display.\\n\\nStyle/medium: needs an abstract expressionist aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must be non-representational, conveying emotion and energy through form and color alone\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs bold color collision direction — exact color choices and ratios are yours\\nMaterials/textures: needs flowing, gestural brushwork texture — exact paint application is yours\\nText (verbatim): \\nConstraints: \\nAvoid: must avoid any recognizable or concrete imagery\"}",
+  "ms": 8366
+}

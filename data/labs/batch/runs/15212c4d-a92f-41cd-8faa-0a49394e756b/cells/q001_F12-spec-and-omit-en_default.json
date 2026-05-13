@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3x3 grid infographic for Xiaohongshu (Little Red Book) health and wellness content.\n\nStyle/medium: infographic, editorial design, clean minimalist layout, soft 3D illustration accents, magazine-quality\nComposition: 3x3 grid layout (3 columns × 3 rows), clear boundaries between cells, centered content in each cell, generous whitespace\nSubject: 8 sleep tips for better rest, women's wellness lifestyle content\nScene/backdrop: cream white, light beige, oat, soft caramel color palette with warm brown text\nLighting/mood: warm, healing, cozy, sleep therapy theme\nColor palette: cream white, light beige, pale oat, soft caramel, dark brown text accents\nMaterials/textures: soft fabric textures for pillows/bedding, matte surfaces, gentle gradients\nText (verbatim): \"让你倒头就睡的8个 tips\", \"失眠党、熬夜党一定要收藏\", \"1. 睡前1小时别玩手机\", \"蓝光会让大脑更清醒，越刷越睡不着。\", \"2. 睡前把灯光调暗\", \"暖光环境能帮助身体进入\"准备睡觉\"的状态。\", \"3. 房间温度别太高\", \"稍微凉一点，更容易快速入睡。\", \"4. 晚上别喝浓茶咖啡\", \"咖啡因会延迟困意，让你躺很久还睡不着。\", \"5. 睡前洗个热水澡\", \"能让身体放松下来，入睡速度更快。\", \"6. 脑子停不下来就写下来\", \"把烦心事和待办清单写下，大脑会更容易放松。\", \"7. 固定上床时间\", \"每天差不多时间睡，生物钟会越来越稳定。\", \"8. 试试深呼吸放松法\", \"吸气4秒，停4秒，呼气6秒，慢慢就有困意了。\", \"收藏这组，今晚试试看\"\nConstraints: 3:4 vertical aspect ratio, 9-grid layout for easy slicing into 9 separate posts, all text in Chinese, no English, each cell must work as standalone image, clear spacing between cells, large readable text, professional new media aesthetic, no cheap marketing feel\nAvoid: garbled text, cluttered layout, overly flashy decoration, cheap marketing aesthetic, text near grid borders",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/22c60ebf-6acb-4b1a-8cd1-4516693f638e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 3x3 grid infographic for Xiaohongshu (Little Red Book) health and wellness content.\\n\\nStyle/medium: infographic, editorial design, clean minimalist layout, soft 3D illustration accents, magazine-quality\\nComposition: 3x3 grid layout (3 columns × 3 rows), clear boundaries between cells, centered content in each cell, generous whitespace\\nSubject: 8 sleep tips for better rest, women's wellness lifestyle content\\nScene/backdrop: cream white, light beige, oat, soft caramel color palette with warm brown text\\nLighting/mood: warm, healing, cozy, sleep therapy theme\\nColor palette: cream white, light beige, pale oat, soft caramel, dark brown text accents\\nMaterials/textures: soft fabric textures for pillows/bedding, matte surfaces, gentle gradients\\nText (verbatim): \\\"让你倒头就睡的8个 tips\\\", \\\"失眠党、熬夜党一定要收藏\\\", \\\"1. 睡前1小时别玩手机\\\", \\\"蓝光会让大脑更清醒，越刷越睡不着。\\\", \\\"2. 睡前把灯光调暗\\\", \\\"暖光环境能帮助身体进入\\\"准备睡觉\\\"的状态。\\\", \\\"3. 房间温度别太高\\\", \\\"稍微凉一点，更容易快速入睡。\\\", \\\"4. 晚上别喝浓茶咖啡\\\", \\\"咖啡因会延迟困意，让你躺很久还睡不着。\\\", \\\"5. 睡前洗个热水澡\\\", \\\"能让身体放松下来，入睡速度更快。\\\", \\\"6. 脑子停不下来就写下来\\\", \\\"把烦心事和待办清单写下，大脑会更容易放松。\\\", \\\"7. 固定上床时间\\\", \\\"每天差不多时间睡，生物钟会越来越稳定。\\\", \\\"8. 试试深呼吸放松法\\\", \\\"吸气4秒，停4秒，呼气6秒，慢慢就有困意了。\\\", \\\"收藏这组，今晚试试看\\\"\\nConstraints: 3:4 vertical aspect ratio, 9-grid layout for easy slicing into 9 separate posts, all text in Chinese, no English, each cell must work as standalone image, clear spacing between cells, large readable text, professional new media aesthetic, no cheap marketing feel\\nAvoid: garbled text, cluttered layout, overly flashy decoration, cheap marketing aesthetic, text near grid borders\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 18426
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 32,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a surrealist dreamscape illustration with philosophical depth and visual impact.\n\nStyle/medium: needs a surrealist dreamscape aesthetic — exact stylistic execution is yours\nComposition: must include multiple symbolic elements arranged with visual impact — exact framing and balance are yours\nSubject: must include a giant moon rising from the sea, whales flying in the sky, melting clocks, and a staircase leading to the clouds\nScene/backdrop: must include a seascape with moon rising, sky with flying whales, and clouds\nLighting/mood: needs a dreamlike, philosophical atmosphere — exact light source and mood balance are yours\nColor palette: needs a surreal, dreamlike direction — exact color choices are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/aea3e71e-0b9a-43b1-95c7-d150c455533e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a surrealist dreamscape illustration with philosophical depth and visual impact.\\n\\nStyle/medium: needs a surrealist dreamscape aesthetic — exact stylistic execution is yours\\nComposition: must include multiple symbolic elements arranged with visual impact — exact framing and balance are yours\\nSubject: must include a giant moon rising from the sea, whales flying in the sky, melting clocks, and a staircase leading to the clouds\\nScene/backdrop: must include a seascape with moon rising, sky with flying whales, and clouds\\nLighting/mood: needs a dreamlike, philosophical atmosphere — exact light source and mood balance are yours\\nColor palette: needs a surreal, dreamlike direction — exact color choices are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 18608
+}

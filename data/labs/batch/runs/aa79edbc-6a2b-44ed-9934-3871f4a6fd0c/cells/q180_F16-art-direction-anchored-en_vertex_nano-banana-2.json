@@ -1,0 +1,23 @@
+{
+  "query_idx": 180,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成亚马逊美国站电商主图。\n\n风格/媒介: 真实电商商业摄影风格，高清锐利，干净阴影，轻微反射\n构图:\n  画面中心陈列4个同款自动浇水器\n  两行摆放，每行各2个直立摆放\n  大小与透视自然一致，间距均衡，无遮挡\n主体: 4个透明自动浇水器，产品外观必须与提供的产品图完全一致（the provided product image is the exact reference）\n场景/背景: 纯白背景（#FFFFFF）\n光线/氛围:\n色彩方案: 纯白背景（#FFFFFF），产品颜色与原图完全一致\n材质/纹理: 产品材质与原图完全一致，不得改变\n文字(原样):\n约束:\n  禁止任何再设计（no redesign, no reimagining）\n  不得改变颜色、材质、结构、比例与细节\n  仅允许调整拍摄角度、光线、背景与摆放\n避免: 遮挡、颜色改变、结构改变、比例失真、任何产品细节再设计",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9d29e42e-76bf-44cc-be61-fc67d2d81587/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成亚马逊美国站电商主图。\\n\\n风格/媒介: 真实电商商业摄影风格，高清锐利，干净阴影，轻微反射\\n构图:\\n  画面中心陈列4个同款自动浇水器\\n  两行摆放，每行各2个直立摆放\\n  大小与透视自然一致，间距均衡，无遮挡\\n主体: 4个透明自动浇水器，产品外观必须与提供的产品图完全一致（the provided product image is the exact reference）\\n场景/背景: 纯白背景（#FFFFFF）\\n光线/氛围:\\n色彩方案: 纯白背景（#FFFFFF），产品颜色与原图完全一致\\n材质/纹理: 产品材质与原图完全一致，不得改变\\n文字(原样):\\n约束:\\n  禁止任何再设计（no redesign, no reimagining）\\n  不得改变颜色、材质、结构、比例与细节\\n  仅允许调整拍摄角度、光线、背景与摆放\\n避免: 遮挡、颜色改变、结构改变、比例失真、任何产品细节再设计\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6526,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

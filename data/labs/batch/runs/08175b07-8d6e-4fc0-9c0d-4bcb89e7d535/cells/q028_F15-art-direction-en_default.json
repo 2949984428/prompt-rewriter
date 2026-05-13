@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID card for a company named \"字节跳动\" (ByteDance), front and back sides.\n\nStyle/medium: needs a realistic corporate ID card aesthetic — exact stylistic execution is yours\nComposition: must include both front and back sides of the ID card\nSubject: must include the company name \"字节跳动\"\nScene/backdrop: \nLighting/mood: needs a professional corporate atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a realistic plastic card surface treatment — exact sheen and texture are yours\nText (verbatim): must include \"字节跳动\"\nConstraints: must show both front and back sides of the ID card, must preserve the company name accurately\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e9627ca8-5039-4dde-9b43-d469833399e0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing employee ID card for a company named \\\"字节跳动\\\" (ByteDance), front and back sides.\\n\\nStyle/medium: needs a realistic corporate ID card aesthetic — exact stylistic execution is yours\\nComposition: must include both front and back sides of the ID card\\nSubject: must include the company name \\\"字节跳动\\\"\\nScene/backdrop: \\nLighting/mood: needs a professional corporate atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a realistic plastic card surface treatment — exact sheen and texture are yours\\nText (verbatim): must include \\\"字节跳动\\\"\\nConstraints: must show both front and back sides of the ID card, must preserve the company name accurately\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8174
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 283,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "3 ayrı Instagram postu yan yana geldiğinde 3240x1080 boyutunda tek bir bütün oluşturan panoramik background tasarımı — Kahire, Luksor ve Hurghada.\n\n风格/媒介: dijital illüstrasyon ya da fotogerçekçi görsel, panoramik banner\n构图:\n  Yatay üç eşit panel (her biri 1080x1080)\n  Soldan sağa: Kahire | Luksor | Hurghada\n  Paneller arasında görsel akış sürekliliği sağlanmalı, birleşim noktaları kesintisiz\n主体:\n  Sol panel — Kahire: ikonik şehir silueti\n  Orta panel — Luksor: antik tapınak silueti\n  Sağ panel — Hurghada: kıyı ve deniz manzarası\n场景/背景: her şehre özgü arka plan, üç panel birleşince tek bir panorama oluşturur\n光线/氛围: tutarlı atmosfer üç panel boyunca\n色彩方案: üç panel arasında renk geçişi uyumlu ve bütünleşik\n材质/纹理:\n文字(原样):\n约束:\n  Toplam boyut 3240x1080 (3 × 1080x1080 panel)\n  Her panel tek başına Instagram karesi olarak da anlam taşımalı\n  Paneller yan yana dizildiğinde kesintisiz bir kompozisyon oluşturmalı\n避免: paneller arasında belirgin kesim çizgisi veya görsel kopukluk",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2f45e739-5090-4c2a-9b28-6c9e803ab76c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"3 ayrı Instagram postu yan yana geldiğinde 3240x1080 boyutunda tek bir bütün oluşturan panoramik background tasarımı — Kahire, Luksor ve Hurghada.\\n\\n风格/媒介: dijital illüstrasyon ya da fotogerçekçi görsel, panoramik banner\\n构图:\\n  Yatay üç eşit panel (her biri 1080x1080)\\n  Soldan sağa: Kahire | Luksor | Hurghada\\n  Paneller arasında görsel akış sürekliliği sağlanmalı, birleşim noktaları kesintisiz\\n主体:\\n  Sol panel — Kahire: ikonik şehir silueti\\n  Orta panel — Luksor: antik tapınak silueti\\n  Sağ panel — Hurghada: kıyı ve deniz manzarası\\n场景/背景: her şehre özgü arka plan, üç panel birleşince tek bir panorama oluşturur\\n光线/氛围: tutarlı atmosfer üç panel boyunca\\n色彩方案: üç panel arasında renk geçişi uyumlu ve bütünleşik\\n材质/纹理:\\n文字(原样):\\n约束:\\n  Toplam boyut 3240x1080 (3 × 1080x1080 panel)\\n  Her panel tek başına Instagram karesi olarak da anlam taşımalı\\n  Paneller yan yana dizildiğinde kesintisiz bir kompozisyon oluşturmalı\\n避免: paneller arasında belirgin kesim çizgisi veya görsel kopukluk\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 28539,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

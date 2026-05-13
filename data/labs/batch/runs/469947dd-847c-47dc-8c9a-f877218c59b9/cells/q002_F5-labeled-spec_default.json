@@ -1,0 +1,23 @@
+{
+  "query_idx": 2,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: e-commerce hero banner, brand flagship store homepage\nPrimary request: fashion editorial shot of a model in a camel wool coat walking on a leaf-covered street at sunset\nScene/backdrop: autumn street covered with fallen golden and brown leaves, soft bokeh city background\nSubject: elegant model wearing oversized camel wool coat, relaxed confident stride, hair gently blown by breeze\nStyle/medium: fashion photography, editorial campaign aesthetic\nComposition/framing: medium full-body shot, walking pose with natural movement, 85mm portrait lens\nLighting/mood: warm golden hour backlight, soft rim light on silhouette, cozy and sophisticated atmosphere\nColor palette: warm camel, burnt orange, golden yellow, soft cream, muted browns\nMaterials/textures: thick woven wool texture, crisp fallen leaves, soft natural fabric drape\nConstraints: maintain warm premium brand feel suitable for luxury autumn/winter collection\nAvoid: harsh flash, cold blue tones, cluttered background, plastic-looking fabric, oversaturated colors",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4bf5c658-0887-4eed-afff-567d4e0045b6/0.png"
+  ],
+  "scores": {
+    "overall": 4.5,
+    "intent": 4.5
+  },
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero banner, brand flagship store homepage\\nPrimary request: fashion editorial shot of a model in a camel wool coat walking on a leaf-covered street at sunset\\nScene/backdrop: autumn street covered with fallen golden and brown leaves, soft bokeh city background\\nSubject: elegant model wearing oversized camel wool coat, relaxed confident stride, hair gently blown by breeze\\nStyle/medium: fashion photography, editorial campaign aesthetic\\nComposition/framing: medium full-body shot, walking pose with natural movement, 85mm portrait lens\\nLighting/mood: warm golden hour backlight, soft rim light on silhouette, cozy and sophisticated atmosphere\\nColor palette: warm camel, burnt orange, golden yellow, soft cream, muted browns\\nMaterials/textures: thick woven wool texture, crisp fallen leaves, soft natural fabric drape\\nConstraints: maintain warm premium brand feel suitable for luxury autumn/winter collection\\nAvoid: harsh flash, cold blue tones, cluttered background, plastic-looking fabric, oversaturated colors\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 24987
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing PPT cover slide for the Changan Origin Q06 vehicle launch announcement.\n\nStyle/medium: needs a premium automotive launch aesthetic — exact stylistic execution is yours\nComposition: must include primary headline centered, secondary subtitle below, with a spacious breathable layout\nSubject: must include the Changan Origin Q06 as the focal subject\nScene/backdrop: needs a transparent and impactful background — exact visual treatment is yours\nLighting/mood: needs an awe-inspiring atmosphere — exact light source mix is yours\nColor palette: needs a brand-aligned direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"长安起源Q06将于9月上市\" (headline), with secondary subtitle text as appropriate\nConstraints: must preserve the brand tone consistency, breathable layout with clear hierarchy\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a520583d-55ef-440a-8917-5d80695ecb7c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing PPT cover slide for the Changan Origin Q06 vehicle launch announcement.\\n\\nStyle/medium: needs a premium automotive launch aesthetic — exact stylistic execution is yours\\nComposition: must include primary headline centered, secondary subtitle below, with a spacious breathable layout\\nSubject: must include the Changan Origin Q06 as the focal subject\\nScene/backdrop: needs a transparent and impactful background — exact visual treatment is yours\\nLighting/mood: needs an awe-inspiring atmosphere — exact light source mix is yours\\nColor palette: needs a brand-aligned direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"长安起源Q06将于9月上市\\\" (headline), with secondary subtitle text as appropriate\\nConstraints: must preserve the brand tone consistency, breathable layout with clear hierarchy\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9968
+}

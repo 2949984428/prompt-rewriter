@@ -1,0 +1,23 @@
+{
+  "query_idx": 276,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（UNEE Mother's Day Ad）。\n\n风格/媒介:\n构图:\n主体:将画面中相框里的图片替换为第二张图（温馨家庭场景-玩偶缩小）\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  仅替换相框内部的图片内容\n  相框本身、周围版式、文字、品牌元素及其他所有内容保持不变\n  输出比例适配 Instagram 1080×1350（4:5 竖版）\n避免:改动相框以外的任何元素",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aed6ffacf-9bd0-4248-becb-344ce369776a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（UNEE Mother's Day Ad）。\\n\\n风格/媒介:\\n构图:\\n主体:将画面中相框里的图片替换为第二张图（温馨家庭场景-玩偶缩小）\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  仅替换相框内部的图片内容\\n  相框本身、周围版式、文字、品牌元素及其他所有内容保持不变\\n  输出比例适配 Instagram 1080×1350（4:5 竖版）\\n避免:改动相框以外的任何元素\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17222,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

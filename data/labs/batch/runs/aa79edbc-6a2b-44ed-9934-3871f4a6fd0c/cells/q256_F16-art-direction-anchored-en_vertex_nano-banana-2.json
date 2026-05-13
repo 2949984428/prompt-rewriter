@@ -1,0 +1,23 @@
+{
+  "query_idx": 256,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张海岛度假派对主题海报，以上传图片为视觉参考。\n\n风格/媒介:简约高级，层次丰富\n构图:\n  9:16 竖版构图\n  参考上传图片的整体版式与视觉层次\n主体:海岛度假派对主题海报\n场景/背景:海岛度假氛围\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):都市逃逸计划\n约束:\n  以上传图片为参考\n  标题文字「都市逃逸计划」须出现在海报中\n避免:",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5601097a-56ca-4690-80b5-6ef9031433db/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一张海岛度假派对主题海报，以上传图片为视觉参考。\\n\\n风格/媒介:简约高级，层次丰富\\n构图:\\n  9:16 竖版构图\\n  参考上传图片的整体版式与视觉层次\\n主体:海岛度假派对主题海报\\n场景/背景:海岛度假氛围\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):都市逃逸计划\\n约束:\\n  以上传图片为参考\\n  标题文字「都市逃逸计划」须出现在海报中\\n避免:\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5190,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

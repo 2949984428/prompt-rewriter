@@ -1,0 +1,23 @@
+{
+  "query_idx": 222,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Instagram 健身博主风格的竖版照片。\n\n风格/媒介: photorealistic，iPhone 16 Pro Max 拍摄质感，Instagram 博主自拍风格\n构图: 9:16 竖图，对镜自拍视角，全身或半身，镜中人物居中\n主体: 健身博主女性，黑色短款健身上衣，健身长裤，健身身材，腰细腿长，肌肉训练痕迹明显，简约利落金色发型\n场景/背景: 室内家中，极简有设计感的背景\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束: 对镜自拍构图，手持手机拍摄姿势\n避免:",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af3618349-7419-4853-96b1-199bdd80e013/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Instagram 健身博主风格的竖版照片。\\n\\n风格/媒介: photorealistic，iPhone 16 Pro Max 拍摄质感，Instagram 博主自拍风格\\n构图: 9:16 竖图，对镜自拍视角，全身或半身，镜中人物居中\\n主体: 健身博主女性，黑色短款健身上衣，健身长裤，健身身材，腰细腿长，肌肉训练痕迹明显，简约利落金色发型\\n场景/背景: 室内家中，极简有设计感的背景\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束: 对镜自拍构图，手持手机拍摄姿势\\n避免:\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 6288,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

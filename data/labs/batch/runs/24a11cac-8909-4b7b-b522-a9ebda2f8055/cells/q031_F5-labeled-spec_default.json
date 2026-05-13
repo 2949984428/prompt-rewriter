@@ -1,0 +1,20 @@
+{
+  "query_idx": 31,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: interior editorial photo, landscape crop\nPrimary request: a serene Neo-Chinese-style tea room designed for quiet contemplation and tea drinking\nScene/backdrop: refined tea room interior; background wall adorned with hanging calligraphy scrolls and a carefully shaped bonsai tree; window reveals swaying bamboo shadows outside\nSubject: natural solid-wood tea table (raw wood grain finish) set with a Yixing zisha teapot and matching zisha tea cups arranged for a tea ceremony\nStyle/medium: photorealistic architectural interior photography, soft editorial tone\nComposition/framing: medium wide shot, slightly elevated angle, 35mm lens, balanced symmetrical framing\nLighting/mood: soft diffused daylight filtering through rice-paper window panels, dappled bamboo shadow patterns cast across the floor, tranquil and meditative Zen atmosphere\nColor palette: warm raw wood tones + deep zisha clay brown + muted ink-wash grey + soft celadon green from bonsai foliage\nMaterials/textures: visible wood grain on tea table surface, matte unglazed zisha clay texture on teapot and cups, aged paper texture on calligraphy scrolls, smooth stone or tatami floor\nConstraints: keep the composition uncluttered and meditative; bamboo shadows must be visible through or on the window; no modern appliances or Western elements\nAvoid: overly saturated colors, plastic-looking surfaces, cluttered styling, deformed teapot spout",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/344f15ac-d028-4fe1-a0f6-113065f34f44/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: interior editorial photo, landscape crop\\nPrimary request: a serene Neo-Chinese-style tea room designed for quiet contemplation and tea drinking\\nScene/backdrop: refined tea room interior; background wall adorned with hanging calligraphy scrolls and a carefully shaped bonsai tree; window reveals swaying bamboo shadows outside\\nSubject: natural solid-wood tea table (raw wood grain finish) set with a Yixing zisha teapot and matching zisha tea cups arranged for a tea ceremony\\nStyle/medium: photorealistic architectural interior photography, soft editorial tone\\nComposition/framing: medium wide shot, slightly elevated angle, 35mm lens, balanced symmetrical framing\\nLighting/mood: soft diffused daylight filtering through rice-paper window panels, dappled bamboo shadow patterns cast across the floor, tranquil and meditative Zen atmosphere\\nColor palette: warm raw wood tones + deep zisha clay brown + muted ink-wash grey + soft celadon green from bonsai foliage\\nMaterials/textures: visible wood grain on tea table surface, matte unglazed zisha clay texture on teapot and cups, aged paper texture on calligraphy scrolls, smooth stone or tatami floor\\nConstraints: keep the composition uncluttered and meditative; bamboo shadows must be visible through or on the window; no modern appliances or Western elements\\nAvoid: overly saturated colors, plastic-looking surfaces, cluttered styling, deformed teapot spout\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14423
+}

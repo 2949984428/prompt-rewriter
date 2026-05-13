@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a banner news/hot-topic feature image for Weibo in professional documentary photography style.\n\nStyle/medium: needs a \"新闻纪实感\" documentary aesthetic with \"手机现场拍摄的高级照片\" feel — references in the spirit of 1990s Hong Kong street photography tradition, Magnum Photos candid urban documentation, contemporary smartphone street photography (e.g., iPhone Photography Award winners); exact stylistic execution is yours\nComposition: must be wide horizontal banner with 16:9 ratio, ample negative space for text overlay\nSubject: must include city skyline at dusk, neon lights gradually illuminating, pedestrians in motion blur, distant skyscrapers reflecting sunset glow\nScene/backdrop: must be an urban dusk cityscape with dramatic light contrast and strong on-site authenticity\nLighting/mood: needs a dusk twilight atmosphere with dramatic light-shadow contrast — exact light source mix is yours\nColor palette: needs a dusk-to-night transition direction with warm sunset tones and cool neon accents — exact hex values are yours\nMaterials/textures: needs an 8K sharp detail texture treatment — exact grain and sharpness level is yours\nText (verbatim): must include \"城市里的安静时刻\" (large, prominent, bold or modern sans-serif), \"黄昏，总能治愈一天的匆忙\" (secondary), \"@龙爪槐守望者real · 生活观察\" (watermark, bottom or bottom-right)\nConstraints: must preserve 16:9 aspect ratio, horizontal layout with text-friendly negative space, professional premium feel like real viral Weibo feature images\nAvoid: must avoid over-processed or obviously AI-generated looks, must avoid cluttered composition that crowds text areas",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b81b2b87-3d98-4fa7-ae31-14e3386d7120/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a banner news/hot-topic feature image for Weibo in professional documentary photography style.\\n\\nStyle/medium: needs a \\\"新闻纪实感\\\" documentary aesthetic with \\\"手机现场拍摄的高级照片\\\" feel — references in the spirit of 1990s Hong Kong street photography tradition, Magnum Photos candid urban documentation, contemporary smartphone street photography (e.g., iPhone Photography Award winners); exact stylistic execution is yours\\nComposition: must be wide horizontal banner with 16:9 ratio, ample negative space for text overlay\\nSubject: must include city skyline at dusk, neon lights gradually illuminating, pedestrians in motion blur, distant skyscrapers reflecting sunset glow\\nScene/backdrop: must be an urban dusk cityscape with dramatic light contrast and strong on-site authenticity\\nLighting/mood: needs a dusk twilight atmosphere with dramatic light-shadow contrast — exact light source mix is yours\\nColor palette: needs a dusk-to-night transition direction with warm sunset tones and cool neon accents — exact hex values are yours\\nMaterials/textures: needs an 8K sharp detail texture treatment — exact grain and sharpness level is yours\\nText (verbatim): must include \\\"城市里的安静时刻\\\" (large, prominent, bold or modern sans-serif), \\\"黄昏，总能治愈一天的匆忙\\\" (secondary), \\\"@龙爪槐守望者real · 生活观察\\\" (watermark, bottom or bottom-right)\\nConstraints: must preserve 16:9 aspect ratio, horizontal layout with text-friendly negative space, professional premium feel like real viral Weibo feature images\\nAvoid: must avoid over-processed or obviously AI-generated looks, must avoid cluttered composition that crowds text areas\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16605
+}

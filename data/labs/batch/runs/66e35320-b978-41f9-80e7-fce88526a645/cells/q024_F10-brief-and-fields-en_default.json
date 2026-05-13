@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic for a technical tutorial on deploying Hermes inside a Docker container and integrating it with GLMCodingPlan.\n\nStyle/medium: clean flat vector infographic, modern technical documentation style, step-by-step visual guide\nSubject: 4 numbered steps (1-2-3-4) showing Docker container setup and Hermes integration workflow with GLMCodingPlan\nComposition: vertical layout with 4 distinct horizontal sections, each containing a step number badge, concise instruction text, and a simple diagram icon\nColor palette: Docker blue as primary accent, neutral gray for secondary elements, white background for readability\nText (verbatim): \"1\", \"2\", \"3\", \"4\", \"docker\", \"hermes\", \"glmcodingplan\"\nConstraints: must be readable at small sizes; icons must be simple and universally understood; text must be concise for each step\nAvoid: cluttered layouts; overly complex diagrams; gradients unless essential; stock photo style; 3D rendering",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c8aff641-0163-4aaf-808d-258dc747f1a7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing infographic for a technical tutorial on deploying Hermes inside a Docker container and integrating it with GLMCodingPlan.\\n\\nStyle/medium: clean flat vector infographic, modern technical documentation style, step-by-step visual guide\\nSubject: 4 numbered steps (1-2-3-4) showing Docker container setup and Hermes integration workflow with GLMCodingPlan\\nComposition: vertical layout with 4 distinct horizontal sections, each containing a step number badge, concise instruction text, and a simple diagram icon\\nColor palette: Docker blue as primary accent, neutral gray for secondary elements, white background for readability\\nText (verbatim): \\\"1\\\", \\\"2\\\", \\\"3\\\", \\\"4\\\", \\\"docker\\\", \\\"hermes\\\", \\\"glmcodingplan\\\"\\nConstraints: must be readable at small sizes; icons must be simple and universally understood; text must be concise for each step\\nAvoid: cluttered layouts; overly complex diagrams; gradients unless essential; stock photo style; 3D rendering\", \"size\":\"1024x1536\", \"quality\":\"medium\", \"n\":1, \"output_format\":\"png\"}",
+  "ms": 6905
+}

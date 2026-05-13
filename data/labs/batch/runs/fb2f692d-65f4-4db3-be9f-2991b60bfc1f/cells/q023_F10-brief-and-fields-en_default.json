@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational infographic card for children explaining the Battle of Red Cliffs from the Three Kingdoms era.\n\nStyle/medium: flat vector illustration, children's educational infographic, cartoon storytelling style with friendly simplified characters\nSubject: Battle of Red Cliffs (赤壁之战) story illustrated in sequential cartoon panels showing key events: fire attack on linked warships, Zhuge Liang's strategy, wind direction change\nComposition: single large knowledge card layout, title at top in bold clear typography, main story illustration occupying center-right, bullet points listed on the left side with punctuation marks\nScene/backdrop: simplified river battle scene with cartoon-style warships, flames, and characters in ancient Chinese armor, clean white or light cream background for readability\nColor palette: warm oranges and reds for fire elements, cool blues for water, earth tones for ships, high contrast for text readability\nText (verbatim): \"赤壁之战\"\nConstraints: must be readable for children ages 6-10; text and visuals must work together for clear storytelling; card format should be scannable with clear hierarchy\nAvoid: realistic violence or gore; overly complex historical details; cluttered layout; small unreadable text; photorealistic rendering",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b67d532d-a0ac-4c9a-9cff-58b3149ee669/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an educational infographic card for children explaining the Battle of Red Cliffs from the Three Kingdoms era.\\n\\nStyle/medium: flat vector illustration, children's educational infographic, cartoon storytelling style with friendly simplified characters\\nSubject: Battle of Red Cliffs (赤壁之战) story illustrated in sequential cartoon panels showing key events: fire attack on linked warships, Zhuge Liang's strategy, wind direction change\\nComposition: single large knowledge card layout, title at top in bold clear typography, main story illustration occupying center-right, bullet points listed on the left side with punctuation marks\\nScene/backdrop: simplified river battle scene with cartoon-style warships, flames, and characters in ancient Chinese armor, clean white or light cream background for readability\\nColor palette: warm oranges and reds for fire elements, cool blues for water, earth tones for ships, high contrast for text readability\\nText (verbatim): \\\"赤壁之战\\\"\\nConstraints: must be readable for children ages 6-10; text and visuals must work together for clear storytelling; card format should be scannable with clear hierarchy\\nAvoid: realistic violence or gore; overly complex historical details; cluttered layout; small unreadable text; photorealistic rendering\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8482
+}

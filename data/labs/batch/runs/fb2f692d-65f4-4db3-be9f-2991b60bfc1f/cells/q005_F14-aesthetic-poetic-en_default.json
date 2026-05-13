@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an illustrated infographic explaining the definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, and CLI, designed for easy comprehension with a hand-drawn visual style.\n\nStyle/medium: hand-drawn infographic illustration with the approachable warmth of a sketched whiteboard explanation, combining simple line drawings with clear visual hierarchy\nComposition: central concept map with AI at the core, radiating branches to connected terms, visual flow guiding the eye from definition boxes to relationship arrows\nSubject: seven concept nodes (AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, CLI) each with brief definition text, relationship lines showing hierarchy and dependencies\nScene/backdrop: clean white/light background with subtle paper texture, generous breathing room between concept clusters\nLighting/mood: the soft clarity of a well-lit study session, inviting curiosity without overwhelm\nColor palette: warm graphite and soft accent colors for concept categories, restrained palette to maintain readability\nMaterials/textures: pencil sketch lines with gentle ink accents, the honest texture of hand-drawn explanation\nText (verbatim): AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — all terms preserved in their original form\nConstraints: all seven concepts must be visible, definitions must be legible, relationship arrows must clearly indicate connections, visual hierarchy must support quick comprehension\nAvoid: overly decorative flourishes that obscure information, cramped layout, ambiguous relationship lines, photorealistic rendering",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8c02d869-2beb-4f4a-b659-e33950bc82a8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an illustrated infographic explaining the definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, and CLI, designed for easy comprehension with a hand-drawn visual style.\\n\\nStyle/medium: hand-drawn infographic illustration with the approachable warmth of a sketched whiteboard explanation, combining simple line drawings with clear visual hierarchy\\nComposition: central concept map with AI at the core, radiating branches to connected terms, visual flow guiding the eye from definition boxes to relationship arrows\\nSubject: seven concept nodes (AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, CLI) each with brief definition text, relationship lines showing hierarchy and dependencies\\nScene/backdrop: clean white/light background with subtle paper texture, generous breathing room between concept clusters\\nLighting/mood: the soft clarity of a well-lit study session, inviting curiosity without overwhelm\\nColor palette: warm graphite and soft accent colors for concept categories, restrained palette to maintain readability\\nMaterials/textures: pencil sketch lines with gentle ink accents, the honest texture of hand-drawn explanation\\nText (verbatim): AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — all terms preserved in their original form\\nConstraints: all seven concepts must be visible, definitions must be legible, relationship arrows must clearly indicate connections, visual hierarchy must support quick comprehension\\nAvoid: overly decorative flourishes that obscure information, cramped layout, ambiguous relationship lines, photorealistic rendering\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10041
+}

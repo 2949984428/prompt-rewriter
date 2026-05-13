@@ -1,0 +1,21 @@
+{
+  "query_idx": 248,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Generate a YouTube thumbnail for Marvel's Spider-Man 2 video game.\n\n风格/媒介: AAA video game thumbnail style, anime-inspired, polished and cinematic feel, high energy\n构图:\n  Character centered in foreground, large and dominant\n  Bold oversized text on one side\n  Background fills the scene with depth and action elements\n主体:\n  Muscular anime-style warrior character redesigned as Spider-Man\n  Same crossed-arm pose, floating seated position, sharp eyes, high brown ponytail\n  Black-and-red Spider-Man symbiote-style suit with glowing white spider emblem across the chest\n  Subtle web textures and futuristic armored details on the suit\n  Giant sword on his back\n  Intense, confident expression\n场景/背景:\n  Dramatic nighttime New York City skyline\n  Lightning, glowing neon lights, destroyed streets\n  Faint Venom silhouette and another Spider-Man silhouette visible behind the character\n  Spider-Man 2 action elements throughout\n光线/氛围:\n  Blue and red lighting effects\n  Dramatic shadows, glowing highlights\n  Motion blur, sparks, smoke\n  High energy, cinematic intensity\n色彩方案: Highly saturated, strong contrast, black and red dominant with blue/red lighting accents\n材质/纹理: Symbiote suit texture, web pattern details, futuristic armor plating\n文字(原样): PART 1\n约束: Looks like an official Marvel's Spider-Man 2 YouTube thumbnail with maximum click-through appeal\n避免:",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:生图失败",
+  "raw": "{\"prompt\": \"Generate a YouTube thumbnail for Marvel's Spider-Man 2 video game.\\n\\n风格/媒介: AAA video game thumbnail style, anime-inspired, polished and cinematic feel, high energy\\n构图:\\n  Character centered in foreground, large and dominant\\n  Bold oversized text on one side\\n  Background fills the scene with depth and action elements\\n主体:\\n  Muscular anime-style warrior character redesigned as Spider-Man\\n  Same crossed-arm pose, floating seated position, sharp eyes, high brown ponytail\\n  Black-and-red Spider-Man symbiote-style suit with glowing white spider emblem across the chest\\n  Subtle web textures and futuristic armored details on the suit\\n  Giant sword on his back\\n  Intense, confident expression\\n场景/背景:\\n  Dramatic nighttime New York City skyline\\n  Lightning, glowing neon lights, destroyed streets\\n  Faint Venom silhouette and another Spider-Man silhouette visible behind the character\\n  Spider-Man 2 action elements throughout\\n光线/氛围:\\n  Blue and red lighting effects\\n  Dramatic shadows, glowing highlights\\n  Motion blur, sparks, smoke\\n  High energy, cinematic intensity\\n色彩方案: Highly saturated, strong contrast, black and red dominant with blue/red lighting accents\\n材质/纹理: Symbiote suit texture, web pattern details, futuristic armor plating\\n文字(原样): PART 1\\n约束: Looks like an official Marvel's Spider-Man 2 YouTube thumbnail with maximum click-through appeal\\n避免:\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9565,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

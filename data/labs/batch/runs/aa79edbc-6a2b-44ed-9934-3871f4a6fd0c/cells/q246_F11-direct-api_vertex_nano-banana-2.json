@@ -1,0 +1,23 @@
+{
+  "query_idx": 246,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1: Image]根据参考图风格，生成中国道教道家天官讳的介绍共2张图。另作一张封面图用于抖音小红书宣传。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 2,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A84f45e66-7aef-4f21-b2f1-653d7bebb41a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1: Image]根据参考图风格，生成中国道教道家天官讳的介绍共2张图。另作一张封面图用于抖音小红书宣传。\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 2, \"output_format\": \"png\"}",
+  "ms": 7303,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

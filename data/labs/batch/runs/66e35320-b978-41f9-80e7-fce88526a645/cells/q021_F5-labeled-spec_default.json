@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: character-expression-sheet\nAsset type: 3x3 grid character reference sheet\nPrimary request: nine-panel expression grid of Zhao Ling'er (赵灵儿) from Chinese Paladin (仙剑奇侠传), each panel showing a different expression and outfit, all peeking through torn holes in white paper\nScene/backdrop: clean white background with nine torn circular holes arranged in 3x3 grid, each hole framing the character's face\nSubject: Zhao Ling'er (赵灵儿) - young woman with voluminous dark wavy hair and round wire-rimmed glasses, consistent facial features across all panels\nStyle/medium: 3D animation, Pixar style, character expression sheet\nComposition/framing: 3x3 grid layout, close-up portrait framing for each panel, consistent head size and angle\nLighting/mood: soft even studio lighting, cheerful and expressive mood\nColor palette: varied outfit colors - green, red, yellow, black/white, orange, blue, purple, pink, teal - against clean white paper background\nMaterials/textures: smooth 3D rendered skin, fabric textures for different outfits, torn paper edges with slight shadow depth\nText (verbatim): \"赵灵儿\"\nConstraints: maintain consistent character likeness across all 9 panels, preserve Zhao Ling'er's recognizable features from the IP\nAvoid: deformed facial features, inconsistent character appearance between panels, realistic photography style, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b0f0ad39-ae2c-447c-ba82-488e21977f2e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: character-expression-sheet\\nAsset type: 3x3 grid character reference sheet\\nPrimary request: nine-panel expression grid of Zhao Ling'er (赵灵儿) from Chinese Paladin (仙剑奇侠传), each panel showing a different expression and outfit, all peeking through torn holes in white paper\\nScene/backdrop: clean white background with nine torn circular holes arranged in 3x3 grid, each hole framing the character's face\\nSubject: Zhao Ling'er (赵灵儿) - young woman with voluminous dark wavy hair and round wire-rimmed glasses, consistent facial features across all panels\\nStyle/medium: 3D animation, Pixar style, character expression sheet\\nComposition/framing: 3x3 grid layout, close-up portrait framing for each panel, consistent head size and angle\\nLighting/mood: soft even studio lighting, cheerful and expressive mood\\nColor palette: varied outfit colors - green, red, yellow, black/white, orange, blue, purple, pink, teal - against clean white paper background\\nMaterials/textures: smooth 3D rendered skin, fabric textures for different outfits, torn paper edges with slight shadow depth\\nText (verbatim): \\\"赵灵儿\\\"\\nConstraints: maintain consistent character likeness across all 9 panels, preserve Zhao Ling'er's recognizable features from the IP\\nAvoid: deformed facial features, inconsistent character appearance between panels, realistic photography style, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17129
+}

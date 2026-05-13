@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic concept art matte painting of a Mars colony in 2387, showing a panoramic view of the settlement.\n\nStyle/medium: hard sci-fi concept art, photorealistic matte painting, cinematic CGI quality, grounded in realistic engineering aesthetics\nComposition: wide panoramic establishing shot, eye-level to slightly elevated viewpoint, sweeping vista capturing multiple domes and the Martian horizon\nSubject: massive transparent geodesic domes with lush vegetation and high-rise structures visible inside, foreground team of explorers in advanced EVA suits conducting geological surveys, six-wheeled Mars rovers parked nearby\nScene/backdrop: red Martian desert regolith stretching to horizon, Olympus Mons silhouette in far distance, massive solar array farms and atmosphere processing stations operating outside the domes, 2387 Mars colony infrastructure\nLighting/mood: Mars actual daylight simulation, diffuse sunlight with 40% Earth intensity, long shadows, dusty atmospheric haze, awe-inspiring sense of scale and human achievement\nColor palette: ochre red and burnt orange as dominant base, warm amber highlights, cool silver-gray accents on technology, muted teal in vegetation, atmospheric pinkish sky gradient\nMaterials/textures: dusty regolith with fine particulate texture, transparent polymer dome surfaces with subtle reflections, metallic composite rover bodies, fabric and hard-shell EVA suit materials, dense foliage visible through dome transparency\nAvoid: fantasy elements, magical lighting, Earth-blue sky, lush green everywhere, deformed anatomy, watermarks, 8K stuffer text\nConstraints: maintain scientific plausibility for 2387 technology level, all structures must suggest functional engineering purpose, scale relationships must feel authentic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/16049857-a3c9-4997-bf3f-f0dd498267f0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic concept art matte painting of a Mars colony in 2387, showing a panoramic view of the settlement.\\n\\nStyle/medium: hard sci-fi concept art, photorealistic matte painting, cinematic CGI quality, grounded in realistic engineering aesthetics\\nComposition: wide panoramic establishing shot, eye-level to slightly elevated viewpoint, sweeping vista capturing multiple domes and the Martian horizon\\nSubject: massive transparent geodesic domes with lush vegetation and high-rise structures visible inside, foreground team of explorers in advanced EVA suits conducting geological surveys, six-wheeled Mars rovers parked nearby\\nScene/backdrop: red Martian desert regolith stretching to horizon, Olympus Mons silhouette in far distance, massive solar array farms and atmosphere processing stations operating outside the domes, 2387 Mars colony infrastructure\\nLighting/mood: Mars actual daylight simulation, diffuse sunlight with 40% Earth intensity, long shadows, dusty atmospheric haze, awe-inspiring sense of scale and human achievement\\nColor palette: ochre red and burnt orange as dominant base, warm amber highlights, cool silver-gray accents on technology, muted teal in vegetation, atmospheric pinkish sky gradient\\nMaterials/textures: dusty regolith with fine particulate texture, transparent polymer dome surfaces with subtle reflections, metallic composite rover bodies, fabric and hard-shell EVA suit materials, dense foliage visible through dome transparency\\nAvoid: fantasy elements, magical lighting, Earth-blue sky, lush green everywhere, deformed anatomy, watermarks, 8K stuffer text\\nConstraints: maintain scientific plausibility for 2387 technology level, all structures must suggest functional engineering purpose, scale relationships must feel authentic\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14296
+}

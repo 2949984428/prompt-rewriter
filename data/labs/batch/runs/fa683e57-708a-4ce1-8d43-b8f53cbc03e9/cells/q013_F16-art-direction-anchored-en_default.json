@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a hotel poolside scene with tropical resort vibes (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"tropical resort\" aesthetic — references in the spirit of Slim Aarons poolside photography, 1970s Hawaiian travel posters, Aman Resorts editorial photography; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include an infinity pool, lounge chairs, parasols, coconut trees\nScene/backdrop: must include an infinity pool overlooking the ocean, blue sky with white clouds\nLighting/mood: needs a bright, inviting vacation atmosphere — exact light source mix is yours\nColor palette: needs a highly saturated direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b3be97ef-185a-43d3-bbb9-a4cd85437649/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a hotel poolside scene with tropical resort vibes (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"tropical resort\\\" aesthetic — references in the spirit of Slim Aarons poolside photography, 1970s Hawaiian travel posters, Aman Resorts editorial photography; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include an infinity pool, lounge chairs, parasols, coconut trees\\nScene/backdrop: must include an infinity pool overlooking the ocean, blue sky with white clouds\\nLighting/mood: needs a bright, inviting vacation atmosphere — exact light source mix is yours\\nColor palette: needs a highly saturated direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8415
+}

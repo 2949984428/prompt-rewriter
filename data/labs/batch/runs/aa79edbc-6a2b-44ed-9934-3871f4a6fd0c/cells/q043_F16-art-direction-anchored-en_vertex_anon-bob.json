@@ -1,0 +1,15 @@
+{
+  "query_idx": 43,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"Design a luxury photographer business card — BACK side.\\n\\nStyle/medium: metallic dark luxury, high-end business card design, flat lay product shot\\nComposition: centered layout, bold and attractive, logo as the hero element\\nSubject: photography logo — elegant camera or lens symbol, ornate and decorative, suited for a luxury photography brand\\nScene/backdrop: deep dark background, metallic accents\\nLighting/mood: dark, moody, luxurious, subtle metallic sheen\\nColor palette: deep black / charcoal background, gold and silver metallic tones\\nMaterials/textures: metallic foil texture, embossed feel, dark matte card stock\\nText (verbatim):\\nConstraints: back side only — no contact info, logo-focused design\\nAvoid: cluttered layout, bright colors, casual or flat design\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}{\"prompt\": \"Design a luxury photographer business card — FRONT side.\\n\\nStyle/medium: metallic dark luxury, high-end business card design, flat lay product shot\\nComposition:\\n  centered vertical layout\\n  photography logo at the top center\\n  brand name below the logo\\n  social media icons with handles below the name\\n  phone icon with number at the bottom\\nSubject: photography logo — elegant camera or lens symbol, ornate and decorative, matching luxury brand identity\\nScene/backdrop: deep dark background, metallic accents\\nLighting/mood: dark, moody, luxurious, subtle metallic sheen\\nColor palette: deep black / charcoal background, gold and silver metallic tones\\nMaterials/textures: metallic foil texture, embossed feel, dark matte card stock\\nText (verbatim):\\n  Minyar Photography\\n  minyar.guediche.photography\\n  Minyar-Photographer\\n  55 43 48 43\\nConstraints:\\n  Instagram icon next to: minyar.guediche.photography\\n  Facebook icon next to: Minyar-Photographer\\n  Phone icon next to: 55 43 48 43\\n  Front side only\\nAvoid: cluttered layout, bright colors, casual or flat design, missing text elements\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 13244,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

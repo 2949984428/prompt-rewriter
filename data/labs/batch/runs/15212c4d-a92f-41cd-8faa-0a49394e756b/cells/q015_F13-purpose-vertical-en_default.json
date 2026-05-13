@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a 9:16 screenshot of a Douyin livestream featuring \"神仙姐姐\" holding a sign.\n\nStyle/medium: Douyin livestream interface screenshot, mobile UI mockup\nComposition: vertical 9:16 frame, livestream interface overlay with comments and reactions visible, subject centered holding sign\nSubject: \"神仙姐姐\" holding a sign\nScene/backdrop: Douyin livestream room interface with typical UI elements (viewer count, comments, gift buttons, live indicator)\nLighting/mood: bright studio lighting typical of influencer livestreams\nColor palette: Douyin brand colors (black, white, pink accents)\nMaterials/textures: digital screen interface, glossy sign surface\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: must look like authentic Douyin livestream screenshot, 9:16 aspect ratio\nAvoid: Western streaming platform UI (Twitch/YouTube), desktop interface elements",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/265f17b0-252b-42aa-87c7-803f94e17fc3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate a 9:16 screenshot of a Douyin livestream featuring \\\"神仙姐姐\\\" holding a sign.\\n\\nStyle/medium: Douyin livestream interface screenshot, mobile UI mockup\\nComposition: vertical 9:16 frame, livestream interface overlay with comments and reactions visible, subject centered holding sign\\nSubject: \\\"神仙姐姐\\\" holding a sign\\nScene/backdrop: Douyin livestream room interface with typical UI elements (viewer count, comments, gift buttons, live indicator)\\nLighting/mood: bright studio lighting typical of influencer livestreams\\nColor palette: Douyin brand colors (black, white, pink accents)\\nMaterials/textures: digital screen interface, glossy sign surface\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: must look like authentic Douyin livestream screenshot, 9:16 aspect ratio\\nAvoid: Western streaming platform UI (Twitch/YouTube), desktop interface elements\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8229
+}

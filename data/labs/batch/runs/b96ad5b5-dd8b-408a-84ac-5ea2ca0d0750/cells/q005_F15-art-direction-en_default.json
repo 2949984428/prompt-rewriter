@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational infographic explaining definitions and relationships between AI concepts (all in-image text in Chinese).\n\nStyle/medium: needs a hand-drawn sketch aesthetic — exact line weight and texture is yours\nComposition: must include a clear visual hierarchy showing concept definitions and their relationships\nSubject: must include all 7 concepts with their definitions and interconnections:\n  - AI\n  - MCP\n  - AI Agent\n  - OpenClaw\n  - AI Skill\n  - 蒸馏\n  - CLI\nScene/backdrop: \nLighting/mood: needs an approachable, easy-to-understand educational atmosphere — exact warmth is yours\nColor palette: \nMaterials/textures: needs hand-drawn illustration treatment — exact paper texture is yours\nText (verbatim): must include all concept names: \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must include all in-image text in Chinese by default; must preserve all 7 concept names as listed; must show both definitions and relationships between concepts\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d160df17-ca54-40ea-9e8b-28c00a9e0152/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an educational infographic explaining definitions and relationships between AI concepts (all in-image text in Chinese).\\n\\nStyle/medium: needs a hand-drawn sketch aesthetic — exact line weight and texture is yours\\nComposition: must include a clear visual hierarchy showing concept definitions and their relationships\\nSubject: must include all 7 concepts with their definitions and interconnections:\\n  - AI\\n  - MCP\\n  - AI Agent\\n  - OpenClaw\\n  - AI Skill\\n  - 蒸馏\\n  - CLI\\nScene/backdrop: \\nLighting/mood: needs an approachable, easy-to-understand educational atmosphere — exact warmth is yours\\nColor palette: \\nMaterials/textures: needs hand-drawn illustration treatment — exact paper texture is yours\\nText (verbatim): must include all concept names: \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must include all in-image text in Chinese by default; must preserve all 7 concept names as listed; must show both definitions and relationships between concepts\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13270
+}

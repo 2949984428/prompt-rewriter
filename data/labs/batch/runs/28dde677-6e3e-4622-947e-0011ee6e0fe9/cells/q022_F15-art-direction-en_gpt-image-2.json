@@ -1,0 +1,21 @@
+{
+  "query_idx": 22,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original editorial-style photo of Korean cafe coffee and desserts, with hand-drawn white-pen annotation overlays, no people, suitable for Instagram Stories.\n\nStyle/medium: needs a Korean cafe aesthetic shot on smartphone — exact stylistic execution is yours; annotation layer needs a white-pen hand-drawn sketch overlay in a \"drawn in one stroke\" rough, slightly uneven style — exact line weight and texture are yours\nComposition: must include hand-drawn outline traces around each element, with arrows or dashed lines guiding the eye between annotations\nSubject: must include stylish coffee drink(s) and dessert(s) typical of Korean cafe culture — no people\nScene/backdrop: must include a Korean cafe interior or tabletop setting — exact backdrop detail is yours\nLighting/mood: needs a soft, warm, Instagram-worthy cafe atmosphere — exact light source mix is yours\nColor palette: needs a muted, fashionable cafe direction — exact tones and ratios are yours\nMaterials/textures: needs the annotation layer to feel like white pen on photo — rough, hand-lettered, slightly imperfect — exact grain and sheen are yours\nText (verbatim): must include handwritten Japanese annotation text (7割ひらがな・3割かんじ) in diary/monologue tone, one short comment per element — examples by category: 飲み物 → 「さっぱり」「やさしい甘さ♡」; 食べ物 → 「しっとり」「さいこう…」; 空間 → 「くつろぐ」「いい時間」; 全体一言 → 「しあわせすぎた〜」; decorate sparingly with steam wisps ☁, sparkles ✦, hearts ♡, small emoticons — leave breathing room / white space\nConstraints: must preserve the annotation overlay as an integral part of the image (not a separate layer feel); white space must be maintained — annotations must not crowd the photo; overall feel must be Instagram Stories × magazine rough-notes style, fashionable yet casual\nAvoid: overcrowded annotations; heavy or mechanical line strokes; people or human figures; overly polished or printed-looking text",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A9a23e018-544a-496f-9ce0-4640ab5f7300/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original editorial-style photo of Korean cafe coffee and desserts, with hand-drawn white-pen annotation overlays, no people, suitable for Instagram Stories.\\n\\nStyle/medium: needs a Korean cafe aesthetic shot on smartphone — exact stylistic execution is yours; annotation layer needs a white-pen hand-drawn sketch overlay in a \\\"drawn in one stroke\\\" rough, slightly uneven style — exact line weight and texture are yours\\nComposition: must include hand-drawn outline traces around each element, with arrows or dashed lines guiding the eye between annotations\\nSubject: must include stylish coffee drink(s) and dessert(s) typical of Korean cafe culture — no people\\nScene/backdrop: must include a Korean cafe interior or tabletop setting — exact backdrop detail is yours\\nLighting/mood: needs a soft, warm, Instagram-worthy cafe atmosphere — exact light source mix is yours\\nColor palette: needs a muted, fashionable cafe direction — exact tones and ratios are yours\\nMaterials/textures: needs the annotation layer to feel like white pen on photo — rough, hand-lettered, slightly imperfect — exact grain and sheen are yours\\nText (verbatim): must include handwritten Japanese annotation text (7割ひらがな・3割かんじ) in diary/monologue tone, one short comment per element — examples by category: 飲み物 → 「さっぱり」「やさしい甘さ♡」; 食べ物 → 「しっとり」「さいこう…」; 空間 → 「くつろぐ」「いい時間」; 全体一言 → 「しあわせすぎた〜」; decorate sparingly with steam wisps ☁, sparkles ✦, hearts ♡, small emoticons — leave breathing room / white space\\nConstraints: must preserve the annotation overlay as an integral part of the image (not a separate layer feel); white space must be maintained — annotations must not crowd the photo; overall feel must be Instagram Stories × magazine rough-notes style, fashionable yet casual\\nAvoid: overcrowded annotations; heavy or mechanical line strokes; people or human figures; overly polished or printed-looking text\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 20013
+}

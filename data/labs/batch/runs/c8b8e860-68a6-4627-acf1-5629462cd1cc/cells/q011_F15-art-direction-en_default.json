@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Xiaohongshu (小红书) cover image for a platform announcement.\n\nStyle/medium: needs a premium magazine aesthetic — exact stylistic execution is yours\nComposition: must be diagonal composition\nSubject: must include the announcement about GPT-image-2 and Lovart platform\nScene/backdrop: \nLighting/mood: \nColor palette: needs a high-contrast accent color direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"GPT-image-2\" and \"Lovart\"\nConstraints: must preserve the platform announcement context\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/645f8adc-4937-4dbf-bc1f-160ff1011cba/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a Xiaohongshu (小红书) cover image for a platform announcement.\\n\\nStyle/medium: needs a premium magazine aesthetic — exact stylistic execution is yours\\nComposition: must be diagonal composition\\nSubject: must include the announcement about GPT-image-2 and Lovart platform\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a high-contrast accent color direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT-image-2\\\" and \\\"Lovart\\\"\\nConstraints: must preserve the platform announcement context\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7374
+}

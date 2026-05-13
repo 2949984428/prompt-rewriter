@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for UGREEN NAS brand 618 anniversary celebration.\n\nStyle/medium: \nComposition: \nSubject: UGREEN NAS brand 618 anniversary celebration\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 绿联私有云品牌618周年庆活动电商宣布海报\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/87455798-90b4-4b54-9d9a-3087473ba6a8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing marketing poster for UGREEN NAS brand 618 anniversary celebration.\\n\\nStyle/medium: \\nComposition: \\nSubject: UGREEN NAS brand 618 anniversary celebration\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 绿联私有云品牌618周年庆活动电商宣布海报\\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5477
+}

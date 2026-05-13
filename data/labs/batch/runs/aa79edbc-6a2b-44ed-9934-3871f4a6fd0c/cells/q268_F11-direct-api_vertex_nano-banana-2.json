@@ -1,0 +1,23 @@
+{
+  "query_idx": 268,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "請幫我設計一張，台灣五一勞動節休假的海報，透過海報訊息內容與顧客說明當天不出班不服務，盡可能柔和配色且清晰明瞭發布在Twitter",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5c0e2b91-92fb-4712-842b-8a16f0817745/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"請幫我設計一張，台灣五一勞動節休假的海報，透過海報訊息內容與顧客說明當天不出班不服務，盡可能柔和配色且清晰明瞭發布在Twitter\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5129,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 274,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑图1（白酒海报）。\n\n风格/媒介:\n构图:\n主体:把图1中的产品替换成图2中的产品\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  保留图1的整体背景与版式\n  去掉图1背景上的其他文字\n  输出比例适配微信朋友圈（接近1:1）\n避免:改动背景主视觉以外的设计元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1a51d2e3-fc88-4a72-8a30-5fe90552348b/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑图1（白酒海报）。\\n\\n风格/媒介:\\n构图:\\n主体:把图1中的产品替换成图2中的产品\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  保留图1的整体背景与版式\\n  去掉图1背景上的其他文字\\n  输出比例适配微信朋友圈（接近1:1）\\n避免:改动背景主视觉以外的设计元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 6101,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

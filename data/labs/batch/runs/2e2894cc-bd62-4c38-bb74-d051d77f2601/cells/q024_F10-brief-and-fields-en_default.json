@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing infographic showing step-by-step instructions for deploying Hermes in a Docker container and integrating it with GLMCodingPlan.\n\nStyle/medium: clean flat vector infographic, technical documentation style, minimal icons, step-by-step flowchart aesthetic\nComposition: vertical layout with 4 numbered steps stacked top-to-bottom, each step in its own bordered card with icon and text\nSubject: four instructional steps labeled 1-2-3-4, Docker container deployment workflow, Hermes integration with GLMCodingPlan\nScene/backdrop: clean white or light gray background, subtle grid pattern for technical feel\nColor palette: cool blue for Docker branding, warm orange for step numbers, neutral gray for text, green for success/check indicators\nText (verbatim): \"1\", \"2\", \"3\", \"4\", \"docker\", \"hermes\", \"glmcodingplan\"\nConstraints: numbers must be prominently displayed in sequence; icons must be simple and recognizable; text must be readable at small sizes\nAvoid: 3D renders; photorealistic textures; cluttered layouts; decorative flourishes; gradients unless essential for hierarchy",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/befdc5e0-716c-475c-9ed1-5491a8bf161a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing infographic showing step-by-step instructions for deploying Hermes in a Docker container and integrating it with GLMCodingPlan.\\n\\nStyle/medium: clean flat vector infographic, technical documentation style, minimal icons, step-by-step flowchart aesthetic\\nComposition: vertical layout with 4 numbered steps stacked top-to-bottom, each step in its own bordered card with icon and text\\nSubject: four instructional steps labeled 1-2-3-4, Docker container deployment workflow, Hermes integration with GLMCodingPlan\\nScene/backdrop: clean white or light gray background, subtle grid pattern for technical feel\\nColor palette: cool blue for Docker branding, warm orange for step numbers, neutral gray for text, green for success/check indicators\\nText (verbatim): \\\"1\\\", \\\"2\\\", \\\"3\\\", \\\"4\\\", \\\"docker\\\", \\\"hermes\\\", \\\"glmcodingplan\\\"\\nConstraints: numbers must be prominently displayed in sequence; icons must be simple and recognizable; text must be readable at small sizes\\nAvoid: 3D renders; photorealistic textures; cluttered layouts; decorative flourishes; gradients unless essential for hierarchy\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10993
+}

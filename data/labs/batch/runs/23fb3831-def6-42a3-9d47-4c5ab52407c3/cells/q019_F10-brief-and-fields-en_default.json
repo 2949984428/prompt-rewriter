@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for 绿联私有云 brand 618 anniversary sale e-commerce campaign.\n\nStyle/medium: bold e-commerce promotional poster, flat vector with rich layered depth, inspired by Tmall/JD.com 618 campaign visual language\nComposition: vertical portrait layout, hero headline centered at top third, product/brand visual anchored in mid-section, CTA badge at bottom, generous visual hierarchy\nSubject: 绿联私有云 brand identity as focal point, 618 anniversary celebration theme with festive energy\nScene/backdrop: deep tech-blue or gradient dark background with glowing light burst / radial rays emanating from center, subtle circuit or cloud motifs\nLighting/mood: vibrant and energetic, inner glow and halo effects around key elements, celebratory and premium\nColor palette: brand green (#00B578 or similar) as primary anchor, electric gold/yellow as 618 accent highlight, deep navy as background base, white for text legibility\nText (verbatim): \"绿联私有云\" \"618\" \"周年庆\"\nConstraints: text must be legible at thumbnail size; hierarchy: 618 > 周年庆 > 绿联私有云 > supporting copy; no more than 3 typeface weights\nAvoid: generic stock-photo collage, overly cluttered layout, mismatched neon rainbow palette, blurry text, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2f15d8c3-0b39-4d42-88aa-9d235fb9f7cf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for 绿联私有云 brand 618 anniversary sale e-commerce campaign.\\n\\nStyle/medium: bold e-commerce promotional poster, flat vector with rich layered depth, inspired by Tmall/JD.com 618 campaign visual language\\nComposition: vertical portrait layout, hero headline centered at top third, product/brand visual anchored in mid-section, CTA badge at bottom, generous visual hierarchy\\nSubject: 绿联私有云 brand identity as focal point, 618 anniversary celebration theme with festive energy\\nScene/backdrop: deep tech-blue or gradient dark background with glowing light burst / radial rays emanating from center, subtle circuit or cloud motifs\\nLighting/mood: vibrant and energetic, inner glow and halo effects around key elements, celebratory and premium\\nColor palette: brand green (#00B578 or similar) as primary anchor, electric gold/yellow as 618 accent highlight, deep navy as background base, white for text legibility\\nText (verbatim): \\\"绿联私有云\\\" \\\"618\\\" \\\"周年庆\\\"\\nConstraints: text must be legible at thumbnail size; hierarchy: 618 > 周年庆 > 绿联私有云 > supporting copy; no more than 3 typeface weights\\nAvoid: generic stock-photo collage, overly cluttered layout, mismatched neon rainbow palette, blurry text, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10724
+}

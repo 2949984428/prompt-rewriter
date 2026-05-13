@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: social-media-cover\nAsset type: Xiaohongshu (Little Red Book) feed cover, vertical format\nPrimary request: bubble milk tea (pearl milk tea) styled for summer refreshment aesthetic\nScene/backdrop: clean minimal surface with soft pink gradient or pastel backdrop, subtle summer elements like soft shadows or blurred greenery hints\nSubject: tall clear glass of bubble milk tea with visible tapioca pearls, condensation droplets on glass, creamy layered gradient from tea to milk\nStyle/medium: lifestyle product photography, soft editorial, feminine aesthetic\nComposition/framing: top-down or 45-degree angle, centered composition, shallow depth of field\nLighting/mood: bright natural daylight, soft diffused lighting, airy and refreshing summer vibe\nColor palette: dominant soft pink + cream white + warm brown tea tones + subtle pastel accents\nMaterials/textures: glossy glass surface, creamy milk texture, chewy tapioca pearls, soft bokeh background\nConstraints: must convey \"夏日清凉感\" summer coolness and \"粉色少女风\" pink girly aesthetic\nAvoid: dark moody lighting, cluttered background, artificial neon colors, deformed glass shape, plastic-looking pearls",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/61bb5b1a-f1e9-4ce9-8f17-81dbef6bc40c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: social-media-cover\\nAsset type: Xiaohongshu (Little Red Book) feed cover, vertical format\\nPrimary request: bubble milk tea (pearl milk tea) styled for summer refreshment aesthetic\\nScene/backdrop: clean minimal surface with soft pink gradient or pastel backdrop, subtle summer elements like soft shadows or blurred greenery hints\\nSubject: tall clear glass of bubble milk tea with visible tapioca pearls, condensation droplets on glass, creamy layered gradient from tea to milk\\nStyle/medium: lifestyle product photography, soft editorial, feminine aesthetic\\nComposition/framing: top-down or 45-degree angle, centered composition, shallow depth of field\\nLighting/mood: bright natural daylight, soft diffused lighting, airy and refreshing summer vibe\\nColor palette: dominant soft pink + cream white + warm brown tea tones + subtle pastel accents\\nMaterials/textures: glossy glass surface, creamy milk texture, chewy tapioca pearls, soft bokeh background\\nConstraints: must convey \\\"夏日清凉感\\\" summer coolness and \\\"粉色少女风\\\" pink girly aesthetic\\nAvoid: dark moody lighting, cluttered background, artificial neon colors, deformed glass shape, plastic-looking pearls\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12398
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide for a domestic China fundraising roadshow, announcing the launch of \"GPT-5.5\", with speaker Sam Altman, styled to match Chinese GP/VC roadshow conventions.\n\nStyle/medium: corporate PPT cover slide illustration, Chinese domestic VC/GP roadshow aesthetic — authoritative, aspirational, tech-forward\nComposition: full-bleed slide layout (16:9), large headline centered or upper-center, speaker name and title bottom-left or bottom-right, logo/brand mark top-left, subtle geometric or circuit-pattern background layer\nSubject: GPT-5.5 launch announcement cover slide; speaker listed as 奥特曼 (Sam Altman)\nScene/backdrop: deep navy or dark tech-blue gradient background with subtle glowing grid or neural-network line pattern, conveying cutting-edge AI innovation\nLighting/mood: polished, confident, institutional — warm accent glow on headline to signal milestone announcement\nColor palette: deep navy blue base, gold or electric-blue accent for headline, white body text — consistent with Chinese GP roadshow deck conventions\nMaterials/textures: smooth gradient, fine circuit/neural-network line texture overlay, no photographic elements\nText (verbatim): \"GPT-5.5 发布\" as main headline; \"演讲人：奥特曼\" as speaker credit line; optional sub-line \"融资路演\" or \"战略融资说明会\"\nConstraints: slide must read as a legitimate Chinese domestic GP/VC fundraising deck cover; all Chinese text legible at presentation scale; layout must follow standard 16:9 PPT proportions\nAvoid: Western startup pitch aesthetic, casual or playful fonts, cluttered layout, stock-photo backgrounds, red/green color schemes associated with retail finance",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4cfe6c18-ebaf-4385-87a6-57ea5c270a1f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide for a domestic China fundraising roadshow, announcing the launch of \\\"GPT-5.5\\\", with speaker Sam Altman, styled to match Chinese GP/VC roadshow conventions.\\n\\nStyle/medium: corporate PPT cover slide illustration, Chinese domestic VC/GP roadshow aesthetic — authoritative, aspirational, tech-forward\\nComposition: full-bleed slide layout (16:9), large headline centered or upper-center, speaker name and title bottom-left or bottom-right, logo/brand mark top-left, subtle geometric or circuit-pattern background layer\\nSubject: GPT-5.5 launch announcement cover slide; speaker listed as 奥特曼 (Sam Altman)\\nScene/backdrop: deep navy or dark tech-blue gradient background with subtle glowing grid or neural-network line pattern, conveying cutting-edge AI innovation\\nLighting/mood: polished, confident, institutional — warm accent glow on headline to signal milestone announcement\\nColor palette: deep navy blue base, gold or electric-blue accent for headline, white body text — consistent with Chinese GP roadshow deck conventions\\nMaterials/textures: smooth gradient, fine circuit/neural-network line texture overlay, no photographic elements\\nText (verbatim): \\\"GPT-5.5 发布\\\" as main headline; \\\"演讲人：奥特曼\\\" as speaker credit line; optional sub-line \\\"融资路演\\\" or \\\"战略融资说明会\\\"\\nConstraints: slide must read as a legitimate Chinese domestic GP/VC fundraising deck cover; all Chinese text legible at presentation scale; layout must follow standard 16:9 PPT proportions\\nAvoid: Western startup pitch aesthetic, casual or playful fonts, cluttered layout, stock-photo backgrounds, red/green color schemes associated with retail finance\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13507
+}

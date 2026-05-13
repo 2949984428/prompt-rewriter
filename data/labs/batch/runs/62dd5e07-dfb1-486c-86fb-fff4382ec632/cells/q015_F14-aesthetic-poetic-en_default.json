@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial illustration of a Douyin (TikTok) live-stream screenshot featuring a young woman resembling a celestial-beauty idol, holding a sign, designed for a 9:16 mobile screen.\n\nStyle/medium: photorealistic live-stream screenshot UI, Douyin app interface with overlaid viewer comments and like animations, warm studio lighting feel\nComposition: vertical 9:16 portrait, the host centered in frame, sign held up clearly in front of her, Douyin live-stream UI chrome (comment feed, viewer count, gift animations) framing the edges\nSubject: a graceful young woman with delicate features and long dark hair, dressed in soft elegant attire, holding a rectangular sign with both hands facing the camera\nScene/backdrop: clean indoor live-stream setup, soft warm background with subtle ring-light reflection in her eyes\nLighting/mood: warm, flattering ring-light glow — the intimate brightness of a late-night live room, welcoming and luminous\nColor palette: warm skin tones against a soft neutral backdrop, Douyin red-and-white UI accents, gentle pink-gold ambient warmth\nMaterials/textures: \nText (verbatim): 今晚直播，欢迎来参亦菲畅聊！\nConstraints: sign text must be fully legible and centered on the sign; Douyin live-stream UI elements (comment bar, heart/like floats, viewer count) visible around the frame; 9:16 vertical orientation\nAvoid: blurry or distorted text on the sign, generic stock-photo look, dark or moody lighting, any real celebrity likeness",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6a2d6035-50ea-405b-ad60-a483be0a6690/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing editorial illustration of a Douyin (TikTok) live-stream screenshot featuring a young woman resembling a celestial-beauty idol, holding a sign, designed for a 9:16 mobile screen.\\n\\nStyle/medium: photorealistic live-stream screenshot UI, Douyin app interface with overlaid viewer comments and like animations, warm studio lighting feel\\nComposition: vertical 9:16 portrait, the host centered in frame, sign held up clearly in front of her, Douyin live-stream UI chrome (comment feed, viewer count, gift animations) framing the edges\\nSubject: a graceful young woman with delicate features and long dark hair, dressed in soft elegant attire, holding a rectangular sign with both hands facing the camera\\nScene/backdrop: clean indoor live-stream setup, soft warm background with subtle ring-light reflection in her eyes\\nLighting/mood: warm, flattering ring-light glow — the intimate brightness of a late-night live room, welcoming and luminous\\nColor palette: warm skin tones against a soft neutral backdrop, Douyin red-and-white UI accents, gentle pink-gold ambient warmth\\nMaterials/textures: \\nText (verbatim): 今晚直播，欢迎来参亦菲畅聊！\\nConstraints: sign text must be fully legible and centered on the sign; Douyin live-stream UI elements (comment bar, heart/like floats, viewer count) visible around the frame; 9:16 vertical orientation\\nAvoid: blurry or distorted text on the sign, generic stock-photo look, dark or moody lighting, any real celebrity likeness\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11810
+}

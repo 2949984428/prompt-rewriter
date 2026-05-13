@@ -1,0 +1,21 @@
+{
+  "query_idx": 87,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "[@image:#1:微信图片_20260414235539_640_2] 这是诸暨公交的LOGO设计意向，你能帮我分析并优化一下吗？保持简洁大气，出五个方案，谢谢",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 5,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:生图失败",
+  "raw": "{\"prompt\": \"[@image:#1:微信图片_20260414235539_640_2] 这是诸暨公交的LOGO设计意向，你能帮我分析并优化一下吗？保持简洁大气，出五个方案，谢谢\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 5, \"output_format\": \"png\"}",
+  "ms": 4922,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

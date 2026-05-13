@@ -1,0 +1,23 @@
+{
+  "query_idx": 9,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Логотип квадрат с вписанной геометрией Цветок жизни на заднем плане, на переднем буквы C.U",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A010bb95f-d75c-452e-b541-a9e88a8738ef/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Логотип квадрат с вписанной геометрией Цветок жизни на заднем плане, на переднем буквы C.U\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3773,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

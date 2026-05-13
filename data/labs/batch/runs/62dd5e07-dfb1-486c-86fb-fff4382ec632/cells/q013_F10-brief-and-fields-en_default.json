@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster (short-video vertical cover) for GGU gaming monitor product launch, consumer electronics industry.\n\nStyle/medium: clean flat graphic design with minimal premium aesthetic, sharp typography, bold editorial layout in the spirit of high-end tech product reveals\nComposition: rule-of-thirds layout — large bold headline anchored in upper third, product visual centered in middle third, supporting tagline in lower third; portrait orientation\nSubject: gaming monitor product cover featuring headline text \"8k GGU 电竞显示器 1000hz\" as dominant oversized display type, with supporting line \"全球首发全新面板 低延迟 完美色彩\"\nScene/backdrop: deep dark background (near-black or rich dark navy) to maximize contrast and premium feel\nLighting/mood: subtle edge glow or accent light suggesting screen luminance, sleek and futuristic, confident and eye-catching\nColor palette: dark background as base, bright accent color (electric blue or vivid white) for headline text, secondary muted tone for tagline\nText (verbatim): \"8k GGU 电竞显示器 1000hz\" as primary headline; \"全球首发全新面板 低延迟 完美色彩\" as secondary line\nConstraints: headline must be oversized and immediately legible at thumbnail scale; layout must work as 9:16 vertical cover; minimal decorative clutter\nAvoid: gradients that muddy text legibility, overcrowded layout, generic gaming RGB rainbow clichés, watermarks, blurry type",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6b90c79e-cdcc-4380-8b7f-da76d2cf2034/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster (short-video vertical cover) for GGU gaming monitor product launch, consumer electronics industry.\\n\\nStyle/medium: clean flat graphic design with minimal premium aesthetic, sharp typography, bold editorial layout in the spirit of high-end tech product reveals\\nComposition: rule-of-thirds layout — large bold headline anchored in upper third, product visual centered in middle third, supporting tagline in lower third; portrait orientation\\nSubject: gaming monitor product cover featuring headline text \\\"8k GGU 电竞显示器 1000hz\\\" as dominant oversized display type, with supporting line \\\"全球首发全新面板 低延迟 完美色彩\\\"\\nScene/backdrop: deep dark background (near-black or rich dark navy) to maximize contrast and premium feel\\nLighting/mood: subtle edge glow or accent light suggesting screen luminance, sleek and futuristic, confident and eye-catching\\nColor palette: dark background as base, bright accent color (electric blue or vivid white) for headline text, secondary muted tone for tagline\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\" as primary headline; \\\"全球首发全新面板 低延迟 完美色彩\\\" as secondary line\\nConstraints: headline must be oversized and immediately legible at thumbnail scale; layout must work as 9:16 vertical cover; minimal decorative clutter\\nAvoid: gradients that muddy text legibility, overcrowded layout, generic gaming RGB rainbow clichés, watermarks, blurry type\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11829
+}

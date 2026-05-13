@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original illustration of a cherry blossom season campus scene with a schoolgirl in a sailor uniform (all in-image text in Chinese).\n\nStyle/medium: needs a 清新日系 aesthetic — exact stylistic execution is yours\nComposition: must include the girl standing in front of the school building, petals falling around her\nSubject: must include a schoolgirl in a 水手服, pink cherry blossom petals falling, school building (教学楼) in background\nScene/backdrop: must include a sunny campus setting during cherry blossom season\nLighting/mood: needs a bright, warm, youthful (青春) atmosphere — exact light quality is yours\nColor palette: needs a soft pink and warm pastel direction — exact hues and ratios are yours\nMaterials/textures: needs a clean, airy illustration surface treatment — exact line weight and texture are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must include gentle breeze effect on hair and petals\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d4657c7a-0df1-45ca-b6cb-779131694749/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original illustration of a cherry blossom season campus scene with a schoolgirl in a sailor uniform (all in-image text in Chinese).\\n\\nStyle/medium: needs a 清新日系 aesthetic — exact stylistic execution is yours\\nComposition: must include the girl standing in front of the school building, petals falling around her\\nSubject: must include a schoolgirl in a 水手服, pink cherry blossom petals falling, school building (教学楼) in background\\nScene/backdrop: must include a sunny campus setting during cherry blossom season\\nLighting/mood: needs a bright, warm, youthful (青春) atmosphere — exact light quality is yours\\nColor palette: needs a soft pink and warm pastel direction — exact hues and ratios are yours\\nMaterials/textures: needs a clean, airy illustration surface treatment — exact line weight and texture are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must include gentle breeze effect on hair and petals\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8243
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 32,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: surrealist-illustration\nAsset type: editorial illustration, dreamscape scene, wide cinematic composition\nPrimary request: surrealist dream scene — a colossal moon rising from the ocean surface, whales soaring through the sky, melting clocks draped over objects, and a staircase ascending into the clouds\nScene/backdrop: vast open ocean at twilight, sky blending between deep indigo and amber, towering cumulus clouds dissolving into abstraction\nSubject: (1) oversized luminous moon emerging from calm reflective sea; (2) multiple humpback whales levitating and gliding through the sky; (3) soft melting clocks draped over ledges and floating debris; (4) an endless stone staircase spiraling upward into cloud layers\nStyle/medium: surrealist oil painting, inspired by Salvador Dalí and René Magritte, dreamlike and philosophical\nComposition/framing: wide panoramic view, low horizon line, dramatic vertical scale contrast between subjects\nLighting/mood: ethereal twilight glow, soft rim light on the moon, cool blue-violet ambient light, mysterious and contemplative\nColor palette: deep indigo ocean + warm amber moonlight + pale silver whale skin + muted gold clock faces + soft lavender clouds\nMaterials/textures: smooth oil-paint brushwork, glossy water surface reflections, soft cloud wisps, weathered stone staircase texture\nConstraints: maintain surrealist visual logic — all impossible elements coexist naturally within the dreamscape; strong philosophical and visual impact\nAvoid: photorealistic rendering, cartoonish style, cluttered composition, neon colors",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b2950c4d-238d-41db-b77a-f99dcfe3b4fc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: surrealist-illustration\\nAsset type: editorial illustration, dreamscape scene, wide cinematic composition\\nPrimary request: surrealist dream scene — a colossal moon rising from the ocean surface, whales soaring through the sky, melting clocks draped over objects, and a staircase ascending into the clouds\\nScene/backdrop: vast open ocean at twilight, sky blending between deep indigo and amber, towering cumulus clouds dissolving into abstraction\\nSubject: (1) oversized luminous moon emerging from calm reflective sea; (2) multiple humpback whales levitating and gliding through the sky; (3) soft melting clocks draped over ledges and floating debris; (4) an endless stone staircase spiraling upward into cloud layers\\nStyle/medium: surrealist oil painting, inspired by Salvador Dalí and René Magritte, dreamlike and philosophical\\nComposition/framing: wide panoramic view, low horizon line, dramatic vertical scale contrast between subjects\\nLighting/mood: ethereal twilight glow, soft rim light on the moon, cool blue-violet ambient light, mysterious and contemplative\\nColor palette: deep indigo ocean + warm amber moonlight + pale silver whale skin + muted gold clock faces + soft lavender clouds\\nMaterials/textures: smooth oil-paint brushwork, glossy water surface reflections, soft cloud wisps, weathered stone staircase texture\\nConstraints: maintain surrealist visual logic — all impossible elements coexist naturally within the dreamscape; strong philosophical and visual impact\\nAvoid: photorealistic rendering, cartoonish style, cluttered composition, neon colors\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11275
+}

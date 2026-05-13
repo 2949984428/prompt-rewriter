@@ -1,0 +1,23 @@
+{
+  "query_idx": 239,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "我要做一个关于公司组建旅行出游相关的运营海报，要有大厂运营风格，",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aabb62e25-3b6f-4676-8e81-ed0ab718834c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"我要做一个关于公司组建旅行出游相关的运营海报，要有大厂运营风格，\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2729,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 241,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "I need you to make me a political map of Argentina with the province of Jujuy highlighted above the others, in Instagram story format.",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A494279ba-0aac-494f-94d8-cccf9dae3fe3/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"I need you to make me a political map of Argentina with the province of Jujuy highlighted above the others, in Instagram story format.\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3846,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

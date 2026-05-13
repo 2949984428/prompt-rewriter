@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial photo, cozy lifestyle\nPrimary request: a fluffy orange tabby cat basking on a windowsill, winter street view outside\nScene/backdrop: cozy indoor room with warm wooden windowsill, snowy winter street visible through frosted glass window\nSubject: fluffy orange tabby cat with soft thick fur, relaxed sleeping pose, paws tucked under body, peaceful expression\nStyle/medium: soft photorealistic illustration, warm cozy aesthetic\nComposition/framing: medium shot, eye-level perspective, cat as focal point with window frame visible\nLighting/mood: warm golden afternoon sunlight streaming through window, soft diffused glow, healing and tranquil mood\nColor palette: warm amber and cream tones inside, cool blue-white snow outside, soft orange fur\nMaterials/textures: ultra-soft fluffy fur with visible individual strands, warm fabric cushion, frosted window glass, soft snow texture\nConstraints: maintain fluffy fur texture, keep warm indoor vs cold outdoor contrast, healing atmosphere\nAvoid: harsh shadows, plastic-looking fur, cluttered background, dark moody tones, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/015200d7-17b1-44ec-8c5a-bd7d273380d4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial photo, cozy lifestyle\\nPrimary request: a fluffy orange tabby cat basking on a windowsill, winter street view outside\\nScene/backdrop: cozy indoor room with warm wooden windowsill, snowy winter street visible through frosted glass window\\nSubject: fluffy orange tabby cat with soft thick fur, relaxed sleeping pose, paws tucked under body, peaceful expression\\nStyle/medium: soft photorealistic illustration, warm cozy aesthetic\\nComposition/framing: medium shot, eye-level perspective, cat as focal point with window frame visible\\nLighting/mood: warm golden afternoon sunlight streaming through window, soft diffused glow, healing and tranquil mood\\nColor palette: warm amber and cream tones inside, cool blue-white snow outside, soft orange fur\\nMaterials/textures: ultra-soft fluffy fur with visible individual strands, warm fabric cushion, frosted window glass, soft snow texture\\nConstraints: maintain fluffy fur texture, keep warm indoor vs cold outdoor contrast, healing atmosphere\\nAvoid: harsh shadows, plastic-looking fur, cluttered background, dark moody tones, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9590
+}

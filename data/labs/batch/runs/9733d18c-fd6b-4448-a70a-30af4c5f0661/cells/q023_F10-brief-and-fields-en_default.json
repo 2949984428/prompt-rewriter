@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a premium packaging design mockup for a high-end organic matcha product line, arranged as a commercial product display.\n\nStyle/medium: commercial product photography meets editorial packaging design render, photorealistic still life with soft studio lighting\nComposition: top-down 3/4 angle, four products arranged in a neat grid on light wood surface, medium format product shot\nSubject: four matcha products—matcha powder tin, matcha chocolate box, matcha cookie tin, matcha tea bag box—each with matte paper packaging\nScene/backdrop: light natural wood tabletop, fresh green tea leaves and matcha powder scattered as decorative props, clean minimal background\nLighting/mood: soft diffused studio light from upper left, gentle shadows, fresh and elegant atmosphere\nColor palette: layered matcha greens as dominant, warm off-white and gold accents, natural wood undertones\nMaterials/textures: matte paper packaging with subtle Japanese traditional pattern embossing, delicate hand-drawn matcha tea garden illustrations with clean elegant lines\nText (verbatim): \"产品名称采用中英日三语排版\"\nConstraints: packaging must display serif and handwritten font combinations; traditional Japanese patterns as subtle background texture; suitable for luxury gift market positioning\nAvoid: glossy plastic textures, neon colors, cluttered backgrounds, generic stock photo aesthetic, 8K stuffer words",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/95f90e3c-434f-4479-a49c-5c8c02524ca6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a premium packaging design mockup for a high-end organic matcha product line, arranged as a commercial product display.\\n\\nStyle/medium: commercial product photography meets editorial packaging design render, photorealistic still life with soft studio lighting\\nComposition: top-down 3/4 angle, four products arranged in a neat grid on light wood surface, medium format product shot\\nSubject: four matcha products—matcha powder tin, matcha chocolate box, matcha cookie tin, matcha tea bag box—each with matte paper packaging\\nScene/backdrop: light natural wood tabletop, fresh green tea leaves and matcha powder scattered as decorative props, clean minimal background\\nLighting/mood: soft diffused studio light from upper left, gentle shadows, fresh and elegant atmosphere\\nColor palette: layered matcha greens as dominant, warm off-white and gold accents, natural wood undertones\\nMaterials/textures: matte paper packaging with subtle Japanese traditional pattern embossing, delicate hand-drawn matcha tea garden illustrations with clean elegant lines\\nText (verbatim): \\\"产品名称采用中英日三语排版\\\"\\nConstraints: packaging must display serif and handwritten font combinations; traditional Japanese patterns as subtle background texture; suitable for luxury gift market positioning\\nAvoid: glossy plastic textures, neon colors, cluttered backgrounds, generic stock photo aesthetic, 8K stuffer words\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11580
+}

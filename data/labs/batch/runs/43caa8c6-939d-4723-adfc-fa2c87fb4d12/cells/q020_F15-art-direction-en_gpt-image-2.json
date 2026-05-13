@@ -1,0 +1,19 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing full-screen mobile advertisement screenshot for a flagship smartphone launch campaign.\n\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\nComposition: must be full-screen vertical layout optimized for mobile display, brand visual centered\nSubject: must include a flagship smartphone as hero product, brand identity as focal element\nScene/backdrop: needs a dramatic, immersive backdrop — exact environment is yours\nLighting/mood: needs a high visual-impact, cinematic atmosphere — exact light source mix is yours\nColor palette: needs a bold, premium brand-reveal direction — exact hex values and ratios are yours\nMaterials/textures: needs a premium surface treatment — exact material finish is yours\nText (verbatim): must include \"OPPO Find X9\" (product name, prominent), \"OPPO\" (brand wordmark)\nConstraints: must preserve 1080×1920 portrait aspect ratio; must read as a brand-exposure launch ad screenshot\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit https://aka.ms/aoaicodeofconduct\",\"error_code\":\"API_CALL_ERROR\",\"provider_error_code\":\"Forbidden\",\"http_status_code\":403,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing full-screen mobile advertisement screenshot for a flagship smartphone launch campaign.\\n\\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\\nComposition: must be full-screen vertical layout optimized for mobile display, brand visual centered\\nSubject: must include a flagship smartphone as hero product, brand identity as focal element\\nScene/backdrop: needs a dramatic, immersive backdrop — exact environment is yours\\nLighting/mood: needs a high visual-impact, cinematic atmosphere — exact light source mix is yours\\nColor palette: needs a bold, premium brand-reveal direction — exact hex values and ratios are yours\\nMaterials/textures: needs a premium surface treatment — exact material finish is yours\\nText (verbatim): must include \\\"OPPO Find X9\\\" (product name, prominent), \\\"OPPO\\\" (brand wordmark)\\nConstraints: must preserve 1080×1920 portrait aspect ratio; must read as a brand-exposure launch ad screenshot\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8104
+}

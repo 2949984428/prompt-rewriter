@@ -1,0 +1,23 @@
+{
+  "query_idx": 283,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "3 ayrı Instagram postu yan yana geldiğinde 3240x1080 boyutunda tek bir bütün oluşturan panoramik background tasarımı — Kahire, Luksor ve Hurghada.\n\n風格/媒介: dijital illüstrasyon ya da fotogerçekçi görsel, panoramik triptych\n構圖:\n  3 eşit dikey dilime bölünmüş yatay kompozisyon (her dilim 1080x1080)\n  soldan sağa: Kahire — Luksor — Hurghada\n  3 dilim yan yana geldiğinde kesintisiz bir bütün oluşturmalı\n  dilimler arasında görsel süreklilik (ufuk çizgisi, gökyüzü tonu)\n主體: üç Mısır şehri — Kahire, Luksor, Hurghada\n場景/背景:\n  Kahire dilimi: Kahire silueti / ikonik yapılar\n  Luksor dilimi: Luksor tapınakları / antik Mısır mimarisi\n  Hurghada dilimi: Kızıldeniz kıyısı / sahil manzarası\n光線/氛圍:\n色彩方案:\n材質/紋理:\n文字(原樣):\n約束:\n  toplam boyut 3240x1080 (3 × 1080x1080)\n  her dilim bağımsız bir Instagram postu olarak da anlam taşımalı\n避免: dilimler arasında görsel kopukluk",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A11be06b5-e4de-454b-a5b7-d4c16b93cad4/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"3 ayrı Instagram postu yan yana geldiğinde 3240x1080 boyutunda tek bir bütün oluşturan panoramik background tasarımı — Kahire, Luksor ve Hurghada.\\n\\n風格/媒介: dijital illüstrasyon ya da fotogerçekçi görsel, panoramik triptych\\n構圖:\\n  3 eşit dikey dilime bölünmüş yatay kompozisyon (her dilim 1080x1080)\\n  soldan sağa: Kahire — Luksor — Hurghada\\n  3 dilim yan yana geldiğinde kesintisiz bir bütün oluşturmalı\\n  dilimler arasında görsel süreklilik (ufuk çizgisi, gökyüzü tonu)\\n主體: üç Mısır şehri — Kahire, Luksor, Hurghada\\n場景/背景:\\n  Kahire dilimi: Kahire silueti / ikonik yapılar\\n  Luksor dilimi: Luksor tapınakları / antik Mısır mimarisi\\n  Hurghada dilimi: Kızıldeniz kıyısı / sahil manzarası\\n光線/氛圍:\\n色彩方案:\\n材質/紋理:\\n文字(原樣):\\n約束:\\n  toplam boyut 3240x1080 (3 × 1080x1080)\\n  her dilim bağımsız bir Instagram postu olarak da anlam taşımalı\\n避免: dilimler arasında görsel kopukluk\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 29682,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

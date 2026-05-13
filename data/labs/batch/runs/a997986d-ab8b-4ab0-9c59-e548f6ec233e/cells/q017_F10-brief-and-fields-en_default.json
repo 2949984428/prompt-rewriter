@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original medical education infographic for cardiovascular anatomy, featuring a 3D visualization of the human heart and vascular system.\n\nStyle/medium: highly realistic medical illustration combining Frank Netter anatomical precision with modern 3D rendering, photorealistic tissue textures, volumetric lighting\nSubject: human heart with cross-sectional view revealing all four chambers (left/right atrium, left/right ventricle), cardiac valves, aorta, pulmonary artery, superior/inferior vena cava; coronary arteries highlighted in gold on heart surface; myocardial fiber texture visible\nScene/backdrop: dark gradient background to maximize anatomical structure visibility, clinical educational setting\nLighting/mood: dramatic rim lighting from upper left, subtle internal glow within chambers, focused illumination on cardiac structures against deep shadow\nColor palette: arterial system in vivid red, venous system in deep blue, coronary arteries in gold highlight, neutral anatomical tones for myocardium, dark charcoal background\nMaterials/textures: realistic cardiac muscle striations, smooth endothelial surfaces on vessels, semi-translucent valve leaflets, glossy blood flow visualization\nComposition: three-quarter anterior view of heart, cutaway section showing internal chambers, arrows and light effects indicating blood flow direction, generous margin areas for text annotation placement\nConstraints: must maintain anatomical accuracy for medical education; clear visual hierarchy between arterial and venous systems; text annotation space preserved on all sides\nAvoid: cartoonish simplification, oversaturated colors, cluttered composition without breathing room, generic stock medical illustration style, watermarks",
+    "size": "1536x1152",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d3adea0e-e74e-4992-b4a8-7305515bf09d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original medical education infographic for cardiovascular anatomy, featuring a 3D visualization of the human heart and vascular system.\\n\\nStyle/medium: highly realistic medical illustration combining Frank Netter anatomical precision with modern 3D rendering, photorealistic tissue textures, volumetric lighting\\nSubject: human heart with cross-sectional view revealing all four chambers (left/right atrium, left/right ventricle), cardiac valves, aorta, pulmonary artery, superior/inferior vena cava; coronary arteries highlighted in gold on heart surface; myocardial fiber texture visible\\nScene/backdrop: dark gradient background to maximize anatomical structure visibility, clinical educational setting\\nLighting/mood: dramatic rim lighting from upper left, subtle internal glow within chambers, focused illumination on cardiac structures against deep shadow\\nColor palette: arterial system in vivid red, venous system in deep blue, coronary arteries in gold highlight, neutral anatomical tones for myocardium, dark charcoal background\\nMaterials/textures: realistic cardiac muscle striations, smooth endothelial surfaces on vessels, semi-translucent valve leaflets, glossy blood flow visualization\\nComposition: three-quarter anterior view of heart, cutaway section showing internal chambers, arrows and light effects indicating blood flow direction, generous margin areas for text annotation placement\\nConstraints: must maintain anatomical accuracy for medical education; clear visual hierarchy between arterial and venous systems; text annotation space preserved on all sides\\nAvoid: cartoonish simplification, oversaturated colors, cluttered composition without breathing room, generic stock medical illustration style, watermarks\",\"size\":\"1536x1152\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14085
+}

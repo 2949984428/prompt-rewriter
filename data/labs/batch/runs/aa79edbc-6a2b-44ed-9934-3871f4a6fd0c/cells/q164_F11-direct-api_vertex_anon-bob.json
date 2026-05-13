@@ -1,0 +1,23 @@
+{
+  "query_idx": 164,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:新套装_纯产品图] 这张图生成一张挂在包包上的图片，一张1:1，2000*2000像素电商信息图，背景为模糊的室内场景，包含木质桌面、咖啡杯、植物和窗户 光线柔和，景深效果自然 整体风格保持精致、高级 视觉效果： 连接方式更加简洁明了 亚马逊A+页面风格，高级少女感 画面整洁，产品细节清晰可见 生活场景自然真实",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A65f9117b-a995-4bc9-95ef-839b2dae0f5f/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:新套装_纯产品图] 这张图生成一张挂在包包上的图片，一张1:1，2000*2000像素电商信息图，背景为模糊的室内场景，包含木质桌面、咖啡杯、植物和窗户 光线柔和，景深效果自然 整体风格保持精致、高级 视觉效果： 连接方式更加简洁明了 亚马逊A+页面风格，高级少女感 画面整洁，产品细节清晰可见 生活场景自然真实\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3110,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

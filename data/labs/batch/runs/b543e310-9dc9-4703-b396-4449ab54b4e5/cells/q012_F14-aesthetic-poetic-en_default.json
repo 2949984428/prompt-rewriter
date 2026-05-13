@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing WeChat Official Account cover image for the fragrance launch \"染秋 - 秋意染染 时光留香\", centered composition with premium quality aesthetic.\n\nStyle/medium: premium editorial cover design with the quiet confidence of autumn editorial spreads, designed for WeChat article header impact\nComposition: centered composition with the title as the visual anchor, generous negative space breathing around the text\nSubject: 染秋 fragrance launch, the title \"染秋 - 秋意染染 时光留香\" as the dominant visual element\nScene/backdrop: abstract autumn atmosphere with subtle seasonal cues — perhaps a whisper of falling leaves or soft gradient suggesting golden hour\nLighting/mood: the warm, contemplative light of late afternoon in autumn, a gentle pause before the season turns\nColor palette: warm amber and honey tones meeting cool sage and soft grey, the chromatic conversation between warmth and restraint\nMaterials/textures: matte paper-like surface with subtle depth, the quiet luxury of understated finishes\nText (verbatim): 染秋 - 秋意染染 时光留香\nConstraints: title must be clearly readable at WeChat cover thumbnail size, centered weight throughout\nAvoid: cluttered elements competing with the title, overly literal autumn imagery (pumpkins, maple leaves), generic stock-photo aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/456d3602-6f60-47d5-825b-97e6d34731bc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing WeChat Official Account cover image for the fragrance launch \\\"染秋 - 秋意染染 时光留香\\\", centered composition with premium quality aesthetic.\\n\\nStyle/medium: premium editorial cover design with the quiet confidence of autumn editorial spreads, designed for WeChat article header impact\\nComposition: centered composition with the title as the visual anchor, generous negative space breathing around the text\\nSubject: 染秋 fragrance launch, the title \\\"染秋 - 秋意染染 时光留香\\\" as the dominant visual element\\nScene/backdrop: abstract autumn atmosphere with subtle seasonal cues — perhaps a whisper of falling leaves or soft gradient suggesting golden hour\\nLighting/mood: the warm, contemplative light of late afternoon in autumn, a gentle pause before the season turns\\nColor palette: warm amber and honey tones meeting cool sage and soft grey, the chromatic conversation between warmth and restraint\\nMaterials/textures: matte paper-like surface with subtle depth, the quiet luxury of understated finishes\\nText (verbatim): 染秋 - 秋意染染 时光留香\\nConstraints: title must be clearly readable at WeChat cover thumbnail size, centered weight throughout\\nAvoid: cluttered elements competing with the title, overly literal autumn imagery (pumpkins, maple leaves), generic stock-photo aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11156
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 4,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "設計一個保健食品品牌 Logo。\n\n風格/媒介:參考國際高端保養品牌字體樣式，質感高雅，極簡奢華\n構图:\n主體:品牌 Logo，以品牌名稱「耀研」為核心視覺\n場景/背景:純淨背景，突出品牌識別\n光線/氛圍:高端質感，精緻優雅\n色彩方案:\n材質/紋理:\n文字(原样):耀研\n約束:\n  目標客群為注重質感、愛美的女性，有使用保養品習慣\n  字體風格參考國際高端保養品牌（如 La Mer、SK-II、Sisley 等）\n避免:俗氣、廉價感、過度裝飾",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2e67cf49-cefe-4068-98f7-65e5398c169c/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"設計一個保健食品品牌 Logo。\\n\\n風格/媒介:參考國際高端保養品牌字體樣式，質感高雅，極簡奢華\\n構图:\\n主體:品牌 Logo，以品牌名稱「耀研」為核心視覺\\n場景/背景:純淨背景，突出品牌識別\\n光線/氛圍:高端質感，精緻優雅\\n色彩方案:\\n材質/紋理:\\n文字(原样):耀研\\n約束:\\n  目標客群為注重質感、愛美的女性，有使用保養品習慣\\n  字體風格參考國際高端保養品牌（如 La Mer、SK-II、Sisley 等）\\n避免:俗氣、廉價感、過度裝飾\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7537,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

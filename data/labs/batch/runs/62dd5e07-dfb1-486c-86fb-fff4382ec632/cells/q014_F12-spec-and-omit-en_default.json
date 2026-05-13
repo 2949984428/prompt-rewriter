@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original UI design system mockup showcasing a web Dashboard, mobile interface, cards, buttons, and controls in a classic minimal tech style.\n\nStyle/medium: classic minimal tech style UI design system\nComposition: multi-panel layout showing web Dashboard, mobile interface, cards, buttons, and controls\nSubject: UI design system — web Dashboard, mobile interface, cards, buttons, controls\nScene/backdrop: \nLighting/mood: visually striking, rich visual hierarchy, strong tech feel\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/965e3ee2-dd30-4b75-be97-716223fb7d3d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an original UI design system mockup showcasing a web Dashboard, mobile interface, cards, buttons, and controls in a classic minimal tech style.\\n\\nStyle/medium: classic minimal tech style UI design system\\nComposition: multi-panel layout showing web Dashboard, mobile interface, cards, buttons, and controls\\nSubject: UI design system — web Dashboard, mobile interface, cards, buttons, controls\\nScene/backdrop: \\nLighting/mood: visually striking, rich visual hierarchy, strong tech feel\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4523
+}

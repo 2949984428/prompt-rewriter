@@ -1,0 +1,23 @@
+{
+  "query_idx": 85,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Dark circular profile artwork with the same strong composition structure as a premium urban logo design. Central giant typography dominating the layout, bold condensed letters with massive presence, reading “ADM 2D”. Graffiti street-art style instead of clean modern style. Letters made with spray paint texture, drips, rough edges, wall paint imperfections, layered tags, stencil marks and handstyle details. Background deep black mixed with concrete wall texture, cracked cement, subtle bricks and urban alley atmosphere. Blue neon graffiti palette with electric blue, royal blue and white highlights. Top center a stylized crown drawn like street graffiti spray tag. Middle of composition crossed by a cracked line / fracture effect. Around the design include urban elements: paint splashes, marker tags, scribbles, spray mist, stickers, scratches, halftone dots, layered posters torn on wall, subtle smoke. Side accents with Japanese calligraphy graffiti tags. Bottom area contains a modern WhatsApp contact bar integrated into the art. Strong depth, layered textures, cinematic shadows, glowing blue accents, premium streetwear identity style, aggressive and exclusive visual branding, ultra detailed, high contrast, centered composition, profile picture ready, circular framing. Art reference attached. [@image:#1:image]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af1a61052-5012-4c2d-8976-7576b32f9948/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Dark circular profile artwork with the same strong composition structure as a premium urban logo design. Central giant typography dominating the layout, bold condensed letters with massive presence, reading \\\"ADM 2D\\\". Graffiti street-art style instead of clean modern style. Letters made with spray paint texture, drips, rough edges, wall paint imperfections, layered tags, stencil marks and handstyle details. Background deep black mixed with concrete wall texture, cracked cement, subtle bricks and urban alley atmosphere. Blue neon graffiti palette with electric blue, royal blue and white highlights. Top center a stylized crown drawn like street graffiti spray tag. Middle of composition crossed by a cracked line / fracture effect. Around the design include urban elements: paint splashes, marker tags, scribbles, spray mist, stickers, scratches, halftone dots, layered posters torn on wall, subtle smoke. Side accents with Japanese calligraphy graffiti tags. Bottom area contains a modern WhatsApp contact bar integrated into the art. Strong depth, layered textures, cinematic shadows, glowing blue accents, premium streetwear identity style, aggressive and exclusive visual branding, ultra detailed, high contrast, centered composition, profile picture ready, circular framing. Art reference attached. [@image:#1:image]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4746,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

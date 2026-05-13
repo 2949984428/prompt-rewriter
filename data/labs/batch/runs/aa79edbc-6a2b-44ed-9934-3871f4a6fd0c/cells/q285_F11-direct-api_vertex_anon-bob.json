@@ -1,0 +1,23 @@
+{
+  "query_idx": 285,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Beauty2][@image:#2:33][@image:#3:6][@image:#4:25][@image:#5:24]根据以上提示图，生成一张关于车辆广告的实景宣传图，发布在微信公众号。苹果摄影风格，表现座舱内部空气清新，自然风从空调出风口律动吹出，参考下图[@image:#6:infoflow 2026-04-22 21-06-18]",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A223e0b16-0f02-4280-a887-4f862eda5717/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Beauty2][@image:#2:33][@image:#3:6][@image:#4:25][@image:#5:24]根据以上提示图，生成一张关于车辆广告的实景宣传图，发布在微信公众号。苹果摄影风格，表现座舱内部空气清新，自然风从空调出风口律动吹出，参考下图[@image:#6:infoflow 2026-04-22 21-06-18]\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3724,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

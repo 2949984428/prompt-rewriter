@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing e-commerce announcement poster for UGREEN NAS (绿联私有云) brand 618 Anniversary Sale, intended for Tmall/JD e-commerce platform promotion.\n\nStyle/medium: clean commercial poster design with the confident clarity of contemporary Chinese tech branding, designed for high-conversion e-commerce display\nComposition: centered hero layout with brand name and offer at visual anchor point, generous negative space for breathing, clear CTA zone at bottom third\nSubject: 绿联私有云 (UGREEN NAS) product hero image or product family lineup, 618周年庆 promotional messaging\nScene/backdrop: minimal gradient or abstract tech-infused background suggesting cloud/data flow without cluttering\nLighting/mood: crisp professional product lighting with subtle depth, the trustworthy glow of a mature tech brand\nColor palette: UGREEN brand green as primary anchor, balanced with neutral white space and subtle accent tones for sale urgency\nMaterials/textures: smooth product surfaces with subtle metallic sheen, clean digital typography\nText (verbatim): 绿联私有云, 618周年庆\nConstraints: brand logo clearly visible, promotional messaging legible at thumbnail size, e-commerce platform compliant aspect ratio\nAvoid: excessive decorative elements, cluttered information hierarchy, generic stock-photo tech aesthetic, over-saturated sale colors",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/436bcdc1-09cf-43b4-8f4d-5d7f55794f9b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing e-commerce announcement poster for UGREEN NAS (绿联私有云) brand 618 Anniversary Sale, intended for Tmall/JD e-commerce platform promotion.\\n\\nStyle/medium: clean commercial poster design with the confident clarity of contemporary Chinese tech branding, designed for high-conversion e-commerce display\\nComposition: centered hero layout with brand name and offer at visual anchor point, generous negative space for breathing, clear CTA zone at bottom third\\nSubject: 绿联私有云 (UGREEN NAS) product hero image or product family lineup, 618周年庆 promotional messaging\\nScene/backdrop: minimal gradient or abstract tech-infused background suggesting cloud/data flow without cluttering\\nLighting/mood: crisp professional product lighting with subtle depth, the trustworthy glow of a mature tech brand\\nColor palette: UGREEN brand green as primary anchor, balanced with neutral white space and subtle accent tones for sale urgency\\nMaterials/textures: smooth product surfaces with subtle metallic sheen, clean digital typography\\nText (verbatim): 绿联私有云, 618周年庆\\nConstraints: brand logo clearly visible, promotional messaging legible at thumbnail size, e-commerce platform compliant aspect ratio\\nAvoid: excessive decorative elements, cluttered information hierarchy, generic stock-photo tech aesthetic, over-saturated sale colors\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9283
+}

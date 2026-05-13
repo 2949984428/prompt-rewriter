@@ -1,0 +1,23 @@
+{
+  "query_idx": 138,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:相盒保护膜介绍图]再做一张类似这样的图，文案内容介绍防刮防水，并且让你的薄片保持光泽不褪色。滴胶保护膜要薄一点，发布唯品会。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3c8902f8-4913-4931-9b27-37cb54c99259/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:相盒保护膜介绍图]再做一张类似这样的图，文案内容介绍防刮防水，并且让你的薄片保持光泽不褪色。滴胶保护膜要薄一点，发布唯品会。\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3067,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

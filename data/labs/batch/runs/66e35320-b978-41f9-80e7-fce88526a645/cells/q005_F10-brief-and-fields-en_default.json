@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing infographic explaining definitions and relationships between AI concepts.\n\nStyle/medium: hand-drawn sketch style infographic, casual pen-and-paper aesthetic, playful doodle illustrations\nComposition: clear visual hierarchy with concept nodes connected by relationship arrows, flowchart-style layout\nSubject: six interconnected tech concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — each with simple icon and brief definition\nScene/backdrop: clean white or off-white paper texture background, plenty of breathing room between elements\nLighting/mood: flat even lighting, friendly and approachable educational tone\nColor palette: limited 3-4 color scheme (black ink lines, one accent color for highlights, subtle paper tone)\nText (verbatim): \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must be readable at web size; visual relationships between concepts must be clear through connecting lines; no overlapping text\nAvoid: photorealistic rendering; complex 3D; corporate stock illustration style; cluttered layout; tiny unreadable text",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/05f39a3a-47a1-4f8e-826e-7733649680c8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing infographic explaining definitions and relationships between AI concepts.\\n\\nStyle/medium: hand-drawn sketch style infographic, casual pen-and-paper aesthetic, playful doodle illustrations\\nComposition: clear visual hierarchy with concept nodes connected by relationship arrows, flowchart-style layout\\nSubject: six interconnected tech concepts — AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI — each with simple icon and brief definition\\nScene/backdrop: clean white or off-white paper texture background, plenty of breathing room between elements\\nLighting/mood: flat even lighting, friendly and approachable educational tone\\nColor palette: limited 3-4 color scheme (black ink lines, one accent color for highlights, subtle paper tone)\\nText (verbatim): \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must be readable at web size; visual relationships between concepts must be clear through connecting lines; no overlapping text\\nAvoid: photorealistic rendering; complex 3D; corporate stock illustration style; cluttered layout; tiny unreadable text\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11780
+}

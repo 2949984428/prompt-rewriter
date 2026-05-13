@@ -1,0 +1,23 @@
+{
+  "query_idx": 99,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image]这是清真泰康回民糕点店的logo [@image:#2:image] [@image:#3:image] [@image:#4:image]这三张是他家的糕点图 [@image:#5:image]这是辅助图形 [@image:#6:image]这个是IP形象 [@image:#7:image] [@image:#8:image]这些是表情包 [@image:#9:image][@image:#10:image]这些是动作延展 这是品牌设计的背景，分别单独展示 不要组合 每张图一个周边设计",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae871e99d-7a0f-4f3d-b701-5af4d1b7064e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image]这是清真泰康回民糕点店的logo [@image:#2:image] [@image:#3:image] [@image:#4:image]这三张是他家的糕点图 [@image:#5:image]这是辅助图形 [@image:#6:image]这个是IP形象 [@image:#7:image] [@image:#8:image]这些是表情包 [@image:#9:image][@image:#10:image]这些是动作延展 这是品牌设计的背景，分别单独展示 不要组合 每张图一个周边设计\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3647,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

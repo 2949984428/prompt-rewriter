@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing minimalist avatar logo for a cross-platform content creator focused on new energy vehicles, digital gadgets, and lifestyle products.\n\nStyle/medium: minimalist logo mark\nComposition: centered, symmetrical, scalable for circular crop\nSubject: abstract tech-lifestyle emblem combining subtle EV and digital motifs (e.g., clean geometric shape suggesting connectivity and motion)\nScene/backdrop: \nLighting/mood: \nColor palette: neutral base with one accent (deep blue or teal, universally acceptable across CN/US/EU markets)\nMaterials/textures: flat vector, clean edges\nText (verbatim): \nConstraints: must work at 48x48px thumbnail size, must read clearly in both light and dark mode, monochrome version must function, avoid culturally sensitive symbols or colors\nAvoid: red/green combinations (colorblind issues), religious symbols, national flags, hand gestures, animal motifs that carry negative connotations in specific cultures, overly complex details, gradients",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a1594032-308b-4d5a-b56d-8399aa34f989/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing minimalist avatar logo for a cross-platform content creator focused on new energy vehicles, digital gadgets, and lifestyle products.\\n\\nStyle/medium: minimalist logo mark\\nComposition: centered, symmetrical, scalable for circular crop\\nSubject: abstract tech-lifestyle emblem combining subtle EV and digital motifs (e.g., clean geometric shape suggesting connectivity and motion)\\nScene/backdrop: \\nLighting/mood: \\nColor palette: neutral base with one accent (deep blue or teal, universally acceptable across CN/US/EU markets)\\nMaterials/textures: flat vector, clean edges\\nText (verbatim): \\nConstraints: must work at 48x48px thumbnail size, must read clearly in both light and dark mode, monochrome version must function, avoid culturally sensitive symbols or colors\\nAvoid: red/green combinations (colorblind issues), religious symbols, national flags, hand gestures, animal motifs that carry negative connotations in specific cultures, overly complex details, gradients\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9907
+}

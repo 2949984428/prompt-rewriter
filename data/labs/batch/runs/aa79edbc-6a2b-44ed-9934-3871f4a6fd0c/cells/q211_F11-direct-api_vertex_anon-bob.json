@@ -1,0 +1,23 @@
+{
+  "query_idx": 211,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Merry Christmas post for Instagram and Youtube Thumbnail. \nOur logo is [@image:#1:Lovart_Logo] \nstyle reference is [@image:#2:Ref_Image]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A02d1918f-94e9-44f9-b3cf-2ecf30bf3759/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a Merry Christmas post for Instagram and Youtube Thumbnail. \\nOur logo is [@image:#1:Lovart_Logo] \\nstyle reference is [@image:#2:Ref_Image]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2422,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a documentary street photography image capturing the morning bathing ritual on the 恒河 in 瓦拉纳西, India (all in-image text in Chinese).\n\nStyle/medium: needs a \"纪实摄影\" aesthetic — references in the spirit of Raghu Rai's intimate India documentary work, Magnum Photos street reportage tradition, 1970s–1980s National Geographic color field photography; exact stylistic execution is yours\nComposition: \nSubject: must include devout pilgrims bathing in the 恒河, boats on the river, morning mist atmosphere\nScene/backdrop: must include the 恒河 riverbank at 瓦拉纳西 at dawn, with mist over the water and boats visible\nLighting/mood: needs a warm golden dawn atmosphere with morning mist — exact light source mix is yours\nColor palette: needs a warm-toned direction with golden sunlight — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must preserve the 异域文化 atmosphere of 瓦拉纳西 — pilgrims, river, boats, and morning mist all present\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/0507db39-b8dc-4e96-933e-b4831bf8dfb4/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a documentary street photography image capturing the morning bathing ritual on the 恒河 in 瓦拉纳西, India (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"纪实摄影\\\" aesthetic — references in the spirit of Raghu Rai's intimate India documentary work, Magnum Photos street reportage tradition, 1970s–1980s National Geographic color field photography; exact stylistic execution is yours\\nComposition: \\nSubject: must include devout pilgrims bathing in the 恒河, boats on the river, morning mist atmosphere\\nScene/backdrop: must include the 恒河 riverbank at 瓦拉纳西 at dawn, with mist over the water and boats visible\\nLighting/mood: needs a warm golden dawn atmosphere with morning mist — exact light source mix is yours\\nColor palette: needs a warm-toned direction with golden sunlight — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must preserve the 异域文化 atmosphere of 瓦拉纳西 — pilgrims, river, boats, and morning mist all present\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 13847
+}

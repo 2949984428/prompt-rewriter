@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "时尚大片风格，拍摄地点为冰岛黑沙滩。模特是一位高挑的北欧女性，身着顶级设计师品牌的黑色皮革长风衣，内搭白色高领针织衫，脚踩粗跟皮靴。她站在玄武岩柱群前，海浪拍打着礁石，水雾弥漫。模特姿态强势，侧脸仰望远方，长发被海风吹起，极具张力。摄影师使用中画幅相机，85mm镜头，光圈f/2，自然光拍摄，天空阴沉呈铅灰色，与黑色沙滩、黑色服装形成统一的暗色调。后期调色偏冷，对比度高，颗粒感轻微，整体风格参考Vogue Italia大片美学。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/47f8702c-c6cc-4c82-815b-ea8ad3bce7bf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

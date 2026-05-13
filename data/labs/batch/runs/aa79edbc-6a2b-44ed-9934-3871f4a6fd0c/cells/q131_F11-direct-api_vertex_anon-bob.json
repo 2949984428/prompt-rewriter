@@ -1,0 +1,23 @@
+{
+  "query_idx": 131,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@tool:generate_image_nano_banana] [@image:#1:IMG_7494] 帮我设计儿童模特儿穿上这套衣服，儿童模特儿女性，10岁，中国人，长发，漂亮、有学舞蹈的气质，性格开朗及乐观，全身图。在摄影棚拍摄，背景纯色干净，人物动作以及灯光要自然。以下全部图片，用同一个模特儿。\n1）输出3张照片，不同的动作，用于淘宝电商首图。\n2）同样的童模输出3张在户外的照片，户外背景简单，要合适这套衣服的场景。\n3）用此衣服输出3张挂在衣架上展示的衣服展示图。\n4）输出3张平铺图，一张单色纯实物图，两张张需要杂志风格，周边有合适的小物件垫资。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 10,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af318e75e-6d49-494c-bafe-2e55a4fa5b30/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@tool:generate_image_nano_banana] [@image:#1:IMG_7494] 帮我设计儿童模特儿穿上这套衣服，儿童模特儿女性，10岁，中国人，长发，漂亮、有学舞蹈的气质，性格开朗及乐观，全身图。在摄影棚拍摄，背景纯色干净，人物动作以及灯光要自然。以下全部图片，用同一个模特儿。\\n1）输出3张照片，不同的动作，用于淘宝电商首图。\\n2）同样的童模输出3张在户外的照片，户外背景简单，要合适这套衣服的场景。\\n3）用此衣服输出3张挂在衣架上展示的衣服展示图。\\n4）输出3张平铺图，一张单色纯实物图，两张张需要杂志风格，周边有合适的小物件垫资。\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 10, \"output_format\": \"png\"}",
+  "ms": 12458,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

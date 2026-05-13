@@ -1,0 +1,18 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original product shot of a single piece of chocolate.\n\nStyle/medium: photorealistic close-up product photography, clean studio aesthetic\nComposition: centered single subject, slight three-quarter angle, macro lens, shallow depth of field\nSubject: one piece of dark chocolate, smooth glossy surface with a subtle snap edge, rich brown tone\nScene/backdrop: minimal neutral background, soft surface reflection beneath the chocolate\nLighting/mood: soft diffused studio light from upper-left, gentle specular highlight on the chocolate surface, warm and indulgent mood\nColor palette: deep chocolate brown as dominant tone, warm ivory or cream as background, subtle golden highlight accent\nMaterials/textures: smooth tempered chocolate shell with a faint sheen, clean sharp edges\nAvoid: plastic appearance, over-saturated color, cluttered background, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-04-img2-east-us2.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original product shot of a single piece of chocolate.\\n\\nStyle/medium: photorealistic close-up product photography, clean studio aesthetic\\nComposition: centered single subject, slight three-quarter angle, macro lens, shallow depth of field\\nSubject: one piece of dark chocolate, smooth glossy surface with a subtle snap edge, rich brown tone\\nScene/backdrop: minimal neutral background, soft surface reflection beneath the chocolate\\nLighting/mood: soft diffused studio light from upper-left, gentle specular highlight on the chocolate surface, warm and indulgent mood\\nColor palette: deep chocolate brown as dominant tone, warm ivory or cream as background, subtle golden highlight accent\\nMaterials/textures: smooth tempered chocolate shell with a faint sheen, clean sharp edges\\nAvoid: plastic appearance, over-saturated color, cluttered background, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7566
+}

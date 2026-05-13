@@ -1,0 +1,20 @@
+{
+  "query_idx": 32,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a surrealist dreamscape illustration with philosophical depth and visual impact.\n\nStyle/medium: surrealist oil painting in the spirit of Salvador Dalí and René Magritte, dreamlike hyperreality with precise rendering of impossible elements\nComposition: wide panoramic vista, eye-level horizon dividing sea and sky, multiple focal points arranged in ascending layers from sea to clouds\nSubject: colossal moon rising from ocean surface, humpback whales suspended mid-flight through the air, melting pocket watch draped over floating rocks, spiral stone staircase ascending into cumulus clouds\nScene/backdrop: infinite ocean at twilight, mirror-still water reflecting the impossible moon, stratospheric cloud layer forming an ethereal ceiling\nLighting/mood: soft volumetric moonlight casting long shadows, subtle bioluminescence from the sea surface, contemplative and mysterious atmosphere suggesting the boundary between waking and dreaming\nColor palette: deep indigo and ultramarine as base, silver-white moonlight as anchor, warm amber highlights on the melting clock, muted teal for the whales\nMaterials/textures: smooth polished stone on the staircase, viscous liquid metal of the melting clock, matte skin of the whales, crystalline moon surface\nAvoid: photorealistic rendering that kills the dream quality, oversaturated colors, stock photo aesthetic, 8K stuffer language, literal interpretation without surrealist distortion",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fb091cfe-9a6c-4415-86b6-50e6b39b60f2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a surrealist dreamscape illustration with philosophical depth and visual impact.\\n\\nStyle/medium: surrealist oil painting in the spirit of Salvador Dalí and René Magritte, dreamlike hyperreality with precise rendering of impossible elements\\nComposition: wide panoramic vista, eye-level horizon dividing sea and sky, multiple focal points arranged in ascending layers from sea to clouds\\nSubject: colossal moon rising from ocean surface, humpback whales suspended mid-flight through the air, melting pocket watch draped over floating rocks, spiral stone staircase ascending into cumulus clouds\\nScene/backdrop: infinite ocean at twilight, mirror-still water reflecting the impossible moon, stratospheric cloud layer forming an ethereal ceiling\\nLighting/mood: soft volumetric moonlight casting long shadows, subtle bioluminescence from the sea surface, contemplative and mysterious atmosphere suggesting the boundary between waking and dreaming\\nColor palette: deep indigo and ultramarine as base, silver-white moonlight as anchor, warm amber highlights on the melting clock, muted teal for the whales\\nMaterials/textures: smooth polished stone on the staircase, viscous liquid metal of the melting clock, matte skin of the whales, crystalline moon surface\\nAvoid: photorealistic rendering that kills the dream quality, oversaturated colors, stock photo aesthetic, 8K stuffer language, literal interpretation without surrealist distortion\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12411
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a vertical short-video cover for an 8K GGU gaming monitor launch.\n\nStyle/medium: needs a minimalist, premium aesthetic — exact restraint level and material choice are yours\nComposition: must use rule-of-thirds framing\nSubject: must include the 8K GGU gaming monitor as the focal product\nScene/backdrop: \nLighting/mood: needs a premium tech atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"8k GGU 电竞显示器 1000hz\" (large, prominent), \"全球首发全新面板 低延迟 完美色彩\" (secondary)\nConstraints: must be vertical format optimized for short-video platforms, large headline must dominate for visual impact\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3a21762b-a031-436e-98a3-65b353b35912/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a vertical short-video cover for an 8K GGU gaming monitor launch.\\n\\nStyle/medium: needs a minimalist, premium aesthetic — exact restraint level and material choice are yours\\nComposition: must use rule-of-thirds framing\\nSubject: must include the 8K GGU gaming monitor as the focal product\\nScene/backdrop: \\nLighting/mood: needs a premium tech atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"8k GGU 电竞显示器 1000hz\\\" (large, prominent), \\\"全球首发全新面板 低延迟 完美色彩\\\" (secondary)\\nConstraints: must be vertical format optimized for short-video platforms, large headline must dominate for visual impact\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12238
+}

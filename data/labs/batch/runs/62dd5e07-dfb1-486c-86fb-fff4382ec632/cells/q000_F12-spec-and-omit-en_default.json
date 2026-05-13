@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original marketing poster for a pearl milk tea product in a pink girly style with a summer refreshing feel.\n\nStyle/medium: pink girly style, Xiaohongshu (小红书) cover\nComposition: \nSubject: pearl milk tea (珍珠奶茶)\nScene/backdrop: \nLighting/mood: summer refreshing feel\nColor palette: pink\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8e7089f5-0858-4553-8b8a-c65c1a49cd9e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original marketing poster for a pearl milk tea product in a pink girly style with a summer refreshing feel.\\n\\nStyle/medium: pink girly style, Xiaohongshu (小红书) cover\\nComposition: \\nSubject: pearl milk tea (珍珠奶茶)\\nScene/backdrop: \\nLighting/mood: summer refreshing feel\\nColor palette: pink\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4090
+}

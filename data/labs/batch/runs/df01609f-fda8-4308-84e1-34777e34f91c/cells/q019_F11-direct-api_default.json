@@ -1,0 +1,18 @@
+{
+  "query_idx": 19,
+  "skill_id": "F11-direct-api",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "绘制一张奇幻风格的龙与骑士战斗场景，巨龙喷吐火焰，骑士持盾冲锋，背景是燃烧的城堡和闪电交加的天空，史诗般的构图和动感",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_ca6985cb85974627a9fb59657369094a. safety_violations=[violence].\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"绘制一张奇幻风格的龙与骑士战斗场景，巨龙喷吐火焰，骑士持盾冲锋，背景是燃烧的城堡和闪电交加的天空，史诗般的构图和动感\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6912
+}

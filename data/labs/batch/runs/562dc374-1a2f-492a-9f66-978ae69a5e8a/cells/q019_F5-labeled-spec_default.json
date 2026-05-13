@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: cinematic-illustration\nAsset type: fantasy book cover, epic battle scene\nPrimary request: dragon breathing fire at a charging knight with shield, dynamic action pose\nScene/backdrop: burning castle ruins, lightning storm sky, embers and smoke filling the air\nSubject: massive scaled dragon with spread wings and open jaws spewing orange flames; armored knight in full plate mail with raised shield and sword, mid-charge\nStyle/medium: digital fantasy illustration, painterly style with dramatic brushwork\nComposition/framing: wide epic shot, low angle looking up at the clash, rule of thirds with dragon and knight as dual focal points\nLighting/mood: dramatic chiaroscuro, fire glow illuminating the scene, lightning flashes creating harsh highlights, intense and heroic atmosphere\nColor palette: deep storm grays and purples, fiery oranges and reds, metallic silver armor accents, ember sparks\nMaterials/textures: rough dragon scales, polished steel armor, cracked stone castle walls, billowing smoke\nConstraints: maintain clear silhouettes for both dragon and knight, emphasize motion and impact\nAvoid: flat lighting, cartoonish proportions, cluttered composition, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/988a161c-1793-493a-b9db-859e3f2a90b9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: cinematic-illustration\\nAsset type: fantasy book cover, epic battle scene\\nPrimary request: dragon breathing fire at a charging knight with shield, dynamic action pose\\nScene/backdrop: burning castle ruins, lightning storm sky, embers and smoke filling the air\\nSubject: massive scaled dragon with spread wings and open jaws spewing orange flames; armored knight in full plate mail with raised shield and sword, mid-charge\\nStyle/medium: digital fantasy illustration, painterly style with dramatic brushwork\\nComposition/framing: wide epic shot, low angle looking up at the clash, rule of thirds with dragon and knight as dual focal points\\nLighting/mood: dramatic chiaroscuro, fire glow illuminating the scene, lightning flashes creating harsh highlights, intense and heroic atmosphere\\nColor palette: deep storm grays and purples, fiery oranges and reds, metallic silver armor accents, ember sparks\\nMaterials/textures: rough dragon scales, polished steel armor, cracked stone castle walls, billowing smoke\\nConstraints: maintain clear silhouettes for both dragon and knight, emphasize motion and impact\\nAvoid: flat lighting, cartoonish proportions, cluttered composition, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10068
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 129,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Instagram 轮播图单页（carousel slide）。\n\n风格/媒介:\n  简洁现代版式\n  高端巴西家具电商美学\n  极简风格，大量留白，奢华感\n\n构图:\n  纯白背景，整体居中布局\n  顶部文字区 → 中部产品图 → 底部文字区，三段式纵向排列\n  产品图前方无遮挡，四周留白充足\n\n主体:\n  中央产品图：超写实 AI 生成的高端胡桃木扶手椅，奶油色 bouclé 布艺坐垫\n  椅子正面视角，带约 15 度轻微旋转\n  清晰的木纹与布料纹理细节\n  椅子底部有柔和投影\n\n场景/背景:\n  纯白无缝背景（pure white seamless background）\n  三点式摄影棚布光，柔和均匀\n\n光线/氛围:\n  商业电商目录质感，干净明亮\n  柔光，无强硬阴影\n\n色彩方案:\n  白色背景为主\n  文字用深炭灰色（dark charcoal）\n\n材质/纹理:\n  胡桃木木纹清晰可见\n  bouclé 布艺纹理细节清晰\n\n文字(原样):\n  顶部文字（粗体，深炭灰，居中，28px）：\n    \"Está cansado de pagar caro por fotos para seu ecommerce de móveis?\"\n  副标题（中等字重，居中，22px），紧接顶部文字下方：\n    \"Se liga na solução! Essa imagem aqui foi feita 100% com IA!\"\n  底部文字（粗体，居中，22px）：\n    \"Passe para ver mais →\"\n\n约束:\n  photorealistic 产品图渲染质感\n  无水印\n  版式简洁不杂乱\n\n避免:\n  杂乱装饰元素\n  强硬阴影或过度对比光线\n  水印或多余标注",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4f448262-40c3-487d-9c11-54d3850e0acd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Instagram 轮播图单页（carousel slide）。\\n\\n风格/媒介:\\n  简洁现代版式\\n  高端巴西家具电商美学\\n  极简风格，大量留白，奢华感\\n\\n构图:\\n  纯白背景，整体居中布局\\n  顶部文字区 → 中部产品图 → 底部文字区，三段式纵向排列\\n  产品图前方无遮挡，四周留白充足\\n\\n主体:\\n  中央产品图：超写实 AI 生成的高端胡桃木扶手椅，奶油色 bouclé 布艺坐垫\\n  椅子正面视角，带约 15 度轻微旋转\\n  清晰的木纹与布料纹理细节\\n  椅子底部有柔和投影\\n\\n场景/背景:\\n  纯白无缝背景（pure white seamless background）\\n  三点式摄影棚布光，柔和均匀\\n\\n光线/氛围:\\n  商业电商目录质感，干净明亮\\n  柔光，无强硬阴影\\n\\n色彩方案:\\n  白色背景为主\\n  文字用深炭灰色（dark charcoal）\\n\\n材质/纹理:\\n  胡桃木木纹清晰可见\\n  bouclé 布艺纹理细节清晰\\n\\n文字(原样):\\n  顶部文字（粗体，深炭灰，居中，28px）：\\n    \\\"Está cansado de pagar caro por fotos para seu ecommerce de móveis?\\\"\\n  副标题（中等字重，居中，22px），紧接顶部文字下方：\\n    \\\"Se liga na solução! Essa imagem aqui foi feita 100% com IA!\\\"\\n  底部文字（粗体，居中，22px）：\\n    \\\"Passe para ver mais →\\\"\\n\\n约束:\\n  photorealistic 产品图渲染质感\\n  无水印\\n  版式简洁不杂乱\\n\\n避免:\\n  杂乱装饰元素\\n  强硬阴影或过度对比光线\\n  水印或多余标注\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14387,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

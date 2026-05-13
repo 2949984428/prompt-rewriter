@@ -1,0 +1,23 @@
+{
+  "query_idx": 310,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:🩵🧊🌊夏日泳池🫧🍦_1_蟹蟹光临_来自小红书网页版]基于这张照片，生成一组9张Q版吉卜力风格的表情包，将发布在小红书笔记",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 9,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Affc79590-3c43-4276-9cec-8aff6f011dc0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:🩵🧊🌊夏日泳池🫧🍦_1_蟹蟹光临_来自小红书网页版]基于这张照片，生成一组9张Q版吉卜力风格的表情包，将发布在小红书笔记\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 9, \"output_format\": \"png\"}",
+  "ms": 7758,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

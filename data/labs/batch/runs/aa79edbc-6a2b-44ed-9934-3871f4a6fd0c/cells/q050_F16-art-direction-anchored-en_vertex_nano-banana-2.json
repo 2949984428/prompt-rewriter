@@ -1,0 +1,23 @@
+{
+  "query_idx": 50,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a brand board for \"Nända\", a jewelry brand for girls.\n\nStyle/medium:\n  Bright, colorful, youthful aesthetic\n  Doodle icons integrated into the design\n  Fun and elegant balance — expressive, personality-driven\n\nComposition:\n  Full brand board layout including all brand elements arranged together:\n  — Primary logo\n  — Secondary logo\n  — Circular submark\n  — Full color palette swatches\n  — Font pairings (display + body)\n  — Brand patterns\n\nSubject:\n  \"Nända\" jewelry brand identity system\n  Target audience: girls, youthful demographic\n  Brand values: fun, elegance, self-expression, personality\n\nScene/backdrop:\n  Clean brand board presentation background\n\nLighting/mood:\n  Vibrant, joyful, creative energy\n\nColor palette:\n  Rich, multi-color — bright and colorful, not muted or pastel-only\n\nMaterials/textures:\n  Doodle-style illustrated elements and icons as decorative brand pattern motifs\n\nText (verbatim):\n  Nända\n\nConstraints:\n  All six brand elements must be clearly visible and labeled on the board\n  Logo designs should feel suitable for a jewelry brand — refined yet playful\n  Doodle icons should feel hand-drawn and expressive\n\nAvoid:\n  Corporate or overly minimal aesthetic\n  Dark, moody, or desaturated color schemes\n  Generic serif-only luxury jewelry branding",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A25776487-528e-460a-bc54-492e5586c137/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a brand board for \\\"Nända\\\", a jewelry brand for girls.\\n\\nStyle/medium:\\n  Bright, colorful, youthful aesthetic\\n  Doodle icons integrated into the design\\n  Fun and elegant balance — expressive, personality-driven\\n\\nComposition:\\n  Full brand board layout including all brand elements arranged together:\\n  — Primary logo\\n  — Secondary logo\\n  — Circular submark\\n  — Full color palette swatches\\n  — Font pairings (display + body)\\n  — Brand patterns\\n\\nSubject:\\n  \\\"Nända\\\" jewelry brand identity system\\n  Target audience: girls, youthful demographic\\n  Brand values: fun, elegance, self-expression, personality\\n\\nScene/backdrop:\\n  Clean brand board presentation background\\n\\nLighting/mood:\\n  Vibrant, joyful, creative energy\\n\\nColor palette:\\n  Rich, multi-color — bright and colorful, not muted or pastel-only\\n\\nMaterials/textures:\\n  Doodle-style illustrated elements and icons as decorative brand pattern motifs\\n\\nText (verbatim):\\n  Nända\\n\\nConstraints:\\n  All six brand elements must be clearly visible and labeled on the board\\n  Logo designs should feel suitable for a jewelry brand — refined yet playful\\n  Doodle icons should feel hand-drawn and expressive\\n\\nAvoid:\\n  Corporate or overly minimal aesthetic\\n  Dark, moody, or desaturated color schemes\\n  Generic serif-only luxury jewelry branding\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 13089,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

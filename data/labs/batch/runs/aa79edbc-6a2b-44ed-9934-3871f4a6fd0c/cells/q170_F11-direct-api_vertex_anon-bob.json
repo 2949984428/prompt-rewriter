@@ -1,0 +1,26 @@
+{
+  "query_idx": 170,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:202512121551169187]生成一套亚马逊套图",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0a203c64-09b4-487b-9845-af0ee4aa5126/0.jpg",
+    "/api/image-file/lovart%3A0a203c64-09b4-487b-9845-af0ee4aa5126/1.jpg",
+    "/api/image-file/lovart%3A0a203c64-09b4-487b-9845-af0ee4aa5126/2.jpg",
+    "/api/image-file/lovart%3A0a203c64-09b4-487b-9845-af0ee4aa5126/3.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:202512121551169187]生成一套亚马逊套图\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3023,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

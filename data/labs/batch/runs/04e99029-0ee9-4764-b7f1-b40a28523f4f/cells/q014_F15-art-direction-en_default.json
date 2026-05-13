@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a UI design system for web Dashboard, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: needs a \"经典简约科技\" (classic minimalist tech) aesthetic — exact stylistic execution is yours\nComposition: must include web Dashboard layout, mobile interface layout, card components, button components, and control components\nSubject: must include UI components: web Dashboard, mobile interface, cards, buttons, controls\nScene/backdrop: \nLighting/mood: needs a cool-tech atmosphere — exact light treatment is yours\nColor palette: needs a tech-forward direction — exact hex values and accent ratios are yours\nMaterials/textures: needs rich layered depth with strong visual hierarchy — exact surface treatment is yours\nText (verbatim): \nConstraints: must preserve the \"视觉炫酷、层次丰富、科技感极强\" (visually stunning, rich layers, extremely tech-forward) direction\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/04286386-c5fa-47b2-9a95-be398f1655b4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a UI design system for web Dashboard, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: needs a \\\"经典简约科技\\\" (classic minimalist tech) aesthetic — exact stylistic execution is yours\\nComposition: must include web Dashboard layout, mobile interface layout, card components, button components, and control components\\nSubject: must include UI components: web Dashboard, mobile interface, cards, buttons, controls\\nScene/backdrop: \\nLighting/mood: needs a cool-tech atmosphere — exact light treatment is yours\\nColor palette: needs a tech-forward direction — exact hex values and accent ratios are yours\\nMaterials/textures: needs rich layered depth with strong visual hierarchy — exact surface treatment is yours\\nText (verbatim): \\nConstraints: must preserve the \\\"视觉炫酷、层次丰富、科技感极强\\\" (visually stunning, rich layers, extremely tech-forward) direction\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8344
+}

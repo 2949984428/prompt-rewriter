@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "儿童绘本插画风格，描绘一只圆滚滚的小棕熊在秋天的森林里收集橡果。小熊穿着一件蓝色条纹背带裤，头上戴着一顶略大的红色贝雷帽，表情憨态可掬，两颊红扑扑的。它用胖乎乎的小爪子捧着一大堆橡果，脚边还散落着金黄色和橙红色的落叶。背景是温暖的秋日森林，阳光透过树叶形成斑驳光影，远处有一座小木屋冒着炊烟。整体风格温馨可爱，色彩饱和度高，线条圆润柔和，参考宫崎骏动画与北欧插画的混合风格，适合3-6岁儿童读物。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/226ad84b-8722-4bde-9f03-14a925ecaaf8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

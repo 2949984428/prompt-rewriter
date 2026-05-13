@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: interior-design-render\nAsset type: architectural visualization, editorial interior photo\nPrimary request: a 20-square-meter Japanese wabi-sabi meditation tea room with restrained Eastern aesthetics and inner tranquility\nScene/backdrop: intimate tea room interior with skylight, bamboo forest visible through translucent shoji screens\nSubject: low black walnut tea table with natural wood grain and fine cracks, several floor cushion seats, rough ceramic flower vase with dry branches and moss balls\nStyle/medium: architectural visualization, photorealistic interior render, wabi-sabi aesthetic\nComposition/framing: wide interior shot, eye-level perspective capturing the full spatial layout and material textures\nLighting/mood: natural daylight streaming through skylight at an angle, quiet and meditative atmosphere with soft shadows\nColor palette: off-white, natural wood tones, charcoal gray, moss green, earthy clay\nMaterials/textures: hand-fired irregular terracotta floor tiles, raw diatom mud wall texture, translucent washi paper on sliding doors, rough unglazed ceramic, natural wood grain with cracks\nConstraints: preserve the 20-square-meter spatial scale, maintain wabi-sabi imperfection aesthetic, keep bamboo forest silhouette visible through shoji\nAvoid: glossy surfaces, perfect symmetry, bright artificial lighting, clutter, modern furniture, vivid saturated colors",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/06161101-9664-408c-93b8-3d49cbeaeb4c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: interior-design-render\\nAsset type: architectural visualization, editorial interior photo\\nPrimary request: a 20-square-meter Japanese wabi-sabi meditation tea room with restrained Eastern aesthetics and inner tranquility\\nScene/backdrop: intimate tea room interior with skylight, bamboo forest visible through translucent shoji screens\\nSubject: low black walnut tea table with natural wood grain and fine cracks, several floor cushion seats, rough ceramic flower vase with dry branches and moss balls\\nStyle/medium: architectural visualization, photorealistic interior render, wabi-sabi aesthetic\\nComposition/framing: wide interior shot, eye-level perspective capturing the full spatial layout and material textures\\nLighting/mood: natural daylight streaming through skylight at an angle, quiet and meditative atmosphere with soft shadows\\nColor palette: off-white, natural wood tones, charcoal gray, moss green, earthy clay\\nMaterials/textures: hand-fired irregular terracotta floor tiles, raw diatom mud wall texture, translucent washi paper on sliding doors, rough unglazed ceramic, natural wood grain with cracks\\nConstraints: preserve the 20-square-meter spatial scale, maintain wabi-sabi imperfection aesthetic, keep bamboo forest silhouette visible through shoji\\nAvoid: glossy surfaces, perfect symmetry, bright artificial lighting, clutter, modern furniture, vivid saturated colors\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11067
+}

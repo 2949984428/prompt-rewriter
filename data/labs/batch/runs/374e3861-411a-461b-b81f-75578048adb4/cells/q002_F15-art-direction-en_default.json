@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a traditional Chinese ink-wash landscape painting.\n\nStyle/medium: must be 中国传统水墨风格 — exact brushwork and ink gradation are yours\nComposition: needs intentional negative space (留白) with distant mountains at top, foreground elements below — exact balance is yours\nSubject: must include a 老者 fishing by a stream, pine trees, and a thatched cottage (茅草屋)\nScene/backdrop: must include distant mountains (远山如黛) with mist and clouds (云雾缭绕) winding through valleys\nLighting/mood: needs a serene, ethereal atmosphere with空灵悠远意境 — exact tonal rendering is yours\nColor palette: needs ink-wash monochrome direction — exact ink density and subtle color washes are yours\nMaterials/textures: needs traditional xuan paper texture with ink bleeding — exact paper weight and brush texture are yours\nText (verbatim): \nConstraints: must preserve 东方美学 principles with proper negative space balance\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6c903259-ebe9-47ad-9ab3-f641bf1106be/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a traditional Chinese ink-wash landscape painting.\\n\\nStyle/medium: must be 中国传统水墨风格 — exact brushwork and ink gradation are yours\\nComposition: needs intentional negative space (留白) with distant mountains at top, foreground elements below — exact balance is yours\\nSubject: must include a 老者 fishing by a stream, pine trees, and a thatched cottage (茅草屋)\\nScene/backdrop: must include distant mountains (远山如黛) with mist and clouds (云雾缭绕) winding through valleys\\nLighting/mood: needs a serene, ethereal atmosphere with空灵悠远意境 — exact tonal rendering is yours\\nColor palette: needs ink-wash monochrome direction — exact ink density and subtle color washes are yours\\nMaterials/textures: needs traditional xuan paper texture with ink bleeding — exact paper weight and brush texture are yours\\nText (verbatim): \\nConstraints: must preserve 东方美学 principles with proper negative space balance\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11838
+}

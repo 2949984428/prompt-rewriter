@@ -1,0 +1,23 @@
+{
+  "query_idx": 39,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "帮我生成一个品牌logo：中国道家图案“卍”为主体，英文：SYLVALŪNE，风格极简大气，富有灵性",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7334deaa-697d-4d87-a2a4-3946e5b3a1cd/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"帮我生成一个品牌logo：中国道家图案\\\"卍\\\"为主体，英文：SYLVALŪNE，风格极简大气，富有灵性\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2498,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: needs a modern, clean, universally approachable aesthetic — exact stylistic execution is yours\nComposition: must be a square avatar format with a clear focal center suitable for small display sizes\nSubject: must include visual elements representing the three content pillars: new energy vehicles, digital/tech products, and lifestyle goods — unified into a single cohesive icon or character\nScene/backdrop: needs a neutral, platform-agnostic backdrop — exact background treatment is yours\nLighting/mood: needs a fresh, energetic, friendly atmosphere — exact light treatment is yours\nColor palette: needs a vibrant yet balanced direction that reads well across both light and dark platform UIs — exact palette is yours\nMaterials/textures: \nText (verbatim): \nConstraints: must be culturally neutral and free of symbols, gestures, colors, or iconography that carry negative or taboo connotations in any major culture or religion; must remain visually legible and harmonious at small avatar sizes (e.g., 40px–200px)\nAvoid: must avoid flags, political symbols, religious icons, hand gestures with culturally specific meanings, and any imagery that could be perceived as offensive or exclusionary to any demographic",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5bd5dcda-89be-4fb9-8075-01cbaf0f5208/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: needs a modern, clean, universally approachable aesthetic — exact stylistic execution is yours\\nComposition: must be a square avatar format with a clear focal center suitable for small display sizes\\nSubject: must include visual elements representing the three content pillars: new energy vehicles, digital/tech products, and lifestyle goods — unified into a single cohesive icon or character\\nScene/backdrop: needs a neutral, platform-agnostic backdrop — exact background treatment is yours\\nLighting/mood: needs a fresh, energetic, friendly atmosphere — exact light treatment is yours\\nColor palette: needs a vibrant yet balanced direction that reads well across both light and dark platform UIs — exact palette is yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must be culturally neutral and free of symbols, gestures, colors, or iconography that carry negative or taboo connotations in any major culture or religion; must remain visually legible and harmonious at small avatar sizes (e.g., 40px–200px)\\nAvoid: must avoid flags, political symbols, religious icons, hand gestures with culturally specific meanings, and any imagery that could be perceived as offensive or exclusionary to any demographic\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10098
+}

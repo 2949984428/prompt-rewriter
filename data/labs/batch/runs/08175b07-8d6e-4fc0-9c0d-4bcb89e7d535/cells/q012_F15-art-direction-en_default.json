@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing cover image for a WeChat article announcing the 染秋 fragrance launch.\n\nStyle/medium: needs a premium/luxury aesthetic — exact stylistic execution is yours\nComposition: must be centered composition with the title as the focal point\nSubject: must include the fragrance product context for the 染秋 launch\nScene/backdrop: \nLighting/mood: needs an autumn atmosphere — exact light source mix is yours\nColor palette: needs an autumn-inspired direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"染秋\" (main title), \"秋意染染 时光留香\" (subtitle)\nConstraints: must preserve the 900x500 aspect ratio, title must be prominently featured\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6dbdf91c-2f5e-43c0-9049-0953efcbd132/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing cover image for a WeChat article announcing the 染秋 fragrance launch.\\n\\nStyle/medium: needs a premium/luxury aesthetic — exact stylistic execution is yours\\nComposition: must be centered composition with the title as the focal point\\nSubject: must include the fragrance product context for the 染秋 launch\\nScene/backdrop: \\nLighting/mood: needs an autumn atmosphere — exact light source mix is yours\\nColor palette: needs an autumn-inspired direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"染秋\\\" (main title), \\\"秋意染染 时光留香\\\" (subtitle)\\nConstraints: must preserve the 900x500 aspect ratio, title must be prominently featured\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8676
+}

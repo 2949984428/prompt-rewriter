@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original illustration of a futuristic cyberpunk city nightscape (all in-image text in Chinese).\n\nStyle/medium: needs a \"赛博朋克\" aesthetic — references in the spirit of Syd Mead's 1980s concept art (Blade Runner visual development), 攻殻機動隊 Ghost in the Shell 1995 urban density, Vaporwave neon-grid digital art movement; exact stylistic execution is yours\nComposition: needs a wide cityscape framing with towering skyscrapers filling the frame and flying cars threading through mid-air — exact framing tightness and depth layering is yours\nSubject: must include dense high-rise skyline, neon signs across buildings, flying cars in motion, acid rain falling, ground-level puddles reflecting neon light\nScene/backdrop: must include a futuristic city at night with acid rain atmosphere and wet reflective ground surfaces\nLighting/mood: needs a decadent, tech-saturated night atmosphere with neon glow and rain-diffused light — exact light source mix is yours\nColor palette: needs a blue-violet dominant direction with neon accent pops — exact hex values and ratios are yours\nMaterials/textures: needs a wet, rain-slicked surface treatment with atmospheric haze — exact grain and sheen is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3a6583b9-b55d-4cbd-a4b7-fbe3ed33ba18/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original illustration of a futuristic cyberpunk city nightscape (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"赛博朋克\\\" aesthetic — references in the spirit of Syd Mead's 1980s concept art (Blade Runner visual development), 攻殻機動隊 Ghost in the Shell 1995 urban density, Vaporwave neon-grid digital art movement; exact stylistic execution is yours\\nComposition: needs a wide cityscape framing with towering skyscrapers filling the frame and flying cars threading through mid-air — exact framing tightness and depth layering is yours\\nSubject: must include dense high-rise skyline, neon signs across buildings, flying cars in motion, acid rain falling, ground-level puddles reflecting neon light\\nScene/backdrop: must include a futuristic city at night with acid rain atmosphere and wet reflective ground surfaces\\nLighting/mood: needs a decadent, tech-saturated night atmosphere with neon glow and rain-diffused light — exact light source mix is yours\\nColor palette: needs a blue-violet dominant direction with neon accent pops — exact hex values and ratios are yours\\nMaterials/textures: needs a wet, rain-slicked surface treatment with atmospheric haze — exact grain and sheen is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11993
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a hyperrealistic jewelry close-up photograph of a sapphire ring with diamond setting (all in-image text in Chinese).\n\nStyle/medium: needs a hyperrealistic macro photography aesthetic — exact stylistic execution is yours\nComposition: must be extreme close-up macro framing to reveal every detail\nSubject: must include a sapphire ring with diamond-encrusted setting, light refracting inside the gemstone as fire and brilliance\nScene/backdrop: must include a black velvet background\nLighting/mood: needs a luxurious, high-drama light atmosphere that emphasizes internal refraction and fire within the sapphire — exact light source mix is yours\nColor palette: needs a deep blue sapphire dominant with diamond sparkle accents against deep black — exact tonal balance is yours\nMaterials/textures: needs a surface treatment that renders every facet, metal grain, and velvet fiber with photorealistic fidelity — exact micro-texture execution is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must preserve extreme detail rendering — every facet and setting prong must be visible\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f4d189dd-994f-4feb-b6ca-c15194639690/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a hyperrealistic jewelry close-up photograph of a sapphire ring with diamond setting (all in-image text in Chinese).\\n\\nStyle/medium: needs a hyperrealistic macro photography aesthetic — exact stylistic execution is yours\\nComposition: must be extreme close-up macro framing to reveal every detail\\nSubject: must include a sapphire ring with diamond-encrusted setting, light refracting inside the gemstone as fire and brilliance\\nScene/backdrop: must include a black velvet background\\nLighting/mood: needs a luxurious, high-drama light atmosphere that emphasizes internal refraction and fire within the sapphire — exact light source mix is yours\\nColor palette: needs a deep blue sapphire dominant with diamond sparkle accents against deep black — exact tonal balance is yours\\nMaterials/textures: needs a surface treatment that renders every facet, metal grain, and velvet fiber with photorealistic fidelity — exact micro-texture execution is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must preserve extreme detail rendering — every facet and setting prong must be visible\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9864
+}

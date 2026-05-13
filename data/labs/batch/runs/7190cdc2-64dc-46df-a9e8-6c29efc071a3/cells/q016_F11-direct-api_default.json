@@ -1,0 +1,18 @@
+{
+  "query_idx": 16,
+  "skill_id": "F11-direct-api",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "体育运动摄影风格，捕捉NBA篮球比赛中的高光时刻。画面定格在一位球员完成暴扣的瞬间：球员身体腾空至篮筐高度，右手持球高举，手腕下压即将完成扣篮动作，面部表情充满爆发力与专注。球场灯光从上方打下，在球员身上形成强烈的明暗对比，汗水在灯光下飞溅成细小水珠。背景是虚化的观众席，五彩的荧光棒和手机闪光灯形成梦幻般的光点海洋。对手球员在下方跳起试图封盖，肢体动态充满张力。采用1/2000秒快门速度冻结动作，长焦镜头压缩空间，整体画面充满力量感与戏剧张力，参考Getty Images体育摄影美学。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_3eabcfba0766438b8717179230a395fd.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

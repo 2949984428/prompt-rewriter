@@ -1,0 +1,55 @@
+{
+  "id": "8d0c85fa-bc17-4c02-8180-42b5d8c7af58",
+  "created_at": "2026-05-13T07:24:04.942Z",
+  "name": "smoke-url-ref-fix",
+  "query_mode": "manual",
+  "purpose": "",
+  "queries": [
+    "[@image:#1:North_western_bus_logo] create a modern logo based on the image provided",
+    "[@image:#1:image] 根据图片中的logo，生成应用场景及物品",
+    "这是一个毛绒盆栽玩具品牌，我现在完成了logo和辅助图形的部分，尝试排了一个方形排版和一个产品海报，请帮我优化延展这个视觉风格，再帮我根据这个视觉风格生成一套VI应用效果图，效果包含，包装，彩盒外盒设计1\n纸袋设计\n包装内衬纸设计气泡快递袋\n物流运输包装，货架立牌设计\n地贴设计\n徽章\n贴纸\n帆布包[@image:#1:logo][@image:#2:产品宣传海报][@image:#3:方型包装盒][@image:#4:方型排版][@image:#5:排版][@image:#6:资源 4]"
+  ],
+  "skill_ids": [
+    "F11-direct-api"
+  ],
+  "scoring_dimensions": [],
+  "rewrite_llm": "bedrock/claude-sonnet-4-6",
+  "status": "finished",
+  "include_universal": true,
+  "reference_images": [],
+  "per_query_reference_images": [
+    [
+      "https://assets-persist.lovart.ai/img/96641566e54041a0b515370c874ac8d0/33ada0f66ccb91b4954aee8f44e95c723a846c46.png"
+    ],
+    [
+      "https://a.lovart.ai/artifacts/user/Yz5J89wBKDDhWPlF.png"
+    ],
+    [
+      "https://assets-persist.lovart.ai/img/ba69c205cb1946589e88bad1d38db447/7ea6c31a208424e587f932e44ac697ec6b11157d.png",
+      "https://assets-persist.lovart.ai/img/ba69c205cb1946589e88bad1d38db447/92f0fad222ddbfd0c24cf9a38b1432fd6ecb84ca.png",
+      "https://assets-persist.lovart.ai/img/ba69c205cb1946589e88bad1d38db447/bd5c8bbb5391f1b648282cafd6ff05494964efbc.png",
+      "https://assets-persist.lovart.ai/img/ba69c205cb1946589e88bad1d38db447/d1cb4e98d7d7a8ccd84249288af4983deb95f3a0.png",
+      "https://assets-persist.lovart.ai/img/ba69c205cb1946589e88bad1d38db447/b65172f8b2bfc524d31e71a809e94fbdd1993592.png",
+      "https://assets-persist.lovart.ai/img/ba69c205cb1946589e88bad1d38db447/45b2513496139a954e0e3495e0462e96ecf09aae.png"
+    ]
+  ],
+  "image_model": "",
+  "image_model_ids": [
+    "gpt-image-2",
+    "vertex/nano-banana-2",
+    "vertex/anon-bob"
+  ],
+  "test_kind": "skill",
+  "pipeline_ids": [],
+  "cell_keys": [
+    "q000_F11-direct-api_gpt-image-2",
+    "q000_F11-direct-api_vertex_nano-banana-2",
+    "q000_F11-direct-api_vertex_anon-bob",
+    "q001_F11-direct-api_gpt-image-2",
+    "q001_F11-direct-api_vertex_nano-banana-2",
+    "q001_F11-direct-api_vertex_anon-bob",
+    "q002_F11-direct-api_gpt-image-2",
+    "q002_F11-direct-api_vertex_nano-banana-2",
+    "q002_F11-direct-api_vertex_anon-bob"
+  ]
+}

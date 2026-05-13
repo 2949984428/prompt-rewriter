@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a marketing poster for a domestic Chinese fundraising roadshow announcing GPT-5.5, featuring speaker Sam Altman.\n\nStyle/medium: corporate presentation cover, Chinese tech roadshow aesthetic blending Silicon Valley credibility with domestic VC sensibilities, clean modern layout\nComposition: centered layout with generous whitespace, professional headshot placement zone, hierarchical text blocks for event title and speaker name\nSubject: GPT-5.5 product launch announcement, speaker Sam Altman (奥特曼), Chinese domestic fundraising context\nScene/backdrop: minimal gradient or abstract tech-inspired background, subtle neural network or data flow patterns, no clutter\nLighting/mood: professional corporate atmosphere, confident and forward-looking, trustworthy tech leadership tone\nColor palette: deep blue or tech navy as primary, white for text contrast, subtle gold or accent color for premium feel\nText (verbatim): \"GPT-5.5发布\" \"奥特曼\"\nConstraints: must work as PowerPoint cover slide (16:9 ratio); text must be legible when projected; balance Western tech credibility with Chinese market familiarity\nAvoid: generic stock photos; overly decorative Chinese motifs; cluttered layouts; American-centric visual language; gradients that reduce text readability",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e0a55a01-f963-43ab-9c07-7dd24a8558cc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a marketing poster for a domestic Chinese fundraising roadshow announcing GPT-5.5, featuring speaker Sam Altman.\\n\\nStyle/medium: corporate presentation cover, Chinese tech roadshow aesthetic blending Silicon Valley credibility with domestic VC sensibilities, clean modern layout\\nComposition: centered layout with generous whitespace, professional headshot placement zone, hierarchical text blocks for event title and speaker name\\nSubject: GPT-5.5 product launch announcement, speaker Sam Altman (奥特曼), Chinese domestic fundraising context\\nScene/backdrop: minimal gradient or abstract tech-inspired background, subtle neural network or data flow patterns, no clutter\\nLighting/mood: professional corporate atmosphere, confident and forward-looking, trustworthy tech leadership tone\\nColor palette: deep blue or tech navy as primary, white for text contrast, subtle gold or accent color for premium feel\\nText (verbatim): \\\"GPT-5.5发布\\\" \\\"奥特曼\\\"\\nConstraints: must work as PowerPoint cover slide (16:9 ratio); text must be legible when projected; balance Western tech credibility with Chinese market familiarity\\nAvoid: generic stock photos; overly decorative Chinese motifs; cluttered layouts; American-centric visual language; gradients that reduce text readability\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10015
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an educational knowledge card for children explaining the Three Kingdoms Battle of Red Cliffs story (all in-image text in Chinese).\n\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\nComposition: must be single large knowledge card format with clear title at top, bullet points listed beside main illustration\nSubject: must include the Battle of Red Cliffs (赤壁之战) story as the central narrative\nScene/backdrop: must depict the battle scene with boats, fire, and river setting in cartoon story style\nLighting/mood: needs an engaging, educational atmosphere suitable for children — exact tone is yours\nColor palette: needs a vibrant, child-friendly direction — exact color choices are yours\nMaterials/textures: needs a knowledge card paper texture — exact surface treatment is yours\nText (verbatim): must include \"赤壁之战\" as the main title; must include key story points with punctuation listed beside the illustration\nConstraints: must include all in-image text in Chinese by default; must be single card format; must clearly present story points with proper punctuation\nAvoid: must avoid overly violent or dark imagery unsuitable for children",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/08b1b453-895f-4433-b452-6a9bdedf36d6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an educational knowledge card for children explaining the Three Kingdoms Battle of Red Cliffs story (all in-image text in Chinese).\\n\\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\\nComposition: must be single large knowledge card format with clear title at top, bullet points listed beside main illustration\\nSubject: must include the Battle of Red Cliffs (赤壁之战) story as the central narrative\\nScene/backdrop: must depict the battle scene with boats, fire, and river setting in cartoon story style\\nLighting/mood: needs an engaging, educational atmosphere suitable for children — exact tone is yours\\nColor palette: needs a vibrant, child-friendly direction — exact color choices are yours\\nMaterials/textures: needs a knowledge card paper texture — exact surface treatment is yours\\nText (verbatim): must include \\\"赤壁之战\\\" as the main title; must include key story points with punctuation listed beside the illustration\\nConstraints: must include all in-image text in Chinese by default; must be single card format; must clearly present story points with proper punctuation\\nAvoid: must avoid overly violent or dark imagery unsuitable for children\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13278
+}

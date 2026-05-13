@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID card for a fictional tech company inspired by ByteDance, showing both front and back sides.\n\nStyle/medium: needs a realistic corporate ID card aesthetic — exact stylistic execution is yours\nComposition: must include front side and back side of the ID card, both visible\nSubject: must include employee ID card layout with photo placeholder, name field, employee number, company logo area, and card back with information fields\nScene/backdrop: \nLighting/mood: needs a realistic lighting atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a realistic plastic card surface treatment — exact sheen and texture details are yours\nText (verbatim): must include \"字节期动\" (company name on card)\nConstraints: must preserve both front and back sides visible, realistic ID card proportions and layout\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0c5ace5a-84ce-425b-b6a5-380d6586d54d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing employee ID card for a fictional tech company inspired by ByteDance, showing both front and back sides.\\n\\nStyle/medium: needs a realistic corporate ID card aesthetic — exact stylistic execution is yours\\nComposition: must include front side and back side of the ID card, both visible\\nSubject: must include employee ID card layout with photo placeholder, name field, employee number, company logo area, and card back with information fields\\nScene/backdrop: \\nLighting/mood: needs a realistic lighting atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a realistic plastic card surface treatment — exact sheen and texture details are yours\\nText (verbatim): must include \\\"字节期动\\\" (company name on card)\\nConstraints: must preserve both front and back sides visible, realistic ID card proportions and layout\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11741
+}

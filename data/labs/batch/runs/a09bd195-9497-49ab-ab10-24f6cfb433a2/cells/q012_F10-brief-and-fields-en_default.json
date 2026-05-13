@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic still of a dark gothic castle interior with towering vaulted ceilings.\n\nStyle/medium: dark gothic fantasy illustration, moody atmospheric rendering inspired by classic gothic architecture and horror cinema\nComposition: low-angle wide shot looking up at vaulted ceiling, emphasizing vertical scale and imposing architecture\nSubject: ornate gothic cathedral interior with soaring ribbed vaults, pointed arches, stone pillars\nScene/backdrop: gothic castle interior, massive stone walls, intricate architectural details\nLighting/mood: blood-red light streaming through stained glass windows, heavy shadows, candlelight from candelabras, mysterious and oppressive atmosphere\nColor palette: deep crimson red as dominant accent, dark charcoal and black shadows, warm amber candlelight highlights\nMaterials/textures: weathered stone surfaces, iron chains, aged metal candelabras, colored glass with religious imagery\nAvoid: bright cheerful lighting, modern elements, clean pristine surfaces, 8K stuffer words, generic fantasy aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/af394e42-dcb3-4e64-a83f-7719074bcb96/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing cinematic still of a dark gothic castle interior with towering vaulted ceilings.\\n\\nStyle/medium: dark gothic fantasy illustration, moody atmospheric rendering inspired by classic gothic architecture and horror cinema\\nComposition: low-angle wide shot looking up at vaulted ceiling, emphasizing vertical scale and imposing architecture\\nSubject: ornate gothic cathedral interior with soaring ribbed vaults, pointed arches, stone pillars\\nScene/backdrop: gothic castle interior, massive stone walls, intricate architectural details\\nLighting/mood: blood-red light streaming through stained glass windows, heavy shadows, candlelight from candelabras, mysterious and oppressive atmosphere\\nColor palette: deep crimson red as dominant accent, dark charcoal and black shadows, warm amber candlelight highlights\\nMaterials/textures: weathered stone surfaces, iron chains, aged metal candelabras, colored glass with religious imagery\\nAvoid: bright cheerful lighting, modern elements, clean pristine surfaces, 8K stuffer words, generic fantasy aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8981
+}

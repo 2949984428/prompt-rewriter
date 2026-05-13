@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a concept art illustration of a futuristic cyberpunk city at night (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"赛博朋克\" (cyberpunk) aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include towering skyscrapers, flying cars weaving through them\nScene/backdrop: must include a futuristic cityscape at night with neon lights, acid rain falling from the sky, puddles on the ground reflecting lights\nLighting/mood: needs a high-tech yet decadent atmosphere — exact light source mix is yours\nColor palette: must be blue-purple dominant direction — exact hex values and ratios are yours\nMaterials/textures: needs a wet, reflective surface treatment — exact sheen level is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c26ff6c5-1eac-43aa-bfa8-ca7da2043ada/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a concept art illustration of a futuristic cyberpunk city at night (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"赛博朋克\\\" (cyberpunk) aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include towering skyscrapers, flying cars weaving through them\\nScene/backdrop: must include a futuristic cityscape at night with neon lights, acid rain falling from the sky, puddles on the ground reflecting lights\\nLighting/mood: needs a high-tech yet decadent atmosphere — exact light source mix is yours\\nColor palette: must be blue-purple dominant direction — exact hex values and ratios are yours\\nMaterials/textures: needs a wet, reflective surface treatment — exact sheen level is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14386
+}

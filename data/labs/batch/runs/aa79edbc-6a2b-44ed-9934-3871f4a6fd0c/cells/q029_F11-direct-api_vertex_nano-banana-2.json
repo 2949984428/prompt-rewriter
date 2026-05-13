@@ -1,0 +1,23 @@
+{
+  "query_idx": 29,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:B-FORNECIDA][@image:#2:Captura de tela 2026-03-26 162023] USE A LETRA B FORNECIDA , UMA SERIF ELEGANTE E CRIE UM LOGO COMO EDSSE QUE TEM UM OLHO NO MEIO.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae77de770-659c-4c2e-8b0e-e59667b01d5e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:B-FORNECIDA][@image:#2:Captura de tela 2026-03-26 162023] USE A LETRA B FORNECIDA , UMA SERIF ELEGANTE E CRIE UM LOGO COMO EDSSE QUE TEM UM OLHO NO MEIO.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3384,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

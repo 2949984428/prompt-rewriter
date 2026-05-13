@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand exposure marketing poster for OPPO Find X9 Ultra full-screen display.\n\nStyle/medium: high-impact commercial advertising poster, clean tech aesthetic with premium product photography\nComposition: vertical 9:16 format (1080×1920), full-bleed product showcase, centered hero shot with generous negative space\nSubject: OPPO Find X9 Ultra smartphone, edge-to-edge full-screen display, sleek modern design, premium finish\nScene/backdrop: minimal gradient or abstract tech-inspired background, no distracting elements, focus entirely on device\nLighting/mood: dramatic studio lighting with soft reflections, premium luxury feel, subtle rim light highlighting device edges\nColor palette: OPPO brand colors (green/white) or premium dark tones with accent highlights, high contrast for visual punch\nText (verbatim): \"OPPO Find X9 Ultra\"\nConstraints: must work as full-screen mobile wallpaper/ad format at 1080×1920; brand name must be prominent and legible\nAvoid: cluttered backgrounds, generic stock photo aesthetic, watermarks, low contrast, deformed product proportions",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b75a006e-8696-410f-be6f-6c168356cdcd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a brand exposure marketing poster for OPPO Find X9 Ultra full-screen display.\\n\\nStyle/medium: high-impact commercial advertising poster, clean tech aesthetic with premium product photography\\nComposition: vertical 9:16 format (1080×1920), full-bleed product showcase, centered hero shot with generous negative space\\nSubject: OPPO Find X9 Ultra smartphone, edge-to-edge full-screen display, sleek modern design, premium finish\\nScene/backdrop: minimal gradient or abstract tech-inspired background, no distracting elements, focus entirely on device\\nLighting/mood: dramatic studio lighting with soft reflections, premium luxury feel, subtle rim light highlighting device edges\\nColor palette: OPPO brand colors (green/white) or premium dark tones with accent highlights, high contrast for visual punch\\nText (verbatim): \\\"OPPO Find X9 Ultra\\\"\\nConstraints: must work as full-screen mobile wallpaper/ad format at 1080×1920; brand name must be prominent and legible\\nAvoid: cluttered backgrounds, generic stock photo aesthetic, watermarks, low contrast, deformed product proportions\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9866
+}

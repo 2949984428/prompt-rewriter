@@ -1,0 +1,23 @@
+{
+  "query_idx": 170,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成亚马逊产品套图。\n\n风格/媒介: 电商产品图\n构图:\n  亚马逊套图多张构图方向各异\n主体: 参考图中的产品\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束: 符合亚马逊电商图规范，主图白底，套图可含场景图\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A45ccae19-a0e1-438c-b579-99ceeb0df8d5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成亚马逊产品套图。\\n\\n风格/媒介: 电商产品图\\n构图:\\n  亚马逊套图多张构图方向各异\\n主体: 参考图中的产品\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束: 符合亚马逊电商图规范，主图白底，套图可含场景图\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5147,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

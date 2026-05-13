@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a full-screen brand advertisement displayed as a smartphone screenshot for OPPO Find X9, prioritizing visual impact and brand exposure.\n\nStyle/medium: \nComposition: full-screen vertical layout, smartphone screenshot frame\nSubject: OPPO Find X9\nScene/backdrop: \nLighting/mood: high visual impact\nColor palette: \nMaterials/textures: \nText (verbatim): \"OPPO Find X9\"\nConstraints: 1080×1920 aspect ratio, brand exposure campaign\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/88499cf2-9f79-4132-86e0-62f78a2bd201/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate a full-screen brand advertisement displayed as a smartphone screenshot for OPPO Find X9, prioritizing visual impact and brand exposure.\\n\\nStyle/medium: \\nComposition: full-screen vertical layout, smartphone screenshot frame\\nSubject: OPPO Find X9\\nScene/backdrop: \\nLighting/mood: high visual impact\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"OPPO Find X9\\\"\\nConstraints: 1080×1920 aspect ratio, brand exposure campaign\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8453
+}

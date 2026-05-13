@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original photorealistic editorial photo for a Weibo news/trending-topic banner image, strictly 16:9 horizontal format.\n\nStyle/medium: needs a photojournalistic documentary aesthetic, like a high-end candid shot taken on a smartphone at the scene — exact execution is yours\nComposition: must be wide horizontal banner with generous negative space for text overlay; city skyline as primary frame\nSubject: must include a city dusk skyline with neon lights gradually illuminating, hurrying pedestrians in the foreground, and distant skyscrapers reflecting the last light of sunset\nScene/backdrop: must include an urban street-level scene at golden hour / dusk transition, with neon signs beginning to glow and warm sunset reflections on glass towers\nLighting/mood: needs a dramatic, high-contrast light atmosphere — warm sunset glow colliding with cool neon — exact light source mix is yours\nColor palette: needs a direction of warm amber sunset against cool neon blues and purples — exact ratios are yours\nMaterials/textures: needs sharp, crisp detail rendering with strong sense of physical presence — exact grain and sheen are yours\nText (verbatim): must include all three text elements:\n  - Main headline (prominent position, bold gothic or modern typeface): \"城市里的安静时刻\"\n  - Subtext: \"黄昏，总能治愈一天的匆忙\"\n  - Watermark (bottom-right corner): \"@龙爪槐守望者real · 生活观察\"\nConstraints: must preserve strict 16:9 horizontal ratio; text must be legible against the image; headline in most visually prominent position\nAvoid: staged or overly polished commercial look; avoid cluttered composition that leaves no room for text",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b5fa3818-0825-4450-bb4a-afa09c3b0478/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original photorealistic editorial photo for a Weibo news/trending-topic banner image, strictly 16:9 horizontal format.\\n\\nStyle/medium: needs a photojournalistic documentary aesthetic, like a high-end candid shot taken on a smartphone at the scene — exact execution is yours\\nComposition: must be wide horizontal banner with generous negative space for text overlay; city skyline as primary frame\\nSubject: must include a city dusk skyline with neon lights gradually illuminating, hurrying pedestrians in the foreground, and distant skyscrapers reflecting the last light of sunset\\nScene/backdrop: must include an urban street-level scene at golden hour / dusk transition, with neon signs beginning to glow and warm sunset reflections on glass towers\\nLighting/mood: needs a dramatic, high-contrast light atmosphere — warm sunset glow colliding with cool neon — exact light source mix is yours\\nColor palette: needs a direction of warm amber sunset against cool neon blues and purples — exact ratios are yours\\nMaterials/textures: needs sharp, crisp detail rendering with strong sense of physical presence — exact grain and sheen are yours\\nText (verbatim): must include all three text elements:\\n  - Main headline (prominent position, bold gothic or modern typeface): \\\"城市里的安静时刻\\\"\\n  - Subtext: \\\"黄昏，总能治愈一天的匆忙\\\"\\n  - Watermark (bottom-right corner): \\\"@龙爪槐守望者real · 生活观察\\\"\\nConstraints: must preserve strict 16:9 horizontal ratio; text must be legible against the image; headline in most visually prominent position\\nAvoid: staged or overly polished commercial look; avoid cluttered composition that leaves no room for text\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12858
+}

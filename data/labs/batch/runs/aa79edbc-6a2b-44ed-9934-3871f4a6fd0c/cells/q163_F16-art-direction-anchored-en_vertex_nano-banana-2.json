@@ -1,0 +1,23 @@
+{
+  "query_idx": 163,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑参考图中左边的钥匙扣，生成一张电商白底主图。\n\n风格/媒介:电商产品主图，photorealistic\n构图:主体居中，1:1 画面\n主体:左边的钥匙扣\n场景/背景:纯白色背景，RGB(255,255,255)\n光线/氛围:\n色彩方案:背景纯白 RGB(255,255,255)\n材质/纹理:\n文字(原样):\n约束:\n  无阴影\n  符合亚马逊主图规范\n  仅呈现左边的钥匙扣，不含其他产品\n避免:阴影、灰色背景、渐变背景、多余道具",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Adbd6f35e-ae69-404a-8f35-1d015363da12/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑参考图中左边的钥匙扣，生成一张电商白底主图。\\n\\n风格/媒介:电商产品主图，photorealistic\\n构图:主体居中，1:1 画面\\n主体:左边的钥匙扣\\n场景/背景:纯白色背景，RGB(255,255,255)\\n光线/氛围:\\n色彩方案:背景纯白 RGB(255,255,255)\\n材质/纹理:\\n文字(原样):\\n约束:\\n  无阴影\\n  符合亚马逊主图规范\\n  仅呈现左边的钥匙扣，不含其他产品\\n避免:阴影、灰色背景、渐变背景、多余道具\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5240,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

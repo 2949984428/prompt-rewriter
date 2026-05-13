@@ -1,0 +1,23 @@
+{
+  "query_idx": 19,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "品牌名称：千亿家 英文名：Qianyi Haven\n品牌logo希望以简约的猫咪与家的结合，可以和名称结合在一起",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A41b7263e-aa4a-48ff-ae30-23f8fa9cadc7/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"品牌名称：千亿家 英文名：Qianyi Haven\\n品牌logo希望以简约的猫咪与家的结合，可以和名称结合在一起\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3644,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

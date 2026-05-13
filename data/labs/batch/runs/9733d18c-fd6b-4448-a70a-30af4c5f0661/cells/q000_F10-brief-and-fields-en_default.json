@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a pristine old-growth forest at dawn with dramatic natural lighting.\n\nStyle/medium: photorealistic landscape photography, Ansel Adams-inspired tonal range, wide-angle nature documentary\nComposition: wide-angle shot at forest floor level, 16-35mm lens, pronounced depth of field with foreground-to-background layering, low vantage point\nSubject: ancient moss-covered boulders, foreground ferns and wild mushrooms, towering redwood trunks rising vertically, distant mountain silhouettes\nScene/backdrop: dense primeval forest interior, early morning atmosphere with lingering mist, winding clear mountain stream reflecting greenery\nLighting/mood: first morning sunlight piercing through dense canopy creating visible Tyndall light rays (god rays), soft diffused ambient light mixed with directional sunbeams, mysterious and serene mood\nColor palette: deep forest green as base, emerald green midtones, golden sunlight highlights as accent, rich tonal gradation\nMaterials/textures: velvety moss on weathered stone, delicate fern fronds, smooth water surface with reflections, rough redwood bark\nAvoid: oversaturated colors, artificial sharpening halos, watermark, plastic-looking vegetation, cartoonish rendering",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0a3419fd-74d5-4646-a027-f6c48b8e6e0a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a pristine old-growth forest at dawn with dramatic natural lighting.\\n\\nStyle/medium: photorealistic landscape photography, Ansel Adams-inspired tonal range, wide-angle nature documentary\\nComposition: wide-angle shot at forest floor level, 16-35mm lens, pronounced depth of field with foreground-to-background layering, low vantage point\\nSubject: ancient moss-covered boulders, foreground ferns and wild mushrooms, towering redwood trunks rising vertically, distant mountain silhouettes\\nScene/backdrop: dense primeval forest interior, early morning atmosphere with lingering mist, winding clear mountain stream reflecting greenery\\nLighting/mood: first morning sunlight piercing through dense canopy creating visible Tyndall light rays (god rays), soft diffused ambient light mixed with directional sunbeams, mysterious and serene mood\\nColor palette: deep forest green as base, emerald green midtones, golden sunlight highlights as accent, rich tonal gradation\\nMaterials/textures: velvety moss on weathered stone, delicate fern fronds, smooth water surface with reflections, rough redwood bark\\nAvoid: oversaturated colors, artificial sharpening halos, watermark, plastic-looking vegetation, cartoonish rendering\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11231
+}

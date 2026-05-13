@@ -1,0 +1,23 @@
+{
+  "query_idx": 244,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（#1:Gemini_Generated_Image_3odpof3odpof3odp）。\n\n风格/媒介:\n构图:\n主体:保持原始主体自然不变\n场景/背景:\n光线/氛围:柔和均衡的光线，轻微景深感\n色彩方案:保留原始色彩，调整亮度与对比度使画面干净清爽\n材质/纹理:增强细节清晰度，添加细腻精致的阴影\n文字(原样):\n约束:\n  保留所有原始细节与色彩\n  主体保持自然不变\n  Instagram 竖版比例（1080×1350）\n避免:过度处理导致主体失真或色彩偏移",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af7bb2b60-c345-4193-a9a1-955a7caf2136/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（#1:Gemini_Generated_Image_3odpof3odpof3odp）。\\n\\n风格/媒介:\\n构图:\\n主体:保持原始主体自然不变\\n场景/背景:\\n光线/氛围:柔和均衡的光线，轻微景深感\\n色彩方案:保留原始色彩，调整亮度与对比度使画面干净清爽\\n材质/纹理:增强细节清晰度，添加细腻精致的阴影\\n文字(原样):\\n约束:\\n  保留所有原始细节与色彩\\n  主体保持自然不变\\n  Instagram 竖版比例（1080×1350）\\n避免:过度处理导致主体失真或色彩偏移\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 9116,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 5,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "手绘风格信息图，教育科普类，浅色纸张纹理背景，手绘线条和箭头，彩色马克笔标注，圆角矩形框和云朵形状文本框，包含以下概念及其关系：\n\n概念节点（按层级排列）：\n1. 【AI / 人工智能】- 最顶层大概念，云朵形状框，淡蓝色填充\n2. 【AI Agent / AI智能体】- AI的子集，圆角矩形，绿色\n3. 【MCP / Model Context Protocol】- 连接AI Agent与外部世界的协议，黄色框，双向箭头指向AI Agent和外部工具\n4. 【OpenClaw】- MCP的开源实现/框架，紫色框，虚线箭头从MCP指向它\n5. 【AI Skill / AI技能】- AI Agent的能力单元，橙色小框，多个从AI Agent发散出来\n6. 【蒸馏 / Distillation】- 模型压缩技术，粉色框，独立分支，用箭头连接到AI（表示大模型变小模型的过程）\n7. 【CLI / 命令行界面】- 交互方式，灰色框，双向箭头连接OpenClaw（表示开发者通过CLI使用OpenClaw）\n\n关系连线：\n- AI → AI Agent（实线箭头，包含关系）\n- AI Agent ↔ MCP（实线，协议连接）\n- MCP → OpenClaw（虚线，实现关系）\n- AI Agent → AI Skill（多条发散线，能力分解）\n- AI → 蒸馏（曲线箭头，技术分支）\n- OpenClaw ↔ CLI（双向箭头，交互接口）\n\n视觉元素：\n- 每个概念配简单手绘图标（AI画大脑、Agent画机器人、MCP画插头、OpenClaw画爪子、Skill画工具箱、蒸馏画漏斗、CLI画终端窗口）\n- 箭头旁有简短中文说明文字\n- 整体布局呈树状+网状混合，中心偏左\n- 手绘阴影效果，纸张微黄质感\n- 标题：「AI技术概念关系图」手写体\n\n风格关键词：hand-drawn infographic, sketch style, marker pen colors, paper texture, educational diagram, simple icons, connection arrows, soft shadows, warm color palette, clean layout, easy to understand, Chinese text labels",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0ee679f7-8b49-4e5c-af89-4852da3e97fe/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"手绘风格信息图，教育科普类，浅色纸张纹理背景，手绘线条和箭头，彩色马克笔标注，圆角矩形框和云朵形状文本框，包含以下概念及其关系：\\n\\n概念节点（按层级排列）：\\n1. 【AI / 人工智能】- 最顶层大概念，云朵形状框，淡蓝色填充\\n2. 【AI Agent / AI智能体】- AI的子集，圆角矩形，绿色\\n3. 【MCP / Model Context Protocol】- 连接AI Agent与外部世界的协议，黄色框，双向箭头指向AI Agent和外部工具\\n4. 【OpenClaw】- MCP的开源实现/框架，紫色框，虚线箭头从MCP指向它\\n5. 【AI Skill / AI技能】- AI Agent的能力单元，橙色小框，多个从AI Agent发散出来\\n6. 【蒸馏 / Distillation】- 模型压缩技术，粉色框，独立分支，用箭头连接到AI（表示大模型变小模型的过程）\\n7. 【CLI / 命令行界面】- 交互方式，灰色框，双向箭头连接OpenClaw（表示开发者通过CLI使用OpenClaw）\\n\\n关系连线：\\n- AI → AI Agent（实线箭头，包含关系）\\n- AI Agent ↔ MCP（实线，协议连接）\\n- MCP → OpenClaw（虚线，实现关系）\\n- AI Agent → AI Skill（多条发散线，能力分解）\\n- AI → 蒸馏（曲线箭头，技术分支）\\n- OpenClaw ↔ CLI（双向箭头，交互接口）\\n\\n视觉元素：\\n- 每个概念配简单手绘图标（AI画大脑、Agent画机器人、MCP画插头、OpenClaw画爪子、Skill画工具箱、蒸馏画漏斗、CLI画终端窗口）\\n- 箭头旁有简短中文说明文字\\n- 整体布局呈树状+网状混合，中心偏左\\n- 手绘阴影效果，纸张微黄质感\\n- 标题：「AI技术概念关系图」手写体\\n\\n风格关键词：hand-drawn infographic, sketch style, marker pen colors, paper texture, educational diagram, simple icons, connection arrows, soft shadows, warm color palette, clean layout, easy to understand, Chinese text labels\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13139
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 9:16 vertical screenshot of a Douyin livestream featuring \"神仙姐姐\" (Fairy Sister).\n\nStyle/medium: needs a livestream UI aesthetic — references in the spirit of Douyin/TikTok interface design language, Chinese influencer livestream visual culture, 2020s mobile streaming app interfaces; exact stylistic execution is yours\nComposition: must be 9:16 vertical frame with livestream interface elements (comments, likes, gift buttons visible)\nSubject: must include \"神仙姐姐\" as the streamer, holding a sign\nScene/backdrop: must be a livestream room setting with typical Douyin UI overlay\nLighting/mood: needs a warm, engaging livestream atmosphere — exact light source mix is yours\nColor palette: needs a vibrant livestream direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign\nConstraints: must preserve 9:16 aspect ratio, livestream UI elements visible, sign clearly readable\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b1954c46-7fef-4365-a489-714179a20154/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a 9:16 vertical screenshot of a Douyin livestream featuring \\\"神仙姐姐\\\" (Fairy Sister).\\n\\nStyle/medium: needs a livestream UI aesthetic — references in the spirit of Douyin/TikTok interface design language, Chinese influencer livestream visual culture, 2020s mobile streaming app interfaces; exact stylistic execution is yours\\nComposition: must be 9:16 vertical frame with livestream interface elements (comments, likes, gift buttons visible)\\nSubject: must include \\\"神仙姐姐\\\" as the streamer, holding a sign\\nScene/backdrop: must be a livestream room setting with typical Douyin UI overlay\\nLighting/mood: needs a warm, engaging livestream atmosphere — exact light source mix is yours\\nColor palette: needs a vibrant livestream direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign\\nConstraints: must preserve 9:16 aspect ratio, livestream UI elements visible, sign clearly readable\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11469
+}

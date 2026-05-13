@@ -1,0 +1,23 @@
+{
+  "query_idx": 239,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张公司组建旅行出游运营海报。\n\n风格/媒介:大厂运营风格\n构图:\n主体:公司组团旅行出游主题海报\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n避免:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acdb3ef11-514c-4b1e-baec-4756c48db22b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张公司组建旅行出游运营海报。\\n\\n风格/媒介:大厂运营风格\\n构图:\\n主体:公司组团旅行出游主题海报\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8388,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

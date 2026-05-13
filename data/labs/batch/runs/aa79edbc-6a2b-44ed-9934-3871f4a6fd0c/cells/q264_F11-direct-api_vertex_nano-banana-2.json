@@ -1,0 +1,23 @@
+{
+  "query_idx": 264,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:米凯罗立夏日系电影感海报_运动场景][@image:#2:时代啤酒立夏日系电影感海报_最终版][@image:#3:科罗娜立夏日系电影感海报_最终版] 这是组系列海报，产品在画面里的位置及大小几乎一致。颜色调成统一的夏日日系电影感，发布在小红书。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7e9cb7a8-76fe-4831-a32d-23a8d2ad941e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:米凯罗立夏日系电影感海报_运动场景][@image:#2:时代啤酒立夏日系电影感海报_最终版][@image:#3:科罗娜立夏日系电影感海报_最终版] 这是组系列海报，产品在画面里的位置及大小几乎一致。颜色调成统一的夏日日系电影感，发布在小红书。\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4009,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

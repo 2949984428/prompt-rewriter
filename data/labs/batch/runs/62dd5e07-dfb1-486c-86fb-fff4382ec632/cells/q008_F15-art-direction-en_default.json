@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a cross-border e-commerce campaign, designed at 16:9 aspect ratio.\n\nStyle/medium: needs a visually rich, editorial promotional poster aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include layered typographic stacking with product/hero subject physically overlapping and occluding portions of the background lettering\nSubject: must include a product or hero subject as the focal element that partially covers the stacked type\nScene/backdrop: \nLighting/mood: needs an energetic, attention-grabbing promotional atmosphere — exact light treatment is yours\nColor palette: needs a bold, high-impact direction suited to cross-border e-commerce promotion — exact palette is yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include decorative art lettering (艺术字); must include font/type stacking layers; composition must feel complex and layered but visually organized — not chaotic; product or main subject must overlap and partially obscure some of the typographic elements\nAvoid: flat or sparse layouts; cluttered illegible mess",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3e8914c9-5517-426c-be8c-b4c68fed8470/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a cross-border e-commerce campaign, designed at 16:9 aspect ratio.\\n\\nStyle/medium: needs a visually rich, editorial promotional poster aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include layered typographic stacking with product/hero subject physically overlapping and occluding portions of the background lettering\\nSubject: must include a product or hero subject as the focal element that partially covers the stacked type\\nScene/backdrop: \\nLighting/mood: needs an energetic, attention-grabbing promotional atmosphere — exact light treatment is yours\\nColor palette: needs a bold, high-impact direction suited to cross-border e-commerce promotion — exact palette is yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include decorative art lettering (艺术字); must include font/type stacking layers; composition must feel complex and layered but visually organized — not chaotic; product or main subject must overlap and partially obscure some of the typographic elements\\nAvoid: flat or sparse layouts; cluttered illegible mess\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7840
+}

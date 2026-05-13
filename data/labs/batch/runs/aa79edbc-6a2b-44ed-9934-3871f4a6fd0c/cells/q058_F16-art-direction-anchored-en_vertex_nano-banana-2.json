@@ -1,0 +1,23 @@
+{
+  "query_idx": 58,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计品牌VI手册展示页 —— 渡安舟 (ANCHOR HEALTH) 品牌视觉识别系统。\n\n风格/媒介: 极致扁平化 (Flat Design)；老钱风 (Old Money)；东方美学；投资级权威感；治愈、生机、沉稳、中草药底蕴\n构图:\n  竖版手册展示排版\n  顶部展示品牌标志竖版组合：独立徽章居中（圆形底板 + 居中 Anchor 锚形图形，图形主轴悬空，U 型底座外缘收尖）+ 下方居中排列中英文品牌名\n  中部展示色彩系统色板：草木青黛 #1B2E17、暖阳金黄 #EAA236、生机嫩绿 #CBE396、本草暖沙 #EBE7E0、晨雾白 #F8FAF7\n  下部展示标准横版组合：左侧独立徽章 + 细分隔线 + 右侧中英文品牌名\n  整体保持净空区，各模块间留足呼吸空间\n主体:\n  Logo 独立徽章：嫩绿圆底 (#CBE396) + 青黛锚形图形 (#1B2E17)，以及暗黑版：青黛圆底 (#1B2E17) + 暖金锚形图形 (#EAA236)，两款并列展示\n  中文主标\"渡安舟\"：思源宋体风格粗体衬线字，斜体，颜色 #1B2E17\n  英文副标\"ANCHOR HEALTH\"：无衬线体，全部大写，字间距极限拉宽，颜色 #1B2E17\n  Slogan 中文：\"以食作楫，以安为舟。\"\n  Slogan 英文：\"Nourish to Navigate, Anchor in Wellness.\"\n场景/背景: 晨雾白 #F8FAF7 大底色，局部使用本草暖沙 #EBE7E0 卡片底色\n光线/氛围: 无阴影、无渐变、无浮雕；医疗级洁净空间感；权威克制\n色彩方案:\n  主色：草木青黛 #1B2E17、暖阳金黄 #EAA236\n  辅色：生机嫩绿 #CBE396、本草暖沙 #EBE7E0、晨雾白 #F8FAF7\n  严格使用以上五色，不引入其他颜色\n材质/纹理: 纯平面无纹理；禁止投影、渐变、3D 高光、浮雕\n文字(原样):\n  渡安舟\n  ANCHOR HEALTH\n  以食作楫，以安为舟。\n  Nourish to Navigate, Anchor in Wellness.\n约束:\n  所有图形必须极致扁平化\n  Anchor 图形不得脱离圆形底板单独使用\n  不得填充 Anchor 的透气间隙\n  不得拉伸、压扁任何标志图形或字体\n  不得添加投影、渐变、3D 高光\n  标志四周保持净空区\n避免: 复杂背景；杂乱装饰；写实质感；渐变色；投影；非品牌规范色彩",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A61584d7b-eeb3-4fa2-99a8-aac11ade81db/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计品牌VI手册展示页 —— 渡安舟 (ANCHOR HEALTH) 品牌视觉识别系统。\\n\\n风格/媒介: 极致扁平化 (Flat Design)；老钱风 (Old Money)；东方美学；投资级权威感；治愈、生机、沉稳、中草药底蕴\\n构图:\\n  竖版手册展示排版\\n  顶部展示品牌标志竖版组合：独立徽章居中（圆形底板 + 居中 Anchor 锚形图形，图形主轴悬空，U 型底座外缘收尖）+ 下方居中排列中英文品牌名\\n  中部展示色彩系统色板：草木青黛 #1B2E17、暖阳金黄 #EAA236、生机嫩绿 #CBE396、本草暖沙 #EBE7E0、晨雾白 #F8FAF7\\n  下部展示标准横版组合：左侧独立徽章 + 细分隔线 + 右侧中英文品牌名\\n  整体保持净空区，各模块间留足呼吸空间\\n主体:\\n  Logo 独立徽章：嫩绿圆底 (#CBE396) + 青黛锚形图形 (#1B2E17)，以及暗黑版：青黛圆底 (#1B2E17) + 暖金锚形图形 (#EAA236)，两款并列展示\\n  中文主标\\\"渡安舟\\\"：思源宋体风格粗体衬线字，斜体，颜色 #1B2E17\\n  英文副标\\\"ANCHOR HEALTH\\\"：无衬线体，全部大写，字间距极限拉宽，颜色 #1B2E17\\n  Slogan 中文：\\\"以食作楫，以安为舟。\\\"\\n  Slogan 英文：\\\"Nourish to Navigate, Anchor in Wellness.\\\"\\n场景/背景: 晨雾白 #F8FAF7 大底色，局部使用本草暖沙 #EBE7E0 卡片底色\\n光线/氛围: 无阴影、无渐变、无浮雕；医疗级洁净空间感；权威克制\\n色彩方案:\\n  主色：草木青黛 #1B2E17、暖阳金黄 #EAA236\\n  辅色：生机嫩绿 #CBE396、本草暖沙 #EBE7E0、晨雾白 #F8FAF7\\n  严格使用以上五色，不引入其他颜色\\n材质/纹理: 纯平面无纹理；禁止投影、渐变、3D 高光、浮雕\\n文字(原样):\\n  渡安舟\\n  ANCHOR HEALTH\\n  以食作楫，以安为舟。\\n  Nourish to Navigate, Anchor in Wellness.\\n约束:\\n  所有图形必须极致扁平化\\n  Anchor 图形不得脱离圆形底板单独使用\\n  不得填充 Anchor 的透气间隙\\n  不得拉伸、压扁任何标志图形或字体\\n  不得添加投影、渐变、3D 高光\\n  标志四周保持净空区\\n避免: 复杂背景；杂乱装饰；写实质感；渐变色；投影；非品牌规范色彩\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 19576,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

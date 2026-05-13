@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: medical education illustration, educational poster\nPrimary request: 3D medical illustration of human cardiovascular system with cross-sectional heart anatomy\nScene/backdrop: dark gradient background, anatomical diagram layout with label space reserved\nSubject: human heart cut open showing four chambers (left/right atrium, left/right ventricle), valve positions and morphology, aorta, pulmonary artery, superior/inferior vena cava\nStyle/medium: highly realistic medical illustration, Netter-style anatomical accuracy combined with modern 3D rendering\nComposition/framing: centered anatomical view, clear cross-sectional perspective showing internal structures\nLighting/mood: clinical studio lighting, dramatic rim lighting to highlight anatomical details\nColor palette: arterial system vivid red, venous system deep blue, coronary arteries highlighted in gold, dark background\nMaterials/textures: realistic myocardial fiber texture visible, smooth vessel surfaces, 3D rendered anatomical precision\nText (verbatim): \"标注文字预留空间\"\nConstraints: preserve Netter medical illustration accuracy, show blood flow direction with arrows and dynamic light effects, coronary artery paths highlighted in gold on heart surface\nAvoid: cartoonish simplification, inaccurate anatomy, cluttered composition, distracting background elements, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/98b23338-9707-4952-8945-f92f4a9c1d11/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: medical education illustration, educational poster\\nPrimary request: 3D medical illustration of human cardiovascular system with cross-sectional heart anatomy\\nScene/backdrop: dark gradient background, anatomical diagram layout with label space reserved\\nSubject: human heart cut open showing four chambers (left/right atrium, left/right ventricle), valve positions and morphology, aorta, pulmonary artery, superior/inferior vena cava\\nStyle/medium: highly realistic medical illustration, Netter-style anatomical accuracy combined with modern 3D rendering\\nComposition/framing: centered anatomical view, clear cross-sectional perspective showing internal structures\\nLighting/mood: clinical studio lighting, dramatic rim lighting to highlight anatomical details\\nColor palette: arterial system vivid red, venous system deep blue, coronary arteries highlighted in gold, dark background\\nMaterials/textures: realistic myocardial fiber texture visible, smooth vessel surfaces, 3D rendered anatomical precision\\nText (verbatim): \\\"标注文字预留空间\\\"\\nConstraints: preserve Netter medical illustration accuracy, show blood flow direction with arrows and dynamic light effects, coronary artery paths highlighted in gold on heart surface\\nAvoid: cartoonish simplification, inaccurate anatomy, cluttered composition, distracting background elements, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10628
+}

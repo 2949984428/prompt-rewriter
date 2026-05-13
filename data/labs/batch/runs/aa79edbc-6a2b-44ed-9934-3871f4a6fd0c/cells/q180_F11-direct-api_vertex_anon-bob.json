@@ -1,0 +1,23 @@
+{
+  "query_idx": 180,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Amazon_Main_Image_Auto_Waterer_v12] 请生成亚马逊美国站一张主图，纯白背景（\n#FFFFFF），画面主体为4个同款自动浇水器整齐陈列，画面中心展示4个装透明自动浇水器（两行摆放，每行各2个直立摆放，大小与透视自然一致，间距均衡，无遮挡）产品外观必须与提供的产品图完全一致（the provided product image is the exact reference），禁止任何再设计（no redesign, no reimagining），不得改变颜色、材质、结构、比例与细节，仅允许调整拍摄角度、光线、背景与摆放；采用真实电商商业摄影风格，高清锐利、干净阴影、轻微反射",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4c38cdb5-7210-42cc-8526-80e30440c1b5/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Amazon_Main_Image_Auto_Waterer_v12] 请生成亚马逊美国站一张主图，纯白背景（#FFFFFF），画面主体为4个同款自动浇水器整齐陈列，画面中心展示4个装透明自动浇水器（两行摆放，每行各2个直立摆放，大小与透视自然一致，间距均衡，无遮挡）产品外观必须与提供的产品图完全一致（the provided product image is the exact reference），禁止任何再设计（no redesign, no reimagining），不得改变颜色、材质、结构、比例与细节，仅允许调整拍摄角度、光线、背景与摆放；采用真实电商商业摄影风格，高清锐利、干净阴影、轻微反射\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4308,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

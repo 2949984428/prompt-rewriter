@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Xiaohongshu (Little Red Book) cover image for a pearl milk tea recommendation post (all in-image text in Chinese).\n\nStyle/medium: needs a \"粉色少女风\" aesthetic — references in the spirit of 2010s Tumblr soft girl visual culture, Sanrio kawaii palette heritage, Petra Collins (intimate 2010s film); exact stylistic execution is yours\nComposition: \nSubject: must include pearl milk tea (珍珠奶茶) as the focal subject\nScene/backdrop: needs a summer coolness atmosphere — exact setting is yours\nLighting/mood: needs a \"夏日清凉感\" atmosphere — exact light source mix is yours\nColor palette: needs a pink direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/021f7ed0-9007-471e-9a31-2a859bc7873c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a Xiaohongshu (Little Red Book) cover image for a pearl milk tea recommendation post (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"粉色少女风\\\" aesthetic — references in the spirit of 2010s Tumblr soft girl visual culture, Sanrio kawaii palette heritage, Petra Collins (intimate 2010s film); exact stylistic execution is yours\\nComposition: \\nSubject: must include pearl milk tea (珍珠奶茶) as the focal subject\\nScene/backdrop: needs a summer coolness atmosphere — exact setting is yours\\nLighting/mood: needs a \\\"夏日清凉感\\\" atmosphere — exact light source mix is yours\\nColor palette: needs a pink direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9125
+}

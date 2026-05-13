@@ -1,0 +1,23 @@
+{
+  "query_idx": 33,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:22fbfba76053f676fc28b6427d4b1aaf] 生成矢量图形的企业logo",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa001074c-6bc4-494c-ac4b-c7d9812e8756/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:22fbfba76053f676fc28b6427d4b1aaf] 生成矢量图形的企业logo\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3311,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 31,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design illustration of a 新中式 tea room.\n\nStyle/medium: needs a \"新中式\" aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include a solid wood tea table, a 紫砂壶 and tea cups\nScene/backdrop: must include calligraphy scrolls and bonsai as background, bamboo shadows visible through a window\nLighting/mood: needs a zen, contemplative atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: must include natural wood surfaces and ceramic textures\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fd710efe-4247-427c-830e-148c5a68c94e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an interior design illustration of a 新中式 tea room.\\n\\nStyle/medium: needs a \\\"新中式\\\" aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include a solid wood tea table, a 紫砂壶 and tea cups\\nScene/backdrop: must include calligraphy scrolls and bonsai as background, bamboo shadows visible through a window\\nLighting/mood: needs a zen, contemplative atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: must include natural wood surfaces and ceramic textures\\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10401
+}

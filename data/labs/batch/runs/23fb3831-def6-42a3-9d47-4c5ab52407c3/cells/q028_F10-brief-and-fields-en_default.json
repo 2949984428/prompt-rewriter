@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a photorealistic product shot of a ByteDance employee ID badge, showing both the front and back sides.\n\nStyle/medium: photorealistic studio product photography, clean and corporate, sharp focus throughout\nComposition: two badges laid flat side by side on a neutral surface — left badge showing the front face, right badge showing the back face; slight overhead angle, symmetrical framing\nSubject: corporate employee ID badge for ByteDance (字节跳动); front side features the ByteDance logo, employee photo placeholder (generic blurred face), employee name, department, and employee ID number; back side features a magnetic stripe, barcode or QR code, company address, and emergency contact instructions\nScene/backdrop: clean light gray or off-white matte surface, minimal shadow beneath each badge\nLighting/mood: soft diffused studio lighting from above-front, even illumination with subtle soft shadows to convey depth and physicality, no harsh glare on badge surface\nColor palette: white badge base with ByteDance brand orange and black typography; lanyard clip in brushed silver metal\nMaterials/textures: glossy PVC card surface with slight specular highlight, visible printed ink texture, metal clip with brushed finish, subtle embossed or printed logo\nText (verbatim): \"字节跳动\" on front badge face\nConstraints: both badges must be fully visible and legible; badge proportions must match standard CR80 card format (85.6mm × 54mm); photorealistic rendering with no illustration or cartoon style\nAvoid: floating badges with no surface, cartoon or flat design, overexposed glare obscuring text, deformed card edges, generic stock-photo badge templates",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5fd4006e-3c63-4ec3-8fdd-c1ea93cc048c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a photorealistic product shot of a ByteDance employee ID badge, showing both the front and back sides.\\n\\nStyle/medium: photorealistic studio product photography, clean and corporate, sharp focus throughout\\nComposition: two badges laid flat side by side on a neutral surface — left badge showing the front face, right badge showing the back face; slight overhead angle, symmetrical framing\\nSubject: corporate employee ID badge for ByteDance (字节跳动); front side features the ByteDance logo, employee photo placeholder (generic blurred face), employee name, department, and employee ID number; back side features a magnetic stripe, barcode or QR code, company address, and emergency contact instructions\\nScene/backdrop: clean light gray or off-white matte surface, minimal shadow beneath each badge\\nLighting/mood: soft diffused studio lighting from above-front, even illumination with subtle soft shadows to convey depth and physicality, no harsh glare on badge surface\\nColor palette: white badge base with ByteDance brand orange and black typography; lanyard clip in brushed silver metal\\nMaterials/textures: glossy PVC card surface with slight specular highlight, visible printed ink texture, metal clip with brushed finish, subtle embossed or printed logo\\nText (verbatim): \\\"字节跳动\\\" on front badge face\\nConstraints: both badges must be fully visible and legible; badge proportions must match standard CR80 card format (85.6mm × 54mm); photorealistic rendering with no illustration or cartoon style\\nAvoid: floating badges with no surface, cartoon or flat design, overexposed glare obscuring text, deformed card edges, generic stock-photo badge templates\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15155
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 133,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:78941421-ad63-404f-bb8b-f52ddee64733][@image:#2:藏青 (1)-][@image:#3:藏青 (3)] 根据图1这个模特 生成一个模特穿上图2图3模特身上的衣服 ，生成一套亚马逊电商图，需要从不同的角度不同的姿势展示泳衣，模特表情需要有感染力，保持一套图模特的一致性。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Abbcfc889-5064-4c28-8cc2-e2c99077396c/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:78941421-ad63-404f-bb8b-f52ddee64733][@image:#2:藏青 (1)-][@image:#3:藏青 (3)] 根据图1这个模特 生成一个模特穿上图2图3模特身上的衣服 ，生成一套亚马逊电商图，需要从不同的角度不同的姿势展示泳衣，模特表情需要有感染力，保持一套图模特的一致性。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3465,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

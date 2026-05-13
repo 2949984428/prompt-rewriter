@@ -1,0 +1,23 @@
+{
+  "query_idx": 270,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1: Image]参考此美甲的款式配色风格，再生成四张ins风格的关联图，内容可以有穿搭不露头模特，包包等时尚物品4：5",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac719aa58-2bf6-4b00-a8ba-454f6f5af972/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1: Image]参考此美甲的款式配色风格，再生成四张ins风格的关联图，内容可以有穿搭不露头模特，包包等时尚物品4：5\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"png\"}",
+  "ms": 3032,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

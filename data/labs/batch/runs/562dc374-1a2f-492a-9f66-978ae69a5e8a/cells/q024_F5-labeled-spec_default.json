@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-art\nAsset type: cozy lifestyle illustration, square crop\nPrimary request: a fluffy orange cat sunbathing on a windowsill while snow falls outside\nScene/backdrop: cozy indoor room with wooden windowsill, snowy winter street view through the window, soft snowfall visible outside\nSubject: orange tabby cat with fluffy thick fur, relaxed sprawled posture, eyes half-closed in contentment, warm and soft appearance\nStyle/medium: digital illustration, healing/kawaii aesthetic, soft painterly style\nComposition/framing: medium shot, cat centered on windowsill, window frame creating natural frame-within-frame\nLighting/mood: warm golden afternoon sunlight streaming through window, contrast between warm interior and cool exterior, peaceful and comforting mood\nColor palette: warm amber and cream interior tones + cool blue-white snow outside + orange fur accents\nMaterials/textures: fluffy fur with visible softness, smooth wooden windowsill, frosted glass, soft snow texture\nConstraints: maintain the fluffy tactile quality that evokes tenderness, keep the contrast between warm interior and cold exterior\nAvoid: realistic photography style, harsh shadows, cluttered background, plastic-looking fur",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a80e5d88-1aa2-4efc-879b-781784e54ad3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-art\\nAsset type: cozy lifestyle illustration, square crop\\nPrimary request: a fluffy orange cat sunbathing on a windowsill while snow falls outside\\nScene/backdrop: cozy indoor room with wooden windowsill, snowy winter street view through the window, soft snowfall visible outside\\nSubject: orange tabby cat with fluffy thick fur, relaxed sprawled posture, eyes half-closed in contentment, warm and soft appearance\\nStyle/medium: digital illustration, healing/kawaii aesthetic, soft painterly style\\nComposition/framing: medium shot, cat centered on windowsill, window frame creating natural frame-within-frame\\nLighting/mood: warm golden afternoon sunlight streaming through window, contrast between warm interior and cool exterior, peaceful and comforting mood\\nColor palette: warm amber and cream interior tones + cool blue-white snow outside + orange fur accents\\nMaterials/textures: fluffy fur with visible softness, smooth wooden windowsill, frosted glass, soft snow texture\\nConstraints: maintain the fluffy tactile quality that evokes tenderness, keep the contrast between warm interior and cold exterior\\nAvoid: realistic photography style, harsh shadows, cluttered background, plastic-looking fur\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10104
+}

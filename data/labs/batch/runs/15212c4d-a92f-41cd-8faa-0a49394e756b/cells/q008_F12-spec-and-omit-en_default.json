@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for cross-border e-commerce promotion.\n\nStyle/medium: \nComposition: 16:9 aspect ratio, layered typography with product/subject partially overlapping text\nSubject: cross-border e-commerce promotional poster\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must include artistic typography, stacked/layered fonts, complex but not cluttered layout, product or subject blocking some text\nAvoid: cluttered composition",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f50074d1-c750-464b-911b-54dc9d34ac07/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for cross-border e-commerce promotion.\\n\\nStyle/medium: \\nComposition: 16:9 aspect ratio, layered typography with product/subject partially overlapping text\\nSubject: cross-border e-commerce promotional poster\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include artistic typography, stacked/layered fonts, complex but not cluttered layout, product or subject blocking some text\\nAvoid: cluttered composition\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 6151
+}

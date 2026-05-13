@@ -1,0 +1,23 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 工笔重彩 long-scroll illustration of the 元宵灯会 festival in 唐代长安城.\n\nStyle/medium: needs a 工笔重彩长卷 aesthetic — exact brushwork, pigment layering, and scroll proportion are yours\nComposition: must be a horizontal long-scroll (长卷) panoramic layout\nSubject: must include a full panoramic view of 唐代长安城 元宵灯会 with ten-thousand lanterns (万盏花灯) illuminating the night sky\nScene/backdrop: must include 唐代长安城 at night, streets and architecture filled with festival crowds and glowing lanterns\nLighting/mood: needs a warm, luminous night-festival atmosphere — exact light diffusion and glow treatment are yours\nColor palette: needs a rich, jewel-toned 重彩 direction — exact pigment choices and ratios are yours\nMaterials/textures: needs a traditional silk or paper scroll surface treatment — exact texture weight and sheen are yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Adb5e41b7-68e7-41a6-a780-79f7af17624e/0.jpg",
+    "/api/image-file/lovart%3Adb5e41b7-68e7-41a6-a780-79f7af17624e/1.jpg",
+    "/api/image-file/lovart%3Adb5e41b7-68e7-41a6-a780-79f7af17624e/2.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 工笔重彩 long-scroll illustration of the 元宵灯会 festival in 唐代长安城.\\n\\nStyle/medium: needs a 工笔重彩长卷 aesthetic — exact brushwork, pigment layering, and scroll proportion are yours\\nComposition: must be a horizontal long-scroll (长卷) panoramic layout\\nSubject: must include a full panoramic view of 唐代长安城 元宵灯会 with ten-thousand lanterns (万盏花灯) illuminating the night sky\\nScene/backdrop: must include 唐代长安城 at night, streets and architecture filled with festival crowds and glowing lanterns\\nLighting/mood: needs a warm, luminous night-festival atmosphere — exact light diffusion and glow treatment are yours\\nColor palette: needs a rich, jewel-toned 重彩 direction — exact pigment choices and ratios are yours\\nMaterials/textures: needs a traditional silk or paper scroll surface treatment — exact texture weight and sheen are yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7867
+}

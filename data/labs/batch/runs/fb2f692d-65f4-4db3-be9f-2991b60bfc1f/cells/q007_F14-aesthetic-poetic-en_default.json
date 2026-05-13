@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a detailed technical infographic showing the exploded view of a Sony A7 camera with all parts labeled by name.\n\nStyle/medium: clean technical illustration, exploded-view diagram for product education\nComposition: center-weighted exploded view with camera body at center and components radiating outward in logical assembly order, clear callout lines connecting each part to its label\nSubject: Sony A7 camera deconstructed — body shell, sensor assembly, shutter mechanism, mirror box, viewfinder, LCD screen, battery compartment, memory card slot, control dials, buttons, lens mount, grip, circuit boards, internal wiring\nScene/backdrop: neutral light gray gradient, generous breathing room around the exploded assembly\nLighting/medium: even soft studio lighting that reveals surface details without harsh shadows, technical clarity over drama\nColor palette: neutral grays and metallic silvers with Sony's signature matte black body, subtle blue accents on circuit elements\nMaterials/textures: brushed aluminum, matte black polymer, glass sensor surface, rubberized grip texture\nText (verbatim): Sony A7 — all component names labeled in Spanish (sensor, obturador, montura E, visor electrónico, pantalla LCD, batería, tarjeta de memoria, dial de modo, botón de disparo, etc.)\nConstraints: all major components visible and labeled, accurate Sony A7 proportions and part relationships, readable labels at standard viewing distance\nAvoid: artistic flourishes, dramatic lighting, missing labels, incorrect part names, cluttered overlapping callout lines",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bb6974a9-1c3e-459f-b3c6-c7ee0b83b7e5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a detailed technical infographic showing the exploded view of a Sony A7 camera with all parts labeled by name.\\n\\nStyle/medium: clean technical illustration, exploded-view diagram for product education\\nComposition: center-weighted exploded view with camera body at center and components radiating outward in logical assembly order, clear callout lines connecting each part to its label\\nSubject: Sony A7 camera deconstructed — body shell, sensor assembly, shutter mechanism, mirror box, viewfinder, LCD screen, battery compartment, memory card slot, control dials, buttons, lens mount, grip, circuit boards, internal wiring\\nScene/backdrop: neutral light gray gradient, generous breathing room around the exploded assembly\\nLighting/medium: even soft studio lighting that reveals surface details without harsh shadows, technical clarity over drama\\nColor palette: neutral grays and metallic silvers with Sony's signature matte black body, subtle blue accents on circuit elements\\nMaterials/textures: brushed aluminum, matte black polymer, glass sensor surface, rubberized grip texture\\nText (verbatim): Sony A7 — all component names labeled in Spanish (sensor, obturador, montura E, visor electrónico, pantalla LCD, batería, tarjeta de memoria, dial de modo, botón de disparo, etc.)\\nConstraints: all major components visible and labeled, accurate Sony A7 proportions and part relationships, readable labels at standard viewing distance\\nAvoid: artistic flourishes, dramatic lighting, missing labels, incorrect part names, cluttered overlapping callout lines\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10686
+}

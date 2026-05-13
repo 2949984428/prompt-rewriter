@@ -1,0 +1,23 @@
+{
+  "query_idx": 207,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:纸袋上的文字][@image:#2:纸袋]帮我把标记1手提袋的款式和尺寸换成标记2手提袋的样子并尺寸做成快手商城主图1:1",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acabd0638-d409-458d-8947-06e4445d43d4/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:纸袋上的文字][@image:#2:纸袋]帮我把标记1手提袋的款式和尺寸换成标记2手提袋的样子并尺寸做成快手商城主图1:1\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3638,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

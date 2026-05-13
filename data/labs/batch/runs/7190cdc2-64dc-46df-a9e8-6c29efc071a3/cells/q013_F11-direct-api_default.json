@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "国潮插画风格，以敦煌飞天为主题创作现代艺术海报。画面中央是一位飞天仙女，身着改良版的敦煌壁画服饰，飘带以流体动态线条呈现，色彩从传统的石青、朱砂、赭石过渡到现代渐变的紫色与金色。仙女手持琵琶，姿态婀娜，周围环绕着祥云、莲花、石榴花和散落的花瓣。背景融合了敦煌洞窟的拱形结构与现代几何图形，整体构图饱满而富有张力。字体设计融入传统篆刻元素，整体风格在传统与现代之间寻求平衡，色彩浓郁华丽，适合文化品牌或节日庆典的宣传物料。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/81ed6e86-3eba-42b6-953e-181ccf720f38/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

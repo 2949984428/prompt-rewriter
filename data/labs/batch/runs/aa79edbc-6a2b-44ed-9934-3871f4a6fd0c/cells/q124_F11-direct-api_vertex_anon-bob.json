@@ -1,0 +1,26 @@
+{
+  "query_idx": 124,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Imagen-1---Fondo-Blanco-Amazon] 这款商品为[学生宿舍简易鞋柜，九层鞋柜，出租屋布质鞋柜，大容量，多层，防尘，无需安装，节省空间]，销售到[墨西哥]，语言用[西班牙语]，帮我生成，涵盖高质感主图、生活方式佩戴等等、生成主图、辅图，图片比例1:1，800x800，适配于淘宝平台。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af2510ba3-aeea-4d45-af98-df1e5b416ee2/0.jpg",
+    "/api/image-file/lovart%3Af2510ba3-aeea-4d45-af98-df1e5b416ee2/1.jpg",
+    "/api/image-file/lovart%3Af2510ba3-aeea-4d45-af98-df1e5b416ee2/2.jpg",
+    "/api/image-file/lovart%3Af2510ba3-aeea-4d45-af98-df1e5b416ee2/3.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Imagen-1---Fondo-Blanco-Amazon] 这款商品为[学生宿舍简易鞋柜，九层鞋柜，出租屋布质鞋柜，大容量，多层，防尘，无需安装，节省空间]，销售到[墨西哥]，语言用[西班牙语]，帮我生成，涵盖高质感主图、生活方式佩戴等等、生成主图、辅图，图片比例1:1，800x800，适配于淘宝平台。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3705,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

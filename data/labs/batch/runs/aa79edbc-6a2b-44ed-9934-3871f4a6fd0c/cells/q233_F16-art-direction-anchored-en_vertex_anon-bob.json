@@ -1,0 +1,23 @@
+{
+  "query_idx": 233,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑参考图片（#1），整体色调变成金色，用于微信朋友圈背景图。\n\n风格/媒介:\n构图:\n主体:保留原图内容不变\n场景/背景:\n光线/氛围:\n色彩方案:整体变成金色调\n材质/纹理:\n文字(原样):\n约束:\n  保留原图构图与内容\n  仅调整色彩为金色，不改变其他视觉元素\n避免:",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af03f36af-97e1-4b65-a4f1-07ed818d8b81/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑参考图片（#1），整体色调变成金色，用于微信朋友圈背景图。\\n\\n风格/媒介:\\n构图:\\n主体:保留原图内容不变\\n场景/背景:\\n光线/氛围:\\n色彩方案:整体变成金色调\\n材质/纹理:\\n文字(原样):\\n约束:\\n  保留原图构图与内容\\n  仅调整色彩为金色，不改变其他视觉元素\\n避免:\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9284,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a clean, bright, airy e-commerce landing page hero section mockup for a feminine beauty brand.\n\nStyle/medium: UI/UX mockup, clean modern web design, airy editorial aesthetic with soft feminine touches\nComposition: full-width hero section layout, three-column grid (text left / model center / product right), generous white space, 16:9 aspect ratio\nSubject: young East Asian woman smiling and touching her cheek, holding a dropper bottle of moisturizing boost serum, soft pink and white color palette with purple floral accents\nScene/backdrop: minimal studio-like background with subtle purple flower accents, floating white rounded stat cards with gold accents showing \"満足度 96%\", \"美容成分 5種配合\", \"愛用者 12,000人突破\"\nLighting/mood: soft diffused lighting, bright and inviting, feminine and aspirational mood\nColor palette: soft pink as primary, white as base, purple flowers as accent, gold for stat card highlights\nText (verbatim): \"LUMEA BEAUTY\", \"鏡を見るたび、うるおう透明感。\", \"特徴\", \"成分\", \"お客様の声\", \"使い方\", \"FAQ\", \"今すぐ試す\", \"敏感肌OK\", \"高保湿\", \"朝晩使える\", \"美容成分をしっかり届ける\", \"ハリ・ツヤのある印象へ\", \"続けやすいシンプルケア\", \"初回限定で試してみる >\", \"成分をチェック >\", \"送料無料 / 初回限定 / 定期縛りなし\", \"うるおい\", \"透明感\", \"使いやすさ\"\nConstraints: must be a static UI mockup, not an interactive prototype; all text must be legible at web resolution; layout must be balanced for desktop viewing\nAvoid: cluttered layout, dark themes, harsh shadows, generic stock photo aesthetic, low contrast text, deformed hands or face, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5427152f-d635-4bad-b43c-1a486a9414f2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a clean, bright, airy e-commerce landing page hero section mockup for a feminine beauty brand.\\n\\nStyle/medium: UI/UX mockup, clean modern web design, airy editorial aesthetic with soft feminine touches\\nComposition: full-width hero section layout, three-column grid (text left / model center / product right), generous white space, 16:9 aspect ratio\\nSubject: young East Asian woman smiling and touching her cheek, holding a dropper bottle of moisturizing boost serum, soft pink and white color palette with purple floral accents\\nScene/backdrop: minimal studio-like background with subtle purple flower accents, floating white rounded stat cards with gold accents showing \\\"満足度 96%\\\", \\\"美容成分 5種配合\\\", \\\"愛用者 12,000人突破\\\"\\nLighting/mood: soft diffused lighting, bright and inviting, feminine and aspirational mood\\nColor palette: soft pink as primary, white as base, purple flowers as accent, gold for stat card highlights\\nText (verbatim): \\\"LUMEA BEAUTY\\\", \\\"鏡を見るたび、うるおう透明感。\\\", \\\"特徴\\\", \\\"成分\\\", \\\"お客様の声\\\", \\\"使い方\\\", \\\"FAQ\\\", \\\"今すぐ試す\\\", \\\"敏感肌OK\\\", \\\"高保湿\\\", \\\"朝晩使える\\\", \\\"美容成分をしっかり届ける\\\", \\\"ハリ・ツヤのある印象へ\\\", \\\"続けやすいシンプルケア\\\", \\\"初回限定で試してみる >\\\", \\\"成分をチェック >\\\", \\\"送料無料 / 初回限定 / 定期縛りなし\\\", \\\"うるおい\\\", \\\"透明感\\\", \\\"使いやすさ\\\"\\nConstraints: must be a static UI mockup, not an interactive prototype; all text must be legible at web resolution; layout must be balanced for desktop viewing\\nAvoid: cluttered layout, dark themes, harsh shadows, generic stock photo aesthetic, low contrast text, deformed hands or face, watermark\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13378
+}

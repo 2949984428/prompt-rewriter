@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 3x3 character expression grid for a Zhao Ling'er inspired character from the Legend of Sword and Fairy IP.\n\nStyle/medium: needs a 3D animation aesthetic — exact stylistic execution is yours\nComposition: must be a 3x3 grid layout (9 panels total), each panel showing the character peeking through a torn hole in white paper\nSubject: must include the character base: young woman with voluminous dark wavy hair and round wire-rimmed glasses, with all 9 expression variations:\n  Top-left: winking expression, adjusting glasses, green sweater\n  Top-center: smirking expression, lowering dark sunglasses, red leather jacket\n  Top-right: thinking expression, finger on chin, yellow hoodie\n  Middle-left: big smile expression, arms resting on edge, black and white striped shirt\n  Middle-center: smiling expression, thumbs up, orange button-up shirt\n  Middle-right: neutral expression, drinking boba tea, blue sweater\n  Bottom-left: happy expression, waving, purple sweater vest over white shirt\n  Bottom-center: laughing with eyes closed expression, arms crossed, pink cardigan\n  Bottom-right: silly expression, poking cheeks, teal sweater\nScene/backdrop: must include white paper with torn holes as the framing device for each panel\nLighting/mood: needs a vibrant, playful atmosphere — exact light source mix is yours\nColor palette: needs a bright, colorful direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must preserve all 9 panel positions, all 9 expressions, all 9 actions, and all 9 outfit colors exactly as specified; character must maintain consistent base appearance across all panels\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7d8c6024-92bb-48ae-80b7-f34a7424b381/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a 3x3 character expression grid for a Zhao Ling'er inspired character from the Legend of Sword and Fairy IP.\\n\\nStyle/medium: needs a 3D animation aesthetic — exact stylistic execution is yours\\nComposition: must be a 3x3 grid layout (9 panels total), each panel showing the character peeking through a torn hole in white paper\\nSubject: must include the character base: young woman with voluminous dark wavy hair and round wire-rimmed glasses, with all 9 expression variations:\\n  Top-left: winking expression, adjusting glasses, green sweater\\n  Top-center: smirking expression, lowering dark sunglasses, red leather jacket\\n  Top-right: thinking expression, finger on chin, yellow hoodie\\n  Middle-left: big smile expression, arms resting on edge, black and white striped shirt\\n  Middle-center: smiling expression, thumbs up, orange button-up shirt\\n  Middle-right: neutral expression, drinking boba tea, blue sweater\\n  Bottom-left: happy expression, waving, purple sweater vest over white shirt\\n  Bottom-center: laughing with eyes closed expression, arms crossed, pink cardigan\\n  Bottom-right: silly expression, poking cheeks, teal sweater\\nScene/backdrop: must include white paper with torn holes as the framing device for each panel\\nLighting/mood: needs a vibrant, playful atmosphere — exact light source mix is yours\\nColor palette: needs a bright, colorful direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must preserve all 9 panel positions, all 9 expressions, all 9 actions, and all 9 outfit colors exactly as specified; character must maintain consistent base appearance across all panels\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13342
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 152,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image]  设计一套天猫的产品详情页两张图，高质量，1：3比例",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 2,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2364f67c-9434-4ce1-a257-46d8b21223f2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image]  设计一套天猫的产品详情页两张图，高质量，1：3比例\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 2, \"output_format\": \"png\"}",
+  "ms": 3193,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

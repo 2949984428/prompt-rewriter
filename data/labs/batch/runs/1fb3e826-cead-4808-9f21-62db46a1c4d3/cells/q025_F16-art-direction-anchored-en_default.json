@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 小红书 UGC-style cover image (vertical, 9:16) for a 素人 creator post featuring a 大疆 Pocket 4 review.\n\nStyle/medium: needs a \"小书素人媒体 / 素人风格\" aesthetic — references in the spirit of 小红书 2020s 素人开箱 vlog cover design, Japanese 手帐 DIY collage zine culture, early 2010s Tumblr flat-lay photography; exact stylistic execution is yours\nComposition: must be a 九宫格 (3×3 grid) layout with the product 大疆 Pocket 4 as the central visual anchor and title text prominently centered\nSubject: must include the 大疆 Pocket 4 camera as the hero product, surrounded by lifestyle / unboxing context elements across the 9 panels\nScene/backdrop: must include a casual, everyday 素人 creator environment — desk, soft props, natural light feel\nLighting/mood: needs a warm, approachable, everyday-life atmosphere — exact light treatment is yours\nColor palette: needs a soft, youthful, lively palette befitting 素人 小红书 content — exact hues are yours\nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" (large, centered title, cute and differentiated display font — playful, non-standard, high personality)\nConstraints: must preserve 九宫格 grid structure visible; title text must be legible and stylistically distinct from generic sans-serif\nAvoid: overly polished commercial advertising look; corporate or brand-official visual language",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9ac32bfe-fecd-466b-840e-e725f45caba3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a 小红书 UGC-style cover image (vertical, 9:16) for a 素人 creator post featuring a 大疆 Pocket 4 review.\\n\\nStyle/medium: needs a \\\"小书素人媒体 / 素人风格\\\" aesthetic — references in the spirit of 小红书 2020s 素人开箱 vlog cover design, Japanese 手帐 DIY collage zine culture, early 2010s Tumblr flat-lay photography; exact stylistic execution is yours\\nComposition: must be a 九宫格 (3×3 grid) layout with the product 大疆 Pocket 4 as the central visual anchor and title text prominently centered\\nSubject: must include the 大疆 Pocket 4 camera as the hero product, surrounded by lifestyle / unboxing context elements across the 9 panels\\nScene/backdrop: must include a casual, everyday 素人 creator environment — desk, soft props, natural light feel\\nLighting/mood: needs a warm, approachable, everyday-life atmosphere — exact light treatment is yours\\nColor palette: needs a soft, youthful, lively palette befitting 素人 小红书 content — exact hues are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" (large, centered title, cute and differentiated display font — playful, non-standard, high personality)\\nConstraints: must preserve 九宫格 grid structure visible; title text must be legible and stylistically distinct from generic sans-serif\\nAvoid: overly polished commercial advertising look; corporate or brand-official visual language\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11807
+}

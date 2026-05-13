@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a commercial interior photograph of a high-end medical aesthetic clinic's skin treatment room.\n\nStyle/medium: Commercial architectural photography, clean editorial style with subtle depth and realistic material rendering\nComposition: Symmetrical wide-angle shot centered on the treatment bed, eye-level perspective, balanced spatial order\nSubject: Ergonomic electric aesthetic bed with leather upholstery, LED phototherapy device, RF beauty equipment, large digital skin analysis display on wall\nScene/backdrop: Minimalist treatment room with white and natural wood palette, floor-to-ceiling skincare display cabinet with premium products, frosted glass sliding door revealing soft corridor light\nLighting/mood: Soft natural medical-grade clean light with intelligent dimming system, gentle shadow transitions, professional and serene atmosphere\nColor palette: White as dominant base, warm natural wood as secondary, subtle green from plants as accent, moderate saturation\nMaterials/textures: Genuine leather bed surface with visible grain, cool metallic sheen on instruments, warm tactile wood grain, frosted glass diffusion\nAvoid: harsh shadows, oversaturated colors, cluttered composition, generic stock photo aesthetic, 8K stuffer terms\n",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/462d982c-a53b-4196-95a6-c8ef09b38405/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a commercial interior photograph of a high-end medical aesthetic clinic's skin treatment room.\\n\\nStyle/medium: Commercial architectural photography, clean editorial style with subtle depth and realistic material rendering\\nComposition: Symmetrical wide-angle shot centered on the treatment bed, eye-level perspective, balanced spatial order\\nSubject: Ergonomic electric aesthetic bed with leather upholstery, LED phototherapy device, RF beauty equipment, large digital skin analysis display on wall\\nScene/backdrop: Minimalist treatment room with white and natural wood palette, floor-to-ceiling skincare display cabinet with premium products, frosted glass sliding door revealing soft corridor light\\nLighting/mood: Soft natural medical-grade clean light with intelligent dimming system, gentle shadow transitions, professional and serene atmosphere\\nColor palette: White as dominant base, warm natural wood as secondary, subtle green from plants as accent, moderate saturation\\nMaterials/textures: Genuine leather bed surface with visible grain, cool metallic sheen on instruments, warm tactile wood grain, frosted glass diffusion\\nAvoid: harsh shadows, oversaturated colors, cluttered composition, generic stock photo aesthetic, 8K stuffer terms\\n\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10074
+}

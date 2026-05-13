@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: digital-art-illustration\nAsset type: fantasy concept art, high detail\nPrimary request: deep-sea fantasy world with ancient underwater ruins and bioluminescent creatures\nScene/backdrop: ancient civilization ruins at thousands of meters deep, massive stone columns and arches covered in coral and sea anemones, mysterious underwater cityscape\nSubject: mermaid princess in ancient attire examining a stone tablet with mysterious runes, surrounded by bioluminescent creatures\nStyle/medium: digital painting, fantasy illustration, highly detailed\nComposition/framing: wide establishing shot, centered on the mermaid princess with ruins and creatures surrounding her\nLighting/mood: bioluminescent glow from deep-sea creatures, mysterious and dreamlike atmosphere\nColor palette: deep blue-black base tones, accented with bioluminescent cyan-green, purple, and golden light spots\nMaterials/textures: weathered ancient stone with coral growth, translucent jellyfish, glowing organic textures\nConstraints: maintain the ancient underwater ruin setting, keep the mermaid princess as focal point examining the rune tablet, preserve the bioluminescent color accents\nAvoid: daylight, surface water effects, cartoon style, oversaturated colors, low detail, flat lighting",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ec746a86-be3a-4518-91c5-370f641e4c70/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: digital-art-illustration\\nAsset type: fantasy concept art, high detail\\nPrimary request: deep-sea fantasy world with ancient underwater ruins and bioluminescent creatures\\nScene/backdrop: ancient civilization ruins at thousands of meters deep, massive stone columns and arches covered in coral and sea anemones, mysterious underwater cityscape\\nSubject: mermaid princess in ancient attire examining a stone tablet with mysterious runes, surrounded by bioluminescent creatures\\nStyle/medium: digital painting, fantasy illustration, highly detailed\\nComposition/framing: wide establishing shot, centered on the mermaid princess with ruins and creatures surrounding her\\nLighting/mood: bioluminescent glow from deep-sea creatures, mysterious and dreamlike atmosphere\\nColor palette: deep blue-black base tones, accented with bioluminescent cyan-green, purple, and golden light spots\\nMaterials/textures: weathered ancient stone with coral growth, translucent jellyfish, glowing organic textures\\nConstraints: maintain the ancient underwater ruin setting, keep the mermaid princess as focal point examining the rune tablet, preserve the bioluminescent color accents\\nAvoid: daylight, surface water effects, cartoon style, oversaturated colors, low detail, flat lighting\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11663
+}

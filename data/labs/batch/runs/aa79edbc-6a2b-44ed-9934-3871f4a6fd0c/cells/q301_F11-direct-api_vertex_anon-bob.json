@@ -1,0 +1,23 @@
+{
+  "query_idx": 301,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "1:1 square format, posted to WeChat Moments, black and white peony plant pattern, centered, rich in detail but not complicated, high contrast, text placed above the flowers, simple editing layout, large title, balanced spacing, elegant bold font, minimal distortion, high readability, keywords emphasized in bright pink\n\nText: Menopausal Ladies!\n\nBetter than going to the gym\nMore fun than boring daily workouts\n\nWe start next Wednesday\n\nJoin our dance challenge\nSuitable for beginners\n\nDesigned specifically for women over 50\n\nRediscover Yourself",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad8f15e30-afa0-4435-ba73-92ae9e257523/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"1:1 square format, posted to WeChat Moments, black and white peony plant pattern, centered, rich in detail but not complicated, high contrast, text placed above the flowers, simple editing layout, large title, balanced spacing, elegant bold font, minimal distortion, high readability, keywords emphasized in bright pink\\n\\nText: Menopausal Ladies!\\n\\nBetter than going to the gym\\nMore fun than boring daily workouts\\n\\nWe start next Wednesday\\n\\nJoin our dance challenge\\nSuitable for beginners\\n\\nDesigned specifically for women over 50\\n\\nRediscover Yourself\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3831,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

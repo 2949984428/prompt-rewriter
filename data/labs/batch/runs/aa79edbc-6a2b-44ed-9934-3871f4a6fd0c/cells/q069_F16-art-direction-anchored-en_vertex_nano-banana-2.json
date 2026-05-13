@@ -1,0 +1,23 @@
+{
+  "query_idx": 69,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计日式料理品牌的包装和视觉形象，以上传的标志图片作为参考。\n\n风格/媒介:日式风格，品牌视觉形象设计\n构图:16:9 横版构图，展示包装与视觉形象整体布局\n主体:日式料理品牌包装及视觉形象\n场景/背景:\n光线/氛围:\n色彩方案:参考上传标志的配色\n材质/纹理:\n文字(原样):\n约束:以上传的标志（#1）作为品牌识别参考，保留标志的视觉风格与识别元素\n避免:",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A850bbd18-9800-4b7a-ab25-4d91475cf2b5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计日式料理品牌的包装和视觉形象，以上传的标志图片作为参考。\\n\\n风格/媒介:日式风格，品牌视觉形象设计\\n构图:16:9 横版构图，展示包装与视觉形象整体布局\\n主体:日式料理品牌包装及视觉形象\\n场景/背景:\\n光线/氛围:\\n色彩方案:参考上传标志的配色\\n材质/纹理:\\n文字(原样):\\n约束:以上传的标志（#1）作为品牌识别参考，保留标志的视觉风格与识别元素\\n避免:\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5458,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

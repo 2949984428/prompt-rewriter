@@ -1,0 +1,18 @@
+{
+  "query_idx": 2,
+  "skill_id": "F15-art-direction-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a documentary-style editorial photograph for a 微博 news/trending post banner.\n\nStyle/medium: needs a photojournalistic, high-end mobile-shot documentary aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 horizontal wide banner with generous negative space for text overlay; city skyline as horizontal spread\nSubject: must include a city dusk skyline with neon lights gradually brightening, hurrying pedestrians in foreground, and distant skyscrapers reflecting sunset glow\nScene/backdrop: must include an urban dusk scene — neon-lit street level, distant high-rise glass facades catching the last sunlight\nLighting/mood: needs a dramatic golden-hour-to-neon transition atmosphere with high contrast between warm sunset and cool neon — exact light source mix is yours\nColor palette: needs a direction of warm sunset amber against cool neon blue-purple urban glow — exact ratios and hues are yours\nMaterials/textures: needs a sharp, high-resolution 8K-texture documentary feel — exact grain and sharpness rendering is yours\nText (verbatim): must include \"城市里的安静时刻\" (large, bold primary headline, prominent position), \"黄昏，总能治愈一天的匆忙\" (secondary subtitle), \"@龙爪槐守望者real · 生活观察\" (small watermark, bottom-right corner)\nConstraints: must preserve strict 16:9 horizontal aspect ratio; must leave sufficient clear areas for text overlays; all three text elements must be present\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit https://aka.ms/aoaicodeofconduct\",\"error_code\":\"API_CALL_ERROR\",\"provider_error_code\":\"Forbidden\",\"http_status_code\":403,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create a documentary-style editorial photograph for a 微博 news/trending post banner.\\n\\nStyle/medium: needs a photojournalistic, high-end mobile-shot documentary aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal wide banner with generous negative space for text overlay; city skyline as horizontal spread\\nSubject: must include a city dusk skyline with neon lights gradually brightening, hurrying pedestrians in foreground, and distant skyscrapers reflecting sunset glow\\nScene/backdrop: must include an urban dusk scene — neon-lit street level, distant high-rise glass facades catching the last sunlight\\nLighting/mood: needs a dramatic golden-hour-to-neon transition atmosphere with high contrast between warm sunset and cool neon — exact light source mix is yours\\nColor palette: needs a direction of warm sunset amber against cool neon blue-purple urban glow — exact ratios and hues are yours\\nMaterials/textures: needs a sharp, high-resolution 8K-texture documentary feel — exact grain and sharpness rendering is yours\\nText (verbatim): must include \\\"城市里的安静时刻\\\" (large, bold primary headline, prominent position), \\\"黄昏，总能治愈一天的匆忙\\\" (secondary subtitle), \\\"@龙爪槐守望者real · 生活观察\\\" (small watermark, bottom-right corner)\\nConstraints: must preserve strict 16:9 horizontal aspect ratio; must leave sufficient clear areas for text overlays; all three text elements must be present\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12567
+}

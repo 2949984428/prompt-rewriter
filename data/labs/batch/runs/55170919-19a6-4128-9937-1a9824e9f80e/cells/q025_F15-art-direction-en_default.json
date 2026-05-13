@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a social media cover image for a Xiaohongshu (小红书) creator account, featuring a 9-grid layout with an authentic \"素人\" (everyday creator) aesthetic (all in-image text in Chinese).\n\nStyle/medium: needs an authentic \"素人\" (everyday creator) aesthetic — exact stylistic execution is yours\nComposition: must be 9-grid layout for Xiaohongshu cover image\nSubject: must include DJI Pocket 4 as the featured product\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include \"大疆pocket4初体验\" (centered title, cute and differentiated typography)\nConstraints: must include all in-image text in Chinese by default; must preserve 9-grid structure; title font must be cute and differentiated per user spec\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/10486e0a-068f-4964-a7ea-af4563ec3b93/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a social media cover image for a Xiaohongshu (小红书) creator account, featuring a 9-grid layout with an authentic \\\"素人\\\" (everyday creator) aesthetic (all in-image text in Chinese).\\n\\nStyle/medium: needs an authentic \\\"素人\\\" (everyday creator) aesthetic — exact stylistic execution is yours\\nComposition: must be 9-grid layout for Xiaohongshu cover image\\nSubject: must include DJI Pocket 4 as the featured product\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"大疆pocket4初体验\\\" (centered title, cute and differentiated typography)\\nConstraints: must include all in-image text in Chinese by default; must preserve 9-grid structure; title font must be cute and differentiated per user spec\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9029
+}

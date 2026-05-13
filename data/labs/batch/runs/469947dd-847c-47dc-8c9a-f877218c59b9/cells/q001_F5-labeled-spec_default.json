@@ -1,0 +1,22 @@
+{
+  "query_idx": 1,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: e-commerce hero image, square crop\nPrimary request: MacBook Pro on minimalist white marble desk with creative software on screen, wireless earbuds and coffee cup nearby\nScene/backdrop: clean studio desk setup, pure white marble surface, subtle window reflection\nSubject: MacBook Pro laptop with screen showing creative software interface, sleek wireless earbuds case, ceramic coffee cup with latte art\nStyle/medium: product photography, tech aesthetic, editorial commercial\nComposition/framing: top-down angled shot, wide composition showing full desk arrangement, soft depth of field\nLighting/mood: natural soft light from left window, bright and airy, clean shadows\nColor palette: pure white marble, silver MacBook, warm wood accents, neutral cream coffee tones\nMaterials/textures: polished marble veins, brushed aluminum laptop, matte ceramic cup, glossy earbud case\nConstraints: keep MacBook Pro as central hero product, maintain clean uncluttered composition\nAvoid: cluttered background, harsh artificial lighting, color cast, fingerprints on screen",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "https://assets-persist.lovart.ai/agent_images/8f946857-3138-4ff0-ae6b-551792792d38.png"
+  ],
+  "scores": {
+    "overall": 0
+  },
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero image, square crop\\nPrimary request: MacBook Pro on minimalist white marble desk with creative software on screen, wireless earbuds and coffee cup nearby\\nScene/backdrop: clean studio desk setup, pure white marble surface, subtle window reflection\\nSubject: MacBook Pro laptop with screen showing creative software interface, sleek wireless earbuds case, ceramic coffee cup with latte art\\nStyle/medium: product photography, tech aesthetic, editorial commercial\\nComposition/framing: top-down angled shot, wide composition showing full desk arrangement, soft depth of field\\nLighting/mood: natural soft light from left window, bright and airy, clean shadows\\nColor palette: pure white marble, silver MacBook, warm wood accents, neutral cream coffee tones\\nMaterials/textures: polished marble veins, brushed aluminum laptop, matte ceramic cup, glossy earbud case\\nConstraints: keep MacBook Pro as central hero product, maintain clean uncluttered composition\\nAvoid: cluttered background, harsh artificial lighting, color cast, fingerprints on screen\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 19869
+}

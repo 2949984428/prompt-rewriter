@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing UI design system for a tech dashboard and mobile interface kit.\n\nStyle/medium: classic minimalist tech aesthetic, clean vector UI components, Apple Human Interface Guidelines meets Material Design 3, subtle glassmorphism accents\nSubject: comprehensive UI kit including dashboard layouts, mobile screens, data cards, primary/secondary buttons, form controls, toggle switches, sliders, input fields, navigation tabs\nComposition: organized component grid showing multiple states (default, hover, active, disabled), consistent 8px spacing system, responsive breakpoints demonstration\nColor palette: deep navy or charcoal as primary background, electric blue or cyan as accent, pure white for text and surfaces, subtle gray scale for hierarchy\nMaterials/textures: matte surface finish with soft shadows, subtle blur effects for overlays, crisp 1px borders, smooth rounded corners (8-16px radius)\nLighting/mood: subtle ambient glow on interactive elements, soft drop shadows creating depth without heaviness, focused and professional atmosphere\nConstraints: all components must maintain visual consistency across web and mobile; touch targets minimum 44x44pt; scalable to dark/light mode variants\nAvoid: skeuomorphic textures like leather or wood; excessive gradients; drop shadows that look like glow sticks; cluttered layouts; 3D extrusion effects; neon cyberpunk palette",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2bb6ad94-7898-47b0-9c3d-f009ab8c7b93/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing UI design system for a tech dashboard and mobile interface kit.\\n\\nStyle/medium: classic minimalist tech aesthetic, clean vector UI components, Apple Human Interface Guidelines meets Material Design 3, subtle glassmorphism accents\\nSubject: comprehensive UI kit including dashboard layouts, mobile screens, data cards, primary/secondary buttons, form controls, toggle switches, sliders, input fields, navigation tabs\\nComposition: organized component grid showing multiple states (default, hover, active, disabled), consistent 8px spacing system, responsive breakpoints demonstration\\nColor palette: deep navy or charcoal as primary background, electric blue or cyan as accent, pure white for text and surfaces, subtle gray scale for hierarchy\\nMaterials/textures: matte surface finish with soft shadows, subtle blur effects for overlays, crisp 1px borders, smooth rounded corners (8-16px radius)\\nLighting/mood: subtle ambient glow on interactive elements, soft drop shadows creating depth without heaviness, focused and professional atmosphere\\nConstraints: all components must maintain visual consistency across web and mobile; touch targets minimum 44x44pt; scalable to dark/light mode variants\\nAvoid: skeuomorphic textures like leather or wood; excessive gradients; drop shadows that look like glow sticks; cluttered layouts; 3D extrusion effects; neon cyberpunk palette\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10914
+}

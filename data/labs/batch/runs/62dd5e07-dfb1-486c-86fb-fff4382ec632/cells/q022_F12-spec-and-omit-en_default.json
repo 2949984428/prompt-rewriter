@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an editorial photo of Korean café-style fashionable coffee and desserts, shot in a smartphone aesthetic suitable for Instagram. No people.\n\nThen, observe every element that appears in the photo and add meaningful hand-drawn annotations to each one.\n\n【Description rules】\n・Thin hand-drawn lines as if drawn with a white pen\n・One-stroke style, rough and slightly uneven\n・Outline traces around the outer edges of objects\n・Use arrows or dashed lines to guide the eye\n\n【Text rules】\n・Japanese handwritten text（平仮名7割・簡単な漢字3割）\n・Short, like talking to oneself\n・Tone: \"日記・ひとこと・気持ちをのせた\"\n\n【Comment generation rules】\n・飲み物 → 味・温度・気持ち（例：さっぱり、やさしい甘さ）\n・食べ物 → 食感・おいしさ（例：しっとり、さいこう）\n・空間 → 雰囲気（例：まったり、いい時間）\n・全体 → ひとこと総括（例：しあわせすぎた～）\n\n【Decoration】\n・Steam wisps, sparkles, heart shapes, small emoji-like doodles — added in moderation\n・Not overdone; preserve \"breathing space\" / white space\n\n【Finished style】\n・Instagram Stories feel, magazine rough-notes aesthetic\n・Fashionable yet relaxed atmosphere\n\nStyle/medium: smartphone photography aesthetic, hand-drawn white-pen annotation overlay\nComposition: \nSubject: Korean café-style coffee and desserts, no people\nScene/backdrop: Korean café\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 平仮名7割・簡単な漢字3割の手書き日本語注釈\nConstraints: no people; white hand-drawn annotation lines overlaid on photo\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/7db5f33a-4102-4050-8b6a-ccd914c1dde3/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an editorial photo of Korean café-style fashionable coffee and desserts, shot in a smartphone aesthetic suitable for Instagram. No people.\\n\\nThen, observe every element that appears in the photo and add meaningful hand-drawn annotations to each one.\\n\\n【Description rules】\\n・Thin hand-drawn lines as if drawn with a white pen\\n・One-stroke style, rough and slightly uneven\\n・Outline traces around the outer edges of objects\\n・Use arrows or dashed lines to guide the eye\\n\\n【Text rules】\\n・Japanese handwritten text（平仮名7割・簡単な漢字3割）\\n・Short, like talking to oneself\\n・Tone: \\\"日記・ひとこと・気持ちをのせた\\\"\\n\\n【Comment generation rules】\\n・飲み物 → 味・温度・気持ち（例：さっぱり、やさしい甘さ）\\n・食べ物 → 食感・おいしさ（例：しっとり、さいこう）\\n・空間 → 雰囲気（例：まったり、いい時間）\\n・全体 → ひとこと総括（例：しあわせすぎた～）\\n\\n【Decoration】\\n・Steam wisps, sparkles, heart shapes, small emoji-like doodles — added in moderation\\n・Not overdone; preserve \\\"breathing space\\\" / white space\\n\\n【Finished style】\\n・Instagram Stories feel, magazine rough-notes aesthetic\\n・Fashionable yet relaxed atmosphere\\n\\nStyle/medium: smartphone photography aesthetic, hand-drawn white-pen annotation overlay\\nComposition: \\nSubject: Korean café-style coffee and desserts, no people\\nScene/backdrop: Korean café\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 平仮名7割・簡単な漢字3割の手書き日本語注釈\\nConstraints: no people; white hand-drawn annotation lines overlaid on photo\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 11992
+}

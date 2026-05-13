@@ -1,0 +1,21 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing single large knowledge card illustration for children explaining the story of 赤壁之战 (Battle of Red Cliffs) from 三国.\n\nStyle/medium: needs a children's cartoon / illustrated storybook aesthetic — exact stylistic execution is yours\nComposition: must be a single large card layout with a clear title at top, key story points listed with bullet markers on the side, and a cartoon narrative scene as the main body\nSubject: must include the 赤壁之战 story from 三国, presented in child-friendly cartoon form\nScene/backdrop: must include a river battle scene evoking 赤壁 — fire, warships, and dramatic action rendered in a cartoon style\nLighting/mood: needs a dramatic yet playful children's-book atmosphere — exact light and mood treatment is yours\nColor palette: needs a bright, vivid, child-friendly direction — exact color choices are yours\nMaterials/textures: needs an illustrated / flat-cartoon surface feel — exact texture and line weight are yours\nText (verbatim): must include \"赤壁之战\" as the main title; must include key story bullet points listed alongside the illustration (content: 曹操南下 / 孙刘联军 / 火烧赤壁 / 曹军大败)\nConstraints: must preserve single-card format; title, bullet-point list, and cartoon scene must all be clearly separated and legible for children\nAvoid: ",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Ab8852b6f-e00a-4f88-9703-da8eb2885b49/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing single large knowledge card illustration for children explaining the story of 赤壁之战 (Battle of Red Cliffs) from 三国.\\n\\nStyle/medium: needs a children's cartoon / illustrated storybook aesthetic — exact stylistic execution is yours\\nComposition: must be a single large card layout with a clear title at top, key story points listed with bullet markers on the side, and a cartoon narrative scene as the main body\\nSubject: must include the 赤壁之战 story from 三国, presented in child-friendly cartoon form\\nScene/backdrop: must include a river battle scene evoking 赤壁 — fire, warships, and dramatic action rendered in a cartoon style\\nLighting/mood: needs a dramatic yet playful children's-book atmosphere — exact light and mood treatment is yours\\nColor palette: needs a bright, vivid, child-friendly direction — exact color choices are yours\\nMaterials/textures: needs an illustrated / flat-cartoon surface feel — exact texture and line weight are yours\\nText (verbatim): must include \\\"赤壁之战\\\" as the main title; must include key story bullet points listed alongside the illustration (content: 曹操南下 / 孙刘联军 / 火烧赤壁 / 曹军大败)\\nConstraints: must preserve single-card format; title, bullet-point list, and cartoon scene must all be clearly separated and legible for children\\nAvoid: \", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10056
+}

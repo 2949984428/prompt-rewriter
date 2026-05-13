@@ -1,0 +1,23 @@
+{
+  "query_idx": 250,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:超高清角色三视图设定板] 生成图片:模拟真实的抖音直播\n间,图中人物与詹姆斯在中国抖音直播带货球鞋,iverson、curry等美国\n知名人物在刷礼物。图片比例是\n手机屏幕截图的大小。",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2da8be44-1bf8-41ff-8ea0-bec183c20b67/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:超高清角色三视图设定板] 生成图片:模拟真实的抖音直播\\n间,图中人物与詹姆斯在中国抖音直播带货球鞋,iverson、curry等美国\\n知名人物在刷礼物。图片比例是\\n手机屏幕截图的大小。\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3449,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

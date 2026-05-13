@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic movie poster for \"大话西游\" (A Chinese Odyssey) reimagined in 1990s Hong Kong cinema style.\n\nStyle/medium: 35mm film poster photography, 90s Hong Kong cinema aesthetic, Wong Kar-wai inspired romantic melancholy, visible film grain\nComposition: medium shot of embracing couple on ancient city wall, wide-angle establishing shot, background figures in soft focus\nSubject: Zhi Zunbao and Zixia in passionate embrace and kiss on the ancient city wall, traditional Chinese costumes\nScene/backdrop: sunset-drenched ancient Chinese city wall, distant silhouette of Bull Demon King and Tang Seng standing apart, nostalgic atmosphere\nLighting/mood: golden hour backlighting, warm romantic glow, hazy atmospheric depth, bittersweet and nostalgic mood\nColor palette: warm amber and gold as dominant tones, muted earth tones, subtle cyan shadows, vintage color grading\nMaterials/textures: 35mm film grain texture, slightly soft focus, organic film imperfections, matte paper poster feel\nText (verbatim): \"大话西游\"\nAvoid: digital sharpness, modern CGI look, oversaturated colors, watermark, 8K stuffer aesthetic, contemporary clean aesthetics",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/19d8d2e8-e5ce-4560-9492-e84a403d6eff/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic movie poster for \\\"大话西游\\\" (A Chinese Odyssey) reimagined in 1990s Hong Kong cinema style.\\n\\nStyle/medium: 35mm film poster photography, 90s Hong Kong cinema aesthetic, Wong Kar-wai inspired romantic melancholy, visible film grain\\nComposition: medium shot of embracing couple on ancient city wall, wide-angle establishing shot, background figures in soft focus\\nSubject: Zhi Zunbao and Zixia in passionate embrace and kiss on the ancient city wall, traditional Chinese costumes\\nScene/backdrop: sunset-drenched ancient Chinese city wall, distant silhouette of Bull Demon King and Tang Seng standing apart, nostalgic atmosphere\\nLighting/mood: golden hour backlighting, warm romantic glow, hazy atmospheric depth, bittersweet and nostalgic mood\\nColor palette: warm amber and gold as dominant tones, muted earth tones, subtle cyan shadows, vintage color grading\\nMaterials/textures: 35mm film grain texture, slightly soft focus, organic film imperfections, matte paper poster feel\\nText (verbatim): \\\"大话西游\\\"\\nAvoid: digital sharpness, modern CGI look, oversaturated colors, watermark, 8K stuffer aesthetic, contemporary clean aesthetics\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10342
+}

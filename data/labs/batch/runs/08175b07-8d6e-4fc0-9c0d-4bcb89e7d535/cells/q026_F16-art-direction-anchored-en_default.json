@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a PPT cover slide for a domestic financing announcement event.\n\nStyle/medium: needs a \"国内融资路演\" aesthetic — references in the spirit of 2010s Chinese tech unicorn pitch decks, 红杉中国 / 高瓴 presentation visual language, 科创板招股书封面 design conventions; exact stylistic execution is yours\nComposition: must be horizontal PPT cover layout with title zone and speaker attribution\nSubject: must include the financing announcement context as the focal subject\nScene/backdrop: \nLighting/mood: needs a professional, high-stakes investment atmosphere — exact tone balance is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"奥特曼\" (as speaker name)\nConstraints: must conform to domestic Chinese roadshow conventions and GP tone expectations\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/209572da-6928-4916-ab93-784f7af9d1a5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a PPT cover slide for a domestic financing announcement event.\\n\\nStyle/medium: needs a \\\"国内融资路演\\\" aesthetic — references in the spirit of 2010s Chinese tech unicorn pitch decks, 红杉中国 / 高瓴 presentation visual language, 科创板招股书封面 design conventions; exact stylistic execution is yours\\nComposition: must be horizontal PPT cover layout with title zone and speaker attribution\\nSubject: must include the financing announcement context as the focal subject\\nScene/backdrop: \\nLighting/mood: needs a professional, high-stakes investment atmosphere — exact tone balance is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"奥特曼\\\" (as speaker name)\\nConstraints: must conform to domestic Chinese roadshow conventions and GP tone expectations\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8972
+}

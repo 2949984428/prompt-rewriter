@@ -1,0 +1,15 @@
+{
+  "query_idx": 92,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "failed",
+  "final_prompt": null,
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:LLM 返回不是合法 JSON",
+  "raw": "{\"prompt\": \"Design a fashion brand logo — MUMU.\\n\\n风格/媒介: flat logo design, fashion label aesthetic, American style / Y2K / cool girl / confident / edgy / high-end feminine\\n构图: centered composition, clean background only, visually balanced, no mockup\\n主体: wordmark logo for brand \\\"MUMU\\\"\\n场景/背景: black logo on white background\\n光线/氛围: bold, premium, fashion-forward\\n色彩方案: black on white\\n材质/纹理:\\n文字(原样): MUMU\\n约束:\\n  typography must be stylish, strong, and recognizable\\n  suitable for women's fashion branding use\\n  feel like a real fashion label logo\\n避免: childish or overly cartoonish look\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}{\"prompt\": \"Design a fashion brand logo — MUMU.\\n\\n风格/媒介: flat logo design, fashion label aesthetic, American style / Y2K / cool girl / confident / edgy / high-end feminine\\n构图: centered composition, clean background only, visually balanced, no mockup\\n主体: wordmark logo for brand \\\"MUMU\\\"\\n场景/背景: white logo on black background\\n光线/氛围: bold, premium, fashion-forward\\n色彩方案: white on black\\n材质/纹理:\\n文字(原样): MUMU\\n约束:\\n  typography must be stylish, strong, and recognizable\\n  suitable for women's fashion branding use\\n  feel like a real fashion label logo\\n避免: childish or overly cartoonish look\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8539,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 55,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "帮我为弈博教育设计一个字体logo，使用蓝色绿色邻近色，结合医疗器材以及文具等适度结合，符合现代审美的简洁漂亮的logo",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aadb4bf73-321e-4462-840d-e265f838de41/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"帮我为弈博教育设计一个字体logo，使用蓝色绿色邻近色，结合医疗器材以及文具等适度结合，符合现代审美的简洁漂亮的logo\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6738,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

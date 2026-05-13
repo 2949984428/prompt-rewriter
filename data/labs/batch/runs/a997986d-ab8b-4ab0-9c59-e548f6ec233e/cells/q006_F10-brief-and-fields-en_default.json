@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original children's picture book illustration for a 3-8 year old audience featuring a red panda reading in a cozy treehouse library.\n\nStyle/medium: children's picture book illustration, warm and whimsical, rounded flowing lines, bright saturated colors, age-appropriate for 3-8 years old\nComposition: medium shot with soft focus on the main character, inviting depth showing multiple activity zones\nSubject: small red panda wearing round glasses and blue striped overalls, sitting on a beanbag chair, holding a large open book with both paws\nScene/backdrop: cozy treehouse library interior with wooden shelves filled with colorful books, round window showing golden autumn forest outside, warm domestic atmosphere\nLighting/mood: soft sunlight streaming through the round window, creating warm light spots on the book pages, gentle and comforting mood\nColor palette: warm golden yellows and oranges from autumn light, soft blues from the overalls, rich browns of wood, bright book spines as colorful accents\nMaterials/textures: soft fabric texture of beanbag, smooth glossy book covers, fluffy red panda fur, steam wisps from the hot drink\nSecondary characters: a squirrel organizing books on a shelf, a small rabbit napping in the corner\nProps: steaming cup of hot cocoa, several cookies on a small plate beside the red panda\nAvoid: harsh shadows, realistic proportions, dark or scary tones, cluttered composition, adult editorial style",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ae5cfc7c-4a66-44a4-9c13-e9eccca603b1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original children's picture book illustration for a 3-8 year old audience featuring a red panda reading in a cozy treehouse library.\\n\\nStyle/medium: children's picture book illustration, warm and whimsical, rounded flowing lines, bright saturated colors, age-appropriate for 3-8 years old\\nComposition: medium shot with soft focus on the main character, inviting depth showing multiple activity zones\\nSubject: small red panda wearing round glasses and blue striped overalls, sitting on a beanbag chair, holding a large open book with both paws\\nScene/backdrop: cozy treehouse library interior with wooden shelves filled with colorful books, round window showing golden autumn forest outside, warm domestic atmosphere\\nLighting/mood: soft sunlight streaming through the round window, creating warm light spots on the book pages, gentle and comforting mood\\nColor palette: warm golden yellows and oranges from autumn light, soft blues from the overalls, rich browns of wood, bright book spines as colorful accents\\nMaterials/textures: soft fabric texture of beanbag, smooth glossy book covers, fluffy red panda fur, steam wisps from the hot drink\\nSecondary characters: a squirrel organizing books on a shelf, a small rabbit napping in the corner\\nProps: steaming cup of hot cocoa, several cookies on a small plate beside the red panda\\nAvoid: harsh shadows, realistic proportions, dark or scary tones, cluttered composition, adult editorial style\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12210
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 190,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Y0000202_E100000078_E02_RHC][@image:#2:Y0000202_E100000078_E01_RHC]不要改变产品的特征，生成1024*1024Shopee的产品主图，加深光影效果，正上方加上DIOR商标",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A930e9278-3e12-49c0-bbf9-71ae93dc238a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Y0000202_E100000078_E02_RHC][@image:#2:Y0000202_E100000078_E01_RHC]不要改变产品的特征，生成1024*1024Shopee的产品主图，加深光影效果，正上方加上DIOR商标\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2898,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

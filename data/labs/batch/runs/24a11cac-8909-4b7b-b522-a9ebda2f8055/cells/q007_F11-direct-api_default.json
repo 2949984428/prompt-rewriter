@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "创作一张儿童绘本风格的森林场景，可爱的小动物们正在开音乐会，兔子拉大提琴，松鼠吹笛子，背景是童话般的蘑菇屋和彩虹，色彩鲜艳明快，充满童趣",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6b0d426f-2853-48bf-8608-70ab063372e4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"创作一张儿童绘本风格的森林场景，可爱的小动物们正在开音乐会，兔子拉大提琴，松鼠吹笛子，背景是童话般的蘑菇屋和彩虹，色彩鲜艳明快，充满童趣\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3068
+}

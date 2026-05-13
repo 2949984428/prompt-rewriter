@@ -1,0 +1,20 @@
+{
+  "query_idx": 29,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial illustration of a dreamy underwater fairytale world with a mermaid.\n\nStyle/medium: dreamy fairytale illustration, whimsical storybook aesthetic with soft painterly textures\nComposition: wide underwater scene, eye-level perspective with upward view toward surface, balanced depth layers\nSubject: mermaid gracefully swimming among coral reefs, ethereal and elegant, surrounded by bioluminescent jellyfish\nScene/backdrop: vibrant coral reef formations, sunken shipwreck with scattered treasure, deep ocean environment with light rays penetrating from surface\nLighting/mood: dappled sunlight streaming through water from above, soft volumetric rays, magical and dreamlike atmosphere\nColor palette: iridescent blues and teals as base, warm coral pinks and oranges as accent, golden light rays, bioluminescent cyan glows\nMaterials/textures: soft watercolor-like blending, subtle grain, flowing fabric-like mermaid tail, translucent jellyfish bodies\nAvoid: photorealistic rendering, harsh shadows, cluttered composition, generic stock illustration style, deformed anatomy",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7ecc6b52-ba09-445b-9230-d25f6a83e411/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing editorial illustration of a dreamy underwater fairytale world with a mermaid.\\n\\nStyle/medium: dreamy fairytale illustration, whimsical storybook aesthetic with soft painterly textures\\nComposition: wide underwater scene, eye-level perspective with upward view toward surface, balanced depth layers\\nSubject: mermaid gracefully swimming among coral reefs, ethereal and elegant, surrounded by bioluminescent jellyfish\\nScene/backdrop: vibrant coral reef formations, sunken shipwreck with scattered treasure, deep ocean environment with light rays penetrating from surface\\nLighting/mood: dappled sunlight streaming through water from above, soft volumetric rays, magical and dreamlike atmosphere\\nColor palette: iridescent blues and teals as base, warm coral pinks and oranges as accent, golden light rays, bioluminescent cyan glows\\nMaterials/textures: soft watercolor-like blending, subtle grain, flowing fabric-like mermaid tail, translucent jellyfish bodies\\nAvoid: photorealistic rendering, harsh shadows, cluttered composition, generic stock illustration style, deformed anatomy\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10799
+}

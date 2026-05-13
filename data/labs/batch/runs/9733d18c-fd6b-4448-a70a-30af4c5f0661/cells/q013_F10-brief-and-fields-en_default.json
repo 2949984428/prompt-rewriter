@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic key-art movie poster for a sci-fi thriller about AI awakening.\n\nStyle/medium: cinematic key-art movie poster, cyberpunk aesthetic, Blade Runner meets Ex Machina visual language, professional compositing and rendering quality\nComposition: vertical centered portrait orientation, subject face occupying upper two-thirds, title reserved in bottom third, direct eye contact with viewer, strong visual impact\nSubject: half-human half-cyborg female face, left side delicate human features with natural brown eye, right side exposed precision circuit boards and metallic skeletal structure, seamless fusion along central vertical axis\nScene/backdrop: massive digital matrix space, countless green code raining down from above, immersive technological void\nLighting/mood: dramatic chiaroscuro with cold blue and green tones, one glowing blue mechanical eye as focal point, mysterious and suspenseful atmosphere\nColor palette: cold blue as dominant base, toxic green code as accent, metallic silver highlights, controlled warm brown in human eye as contrast anchor\nMaterials/textures: human skin with natural pores and subtle warmth, brushed aluminum and copper circuitry, fiber optic glow, matte black carbon fiber\nText (verbatim): \"\"\nConstraints: title area must remain empty in bottom third; face must be perfectly symmetrical along vertical axis; human and mechanical halves must blend seamlessly at center line\nAvoid: 8K stuffer text, watermark, asymmetrical face split, visible seams between human and machine parts, warm daylight tones, cluttered background competing with subject",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/082565d7-a194-46e2-995e-90e7399c9ca1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic key-art movie poster for a sci-fi thriller about AI awakening.\\n\\nStyle/medium: cinematic key-art movie poster, cyberpunk aesthetic, Blade Runner meets Ex Machina visual language, professional compositing and rendering quality\\nComposition: vertical centered portrait orientation, subject face occupying upper two-thirds, title reserved in bottom third, direct eye contact with viewer, strong visual impact\\nSubject: half-human half-cyborg female face, left side delicate human features with natural brown eye, right side exposed precision circuit boards and metallic skeletal structure, seamless fusion along central vertical axis\\nScene/backdrop: massive digital matrix space, countless green code raining down from above, immersive technological void\\nLighting/mood: dramatic chiaroscuro with cold blue and green tones, one glowing blue mechanical eye as focal point, mysterious and suspenseful atmosphere\\nColor palette: cold blue as dominant base, toxic green code as accent, metallic silver highlights, controlled warm brown in human eye as contrast anchor\\nMaterials/textures: human skin with natural pores and subtle warmth, brushed aluminum and copper circuitry, fiber optic glow, matte black carbon fiber\\nText (verbatim): \\\"\\\"\\nConstraints: title area must remain empty in bottom third; face must be perfectly symmetrical along vertical axis; human and mechanical halves must blend seamlessly at center line\\nAvoid: 8K stuffer text, watermark, asymmetrical face split, visible seams between human and machine parts, warm daylight tones, cluttered background competing with subject\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14502
+}

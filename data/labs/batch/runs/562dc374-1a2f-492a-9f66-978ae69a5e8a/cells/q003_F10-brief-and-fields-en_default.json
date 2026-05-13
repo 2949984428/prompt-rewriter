@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo of a minimalist Nordic living room interior.\n\nStyle/medium: photorealistic interior photography, Scandinavian minimalism, clean lines, soft natural aesthetic\nComposition: wide-angle establishing shot, eye-level perspective, balanced framing with sofa as anchor point\nSubject: grey fabric sofa with simple silhouette, potted green plant, floor lamp with slender profile\nScene/backdrop: white painted walls, light oak flooring, large window with soft daylight streaming in\nLighting/mood: soft diffused natural sunlight from large window, bright and airy atmosphere, warm and cozy feeling\nColor palette: white walls as dominant base, light oak wood as secondary tone, grey sofa as neutral anchor, green plant as organic accent\nMaterials/textures: matte painted wall surface, natural wood grain flooring, woven fabric sofa texture, glossy plant leaves\nAvoid: cluttered objects, dark shadows, artificial lighting dominance, ornate decorations, 8K stuffer aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/86e5f622-7958-4f5c-8f48-f1ff70642d9b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing editorial photo of a minimalist Nordic living room interior.\\n\\nStyle/medium: photorealistic interior photography, Scandinavian minimalism, clean lines, soft natural aesthetic\\nComposition: wide-angle establishing shot, eye-level perspective, balanced framing with sofa as anchor point\\nSubject: grey fabric sofa with simple silhouette, potted green plant, floor lamp with slender profile\\nScene/backdrop: white painted walls, light oak flooring, large window with soft daylight streaming in\\nLighting/mood: soft diffused natural sunlight from large window, bright and airy atmosphere, warm and cozy feeling\\nColor palette: white walls as dominant base, light oak wood as secondary tone, grey sofa as neutral anchor, green plant as organic accent\\nMaterials/textures: matte painted wall surface, natural wood grain flooring, woven fabric sofa texture, glossy plant leaves\\nAvoid: cluttered objects, dark shadows, artificial lighting dominance, ornate decorations, 8K stuffer aesthetic\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9622
+}

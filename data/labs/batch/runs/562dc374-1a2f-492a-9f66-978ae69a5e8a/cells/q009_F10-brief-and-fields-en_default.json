@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a photorealistic product shot of a sapphire ring with diamond pavé setting on black velvet.\n\nStyle/medium: photorealistic jewelry photography, macro product shot with focus stacking\nComposition: tight macro framing, 90mm macro lens, shallow depth isolating the stone, 45-degree angle showing pavilion and crown\nSubject: round-cut deep blue sapphire with visible internal fire and dispersion, brilliant-cut diamond halo and band pavé, platinum or white gold setting\nScene/backdrop: seamless black velvet surface, no visible seams or texture beyond the fabric's natural nap\nLighting/mood: controlled studio lighting with pinpoint highlights to create fire and scintillation inside the sapphire, subtle rim light defining metal edges\nColor palette: saturated royal blue as anchor, white diamond sparkle as accent, deep black velvet as negative space\nMaterials/textures: glass-like sapphire clarity with internal refraction, faceted diamond surfaces, soft matte velvet nap, polished mirror-finish metal\nAvoid: cartoonish gem rendering, plastic-looking stones, oversaturated colors, visible dust, harsh reflections, 8K stuffer labels",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ffee5df6-866f-421d-9044-3a95e08a33b2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a photorealistic product shot of a sapphire ring with diamond pavé setting on black velvet.\\n\\nStyle/medium: photorealistic jewelry photography, macro product shot with focus stacking\\nComposition: tight macro framing, 90mm macro lens, shallow depth isolating the stone, 45-degree angle showing pavilion and crown\\nSubject: round-cut deep blue sapphire with visible internal fire and dispersion, brilliant-cut diamond halo and band pavé, platinum or white gold setting\\nScene/backdrop: seamless black velvet surface, no visible seams or texture beyond the fabric's natural nap\\nLighting/mood: controlled studio lighting with pinpoint highlights to create fire and scintillation inside the sapphire, subtle rim light defining metal edges\\nColor palette: saturated royal blue as anchor, white diamond sparkle as accent, deep black velvet as negative space\\nMaterials/textures: glass-like sapphire clarity with internal refraction, faceted diamond surfaces, soft matte velvet nap, polished mirror-finish metal\\nAvoid: cartoonish gem rendering, plastic-looking stones, oversaturated colors, visible dust, harsh reflections, 8K stuffer labels\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11205
+}

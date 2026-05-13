@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a screenshot of a Douyin livestream featuring a streamer known as \"神仙姐姐\".\n\nStyle/medium: needs a mobile livestream interface aesthetic — exact UI styling is yours\nComposition: must be vertical 9:16 mobile screen format, streamer centered holding sign\nSubject: must include a female streamer (神仙姐姐 persona) holding a sign\nScene/backdrop: must include typical Douyin livestream UI elements (comments, likes, viewer count)\nLighting/mood: needs a warm, engaging livestream atmosphere — exact lighting setup is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" (on the sign held by streamer)\nConstraints: must be 9:16 vertical format, must resemble authentic Douyin livestream interface\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0f2b0d05-78b7-48ef-b973-1aaf3926e3e1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a screenshot of a Douyin livestream featuring a streamer known as \\\"神仙姐姐\\\".\\n\\nStyle/medium: needs a mobile livestream interface aesthetic — exact UI styling is yours\\nComposition: must be vertical 9:16 mobile screen format, streamer centered holding sign\\nSubject: must include a female streamer (神仙姐姐 persona) holding a sign\\nScene/backdrop: must include typical Douyin livestream UI elements (comments, likes, viewer count)\\nLighting/mood: needs a warm, engaging livestream atmosphere — exact lighting setup is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" (on the sign held by streamer)\\nConstraints: must be 9:16 vertical format, must resemble authentic Douyin livestream interface\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13415
+}

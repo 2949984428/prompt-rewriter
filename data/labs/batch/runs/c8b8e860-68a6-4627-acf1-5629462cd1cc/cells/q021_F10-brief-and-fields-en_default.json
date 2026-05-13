@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3x3 character expression grid for Zhao Ling'er from the Legend of Sword and Fairy IP.\n\nStyle/medium: 3D animation, Pixar-style character design, soft rounded forms, expressive stylized proportions\nComposition: 3x3 grid layout with 9 equal panels, each panel showing a bust portrait framed identically, consistent head size and positioning across all cells\nSubject: young woman with voluminous dark wavy hair, round wire-rimmed glasses, peeking through a torn hole in white paper in every panel, varying expressions and outfits per panel\nScene/backdrop: plain white torn paper with irregular hole edges as the unifying framing device, neutral soft gray background behind paper\nLighting/mood: soft diffused studio lighting from upper left, gentle shadows, warm and approachable mood, consistent across all 9 panels\nColor palette: each panel anchored by distinct outfit color (green, red, yellow, black/white, orange, blue, purple, pink, teal) against neutral paper/background\nMaterials/textures: smooth Pixar-style skin rendering, fabric textures for sweaters/jackets/hoodies, subtle paper fiber texture on torn edges\nConstraints: all 9 panels must share identical framing (torn paper hole), consistent character identity, recognizable as Zhao Ling'er homage without direct copyright infringement\nAvoid: photorealistic rendering, anime/manga style, watermarks, text overlays, inconsistent lighting between panels, deformed facial features, cluttered backgrounds",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b2c00513-658c-4017-9c4c-aa87e91b3790/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing 3x3 character expression grid for Zhao Ling'er from the Legend of Sword and Fairy IP.\\n\\nStyle/medium: 3D animation, Pixar-style character design, soft rounded forms, expressive stylized proportions\\nComposition: 3x3 grid layout with 9 equal panels, each panel showing a bust portrait framed identically, consistent head size and positioning across all cells\\nSubject: young woman with voluminous dark wavy hair, round wire-rimmed glasses, peeking through a torn hole in white paper in every panel, varying expressions and outfits per panel\\nScene/backdrop: plain white torn paper with irregular hole edges as the unifying framing device, neutral soft gray background behind paper\\nLighting/mood: soft diffused studio lighting from upper left, gentle shadows, warm and approachable mood, consistent across all 9 panels\\nColor palette: each panel anchored by distinct outfit color (green, red, yellow, black/white, orange, blue, purple, pink, teal) against neutral paper/background\\nMaterials/textures: smooth Pixar-style skin rendering, fabric textures for sweaters/jackets/hoodies, subtle paper fiber texture on torn edges\\nConstraints: all 9 panels must share identical framing (torn paper hole), consistent character identity, recognizable as Zhao Ling'er homage without direct copyright infringement\\nAvoid: photorealistic rendering, anime/manga style, watermarks, text overlays, inconsistent lighting between panels, deformed facial features, cluttered backgrounds\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14661
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "繁华都市夜景，从高空俯瞰视角拍摄一座现代化国际大都市的核心商业区。无数摩天大楼的玻璃幕墙在夜色中闪烁着五彩斑斓的灯光，高速公路上车流形成的红白光轨如同流动的血脉穿越城市。远处港湾中停泊着巨型邮轮，霓虹灯广告牌将天空映照得五光十色。画面中心是一座标志性的超高层建筑，其顶部探照灯扫射夜空。整体采用赛博朋克风格调色，蓝紫色调为主，高对比度，细节极其丰富，电影级画质，无人机航拍视角，长曝光效果。",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c8656e40-4e9a-44ca-8581-06775afc5dbc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 1
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 289,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Instagram 帖子图 —— 母亲节主题，主角为 Binggrae 香蕉牛奶（바나나맛 우유）。\n\n风格/媒介: Instagram 帖子，4:5 竖版构图\n构图:\n  4 张系列方案之一\n  偏温馨柔和的视觉方向\n  主体居中，留出上方或下方空间供文字叠加\n主体: Binggrae 香蕉牛奶瓶（圆肚形标志性包装）\n场景/背景: 母亲节氛围背景\n光线/氛围: 温柔、温暖的节日氛围\n色彩方案: 以香蕉黄为主色调，搭配母亲节柔和暖色\n材质/纹理:\n文字(原样):\n约束:\n  参考上传的 Binggrae 香蕉牛奶产品图（#1），保留标志性包装外观\n  4:5 竖版比例\n避免: 与母亲节氛围冲突的元素",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 4,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1d541dd2-5610-4e52-8e2e-25d22d57624a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Instagram 帖子图 —— 母亲节主题，主角为 Binggrae 香蕉牛奶（바나나맛 우유）。\\n\\n风格/媒介: Instagram 帖子，4:5 竖版构图\\n构图:\\n  4 张系列方案之一\\n  偏温馨柔和的视觉方向\\n  主体居中，留出上方或下方空间供文字叠加\\n主体: Binggrae 香蕉牛奶瓶（圆肚形标志性包装）\\n场景/背景: 母亲节氛围背景\\n光线/氛围: 温柔、温暖的节日氛围\\n色彩方案: 以香蕉黄为主色调，搭配母亲节柔和暖色\\n材质/纹理:\\n文字(原样):\\n约束:\\n  参考上传的 Binggrae 香蕉牛奶产品图（#1），保留标志性包装外观\\n  4:5 竖版比例\\n避免: 与母亲节氛围冲突的元素\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 4, \"output_format\": \"png\"}",
+  "ms": 36074,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

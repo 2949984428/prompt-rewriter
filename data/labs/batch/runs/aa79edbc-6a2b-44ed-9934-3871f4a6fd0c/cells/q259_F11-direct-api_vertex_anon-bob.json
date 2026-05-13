@@ -1,0 +1,23 @@
+{
+  "query_idx": 259,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Instagram Story - Nouveau Design Vitamine E] it looks so childish i want something professional for a high quality instagram page try the background to be blanc cassé",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8626f1d3-c871-4cfe-80f6-c0750277331a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Instagram Story - Nouveau Design Vitamine E] it looks so childish i want something professional for a high quality instagram page try the background to be blanc cassé\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3480,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

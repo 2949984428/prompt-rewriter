@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a movie poster for \"大话西游\" (all in-image text in Chinese).\n\nStyle/medium: needs a \"90年代港片\" aesthetic with film grain — references in the spirit of 1990s Hong Kong cinema poster design, Wong Kar-wai's \"Chungking Express\" color palette, 王家卫 film photography; exact stylistic execution is yours\nComposition: \nSubject: must include 至尊宝 and 紫霞 in an embrace/kiss on a city wall as the central focus, 牛魔王 standing in the distance, 唐僧 standing in the distance\nScene/backdrop: must include the city wall setting with distant figures visible\nLighting/mood: \nColor palette: \nMaterials/textures: must include film grain texture\nText (verbatim): must include \"大话西游\"\nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dbbb1e71-10d4-4dff-8567-78bbfdb9b58f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a movie poster for \\\"大话西游\\\" (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"90年代港片\\\" aesthetic with film grain — references in the spirit of 1990s Hong Kong cinema poster design, Wong Kar-wai's \\\"Chungking Express\\\" color palette, 王家卫 film photography; exact stylistic execution is yours\\nComposition: \\nSubject: must include 至尊宝 and 紫霞 in an embrace/kiss on a city wall as the central focus, 牛魔王 standing in the distance, 唐僧 standing in the distance\\nScene/backdrop: must include the city wall setting with distant figures visible\\nLighting/mood: \\nColor palette: \\nMaterials/textures: must include film grain texture\\nText (verbatim): must include \\\"大话西游\\\"\\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9318
+}

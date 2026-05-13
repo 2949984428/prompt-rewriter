@@ -1,0 +1,21 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing single large knowledge card for children about the story of 赤壁之战 (Battle of Red Cliffs) from 三国.\n\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\nComposition: must be a single large card layout with a clear title at top, key bullet points listed and labeled on the side, and a cartoon story scene as the main body\nSubject: must include the 赤壁之战 story from 三国, presented in child-friendly cartoon form\nScene/backdrop: must include a 赤壁 river battle scene rendered as cartoon illustration\nLighting/mood: needs a lively and engaging children's-book atmosphere — exact mood execution is yours\nColor palette: needs a bright, child-friendly direction — exact colors are yours\nMaterials/textures: \nText (verbatim): must include \"赤壁之战\" as the main title; must include key story bullet points labeled alongside the illustration (content: 曹操南下 / 孙刘联军 / 火烧赤壁 / 曹军大败)\nConstraints: must preserve single-card format; title must be clearly legible; bullet points must be visually separated and annotated beside the main illustration\nAvoid: ",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A257168b3-b012-416d-b57f-439beb7d70f9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing single large knowledge card for children about the story of 赤壁之战 (Battle of Red Cliffs) from 三国.\\n\\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\\nComposition: must be a single large card layout with a clear title at top, key bullet points listed and labeled on the side, and a cartoon story scene as the main body\\nSubject: must include the 赤壁之战 story from 三国, presented in child-friendly cartoon form\\nScene/backdrop: must include a 赤壁 river battle scene rendered as cartoon illustration\\nLighting/mood: needs a lively and engaging children's-book atmosphere — exact mood execution is yours\\nColor palette: needs a bright, child-friendly direction — exact colors are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"赤壁之战\\\" as the main title; must include key story bullet points labeled alongside the illustration (content: 曹操南下 / 孙刘联军 / 火烧赤壁 / 曹军大败)\\nConstraints: must preserve single-card format; title must be clearly legible; bullet points must be visually separated and annotated beside the main illustration\\nAvoid: \", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9916
+}

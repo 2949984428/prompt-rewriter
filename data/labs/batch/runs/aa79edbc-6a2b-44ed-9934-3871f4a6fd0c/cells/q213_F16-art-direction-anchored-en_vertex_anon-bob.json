@@ -1,0 +1,23 @@
+{
+  "query_idx": 213,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Instagram 帖子图片 —— Dubai Rental Yield Insights。\n\n风格/媒介: Instagram 社交媒体帖子，信息图风格\n构图: 方形构图，信息层次清晰，数据可视化为主\n主体: 迪拜租金收益率洞察（Dubai Rental Yield Insights）数据内容\n场景/背景:\n光线/氛围: 现代商业感\n色彩方案:\n材质/纹理:\n文字(原样): Dubai Rental Yield Insights\n约束: 参考上传的 5 张 UCP 图片（UCP 1 至 UCP 5）的内容与风格\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af5e7e4a1-6dd4-4ede-9f6a-5fec3d4e0a19/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Instagram 帖子图片 —— Dubai Rental Yield Insights。\\n\\n风格/媒介: Instagram 社交媒体帖子，信息图风格\\n构图: 方形构图，信息层次清晰，数据可视化为主\\n主体: 迪拜租金收益率洞察（Dubai Rental Yield Insights）数据内容\\n场景/背景:\\n光线/氛围: 现代商业感\\n色彩方案:\\n材质/纹理:\\n文字(原样): Dubai Rental Yield Insights\\n约束: 参考上传的 5 张 UCP 图片（UCP 1 至 UCP 5）的内容与风格\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6333,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design illustration of a Nordic-style home scene (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a minimalist aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include a grey fabric sofa, green plants, and a floor lamp\nScene/backdrop: must include white walls, light wood flooring, and a large window with sunlight streaming through\nLighting/mood: must be clean, bright, warm and comfortable — exact light source mix is yours\nColor palette: needs a Nordic minimalist direction — exact tones are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/969d6e45-711d-4425-8387-1a3673a55a73/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an interior design illustration of a Nordic-style home scene (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a minimalist aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include a grey fabric sofa, green plants, and a floor lamp\\nScene/backdrop: must include white walls, light wood flooring, and a large window with sunlight streaming through\\nLighting/mood: must be clean, bright, warm and comfortable — exact light source mix is yours\\nColor palette: needs a Nordic minimalist direction — exact tones are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13513
+}

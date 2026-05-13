@@ -1,0 +1,21 @@
+{
+  "query_idx": 53,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "为这个logo创建品牌视觉识别系统手册， 鱼丸海鲜食品行业，中文版本，16:9比例。内容需要丰富一些，请\n先给我大纲[@image:#1:DM_20260420232232_001]",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:生图失败",
+  "raw": "{\"prompt\": \"为这个logo创建品牌视觉识别系统手册， 鱼丸海鲜食品行业，中文版本，16:9比例。内容需要丰富一些，请\\n先给我大纲[@image:#1:DM_20260420232232_001]\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3164,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

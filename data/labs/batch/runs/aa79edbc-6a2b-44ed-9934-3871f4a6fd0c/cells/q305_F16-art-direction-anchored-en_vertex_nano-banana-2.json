@@ -1,0 +1,23 @@
+{
+  "query_idx": 305,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成微信公众号封面图（横版，2.35:1比例）。\n\n风格/媒介:\n构图:\n  标题文字为视觉核心\n  文字与视觉元素形成强对比，突出可读性\n主体:微信公众号封面\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):【都用image2，为啥别人能接商单，你不行？你的AI设计不落地】\n约束:比例 2.35:1，适配微信公众号封面尺寸\n避免:",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A57d05a93-2479-43b6-95ef-7d305ab9ed3e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成微信公众号封面图（横版，2.35:1比例）。\\n\\n风格/媒介:\\n构图:\\n  标题文字为视觉核心\\n  文字与视觉元素形成强对比，突出可读性\\n主体:微信公众号封面\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):【都用image2，为啥别人能接商单，你不行？你的AI设计不落地】\\n约束:比例 2.35:1，适配微信公众号封面尺寸\\n避免:\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5413,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

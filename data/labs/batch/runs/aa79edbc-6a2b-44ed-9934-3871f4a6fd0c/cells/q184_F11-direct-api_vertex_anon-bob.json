@@ -1,0 +1,23 @@
+{
+  "query_idx": 184,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:H23A7991｜天猫｜玻璃杯][@image:#2:H23A7524｜淘宝｜玻璃杯][@image:#3:H23A7521｜天猫｜玻璃杯] 这三个图请你用精修的方式处理一下这三个图片，背景白色，放在淘宝平台当作白底图主图。请注意产品的细节不能发生任何变化。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa741fa48-f679-4c28-b566-e371288a7efa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:H23A7991｜天猫｜玻璃杯][@image:#2:H23A7524｜淘宝｜玻璃杯][@image:#3:H23A7521｜天猫｜玻璃杯] 这三个图请你用精修的方式处理一下这三个图片，背景白色，放在淘宝平台当作白底图主图。请注意产品的细节不能发生任何变化。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13363,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

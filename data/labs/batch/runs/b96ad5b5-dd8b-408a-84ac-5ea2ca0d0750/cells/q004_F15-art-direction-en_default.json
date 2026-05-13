@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide for the 长安起源Q06 launch announcement (all in-image text in Chinese).\n\nStyle/medium: needs a premium automotive reveal aesthetic — exact stylistic execution is yours\nComposition: must include main title centered or dominant, subtitle below or adjacent\nSubject: must include the vehicle launch theme \"长安起源Q06将于9月上市\"\nScene/backdrop: needs a通透震撼 background treatment — exact background imagery is yours\nLighting/mood: needs a dramatic, premium atmosphere — exact light treatment is yours\nColor palette: needs a brand-aligned direction — exact color values are yours\nMaterials/textures: \nText (verbatim): must include \"长安起源Q06将于9月上市\" (main title), subtitle text as appropriate\nConstraints: must include all in-image text in Chinese by default; must preserve the vehicle model name 长安起源Q06 and launch timing 9月上市\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a851c619-1c15-4c07-9a54-3811139189e7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide for the 长安起源Q06 launch announcement (all in-image text in Chinese).\\n\\nStyle/medium: needs a premium automotive reveal aesthetic — exact stylistic execution is yours\\nComposition: must include main title centered or dominant, subtitle below or adjacent\\nSubject: must include the vehicle launch theme \\\"长安起源Q06将于9月上市\\\"\\nScene/backdrop: needs a通透震撼 background treatment — exact background imagery is yours\\nLighting/mood: needs a dramatic, premium atmosphere — exact light treatment is yours\\nColor palette: needs a brand-aligned direction — exact color values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"长安起源Q06将于9月上市\\\" (main title), subtitle text as appropriate\\nConstraints: must include all in-image text in Chinese by default; must preserve the vehicle model name 长安起源Q06 and launch timing 9月上市\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10370
+}

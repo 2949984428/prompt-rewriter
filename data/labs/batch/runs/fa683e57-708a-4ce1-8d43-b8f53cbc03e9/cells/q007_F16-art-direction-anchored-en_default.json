@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing children's picture book illustration of a forest scene with animals having a concert (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"儿童绘本\" aesthetic — references in the spirit of Beatrix Potter (classic British children's book illustration), Studio Ghibli background art (whimsical nature scenes), Richard Scarry (busy, charming animal worlds); exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include cute animals having a concert — specifically a rabbit playing the cello and a squirrel playing the flute\nScene/backdrop: must include a fairy-tale forest with mushroom houses and a rainbow in the background\nLighting/mood: needs a whimsical, cheerful atmosphere — exact light source mix is yours\nColor palette: needs a bright, vivid, and playful direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fa56edc7-eb27-40e5-acf2-766c43faa036/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing children's picture book illustration of a forest scene with animals having a concert (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"儿童绘本\\\" aesthetic — references in the spirit of Beatrix Potter (classic British children's book illustration), Studio Ghibli background art (whimsical nature scenes), Richard Scarry (busy, charming animal worlds); exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include cute animals having a concert — specifically a rabbit playing the cello and a squirrel playing the flute\\nScene/backdrop: must include a fairy-tale forest with mushroom houses and a rainbow in the background\\nLighting/mood: needs a whimsical, cheerful atmosphere — exact light source mix is yours\\nColor palette: needs a bright, vivid, and playful direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11983
+}

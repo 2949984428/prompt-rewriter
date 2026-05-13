@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张高端美妆产品的广告图，背景是柔和的粉色渐变，产品是一瓶精华液，玻璃瓶身透出淡金色液体，周围有玫瑰花瓣和水滴飞溅，光线柔和自然，整体风格奢华精致，适合社交媒体推广",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/106702c3-d1b7-440f-a1d7-b9a9d90d0929/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张高端美妆产品的广告图，背景是柔和的粉色渐变，产品是一瓶精华液，玻璃瓶身透出淡金色液体，周围有玫瑰花瓣和水滴飞溅，光线柔和自然，整体风格奢华精致，适合社交媒体推广\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3780
+}

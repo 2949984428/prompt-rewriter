@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster (short-video vertical cover) for GGU brand, gaming monitor product launch.\n\nStyle/medium: flat graphic design with minimalist premium aesthetic, sharp typography, dark high-tech feel\nComposition: rule-of-thirds layout — large bold headline anchored at upper third, product visual centered at middle third, tagline at lower third; vertical 9:16 frame\nSubject: gaming monitor with ultra-thin bezel, screen glowing with vivid accurate colors, positioned as hero product\nScene/backdrop: deep black or near-black background with subtle dark gradient, no busy environment\nLighting/mood: cool blue and white accent lighting on monitor edges, clean and premium, low ambient glow suggesting precision technology\nColor palette: deep black as base, electric blue or white as primary accent, minimal secondary color to highlight key specs\nText (verbatim): \"8k GGU 电竞显示器 1000hz\" as the dominant headline in large bold type; \"全球首发全新面板 低延迟 完美色彩\" as subtitle below\nConstraints: headline must be the largest visual element — eye-catching at thumbnail scale; text must be legible at small sizes; layout must respect rule-of-thirds grid\nAvoid: cluttered backgrounds, gradients that obscure text, generic gaming RGB rainbow overload, watermark, stuffer aesthetic",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b57d5d04-0c0a-4bd9-89f8-287a24079cbc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster (short-video vertical cover) for GGU brand, gaming monitor product launch.\\n\\nStyle/medium: flat graphic design with minimalist premium aesthetic, sharp typography, dark high-tech feel\\nComposition: rule-of-thirds layout — large bold headline anchored at upper third, product visual centered at middle third, tagline at lower third; vertical 9:16 frame\\nSubject: gaming monitor with ultra-thin bezel, screen glowing with vivid accurate colors, positioned as hero product\\nScene/backdrop: deep black or near-black background with subtle dark gradient, no busy environment\\nLighting/mood: cool blue and white accent lighting on monitor edges, clean and premium, low ambient glow suggesting precision technology\\nColor palette: deep black as base, electric blue or white as primary accent, minimal secondary color to highlight key specs\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\" as the dominant headline in large bold type; \\\"全球首发全新面板 低延迟 完美色彩\\\" as subtitle below\\nConstraints: headline must be the largest visual element — eye-catching at thumbnail scale; text must be legible at small sizes; layout must respect rule-of-thirds grid\\nAvoid: cluttered backgrounds, gradients that obscure text, generic gaming RGB rainbow overload, watermark, stuffer aesthetic\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10131
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: still life editorial photo, square crop\nPrimary request: wabi-sabi style still life photograph of a rough ceramic vase with bare dry branches on a weathered wooden table, natural light raking in from a window at an angle\nScene/backdrop: aged wooden table surface with worn, uneven patina; soft interior background, minimal and quiet\nSubject: coarse hand-thrown ceramic vase, uneven glaze with visible cracks and imperfections, holding sparse dry bare branches with no leaves\nStyle/medium: 35mm film photography, still life editorial, wabi-sabi aesthetic\nComposition/framing: medium close-up, slightly low angle, shallow depth of field, negative space preserved around subject\nLighting/mood: soft raking natural window light from the side, casting long gentle shadows, warm and melancholic, emphasizing texture and the passage of time\nColor palette: muted earth tones — warm grey, dusty beige, aged wood brown, pale bone white\nMaterials/textures: rough unglazed ceramic with visible finger marks and kiln scars, weathered wood grain with scratches and stains, dry brittle branch bark\nConstraints: preserve the sense of imperfection, impermanence, and quiet solitude; no artificial light sources\nAvoid: overly polished or symmetrical composition, bright saturated colors, clean modern surfaces, plastic-looking ceramic",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/efbf44ca-94ae-4db3-8041-e0ff54498d26/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: still life editorial photo, square crop\\nPrimary request: wabi-sabi style still life photograph of a rough ceramic vase with bare dry branches on a weathered wooden table, natural light raking in from a window at an angle\\nScene/backdrop: aged wooden table surface with worn, uneven patina; soft interior background, minimal and quiet\\nSubject: coarse hand-thrown ceramic vase, uneven glaze with visible cracks and imperfections, holding sparse dry bare branches with no leaves\\nStyle/medium: 35mm film photography, still life editorial, wabi-sabi aesthetic\\nComposition/framing: medium close-up, slightly low angle, shallow depth of field, negative space preserved around subject\\nLighting/mood: soft raking natural window light from the side, casting long gentle shadows, warm and melancholic, emphasizing texture and the passage of time\\nColor palette: muted earth tones — warm grey, dusty beige, aged wood brown, pale bone white\\nMaterials/textures: rough unglazed ceramic with visible finger marks and kiln scars, weathered wood grain with scratches and stains, dry brittle branch bark\\nConstraints: preserve the sense of imperfection, impermanence, and quiet solitude; no artificial light sources\\nAvoid: overly polished or symmetrical composition, bright saturated colors, clean modern surfaces, plastic-looking ceramic\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9457
+}

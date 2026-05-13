@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a hyper-realistic jewelry close-up photograph of a sapphire ring.\n\nStyle/medium: must be hyper-realistic photography\nComposition: must be a close-up/macro shot with extreme detail\nSubject: must include a sapphire ring with diamond setting (one ring)\nScene/backdrop: must be black velvet background\nLighting/mood: needs a fire/dispersion atmosphere showing light refracting inside the gemstone — exact light source setup is yours\nColor palette: \nMaterials/textures: must include the fire/dispersion effect inside the sapphire, diamond facets, black velvet texture — exact rendering technique is yours\nText (verbatim): \nConstraints: must preserve extreme detail level (\"纤毫毕现\")\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/707c0121-1515-421d-a3cc-ab581acb7eb5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a hyper-realistic jewelry close-up photograph of a sapphire ring.\\n\\nStyle/medium: must be hyper-realistic photography\\nComposition: must be a close-up/macro shot with extreme detail\\nSubject: must include a sapphire ring with diamond setting (one ring)\\nScene/backdrop: must be black velvet background\\nLighting/mood: needs a fire/dispersion atmosphere showing light refracting inside the gemstone — exact light source setup is yours\\nColor palette: \\nMaterials/textures: must include the fire/dispersion effect inside the sapphire, diamond facets, black velvet texture — exact rendering technique is yours\\nText (verbatim): \\nConstraints: must preserve extreme detail level (\\\"纤毫毕现\\\")\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10072
+}

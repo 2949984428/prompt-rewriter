@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic still, concept art\nPrimary request: cyberpunk future cityscape at night with towering skyscrapers, neon lights, flying vehicles, acid rain, and reflective puddles\nScene/backdrop: dystopian megacity at night, dense cluster of high-rise buildings, narrow streets below, dark polluted sky\nSubject: futuristic metropolis with flying cars weaving between buildings, rain-soaked streets with puddles reflecting neon signs\nStyle/medium: cinematic digital art, cyberpunk aesthetic\nComposition/framing: wide establishing shot, low angle looking up at skyscrapers, depth showing layers of buildings\nLighting/mood: harsh neon glow mixed with dark shadows, rain diffusing light, melancholic and dystopian atmosphere\nColor palette: dominant blue and purple tones, cyan and magenta neon accents, dark grays and blacks\nMaterials/textures: wet asphalt with reflective puddles, glass and steel surfaces, glowing neon tubes, rain streaks\nConstraints: maintain blue-purple color dominance, preserve rainy atmosphere with visible rain drops and reflections\nAvoid: clean utopian look, bright daylight, cheerful colors, watermark, lens flare overuse",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/854b639f-6119-4e1b-9a8a-7d0910312f75/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic still, concept art\\nPrimary request: cyberpunk future cityscape at night with towering skyscrapers, neon lights, flying vehicles, acid rain, and reflective puddles\\nScene/backdrop: dystopian megacity at night, dense cluster of high-rise buildings, narrow streets below, dark polluted sky\\nSubject: futuristic metropolis with flying cars weaving between buildings, rain-soaked streets with puddles reflecting neon signs\\nStyle/medium: cinematic digital art, cyberpunk aesthetic\\nComposition/framing: wide establishing shot, low angle looking up at skyscrapers, depth showing layers of buildings\\nLighting/mood: harsh neon glow mixed with dark shadows, rain diffusing light, melancholic and dystopian atmosphere\\nColor palette: dominant blue and purple tones, cyan and magenta neon accents, dark grays and blacks\\nMaterials/textures: wet asphalt with reflective puddles, glass and steel surfaces, glowing neon tubes, rain streaks\\nConstraints: maintain blue-purple color dominance, preserve rainy atmosphere with visible rain drops and reflections\\nAvoid: clean utopian look, bright daylight, cheerful colors, watermark, lens flare overuse\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10030
+}

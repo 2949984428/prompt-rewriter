@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张专业的产品摄影场景，一款智能手表放在大理石台面上，旁边有咖啡杯和笔记本，自然光从侧面打来，简约商务风格，突出产品质感",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b77eea2b-d5f0-4903-9a5d-202e9887bff6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 1
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 170,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成亚马逊产品套图（主图）。\n\n风格/媒介: 电商产品图，亚马逊平台规范风格\n构图: 套图方案之一，产品居中，主图构图\n主体: 参考图中的产品\n场景/背景: 纯白背景\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束: 符合亚马逊主图规范，背景纯白，产品清晰完整\n避免: 文字水印、装饰性道具",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7d2ffeec-9533-4212-9cb4-78202c809cd8/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成亚马逊产品套图（主图）。\\n\\n风格/媒介: 电商产品图，亚马逊平台规范风格\\n构图: 套图方案之一，产品居中，主图构图\\n主体: 参考图中的产品\\n场景/背景: 纯白背景\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束: 符合亚马逊主图规范，背景纯白，产品清晰完整\\n避免: 文字水印、装饰性道具\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5450,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

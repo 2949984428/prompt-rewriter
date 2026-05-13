@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: interior lifestyle photo, landscape crop\nPrimary request: French romantic bedroom scene with a four-poster bed draped in sheer canopy curtains, antique vanity, soft morning light, and rose petals scattered across the floor and bedding\nScene/backdrop: Parisian apartment bedroom, tall windows revealing a soft-focus Paris street view outside — wrought-iron balcony railing, Haussmann-style facades, morning mist\nSubject: ornate four-poster bed with flowing ivory chiffon canopy, aged gilded vanity with oval mirror and perfume bottles, scattered fresh rose petals in blush and deep red\nStyle/medium: photorealistic editorial interior photography, soft film aesthetic\nComposition/framing: wide-angle interior shot, slightly elevated eye-level, 24mm lens, generous depth of field drawing from bed to window\nLighting/mood: gentle diffused morning sunlight streaming through sheer linen curtains, warm golden-hour glow, hazy and intimate — elegant yet languid\nColor palette: ivory, blush pink, dusty rose, aged gold, soft cream, muted sage\nMaterials/textures: flowing chiffon canopy fabric, carved gilded wood bedframe, worn velvet upholstery, polished parquet floor, aged mirror with patina\nConstraints: no people in frame; keep the atmosphere dreamy and unhurried; window light must be soft and non-harsh\nAvoid: harsh shadows, modern furniture, oversaturated colors, cluttered composition",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d5150cf8-e3e1-4743-9f06-2425fdcaadac/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: interior lifestyle photo, landscape crop\\nPrimary request: French romantic bedroom scene with a four-poster bed draped in sheer canopy curtains, antique vanity, soft morning light, and rose petals scattered across the floor and bedding\\nScene/backdrop: Parisian apartment bedroom, tall windows revealing a soft-focus Paris street view outside — wrought-iron balcony railing, Haussmann-style facades, morning mist\\nSubject: ornate four-poster bed with flowing ivory chiffon canopy, aged gilded vanity with oval mirror and perfume bottles, scattered fresh rose petals in blush and deep red\\nStyle/medium: photorealistic editorial interior photography, soft film aesthetic\\nComposition/framing: wide-angle interior shot, slightly elevated eye-level, 24mm lens, generous depth of field drawing from bed to window\\nLighting/mood: gentle diffused morning sunlight streaming through sheer linen curtains, warm golden-hour glow, hazy and intimate — elegant yet languid\\nColor palette: ivory, blush pink, dusty rose, aged gold, soft cream, muted sage\\nMaterials/textures: flowing chiffon canopy fabric, carved gilded wood bedframe, worn velvet upholstery, polished parquet floor, aged mirror with patina\\nConstraints: no people in frame; keep the atmosphere dreamy and unhurried; window light must be soft and non-harsh\\nAvoid: harsh shadows, modern furniture, oversaturated colors, cluttered composition\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11738
+}

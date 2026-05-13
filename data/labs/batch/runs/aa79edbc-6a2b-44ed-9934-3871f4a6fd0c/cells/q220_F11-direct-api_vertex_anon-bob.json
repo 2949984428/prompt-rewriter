@@ -1,0 +1,23 @@
+{
+  "query_idx": 220,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "YouTube horror thumbnail, 16:9 aspect ratio, 1280x720 composition, dark Japanese anime horror style, cartoon horror style inspired by Egyptian apartment story, exaggerated creepy character resembling Karim with terrified expression, wide fearful eyes, subtle sweat, tense posture, dramatic facial expression, bold thick outlines, high contrast lighting, deep shadows, dark red and black old apartment background with eerie details like moving handprints and cracked walls, cinematic shadows, spooky supernatural elements, character placed on the left side, empty space on the right for text, viral YouTube thumbnail design, highly clickable, intense colors, professional YouTube layout\nArabic title text on the right side saying: \"الشقة طلعت مسكون !\nبس الكارثة بعد ما سبها\"\ntext style: very large bold Arabic typography, white and bright cyan colors, glowing effect, thick dark outline, strong drop shadow, high contrast against background, dramatic horror style typography, optimized for YouTube thumbnail readability\nultra detailed, sharp focus, vibrant colors, high saturation, professional YouTube thumbnail\nNO live icon, NO timestamp, NO video duration numbers, NO UI elements, NO YouTube interface, NO progress bar, NO watermark, NO extra text except the Arabic title",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af2fb707c-b3f7-4bd4-ba43-d797602d07d3/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"YouTube horror thumbnail, 16:9 aspect ratio, 1280x720 composition, dark Japanese anime horror style, cartoon horror style inspired by Egyptian apartment story, exaggerated creepy character resembling Karim with terrified expression, wide fearful eyes, subtle sweat, tense posture, dramatic facial expression, bold thick outlines, high contrast lighting, deep shadows, dark red and black old apartment background with eerie details like moving handprints and cracked walls, cinematic shadows, spooky supernatural elements, character placed on the left side, empty space on the right for text, viral YouTube thumbnail design, highly clickable, intense colors, professional YouTube layout\\nArabic title text on the right side saying: \\\"الشقة طلعت مسكون !\\nبس الكارثة بعد ما سبها\\\"\\ntext style: very large bold Arabic typography, white and bright cyan colors, glowing effect, thick dark outline, strong drop shadow, high contrast against background, dramatic horror style typography, optimized for YouTube thumbnail readability\\nultra detailed, sharp focus, vibrant colors, high saturation, professional YouTube thumbnail\\nNO live icon, NO timestamp, NO video duration numbers, NO UI elements, NO YouTube interface, NO progress bar, NO watermark, NO extra text except the Arabic title\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4628,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

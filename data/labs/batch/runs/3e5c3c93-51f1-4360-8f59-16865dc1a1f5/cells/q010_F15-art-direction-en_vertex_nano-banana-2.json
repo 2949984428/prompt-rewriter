@@ -1,0 +1,21 @@
+{
+  "query_idx": 10,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand color palette and typography specification sheet for an original, non-infringing fragrance brand named \"染秋 (RAN QIU)\".\n\nStyle/medium: needs an East-Asian ink-and-dye craft aesthetic rooted in 东方哲学 — exact stylistic execution is yours\nComposition: must be a structured brand spec layout showing primary colors, secondary colors, and typography rules in clearly divided sections\nSubject: must include the brand identity system for \"染秋 (RAN QIU)\" — primary palette, accent/secondary palette, and font pairing specimens\nScene/backdrop: needs an autumnal, poetic atmosphere evoking 秋日流转 — exact backdrop treatment is yours\nLighting/mood: needs a warm, meditative mood evoking 温暖而隽永 — exact light quality is yours\nColor palette: must draw from autumnal 东方 dye tones — 桂花 gold, 柿子 persimmon orange, 枫叶 crimson, 乌龙茶 deep umber, 檀香 warm beige, 琥珀 amber — exact hex values and proportions are yours\nMaterials/textures: needs a surface quality evoking traditional 染 (dyeing) craft — aged paper, ink wash, or textile grain — exact texture weight is yours\nText (verbatim): must include \"染秋\" and \"RAN QIU\" as the primary wordmark; must include core series names: \"桂花乌龙\" / \"琥珀枫叶\" / \"柿霜暮色\" as specimen labels\nConstraints: must preserve all Chinese characters at correct size hierarchy; spec sheet must show primary color swatches, secondary color swatches, and typography specimens as distinct visual zones\nAvoid: ",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A299cf0b2-d0c7-4588-b72c-d601bb7f7fad/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a brand color palette and typography specification sheet for an original, non-infringing fragrance brand named \\\"染秋 (RAN QIU)\\\".\\n\\nStyle/medium: needs an East-Asian ink-and-dye craft aesthetic rooted in 东方哲学 — exact stylistic execution is yours\\nComposition: must be a structured brand spec layout showing primary colors, secondary colors, and typography rules in clearly divided sections\\nSubject: must include the brand identity system for \\\"染秋 (RAN QIU)\\\" — primary palette, accent/secondary palette, and font pairing specimens\\nScene/backdrop: needs an autumnal, poetic atmosphere evoking 秋日流转 — exact backdrop treatment is yours\\nLighting/mood: needs a warm, meditative mood evoking 温暖而隽永 — exact light quality is yours\\nColor palette: must draw from autumnal 东方 dye tones — 桂花 gold, 柿子 persimmon orange, 枫叶 crimson, 乌龙茶 deep umber, 檀香 warm beige, 琥珀 amber — exact hex values and proportions are yours\\nMaterials/textures: needs a surface quality evoking traditional 染 (dyeing) craft — aged paper, ink wash, or textile grain — exact texture weight is yours\\nText (verbatim): must include \\\"染秋\\\" and \\\"RAN QIU\\\" as the primary wordmark; must include core series names: \\\"桂花乌龙\\\" / \\\"琥珀枫叶\\\" / \\\"柿霜暮色\\\" as specimen labels\\nConstraints: must preserve all Chinese characters at correct size hierarchy; spec sheet must show primary color swatches, secondary color swatches, and typography specimens as distinct visual zones\\nAvoid: \", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12505
+}

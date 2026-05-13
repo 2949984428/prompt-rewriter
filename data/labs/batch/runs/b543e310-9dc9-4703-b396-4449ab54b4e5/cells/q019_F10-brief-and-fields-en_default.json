@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original marketing poster for UGREEN NAS brand 618 anniversary celebration e-commerce announcement.\n\nStyle/medium: clean commercial poster design, modern tech aesthetic with promotional energy\nComposition: vertical poster format, centered hero layout with clear visual hierarchy\nSubject: UGREEN NAS private cloud device as hero product, sleek hardware with subtle glow\nScene/backdrop: festive celebration atmosphere with subtle 618 anniversary visual cues, clean gradient or abstract tech background\nLighting/mood: bright and inviting commercial lighting, energetic and trustworthy mood\nColor palette: UGREEN brand green as anchor, warm celebration accents (gold/orange), clean white space\nText (verbatim): \"绿联私有云品牌618周年庆活动电商宣布海报\"\nConstraints: must work as e-commerce banner/poster, text must be legible at thumbnail size\nAvoid: cluttered layout, generic stock photo feel, watermark, 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/23a2cbf0-1fee-4274-a950-8f27f0e8c993/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original marketing poster for UGREEN NAS brand 618 anniversary celebration e-commerce announcement.\\n\\nStyle/medium: clean commercial poster design, modern tech aesthetic with promotional energy\\nComposition: vertical poster format, centered hero layout with clear visual hierarchy\\nSubject: UGREEN NAS private cloud device as hero product, sleek hardware with subtle glow\\nScene/backdrop: festive celebration atmosphere with subtle 618 anniversary visual cues, clean gradient or abstract tech background\\nLighting/mood: bright and inviting commercial lighting, energetic and trustworthy mood\\nColor palette: UGREEN brand green as anchor, warm celebration accents (gold/orange), clean white space\\nText (verbatim): \\\"绿联私有云品牌618周年庆活动电商宣布海报\\\"\\nConstraints: must work as e-commerce banner/poster, text must be legible at thumbnail size\\nAvoid: cluttered layout, generic stock photo feel, watermark, 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8466
+}

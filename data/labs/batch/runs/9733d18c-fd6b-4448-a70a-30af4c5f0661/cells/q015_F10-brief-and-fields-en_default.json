@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial sports photography of an NBA Finals highlight moment featuring a basketball player wearing jersey number 23.\n\nStyle/medium: professional sports photography, photorealistic, ultra-high-speed shutter capture, 1/2000s exposure\nComposition: low-angle upward shot emphasizing player height and explosive power, shallow depth of field with spectacular bokeh on background crowd\nSubject: basketball player wearing jersey number 23, airborne with perfect athletic arc, visible muscle definition, explosive and focused facial expression, completing a powerful dunk under double-team defense\nScene/backdrop: packed NBA arena with tens of thousands of standing cheering spectators, sea of flashing camera lights like stars, court floor with visible lines and brand logos\nLighting/mood: professional multi-point high-brightness arena lighting, uniform color temperature, dramatic spotlight on player\nColor palette: warm skin tones against cool arena lighting, vibrant team colors on jersey, golden flash lights scattered across dark background\nMaterials/textures: glossy hardwood court surface, sweat on skin, fabric texture of jersey\nConstraints: razor-sharp with zero motion blur, professional sports photography grade\nAvoid: motion blur, soft focus, amateur lighting, watermark, 8K stuffer words",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ecdf4647-9e44-45b5-af3e-ad41d5539d5c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial sports photography of an NBA Finals highlight moment featuring a basketball player wearing jersey number 23.\\n\\nStyle/medium: professional sports photography, photorealistic, ultra-high-speed shutter capture, 1/2000s exposure\\nComposition: low-angle upward shot emphasizing player height and explosive power, shallow depth of field with spectacular bokeh on background crowd\\nSubject: basketball player wearing jersey number 23, airborne with perfect athletic arc, visible muscle definition, explosive and focused facial expression, completing a powerful dunk under double-team defense\\nScene/backdrop: packed NBA arena with tens of thousands of standing cheering spectators, sea of flashing camera lights like stars, court floor with visible lines and brand logos\\nLighting/mood: professional multi-point high-brightness arena lighting, uniform color temperature, dramatic spotlight on player\\nColor palette: warm skin tones against cool arena lighting, vibrant team colors on jersey, golden flash lights scattered across dark background\\nMaterials/textures: glossy hardwood court surface, sweat on skin, fabric texture of jersey\\nConstraints: razor-sharp with zero motion blur, professional sports photography grade\\nAvoid: motion blur, soft focus, amateur lighting, watermark, 8K stuffer words\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10346
+}

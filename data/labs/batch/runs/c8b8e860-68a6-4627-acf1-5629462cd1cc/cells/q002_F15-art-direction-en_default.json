@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a banner-style editorial photo for a Weibo news/hot-topic feature.\n\nStyle/medium: must be documentary photography aesthetic with professional photojournalism quality — exact camera settings are yours\nComposition: must be 16:9 horizontal wide format with ample negative space for text overlay, panoramic cityscape framing\nSubject: must include city skyline at dusk, pedestrians in motion, high-rise buildings reflecting sunset glow\nScene/backdrop: must be urban dusk setting with neon lights beginning to illuminate, dramatic chiaroscuro lighting, authentic on-location atmosphere\nLighting/mood: needs a cinematic dusk atmosphere with theatrical light-dark contrast — exact exposure balance is yours\nColor palette: needs a warm-cool twilight direction — exact tonal gradation is yours\nMaterials/textures: needs high-resolution surface treatment with sharp detail — exact grain structure is yours\nText (verbatim): must include \"城市里的安静时刻\" (large, prominent, bold/modern typeface), \"黄昏，总能治愈一天的匆忙\" (secondary, smaller), \"@龙爪槐守望者real · 生活观察\" (watermark, bottom or lower-right corner)\nConstraints: must preserve 16:9 aspect ratio strictly, horizontal panoramic layout with text-safe margins, authentic documentary feel\nAvoid: must avoid oversaturated artificial look, must avoid cluttered composition that compromises text readability",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/79b027ec-4e2b-4f69-b7c8-8deff5c32531/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a banner-style editorial photo for a Weibo news/hot-topic feature.\\n\\nStyle/medium: must be documentary photography aesthetic with professional photojournalism quality — exact camera settings are yours\\nComposition: must be 16:9 horizontal wide format with ample negative space for text overlay, panoramic cityscape framing\\nSubject: must include city skyline at dusk, pedestrians in motion, high-rise buildings reflecting sunset glow\\nScene/backdrop: must be urban dusk setting with neon lights beginning to illuminate, dramatic chiaroscuro lighting, authentic on-location atmosphere\\nLighting/mood: needs a cinematic dusk atmosphere with theatrical light-dark contrast — exact exposure balance is yours\\nColor palette: needs a warm-cool twilight direction — exact tonal gradation is yours\\nMaterials/textures: needs high-resolution surface treatment with sharp detail — exact grain structure is yours\\nText (verbatim): must include \\\"城市里的安静时刻\\\" (large, prominent, bold/modern typeface), \\\"黄昏，总能治愈一天的匆忙\\\" (secondary, smaller), \\\"@龙爪槐守望者real · 生活观察\\\" (watermark, bottom or lower-right corner)\\nConstraints: must preserve 16:9 aspect ratio strictly, horizontal panoramic layout with text-safe margins, authentic documentary feel\\nAvoid: must avoid oversaturated artificial look, must avoid cluttered composition that compromises text readability\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 23739
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a 9:16 vertical screenshot of a Douyin livestream featuring a female host.\n\nStyle/medium: UI mockup of a mobile livestream interface, Chinese social media aesthetic, screenshot style\nComposition: vertical 9:16 frame mimicking a phone screen capture, centered host in the main viewing area, overlay UI elements typical of livestream platforms\nSubject: elegant female host (神仙姐姐) holding a rectangular sign with both hands, graceful posture, engaging expression facing the camera\nScene/backdrop: soft blurred indoor setting typical of influencer livestream rooms, warm ambient background\nLighting/mood: soft ring-light illumination on the host's face, flattering and approachable atmosphere\nColor palette: warm skin tones against soft neutral background, UI overlays in platform brand colors\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: text on the sign must be clearly legible Chinese characters; maintain 9:16 vertical proportions\nAvoid: distorted facial features, illegible text, cluttered background, watermark from other platforms",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f93a82ed-91e0-4e6d-86ad-b665b87fe60a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate a 9:16 vertical screenshot of a Douyin livestream featuring a female host.\\n\\nStyle/medium: UI mockup of a mobile livestream interface, Chinese social media aesthetic, screenshot style\\nComposition: vertical 9:16 frame mimicking a phone screen capture, centered host in the main viewing area, overlay UI elements typical of livestream platforms\\nSubject: elegant female host (神仙姐姐) holding a rectangular sign with both hands, graceful posture, engaging expression facing the camera\\nScene/backdrop: soft blurred indoor setting typical of influencer livestream rooms, warm ambient background\\nLighting/mood: soft ring-light illumination on the host's face, flattering and approachable atmosphere\\nColor palette: warm skin tones against soft neutral background, UI overlays in platform brand colors\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: text on the sign must be clearly legible Chinese characters; maintain 9:16 vertical proportions\\nAvoid: distorted facial features, illegible text, cluttered background, watermark from other platforms\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9029
+}

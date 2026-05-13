@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: concept-art\nAsset type: character concept art for game production\nPrimary request: female warrior from desert civilization standing on high platform of ruins\nScene/backdrop: desert ruins with massive crumbling stone columns, half-buried ancient temple, approaching sandstorm in distance, sky in eerie orange-yellow hue\nSubject: female warrior with three-dimensional facial contours, resolute eyes, tribal tattoo on forehead, wearing brass scale armor mixed with golden silk, armor edges carved with ancient cuneiform runes gleaming in sunlight, crescent-shaped scimitar hanging at waist with turquoise and carnelian-embedded scabbard\nStyle/medium: game concept art style referencing Assassin's Creed Origins art direction, highly detailed, painterly digital illustration\nComposition/framing: medium shot with character centered on elevated platform, ruins framing background, atmospheric depth\nLighting/mood: dramatic theatrical lighting, golden hour sunlight hitting brass armor creating strong highlights, ominous orange-yellow sky from approaching sandstorm, high contrast shadows\nColor palette: warm brass gold + burnt orange sky + sandy beige + turquoise accents + deep carnelian red\nMaterials/textures: polished brass scales with engraved cuneiform, flowing golden silk fabric, weathered stone ruins, fine sand particles in air, semi-precious stone inlays\nConstraints: preserve Assassin's Creed Origins aesthetic reference, maintain desert civilization cultural identity, keep cuneiform rune details on armor edges\nAvoid: modern elements, clean pristine surfaces, anime stylization, oversaturated neon colors, low-detail background",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a379d99d-1012-435c-aa28-4e7e4618283c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: concept-art\\nAsset type: character concept art for game production\\nPrimary request: female warrior from desert civilization standing on high platform of ruins\\nScene/backdrop: desert ruins with massive crumbling stone columns, half-buried ancient temple, approaching sandstorm in distance, sky in eerie orange-yellow hue\\nSubject: female warrior with three-dimensional facial contours, resolute eyes, tribal tattoo on forehead, wearing brass scale armor mixed with golden silk, armor edges carved with ancient cuneiform runes gleaming in sunlight, crescent-shaped scimitar hanging at waist with turquoise and carnelian-embedded scabbard\\nStyle/medium: game concept art style referencing Assassin's Creed Origins art direction, highly detailed, painterly digital illustration\\nComposition/framing: medium shot with character centered on elevated platform, ruins framing background, atmospheric depth\\nLighting/mood: dramatic theatrical lighting, golden hour sunlight hitting brass armor creating strong highlights, ominous orange-yellow sky from approaching sandstorm, high contrast shadows\\nColor palette: warm brass gold + burnt orange sky + sandy beige + turquoise accents + deep carnelian red\\nMaterials/textures: polished brass scales with engraved cuneiform, flowing golden silk fabric, weathered stone ruins, fine sand particles in air, semi-precious stone inlays\\nConstraints: preserve Assassin's Creed Origins aesthetic reference, maintain desert civilization cultural identity, keep cuneiform rune details on armor edges\\nAvoid: modern elements, clean pristine surfaces, anime stylization, oversaturated neon colors, low-detail background\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12683
+}

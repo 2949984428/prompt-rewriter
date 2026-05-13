@@ -1,0 +1,23 @@
+{
+  "query_idx": 278,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一个文明婚俗公益创意海报（不要高彩礼为主题）发布在微博",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7d4b3762-9a2d-419b-9d7c-9d86095b3f35/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一个文明婚俗公益创意海报（不要高彩礼为主题）发布在微博\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9525,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

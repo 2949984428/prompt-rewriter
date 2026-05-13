@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster (short-video vertical cover) for GGU, a gaming monitor brand, targeting esports consumers.\n\nStyle/medium: flat minimalist graphic design, high-end editorial poster aesthetic, bold typographic hierarchy\nComposition: rule-of-thirds layout — headline anchored at upper third, product visual centered, subline at lower third; portrait orientation\nSubject: esports gaming monitor with sleek bezel, screen glowing with vivid display, positioned as hero product\nScene/backdrop: deep dark background (near-black or dark navy), minimal geometric accent lines or subtle light streaks to suggest speed\nLighting/mood: dramatic edge lighting on monitor, cool blue or electric accent glow, high-contrast and tension-filled\nColor palette: deep black as dominant base, electric blue or neon cyan as accent, white for headline text to maximize contrast\nText (verbatim): \"8k GGU 电竞显示器 1000hz\" as oversized headline; \"全球首发全新面板 低延迟 完美色彩\" as subheadline\nConstraints: headline must be the largest typographic element on the canvas, immediately eye-catching; text must be legible at thumbnail size; layout must respect 9:16 vertical safe zones\nAvoid: cluttered background, gradients that muddy contrast, decorative flourishes, watermark, generic tech stock-photo look",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1c6f2660-11fd-4ee5-b14b-9b288d2d9550/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster (short-video vertical cover) for GGU, a gaming monitor brand, targeting esports consumers.\\n\\nStyle/medium: flat minimalist graphic design, high-end editorial poster aesthetic, bold typographic hierarchy\\nComposition: rule-of-thirds layout — headline anchored at upper third, product visual centered, subline at lower third; portrait orientation\\nSubject: esports gaming monitor with sleek bezel, screen glowing with vivid display, positioned as hero product\\nScene/backdrop: deep dark background (near-black or dark navy), minimal geometric accent lines or subtle light streaks to suggest speed\\nLighting/mood: dramatic edge lighting on monitor, cool blue or electric accent glow, high-contrast and tension-filled\\nColor palette: deep black as dominant base, electric blue or neon cyan as accent, white for headline text to maximize contrast\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\" as oversized headline; \\\"全球首发全新面板 低延迟 完美色彩\\\" as subheadline\\nConstraints: headline must be the largest typographic element on the canvas, immediately eye-catching; text must be legible at thumbnail size; layout must respect 9:16 vertical safe zones\\nAvoid: cluttered background, gradients that muddy contrast, decorative flourishes, watermark, generic tech stock-photo look\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9965
+}

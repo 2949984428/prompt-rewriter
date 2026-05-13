@@ -1,0 +1,23 @@
+{
+  "query_idx": 81,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Diseña un logo para un parque de diversiones llamado 'REAL CENTER PARK'.\n\n风格/媒介: logo de parque de diversiones, ilustración vectorial colorida y festiva\n构图: el payaso de referencia (#2) está parado, feliz, señalando con el brazo hacia el logotipo del parque; composición equilibrada con el texto y el personaje integrados\n主体: logo 'REAL CENTER PARK'; payaso del imagen #2 (parado, expresión feliz, señalando el logo)\n场景/背景: fondo limpio o transparente, adecuado para logo\n光线/氛围: alegre, festivo, divertido\n色彩方案:\n材质/纹理:\n文字(原样): REAL CENTER PARK\n约束:\n  usar el payaso aportado en imagen #2 como personaje principal\n  tomar como referencia estructural el estilo de logo de parque de diversiones de imagen #1 (MÁRQUEZ PARK)\n  el texto 'REAL CENTER PARK' debe ser legible y prominente\n避免: fondos complejos o escenas; eliminar cualquier referencia al nombre MÁRQUEZ PARK",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A00e698e9-71c8-4b45-a470-78a49eefa10b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Diseña un logo para un parque de diversiones llamado 'REAL CENTER PARK'.\\n\\n风格/媒介: logo de parque de diversiones, ilustración vectorial colorida y festiva\\n构图: el payaso de referencia (#2) está parado, feliz, señalando con el brazo hacia el logotipo del parque; composición equilibrada con el texto y el personaje integrados\\n主体: logo 'REAL CENTER PARK'; payaso del imagen #2 (parado, expresión feliz, señalando el logo)\\n场景/背景: fondo limpio o transparente, adecuado para logo\\n光线/氛围: alegre, festivo, divertido\\n色彩方案:\\n材质/纹理:\\n文字(原样): REAL CENTER PARK\\n约束:\\n  usar el payaso aportado en imagen #2 como personaje principal\\n  tomar como referencia estructural el estilo de logo de parque de diversiones de imagen #1 (MÁRQUEZ PARK)\\n  el texto 'REAL CENTER PARK' debe ser legible y prominente\\n避免: fondos complejos o escenas; eliminar cualquier referencia al nombre MÁRQUEZ PARK\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8479,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

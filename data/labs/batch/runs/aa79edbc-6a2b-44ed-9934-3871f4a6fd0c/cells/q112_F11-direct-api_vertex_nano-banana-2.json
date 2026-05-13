@@ -1,0 +1,23 @@
+{
+  "query_idx": 112,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一套完整的亚马逊产品图，一张主图，3张辅图，我的产品图是[@image:#1:c571fe477b5701c84ce8319e0a9a8c5e]，卖点是：Background: Lawn/campsite + blue sky, complemented by picnic mat, wicker basket, and daisies\n\nTent: The vent is open, revealing a small blanket and picture book inside.\n\nLighting: Bright natural light, highlighting the tent's windproof and sun-protective qualities.\n\nComposition: Side view, showcasing the tent's stability and portability outdoors.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae42d60c1-d50c-41ee-bb6a-c3870a548787/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一套完整的亚马逊产品图，一张主图，3张辅图，我的产品图是[@image:#1:c571fe477b5701c84ce8319e0a9a8c5e]，卖点是：Background: Lawn/campsite + blue sky, complemented by picnic mat, wicker basket, and daisies\\n\\nTent: The vent is open, revealing a small blanket and picture book inside.\\n\\nLighting: Bright natural light, highlighting the tent's windproof and sun-protective qualities.\\n\\nComposition: Side view, showcasing the tent's stability and portability outdoors.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8464,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

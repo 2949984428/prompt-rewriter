@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial food photograph of a meticulously plated French main course — slow-cooked duck breast with black truffle sauce.\n\nStyle/medium: fine-dining editorial food photography, Michelin three-star restaurant aesthetic, photorealistic\nComposition: 45-degree angle close-up, shallow depth of field, focus on the sliced duck breast, background softly blurred\nSubject: slow-cooked duck breast with perfect rose-pink gradient center, golden crispy skin with visible texture, celery root purée base, micro herbs, edible flowers, concentrated red wine jus drops\nScene/backdrop: white matte bone china plate on dark marble tabletop, silver knife and fork placed beside, deep red Burgundy wine glass with wine traces on inner wall\nLighting/mood: side backlight (rim light) emphasizing texture and sheen of ingredients, moody and luxurious atmosphere\nColor palette: warm rose-pink and golden brown as anchors, deep burgundy as accent, muted dark marble and white porcelain as base\nMaterials/textures: crispy seared duck skin with visible grain, velvety celery root purée, delicate micro herbs, matte bone china, polished silverware, wine glass condensation\nAvoid: oversaturated colors, plastic-looking food, harsh front lighting, cluttered composition, watermark, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/96f8bccf-3e80-4e3e-8fad-b7f6a19dcdf5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial food photograph of a meticulously plated French main course — slow-cooked duck breast with black truffle sauce.\\n\\nStyle/medium: fine-dining editorial food photography, Michelin three-star restaurant aesthetic, photorealistic\\nComposition: 45-degree angle close-up, shallow depth of field, focus on the sliced duck breast, background softly blurred\\nSubject: slow-cooked duck breast with perfect rose-pink gradient center, golden crispy skin with visible texture, celery root purée base, micro herbs, edible flowers, concentrated red wine jus drops\\nScene/backdrop: white matte bone china plate on dark marble tabletop, silver knife and fork placed beside, deep red Burgundy wine glass with wine traces on inner wall\\nLighting/mood: side backlight (rim light) emphasizing texture and sheen of ingredients, moody and luxurious atmosphere\\nColor palette: warm rose-pink and golden brown as anchors, deep burgundy as accent, muted dark marble and white porcelain as base\\nMaterials/textures: crispy seared duck skin with visible grain, velvety celery root purée, delicate micro herbs, matte bone china, polished silverware, wine glass condensation\\nAvoid: oversaturated colors, plastic-looking food, harsh front lighting, cluttered composition, watermark, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11031
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a young woman in a denim jacket leaning against neon signs on a 1990s Hong Kong street at night.\n\nStyle/medium: 35mm film photography, vintage Hong Kong cinema aesthetic, heavy grain texture, Wong Kar-wai inspired mood\nComposition: medium shot, slightly low angle, 50mm lens, shallow depth of field with neon bokeh in background\nSubject: young woman in oversized denim jacket, relaxed leaning pose against wall, casual 90s hairstyle, contemplative expression\nScene/backdrop: narrow Hong Kong street at night, dense neon signage in Chinese characters, wet pavement reflecting lights, urban density\nLighting/mood: mixed neon glow from multiple signs, warm tungsten and cool fluorescent clash, hazy atmospheric depth, nostalgic melancholy\nColor palette: warm amber and orange from neon as dominant, cool cyan and magenta as accents, muted shadows with lifted blacks\nMaterials/textures: visible film grain, soft focus edges, glossy wet street surface, worn denim fabric texture\nAvoid: digital sharpness, clean modern look, oversaturated colors, watermark, 8K stuffer aesthetic, plastic skin smoothing",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d78b4bce-6505-4cb4-950c-26e3c6ccf90a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a young woman in a denim jacket leaning against neon signs on a 1990s Hong Kong street at night.\\n\\nStyle/medium: 35mm film photography, vintage Hong Kong cinema aesthetic, heavy grain texture, Wong Kar-wai inspired mood\\nComposition: medium shot, slightly low angle, 50mm lens, shallow depth of field with neon bokeh in background\\nSubject: young woman in oversized denim jacket, relaxed leaning pose against wall, casual 90s hairstyle, contemplative expression\\nScene/backdrop: narrow Hong Kong street at night, dense neon signage in Chinese characters, wet pavement reflecting lights, urban density\\nLighting/mood: mixed neon glow from multiple signs, warm tungsten and cool fluorescent clash, hazy atmospheric depth, nostalgic melancholy\\nColor palette: warm amber and orange from neon as dominant, cool cyan and magenta as accents, muted shadows with lifted blacks\\nMaterials/textures: visible film grain, soft focus edges, glossy wet street surface, worn denim fabric texture\\nAvoid: digital sharpness, clean modern look, oversaturated colors, watermark, 8K stuffer aesthetic, plastic skin smoothing\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10321
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: food photography, close-up hero shot, square crop\nPrimary request: close-up of a Japanese tonkotsu ramen bowl with chopsticks lifting noodles, steam rising, highly appetizing\nScene/backdrop: minimal dark wooden table surface, softly blurred background\nSubject: tonkotsu ramen bowl — rich milky pork bone broth, chashu pork slices, soft-boiled soy-marinated egg (halved, jammy yolk), nori sheet, chopped green onions; chopsticks mid-lift with a tangle of springy noodles\nStyle/medium: food photography, photorealistic\nComposition/framing: close-up overhead-to-slight-angle (45°), 85mm macro lens, shallow depth of field, bokeh background\nLighting/mood: warm soft key light from upper-left, subtle rim light to highlight steam wisps, rich and inviting mood\nColor palette: warm ivory broth + caramel-brown chashu + golden jammy yolk + deep green nori + bright white scallion\nMaterials/textures: glossy broth surface with oil droplets, tender glistening pork, silky noodle strands, matte ceramic bowl\nConstraints: visible rising steam above the bowl; chopsticks must be lifting noodles as the focal action\nAvoid: plastic-looking food, flat lighting, cluttered props, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/be0a9da7-9b3e-4ad9-b8b0-c51e248ad26f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: food photography, close-up hero shot, square crop\\nPrimary request: close-up of a Japanese tonkotsu ramen bowl with chopsticks lifting noodles, steam rising, highly appetizing\\nScene/backdrop: minimal dark wooden table surface, softly blurred background\\nSubject: tonkotsu ramen bowl — rich milky pork bone broth, chashu pork slices, soft-boiled soy-marinated egg (halved, jammy yolk), nori sheet, chopped green onions; chopsticks mid-lift with a tangle of springy noodles\\nStyle/medium: food photography, photorealistic\\nComposition/framing: close-up overhead-to-slight-angle (45°), 85mm macro lens, shallow depth of field, bokeh background\\nLighting/mood: warm soft key light from upper-left, subtle rim light to highlight steam wisps, rich and inviting mood\\nColor palette: warm ivory broth + caramel-brown chashu + golden jammy yolk + deep green nori + bright white scallion\\nMaterials/textures: glossy broth surface with oil droplets, tender glistening pork, silky noodle strands, matte ceramic bowl\\nConstraints: visible rising steam above the bowl; chopsticks must be lifting noodles as the focal action\\nAvoid: plastic-looking food, flat lighting, cluttered props, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10529
+}

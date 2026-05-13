@@ -1,0 +1,21 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign with a complex but structured visual composition.\n\nStyle/medium: needs a bold, graphic-design-forward promotional aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include layered typography stacking with a product or hero subject physically overlapping and partially obscuring the text layers\nSubject: must include a product or hero subject as the focal element that overlaps the typographic layers\nScene/backdrop: \nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs a vibrant, attention-grabbing direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): must include decorative art-lettering / display type as a primary design element (content and language at model's discretion, fitting 跨境电商 promotional context)\nConstraints: must preserve visual complexity without clutter — layered type stacking and subject-over-text overlap are structural requirements\nAvoid: flat, sparse, or minimalist layouts; chaotic or unreadable compositions",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4b817677-2dc7-46c3-b6ef-143506cb7bc1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign with a complex but structured visual composition.\\n\\nStyle/medium: needs a bold, graphic-design-forward promotional aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include layered typography stacking with a product or hero subject physically overlapping and partially obscuring the text layers\\nSubject: must include a product or hero subject as the focal element that overlaps the typographic layers\\nScene/backdrop: \\nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs a vibrant, attention-grabbing direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include decorative art-lettering / display type as a primary design element (content and language at model's discretion, fitting 跨境电商 promotional context)\\nConstraints: must preserve visual complexity without clutter — layered type stacking and subject-over-text overlap are structural requirements\\nAvoid: flat, sparse, or minimalist layouts; chaotic or unreadable compositions\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10582
+}

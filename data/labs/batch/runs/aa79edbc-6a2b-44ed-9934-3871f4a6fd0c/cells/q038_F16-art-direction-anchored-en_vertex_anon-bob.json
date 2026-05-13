@@ -1,0 +1,23 @@
+{
+  "query_idx": 38,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a logo for a company named ZARICH.\n\nStyle/medium: logo design, clean and strong\nComposition:\nSubject: company logo featuring the name \"ZARICH\"\nScene/backdrop:\nLighting/mood:\nColor palette:\nMaterials/textures:\nText (verbatim): ZARICH\nConstraints:\nAvoid: low-quality rendering, illegible typography",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad3b57536-df8e-4d9b-bba8-7c7a8497e23e/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a logo for a company named ZARICH.\\n\\nStyle/medium: logo design, clean and strong\\nComposition:\\nSubject: company logo featuring the name \\\"ZARICH\\\"\\nScene/backdrop:\\nLighting/mood:\\nColor palette:\\nMaterials/textures:\\nText (verbatim): ZARICH\\nConstraints:\\nAvoid: low-quality rendering, illegible typography\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4746,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

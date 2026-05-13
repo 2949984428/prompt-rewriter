@@ -1,0 +1,23 @@
+{
+  "query_idx": 24,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计 Logo —— 品牌\"江南世家\"重新设计。\n\n风格/媒介:Logo 设计，参考上传图片的竖版构图风格\n构图:竖版排列\n主体:品牌名\"江南世家\"\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):江南世家\n约束:以上传的江南世家 Logo 为参考，重新设计\n避免:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ad3c09461-1757-4ad8-8563-8bcd5f34a57a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计 Logo —— 品牌\\\"江南世家\\\"重新设计。\\n\\n风格/媒介:Logo 设计，参考上传图片的竖版构图风格\\n构图:竖版排列\\n主体:品牌名\\\"江南世家\\\"\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):江南世家\\n约束:以上传的江南世家 Logo 为参考，重新设计\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8821,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

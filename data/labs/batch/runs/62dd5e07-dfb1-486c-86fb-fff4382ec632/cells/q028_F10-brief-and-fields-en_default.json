@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a photorealistic product shot of a 字节跳动 employee ID badge, showing both the front and back sides.\n\nStyle/medium: photorealistic studio product photography, sharp focus, no illustration or render feel\nComposition: two badge cards laid side by side at a slight angle — front face on the left, back face on the right — centered on a neutral background, shot from a slightly elevated three-quarter angle, 85mm macro lens equivalent\nSubject: corporate employee ID badge for 字节跳动; front side features the 字节跳动 logo, employee photo placeholder, employee name, job title, and department text; back side features a magnetic stripe or barcode/QR code area, company address or policy text, and a lanyard hole at the top; badge is credit-card sized with rounded corners, made of rigid PVC\nScene/backdrop: clean light-gray or off-white studio surface, subtle soft shadow beneath each card\nLighting/mood: soft diffused overhead studio light with a gentle fill from the left, neutral and clean, no harsh reflections, corporate and trustworthy feel\nColor palette: badge base is white with 字节跳动 brand black and red accent; surface is neutral gray to keep focus on the badge\nMaterials/textures: glossy PVC card surface with subtle specular highlight, printed ink texture visible on text and logo areas, slight edge thickness visible\nText (verbatim): \"字节跳动\"\nConstraints: both sides must be fully legible and simultaneously visible in one frame; badge proportions must match standard CR80 card (85.6 × 54 mm); lanyard slot visible at top\nAvoid: cartoon or flat illustration style, floating badge with no surface, blurry text, distorted logo, generic placeholder badge design, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/30fe05ea-ca9b-4bbc-ab3e-ae22a90d50d5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a photorealistic product shot of a 字节跳动 employee ID badge, showing both the front and back sides.\\n\\nStyle/medium: photorealistic studio product photography, sharp focus, no illustration or render feel\\nComposition: two badge cards laid side by side at a slight angle — front face on the left, back face on the right — centered on a neutral background, shot from a slightly elevated three-quarter angle, 85mm macro lens equivalent\\nSubject: corporate employee ID badge for 字节跳动; front side features the 字节跳动 logo, employee photo placeholder, employee name, job title, and department text; back side features a magnetic stripe or barcode/QR code area, company address or policy text, and a lanyard hole at the top; badge is credit-card sized with rounded corners, made of rigid PVC\\nScene/backdrop: clean light-gray or off-white studio surface, subtle soft shadow beneath each card\\nLighting/mood: soft diffused overhead studio light with a gentle fill from the left, neutral and clean, no harsh reflections, corporate and trustworthy feel\\nColor palette: badge base is white with 字节跳动 brand black and red accent; surface is neutral gray to keep focus on the badge\\nMaterials/textures: glossy PVC card surface with subtle specular highlight, printed ink texture visible on text and logo areas, slight edge thickness visible\\nText (verbatim): \\\"字节跳动\\\"\\nConstraints: both sides must be fully legible and simultaneously visible in one frame; badge proportions must match standard CR80 card (85.6 × 54 mm); lanyard slot visible at top\\nAvoid: cartoon or flat illustration style, floating badge with no surface, blurry text, distorted logo, generic placeholder badge design, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16310
+}

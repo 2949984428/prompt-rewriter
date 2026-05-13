@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a movie poster for \"大话西游\" reimagined in 1990s Hong Kong cinema style.\n\nStyle/medium: needs a \"90年代港片\" (1990s HK cinema) aesthetic with film grain — exact grain level and film stock treatment are yours\nComposition: must include embracing couple as foreground focal point, two distant figures standing in background\nSubject: must include 至尊宝 and 紫霞 sharing a kiss/embrace on a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\nScene/backdrop: must include a city wall setting\nLighting/mood: needs a cinematic, romantically charged atmosphere — exact light source mix is yours\nColor palette: needs a warm, faded filmic direction — exact tones and ratios are yours\nMaterials/textures: needs a film grain surface treatment — exact grain weight and texture are yours\nText (verbatim): \nConstraints: must preserve all four named characters; foreground/background spatial separation must be clear\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4fabf11c-9e64-4436-b236-946741826677/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a movie poster for \\\"大话西游\\\" reimagined in 1990s Hong Kong cinema style.\\n\\nStyle/medium: needs a \\\"90年代港片\\\" (1990s HK cinema) aesthetic with film grain — exact grain level and film stock treatment are yours\\nComposition: must include embracing couple as foreground focal point, two distant figures standing in background\\nSubject: must include 至尊宝 and 紫霞 sharing a kiss/embrace on a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\\nScene/backdrop: must include a city wall setting\\nLighting/mood: needs a cinematic, romantically charged atmosphere — exact light source mix is yours\\nColor palette: needs a warm, faded filmic direction — exact tones and ratios are yours\\nMaterials/textures: needs a film grain surface treatment — exact grain weight and texture are yours\\nText (verbatim): \\nConstraints: must preserve all four named characters; foreground/background spatial separation must be clear\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7275
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic for a Sony A7 camera teardown, detailing all components with their names.\n\nStyle/medium: technical infographic illustration, exploded-view diagram style, clean vector lines with subtle 3D shading, reminiscent of iFixit teardown guides\nComposition: centered exploded-view layout, parts fanning outward from center, numbered callout lines connecting each component to labels, isometric perspective\nSubject: Sony A7 camera disassembled into key components — sensor assembly, IBIS unit, shutter mechanism, LCD screen, EVF, battery compartment, main circuit board, grip, lens mount, hot shoe, dials and buttons\nScene/backdrop: neutral gradient background (light gray to white), minimal distraction, focus on technical clarity\nColor palette: Sony corporate colors (black, silver, orange accent for highlights), white labels with black text, blue callout lines\nMaterials/textures: metallic finish on body parts, matte plastic on grip and dials, glass texture on LCD and EVF, circuit board traces visible on PCB\nText (verbatim): \"Sony\" \"A7\"\nConstraints: must clearly label at least 12 distinct components; text must be readable at 1024px width; exploded arrangement must show spatial relationship between parts\nAvoid: copyrighted Sony logos or trademarks beyond the verbatim text; cluttered overlapping labels; photorealistic style that obscures technical detail; decorative flourishes; 8K stuffer language",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b90e5ed2-84c0-48d6-9884-73a923bad615/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing infographic for a Sony A7 camera teardown, detailing all components with their names.\\n\\nStyle/medium: technical infographic illustration, exploded-view diagram style, clean vector lines with subtle 3D shading, reminiscent of iFixit teardown guides\\nComposition: centered exploded-view layout, parts fanning outward from center, numbered callout lines connecting each component to labels, isometric perspective\\nSubject: Sony A7 camera disassembled into key components — sensor assembly, IBIS unit, shutter mechanism, LCD screen, EVF, battery compartment, main circuit board, grip, lens mount, hot shoe, dials and buttons\\nScene/backdrop: neutral gradient background (light gray to white), minimal distraction, focus on technical clarity\\nColor palette: Sony corporate colors (black, silver, orange accent for highlights), white labels with black text, blue callout lines\\nMaterials/textures: metallic finish on body parts, matte plastic on grip and dials, glass texture on LCD and EVF, circuit board traces visible on PCB\\nText (verbatim): \\\"Sony\\\" \\\"A7\\\"\\nConstraints: must clearly label at least 12 distinct components; text must be readable at 1024px width; exploded arrangement must show spatial relationship between parts\\nAvoid: copyrighted Sony logos or trademarks beyond the verbatim text; cluttered overlapping labels; photorealistic style that obscures technical detail; decorative flourishes; 8K stuffer language\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11875
+}

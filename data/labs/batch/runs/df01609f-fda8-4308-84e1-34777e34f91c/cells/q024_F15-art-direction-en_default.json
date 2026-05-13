@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original illustration of a cozy cat daily-life scene featuring an orange tabby cat on a windowsill (all in-image text in Chinese).\n\nStyle/medium: needs a 治愈系 (iyashikei / heartwarming) illustration aesthetic — exact stylistic execution is yours\nComposition: must include the orange tabby cat centered on the windowsill, indoor warmth contrasting snowy outdoor scene visible through the window\nSubject: must include the orange tabby cat (one), lying/sprawled on the windowsill basking in light\nScene/backdrop: must include a cozy warm interior windowsill setting; must include a snowy winter street scene outside the window with falling snow\nLighting/mood: needs a soft, warm, heart-melting atmosphere — exact light source mix and warmth gradient are yours\nColor palette: needs a warm-indoor vs. cool-snowy-outdoor contrast direction — exact hues and ratios are yours\nMaterials/textures: needs a fluffy, fuzzy, plush fur texture treatment that evokes softness — exact grain and rendering technique are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a0a276eb-35d5-408e-8ff1-10154f644dcc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original illustration of a cozy cat daily-life scene featuring an orange tabby cat on a windowsill (all in-image text in Chinese).\\n\\nStyle/medium: needs a 治愈系 (iyashikei / heartwarming) illustration aesthetic — exact stylistic execution is yours\\nComposition: must include the orange tabby cat centered on the windowsill, indoor warmth contrasting snowy outdoor scene visible through the window\\nSubject: must include the orange tabby cat (one), lying/sprawled on the windowsill basking in light\\nScene/backdrop: must include a cozy warm interior windowsill setting; must include a snowy winter street scene outside the window with falling snow\\nLighting/mood: needs a soft, warm, heart-melting atmosphere — exact light source mix and warmth gradient are yours\\nColor palette: needs a warm-indoor vs. cool-snowy-outdoor contrast direction — exact hues and ratios are yours\\nMaterials/textures: needs a fluffy, fuzzy, plush fur texture treatment that evokes softness — exact grain and rendering technique are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17046
+}

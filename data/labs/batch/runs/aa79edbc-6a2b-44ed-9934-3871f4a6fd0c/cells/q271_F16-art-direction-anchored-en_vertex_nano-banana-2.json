@@ -1,0 +1,23 @@
+{
+  "query_idx": 271,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张宝可梦卡牌系列海报，用于线下活动。\n\n风格/媒介:卡牌系列海报，强视觉冲击力\n构图:4:3 横向构图，突出卡牌系列主题\n主体:宝可梦卡牌系列\n场景/背景:\n光线/氛围:视觉冲击感强，活力感\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:用于线下活动宣传\n避免:",
+    "size": "1536x1152",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A759bade6-7ee4-4891-a979-192ddd451951/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张宝可梦卡牌系列海报，用于线下活动。\\n\\n风格/媒介:卡牌系列海报，强视觉冲击力\\n构图:4:3 横向构图，突出卡牌系列主题\\n主体:宝可梦卡牌系列\\n场景/背景:\\n光线/氛围:视觉冲击感强，活力感\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:用于线下活动宣传\\n避免:\", \"size\": \"1536x1152\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5361,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

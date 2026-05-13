@@ -1,0 +1,23 @@
+{
+  "query_idx": 83,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计品牌 Logo —— 清江悦足疗养生。\n\n风格/媒介: 简洁大气，富有韵味，带江南文化气息，矢量 logo 设计\n构图: 图案简洁，整体大气，留有意境\n主体: 清江悦足疗养生品牌 logo，兼顾养生与商务接待调性\n场景/背景: 适用于古城区店铺场景\n光线/氛围: 沉稳雅致，富有韵味\n色彩方案:\n材质/纹理:\n文字(原样): 清江悦足疗养生\n约束: 融入江南文化元素，整体风格简洁大气不繁复\n避免: 过于复杂的装饰堆砌；西式现代极简风格",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9ac0870a-f97e-4e35-9c86-281bd10b5fe7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计品牌 Logo —— 清江悦足疗养生。\\n\\n风格/媒介: 简洁大气，富有韵味，带江南文化气息，矢量 logo 设计\\n构图: 图案简洁，整体大气，留有意境\\n主体: 清江悦足疗养生品牌 logo，兼顾养生与商务接待调性\\n场景/背景: 适用于古城区店铺场景\\n光线/氛围: 沉稳雅致，富有韵味\\n色彩方案:\\n材质/纹理:\\n文字(原样): 清江悦足疗养生\\n约束: 融入江南文化元素，整体风格简洁大气不繁复\\n避免: 过于复杂的装饰堆砌；西式现代极简风格\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9137,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

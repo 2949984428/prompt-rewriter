@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: tactical gear catalog layout, square crop\nPrimary request: hardcore military tactical equipment display with firearms, ballistic vests, and night vision goggles arranged in neat formation\nScene/backdrop: dark matte surface, minimal studio backdrop, military storage or armory aesthetic\nSubject: assault rifles, tactical handguns, plate carriers with ballistic panels, night vision goggles, magazine pouches, tactical gloves, arranged in grid or symmetrical layout\nStyle/medium: photorealistic product photography, editorial military catalog\nComposition/framing: top-down flat lay with slight angle, wide shot showing full arrangement, sharp focus across all items\nLighting/mood: cold harsh directional lighting from above, dramatic shadows, professional and authoritative atmosphere\nColor palette: deep charcoal black background + gunmetal gray + olive drab + tactical tan + cold blue-white highlights\nMaterials/textures: matte polymer firearm finishes, woven ballistic nylon, carbon fiber plates, rubberized grips, metallic magazines with realistic wear\nConstraints: maintain clean orderly arrangement, all equipment must be recognizable and proportionally accurate\nAvoid: cluttered composition, warm lighting, cartoonish rendering, watermarks, text overlays",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c7427408-6cd6-479b-baca-afbc8fe12e9e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: tactical gear catalog layout, square crop\\nPrimary request: hardcore military tactical equipment display with firearms, ballistic vests, and night vision goggles arranged in neat formation\\nScene/backdrop: dark matte surface, minimal studio backdrop, military storage or armory aesthetic\\nSubject: assault rifles, tactical handguns, plate carriers with ballistic panels, night vision goggles, magazine pouches, tactical gloves, arranged in grid or symmetrical layout\\nStyle/medium: photorealistic product photography, editorial military catalog\\nComposition/framing: top-down flat lay with slight angle, wide shot showing full arrangement, sharp focus across all items\\nLighting/mood: cold harsh directional lighting from above, dramatic shadows, professional and authoritative atmosphere\\nColor palette: deep charcoal black background + gunmetal gray + olive drab + tactical tan + cold blue-white highlights\\nMaterials/textures: matte polymer firearm finishes, woven ballistic nylon, carbon fiber plates, rubberized grips, metallic magazines with realistic wear\\nConstraints: maintain clean orderly arrangement, all equipment must be recognizable and proportionally accurate\\nAvoid: cluttered composition, warm lighting, cartoonish rendering, watermarks, text overlays\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10764
+}

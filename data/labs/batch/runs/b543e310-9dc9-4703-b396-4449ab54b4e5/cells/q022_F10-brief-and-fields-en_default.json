@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo of Korean café-style coffee and desserts, formatted for Instagram Stories with hand-drawn annotations.\n\nStyle/medium: smartphone photography aesthetic, editorial food photography with hand-drawn sketch overlay, Korean café influencer style, magazine rough-note aesthetic\nComposition: flat-lay or 45-degree angle, centered arrangement of coffee cup and dessert on marble or wooden table, negative space for annotations, Instagram Stories vertical format\nSubject: latte art in ceramic cup, Korean-style dessert (bingsu or pastry), minimal props like dried flowers or café menu card, no people\nScene/backdrop: bright Korean café interior with soft natural light, clean minimalist table setting, blurred background suggesting cozy space\nLighting/mood: soft diffused daylight from window, bright and airy atmosphere, gentle shadows\nColor palette: warm browns from coffee, soft pastels from dessert, neutral whites and beiges, muted earth tones\nText (verbatim): \"清爽\" \"温柔的甜味\" \"湿润\" \"最高\" \"放松\" \"美好时光\" \"幸福过头了～\"\nAnnotations: thin white hand-drawn sketch lines, rough uneven strokes tracing object outlines, arrows and dotted lines for visual guidance, 70% hiragana 30% simple kanji, diary-style short comments, decorative elements (steam, sparkles, hearts, small emoticons) with intentional white space\nConstraints: annotations must follow the object contours naturally, text should feel like spontaneous diary notes, maintain fashionable yet relaxed mood\nAvoid: photorealistic 3D render look, cluttered composition, overly polished digital illustration, stock photo aesthetic, watermark",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/170cc5cd-4849-4d8f-8924-c3d037ead8ea/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing editorial photo of Korean café-style coffee and desserts, formatted for Instagram Stories with hand-drawn annotations.\\n\\nStyle/medium: smartphone photography aesthetic, editorial food photography with hand-drawn sketch overlay, Korean café influencer style, magazine rough-note aesthetic\\nComposition: flat-lay or 45-degree angle, centered arrangement of coffee cup and dessert on marble or wooden table, negative space for annotations, Instagram Stories vertical format\\nSubject: latte art in ceramic cup, Korean-style dessert (bingsu or pastry), minimal props like dried flowers or café menu card, no people\\nScene/backdrop: bright Korean café interior with soft natural light, clean minimalist table setting, blurred background suggesting cozy space\\nLighting/mood: soft diffused daylight from window, bright and airy atmosphere, gentle shadows\\nColor palette: warm browns from coffee, soft pastels from dessert, neutral whites and beiges, muted earth tones\\nText (verbatim): \\\"清爽\\\" \\\"温柔的甜味\\\" \\\"湿润\\\" \\\"最高\\\" \\\"放松\\\" \\\"美好时光\\\" \\\"幸福过头了～\\\"\\nAnnotations: thin white hand-drawn sketch lines, rough uneven strokes tracing object outlines, arrows and dotted lines for visual guidance, 70% hiragana 30% simple kanji, diary-style short comments, decorative elements (steam, sparkles, hearts, small emoticons) with intentional white space\\nConstraints: annotations must follow the object contours naturally, text should feel like spontaneous diary notes, maintain fashionable yet relaxed mood\\nAvoid: photorealistic 3D render look, cluttered composition, overly polished digital illustration, stock photo aesthetic, watermark\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11316
+}

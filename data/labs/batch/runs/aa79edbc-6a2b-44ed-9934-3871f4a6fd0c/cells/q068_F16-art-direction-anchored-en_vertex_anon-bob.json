@@ -1,0 +1,23 @@
+{
+  "query_idx": 68,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张横版 logo application 展示图，包含网页、手机 App、明信片、信纸等办公用具的品牌应用场景，统一排版在同一张图上。\n\n风格/媒介：参考上传图片中的 logo 设计与背景视觉风格\n构图：横版构图，多场景并排排版，网页 / 手机 App / 明信片 / 信纸等办公用具依次展示\n主体：logo 应用于各类品牌物料（网页界面、手机 App 界面、明信片、信纸及其他办公用具）\n场景/背景：与参考图一致的背景风格\n光线/氛围：\n色彩方案：与参考 logo 及背景风格保持一致\n材质/纹理：\n文字(原样)：\n约束：logo 样式与参考图保持一致；整体视觉语言统一\n避免：各场景风格不一致；logo 变形或失真",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A544e883b-d9af-4e42-ac32-33b125c16eb3/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张横版 logo application 展示图，包含网页、手机 App、明信片、信纸等办公用具的品牌应用场景，统一排版在同一张图上。\\n\\n风格/媒介：参考上传图片中的 logo 设计与背景视觉风格\\n构图：横版构图，多场景并排排版，网页 / 手机 App / 明信片 / 信纸等办公用具依次展示\\n主体：logo 应用于各类品牌物料（网页界面、手机 App 界面、明信片、信纸及其他办公用具）\\n场景/背景：与参考图一致的背景风格\\n光线/氛围：\\n色彩方案：与参考 logo 及背景风格保持一致\\n材质/纹理：\\n文字(原样)：\\n约束：logo 样式与参考图保持一致；整体视觉语言统一\\n避免：各场景风格不一致；logo 变形或失真\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10000,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

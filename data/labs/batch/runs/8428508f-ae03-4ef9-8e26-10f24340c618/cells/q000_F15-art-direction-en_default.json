@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a \"小红书\" (Xiaohongshu) product cover image for a pearl milk tea brand.\n\nStyle/medium: needs a \"粉色少女风\" (pink girly) aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include pearl milk tea as the hero product\nScene/backdrop: needs a summer, refreshing backdrop — exact setting is yours\nLighting/mood: needs a cool, breezy summer atmosphere — exact light source mix is yours\nColor palette: needs a pink-dominant, soft and dreamy direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3fd8da49-c2ee-4d81-a930-69af2003b863/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a \\\"小红书\\\" (Xiaohongshu) product cover image for a pearl milk tea brand.\\n\\nStyle/medium: needs a \\\"粉色少女风\\\" (pink girly) aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include pearl milk tea as the hero product\\nScene/backdrop: needs a summer, refreshing backdrop — exact setting is yours\\nLighting/mood: needs a cool, breezy summer atmosphere — exact light source mix is yours\\nColor palette: needs a pink-dominant, soft and dreamy direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5893
+}

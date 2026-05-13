@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo for a Xiaohongshu (Little Red Book) cover featuring bubble tea.\n\nStyle/medium: \nComposition: \nSubject: bubble tea / pearl milk tea\nScene/backdrop: \nLighting/mood: summer freshness, cool summer vibe\nColor palette: pink, girly aesthetic\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/04761aa3-5bec-45ba-a6d3-3e02e3546e5a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo for a Xiaohongshu (Little Red Book) cover featuring bubble tea.\\n\\nStyle/medium: \\nComposition: \\nSubject: bubble tea / pearl milk tea\\nScene/backdrop: \\nLighting/mood: summer freshness, cool summer vibe\\nColor palette: pink, girly aesthetic\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5151
+}

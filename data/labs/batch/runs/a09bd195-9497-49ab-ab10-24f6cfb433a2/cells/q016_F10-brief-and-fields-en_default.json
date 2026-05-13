@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a warm Chinese family hotpot dinner gathering.\n\nStyle/medium: photorealistic documentary photography, contemporary Chinese lifestyle editorial\nComposition: eye-level medium shot capturing the round table and family members, natural framing with slight depth\nSubject: multi-generational Chinese family gathered around a round table, raising glasses in a toast, genuine laughter and connection, hands holding cups mid-air\nScene/backdrop: cozy dining room with a round Chinese table at center, bubbling hotpot with visible steam rising, walls covered with framed family photos creating a personal gallery\nLighting/mood: warm yellow ambient lighting from overhead fixtures and wall sconces, soft glow creating intimate atmosphere, steam catching the light\nColor palette: warm amber and yellow as dominant tones, rich browns of wooden furniture, red accents from hotpot and decorations, cream and beige from steam and walls\nMaterials/textures: glossy ceramic hotpot surface with bubbling broth, steam wisps, wooden table grain, matte photo frames on wall, fabric of casual home clothing\nAvoid: harsh white lighting, sterile restaurant environment, posed artificial smiles, 8K stuffer aesthetic, oversaturated colors",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8ea4ab59-4dba-434a-811f-0df7184d6e0b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a warm Chinese family hotpot dinner gathering.\\n\\nStyle/medium: photorealistic documentary photography, contemporary Chinese lifestyle editorial\\nComposition: eye-level medium shot capturing the round table and family members, natural framing with slight depth\\nSubject: multi-generational Chinese family gathered around a round table, raising glasses in a toast, genuine laughter and connection, hands holding cups mid-air\\nScene/backdrop: cozy dining room with a round Chinese table at center, bubbling hotpot with visible steam rising, walls covered with framed family photos creating a personal gallery\\nLighting/mood: warm yellow ambient lighting from overhead fixtures and wall sconces, soft glow creating intimate atmosphere, steam catching the light\\nColor palette: warm amber and yellow as dominant tones, rich browns of wooden furniture, red accents from hotpot and decorations, cream and beige from steam and walls\\nMaterials/textures: glossy ceramic hotpot surface with bubbling broth, steam wisps, wooden table grain, matte photo frames on wall, fabric of casual home clothing\\nAvoid: harsh white lighting, sterile restaurant environment, posed artificial smiles, 8K stuffer aesthetic, oversaturated colors\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9620
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a classical oil painting portrait of a contemporary urban professional woman using Rembrandt lighting techniques.\n\nStyle/medium: classical oil painting in the style of Dutch Golden Age masters, heavy impasto brushwork, museum-quality fine art, Rembrandt chiaroscuro technique\nComposition: bust-length portrait, three-quarter view, subject centered, shallow depth of field drawing focus to face and hands\nSubject: East Asian woman approximately 35 years old, wearing dark business suit, wise and determined expression, holding a heavy book with meticulously rendered hands showing knuckles and skin texture\nScene/backdrop: deep brown dark background with minimal detail, void-like atmosphere to concentrate all attention on subject's face\nLighting/mood: Rembrandt lighting creating classic triangular highlight on one side of face, opposite side in soft shadow, dramatic yet intimate mood\nColor palette: dominant browns, ochres, and deep reds, with warm white highlights only on facial high points, restrained and harmonious\nMaterials/textures: thick visible brushstrokes, rich oil paint texture, realistic skin rendering, fabric weight in dark suit, aged paper texture of book\nAvoid: modern photographic sharpness, digital smoothness, anachronistic elements, bright saturated colors, cluttered background, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fd98ef3d-ba13-4e3c-8065-b8f10d5957b1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a classical oil painting portrait of a contemporary urban professional woman using Rembrandt lighting techniques.\\n\\nStyle/medium: classical oil painting in the style of Dutch Golden Age masters, heavy impasto brushwork, museum-quality fine art, Rembrandt chiaroscuro technique\\nComposition: bust-length portrait, three-quarter view, subject centered, shallow depth of field drawing focus to face and hands\\nSubject: East Asian woman approximately 35 years old, wearing dark business suit, wise and determined expression, holding a heavy book with meticulously rendered hands showing knuckles and skin texture\\nScene/backdrop: deep brown dark background with minimal detail, void-like atmosphere to concentrate all attention on subject's face\\nLighting/mood: Rembrandt lighting creating classic triangular highlight on one side of face, opposite side in soft shadow, dramatic yet intimate mood\\nColor palette: dominant browns, ochres, and deep reds, with warm white highlights only on facial high points, restrained and harmonious\\nMaterials/textures: thick visible brushstrokes, rich oil paint texture, realistic skin rendering, fabric weight in dark suit, aged paper texture of book\\nAvoid: modern photographic sharpness, digital smoothness, anachronistic elements, bright saturated colors, cluttered background, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10349
+}

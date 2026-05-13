@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster for a sci-fi thriller film about the awakening of artificial intelligence.\n\nStyle/medium: photorealistic digital compositing, cyberpunk aesthetic, high-contrast editorial poster in the spirit of Blade Runner 2049 key art\nComposition: vertical center composition, full-bleed portrait orientation, figure occupying upper two-thirds, lower one-third reserved as title text area, direct eye contact with viewer\nSubject: a half-human half-mechanical face — left half is a refined human female face with a warm brown eye, right half exposes intricate circuit boards and metallic skeletal structure with a glowing blue mechanical eye; the two halves merge seamlessly at the center vertical axis\nScene/backdrop: vast digital matrix void — cascading green code characters falling from above in dense vertical streams, deep infinite dark space\nLighting/mood: cold blue ambient fill from below, green code glow casting subtle reflections on the mechanical side, dramatic split-lighting along the center seam, tense and suspenseful atmosphere\nColor palette: dominant cold blue and matrix green, warm human skin tone as deliberate contrast anchor on the left half, glowing blue as accent on the mechanical eye\nMaterials/textures: pore-level human skin texture on the left, precision-machined metal surfaces and hairline circuit traces on the right, visible solder points and fiber-optic filaments\nConstraints: lower one-third of frame must remain compositionally clear for title typography overlay; mechanical and organic halves must read as a single unified face at a glance\nAvoid: cartoonish or anime stylization, muddy color mixing at the center seam, symmetrical robot face clichés, generic Behance sci-fi glow overload, watermark",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6db5e354-6fb0-493c-85f6-5e1c2d351e72/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster for a sci-fi thriller film about the awakening of artificial intelligence.\\n\\nStyle/medium: photorealistic digital compositing, cyberpunk aesthetic, high-contrast editorial poster in the spirit of Blade Runner 2049 key art\\nComposition: vertical center composition, full-bleed portrait orientation, figure occupying upper two-thirds, lower one-third reserved as title text area, direct eye contact with viewer\\nSubject: a half-human half-mechanical face — left half is a refined human female face with a warm brown eye, right half exposes intricate circuit boards and metallic skeletal structure with a glowing blue mechanical eye; the two halves merge seamlessly at the center vertical axis\\nScene/backdrop: vast digital matrix void — cascading green code characters falling from above in dense vertical streams, deep infinite dark space\\nLighting/mood: cold blue ambient fill from below, green code glow casting subtle reflections on the mechanical side, dramatic split-lighting along the center seam, tense and suspenseful atmosphere\\nColor palette: dominant cold blue and matrix green, warm human skin tone as deliberate contrast anchor on the left half, glowing blue as accent on the mechanical eye\\nMaterials/textures: pore-level human skin texture on the left, precision-machined metal surfaces and hairline circuit traces on the right, visible solder points and fiber-optic filaments\\nConstraints: lower one-third of frame must remain compositionally clear for title typography overlay; mechanical and organic halves must read as a single unified face at a glance\\nAvoid: cartoonish or anime stylization, muddy color mixing at the center seam, symmetrical robot face clichés, generic Behance sci-fi glow overload, watermark\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16313
+}

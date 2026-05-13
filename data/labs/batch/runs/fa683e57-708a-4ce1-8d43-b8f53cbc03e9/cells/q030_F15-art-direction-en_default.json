@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial street documentary photograph of devotees performing the morning ritual bath in the Ganges at Varanasi, India (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a documentary street-photography aesthetic — exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include devotees performing morning bath ritual\nScene/backdrop: must include the Ganges river at Varanasi, boats in morning mist\nLighting/mood: needs warm-toned morning sunlight atmosphere — exact light source mix is yours\nColor palette: needs a warm direction — exact hue values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/98dd1312-ba49-459f-a8a0-b5e3ef5ff10a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial street documentary photograph of devotees performing the morning ritual bath in the Ganges at Varanasi, India (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a documentary street-photography aesthetic — exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include devotees performing morning bath ritual\\nScene/backdrop: must include the Ganges river at Varanasi, boats in morning mist\\nLighting/mood: needs warm-toned morning sunlight atmosphere — exact light source mix is yours\\nColor palette: needs a warm direction — exact hue values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7985
+}

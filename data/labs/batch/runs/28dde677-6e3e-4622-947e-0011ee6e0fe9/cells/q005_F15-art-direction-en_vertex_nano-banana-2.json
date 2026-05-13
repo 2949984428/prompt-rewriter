@@ -1,0 +1,21 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing educational infographic explaining the definitions of and relationships among a set of AI-related concepts.\n\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\nComposition: must include each concept as a labeled node with definition snippet, connected by relationship lines/arrows showing how concepts relate to each other\nSubject: must include all 7 concepts:\n  - AI\n  - MCP\n  - AI Agent\n  - OpenClaw\n  - AI Skill\n  - 蒸馏\n  - CLI\nScene/backdrop: \nLighting/mood: \nColor palette: needs a friendly, approachable direction — exact palette is yours\nMaterials/textures: needs a hand-drawn / sketchbook surface treatment — exact paper texture and line weight are yours\nText (verbatim): must include labels and short definition captions for each concept: \"AI\" / \"MCP\" / \"AI Agent\" / \"OpenClaw\" / \"AI Skill\" / \"蒸馏\" / \"CLI\"\nConstraints: must preserve all 7 concept names verbatim; relationship arrows or connectors between concepts must be clearly legible; layout must be visually approachable and easy to read for a general audience\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa6f8ea86-7f44-429c-90fb-7607084788f1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing educational infographic explaining the definitions of and relationships among a set of AI-related concepts.\\n\\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\\nComposition: must include each concept as a labeled node with definition snippet, connected by relationship lines/arrows showing how concepts relate to each other\\nSubject: must include all 7 concepts:\\n  - AI\\n  - MCP\\n  - AI Agent\\n  - OpenClaw\\n  - AI Skill\\n  - 蒸馏\\n  - CLI\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a friendly, approachable direction — exact palette is yours\\nMaterials/textures: needs a hand-drawn / sketchbook surface treatment — exact paper texture and line weight are yours\\nText (verbatim): must include labels and short definition captions for each concept: \\\"AI\\\" / \\\"MCP\\\" / \\\"AI Agent\\\" / \\\"OpenClaw\\\" / \\\"AI Skill\\\" / \\\"蒸馏\\\" / \\\"CLI\\\"\\nConstraints: must preserve all 7 concept names verbatim; relationship arrows or connectors between concepts must be clearly legible; layout must be visually approachable and easy to read for a general audience\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8837
+}

@@ -1,0 +1,19 @@
+{
+  "id": "c5932ea7-2729-493b-ac46-3923fa9c03b8",
+  "created_at": "2026-04-27T12:49:42.314Z",
+  "name": "F11-passthrough-verify",
+  "query_mode": "manual",
+  "purpose": "",
+  "queries": [
+    "后台核实测试 — 一张 16:9 的科幻电影场景视频封面"
+  ],
+  "skill_ids": [
+    "F11-direct-api"
+  ],
+  "scoring_dimensions": [],
+  "rewrite_llm": "",
+  "status": "finished",
+  "cell_keys": [
+    "q000_F11-direct-api_default"
+  ]
+}

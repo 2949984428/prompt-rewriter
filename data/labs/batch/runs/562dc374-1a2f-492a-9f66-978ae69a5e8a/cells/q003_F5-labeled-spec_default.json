@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: interior-design-mockup\nAsset type: editorial interior photography, lifestyle magazine spread\nPrimary request: minimalist Scandinavian living room with soft natural light and cozy atmosphere\nScene/backdrop: white painted walls, light oak wood flooring, large floor-to-ceiling window with soft daylight streaming in\nSubject: gray fabric sofa as focal point, potted green plant beside it, modern floor lamp with clean lines\nStyle/medium: interior photography, Scandinavian minimalism, hygge aesthetic\nComposition/framing: wide shot, balanced composition, eye-level perspective\nLighting/mood: soft diffused sunlight through large window, warm and inviting, clean and bright\nColor palette: white walls + light oak wood + gray sofa + green plant + warm natural sunlight\nMaterials/textures: matte painted walls, smooth oak floor grain, soft woven fabric upholstery, matte metal lamp finish, natural plant leaves\nConstraints: maintain minimalist aesthetic with no clutter, keep the warm sunlight as key element\nAvoid: cluttered objects, dark shadows, artificial lighting, busy patterns, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/35a4155f-1bff-41a6-aa4a-6e6cd777f14b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: interior-design-mockup\\nAsset type: editorial interior photography, lifestyle magazine spread\\nPrimary request: minimalist Scandinavian living room with soft natural light and cozy atmosphere\\nScene/backdrop: white painted walls, light oak wood flooring, large floor-to-ceiling window with soft daylight streaming in\\nSubject: gray fabric sofa as focal point, potted green plant beside it, modern floor lamp with clean lines\\nStyle/medium: interior photography, Scandinavian minimalism, hygge aesthetic\\nComposition/framing: wide shot, balanced composition, eye-level perspective\\nLighting/mood: soft diffused sunlight through large window, warm and inviting, clean and bright\\nColor palette: white walls + light oak wood + gray sofa + green plant + warm natural sunlight\\nMaterials/textures: matte painted walls, smooth oak floor grain, soft woven fabric upholstery, matte metal lamp finish, natural plant leaves\\nConstraints: maintain minimalist aesthetic with no clutter, keep the warm sunlight as key element\\nAvoid: cluttered objects, dark shadows, artificial lighting, busy patterns, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9764
+}

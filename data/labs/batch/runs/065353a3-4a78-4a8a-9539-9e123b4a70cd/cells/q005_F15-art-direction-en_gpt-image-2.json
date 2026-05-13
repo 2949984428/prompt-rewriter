@@ -1,0 +1,21 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing educational infographic explaining AI-related concepts and their relationships.\n\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\nComposition: must include each concept as a labeled node with definition text, connected by relationship lines/arrows showing how concepts relate to each other\nSubject: must include all 7 concepts with definitions and relationship links:\n  - AI\n  - MCP\n  - AI Agent\n  - OpenClaw\n  - AI Skill\n  - 蒸馏\n  - CLI\nScene/backdrop: needs a light, approachable background — exact treatment is yours\nLighting/mood: needs a friendly, approachable educational atmosphere — exact mood execution is yours\nColor palette: needs a clear, readable direction with visual hierarchy — exact color choices are yours\nMaterials/textures: needs a hand-drawn / sketch texture feel — exact line weight and paper texture are yours\nText (verbatim): must include all 7 concept labels verbatim: \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must preserve all 7 concepts; each concept must have a short definition snippet and at least one visible relationship arrow or connector to related concepts; layout must be readable and not overcrowded\nAvoid: overly technical dense text blocks; sterile corporate chart style",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A1fd3e785-2ccb-4aa4-ba22-cd6c6bd67e2d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing educational infographic explaining AI-related concepts and their relationships.\\n\\nStyle/medium: needs a hand-drawn illustration aesthetic — exact stylistic execution is yours\\nComposition: must include each concept as a labeled node with definition text, connected by relationship lines/arrows showing how concepts relate to each other\\nSubject: must include all 7 concepts with definitions and relationship links:\\n  - AI\\n  - MCP\\n  - AI Agent\\n  - OpenClaw\\n  - AI Skill\\n  - 蒸馏\\n  - CLI\\nScene/backdrop: needs a light, approachable background — exact treatment is yours\\nLighting/mood: needs a friendly, approachable educational atmosphere — exact mood execution is yours\\nColor palette: needs a clear, readable direction with visual hierarchy — exact color choices are yours\\nMaterials/textures: needs a hand-drawn / sketch texture feel — exact line weight and paper texture are yours\\nText (verbatim): must include all 7 concept labels verbatim: \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must preserve all 7 concepts; each concept must have a short definition snippet and at least one visible relationship arrow or connector to related concepts; layout must be readable and not overcrowded\\nAvoid: overly technical dense text blocks; sterile corporate chart style\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9232
+}

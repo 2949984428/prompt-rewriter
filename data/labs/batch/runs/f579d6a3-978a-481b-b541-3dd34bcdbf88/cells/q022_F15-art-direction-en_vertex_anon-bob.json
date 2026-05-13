@@ -1,0 +1,21 @@
+{
+  "query_idx": 22,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing styled food photography image of fashionable coffee and desserts in a Korean cafe setting, with hand-drawn white-pen annotation overlays — no people.\n\nStyle/medium: needs a Korean-cafe smartphone aesthetic with Instagram-story / rough-magazine-note overlay feel — exact stylistic execution is yours\nComposition: must include hand-drawn white-pen annotations for each element in the scene, with arrows or dashed lines as visual guides connecting annotations to subjects\nSubject: must include coffee drink(s) and dessert/sweets as focal subjects — no people\nScene/backdrop: must include a Korean cafe interior or cafe-table setting atmosphere\nLighting/mood: needs a soft, fashionable, relaxed cafe atmosphere — exact light source mix is yours\nColor palette: needs a clean, muted-trendy Korean-cafe direction — exact tones and ratios are yours\nMaterials/textures: needs a hand-drawn overlay treatment — white pen lines, single-stroke rough style, slightly uneven weight, outline-tracing the edges of objects; moderate decorative accents (steam wisps, sparkles, small hearts, mini emoticons) with deliberate negative space preserved\nText (verbatim): must include handwritten Japanese annotation text (平仮名7割・簡単な漢字3割) for each element — short, diary-like, self-murmuring tone:\n  • drink annotation → taste / temperature / mood (e.g. 「すっきり」「やさしい甘さ」)\n  • food annotation → texture / deliciousness (e.g. 「しっとり」「さいこう」)\n  • space annotation → atmosphere (e.g. 「落ち着く」「いい時間」)\n  • overall one-liner (e.g. 「しあわせすぎた〜」)\nConstraints: must preserve the hand-drawn annotation layer as an integral visual element over the photo; annotations must feel like genuine handwritten notes, not printed type; decorative elements must be restrained — leave breathing room / negative space\nAvoid: people, faces, overly polished digital lettering, cluttered or over-decorated annotation layer",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af99f2fa9-9af2-48ff-b5f8-d613e1d6f87a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing styled food photography image of fashionable coffee and desserts in a Korean cafe setting, with hand-drawn white-pen annotation overlays — no people.\\n\\nStyle/medium: needs a Korean-cafe smartphone aesthetic with Instagram-story / rough-magazine-note overlay feel — exact stylistic execution is yours\\nComposition: must include hand-drawn white-pen annotations for each element in the scene, with arrows or dashed lines as visual guides connecting annotations to subjects\\nSubject: must include coffee drink(s) and dessert/sweets as focal subjects — no people\\nScene/backdrop: must include a Korean cafe interior or cafe-table setting atmosphere\\nLighting/mood: needs a soft, fashionable, relaxed cafe atmosphere — exact light source mix is yours\\nColor palette: needs a clean, muted-trendy Korean-cafe direction — exact tones and ratios are yours\\nMaterials/textures: needs a hand-drawn overlay treatment — white pen lines, single-stroke rough style, slightly uneven weight, outline-tracing the edges of objects; moderate decorative accents (steam wisps, sparkles, small hearts, mini emoticons) with deliberate negative space preserved\\nText (verbatim): must include handwritten Japanese annotation text (平仮名7割・簡単な漢字3割) for each element — short, diary-like, self-murmuring tone:\\n  • drink annotation → taste / temperature / mood (e.g. 「すっきり」「やさしい甘さ」)\\n  • food annotation → texture / deliciousness (e.g. 「しっとり」「さいこう」)\\n  • space annotation → atmosphere (e.g. 「落ち着く」「いい時間」)\\n  • overall one-liner (e.g. 「しあわせすぎた〜」)\\nConstraints: must preserve the hand-drawn annotation layer as an integral visual element over the photo; annotations must feel like genuine handwritten notes, not printed type; decorative elements must be restrained — leave breathing room / negative space\\nAvoid: people, faces, overly polished digital lettering, cluttered or over-decorated annotation layer\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16614
+}

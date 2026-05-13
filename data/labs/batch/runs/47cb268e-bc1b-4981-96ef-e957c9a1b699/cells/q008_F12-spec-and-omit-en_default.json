@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a cross-border e-commerce promotional campaign.\n\nStyle/medium: complex editorial poster layout with artistic lettering and typographic stacking\nComposition: layered composition where product(s) or hero subject physically overlap and occlude portions of the stacked typography; visually complex but organized, not chaotic\nSubject: cross-border e-commerce promotional products as hero subject(s)\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: artistic lettering required; stacked font layers required; product or main subject must cover/block parts of the text; layout must be visually rich and layered but not cluttered\nAvoid: plain flat layout, empty minimalism, text fully unobstructed by any subject",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/efc38f56-ca4b-440d-84ba-b27754114a1a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for a cross-border e-commerce promotional campaign.\\n\\nStyle/medium: complex editorial poster layout with artistic lettering and typographic stacking\\nComposition: layered composition where product(s) or hero subject physically overlap and occlude portions of the stacked typography; visually complex but organized, not chaotic\\nSubject: cross-border e-commerce promotional products as hero subject(s)\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: artistic lettering required; stacked font layers required; product or main subject must cover/block parts of the text; layout must be visually rich and layered but not cluttered\\nAvoid: plain flat layout, empty minimalism, text fully unobstructed by any subject\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7291
+}

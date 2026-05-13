@@ -1,0 +1,23 @@
+{
+  "query_idx": 158,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:图层-1010_01]根据我现在详情页的整体风格，生成一张符合以下图片[@image:#2:image]文案，制作电商产品使用步骤淘宝平台详情图（文案图片中有两个步骤）",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae147dc16-5cf9-47e4-aa39-72b2595ad472/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:图层-1010_01]根据我现在详情页的整体风格，生成一张符合以下图片[@image:#2:image]文案，制作电商产品使用步骤淘宝平台详情图（文案图片中有两个步骤）\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3083,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

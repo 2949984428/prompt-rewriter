@@ -1,0 +1,23 @@
+{
+  "query_idx": 13,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Group 79][@image:#2:Group 79-1]根据Frontier公司logo生成标准化制图，背景为白色。logo颜色为#1A395F #436792 #A3C0D9",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A176612c0-1780-4c5b-8db0-a01468691af4/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Group 79][@image:#2:Group 79-1]根据Frontier公司logo生成标准化制图，背景为白色。logo颜色为#1A395F #436792 #A3C0D9\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3050,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

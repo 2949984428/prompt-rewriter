@@ -1,0 +1,23 @@
+{
+  "query_idx": 260,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1: Image][@image:#1: Image][@image:#2: Image][@image:#3: Image] 现在要设计一张蒂花之秀洗发水产品的海报，产品的成分是玻尿酸和二硫化硒，生一些玻尿酸和二硫化硒质感比较好的分子成分图出来，要大牌的高级质感发布于小红书",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3c229f7d-a25b-4a5d-8c0f-22fe9b8a7746/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1: Image][@image:#1: Image][@image:#2: Image][@image:#3: Image] 现在要设计一张蒂花之秀洗发水产品的海报，产品的成分是玻尿酸和二硫化硒，生一些玻尿酸和二硫化硒质感比较好的分子成分图出来，要大牌的高级质感发布于小红书\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3335,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 209,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张符合 Shopee 平台主图规范的场景图。\n\n风格/媒介：电商产品主图，写实风格\n构图：\n  主体居中\n  将图1中的文件夹产品放置于图2红色框所在区域，消除红色框\n  画面简洁，主体突出\n主体：文件夹产品（来自图1）\n场景/背景：符合 Shopee 主图规范的干净背景（白色或浅色纯色）\n光线/氛围：明亮均匀，商品清晰可见\n色彩方案：\n材质/纹理：\n文字(原样)：\n约束：\n  图片比例 1:1，符合 Shopee 主图尺寸规范\n  无水印、无多余装饰元素\n  红色框不出现在最终画面中\n避免：杂乱背景、红色边框、水印、文字叠加",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae5619199-2663-41af-94c7-c66d40b02481/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张符合 Shopee 平台主图规范的场景图。\\n\\n风格/媒介：电商产品主图，写实风格\\n构图：\\n  主体居中\\n  将图1中的文件夹产品放置于图2红色框所在区域，消除红色框\\n  画面简洁，主体突出\\n主体：文件夹产品（来自图1）\\n场景/背景：符合 Shopee 主图规范的干净背景（白色或浅色纯色）\\n光线/氛围：明亮均匀，商品清晰可见\\n色彩方案：\\n材质/纹理：\\n文字(原样)：\\n约束：\\n  图片比例 1:1，符合 Shopee 主图尺寸规范\\n  无水印、无多余装饰元素\\n  红色框不出现在最终画面中\\n避免：杂乱背景、红色边框、水印、文字叠加\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 14989,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

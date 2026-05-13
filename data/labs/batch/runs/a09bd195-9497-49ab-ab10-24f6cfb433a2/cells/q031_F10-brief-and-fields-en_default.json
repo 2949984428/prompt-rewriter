@@ -1,0 +1,20 @@
+{
+  "query_idx": 31,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original interior design visualization for a New Chinese style tea room, suitable for contemplative tea tasting.\n\nStyle/medium: photorealistic architectural visualization, New Chinese (新中式) interior design, serene Zen aesthetic\nComposition: eye-level perspective from seating position, medium shot framing the tea table and background elements, natural depth of field\nSubject: solid wood tea table (原木茶台) with a purple clay teapot (紫砂壶) and matching tea cups, traditional tea set arrangement\nScene/backdrop: calligraphy scroll (书法卷轴) and bonsai (盆景) as wall decor, large window revealing swaying bamboo shadows (竹影婆娑) outside, tranquil tea room interior\nLighting/mood: soft natural daylight filtering through bamboo, gentle shadows, contemplative and meditative atmosphere (禅意盎然)\nColor palette: warm wood tones as base, earthy browns and muted greens, ink black accents from calligraphy, natural light beige\nMaterials/textures: raw wood grain on tea table, unglazed clay texture of teapot, rice paper scroll, living bonsai foliage, bamboo silhouette through window\nAvoid: overly saturated colors, modern furniture intrusions, cluttered composition, artificial harsh lighting, generic stock photo aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/751e974d-c55d-4de7-af7a-050df2b742c5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original interior design visualization for a New Chinese style tea room, suitable for contemplative tea tasting.\\n\\nStyle/medium: photorealistic architectural visualization, New Chinese (新中式) interior design, serene Zen aesthetic\\nComposition: eye-level perspective from seating position, medium shot framing the tea table and background elements, natural depth of field\\nSubject: solid wood tea table (原木茶台) with a purple clay teapot (紫砂壶) and matching tea cups, traditional tea set arrangement\\nScene/backdrop: calligraphy scroll (书法卷轴) and bonsai (盆景) as wall decor, large window revealing swaying bamboo shadows (竹影婆娑) outside, tranquil tea room interior\\nLighting/mood: soft natural daylight filtering through bamboo, gentle shadows, contemplative and meditative atmosphere (禅意盎然)\\nColor palette: warm wood tones as base, earthy browns and muted greens, ink black accents from calligraphy, natural light beige\\nMaterials/textures: raw wood grain on tea table, unglazed clay texture of teapot, rice paper scroll, living bonsai foliage, bamboo silhouette through window\\nAvoid: overly saturated colors, modern furniture intrusions, cluttered composition, artificial harsh lighting, generic stock photo aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10914
+}

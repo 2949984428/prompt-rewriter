@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original illustration in cel-shaded thick-paint anime style, featuring a Western-style light-makeup beauty girl in a rebalanced scene.\n\nStyle/medium: cel-shaded thick-paint anime illustration,赛璐璐厚涂, semi-realistic anime aesthetic with soft painted textures\nComposition: balanced two-character scene with items repositioned for spatial harmony, medium shot framing\nSubject: girl with Western-style light makeup, delicate features, natural beauty, soft expression,赛璐璐厚涂 style rendering\nScene/backdrop: interior or outdoor setting with props rearranged for visual balance, complementary environment\nLighting/mood: soft diffused lighting, gentle atmosphere, warm and inviting mood\nColor palette: harmonious anime color scheme with soft skin tones and balanced accent colors\nMaterials/textures: painted anime style with visible brushwork texture, smooth cel-shaded gradients\nConstraints: maintain赛璐璐厚涂 aesthetic throughout, ensure Western light-makeup beauty standards for the girl character\nAvoid: photorealistic rendering, 3D CGI look, deformed anatomy, cluttered composition, harsh lighting",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ecfd73c4-7f01-430a-96bc-a6c8c79ad37b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original illustration in cel-shaded thick-paint anime style, featuring a Western-style light-makeup beauty girl in a rebalanced scene.\\n\\nStyle/medium: cel-shaded thick-paint anime illustration,赛璐璐厚涂, semi-realistic anime aesthetic with soft painted textures\\nComposition: balanced two-character scene with items repositioned for spatial harmony, medium shot framing\\nSubject: girl with Western-style light makeup, delicate features, natural beauty, soft expression,赛璐璐厚涂 style rendering\\nScene/backdrop: interior or outdoor setting with props rearranged for visual balance, complementary environment\\nLighting/mood: soft diffused lighting, gentle atmosphere, warm and inviting mood\\nColor palette: harmonious anime color scheme with soft skin tones and balanced accent colors\\nMaterials/textures: painted anime style with visible brushwork texture, smooth cel-shaded gradients\\nConstraints: maintain赛璐璐厚涂 aesthetic throughout, ensure Western light-makeup beauty standards for the girl character\\nAvoid: photorealistic rendering, 3D CGI look, deformed anatomy, cluttered composition, harsh lighting\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13002
+}

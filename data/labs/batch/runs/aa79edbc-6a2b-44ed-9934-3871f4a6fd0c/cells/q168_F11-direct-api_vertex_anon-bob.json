@@ -1,0 +1,27 @@
+{
+  "query_idx": 168,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "为我的产品设计一套亚马逊高级 A+ 详情图，我的产品图是[@image:#1:4K] 卖点是：防水防霉，浴室快速排水沟槽设计，葫芦形外观、坚固耐用，天然竹木环保，90度转角设计，节约空间",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A21dd7936-2f38-4b97-bcf3-2d368930b79c/0.jpg",
+    "/api/image-file/lovart%3A21dd7936-2f38-4b97-bcf3-2d368930b79c/1.jpg",
+    "/api/image-file/lovart%3A21dd7936-2f38-4b97-bcf3-2d368930b79c/2.jpg",
+    "/api/image-file/lovart%3A21dd7936-2f38-4b97-bcf3-2d368930b79c/3.jpg",
+    "/api/image-file/lovart%3A21dd7936-2f38-4b97-bcf3-2d368930b79c/4.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"为我的产品设计一套亚马逊高级 A+ 详情图，我的产品图是[@image:#1:4K] 卖点是：防水防霉，浴室快速排水沟槽设计，葫芦形外观、坚固耐用，天然竹木环保，90度转角设计，节约空间\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3185,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

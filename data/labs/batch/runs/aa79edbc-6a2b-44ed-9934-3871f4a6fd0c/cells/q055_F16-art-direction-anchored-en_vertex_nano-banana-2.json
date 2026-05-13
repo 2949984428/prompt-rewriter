@@ -1,0 +1,23 @@
+{
+  "query_idx": 55,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计字体 logo —— 弈博教育。\n\n风格/媒介: 现代简洁风格，字体 logo\n构图: 文字与图形元素适度结合，整体简洁不繁杂\n主体: \"弈博教育\" 字体 logo，融入医疗器材与文具元素的图形符号\n场景/背景: 纯净背景，突出 logo 本体\n光线/氛围: 简洁明快\n色彩方案: 蓝色与绿色邻近色搭配\n材质/纹理:\n文字(原样): 弈博教育\n约束: 符合现代审美，图形元素适度点缀，不过度堆砌\n避免: 复杂装饰、过多细节、风格混乱",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acf92aa83-c6dd-404f-9f44-6ca1c79cdfd7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计字体 logo —— 弈博教育。\\n\\n风格/媒介: 现代简洁风格，字体 logo\\n构图: 文字与图形元素适度结合，整体简洁不繁杂\\n主体: \\\"弈博教育\\\" 字体 logo，融入医疗器材与文具元素的图形符号\\n场景/背景: 纯净背景，突出 logo 本体\\n光线/氛围: 简洁明快\\n色彩方案: 蓝色与绿色邻近色搭配\\n材质/纹理:\\n文字(原样): 弈博教育\\n约束: 符合现代审美，图形元素适度点缀，不过度堆砌\\n避免: 复杂装饰、过多细节、风格混乱\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7193,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster / PPT cover slide for the launch of 长安起源Q06, an automotive brand reveal, debuting in September.\n\nStyle/medium: photorealistic CGI automotive key visual, sleek and bold, in the spirit of high-end Chinese automotive brand launch campaigns\nComposition: wide cinematic horizontal layout, car as central hero element, title and subtitle text anchored in lower-center or lower-left, generous negative space above for visual breathing room\nSubject: 长安起源Q06 SUV rendered in dramatic three-quarter front view, sharp body lines, premium finish, commanding presence\nScene/backdrop: deep cosmic or atmospheric abstract background — translucent layers of light, volumetric mist, and subtle geometric depth suggesting technological sophistication; dark base with luminous breakout zones creating a sense of depth and grandeur\nLighting/mood: dramatic rim lighting on the vehicle silhouette, cool blue-white primary light source, warm amber accent glow, high contrast between subject and background to convey power and revelation\nColor palette: deep midnight navy and black as base, electric ice-blue as brand accent, subtle gold or amber highlight on vehicle edges, white for title text\nText (verbatim): \"长安起源Q06\" as primary headline; \"9月上市\" as subtitle\nConstraints: text must be legible against the background; layout must work as a 16:9 widescreen PPT cover; brand name and launch date must be visually prominent\nAvoid: generic stock-photo car backgrounds, lens flare overload, cluttered layout, watermark, cartoon or illustrated style",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1f2cfc31-b383-4e01-b1f9-813ad1664086/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster / PPT cover slide for the launch of 长安起源Q06, an automotive brand reveal, debuting in September.\\n\\nStyle/medium: photorealistic CGI automotive key visual, sleek and bold, in the spirit of high-end Chinese automotive brand launch campaigns\\nComposition: wide cinematic horizontal layout, car as central hero element, title and subtitle text anchored in lower-center or lower-left, generous negative space above for visual breathing room\\nSubject: 长安起源Q06 SUV rendered in dramatic three-quarter front view, sharp body lines, premium finish, commanding presence\\nScene/backdrop: deep cosmic or atmospheric abstract background — translucent layers of light, volumetric mist, and subtle geometric depth suggesting technological sophistication; dark base with luminous breakout zones creating a sense of depth and grandeur\\nLighting/mood: dramatic rim lighting on the vehicle silhouette, cool blue-white primary light source, warm amber accent glow, high contrast between subject and background to convey power and revelation\\nColor palette: deep midnight navy and black as base, electric ice-blue as brand accent, subtle gold or amber highlight on vehicle edges, white for title text\\nText (verbatim): \\\"长安起源Q06\\\" as primary headline; \\\"9月上市\\\" as subtitle\\nConstraints: text must be legible against the background; layout must work as a 16:9 widescreen PPT cover; brand name and launch date must be visually prominent\\nAvoid: generic stock-photo car backgrounds, lens flare overload, cluttered layout, watermark, cartoon or illustrated style\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11676
+}

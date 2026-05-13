@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a photorealistic employee ID badge design for ByteDance (字节跳动), showing both front and back sides.\n\nStyle/medium: needs a photorealistic corporate ID badge aesthetic — exact stylistic execution is yours\nComposition: must show both front and back sides of the badge laid out together\nSubject: must include a ByteDance (字节跳动) employee ID badge (both sides)\nScene/backdrop: \nLighting/mood: needs a realistic, well-lit product-shot atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a realistic physical card material treatment — exact surface finish and lanyard detail is yours\nText (verbatim): must include \"字节跳动\" and \"ByteDance\"\nConstraints: must preserve both front and back faces visible in one image; must read as a real corporate staff badge\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5885d9a2-747a-4236-add0-63767b66316c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a photorealistic employee ID badge design for ByteDance (字节跳动), showing both front and back sides.\\n\\nStyle/medium: needs a photorealistic corporate ID badge aesthetic — exact stylistic execution is yours\\nComposition: must show both front and back sides of the badge laid out together\\nSubject: must include a ByteDance (字节跳动) employee ID badge (both sides)\\nScene/backdrop: \\nLighting/mood: needs a realistic, well-lit product-shot atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a realistic physical card material treatment — exact surface finish and lanyard detail is yours\\nText (verbatim): must include \\\"字节跳动\\\" and \\\"ByteDance\\\"\\nConstraints: must preserve both front and back faces visible in one image; must read as a real corporate staff badge\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7048
+}

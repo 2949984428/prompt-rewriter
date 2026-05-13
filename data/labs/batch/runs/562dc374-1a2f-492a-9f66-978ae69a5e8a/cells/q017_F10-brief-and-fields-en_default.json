@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an abstract expressionist artwork for modern art gallery display.\n\nStyle/medium: abstract expressionism, gestural painting with bold impasto brushwork, energetic mark-making, non-representational, inspired by Willem de Kooning and Franz Kline\nComposition: dynamic asymmetrical balance, sweeping diagonal movements, no focal point, all-over composition\nSubject: pure emotion and energy through abstract forms, no recognizable objects or figures\nScene/backdrop: neutral gallery wall context implied, canvas as the entire field\nLighting/mood: dramatic contrast between saturated hues, visceral and intense emotional impact\nColor palette: bold clashing colors—cadmium red against ultramarine blue, acidic yellows, raw umber, titanium white highlights, high chroma saturation\nMaterials/textures: thick oil paint application, visible bristle marks, layered glazing, canvas weave texture\nAvoid: figurative elements, geometric precision, digital smoothness, pastel tones, representational imagery, Behance generic gradients",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/abe709cb-d38a-4ec5-bb33-d0301b28788e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an abstract expressionist artwork for modern art gallery display.\\n\\nStyle/medium: abstract expressionism, gestural painting with bold impasto brushwork, energetic mark-making, non-representational, inspired by Willem de Kooning and Franz Kline\\nComposition: dynamic asymmetrical balance, sweeping diagonal movements, no focal point, all-over composition\\nSubject: pure emotion and energy through abstract forms, no recognizable objects or figures\\nScene/backdrop: neutral gallery wall context implied, canvas as the entire field\\nLighting/mood: dramatic contrast between saturated hues, visceral and intense emotional impact\\nColor palette: bold clashing colors—cadmium red against ultramarine blue, acidic yellows, raw umber, titanium white highlights, high chroma saturation\\nMaterials/textures: thick oil paint application, visible bristle marks, layered glazing, canvas weave texture\\nAvoid: figurative elements, geometric precision, digital smoothness, pastel tones, representational imagery, Behance generic gradients\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8884
+}

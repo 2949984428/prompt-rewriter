@@ -1,0 +1,21 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide for a product launch campaign featuring 长安起源Q06.\n\nStyle/medium: needs a cinematic, high-impact visual aesthetic — exact stylistic execution is yours\nComposition: must include a dominant hero background image with title and subtitle overlaid in a brand-aligned hierarchy\nSubject: must include 长安起源Q06 as the hero subject\nScene/backdrop: needs a dramatic, immersive backdrop — exact environment and depth treatment are yours\nLighting/mood: needs a translucent, awe-inspiring atmosphere — exact light source and volumetric treatment are yours\nColor palette: needs a direction aligned with automotive brand gravitas — exact palette and ratios are yours\nMaterials/textures: needs a sense of depth and visual clarity — exact surface and glass/light treatment are yours\nText (verbatim): must include \"长安起源Q06\" (primary title), \"9月上市\" (subtitle)\nConstraints: must preserve PPT cover aspect ratio (16:9 widescreen), title and subtitle must be legible against the background\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9a9c6d6b-1349-4732-b253-7ebb78d6e6b5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide for a product launch campaign featuring 长安起源Q06.\\n\\nStyle/medium: needs a cinematic, high-impact visual aesthetic — exact stylistic execution is yours\\nComposition: must include a dominant hero background image with title and subtitle overlaid in a brand-aligned hierarchy\\nSubject: must include 长安起源Q06 as the hero subject\\nScene/backdrop: needs a dramatic, immersive backdrop — exact environment and depth treatment are yours\\nLighting/mood: needs a translucent, awe-inspiring atmosphere — exact light source and volumetric treatment are yours\\nColor palette: needs a direction aligned with automotive brand gravitas — exact palette and ratios are yours\\nMaterials/textures: needs a sense of depth and visual clarity — exact surface and glass/light treatment are yours\\nText (verbatim): must include \\\"长安起源Q06\\\" (primary title), \\\"9月上市\\\" (subtitle)\\nConstraints: must preserve PPT cover aspect ratio (16:9 widescreen), title and subtitle must be legible against the background\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8106
+}

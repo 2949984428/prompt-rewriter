@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "制作一个小红书的封面。\n主题：GPT-image-2 也已经在 Lovart 平台上线了。\n审美：高级杂志感。\n要求：\n1.有主题文字，GPT-image-2   和 Lovart。\n2.使用对角线构图\n3.高对比强调色",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1e5a00a0-3b4f-4347-b66f-853f84bb3685/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"制作一个小红书的封面。\\n主题：GPT-image-2 也已经在 Lovart 平台上线了。\\n审美：高级杂志感。\\n要求：\\n1.有主题文字，GPT-image-2   和 Lovart。\\n2.使用对角线构图\\n3.高对比强调色\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 4571
+}

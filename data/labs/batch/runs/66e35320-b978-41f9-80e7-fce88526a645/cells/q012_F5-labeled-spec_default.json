@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: editorial-graphic\nAsset type: WeChat article cover, banner format\nPrimary request: center-composed banner for fragrance product launch \"染秋 - 秋意染染 时光留香\"\nScene/backdrop: soft gradient autumn atmosphere with subtle falling leaves, warm ambient haze\nSubject: elegant typographic title \"染秋 - 秋意染染 时光留香\" as the dominant focal point, minimalist fragrance bottle silhouette in lower third\nStyle/medium: premium editorial design, sophisticated luxury aesthetic\nComposition/framing: centered composition, title occupying upper-middle visual weight, balanced negative space\nLighting/mood: soft diffused golden hour light, warm and nostalgic autumn mood\nColor palette: warm amber, burnt orange, cream white, muted gold accents\nMaterials/textures: matte paper texture overlay, subtle grain, refined typography\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title must be the most prominent element, maintain 900x500 aspect ratio, high-end minimalist aesthetic\nAvoid: cluttered layout, cheap gradients, neon colors, busy patterns, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eb958527-0219-4de3-a276-0d55e33bbbb6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: editorial-graphic\\nAsset type: WeChat article cover, banner format\\nPrimary request: center-composed banner for fragrance product launch \\\"染秋 - 秋意染染 时光留香\\\"\\nScene/backdrop: soft gradient autumn atmosphere with subtle falling leaves, warm ambient haze\\nSubject: elegant typographic title \\\"染秋 - 秋意染染 时光留香\\\" as the dominant focal point, minimalist fragrance bottle silhouette in lower third\\nStyle/medium: premium editorial design, sophisticated luxury aesthetic\\nComposition/framing: centered composition, title occupying upper-middle visual weight, balanced negative space\\nLighting/mood: soft diffused golden hour light, warm and nostalgic autumn mood\\nColor palette: warm amber, burnt orange, cream white, muted gold accents\\nMaterials/textures: matte paper texture overlay, subtle grain, refined typography\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title must be the most prominent element, maintain 900x500 aspect ratio, high-end minimalist aesthetic\\nAvoid: cluttered layout, cheap gradients, neon colors, busy patterns, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9284
+}

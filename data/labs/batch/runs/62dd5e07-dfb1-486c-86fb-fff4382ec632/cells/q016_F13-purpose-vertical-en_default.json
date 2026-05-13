@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing museum-style Chinese infographic illustration featuring traditional Chinese ethnic minority costume (中国少数民族服饰), formatted as a scholarly 文博图鉴 reference plate for a national museum exhibition panel.\n\nStyle/medium: 国家博物馆展板风格，历史服饰图鉴，文博专题信息图；photorealistic central figure with structured annotation overlay；绢纸质感排版，克制、专业、可收藏\nComposition: full vertical infographic layout — top: 主标题＋副标题＋导语；left column: 结构拆解区 with 中文引线标注 pointing to key garment components and close-up detail insets；upper-right: 材质／工艺／质感区 with real-texture swatches and captions；mid-right: 纹样／色彩／寓意区 with 主色板、纹样样本、文化解释文字；bottom: 穿着顺序流程图 and 核心特征总结 text block\nSubject: 自动选取最具代表性的中国少数民族服饰体系（如苗族盛装、彝族服饰或侗族服饰），以真实人物全身正面站姿为中央主体，展示完整服饰系统，包含头饰、上衣、裙摆、腰带、绑腿、银饰等关键部件\nScene/backdrop: 米白绢纸底色，局部浅茶色晕染，纸张纤维质感，无摄影棚感，无渐变光晕\nLighting/mood: 均匀漫射光，博物馆展板照明感，无强烈阴影，整体高级克制\nColor palette: 以服饰本身的民族色彩为主色（深靛蓝、朱红、金黄、银白），背景米白／绢纸白／浅茶色，标注文字深墨色\nMaterials/textures: 右上角展示真实布料纹理小样（刺绣、蜡染、织锦、手工银饰等），每块小样附简体中文工艺说明\nText (verbatim): 顶部主标题「中国少数民族服饰图鉴」，副标题与导语、所有引线标注、材质说明、纹样寓意解释、色彩含义、穿着顺序步骤、核心特征总结——全部使用简体中文，字体规整清晰，无英文、无拼音、无乱码\nConstraints: 所有文字必须为简体中文；中文引线标注须指向正确服饰部件；材质小样须呈现真实纹理差异；版式五区完整呈现；人物为全身站姿正面；整体保持图鉴气质\nAvoid: 海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错误结构、模糊文字、假材质贴图、过度装饰、英文标注、拼音标注、霓虹色、强烈戏剧光影",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a753cf35-fb7a-46b2-9b0a-8c3c199cc4ea/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing museum-style Chinese infographic illustration featuring traditional Chinese ethnic minority costume (中国少数民族服饰), formatted as a scholarly 文博图鉴 reference plate for a national museum exhibition panel.\\n\\nStyle/medium: 国家博物馆展板风格，历史服饰图鉴，文博专题信息图；photorealistic central figure with structured annotation overlay；绢纸质感排版，克制、专业、可收藏\\nComposition: full vertical infographic layout — top: 主标题＋副标题＋导语；left column: 结构拆解区 with 中文引线标注 pointing to key garment components and close-up detail insets；upper-right: 材质／工艺／质感区 with real-texture swatches and captions；mid-right: 纹样／色彩／寓意区 with 主色板、纹样样本、文化解释文字；bottom: 穿着顺序流程图 and 核心特征总结 text block\\nSubject: 自动选取最具代表性的中国少数民族服饰体系（如苗族盛装、彝族服饰或侗族服饰），以真实人物全身正面站姿为中央主体，展示完整服饰系统，包含头饰、上衣、裙摆、腰带、绑腿、银饰等关键部件\\nScene/backdrop: 米白绢纸底色，局部浅茶色晕染，纸张纤维质感，无摄影棚感，无渐变光晕\\nLighting/mood: 均匀漫射光，博物馆展板照明感，无强烈阴影，整体高级克制\\nColor palette: 以服饰本身的民族色彩为主色（深靛蓝、朱红、金黄、银白），背景米白／绢纸白／浅茶色，标注文字深墨色\\nMaterials/textures: 右上角展示真实布料纹理小样（刺绣、蜡染、织锦、手工银饰等），每块小样附简体中文工艺说明\\nText (verbatim): 顶部主标题「中国少数民族服饰图鉴」，副标题与导语、所有引线标注、材质说明、纹样寓意解释、色彩含义、穿着顺序步骤、核心特征总结——全部使用简体中文，字体规整清晰，无英文、无拼音、无乱码\\nConstraints: 所有文字必须为简体中文；中文引线标注须指向正确服饰部件；材质小样须呈现真实纹理差异；版式五区完整呈现；人物为全身站姿正面；整体保持图鉴气质\\nAvoid: 海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错误结构、模糊文字、假材质贴图、过度装饰、英文标注、拼音标注、霓虹色、强烈戏剧光影\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 18120
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of an industrial-style café interior with raw concrete walls, exposed metal pipes, vintage leather sofas, and large windows flooding the space with natural light.\n\nStyle/medium: photorealistic interior editorial photography, inspired by moody architectural magazines like Wallpaper* and Kinfolk\nComposition: wide-angle shot from mid-room level, 24mm lens, capturing depth from foreground seating to background windows\nSubject: industrial café interior — bare concrete walls, exposed overhead metal pipes, worn vintage leather sofas, oversized industrial windows, black-and-white photography prints hung on the wall\nScene/backdrop: daytime café interior, city street faintly visible through large windows, no customers, quiet and atmospheric\nLighting/mood: soft diffused natural light streaming through large windows, gentle shadows on concrete surfaces, warm pockets of ambient light near seating — rugged yet refined\nColor palette: cool grey concrete as dominant base, warm cognac leather as anchor, matte black metal as structural accent, neutral white daylight as fill\nMaterials/textures: rough porous concrete surface, brushed and aged metal pipe joints, cracked patina leather upholstery, matte glass window panes\nAvoid: overly polished surfaces, plastic-looking materials, generic coffee shop clichés, neon signs, over-warm Instagram filter tones, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/55f3e902-fdfe-489f-8a64-9bcf7c153fab/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of an industrial-style café interior with raw concrete walls, exposed metal pipes, vintage leather sofas, and large windows flooding the space with natural light.\\n\\nStyle/medium: photorealistic interior editorial photography, inspired by moody architectural magazines like Wallpaper* and Kinfolk\\nComposition: wide-angle shot from mid-room level, 24mm lens, capturing depth from foreground seating to background windows\\nSubject: industrial café interior — bare concrete walls, exposed overhead metal pipes, worn vintage leather sofas, oversized industrial windows, black-and-white photography prints hung on the wall\\nScene/backdrop: daytime café interior, city street faintly visible through large windows, no customers, quiet and atmospheric\\nLighting/mood: soft diffused natural light streaming through large windows, gentle shadows on concrete surfaces, warm pockets of ambient light near seating — rugged yet refined\\nColor palette: cool grey concrete as dominant base, warm cognac leather as anchor, matte black metal as structural accent, neutral white daylight as fill\\nMaterials/textures: rough porous concrete surface, brushed and aged metal pipe joints, cracked patina leather upholstery, matte glass window panes\\nAvoid: overly polished surfaces, plastic-looking materials, generic coffee shop clichés, neon signs, over-warm Instagram filter tones, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17006
+}

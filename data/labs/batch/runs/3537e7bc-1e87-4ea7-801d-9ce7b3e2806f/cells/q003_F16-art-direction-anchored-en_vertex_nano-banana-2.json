@@ -1,0 +1,21 @@
+{
+  "query_idx": 3,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "A clean, modern, and universally appealing profile picture/avatar for a content creator's social media account. The avatar should represent a tech and lifestyle brand focused on new energy vehicles, digital gadgets, and lifestyle products.\n\nDesign requirements:\n- Use abstract geometric shapes or a minimalist icon style that conveys technology, innovation, and lifestyle\n- Color palette: neutral and professional tones (deep blue, teal, silver, or warm amber) that work well across Chinese and international social platforms\n- Avoid human faces, religious symbols, cultural-specific imagery, or anything that could be considered controversial or offensive to any demographic\n- The design should be simple, recognizable at small sizes, and have a friendly yet professional vibe\n- Incorporate subtle elements suggesting: electric/energy (lightning bolt, circuit patterns, or clean lines), technology (geometric shapes), and lifestyle (balanced composition)\n- Style: flat design or subtle gradient, modern minimalist aesthetic\n- Background: clean solid color or very subtle texture\n- Must be culturally neutral and globally acceptable\n\nOriginal request: \"生成一个自媒体头像，这个自媒体主要是分享新能源汽车、数码产品、生活好物。要求自媒体头像无论是放在中国还是外国的社交平台，都有和谐的视觉效果，并且保证不会触犯特定人群的禁忌。\"",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A593cf15b-244a-4782-a79d-4a0dea67729c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"A clean, modern, and universally appealing profile picture/avatar for a content creator's social media account. The avatar should represent a tech and lifestyle brand focused on new energy vehicles, digital gadgets, and lifestyle products.\\n\\nDesign requirements:\\n- Use abstract geometric shapes or a minimalist icon style that conveys technology, innovation, and lifestyle\\n- Color palette: neutral and professional tones (deep blue, teal, silver, or warm amber) that work well across Chinese and international social platforms\\n- Avoid human faces, religious symbols, cultural-specific imagery, or anything that could be considered controversial or offensive to any demographic\\n- The design should be simple, recognizable at small sizes, and have a friendly yet professional vibe\\n- Incorporate subtle elements suggesting: electric/energy (lightning bolt, circuit patterns, or clean lines), technology (geometric shapes), and lifestyle (balanced composition)\\n- Style: flat design or subtle gradient, modern minimalist aesthetic\\n- Background: clean solid color or very subtle texture\\n- Must be culturally neutral and globally acceptable\\n\\nOriginal request: \\\"生成一个自媒体头像，这个自媒体主要是分享新能源汽车、数码产品、生活好物。要求自媒体头像无论是放在中国还是外国的社交平台，都有和谐的视觉效果，并且保证不会触犯特定人群的禁忌。\\\"\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8305
+}

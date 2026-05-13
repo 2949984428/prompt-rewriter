@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a domestic venture capital roadshow announcing GPT-5.5 launch, featuring speaker Sam Altman.\n\nStyle/medium: corporate presentation cover, Chinese VC pitch deck aesthetic, clean professional layout with subtle tech gradient\nComposition: centered layout with speaker portrait on right third, bold headline on left, generous whitespace for readability\nSubject: speaker Sam Altman in professional attire, confident posture, clean headshot or upper body shot\nScene/backdrop: abstract gradient background suggesting AI/data visualization, subtle circuit or neural network motifs, Chinese tech conference atmosphere\nLighting/mood: soft studio lighting on speaker, professional and trustworthy mood\nColor palette: deep navy blue as base, electric blue as accent, white for text, subtle gold highlights for premium feel\nText (verbatim): \"GPT5.5发布\"\nConstraints: must work as 16:9 presentation cover; text must be prominent and readable from distance; suitable for Chinese VC audience\nAvoid: cluttered layout; cartoonish elements; Western-centric design clichés; overuse of stock photos; generic startup buzzwords",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/73a8b8c2-00c1-4a5b-be1d-058b66fc9661/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a domestic venture capital roadshow announcing GPT-5.5 launch, featuring speaker Sam Altman.\\n\\nStyle/medium: corporate presentation cover, Chinese VC pitch deck aesthetic, clean professional layout with subtle tech gradient\\nComposition: centered layout with speaker portrait on right third, bold headline on left, generous whitespace for readability\\nSubject: speaker Sam Altman in professional attire, confident posture, clean headshot or upper body shot\\nScene/backdrop: abstract gradient background suggesting AI/data visualization, subtle circuit or neural network motifs, Chinese tech conference atmosphere\\nLighting/mood: soft studio lighting on speaker, professional and trustworthy mood\\nColor palette: deep navy blue as base, electric blue as accent, white for text, subtle gold highlights for premium feel\\nText (verbatim): \\\"GPT5.5发布\\\"\\nConstraints: must work as 16:9 presentation cover; text must be prominent and readable from distance; suitable for Chinese VC audience\\nAvoid: cluttered layout; cartoonish elements; Western-centric design clichés; overuse of stock photos; generic startup buzzwords\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9990
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 292,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "帮我生成一个 发布在youtube的国际化手语“温暖”的icon，用于一个词条的前边。风格可以是参考[@image:#1:手语我爱你手势]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aaaa8c5d3-3335-4b33-830d-3b1efda851ba/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"帮我生成一个 发布在youtube的国际化手语\\\"温暖\\\"的icon，用于一个词条的前边。风格可以是参考[@image:#1:手语我爱你手势]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4210,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

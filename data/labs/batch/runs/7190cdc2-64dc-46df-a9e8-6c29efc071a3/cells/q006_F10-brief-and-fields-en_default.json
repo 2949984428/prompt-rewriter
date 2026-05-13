@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial fashion photo of a tall Nordic female model on Iceland's black sand beach.\n\nStyle/medium: editorial fashion photography in the spirit of Vogue Italia, medium format, 85mm lens, f/2 aperture, photorealistic\nComposition: medium shot with model as focal point, natural framing with basalt columns\nSubject: tall Nordic female model wearing a black leather trench coat from a top designer brand, white turtleneck sweater, chunky-heeled leather boots, strong posture, profile view looking into the distance, long hair blown by sea wind\nScene/backdrop: Iceland black sand beach with basalt column formations, waves crashing on rocks, sea mist in the air, overcast lead-gray sky\nLighting/mood: natural overcast daylight, soft diffused light, moody and dramatic atmosphere\nColor palette: unified dark tones with black sand, black clothing, and lead-gray sky as base, white turtleneck as accent, cool color grading with high contrast\nMaterials/textures: smooth leather coat with subtle sheen, knit texture of turtleneck, rough volcanic rock surfaces, wet sand, fine film grain\nAvoid: oversaturated colors, warm tones, bright sunlight, plastic-looking textures, watermark, 8K stuffer aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e07423fc-c887-4196-b10e-8cd59d66c635/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial fashion photo of a tall Nordic female model on Iceland's black sand beach.\\n\\nStyle/medium: editorial fashion photography in the spirit of Vogue Italia, medium format, 85mm lens, f/2 aperture, photorealistic\\nComposition: medium shot with model as focal point, natural framing with basalt columns\\nSubject: tall Nordic female model wearing a black leather trench coat from a top designer brand, white turtleneck sweater, chunky-heeled leather boots, strong posture, profile view looking into the distance, long hair blown by sea wind\\nScene/backdrop: Iceland black sand beach with basalt column formations, waves crashing on rocks, sea mist in the air, overcast lead-gray sky\\nLighting/mood: natural overcast daylight, soft diffused light, moody and dramatic atmosphere\\nColor palette: unified dark tones with black sand, black clothing, and lead-gray sky as base, white turtleneck as accent, cool color grading with high contrast\\nMaterials/textures: smooth leather coat with subtle sheen, knit texture of turtleneck, rough volcanic rock surfaces, wet sand, fine film grain\\nAvoid: oversaturated colors, warm tones, bright sunlight, plastic-looking textures, watermark, 8K stuffer aesthetic\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12580
+}

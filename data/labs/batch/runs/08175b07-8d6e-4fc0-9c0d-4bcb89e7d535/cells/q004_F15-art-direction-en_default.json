@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide for the automotive launch of 长安起源Q06.\n\nStyle/medium: needs a premium automotive-launch aesthetic — exact stylistic execution is yours\nComposition: must include primary title centered prominently, secondary subtitle below, with a spacious background area\nSubject: must include the 长安起源Q06 vehicle or its brand context as focal subject\nScene/backdrop: needs a通透震撼 atmospheric direction — exact environment and scale are yours\nLighting/mood: needs a dramatic, high-impact atmosphere — exact light source mix is yours\nColor palette: needs a premium brand-aligned direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"长安起源Q06将于9月上市\" (primary title), with subtitle space reserved for brand-aligned copy\nConstraints: must preserve the September launch timing, must fit PPT cover proportions\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/70d0dc8a-8f48-4e33-a233-5f99095cf9a8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing PPT cover slide for the automotive launch of 长安起源Q06.\\n\\nStyle/medium: needs a premium automotive-launch aesthetic — exact stylistic execution is yours\\nComposition: must include primary title centered prominently, secondary subtitle below, with a spacious background area\\nSubject: must include the 长安起源Q06 vehicle or its brand context as focal subject\\nScene/backdrop: needs a通透震撼 atmospheric direction — exact environment and scale are yours\\nLighting/mood: needs a dramatic, high-impact atmosphere — exact light source mix is yours\\nColor palette: needs a premium brand-aligned direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"长安起源Q06将于9月上市\\\" (primary title), with subtitle space reserved for brand-aligned copy\\nConstraints: must preserve the September launch timing, must fit PPT cover proportions\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12219
+}

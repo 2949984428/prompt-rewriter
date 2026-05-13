@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: professional food photography, commercial editorial, square crop\nPrimary request: macro close-up of a plated Michelin three-star French main course — slow-cooked duck breast with truffle sauce\nScene/backdrop: dark marble countertop surface, upscale fine-dining restaurant ambiance\nSubject: neatly sliced duck breast with perfectly golden-brown crispy skin and blush-pink juicy interior; garnished with micro-vegetable garden décor including baby carrots, purple chicory leaves, and edible flowers; fresh black truffle shavings layered on top; truffle sauce artistically smeared along the rim of a white bone-china plate\nStyle/medium: photorealistic commercial food photography, 35mm macro lens\nComposition/framing: macro close-up, shallow depth of field, sharp focus precisely on the cross-section texture of the duck breast slices, slight side angle\nLighting/mood: dramatic side lighting that rakes across the dish, highlighting the crispy skin texture and sauce gloss; luxurious, moody, high-end restaurant atmosphere\nColor palette: deep charcoal marble background + warm golden-brown skin + blush pink meat + deep black truffle + vivid purple chicory + bright accent edible flowers + ivory white plate rim\nMaterials/textures: crispy rendered duck skin with visible crackling texture, glistening truffle sauce with wet sheen, matte bone-china plate surface, cool dark marble veining\nConstraints: focus must remain on the duck breast cross-section; plate rim sauce smear and truffle shavings must be clearly visible; no human hands in frame\nAvoid: flat lighting, oversaturated cartoon-like colors, cluttered background, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c9b293aa-ba2a-46db-9fd5-cf1817e66bea/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: professional food photography, commercial editorial, square crop\\nPrimary request: macro close-up of a plated Michelin three-star French main course — slow-cooked duck breast with truffle sauce\\nScene/backdrop: dark marble countertop surface, upscale fine-dining restaurant ambiance\\nSubject: neatly sliced duck breast with perfectly golden-brown crispy skin and blush-pink juicy interior; garnished with micro-vegetable garden décor including baby carrots, purple chicory leaves, and edible flowers; fresh black truffle shavings layered on top; truffle sauce artistically smeared along the rim of a white bone-china plate\\nStyle/medium: photorealistic commercial food photography, 35mm macro lens\\nComposition/framing: macro close-up, shallow depth of field, sharp focus precisely on the cross-section texture of the duck breast slices, slight side angle\\nLighting/mood: dramatic side lighting that rakes across the dish, highlighting the crispy skin texture and sauce gloss; luxurious, moody, high-end restaurant atmosphere\\nColor palette: deep charcoal marble background + warm golden-brown skin + blush pink meat + deep black truffle + vivid purple chicory + bright accent edible flowers + ivory white plate rim\\nMaterials/textures: crispy rendered duck skin with visible crackling texture, glistening truffle sauce with wet sheen, matte bone-china plate surface, cool dark marble veining\\nConstraints: focus must remain on the duck breast cross-section; plate rim sauce smear and truffle shavings must be clearly visible; no human hands in frame\\nAvoid: flat lighting, oversaturated cartoon-like colors, cluttered background, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11206
+}

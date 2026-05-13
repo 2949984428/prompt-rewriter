@@ -1,0 +1,23 @@
+{
+  "query_idx": 126,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:1][@image:#2:2] 以国际极限运动广告大片风格制作这款冲浪板主图，整体呈现高能量、强速度感、肾上腺素爆发、年轻竞技感。保留冲浪板原始外观、比例、颜色和结构不变，突出白色板身、蓝色包边、红色脚垫与黑色尾垫的强烈对比。背景加入抽象速度线、水花轨迹、空气流线、竞速切割图形与赛事感光效，画面要有强烈冲击力、运动品牌广告感和商业大片感。整体干净、有张力、适合 Ozon/WB 电商主图。每张图边上都需要带上红牛品牌logo，3:4，4k",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Afca1b535-ebac-49ae-bd03-5cd5c73ece60/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:1][@image:#2:2] 以国际极限运动广告大片风格制作这款冲浪板主图，整体呈现高能量、强速度感、肾上腺素爆发、年轻竞技感。保留冲浪板原始外观、比例、颜色和结构不变，突出白色板身、蓝色包边、红色脚垫与黑色尾垫的强烈对比。背景加入抽象速度线、水花轨迹、空气流线、竞速切割图形与赛事感光效，画面要有强烈冲击力、运动品牌广告感和商业大片感。整体干净、有张力、适合 Ozon/WB 电商主图。每张图边上都需要带上红牛品牌logo，3:4，4k\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5590,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

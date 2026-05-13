@@ -1,0 +1,23 @@
+{
+  "query_idx": 32,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a logo for a sweet shop called \"doces da Lis\".\n\nStyle/medium: flat vector logo illustration, Hello Kitty and Friends character style\nComposition: cute cat centered on top of the logo, lily flower on the cat's head, shop name displayed below in a cute and pretty font\nSubject: a chocolate-brown-toned cute cat in Hello Kitty and Friends style, with a yellow lily flower on its head, sitting above the text \"doces da Lis\"\nScene/backdrop: soft baby yellow and candy pink background\nLighting/mood: sweet, cute, charming\nColor palette: baby yellow and candy pink background, chocolate brown cat, yellow lily flower\nMaterials/textures: flat vector, smooth shapes\nText (verbatim): doces da Lis\nConstraints: cat style must closely reference Hello Kitty and Friends aesthetic; font must look cute and pretty\nAvoid: realistic textures, dark tones, complex backgrounds",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aba070ac1-7024-49ff-a32b-44d3089b2c6d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a logo for a sweet shop called \\\"doces da Lis\\\".\\n\\nStyle/medium: flat vector logo illustration, Hello Kitty and Friends character style\\nComposition: cute cat centered on top of the logo, lily flower on the cat's head, shop name displayed below in a cute and pretty font\\nSubject: a chocolate-brown-toned cute cat in Hello Kitty and Friends style, with a yellow lily flower on its head, sitting above the text \\\"doces da Lis\\\"\\nScene/backdrop: soft baby yellow and candy pink background\\nLighting/mood: sweet, cute, charming\\nColor palette: baby yellow and candy pink background, chocolate brown cat, yellow lily flower\\nMaterials/textures: flat vector, smooth shapes\\nText (verbatim): doces da Lis\\nConstraints: cat style must closely reference Hello Kitty and Friends aesthetic; font must look cute and pretty\\nAvoid: realistic textures, dark tones, complex backgrounds\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 9425,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic explaining definitions and relationships between AI concepts.\n\nStyle/medium: needs a hand-drawn illustration aesthetic — exact line quality and sketch detail level is yours\nComposition: must be an infographic layout balancing text and visuals for clarity\nSubject: must include all 7 concepts with their definitions and relationship connections:\n  - AI\n  - MCP\n  - AI Agent\n  - OpenClaw\n  - AI Skill\n  - 蒸馏\n  - CLI\nScene/backdrop: \nLighting/mood: needs an accessible, easy-to-understand visual atmosphere — exact warmth and approachability level is yours\nColor palette: \nMaterials/textures: needs a hand-drawn texture treatment — exact paper and media simulation is yours\nText (verbatim): must include concept names \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\" with their definitions\nConstraints: must preserve all 7 concept names, must show relationships between concepts, must balance text and visuals for clarity\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7d567ec0-018f-40dd-9b1b-8c61c8dec1b5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an infographic explaining definitions and relationships between AI concepts.\\n\\nStyle/medium: needs a hand-drawn illustration aesthetic — exact line quality and sketch detail level is yours\\nComposition: must be an infographic layout balancing text and visuals for clarity\\nSubject: must include all 7 concepts with their definitions and relationship connections:\\n  - AI\\n  - MCP\\n  - AI Agent\\n  - OpenClaw\\n  - AI Skill\\n  - 蒸馏\\n  - CLI\\nScene/backdrop: \\nLighting/mood: needs an accessible, easy-to-understand visual atmosphere — exact warmth and approachability level is yours\\nColor palette: \\nMaterials/textures: needs a hand-drawn texture treatment — exact paper and media simulation is yours\\nText (verbatim): must include concept names \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\" with their definitions\\nConstraints: must preserve all 7 concept names, must show relationships between concepts, must balance text and visuals for clarity\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13687
+}

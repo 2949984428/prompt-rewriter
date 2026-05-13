@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial still-life photo embodying wabi-sabi aesthetics, featuring a rough stoneware vase with bare dried branches on a weathered wooden table.\n\nStyle/medium: photorealistic 35mm film still-life photography, wabi-sabi aesthetic in the spirit of Japanese minimalist photography — imperfection, impermanence, and incompleteness as visual language\nComposition: low oblique angle, natural window light entering from the upper-left, shallow depth of field, unhurried negative space around the subject\nSubject: handmade rough stoneware vase with uneven glaze, asymmetric silhouette, holding sparse bare dried branches with delicate twigs; surface shows kiln marks and minor chips\nScene/backdrop: aged wooden table with peeling paint, visible grain, stains, and worn patches; plain muted wall in soft shadow behind\nLighting/mood: soft raking natural daylight from a side window, warm and cool simultaneously, casting long gentle shadows that reveal surface texture; contemplative and quietly melancholic\nColor palette: desaturated earth tones — ash white, clay grey, weathered wood brown, and pale straw — unified by low saturation and subtle tonal contrast\nMaterials/textures: coarse stoneware with matte uneven glaze, dry cracked wood grain, papery bark of bare branches, dust-soft shadow edges\nAvoid: artificial studio lighting, over-saturated colors, symmetrical composition, pristine surfaces, plastic-looking glaze, decorative flowers, busy background",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/882c09b4-4d51-4f8e-8b04-da7a6e7ff0ed/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial still-life photo embodying wabi-sabi aesthetics, featuring a rough stoneware vase with bare dried branches on a weathered wooden table.\\n\\nStyle/medium: photorealistic 35mm film still-life photography, wabi-sabi aesthetic in the spirit of Japanese minimalist photography — imperfection, impermanence, and incompleteness as visual language\\nComposition: low oblique angle, natural window light entering from the upper-left, shallow depth of field, unhurried negative space around the subject\\nSubject: handmade rough stoneware vase with uneven glaze, asymmetric silhouette, holding sparse bare dried branches with delicate twigs; surface shows kiln marks and minor chips\\nScene/backdrop: aged wooden table with peeling paint, visible grain, stains, and worn patches; plain muted wall in soft shadow behind\\nLighting/mood: soft raking natural daylight from a side window, warm and cool simultaneously, casting long gentle shadows that reveal surface texture; contemplative and quietly melancholic\\nColor palette: desaturated earth tones — ash white, clay grey, weathered wood brown, and pale straw — unified by low saturation and subtle tonal contrast\\nMaterials/textures: coarse stoneware with matte uneven glaze, dry cracked wood grain, papery bark of bare branches, dust-soft shadow edges\\nAvoid: artificial studio lighting, over-saturated colors, symmetrical composition, pristine surfaces, plastic-looking glaze, decorative flowers, busy background\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10577
+}

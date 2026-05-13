@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an Instagram-style smartphone photo of Korean cafe fashion coffee and desserts with hand-drawn annotation overlays.\n\nStyle/medium: needs a \"Korean cafe\" aesthetic with \"Instagram story\" and \"magazine rough notes\" finish — references in the spirit of 2010s Seoul cafe Instagram culture, Kinfolk magazine editorial photography, Japanese zakka notebook illustration tradition; exact stylistic execution is yours\nComposition: must be smartphone camera perspective, suitable for Instagram post, no human subjects visible\nSubject: must include fashionable coffee beverage and dessert items as focal subjects\nScene/backdrop: must be Korean cafe interior setting\nLighting/mood: needs natural daylight cafe atmosphere — exact light source mix is yours\nColor palette: needs warm, muted tones — exact hex values are yours\nMaterials/textures: \nText (verbatim): must include Japanese handwritten annotations (hiragana 70%, simple kanji 30%) with diary-style short comments:\n  - 飲み物 → 味・温度・気持ち (例：さっぱり、優しい甘み)\n  - 食べ物 → 食感・おいしさ (例：しっとり、最高)\n  - 空間 → 雰囲気 (例：リラックス、素敵な時間)\n  - 全体 → 一言まとめ (例：幸せすぎる～)\nConstraints: must include hand-drawn annotation elements — thin white pen-like sketch lines, rough uneven single-stroke style, contour lines tracing object perimeters, arrows and dotted lines for visual guidance, steam/sparkles/hearts/small emoticons as decoration with intentional留白 (blank space), annotations must follow the 7:3 hiragana-to-kanji ratio, comments must be short diary-style self-talk with emotional tone\nAvoid: must avoid excessive decoration, must avoid crowded composition without blank space, must avoid human subjects",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/19dc84b3-22e5-4572-a9cc-5ddaa86a7ff9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an Instagram-style smartphone photo of Korean cafe fashion coffee and desserts with hand-drawn annotation overlays.\\n\\nStyle/medium: needs a \\\"Korean cafe\\\" aesthetic with \\\"Instagram story\\\" and \\\"magazine rough notes\\\" finish — references in the spirit of 2010s Seoul cafe Instagram culture, Kinfolk magazine editorial photography, Japanese zakka notebook illustration tradition; exact stylistic execution is yours\\nComposition: must be smartphone camera perspective, suitable for Instagram post, no human subjects visible\\nSubject: must include fashionable coffee beverage and dessert items as focal subjects\\nScene/backdrop: must be Korean cafe interior setting\\nLighting/mood: needs natural daylight cafe atmosphere — exact light source mix is yours\\nColor palette: needs warm, muted tones — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): must include Japanese handwritten annotations (hiragana 70%, simple kanji 30%) with diary-style short comments:\\n  - 飲み物 → 味・温度・気持ち (例：さっぱり、優しい甘み)\\n  - 食べ物 → 食感・おいしさ (例：しっとり、最高)\\n  - 空間 → 雰囲気 (例：リラックス、素敵な時間)\\n  - 全体 → 一言まとめ (例：幸せすぎる～)\\nConstraints: must include hand-drawn annotation elements — thin white pen-like sketch lines, rough uneven single-stroke style, contour lines tracing object perimeters, arrows and dotted lines for visual guidance, steam/sparkles/hearts/small emoticons as decoration with intentional留白 (blank space), annotations must follow the 7:3 hiragana-to-kanji ratio, comments must be short diary-style self-talk with emotional tone\\nAvoid: must avoid excessive decoration, must avoid crowded composition without blank space, must avoid human subjects\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 18609
+}

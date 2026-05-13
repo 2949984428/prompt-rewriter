@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a French romantic bedroom scene with a four-poster bed, sheer canopy drapes, and a vintage vanity table.\n\nStyle/medium: photorealistic interior editorial, soft-focus film aesthetic reminiscent of French Vogue boudoir spreads\nComposition: wide-angle medium shot from a low, slightly elevated angle capturing the full four-poster bed, vanity, and window in one frame, natural depth of field\nSubject: ornate four-poster bed draped with sheer white gauze canopy, antique carved wooden vanity table with oval mirror, rose petals scattered across bedding and floor\nScene/backdrop: Parisian street view visible through tall French windows with sheer curtains billowing gently, classic Haussmann-style facades outside\nLighting/mood: soft diffused morning light streaming through the windows, warm golden-white color temperature, hazy and intimate, elegant yet languid atmosphere\nColor palette: ivory and cream as base, dusty rose from scattered petals as accent, warm antique gold on furniture details, pale grey-blue from the Paris morning sky outside\nMaterials/textures: smooth silk bedding with subtle sheen, translucent gauze canopy fabric, worn patina on vintage wooden vanity, stone or parquet floor with soft shadows\nAvoid: harsh shadows, over-saturated colors, modern furniture, cluttered composition, generic hotel room aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8b13c002-b884-4fc1-b5f4-50f506761b26/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a French romantic bedroom scene with a four-poster bed, sheer canopy drapes, and a vintage vanity table.\\n\\nStyle/medium: photorealistic interior editorial, soft-focus film aesthetic reminiscent of French Vogue boudoir spreads\\nComposition: wide-angle medium shot from a low, slightly elevated angle capturing the full four-poster bed, vanity, and window in one frame, natural depth of field\\nSubject: ornate four-poster bed draped with sheer white gauze canopy, antique carved wooden vanity table with oval mirror, rose petals scattered across bedding and floor\\nScene/backdrop: Parisian street view visible through tall French windows with sheer curtains billowing gently, classic Haussmann-style facades outside\\nLighting/mood: soft diffused morning light streaming through the windows, warm golden-white color temperature, hazy and intimate, elegant yet languid atmosphere\\nColor palette: ivory and cream as base, dusty rose from scattered petals as accent, warm antique gold on furniture details, pale grey-blue from the Paris morning sky outside\\nMaterials/textures: smooth silk bedding with subtle sheen, translucent gauze canopy fabric, worn patina on vintage wooden vanity, stone or parquet floor with soft shadows\\nAvoid: harsh shadows, over-saturated colors, modern furniture, cluttered composition, generic hotel room aesthetic\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9894
+}

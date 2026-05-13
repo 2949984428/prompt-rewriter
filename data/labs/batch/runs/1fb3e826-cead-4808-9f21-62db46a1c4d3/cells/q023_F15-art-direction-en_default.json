@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing single large knowledge card illustration for children explaining the story of 赤壁之战 from 三国.\n\nStyle/medium: needs a children's cartoon-illustration aesthetic — exact stylistic execution is yours\nComposition: must be a single large card layout with a clear title at top, key story bullet points listed with punctuation on the side, and a cartoon narrative scene as the main visual body\nSubject: must include the story of 赤壁之战 (三国) depicted in cartoon form\nScene/backdrop: needs a 赤壁 river-battle atmosphere — exact scene composition is yours\nLighting/mood: needs a lively, child-friendly atmosphere — exact mood treatment is yours\nColor palette: needs a bright, child-friendly direction — exact colors are yours\nMaterials/textures: \nText (verbatim): must include \"赤壁之战\" as the card title (large, prominent); must include key story bullet points in Chinese listed with punctuation marks alongside the illustration\nConstraints: must preserve single-card format; title must be clearly legible; bullet points must be visually separated and marked with punctuation; overall content must be age-appropriate for children\nAvoid: ",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/415cfd25-32ba-4459-84ba-6573fec3e3fd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing single large knowledge card illustration for children explaining the story of 赤壁之战 from 三国.\\n\\nStyle/medium: needs a children's cartoon-illustration aesthetic — exact stylistic execution is yours\\nComposition: must be a single large card layout with a clear title at top, key story bullet points listed with punctuation on the side, and a cartoon narrative scene as the main visual body\\nSubject: must include the story of 赤壁之战 (三国) depicted in cartoon form\\nScene/backdrop: needs a 赤壁 river-battle atmosphere — exact scene composition is yours\\nLighting/mood: needs a lively, child-friendly atmosphere — exact mood treatment is yours\\nColor palette: needs a bright, child-friendly direction — exact colors are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"赤壁之战\\\" as the card title (large, prominent); must include key story bullet points in Chinese listed with punctuation marks alongside the illustration\\nConstraints: must preserve single-card format; title must be clearly legible; bullet points must be visually separated and marked with punctuation; overall content must be age-appropriate for children\\nAvoid: \", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11110
+}

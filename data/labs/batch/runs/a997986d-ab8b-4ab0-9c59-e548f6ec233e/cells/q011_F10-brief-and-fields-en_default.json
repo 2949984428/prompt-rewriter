@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an interior design visualization for a modern living room blending Nordic minimalism with Japanese wabi-sabi aesthetics.\n\nStyle/medium: architectural visualization render, photorealistic interior photography, clean 3D render with natural textures\nComposition: wide-angle establishing shot from eye level, capturing the full living room layout, 24mm equivalent lens\nSubject: low-profile linen off-white fabric sofa with assorted textured cushions, irregular natural stone coffee table with raw edges, tall fiddle-leaf fig plant in corner, slender arched floor lamp, curated bookshelf with select books and ceramic objects following minimalist principles\nScene/backdrop: spacious modern living room, large floor-to-ceiling windows with diffused green vegetation visible outside, light white oak hardwood flooring, matte white painted walls\nLighting/mood: abundant soft natural daylight streaming through windows, gentle diffused illumination, quiet and restrained zen atmosphere\nColor palette: white and light gray as dominant base, warm off-white linen as anchor, natural wood tones as secondary, subtle green from plant as accent\nMaterials/textures: matte white plaster walls, light white oak wood grain flooring, coarse natural linen fabric, rough-hewn stone with organic edges, smooth ceramic glazes, glossy fiddle-leaf fig leaves\nConstraints: adhere to wabi-sabi imperfection principles and Nordic functional minimalism; no clutter, only essential curated objects\nAvoid: overly polished perfection, synthetic materials, bright saturated colors, harsh artificial lighting, cluttered surfaces, generic stock photo aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/07dab839-67a8-4517-8370-fe263b28f9b9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an interior design visualization for a modern living room blending Nordic minimalism with Japanese wabi-sabi aesthetics.\\n\\nStyle/medium: architectural visualization render, photorealistic interior photography, clean 3D render with natural textures\\nComposition: wide-angle establishing shot from eye level, capturing the full living room layout, 24mm equivalent lens\\nSubject: low-profile linen off-white fabric sofa with assorted textured cushions, irregular natural stone coffee table with raw edges, tall fiddle-leaf fig plant in corner, slender arched floor lamp, curated bookshelf with select books and ceramic objects following minimalist principles\\nScene/backdrop: spacious modern living room, large floor-to-ceiling windows with diffused green vegetation visible outside, light white oak hardwood flooring, matte white painted walls\\nLighting/mood: abundant soft natural daylight streaming through windows, gentle diffused illumination, quiet and restrained zen atmosphere\\nColor palette: white and light gray as dominant base, warm off-white linen as anchor, natural wood tones as secondary, subtle green from plant as accent\\nMaterials/textures: matte white plaster walls, light white oak wood grain flooring, coarse natural linen fabric, rough-hewn stone with organic edges, smooth ceramic glazes, glossy fiddle-leaf fig leaves\\nConstraints: adhere to wabi-sabi imperfection principles and Nordic functional minimalism; no clutter, only essential curated objects\\nAvoid: overly polished perfection, synthetic materials, bright saturated colors, harsh artificial lighting, cluttered surfaces, generic stock photo aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12467
+}

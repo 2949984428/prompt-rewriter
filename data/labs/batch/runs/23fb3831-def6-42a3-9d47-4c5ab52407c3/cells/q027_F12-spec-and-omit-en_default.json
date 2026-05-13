@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing traditional Chinese painting (gongbi heavy-color handscroll) of the Lantern Festival in Tang Dynasty Chang'an city.\n\nStyle/medium: gongbi heavy-color handscroll (工笔重彩长卷), traditional Chinese painting\nComposition: panoramic wide-angle view, horizontal scroll composition\nSubject: Tang Dynasty Chang'an city Lantern Festival, ten thousand lanterns illuminating the night sky\nScene/backdrop: Chang'an city at night during the Lantern Festival, crowds celebrating under countless glowing flower lanterns\nLighting/mood: night scene lit by ten thousand flower lanterns\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0050c264-b9bc-40cd-81be-0f80551aa67d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing traditional Chinese painting (gongbi heavy-color handscroll) of the Lantern Festival in Tang Dynasty Chang'an city.\\n\\nStyle/medium: gongbi heavy-color handscroll (工笔重彩长卷), traditional Chinese painting\\nComposition: panoramic wide-angle view, horizontal scroll composition\\nSubject: Tang Dynasty Chang'an city Lantern Festival, ten thousand lanterns illuminating the night sky\\nScene/backdrop: Chang'an city at night during the Lantern Festival, crowds celebrating under countless glowing flower lanterns\\nLighting/mood: night scene lit by ten thousand flower lanterns\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5482
+}

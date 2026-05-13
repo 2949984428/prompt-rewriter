@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing avatar/profile picture for a content creator account.\n\nStyle/medium: needs a modern, universally appealing aesthetic suitable for both Chinese and international social platforms — exact stylistic execution is yours\nComposition: needs a balanced, centered composition that works at small thumbnail sizes — exact framing is yours\nSubject: must include abstract or symbolic elements representing new energy vehicles, digital tech, and lifestyle products (three themes merged harmoniously)\nScene/backdrop: \nLighting/mood: needs a friendly, approachable atmosphere — exact light treatment is yours\nColor palette: needs a neutral-to-warm direction that avoids culturally sensitive colors — exact hex values are yours\nMaterials/textures: needs clean, professional surface treatment — exact finish is yours\nText (verbatim): \nConstraints: must avoid culturally or religiously sensitive symbols, must maintain visual harmony across diverse audiences, must be legible at small avatar sizes\nAvoid: must avoid specific religious iconography, political symbols, culturally charged colors or shapes, overly region-specific design elements that may not translate globally",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fc5a6ecc-db63-4a3d-a083-3d0e78ad5ca8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing avatar/profile picture for a content creator account.\\n\\nStyle/medium: needs a modern, universally appealing aesthetic suitable for both Chinese and international social platforms — exact stylistic execution is yours\\nComposition: needs a balanced, centered composition that works at small thumbnail sizes — exact framing is yours\\nSubject: must include abstract or symbolic elements representing new energy vehicles, digital tech, and lifestyle products (three themes merged harmoniously)\\nScene/backdrop: \\nLighting/mood: needs a friendly, approachable atmosphere — exact light treatment is yours\\nColor palette: needs a neutral-to-warm direction that avoids culturally sensitive colors — exact hex values are yours\\nMaterials/textures: needs clean, professional surface treatment — exact finish is yours\\nText (verbatim): \\nConstraints: must avoid culturally or religiously sensitive symbols, must maintain visual harmony across diverse audiences, must be legible at small avatar sizes\\nAvoid: must avoid specific religious iconography, political symbols, culturally charged colors or shapes, overly region-specific design elements that may not translate globally\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10237
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing full-screen mobile advertisement screenshot for a flagship smartphone launch campaign.\n\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\nComposition: must be full-screen vertical layout optimized for mobile display, brand-exposure-first visual hierarchy\nSubject: must include a flagship smartphone as the hero product\nScene/backdrop: needs a dramatic, visually striking backdrop — exact scene treatment is yours\nLighting/mood: needs a high visual-impact atmosphere — exact light source mix is yours\nColor palette: needs a bold, brand-forward direction — exact hex values and ratios are yours\nMaterials/textures: needs a premium surface treatment — exact finish and sheen are yours\nText (verbatim): must include \"OPPO Find X9 Pro\"\nConstraints: must be 1080×1920 portrait format; must read as a native mobile full-screen new-product launch ad\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8a14f2ce-b9c7-4e7e-8ad3-d4d637d60d9a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing full-screen mobile advertisement screenshot for a flagship smartphone launch campaign.\\n\\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\\nComposition: must be full-screen vertical layout optimized for mobile display, brand-exposure-first visual hierarchy\\nSubject: must include a flagship smartphone as the hero product\\nScene/backdrop: needs a dramatic, visually striking backdrop — exact scene treatment is yours\\nLighting/mood: needs a high visual-impact atmosphere — exact light source mix is yours\\nColor palette: needs a bold, brand-forward direction — exact hex values and ratios are yours\\nMaterials/textures: needs a premium surface treatment — exact finish and sheen are yours\\nText (verbatim): must include \\\"OPPO Find X9 Pro\\\"\\nConstraints: must be 1080×1920 portrait format; must read as a native mobile full-screen new-product launch ad\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6677
+}

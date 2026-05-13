@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing PPT cover slide for the automotive brand Changan, announcing the upcoming launch.\n\nStyle/medium: clean corporate presentation design, modern minimalist layout with cinematic automotive photography backdrop\nComposition: wide 16:9 slide format, title positioned in upper-left third with generous breathing room, subtle gradient overlay for text legibility\nSubject: premium automotive product launch announcement, elegant Chinese typography hierarchy\nScene/backdrop: ethereal atmospheric automotive environment — misty mountain road at golden hour or abstract light trails suggesting speed and innovation, translucent layered depth\nLighting/mood: soft diffused backlighting with lens flare accents, inspiring and forward-looking mood, premium brand feel\nColor palette: deep navy or charcoal as base, warm amber/gold accents suggesting sunrise/dawn, clean white for primary text\nText (verbatim): \"长安起源Q06将于9月上市\"\nConstraints: must maintain high contrast for projection readability; title must dominate; no clutter in lower third (reserved for speaker notes area)\nAvoid: generic stock car photos; overcrowded layouts; neon colors; clip art icons; watermarks; busy patterns that fight with text",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c925ae44-96b9-4b50-8163-17d6850eecc7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing PPT cover slide for the automotive brand Changan, announcing the upcoming launch.\\n\\nStyle/medium: clean corporate presentation design, modern minimalist layout with cinematic automotive photography backdrop\\nComposition: wide 16:9 slide format, title positioned in upper-left third with generous breathing room, subtle gradient overlay for text legibility\\nSubject: premium automotive product launch announcement, elegant Chinese typography hierarchy\\nScene/backdrop: ethereal atmospheric automotive environment — misty mountain road at golden hour or abstract light trails suggesting speed and innovation, translucent layered depth\\nLighting/mood: soft diffused backlighting with lens flare accents, inspiring and forward-looking mood, premium brand feel\\nColor palette: deep navy or charcoal as base, warm amber/gold accents suggesting sunrise/dawn, clean white for primary text\\nText (verbatim): \\\"长安起源Q06将于9月上市\\\"\\nConstraints: must maintain high contrast for projection readability; title must dominate; no clutter in lower third (reserved for speaker notes area)\\nAvoid: generic stock car photos; overcrowded layouts; neon colors; clip art icons; watermarks; busy patterns that fight with text\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 23461
+}

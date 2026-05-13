@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing nature macro photograph for a phone wallpaper (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a macro-photography aesthetic — exact stylistic execution is yours\nComposition: must be a close-up macro shot with a water droplet as the focal point, background with circular bokeh\nSubject: must include a water droplet with reflections inside, surrounding grass blades and dew drops\nScene/backdrop: must include natural grass and foliage context with circular bokeh background\nLighting/mood: needs a delicate and magical nature atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9ac10961-dc32-4251-99e6-5f296361c262/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing nature macro photograph for a phone wallpaper (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a macro-photography aesthetic — exact stylistic execution is yours\\nComposition: must be a close-up macro shot with a water droplet as the focal point, background with circular bokeh\\nSubject: must include a water droplet with reflections inside, surrounding grass blades and dew drops\\nScene/backdrop: must include natural grass and foliage context with circular bokeh background\\nLighting/mood: needs a delicate and magical nature atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8225
+}

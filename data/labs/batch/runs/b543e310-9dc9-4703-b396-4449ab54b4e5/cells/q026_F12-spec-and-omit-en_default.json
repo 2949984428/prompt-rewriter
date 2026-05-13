@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing marketing poster for a domestic financing roadshow announcement of \"GPT-5.5\" with speaker Sam Altman, designed to match Chinese VC roadshow conventions and GP tone.\n\nStyle/medium: Chinese domestic roadshow pitch deck cover\nComposition: \nSubject: GPT-5.5 financing announcement, speaker Sam Altman\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \"GPT-5.5\"\nConstraints: must fit Chinese domestic roadshow conventions, must match GP (General Partner) tone\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2400effb-20bf-406e-9481-4a7bbb753e1d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing marketing poster for a domestic financing roadshow announcement of \\\"GPT-5.5\\\" with speaker Sam Altman, designed to match Chinese VC roadshow conventions and GP tone.\\n\\nStyle/medium: Chinese domestic roadshow pitch deck cover\\nComposition: \\nSubject: GPT-5.5 financing announcement, speaker Sam Altman\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"GPT-5.5\\\"\\nConstraints: must fit Chinese domestic roadshow conventions, must match GP (General Partner) tone\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5021
+}

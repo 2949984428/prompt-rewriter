@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a PPT cover slide for GPT-5.5 domestic financing announcement, featuring Sam Altman as speaker, designed for Chinese VC roadshow conventions and GP tonality.\n\nStyle/medium: clean corporate presentation design with the understated authority of Chinese tech financing decks, balancing global credibility with local market fluency\nComposition: centered title hierarchy with speaker portrait placement, generous top and bottom margins for projector-safe viewing\nSubject: GPT-5.5 product launch announcement, speaker Sam Altman, financing round context\nScene/backdrop: neutral gradient or subtle tech-inspired texture that doesn't compete with text legibility\nLighting/mood: professional confidence, the quiet authority of a term-sheet conversation\nColor palette: neutral slate and white with one accent color signaling trust and innovation (deep blue or muted gold)\nMaterials/textures: \nText (verbatim): GPT-5.5发布 / 演讲人：奥特曼 (Sam Altman) / 融资发布会\nConstraints: all text must remain legible when projected, portrait placement follows Chinese roadshow conventions (typically upper right or left with clear visual hierarchy), must feel at home in a Beijing or Shanghai VC meeting room\nAvoid: overly decorative gradients, Western startup clichés (rocket ships, unicorns), excessive ornamentation that distracts from the financing narrative, illegible text at projection distance",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/843bd323-a923-4903-8cb4-802cff7505e2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a PPT cover slide for GPT-5.5 domestic financing announcement, featuring Sam Altman as speaker, designed for Chinese VC roadshow conventions and GP tonality.\\n\\nStyle/medium: clean corporate presentation design with the understated authority of Chinese tech financing decks, balancing global credibility with local market fluency\\nComposition: centered title hierarchy with speaker portrait placement, generous top and bottom margins for projector-safe viewing\\nSubject: GPT-5.5 product launch announcement, speaker Sam Altman, financing round context\\nScene/backdrop: neutral gradient or subtle tech-inspired texture that doesn't compete with text legibility\\nLighting/mood: professional confidence, the quiet authority of a term-sheet conversation\\nColor palette: neutral slate and white with one accent color signaling trust and innovation (deep blue or muted gold)\\nMaterials/textures: \\nText (verbatim): GPT-5.5发布 / 演讲人：奥特曼 (Sam Altman) / 融资发布会\\nConstraints: all text must remain legible when projected, portrait placement follows Chinese roadshow conventions (typically upper right or left with clear visual hierarchy), must feel at home in a Beijing or Shanghai VC meeting room\\nAvoid: overly decorative gradients, Western startup clichés (rocket ships, unicorns), excessive ornamentation that distracts from the financing narrative, illegible text at projection distance\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9629
+}

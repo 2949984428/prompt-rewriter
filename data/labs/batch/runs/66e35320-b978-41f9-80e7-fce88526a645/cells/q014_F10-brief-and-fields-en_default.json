@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a comprehensive UI design system in classic minimalist tech style for web dashboards, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: clean flat vector UI design system, classic minimalist tech aesthetic, Apple Human Interface Guidelines meets Material Design 3, crisp vector graphics\nSubject: web dashboard layout, mobile app screens, data cards, CTA buttons, toggle switches, input fields, navigation bars, iconography set\nComposition: modular component library view, organized grid presentation showing desktop and mobile variants side by side\nScene/backdrop: neutral gray canvas background, generous whitespace, organized spacing system\nColor palette: slate gray and charcoal as base, electric blue as primary accent, subtle gradients for depth, high contrast for accessibility\nMaterials/textures: smooth matte surfaces, subtle drop shadows for elevation, glassmorphism effects on cards, crisp 1px borders\nConstraints: components must be scalable and reusable; all elements must maintain 8px grid alignment; dark and light mode variants implied\nAvoid: skeuomorphic textures; 3D renders; photorealistic elements; cluttered layouts; excessive decorative flourishes; neon overload",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5ff80314-b043-4917-aa5f-e993b1920200/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a comprehensive UI design system in classic minimalist tech style for web dashboards, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: clean flat vector UI design system, classic minimalist tech aesthetic, Apple Human Interface Guidelines meets Material Design 3, crisp vector graphics\\nSubject: web dashboard layout, mobile app screens, data cards, CTA buttons, toggle switches, input fields, navigation bars, iconography set\\nComposition: modular component library view, organized grid presentation showing desktop and mobile variants side by side\\nScene/backdrop: neutral gray canvas background, generous whitespace, organized spacing system\\nColor palette: slate gray and charcoal as base, electric blue as primary accent, subtle gradients for depth, high contrast for accessibility\\nMaterials/textures: smooth matte surfaces, subtle drop shadows for elevation, glassmorphism effects on cards, crisp 1px borders\\nConstraints: components must be scalable and reusable; all elements must maintain 8px grid alignment; dark and light mode variants implied\\nAvoid: skeuomorphic textures; 3D renders; photorealistic elements; cluttered layouts; excessive decorative flourishes; neon overload\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9761
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a WeChat Official Account article cover image for a fragrance product launch (all in-image text in Chinese).\n\nStyle/medium: needs a \"高级质感风\" aesthetic — references in the spirit of Aesop brand visual heritage, Kinfolk magazine editorial photography, Cereal magazine minimalist layout; exact stylistic execution is yours\nComposition: must be centered composition with the title as the dominant focal point\nSubject: must include the fragrance product launch context\nScene/backdrop: \nLighting/mood: needs an autumn atmosphere — exact light source mix is yours\nColor palette: needs an autumn direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): must include \"染秋\" (main title, large, centered), \"秋意染染 时光留香\" (subtitle, secondary)\nConstraints: must include all in-image text in Chinese by default; title must be the dominant focal point per user requirement\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/30b773e6-1538-485a-91e0-4fc59ab09fd3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a WeChat Official Account article cover image for a fragrance product launch (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"高级质感风\\\" aesthetic — references in the spirit of Aesop brand visual heritage, Kinfolk magazine editorial photography, Cereal magazine minimalist layout; exact stylistic execution is yours\\nComposition: must be centered composition with the title as the dominant focal point\\nSubject: must include the fragrance product launch context\\nScene/backdrop: \\nLighting/mood: needs an autumn atmosphere — exact light source mix is yours\\nColor palette: needs an autumn direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"染秋\\\" (main title, large, centered), \\\"秋意染染 时光留香\\\" (subtitle, secondary)\\nConstraints: must include all in-image text in Chinese by default; title must be the dominant focal point per user requirement\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11440
+}

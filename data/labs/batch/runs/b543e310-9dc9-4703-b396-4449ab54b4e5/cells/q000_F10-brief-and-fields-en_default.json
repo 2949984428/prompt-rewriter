@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing cover image for Xiaohongshu (Little Red Book) featuring bubble tea, targeting a pink feminine aesthetic with summer refreshment vibes.\n\nStyle/medium: lifestyle product photography, soft feminine aesthetic, influencer-style flat lay\nComposition: top-down flat lay, centered bubble tea cup, generous negative space for text overlay, 4:3 aspect ratio\nSubject: tall clear plastic cup of milk tea with tapioca pearls visible at bottom, condensation droplets on cup surface\nScene/backdrop: pastel pink surface or marble, scattered ice cubes, fresh mint leaves, maybe a straw with decorative paper\nLighting/mood: bright soft daylight, diffused natural light, airy and refreshing summer mood\nColor palette: soft pink as dominant base, creamy beige from tea, dark brown pearls as contrast, mint green accent\nMaterials/textures: glossy wet plastic cup, chewy tapioca pearls, frosty condensation, matte paper straw\nConstraints: must work as a thumbnail at small sizes; text-safe area in upper third for title overlay\nAvoid: dark shadows, cluttered composition, realistic human hands, generic stock photo look, oversaturated neon colors",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4eb7249f-7c08-4058-af02-2a8a43beaf90/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing cover image for Xiaohongshu (Little Red Book) featuring bubble tea, targeting a pink feminine aesthetic with summer refreshment vibes.\\n\\nStyle/medium: lifestyle product photography, soft feminine aesthetic, influencer-style flat lay\\nComposition: top-down flat lay, centered bubble tea cup, generous negative space for text overlay, 4:3 aspect ratio\\nSubject: tall clear plastic cup of milk tea with tapioca pearls visible at bottom, condensation droplets on cup surface\\nScene/backdrop: pastel pink surface or marble, scattered ice cubes, fresh mint leaves, maybe a straw with decorative paper\\nLighting/mood: bright soft daylight, diffused natural light, airy and refreshing summer mood\\nColor palette: soft pink as dominant base, creamy beige from tea, dark brown pearls as contrast, mint green accent\\nMaterials/textures: glossy wet plastic cup, chewy tapioca pearls, frosty condensation, matte paper straw\\nConstraints: must work as a thumbnail at small sizes; text-safe area in upper third for title overlay\\nAvoid: dark shadows, cluttered composition, realistic human hands, generic stock photo look, oversaturated neon colors\",\"size\":\"1152x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10695
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 0,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个现代风格 logo，基于所提供的参考图像（North Western Bus logo）。\n\n风格/媒介:现代 logo 设计\n构图:\n主体:以参考图中的 North Western Bus logo 为基础进行现代化重设计\n场景/背景:\n光线/氛围:\n色彩方案:参考原图配色\n材质/纹理:\n文字(原样):\n约束:保留原 logo 的核心识别元素，风格现代化\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8df8ad05-d314-4d9b-aeaa-1a668b83ba99/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个现代风格 logo，基于所提供的参考图像（North Western Bus logo）。\\n\\n风格/媒介:现代 logo 设计\\n构图:\\n主体:以参考图中的 North Western Bus logo 为基础进行现代化重设计\\n场景/背景:\\n光线/氛围:\\n色彩方案:参考原图配色\\n材质/纹理:\\n文字(原样):\\n约束:保留原 logo 的核心识别元素，风格现代化\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5685,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

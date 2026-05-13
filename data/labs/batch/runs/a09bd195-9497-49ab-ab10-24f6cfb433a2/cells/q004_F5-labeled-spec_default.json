@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: food photography, editorial close-up\nPrimary request: close-up of tonkotsu ramen with chopsticks lifting noodles, steam rising, appetizing presentation\nScene/backdrop: shallow depth of field, blurred rustic wooden table surface, bokeh background\nSubject: rich creamy tonkotsu broth, chashu pork slices, soft-boiled egg with runny yolk, nori sheets, sliced scallions, wheat noodles being lifted by wooden chopsticks\nStyle/medium: food photography, macro lens aesthetic, editorial style\nComposition/framing: close-up overhead angle, shallow depth of field, focus on the lifted noodles and toppings\nLighting/mood: soft diffused natural light from the side, warm and inviting, highlighting steam and broth sheen\nColor palette: creamy white broth, caramel chashu, golden egg yolk, deep green nori, bright green scallions, warm wood tones\nMaterials/textures: glossy broth surface, tender meat fibers, silky egg yolk, crisp nori, chewy noodle strands, rising steam wisps\nConstraints: keep all toppings clearly visible, emphasize steam and appetizing quality\nAvoid: plastic-looking food, artificial colors, over-saturated processing, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/26a36ca9-64ae-49e7-87aa-f1de2b2fa39c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: photorealistic-natural\\nAsset type: food photography, editorial close-up\\nPrimary request: close-up of tonkotsu ramen with chopsticks lifting noodles, steam rising, appetizing presentation\\nScene/backdrop: shallow depth of field, blurred rustic wooden table surface, bokeh background\\nSubject: rich creamy tonkotsu broth, chashu pork slices, soft-boiled egg with runny yolk, nori sheets, sliced scallions, wheat noodles being lifted by wooden chopsticks\\nStyle/medium: food photography, macro lens aesthetic, editorial style\\nComposition/framing: close-up overhead angle, shallow depth of field, focus on the lifted noodles and toppings\\nLighting/mood: soft diffused natural light from the side, warm and inviting, highlighting steam and broth sheen\\nColor palette: creamy white broth, caramel chashu, golden egg yolk, deep green nori, bright green scallions, warm wood tones\\nMaterials/textures: glossy broth surface, tender meat fibers, silky egg yolk, crisp nori, chewy noodle strands, rising steam wisps\\nConstraints: keep all toppings clearly visible, emphasize steam and appetizing quality\\nAvoid: plastic-looking food, artificial colors, over-saturated processing, watermark\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10456
+}

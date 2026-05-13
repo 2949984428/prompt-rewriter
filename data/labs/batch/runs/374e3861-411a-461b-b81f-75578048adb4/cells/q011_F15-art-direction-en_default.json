@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial illustration of a spring sakura campus scene with a schoolgirl in sailor uniform.\n\nStyle/medium: needs a \"清新日系\" (fresh Japanese-style) aesthetic — exact stylistic execution is yours\nComposition: must include the schoolgirl as focal subject with teaching building behind\nSubject: must include a young woman wearing 水手服 (sailor uniform), with hair gently moved by breeze\nScene/backdrop: must include a school teaching building (教学楼) during sakura season with pink cherry blossoms falling\nLighting/mood: must be bright sunny day with fresh youthful atmosphere\nColor palette: needs a pink-dominant spring direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/02f8254e-6355-4af8-84df-90af79422630/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial illustration of a spring sakura campus scene with a schoolgirl in sailor uniform.\\n\\nStyle/medium: needs a \\\"清新日系\\\" (fresh Japanese-style) aesthetic — exact stylistic execution is yours\\nComposition: must include the schoolgirl as focal subject with teaching building behind\\nSubject: must include a young woman wearing 水手服 (sailor uniform), with hair gently moved by breeze\\nScene/backdrop: must include a school teaching building (教学楼) during sakura season with pink cherry blossoms falling\\nLighting/mood: must be bright sunny day with fresh youthful atmosphere\\nColor palette: needs a pink-dominant spring direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10451
+}

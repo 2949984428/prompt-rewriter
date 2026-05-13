@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for cross-border e-commerce promotion.\n\nStyle/medium: \nComposition: 16:9 aspect ratio, layered typography with artistic text, text stacking, subject overlapping text\nSubject: product or main subject partially obscuring typography\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: visually complex but not cluttered, artistic lettering, font stacking, subject blocking some text\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2305bbc8-1094-4bb6-9cba-b7b3da58f300/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for cross-border e-commerce promotion.\\n\\nStyle/medium: \\nComposition: 16:9 aspect ratio, layered typography with artistic text, text stacking, subject overlapping text\\nSubject: product or main subject partially obscuring typography\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: visually complex but not cluttered, artistic lettering, font stacking, subject blocking some text\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5521
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 23,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a premium minimalist logo wordmark for an architecture and interior design brand.\n\nStyle/medium: Minimalist geometric wordmark; timeless European design-bureau aesthetic; monochrome\nComposition: Clean spacing; refined typographic layout; calm editorial feel\nSubject: Uppercase wordmark \"BAU\" with sharp typography and subtle custom letter details\nScene/backdrop: No background elements; isolated mark\nLighting/mood: Modern, sophisticated, precise, high-end luxury editorial\nColor palette: Monochrome — black and ivory\nMaterials/textures:\nText (verbatim): BAU\nConstraints: Architecture, interior design, and construction brand identity; flat vector logo\nAvoid: House icons, tool icons, gradients, playful effects, decorative flourishes",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1a2b1406-ea32-4396-8b46-fc0af3b9018a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a premium minimalist logo wordmark for an architecture and interior design brand.\\n\\nStyle/medium: Minimalist geometric wordmark; timeless European design-bureau aesthetic; monochrome\\nComposition: Clean spacing; refined typographic layout; calm editorial feel\\nSubject: Uppercase wordmark \\\"BAU\\\" with sharp typography and subtle custom letter details\\nScene/backdrop: No background elements; isolated mark\\nLighting/mood: Modern, sophisticated, precise, high-end luxury editorial\\nColor palette: Monochrome — black and ivory\\nMaterials/textures:\\nText (verbatim): BAU\\nConstraints: Architecture, interior design, and construction brand identity; flat vector logo\\nAvoid: House icons, tool icons, gradients, playful effects, decorative flourishes\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6300,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

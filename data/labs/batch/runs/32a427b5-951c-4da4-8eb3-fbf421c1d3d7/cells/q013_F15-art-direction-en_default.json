@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a vertical short-video cover for an 8K GGU gaming monitor launch.\n\nStyle/medium: needs a minimalist, premium aesthetic — exact restraint level is yours\nComposition: must be rule-of-thirds layout\nSubject: must include the 8K GGU gaming monitor as focal product\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include \"8k GGU 电竞显示器 1000hz\" as large headline, must include \"全球首发全新面板 低延迟 完美色彩\" as supporting copy\nConstraints: must be vertical format optimized for short-video cover, large headline must be eye-catching\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7c342b03-8c3c-48d5-9f33-c2af74eb6b9c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a vertical short-video cover for an 8K GGU gaming monitor launch.\\n\\nStyle/medium: needs a minimalist, premium aesthetic — exact restraint level is yours\\nComposition: must be rule-of-thirds layout\\nSubject: must include the 8K GGU gaming monitor as focal product\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"8k GGU 电竞显示器 1000hz\\\" as large headline, must include \\\"全球首发全新面板 低延迟 完美色彩\\\" as supporting copy\\nConstraints: must be vertical format optimized for short-video cover, large headline must be eye-catching\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8247
+}

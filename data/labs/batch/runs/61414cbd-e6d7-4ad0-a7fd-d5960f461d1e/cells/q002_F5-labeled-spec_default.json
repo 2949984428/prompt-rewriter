@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: social-media-screenshot\nAsset type: vertical 9:16 mobile screenshot, Douyin live stream interface\nPrimary request: a screenshot of a live stream featuring \"神仙姐姐\" holding a sign with promotional text\nScene/backdrop: Douyin live stream UI overlay with comments, likes, and viewer count elements, soft blurred bedroom or studio background\nSubject: elegant Chinese female streamer \"神仙姐姐\" (fairy-like beauty, flowing hair, gentle smile) holding a rectangular sign board\nStyle/medium: mobile UI mockup with photorealistic portrait, social media interface design\nComposition/framing: vertical 9:16 ratio, subject centered in frame, UI elements at top and bottom, sign held at chest level\nLighting/mood: soft ring light glow on face, warm and inviting live stream atmosphere\nColor palette: warm skin tones + soft pink background + white UI elements + red accent buttons\nMaterials/textures: smooth skin, glossy sign surface, matte phone UI elements\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: must include Douyin-style live interface elements (viewer count, comment bar, gift buttons), sign text must be clearly readable\nAvoid: distorted fingers, blurry text, outdated UI design, watermark, low-resolution appearance",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f059bcda-a3a3-4126-a9fe-57ce7230ec1f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: social-media-screenshot\\nAsset type: vertical 9:16 mobile screenshot, Douyin live stream interface\\nPrimary request: a screenshot of a live stream featuring \\\"神仙姐姐\\\" holding a sign with promotional text\\nScene/backdrop: Douyin live stream UI overlay with comments, likes, and viewer count elements, soft blurred bedroom or studio background\\nSubject: elegant Chinese female streamer \\\"神仙姐姐\\\" (fairy-like beauty, flowing hair, gentle smile) holding a rectangular sign board\\nStyle/medium: mobile UI mockup with photorealistic portrait, social media interface design\\nComposition/framing: vertical 9:16 ratio, subject centered in frame, UI elements at top and bottom, sign held at chest level\\nLighting/mood: soft ring light glow on face, warm and inviting live stream atmosphere\\nColor palette: warm skin tones + soft pink background + white UI elements + red accent buttons\\nMaterials/textures: smooth skin, glossy sign surface, matte phone UI elements\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: must include Douyin-style live interface elements (viewer count, comment bar, gift buttons), sign text must be clearly readable\\nAvoid: distorted fingers, blurry text, outdated UI design, watermark, low-resolution appearance\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 24209
+}

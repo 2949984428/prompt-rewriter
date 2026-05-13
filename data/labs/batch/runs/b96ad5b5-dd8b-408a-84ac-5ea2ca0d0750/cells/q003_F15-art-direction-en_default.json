@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing avatar/profile picture for a tech/lifestyle content creator focusing on new energy vehicles, digital products, and lifestyle goods (all in-image text in Chinese).\n\nStyle/medium: needs a globally-appealing, culturally-neutral aesthetic — exact stylistic execution is yours\nComposition: must be centered, works as circular/rounded crop for social media avatars\nSubject: must include abstract or symbolic elements representing new energy vehicles, digital tech, and lifestyle goods — exact visual metaphors are yours\nScene/backdrop: needs a clean, uncluttered background — exact treatment is yours\nLighting/mood: needs a professional, approachable atmosphere — exact light source mix is yours\nColor palette: needs a universally harmonious direction avoiding region-specific color taboos — exact color choices are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must avoid symbols, colors, or imagery that could offend specific cultural/religious groups; must work harmoniously on both Chinese and international social platforms\nAvoid: must avoid religious symbols, politically sensitive imagery, region-specific taboo colors, aggressive or divisive visual elements",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/60178db4-c723-4771-bacd-e24eb51d8ce7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing avatar/profile picture for a tech/lifestyle content creator focusing on new energy vehicles, digital products, and lifestyle goods (all in-image text in Chinese).\\n\\nStyle/medium: needs a globally-appealing, culturally-neutral aesthetic — exact stylistic execution is yours\\nComposition: must be centered, works as circular/rounded crop for social media avatars\\nSubject: must include abstract or symbolic elements representing new energy vehicles, digital tech, and lifestyle goods — exact visual metaphors are yours\\nScene/backdrop: needs a clean, uncluttered background — exact treatment is yours\\nLighting/mood: needs a professional, approachable atmosphere — exact light source mix is yours\\nColor palette: needs a universally harmonious direction avoiding region-specific color taboos — exact color choices are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must avoid symbols, colors, or imagery that could offend specific cultural/religious groups; must work harmoniously on both Chinese and international social platforms\\nAvoid: must avoid religious symbols, politically sensitive imagery, region-specific taboo colors, aggressive or divisive visual elements\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13658
+}

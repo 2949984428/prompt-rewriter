@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "创作一张神秘东方风格的古风人像，汉服女子在竹林中抚琴，月光透过竹叶洒下斑驳光影，衣袂飘飘，仙气十足，适合作为古风游戏立绘",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/03b51d40-2285-4796-8c38-51c7b367d70f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"创作一张神秘东方风格的古风人像，汉服女子在竹林中抚琴，月光透过竹叶洒下斑驳光影，衣袂飘飘，仙气十足，适合作为古风游戏立绘\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3022
+}

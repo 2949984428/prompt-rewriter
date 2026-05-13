@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "画一张热血动漫风格的运动场景，篮球场上球员腾空扣篮，汗水飞溅，背景是欢呼的人群和闪光灯，动态模糊效果，充满张力和激情",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cbbc3bcd-ca23-42d9-9d00-e35db38550e1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"画一张热血动漫风格的运动场景，篮球场上球员腾空扣篮，汗水飞溅，背景是欢呼的人群和闪光灯，动态模糊效果，充满张力和激情\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4132
+}

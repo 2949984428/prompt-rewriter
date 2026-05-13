@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for a social media cover (Xiaohongshu/小红书), announcing GPT-image-2 launch on the Lovart platform.\n\nStyle/medium: editorial magazine cover aesthetic, high-fashion publication layout, clean typography-driven design\nComposition: diagonal composition with dynamic visual flow, text and graphic elements arranged along diagonal axis, balanced negative space\nSubject: announcement of \"GPT-image-2\" and \"Lovart\" as dual focal points, modern tech-art collaboration theme\nScene/backdrop: minimal editorial backdrop, abstract gradient or solid color field to emphasize typography\nLighting/mood: high contrast lighting with dramatic shadows, bold and confident mood\nColor palette: high-contrast accent color scheme, one bold accent color against neutral base, editorial sophistication\nText (verbatim): \"GPT-image-2\" \"Lovart\"\nConstraints: must work as 3:4 vertical cover format; text must remain legible at thumbnail size\nAvoid: generic tech startup gradients; cluttered layouts; low contrast color schemes; stock photo aesthetics; 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dea248c2-d7a9-4d03-8ad1-fff281309b3f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing marketing poster for a social media cover (Xiaohongshu/小红书), announcing GPT-image-2 launch on the Lovart platform.\\n\\nStyle/medium: editorial magazine cover aesthetic, high-fashion publication layout, clean typography-driven design\\nComposition: diagonal composition with dynamic visual flow, text and graphic elements arranged along diagonal axis, balanced negative space\\nSubject: announcement of \\\"GPT-image-2\\\" and \\\"Lovart\\\" as dual focal points, modern tech-art collaboration theme\\nScene/backdrop: minimal editorial backdrop, abstract gradient or solid color field to emphasize typography\\nLighting/mood: high contrast lighting with dramatic shadows, bold and confident mood\\nColor palette: high-contrast accent color scheme, one bold accent color against neutral base, editorial sophistication\\nText (verbatim): \\\"GPT-image-2\\\" \\\"Lovart\\\"\\nConstraints: must work as 3:4 vertical cover format; text must remain legible at thumbnail size\\nAvoid: generic tech startup gradients; cluttered layouts; low contrast color schemes; stock photo aesthetics; 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9858
+}

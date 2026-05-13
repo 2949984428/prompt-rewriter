@@ -1,0 +1,23 @@
+{
+  "query_idx": 169,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:坐垫主图1-1] 这是一款坐垫，长*宽*高尺寸是43厘米*42厘米*15厘米（到时候改成英寸）生成一套亚马逊爆款产品图包含8 张辅图1:1（，参考亚马逊同款爆款产品，卖点是记忆棉回弹",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 8,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A18336c0c-a28b-4693-91c5-a6660b6f1a7f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:坐垫主图1-1] 这是一款坐垫，长*宽*高尺寸是43厘米*42厘米*15厘米（到时候改成英寸）生成一套亚马逊爆款产品图包含8 张辅图1:1（，参考亚马逊同款爆款产品，卖点是记忆棉回弹\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 8, \"output_format\": \"png\"}",
+  "ms": 4995,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

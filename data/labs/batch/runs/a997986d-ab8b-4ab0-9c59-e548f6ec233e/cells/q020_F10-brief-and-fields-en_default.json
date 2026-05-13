@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial illustration of a cyberpunk street scene in Neo-Tokyo, 2077.\n\nStyle/medium: digital illustration, Blade Runner 2049 visual aesthetic, dense detail, photorealistic rendering with painterly atmosphere\nComposition: deep depth of field, wide-angle street-level perspective, foreground street vendor stalls leading to distant skyscrapers vanishing into smog\nSubject: crowded narrow neon street with mixed cultural elements, pedestrians in traditional kimono with cybernetic implants, augmented workers in worn work clothes, holographic virtual idols performing mid-air\nScene/backdrop: 2077 Neo-Tokyo at night, narrow congested street lined with dense Japanese, Chinese, and English neon signs, skyscrapers disappearing into haze in the distance, delivery drones weaving through the air, floating billboards displaying advertisements\nLighting/mood: neon signs in pink, cyan-blue, and orange-yellow illuminating the street like daylight, harsh artificial glow mixed with atmospheric haze, moody and immersive, futuristic yet apocalyptic atmosphere\nColor palette: neon pink and cyan-blue as dominant accents, warm orange-yellow highlights, deep shadows with reflected neon glow, high saturation contrast against dark urban base\nMaterials/textures: wet pavement with mirror-like reflections of all neon lights, glossy holographic projections, worn concrete and metal surfaces, translucent atmospheric smog\nAvoid: flat anime style, clean utopian aesthetic, empty streets, oversaturated cartoon colors, 8K stuffer terminology",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/379dc61d-5d4d-4f66-be34-b845cfc5e25b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial illustration of a cyberpunk street scene in Neo-Tokyo, 2077.\\n\\nStyle/medium: digital illustration, Blade Runner 2049 visual aesthetic, dense detail, photorealistic rendering with painterly atmosphere\\nComposition: deep depth of field, wide-angle street-level perspective, foreground street vendor stalls leading to distant skyscrapers vanishing into smog\\nSubject: crowded narrow neon street with mixed cultural elements, pedestrians in traditional kimono with cybernetic implants, augmented workers in worn work clothes, holographic virtual idols performing mid-air\\nScene/backdrop: 2077 Neo-Tokyo at night, narrow congested street lined with dense Japanese, Chinese, and English neon signs, skyscrapers disappearing into haze in the distance, delivery drones weaving through the air, floating billboards displaying advertisements\\nLighting/mood: neon signs in pink, cyan-blue, and orange-yellow illuminating the street like daylight, harsh artificial glow mixed with atmospheric haze, moody and immersive, futuristic yet apocalyptic atmosphere\\nColor palette: neon pink and cyan-blue as dominant accents, warm orange-yellow highlights, deep shadows with reflected neon glow, high saturation contrast against dark urban base\\nMaterials/textures: wet pavement with mirror-like reflections of all neon lights, glossy holographic projections, worn concrete and metal surfaces, translucent atmospheric smog\\nAvoid: flat anime style, clean utopian aesthetic, empty streets, oversaturated cartoon colors, 8K stuffer terminology\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12235
+}

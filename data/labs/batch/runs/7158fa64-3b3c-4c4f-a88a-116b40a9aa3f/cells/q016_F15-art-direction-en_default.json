@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a museum-grade Chinese ethnic costume infographic for a national museum exhibition panel.\n\nStyle/medium: needs a national museum exhibition panel aesthetic — exact paper texture and typographic treatment is yours\nComposition: must be structured infographic layout with five fixed zones: top header zone, left structural breakdown zone, upper-right material/texture zone, mid-right pattern/color symbolism zone, bottom wearing-order flowchart zone\nSubject: must include a full-body Chinese ethnic costume ensemble as central focal element (realistic human figure or object breakdown depending on costume type)\nScene/backdrop: must be paper-textured background in rice-white / silk-paper white / light tea tones with museum-grade restraint\nLighting/mood: needs a scholarly, collectible atmosphere — exact light source is yours\nColor palette: needs a restrained, professional museum palette — exact color values are yours\nMaterials/textures: must include realistic fabric texture swatches showing material differences and craftsmanship details\nText (verbatim): must include 简体中文 throughout — main title at top, subtitle, introduction, structural callout labels with leader lines, material descriptions, pattern symbolism explanations, color meaning annotations, wearing sequence steps, core feature summary\nConstraints: must preserve all five layout zones as specified, must maintain infographic/scholarly plate format not poster/illustration/commercial style, must show structural accuracy and cultural authenticity, all text must be clear 简体中文 with no garbled characters or English\nAvoid: poster aesthetics, studio photography feel, e-commerce styling, anime/illustration styling, cosplay aesthetics, incorrect labeling, blurred text, fake materials, excessive decoration",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2fc8420c-1eaa-497a-a06f-b6001581653b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a museum-grade Chinese ethnic costume infographic for a national museum exhibition panel.\\n\\nStyle/medium: needs a national museum exhibition panel aesthetic — exact paper texture and typographic treatment is yours\\nComposition: must be structured infographic layout with five fixed zones: top header zone, left structural breakdown zone, upper-right material/texture zone, mid-right pattern/color symbolism zone, bottom wearing-order flowchart zone\\nSubject: must include a full-body Chinese ethnic costume ensemble as central focal element (realistic human figure or object breakdown depending on costume type)\\nScene/backdrop: must be paper-textured background in rice-white / silk-paper white / light tea tones with museum-grade restraint\\nLighting/mood: needs a scholarly, collectible atmosphere — exact light source is yours\\nColor palette: needs a restrained, professional museum palette — exact color values are yours\\nMaterials/textures: must include realistic fabric texture swatches showing material differences and craftsmanship details\\nText (verbatim): must include 简体中文 throughout — main title at top, subtitle, introduction, structural callout labels with leader lines, material descriptions, pattern symbolism explanations, color meaning annotations, wearing sequence steps, core feature summary\\nConstraints: must preserve all five layout zones as specified, must maintain infographic/scholarly plate format not poster/illustration/commercial style, must show structural accuracy and cultural authenticity, all text must be clear 简体中文 with no garbled characters or English\\nAvoid: poster aesthetics, studio photography feel, e-commerce styling, anime/illustration styling, cosplay aesthetics, incorrect labeling, blurred text, fake materials, excessive decoration\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14773
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 20,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张圆形头像艺术图，风格为高端街头涂鸦 / 街头艺术（graffiti street-art），整体构图参考 premium urban logo 设计的强力构图结构。\n\n风格/媒介:\n  涂鸦街头艺术风格（graffiti street-art）\n  喷漆质感、手写 handstyle、stencil 印记\n  layered tags、街头壁画美学\n  高对比、强深度感、分层纹理\n\n构图:\n  圆形裁切构图，profile picture 规格\n  中央巨型字体主导画面，bold condensed 字母，压倒性视觉存在感\n  顶部居中放置街头涂鸦风格皇冠（spray tag 手绘风）\n  画面中部横穿一条裂缝 / 断裂效果线\n  底部区域整合一个现代 WhatsApp 联系栏融入艺术设计中\n\n主体:\n  核心文字\"ADM 2D\"——巨型粗体压缩字母，喷漆质感，带滴漆、粗糙边缘、墙面涂料瑕疵\n  顶部涂鸦皇冠图标\n  侧面装饰：日文书法涂鸦 tags（Japanese calligraphy graffiti tags）\n\n场景/背景:\n  深黑色混合混凝土墙面纹理，裂缝水泥、隐约砖块、城市小巷氛围\n\n光线/氛围:\n  霓虹蓝发光点缀，cinematic 阴影，aggressive 且 exclusive 的街头品牌视觉感\n\n色彩方案:\n  蓝色霓虹涂鸦色盘：electric blue、royal blue、白色高光\n  背景深黑\n\n材质/纹理:\n  喷漆纹理、滴漆、粗糙边缘、墙面涂料瑕疵\n  layered posters torn on wall、halftone dots、stickers、scratches\n  spray mist、paint splashes、marker tags、scribbles、subtle smoke\n  混凝土裂缝、砖墙肌理\n\n文字(原样):\n  ADM 2D\n\n约束:\n  圆形构图，profile picture ready\n  字体为 bold condensed 风格，中央主导\n  底部 WhatsApp 联系栏需融入整体艺术风格中\n\n避免:\n  干净现代风格（clean modern style）\n  平面矢量感\n  柔和或低对比配色",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6b1e8ded-edd9-4be7-bc9a-f142f7070de9/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张圆形头像艺术图，风格为高端街头涂鸦 / 街头艺术（graffiti street-art），整体构图参考 premium urban logo 设计的强力构图结构。\\n\\n风格/媒介:\\n  涂鸦街头艺术风格（graffiti street-art）\\n  喷漆质感、手写 handstyle、stencil 印记\\n  layered tags、街头壁画美学\\n  高对比、强深度感、分层纹理\\n\\n构图:\\n  圆形裁切构图，profile picture 规格\\n  中央巨型字体主导画面，bold condensed 字母，压倒性视觉存在感\\n  顶部居中放置街头涂鸦风格皇冠（spray tag 手绘风）\\n  画面中部横穿一条裂缝 / 断裂效果线\\n  底部区域整合一个现代 WhatsApp 联系栏融入艺术设计中\\n\\n主体:\\n  核心文字\\\"ADM 2D\\\"——巨型粗体压缩字母，喷漆质感，带滴漆、粗糙边缘、墙面涂料瑕疵\\n  顶部涂鸦皇冠图标\\n  侧面装饰：日文书法涂鸦 tags（Japanese calligraphy graffiti tags）\\n\\n场景/背景:\\n  深黑色混合混凝土墙面纹理，裂缝水泥、隐约砖块、城市小巷氛围\\n\\n光线/氛围:\\n  霓虹蓝发光点缀，cinematic 阴影，aggressive 且 exclusive 的街头品牌视觉感\\n\\n色彩方案:\\n  蓝色霓虹涂鸦色盘：electric blue、royal blue、白色高光\\n  背景深黑\\n\\n材质/纹理:\\n  喷漆纹理、滴漆、粗糙边缘、墙面涂料瑕疵\\n  layered posters torn on wall、halftone dots、stickers、scratches\\n  spray mist、paint splashes、marker tags、scribbles、subtle smoke\\n  混凝土裂缝、砖墙肌理\\n\\n文字(原样):\\n  ADM 2D\\n\\n约束:\\n  圆形构图，profile picture ready\\n  字体为 bold condensed 风格，中央主导\\n  底部 WhatsApp 联系栏需融入整体艺术风格中\\n\\n避免:\\n  干净现代风格（clean modern style）\\n  平面矢量感\\n  柔和或低对比配色\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 19249,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

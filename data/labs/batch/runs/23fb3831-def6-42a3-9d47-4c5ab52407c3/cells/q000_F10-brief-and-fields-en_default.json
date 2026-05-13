@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster (小红书 cover) for a pearl milk tea product, girly pink aesthetic with a summer refreshing vibe.\n\nStyle/medium: pastel editorial product photography, soft dreamy illustration-meets-photo style, inspired by Japanese kawaii food styling\nComposition: vertical portrait frame, centered subject with generous negative space, slight top-down tilt to show drink details\nSubject: pearl milk tea in a clear cup with visible tapioca pearls, condensation droplets on the cup surface, pastel pink straw, whipped cream or foam top\nScene/backdrop: soft pink gradient background with scattered light floral or star confetti props, subtle summer elements (ice cubes, flower petals)\nLighting/mood: bright airy diffused light from upper left, high-key soft shadows, cheerful and refreshing summer mood\nColor palette: blush pink and creamy white as base, warm milk-tea brown as anchor, translucent pearl accents\nMaterials/textures: dewy condensation on cup surface, glossy tapioca pearls, soft foam texture on top\nAvoid: dark moody tones, harsh shadows, cluttered background, generic stock-photo flatness, neon colors",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/439627ca-3095-4a5c-9ab1-71fcc5a39e58/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster (小红书 cover) for a pearl milk tea product, girly pink aesthetic with a summer refreshing vibe.\\n\\nStyle/medium: pastel editorial product photography, soft dreamy illustration-meets-photo style, inspired by Japanese kawaii food styling\\nComposition: vertical portrait frame, centered subject with generous negative space, slight top-down tilt to show drink details\\nSubject: pearl milk tea in a clear cup with visible tapioca pearls, condensation droplets on the cup surface, pastel pink straw, whipped cream or foam top\\nScene/backdrop: soft pink gradient background with scattered light floral or star confetti props, subtle summer elements (ice cubes, flower petals)\\nLighting/mood: bright airy diffused light from upper left, high-key soft shadows, cheerful and refreshing summer mood\\nColor palette: blush pink and creamy white as base, warm milk-tea brown as anchor, translucent pearl accents\\nMaterials/textures: dewy condensation on cup surface, glossy tapioca pearls, soft foam texture on top\\nAvoid: dark moody tones, harsh shadows, cluttered background, generic stock-photo flatness, neon colors\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9854
+}

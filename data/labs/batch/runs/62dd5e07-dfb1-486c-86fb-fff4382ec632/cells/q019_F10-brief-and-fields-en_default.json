@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing marketing poster for 绿联私有云 brand 618 anniversary sale e-commerce campaign.\n\nStyle/medium: bold e-commerce promotional poster, flat vector with rich color blocking, inspired by Tmall/JD.com 618 grand sale visual language\nComposition: vertical layout, hero headline centered at top third, product visual anchored in mid-section, CTA badge at bottom, generous padding on all sides\nSubject: 绿联私有云 NAS/private cloud device as hero product, surrounded by celebratory 618 graphic elements — bursting ribbons, star sparks, discount badge\nScene/backdrop: deep gradient background transitioning from dark teal to vivid green, evoking brand identity and festive energy\nLighting/mood: bright, high-energy, celebratory; soft radial glow behind product to create depth\nColor palette: 绿联 signature green as dominant, gold/yellow as accent for 618 numerals and price callouts, white for body text contrast\nText (verbatim): \"绿联私有云\" \"618\" \"周年庆\"\nConstraints: text hierarchy must be legible at thumbnail size (600×800 px preview); 618 numeral must be the largest typographic element; brand name 绿联私有云 must appear prominently\nAvoid: generic stock-photo backgrounds, cluttered overlapping text, neon cyberpunk palette, dark moody lighting, watermarks",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c571c9f3-60b0-4902-a8f9-082190ebad80/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing marketing poster for 绿联私有云 brand 618 anniversary sale e-commerce campaign.\\n\\nStyle/medium: bold e-commerce promotional poster, flat vector with rich color blocking, inspired by Tmall/JD.com 618 grand sale visual language\\nComposition: vertical layout, hero headline centered at top third, product visual anchored in mid-section, CTA badge at bottom, generous padding on all sides\\nSubject: 绿联私有云 NAS/private cloud device as hero product, surrounded by celebratory 618 graphic elements — bursting ribbons, star sparks, discount badge\\nScene/backdrop: deep gradient background transitioning from dark teal to vivid green, evoking brand identity and festive energy\\nLighting/mood: bright, high-energy, celebratory; soft radial glow behind product to create depth\\nColor palette: 绿联 signature green as dominant, gold/yellow as accent for 618 numerals and price callouts, white for body text contrast\\nText (verbatim): \\\"绿联私有云\\\" \\\"618\\\" \\\"周年庆\\\"\\nConstraints: text hierarchy must be legible at thumbnail size (600×800 px preview); 618 numeral must be the largest typographic element; brand name 绿联私有云 must appear prominently\\nAvoid: generic stock-photo backgrounds, cluttered overlapping text, neon cyberpunk palette, dark moody lighting, watermarks\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10691
+}

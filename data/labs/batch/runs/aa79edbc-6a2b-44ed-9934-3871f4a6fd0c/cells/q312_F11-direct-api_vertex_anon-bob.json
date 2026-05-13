@@ -1,0 +1,23 @@
+{
+  "query_idx": 312,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:_1_噢了个麦噶_来自小红书网页版][@image:#2:一张图证明你是闽南人｜饮料篇🥤_1_Taxi_来自小红书网页版] 帮我把这个产品抠出来，放在一个白色背景中，正面平视图，画面在设计一下，丰富一些，设计感，有审美，小红书视频号封面3:4",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3296f0b9-c67a-43c6-a1aa-7bbdea6758c9/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:_1_噢了个麦噶_来自小红书网页版][@image:#2:一张图证明你是闽南人｜饮料篇🥤_1_Taxi_来自小红书网页版] 帮我把这个产品抠出来，放在一个白色背景中，正面平视图，画面在设计一下，丰富一些，设计感，有审美，小红书视频号封面3:4\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6774,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

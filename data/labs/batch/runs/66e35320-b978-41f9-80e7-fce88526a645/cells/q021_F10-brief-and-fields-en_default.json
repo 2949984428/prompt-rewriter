@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 3x3 character expression grid for Zhao Ling'er (赵灵儿) from the Legend of Sword and Fairy (仙剑奇侠传) IP.\n\nStyle/medium: 3D animation, Pixar-style character rendering, soft subsurface scattering on skin, expressive stylized proportions\nComposition: 3x3 grid layout with 9 equal panels, each showing character peeking through a torn circular hole in white paper, consistent framing across all panels\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses, Zhao Ling'er-inspired facial features and gentle demeanor\nScene/backdrop: plain white paper texture with torn hole edges, minimal background to keep focus on expressions\nLighting/mood: soft diffused studio lighting, warm and friendly atmosphere, consistent illumination across all 9 panels\nColor palette: varied outfit colors per panel (green, red, yellow, black/white, orange, blue, purple, pink, teal) against neutral white paper backdrop\nMaterials/textures: smooth Pixar-style skin, fabric clothing textures, paper fiber detail on torn edges\nText (verbatim): \"赵灵儿\"\nConstraints: maintain character consistency across all 9 panels; same face structure, hair style, and glasses in every panel; only expression and outfit change\nAvoid: photorealistic rendering, anime style, 2D flat illustration, inconsistent character proportions between panels, deformed hands, asymmetrical glasses",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b5fd7250-62e7-4429-ab81-e408b8796e0b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing 3x3 character expression grid for Zhao Ling'er (赵灵儿) from the Legend of Sword and Fairy (仙剑奇侠传) IP.\\n\\nStyle/medium: 3D animation, Pixar-style character rendering, soft subsurface scattering on skin, expressive stylized proportions\\nComposition: 3x3 grid layout with 9 equal panels, each showing character peeking through a torn circular hole in white paper, consistent framing across all panels\\nSubject: young woman with voluminous dark wavy hair and round wire-rimmed glasses, Zhao Ling'er-inspired facial features and gentle demeanor\\nScene/backdrop: plain white paper texture with torn hole edges, minimal background to keep focus on expressions\\nLighting/mood: soft diffused studio lighting, warm and friendly atmosphere, consistent illumination across all 9 panels\\nColor palette: varied outfit colors per panel (green, red, yellow, black/white, orange, blue, purple, pink, teal) against neutral white paper backdrop\\nMaterials/textures: smooth Pixar-style skin, fabric clothing textures, paper fiber detail on torn edges\\nText (verbatim): \\\"赵灵儿\\\"\\nConstraints: maintain character consistency across all 9 panels; same face structure, hair style, and glasses in every panel; only expression and outfit change\\nAvoid: photorealistic rendering, anime style, 2D flat illustration, inconsistent character proportions between panels, deformed hands, asymmetrical glasses\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12515
+}

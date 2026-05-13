@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic for a technical tutorial, explaining how to deploy Hermes in a Docker container and integrate it with GLMCodingPlan in four clear steps.\n\nStyle/medium: clean flat vector infographic, modern tech documentation style, step-by-step flowchart aesthetic\nComposition: vertical four-panel layout with numbered steps 1-2-3-4 descending, each panel containing an icon + brief instruction\nSubject: Docker deployment workflow with Hermes integration to GLMCodingPlan, visualized as connected containers and API connections\nScene/backdrop: minimal white/light gray background with subtle grid, no distracting environment\nColor palette: Docker blue (#2496ED) as primary, neutral grays for secondary elements, green accent for success states\nText (verbatim): \"1\", \"2\", \"3\", \"4\", \"Hermes\", \"GLMCodingPlan\", \"Docker\"\nConstraints: each step must fit in a readable panel at 1024x1536 vertical format; icons must be recognizable at small scale\nAvoid: photorealistic textures; complex 3D renders; decorative flourishes; gradients unless functional; watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8715b812-d674-47fd-a33f-b8c04228fda9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing infographic for a technical tutorial, explaining how to deploy Hermes in a Docker container and integrate it with GLMCodingPlan in four clear steps.\\n\\nStyle/medium: clean flat vector infographic, modern tech documentation style, step-by-step flowchart aesthetic\\nComposition: vertical four-panel layout with numbered steps 1-2-3-4 descending, each panel containing an icon + brief instruction\\nSubject: Docker deployment workflow with Hermes integration to GLMCodingPlan, visualized as connected containers and API connections\\nScene/backdrop: minimal white/light gray background with subtle grid, no distracting environment\\nColor palette: Docker blue (#2496ED) as primary, neutral grays for secondary elements, green accent for success states\\nText (verbatim): \\\"1\\\", \\\"2\\\", \\\"3\\\", \\\"4\\\", \\\"Hermes\\\", \\\"GLMCodingPlan\\\", \\\"Docker\\\"\\nConstraints: each step must fit in a readable panel at 1024x1536 vertical format; icons must be recognizable at small scale\\nAvoid: photorealistic textures; complex 3D renders; decorative flourishes; gradients unless functional; watermark\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10975
+}

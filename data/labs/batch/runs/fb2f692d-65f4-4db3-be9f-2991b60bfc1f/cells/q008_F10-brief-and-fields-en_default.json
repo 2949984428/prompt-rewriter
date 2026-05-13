@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a marketing poster for cross-border e-commerce promotion.\n\nStyle/medium: bold typographic poster design with layered artistic lettering, contemporary commercial advertising aesthetic\nComposition: 16:9 horizontal format, complex layered layout with overlapping text elements and product integration, balanced visual hierarchy\nSubject: dynamic artistic typography with stacked letterforms, products or main subjects partially overlapping and obscuring portions of text\nScene/backdrop: promotional e-commerce themed environment, modern commercial setting\nLighting/mood: vibrant energetic lighting, attention-grabbing promotional atmosphere\nColor palette: bold contrasting colors with clear visual separation, multiple accent colors arranged in structured layers\nMaterials/textures: clean vector typography with subtle dimensional effects, product photography integration\nText (verbatim): \"跨境电商促销\"\nConstraints: must maintain readability despite complexity; layered elements must not create visual chaos; 16:9 aspect ratio required\nAvoid: cluttered messy composition; illegible text; generic stock photo aesthetic; excessive decorative elements without purpose; 8K stuffer words",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8fdfac09-19af-4485-ab6f-67bb1dc82068/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a marketing poster for cross-border e-commerce promotion.\\n\\nStyle/medium: bold typographic poster design with layered artistic lettering, contemporary commercial advertising aesthetic\\nComposition: 16:9 horizontal format, complex layered layout with overlapping text elements and product integration, balanced visual hierarchy\\nSubject: dynamic artistic typography with stacked letterforms, products or main subjects partially overlapping and obscuring portions of text\\nScene/backdrop: promotional e-commerce themed environment, modern commercial setting\\nLighting/mood: vibrant energetic lighting, attention-grabbing promotional atmosphere\\nColor palette: bold contrasting colors with clear visual separation, multiple accent colors arranged in structured layers\\nMaterials/textures: clean vector typography with subtle dimensional effects, product photography integration\\nText (verbatim): \\\"跨境电商促销\\\"\\nConstraints: must maintain readability despite complexity; layered elements must not create visual chaos; 16:9 aspect ratio required\\nAvoid: cluttered messy composition; illegible text; generic stock photo aesthetic; excessive decorative elements without purpose; 8K stuffer words\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9143
+}

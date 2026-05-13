@@ -1,0 +1,23 @@
+{
+  "query_idx": 166,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:_DSC2594] 这是个吹风机的正反面，[@image:#2:图片9]根据产品的外观创建一个跟参考图类似的图，排版一样，卡其色色调，图片的尺寸也一样，只需要一张",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0b9cb06b-2414-43e5-8bb8-524d3eea575f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:_DSC2594] 这是个吹风机的正反面，[@image:#2:图片9]根据产品的外观创建一个跟参考图类似的图，排版一样，卡其色色调，图片的尺寸也一样，只需要一张\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2800,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

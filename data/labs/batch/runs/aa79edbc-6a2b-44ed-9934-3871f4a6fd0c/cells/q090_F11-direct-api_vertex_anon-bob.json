@@ -1,0 +1,23 @@
+{
+  "query_idx": 90,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:预览图_千图_编号74998387] 这套设计作为参考，做一套横州茉莉花茶一盏清茉品牌的设计，我现在提供一盏清茉品牌的设计元素[@image:#2:翩翩起舞][@image:#3:欣然赞许][@image:#4:品香茗韵][@image:#5:若有所思][@image:#6:活力四射][@image:#7:静享清欢][@image:#8:资源 42][@image:#9:资源 44]，设计一套类似的。",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4146f397-2fba-4087-9559-05071b10288d/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:预览图_千图_编号74998387] 这套设计作为参考，做一套横州茉莉花茶一盏清茉品牌的设计，我现在提供一盏清茉品牌的设计元素[@image:#2:翩翩起舞][@image:#3:欣然赞许][@image:#4:品香茗韵][@image:#5:若有所思][@image:#6:活力四射][@image:#7:静享清欢][@image:#8:资源 42][@image:#9:资源 44]，设计一套类似的。\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5459,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

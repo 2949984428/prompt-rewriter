@@ -1,0 +1,21 @@
+{
+  "query_idx": 11,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 小红书 cover image for a tech announcement about GPT-image-2 launching on Lovart.\n\nStyle/medium: needs a high-end magazine editorial aesthetic — exact stylistic execution is yours\nComposition: must use diagonal composition\nSubject: must include the launch announcement of GPT-image-2 on Lovart as the focal theme\nScene/backdrop: \nLighting/mood: needs a high-contrast, punchy atmosphere — exact light source mix is yours\nColor palette: needs a high-contrast with strong accent color direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"GPT-image-2\" (primary headline) and \"Lovart\" (secondary accent)\nConstraints: must be formatted as a 小红书 cover (portrait orientation)\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac5ce068a-8370-4bbb-952d-0ec6a8a4961b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a 小红书 cover image for a tech announcement about GPT-image-2 launching on Lovart.\\n\\nStyle/medium: needs a high-end magazine editorial aesthetic — exact stylistic execution is yours\\nComposition: must use diagonal composition\\nSubject: must include the launch announcement of GPT-image-2 on Lovart as the focal theme\\nScene/backdrop: \\nLighting/mood: needs a high-contrast, punchy atmosphere — exact light source mix is yours\\nColor palette: needs a high-contrast with strong accent color direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT-image-2\\\" (primary headline) and \\\"Lovart\\\" (secondary accent)\\nConstraints: must be formatted as a 小红书 cover (portrait orientation)\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5339
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a food-photography style close-up of a bowl of Japanese ramen.\n\nStyle/medium: needs a food-photography aesthetic — exact stylistic execution is yours\nComposition: must be close-up with chopsticks lifting noodles\nSubject: must include tonkotsu broth, chashu, soft-boiled egg, nori, scallions\nScene/backdrop: must be blurred background (bokeh)\nLighting/mood: needs an appetizing, steamy atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: must include steam rising from the bowl\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2f519d6f-05c8-4712-ae57-470651abfcd9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a food-photography style close-up of a bowl of Japanese ramen.\\n\\nStyle/medium: needs a food-photography aesthetic — exact stylistic execution is yours\\nComposition: must be close-up with chopsticks lifting noodles\\nSubject: must include tonkotsu broth, chashu, soft-boiled egg, nori, scallions\\nScene/backdrop: must be blurred background (bokeh)\\nLighting/mood: needs an appetizing, steamy atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: must include steam rising from the bowl\\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13433
+}

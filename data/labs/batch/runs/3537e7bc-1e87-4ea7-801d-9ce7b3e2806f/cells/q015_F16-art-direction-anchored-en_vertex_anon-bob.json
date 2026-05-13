@@ -1,0 +1,21 @@
+{
+  "query_idx": 15,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "9:16竖屏构图，抖音直播界面截图风格，刘亦菲（神仙姐姐）正在直播，她手里拿着一块牌子，牌子上写着\"今晚直播，欢迎来参亦菲畅聊！\"，直播间UI元素包含顶部观众人数、点赞数、评论区弹幕滚动，整体色调明亮温暖，人像清晰，直播氛围真实自然",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A74c70068-0692-43f1-9f53-3e8dab64c2df/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"9:16竖屏构图，抖音直播界面截图风格，刘亦菲（神仙姐姐）正在直播，她手里拿着一块牌子，牌子上写着\\\"今晚直播，欢迎来参亦菲畅聊！\\\"，直播间UI元素包含顶部观众人数、点赞数、评论区弹幕滚动，整体色调明亮温暖，人像清晰，直播氛围真实自然\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4549
+}

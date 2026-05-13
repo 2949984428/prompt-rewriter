@@ -1,0 +1,18 @@
+{
+  "query_idx": 8,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign with a complex but visually organized composition.\n\nStyle/medium: needs a \"跨境电商促销\" aesthetic — references in the spirit of Saul Bass commercial poster typography, 2000s Y2K e-commerce visual language, contemporary 天猫/京东 大促 key visual design; exact stylistic execution is yours\nComposition: must include typographic stacking (layered font hierarchy), with a product or hero subject physically overlapping and partially obscuring background lettering; overall layout must feel rich and complex but not chaotic\nSubject: must include a prominent product or hero subject as the focal element that overlaps the text layers\nScene/backdrop: needs a dynamic promotional backdrop — exact treatment is yours\nLighting/mood: needs a high-energy, attention-grabbing promotional mood — exact lighting is yours\nColor palette: needs a bold, vibrant promotional color palette — exact hues are yours\nMaterials/textures: \nText (verbatim): must include decorative art typography (艺术字) as a design element; exact copy is yours\nConstraints: must be 16:9 horizontal layout; typographic stacking must be visible as a deliberate design layer; product/subject overlap with lettering must be clearly executed\nAvoid: cluttered or disorganized layouts; flat or monotonous compositions",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit https://aka.ms/aoaicodeofconduct\",\"error_code\":\"API_CALL_ERROR\",\"provider_error_code\":\"Forbidden\",\"http_status_code\":403,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign with a complex but visually organized composition.\\n\\nStyle/medium: needs a \\\"跨境电商促销\\\" aesthetic — references in the spirit of Saul Bass commercial poster typography, 2000s Y2K e-commerce visual language, contemporary 天猫/京东 大促 key visual design; exact stylistic execution is yours\\nComposition: must include typographic stacking (layered font hierarchy), with a product or hero subject physically overlapping and partially obscuring background lettering; overall layout must feel rich and complex but not chaotic\\nSubject: must include a prominent product or hero subject as the focal element that overlaps the text layers\\nScene/backdrop: needs a dynamic promotional backdrop — exact treatment is yours\\nLighting/mood: needs a high-energy, attention-grabbing promotional mood — exact lighting is yours\\nColor palette: needs a bold, vibrant promotional color palette — exact hues are yours\\nMaterials/textures: \\nText (verbatim): must include decorative art typography (艺术字) as a design element; exact copy is yours\\nConstraints: must be 16:9 horizontal layout; typographic stacking must be visible as a deliberate design layer; product/subject overlap with lettering must be clearly executed\\nAvoid: cluttered or disorganized layouts; flat or monotonous compositions\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11836
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original food photography close-up of a Japanese 拉面 bowl (all in-image text in Chinese).\n\nStyle/medium: needs a professional food photography aesthetic — exact stylistic execution is yours\nComposition: must be close-up with chopsticks lifting noodles as focal action; background must be bokeh/shallow depth-of-field\nSubject: must include all toppings and elements:\n  - 浓郁豚骨汤底 (rich, milky broth)\n  - 叉烧 (chashu pork slices)\n  - 溏心蛋 (soft-boiled marinated egg, halved)\n  - 海苔 (nori sheet)\n  - 葱花 (chopped green onions)\n  - 筷子 lifting a portion of noodles\nScene/backdrop: needs a blurred, warm restaurant or tabletop backdrop — exact setting is yours\nLighting/mood: needs a steamy, appetizing atmosphere with visible rising steam — exact light source and steam treatment are yours\nColor palette: needs a rich, warm, appetite-stimulating direction — exact tones and ratios are yours\nMaterials/textures: needs a glossy broth surface, tender meat texture, and glistening noodle sheen — exact surface treatment is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must show visible steam rising from the bowl; chopsticks must be actively lifting noodles\nAvoid: must avoid flat lighting, cluttered props, or any element that reduces appetite appeal",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/d8f7ab3d-5b41-4802-b67a-27506d097cf8/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original food photography close-up of a Japanese 拉面 bowl (all in-image text in Chinese).\\n\\nStyle/medium: needs a professional food photography aesthetic — exact stylistic execution is yours\\nComposition: must be close-up with chopsticks lifting noodles as focal action; background must be bokeh/shallow depth-of-field\\nSubject: must include all toppings and elements:\\n  - 浓郁豚骨汤底 (rich, milky broth)\\n  - 叉烧 (chashu pork slices)\\n  - 溏心蛋 (soft-boiled marinated egg, halved)\\n  - 海苔 (nori sheet)\\n  - 葱花 (chopped green onions)\\n  - 筷子 lifting a portion of noodles\\nScene/backdrop: needs a blurred, warm restaurant or tabletop backdrop — exact setting is yours\\nLighting/mood: needs a steamy, appetizing atmosphere with visible rising steam — exact light source and steam treatment are yours\\nColor palette: needs a rich, warm, appetite-stimulating direction — exact tones and ratios are yours\\nMaterials/textures: needs a glossy broth surface, tender meat texture, and glistening noodle sheen — exact surface treatment is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must show visible steam rising from the bowl; chopsticks must be actively lifting noodles\\nAvoid: must avoid flat lighting, cluttered props, or any element that reduces appetite appeal\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 11073
+}

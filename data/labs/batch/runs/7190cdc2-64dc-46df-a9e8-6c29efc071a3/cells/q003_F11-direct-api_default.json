@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "高端商业美食摄影：一道精心摆盘的法式主菜——慢煮鸭胸配黑松露酱汁，鸭胸切面呈现完美的玫瑰粉色渐变，表皮金黄酥脆，纹理清晰可见。盘中以芹菜根泥为底，点缀着微型香草叶、可食用花卉和几滴浓缩红酒汁。餐盘为纯白哑光骨瓷，置于深色大理石桌面上，旁边摆放着银质刀叉和一杯深红色勃艮第葡萄酒，酒杯内壁挂着酒液痕迹。光线采用侧逆光，突出食材质感与光泽，背景虚化，整体色调沉稳奢华，符合米其林三星餐厅的视觉调性。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7e9f2912-93ea-4e3f-bd6a-646510c50f37/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

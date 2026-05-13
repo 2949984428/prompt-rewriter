@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: product photography, square crop\nPrimary request: smartwatch placed on a marble surface with a coffee cup and notebook as props, natural side lighting, minimalist business style highlighting product texture\nScene/backdrop: clean marble tabletop surface, soft neutral background, minimal clutter\nSubject: smartwatch as hero product, sleek modern design with visible screen detail; coffee cup and notebook as supporting props arranged naturally beside it\nStyle/medium: photorealistic product photography, clean and refined\nComposition/framing: slight overhead or eye-level angle, balanced flat-lay or three-quarter view, negative space preserved around product\nLighting/mood: soft natural side light casting gentle shadows, clean and airy, understated business elegance\nColor palette: cool marble white and grey tones + warm coffee brown accents + muted notebook neutral\nMaterials/textures: polished marble surface with subtle veining, matte leather notebook cover, ceramic coffee cup glaze, metal and glass watch casing\nConstraints: smartwatch must be the focal point; keep composition uncluttered and minimal\nAvoid: artificial studio flash look, cluttered props, plastic textures, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0b6e2973-0375-4d47-9aab-cf82a51fb98f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: product photography, square crop\\nPrimary request: smartwatch placed on a marble surface with a coffee cup and notebook as props, natural side lighting, minimalist business style highlighting product texture\\nScene/backdrop: clean marble tabletop surface, soft neutral background, minimal clutter\\nSubject: smartwatch as hero product, sleek modern design with visible screen detail; coffee cup and notebook as supporting props arranged naturally beside it\\nStyle/medium: photorealistic product photography, clean and refined\\nComposition/framing: slight overhead or eye-level angle, balanced flat-lay or three-quarter view, negative space preserved around product\\nLighting/mood: soft natural side light casting gentle shadows, clean and airy, understated business elegance\\nColor palette: cool marble white and grey tones + warm coffee brown accents + muted notebook neutral\\nMaterials/textures: polished marble surface with subtle veining, matte leather notebook cover, ceramic coffee cup glaze, metal and glass watch casing\\nConstraints: smartwatch must be the focal point; keep composition uncluttered and minimal\\nAvoid: artificial studio flash look, cluttered props, plastic textures, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14484
+}

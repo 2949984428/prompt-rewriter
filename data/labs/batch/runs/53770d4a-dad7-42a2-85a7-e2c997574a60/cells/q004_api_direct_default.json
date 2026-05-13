@@ -1,0 +1,23 @@
+{
+  "query_idx": 4,
+  "skill_id": "",
+  "image_model": "",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:bathroom curtain][@image:#2:ScreenShot_2026-01-28_145719_164][@image:#3:ScreenShot_2026-03-27_154800_952]图1-2是我们的窗帘产品，用它替换成图3中的窗帘，整体构图不变。\n同时修改床上蓝色毛毯、沙发上抱枕和挂画的款式，但是要风格保持一致。其余细节不变。需要有空间感，高精密的细节和质感,图片比例4:5,发布在etsy平台，4k,镜头聚集到窗帘上。发布",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Af2649e6c-26ba-4e91-b848-4f0973beb667/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:bathroom curtain][@image:#2:ScreenShot_2026-01-28_145719_164][@image:#3:ScreenShot_2026-03-27_154800_952]图1-2是我们的窗帘产品，用它替换成图3中的窗帘，整体构图不变。\\n同时修改床上蓝色毛毯、沙发上抱枕和挂画的款式，但是要风格保持一致。其余细节不变。需要有空间感，高精密的细节和质感,图片比例4:5,发布在etsy平台，4k,镜头聚集到窗帘上。发布\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5493,
+  "pipeline_id": "api_direct",
+  "pipeline_outputs": null
+}

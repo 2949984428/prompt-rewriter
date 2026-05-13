@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original infographic explaining the definitions of and relationships between 7 AI-related concepts.\n\nStyle/medium: needs a hand-drawn illustration aesthetic — exact line weight, texture, and sketch style is yours\nComposition: must be a single-panel infographic layout with all 7 concepts clearly separated and visually connected by relationship lines or arrows\nSubject: must include all 7 concepts with definitions and relationship annotations:\n  - AI（人工智能）\n  - MCP（Model Context Protocol）\n  - AI Agent\n  - OpenClaw\n  - AI Skill\n  - 蒸馏（Distillation）\n  - CLI（Command Line Interface）\nScene/backdrop: \nLighting/mood: needs a friendly, approachable atmosphere — exact warmth level is yours\nColor palette: needs a light, easy-to-read direction — exact color choices are yours\nMaterials/textures: needs a hand-drawn / sketchbook surface treatment — exact paper texture and ink style is yours\nText (verbatim): must include the following labels verbatim: \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must preserve all 7 concepts; each concept must have a short definition annotation; relationship arrows or connectors between related concepts must be visible; layout must be readable and uncluttered\nAvoid: must avoid dense academic diagram style, dark backgrounds, overly technical flowchart aesthetics",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/596bf8c6-ec29-4be2-97f6-7a16d873e07e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original infographic explaining the definitions of and relationships between 7 AI-related concepts.\\n\\nStyle/medium: needs a hand-drawn illustration aesthetic — exact line weight, texture, and sketch style is yours\\nComposition: must be a single-panel infographic layout with all 7 concepts clearly separated and visually connected by relationship lines or arrows\\nSubject: must include all 7 concepts with definitions and relationship annotations:\\n  - AI（人工智能）\\n  - MCP（Model Context Protocol）\\n  - AI Agent\\n  - OpenClaw\\n  - AI Skill\\n  - 蒸馏（Distillation）\\n  - CLI（Command Line Interface）\\nScene/backdrop: \\nLighting/mood: needs a friendly, approachable atmosphere — exact warmth level is yours\\nColor palette: needs a light, easy-to-read direction — exact color choices are yours\\nMaterials/textures: needs a hand-drawn / sketchbook surface treatment — exact paper texture and ink style is yours\\nText (verbatim): must include the following labels verbatim: \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must preserve all 7 concepts; each concept must have a short definition annotation; relationship arrows or connectors between related concepts must be visible; layout must be readable and uncluttered\\nAvoid: must avoid dense academic diagram style, dark backgrounds, overly technical flowchart aesthetics\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7998
+}

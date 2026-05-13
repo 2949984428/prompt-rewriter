@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing avatar icon for a social media account covering new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: icon / avatar, flat or semi-flat illustration\nComposition: centered, balanced\nSubject: visual elements representing new energy vehicles, digital gadgets, and lifestyle products\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: culturally neutral and universally harmonious across both Chinese and international social platforms; must avoid symbols, gestures, colors, or imagery that may be offensive or taboo to any specific cultural or religious group\nAvoid: flags, political symbols, religious icons, culturally specific gestures, text-heavy design",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/448f7168-336b-426c-ac61-7f160e59f944/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing avatar icon for a social media account covering new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: icon / avatar, flat or semi-flat illustration\\nComposition: centered, balanced\\nSubject: visual elements representing new energy vehicles, digital gadgets, and lifestyle products\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: culturally neutral and universally harmonious across both Chinese and international social platforms; must avoid symbols, gestures, colors, or imagery that may be offensive or taboo to any specific cultural or religious group\\nAvoid: flags, political symbols, religious icons, culturally specific gestures, text-heavy design\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6947
+}

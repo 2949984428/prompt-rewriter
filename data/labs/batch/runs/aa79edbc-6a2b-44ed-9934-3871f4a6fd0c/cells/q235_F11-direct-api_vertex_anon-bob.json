@@ -1,0 +1,23 @@
+{
+  "query_idx": 235,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image] 分析这个图片上的要求，生成一个符合要求的海报，图二是画风参考，[@image:#2:287b69f32c751e97f9788c3c20af0131] ，画板比例1比2",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0d35e165-df13-4203-a712-b4b9ba304f28/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image] 分析这个图片上的要求，生成一个符合要求的海报，图二是画风参考，[@image:#2:287b69f32c751e97f9788c3c20af0131] ，画板比例1比2\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2720,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

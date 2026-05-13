@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: e-commerce hero banner, summer fashion\nPrimary request: white summer dress flowing gently in sea breeze on beach\nScene/backdrop: tropical beach with clear blue sky and turquoise ocean, soft sand, distant horizon\nSubject: elegant white sleeveless summer dress with lightweight fabric, natural flowing movement, no model visible or mannequin-style presentation\nStyle/medium: Japanese film photography aesthetic, editorial fashion photography\nComposition/framing: medium shot with dress as central focus, negative space for text overlay, 3:2 landscape orientation\nLighting/mood: bright natural daylight, soft diffused sunlight, fresh and airy vacation mood\nColor palette: crisp white dress + azure blue sky + turquoise sea + warm beige sand, clean pastel tones\nMaterials/textures: airy chiffon or cotton fabric with visible texture, soft fabric folds, subtle grain from film emulation\nConstraints: dress must appear to be floating/moving in wind, background must show both sky and sea\nAvoid: harsh shadows, oversaturated colors, cluttered composition, visible mannequin parts, plastic-looking fabric",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/395ca559-a221-432b-bb55-3e2f0ed0e786/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: product-mockup\\nAsset type: e-commerce hero banner, summer fashion\\nPrimary request: white summer dress flowing gently in sea breeze on beach\\nScene/backdrop: tropical beach with clear blue sky and turquoise ocean, soft sand, distant horizon\\nSubject: elegant white sleeveless summer dress with lightweight fabric, natural flowing movement, no model visible or mannequin-style presentation\\nStyle/medium: Japanese film photography aesthetic, editorial fashion photography\\nComposition/framing: medium shot with dress as central focus, negative space for text overlay, 3:2 landscape orientation\\nLighting/mood: bright natural daylight, soft diffused sunlight, fresh and airy vacation mood\\nColor palette: crisp white dress + azure blue sky + turquoise sea + warm beige sand, clean pastel tones\\nMaterials/textures: airy chiffon or cotton fabric with visible texture, soft fabric folds, subtle grain from film emulation\\nConstraints: dress must appear to be floating/moving in wind, background must show both sky and sea\\nAvoid: harsh shadows, oversaturated colors, cluttered composition, visible mannequin parts, plastic-looking fabric\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11724
+}

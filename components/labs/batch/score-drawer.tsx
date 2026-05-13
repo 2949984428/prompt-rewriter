@@ -29,6 +29,11 @@ export function BatchScoreDrawer() {
   );
   // lightbox 受控:大图 / 参考图点击后弹全屏预览,null = 关
   const [lightboxSrc, setLightboxSrc] = useState<string | null>(null);
+  // 多图模式:当前展示第几张(Pipeline N>1 cell)。cell 切换时重置 0
+  const [activeImageIdx, setActiveImageIdx] = useState(0);
+  useEffect(() => {
+    setActiveImageIdx(0);
+  }, [active?.query_idx, active?.skill_id, active?.image_model, active?.pipeline_id]);
 
   const cell = useMemo(() => {
     if (!record || !active) return null;
@@ -130,7 +135,9 @@ export function BatchScoreDrawer() {
   };
 
   const close = () => setActive(null);
-  const url = cell.image_urls?.[0];
+  // 多图支持(Pipeline N>1 cell):activeImageIdx 控制大图区显示第几张,缩略图条切换
+  const allImages = cell.image_urls ?? [];
+  const url = allImages[activeImageIdx] ?? allImages[0];
 
   const onCopyImage = async () => {
     if (!url) return;
@@ -210,6 +217,34 @@ export function BatchScoreDrawer() {
                 title="点击放大预览"
                 className="block max-h-[420px] w-full cursor-zoom-in object-contain"
               />
+              {/* 多图缩略图条:N>1 时显示,点击切换大图区显示哪张 */}
+              {allImages.length > 1 && (
+                <div className="flex flex-wrap gap-1.5 border-t border-border-cream bg-ivory/40 p-2">
+                  {allImages.map((u, i) => (
+                    <button
+                      key={i}
+                      type="button"
+                      onClick={() => setActiveImageIdx(i)}
+                      title={`第 ${i + 1} 张,共 ${allImages.length} 张`}
+                      className={`relative h-14 w-14 overflow-hidden rounded border-2 transition ${
+                        i === activeImageIdx
+                          ? "border-terracotta"
+                          : "border-border-cream hover:border-stone-gray"
+                      }`}
+                    >
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={u}
+                        alt=""
+                        className="h-full w-full object-cover"
+                      />
+                      <span className="absolute right-0.5 top-0.5 rounded-sm bg-near-black/70 px-1 font-mono text-[9px] text-ivory">
+                        {i + 1}
+                      </span>
+                    </button>
+                  ))}
+                </div>
+              )}
               <div className="flex items-center justify-end gap-2 border-t border-border-cream bg-ivory/60 px-3 py-2">
                 <button
                   onClick={onCopyImage}

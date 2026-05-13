@@ -1,0 +1,23 @@
+{
+  "query_idx": 255,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图，将建筑设计改为横版插画风格，适合小红书平台发布。\n\n风格/媒介:插画风格\n构图:\n  横版 16:9 构图\n  保持原建筑主体，不延展多余场景\n主体:原图中的建筑设计\n场景/背景:保留原图背景，不额外扩展场景\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  比例 16:9\n  不延展原图以外不必要的场景内容\n  保留建筑主体的核心视觉信息\n避免:写实摄影风格、多余场景延伸",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 2,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7181df90-4068-433f-a206-0d663d3bdbe7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图，将建筑设计改为横版插画风格，适合小红书平台发布。\\n\\n风格/媒介:插画风格\\n构图:\\n  横版 16:9 构图\\n  保持原建筑主体，不延展多余场景\\n主体:原图中的建筑设计\\n场景/背景:保留原图背景，不额外扩展场景\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  比例 16:9\\n  不延展原图以外不必要的场景内容\\n  保留建筑主体的核心视觉信息\\n避免:写实摄影风格、多余场景延伸\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 2, \"output_format\": \"png\"}",
+  "ms": 7017,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

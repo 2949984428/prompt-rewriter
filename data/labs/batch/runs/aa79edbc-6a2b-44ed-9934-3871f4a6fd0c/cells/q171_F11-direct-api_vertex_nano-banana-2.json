@@ -1,0 +1,23 @@
+{
+  "query_idx": 171,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一套完整的亚马逊产品图，我的产品图是[@image:#1:多角度图-封面正面含信封 (1)][@image:#2:多角度展示图][@image:#3: Image]，卖点是：5second funny audio, 高质量印刷, 父亲节Trump政治幽默贺卡. 品牌: ZoomPave.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa74fe73c-e271-4ce6-979d-904eb4dd959a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一套完整的亚马逊产品图，我的产品图是[@image:#1:多角度图-封面正面含信封 (1)][@image:#2:多角度展示图][@image:#3: Image]，卖点是：5second funny audio, 高质量印刷, 父亲节Trump政治幽默贺卡. 品牌: ZoomPave.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3594,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

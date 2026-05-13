@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "创作一张暗黑哥特风格的城堡 interior，高大的拱顶，彩色玻璃窗透进血红色的光，烛台和铁链装饰，阴影浓重，神秘而压抑的氛围",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4b2933a1-67d7-4084-9083-59ecf15c17b6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"创作一张暗黑哥特风格的城堡 interior，高大的拱顶，彩色玻璃窗透进血红色的光，烛台和铁链装饰，阴影浓重，神秘而压抑的氛围\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4524
+}

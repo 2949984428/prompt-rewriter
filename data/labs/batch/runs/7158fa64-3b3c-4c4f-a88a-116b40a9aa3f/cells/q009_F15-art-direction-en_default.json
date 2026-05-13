@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for the \"RAN QIU\" brand.\n\nStyle/medium: needs an \"东方美学\" (Eastern aesthetic) with minimalist, natural-poetic, warm-healing direction — exact stylistic execution is yours\nComposition: needs generous negative space and shallow depth of field — exact framing is yours\nSubject: must include the \"RAN QIU\" brand mark\nScene/backdrop: needs a warm autumn atmosphere with natural elements — exact setting is yours\nLighting/mood: needs golden-hour warm lighting with a poetic, tranquil atmosphere — exact light source mix is yours\nColor palette: must include #8B3A1E (deep autumn brown-red), #E8DCCB (beige), #D4A574 (golden brown)\nMaterials/textures: needs warm-toned surface treatment — exact grain / sheen is yours\nText (verbatim): must include \"RAN QIU\"\nConstraints: must preserve brand color accuracy (#8B3A1E / #E8DCCB / #D4A574), must maintain generous negative space\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6981585e-2a56-4b87-b911-d8c07ac1cbc5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for the \\\"RAN QIU\\\" brand.\\n\\nStyle/medium: needs an \\\"东方美学\\\" (Eastern aesthetic) with minimalist, natural-poetic, warm-healing direction — exact stylistic execution is yours\\nComposition: needs generous negative space and shallow depth of field — exact framing is yours\\nSubject: must include the \\\"RAN QIU\\\" brand mark\\nScene/backdrop: needs a warm autumn atmosphere with natural elements — exact setting is yours\\nLighting/mood: needs golden-hour warm lighting with a poetic, tranquil atmosphere — exact light source mix is yours\\nColor palette: must include #8B3A1E (deep autumn brown-red), #E8DCCB (beige), #D4A574 (golden brown)\\nMaterials/textures: needs warm-toned surface treatment — exact grain / sheen is yours\\nText (verbatim): must include \\\"RAN QIU\\\"\\nConstraints: must preserve brand color accuracy (#8B3A1E / #E8DCCB / #D4A574), must maintain generous negative space\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9564
+}

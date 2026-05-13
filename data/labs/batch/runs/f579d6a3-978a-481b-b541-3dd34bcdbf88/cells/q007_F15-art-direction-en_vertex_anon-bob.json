@@ -1,0 +1,21 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\n\nStyle/medium: needs a technical exploded-diagram aesthetic — exact stylistic execution is yours\nComposition: must be exploded/disassembled layout with all parts spread out and labeled\nSubject: must include the Sony A7 camera fully disassembled into all its individual components with part names labeled\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include labeled part names for every component shown\nConstraints: must preserve accurate representation of Sony A7 parts and their spatial relationships in the exploded view\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A36c86a4a-8c03-4349-aef8-6b81494775e4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\\n\\nStyle/medium: needs a technical exploded-diagram aesthetic — exact stylistic execution is yours\\nComposition: must be exploded/disassembled layout with all parts spread out and labeled\\nSubject: must include the Sony A7 camera fully disassembled into all its individual components with part names labeled\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include labeled part names for every component shown\\nConstraints: must preserve accurate representation of Sony A7 parts and their spatial relationships in the exploded view\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6063
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 3,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成 logo 应用场景及物品展示图。\n\n风格/媒介:\n构图:\n主体:图片中的 logo 应用于实际场景及物品上\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:logo 样式严格还原参考图片中的设计\n避免:",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Afd922568-cc9f-48b1-82e1-9a129d16453d/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成 logo 应用场景及物品展示图。\\n\\n风格/媒介:\\n构图:\\n主体:图片中的 logo 应用于实际场景及物品上\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:logo 样式严格还原参考图片中的设计\\n避免:\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8233,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

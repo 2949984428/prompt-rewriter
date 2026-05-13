@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a premium beauty serum product.\n\nStyle/medium: needs a luxurious and refined aesthetic suitable for social media promotion — exact stylistic execution is yours\nComposition: must include the serum bottle as central focal point with surrounding rose petals and water droplets\nSubject: must include a glass serum bottle with pale golden liquid visible through the glass\nScene/backdrop: must be a soft pink gradient background\nLighting/mood: needs a soft and natural light atmosphere — exact light source mix is yours\nColor palette: must be soft pink dominant with pale golden accents\nMaterials/textures: needs a premium surface treatment — exact glass transparency and petal texture are yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0574b025-2974-4be5-90c9-9d9c1988620f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a premium beauty serum product.\\n\\nStyle/medium: needs a luxurious and refined aesthetic suitable for social media promotion — exact stylistic execution is yours\\nComposition: must include the serum bottle as central focal point with surrounding rose petals and water droplets\\nSubject: must include a glass serum bottle with pale golden liquid visible through the glass\\nScene/backdrop: must be a soft pink gradient background\\nLighting/mood: needs a soft and natural light atmosphere — exact light source mix is yours\\nColor palette: must be soft pink dominant with pale golden accents\\nMaterials/textures: needs a premium surface treatment — exact glass transparency and petal texture are yours\\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9057
+}

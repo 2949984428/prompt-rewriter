@@ -1,0 +1,23 @@
+{
+  "query_idx": 39,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一款品牌 logo。\n\n风格/媒介:极简大气，富有灵性，logo 设计\n构图:以\"卍\"为视觉中心，英文字母与图案协调排布\n主体:中国道家图案\"卍\"为主体\n场景/背景:纯净背景，突出 logo 本体\n光线/氛围:灵性、大气\n色彩方案:\n材质/纹理:\n文字(原样):SYLVALŪNE\n约束:保留\"卍\"原始形态，文字 SYLVALŪNE 完整呈现\n避免:繁复装饰，杂乱元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acf88b1bf-83d7-4542-981d-a9fb170ff266/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一款品牌 logo。\\n\\n风格/媒介:极简大气，富有灵性，logo 设计\\n构图:以\\\"卍\\\"为视觉中心，英文字母与图案协调排布\\n主体:中国道家图案\\\"卍\\\"为主体\\n场景/背景:纯净背景，突出 logo 本体\\n光线/氛围:灵性、大气\\n色彩方案:\\n材质/纹理:\\n文字(原样):SYLVALŪNE\\n约束:保留\\\"卍\\\"原始形态，文字 SYLVALŪNE 完整呈现\\n避免:繁复装饰，杂乱元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8181,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

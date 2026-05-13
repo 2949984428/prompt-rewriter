@@ -1,0 +1,23 @@
+{
+  "query_idx": 2,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成 Frontier 公司 logo 标准化制图。\n\n风格/媒介:标准化 logo 制图，平面矢量风格\n构图:logo 居中，标准展示版式\n主体:Frontier 公司 logo，参考上传的 #1 和 #2 图片中的 logo 造型\n场景/背景:纯白色背景\n光线/氛围:\n色彩方案:严格使用 #1A395F、#436792、#A3C0D9\n材质/纹理:\n文字(原样):Frontier\n约束:\n  以上传图片 #1（Group 79）和 #2（Group 79-1）为参考依据\n  颜色仅限 #1A395F #436792 #A3C0D9，不得引入其他颜色\n  背景为纯白色\n避免:渐变、阴影、多余装饰元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A808fe372-0a1f-487c-b098-0e67eef2552d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成 Frontier 公司 logo 标准化制图。\\n\\n风格/媒介:标准化 logo 制图，平面矢量风格\\n构图:logo 居中，标准展示版式\\n主体:Frontier 公司 logo，参考上传的 #1 和 #2 图片中的 logo 造型\\n场景/背景:纯白色背景\\n光线/氛围:\\n色彩方案:严格使用 #1A395F、#436792、#A3C0D9\\n材质/纹理:\\n文字(原样):Frontier\\n约束:\\n  以上传图片 #1（Group 79）和 #2（Group 79-1）为参考依据\\n  颜色仅限 #1A395F #436792 #A3C0D9，不得引入其他颜色\\n  背景为纯白色\\n避免:渐变、阴影、多余装饰元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8379,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

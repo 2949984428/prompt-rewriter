@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial documentary photograph of 恒河 morning ritual bathers in 瓦拉纳西.\n\nStyle/medium: needs a documentary street-photography aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include devout bathers performing morning rituals, boats on the river\nScene/backdrop: must include 恒河 at dawn with morning mist, 瓦拉ansi riverside context\nLighting/mood: needs warm morning sunlight atmosphere with mist — exact light source mix is yours\nColor palette: needs warm direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must preserve the exotic cultural atmosphere of 瓦拉ansi\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fbae4f60-3870-4202-a7a3-87af9449cb00/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial documentary photograph of 恒河 morning ritual bathers in 瓦拉纳西.\\n\\nStyle/medium: needs a documentary street-photography aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include devout bathers performing morning rituals, boats on the river\\nScene/backdrop: must include 恒河 at dawn with morning mist, 瓦拉ansi riverside context\\nLighting/mood: needs warm morning sunlight atmosphere with mist — exact light source mix is yours\\nColor palette: needs warm direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must preserve the exotic cultural atmosphere of 瓦拉ansi\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8213
+}

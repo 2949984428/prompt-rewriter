@@ -1,0 +1,23 @@
+{
+  "query_idx": 109,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:20260303-150051] 为耳钉产品页面设计淘宝平台视觉素材，包括每个产品的3张主图、场景图各2张，包含产品特写和突显性能与材质，有欧美模特佩戴照",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7ede8054-96a2-49a4-b919-e5dfe8e04b5d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:20260303-150051] 为耳钉产品页面设计淘宝平台视觉素材，包括每个产品的3张主图、场景图各2张，包含产品特写和突显性能与材质，有欧美模特佩戴照\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2835,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

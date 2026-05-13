@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: industrial documentary photography\nPrimary request: wide-angle low-angle shot of a giant electric arc furnace during steel tapping, with molten steel pouring down like an orange-red waterfall\nScene/backdrop: modern steel smelting plant interior, dimly lit industrial hall with steel framework ceiling visible through smoke and light\nSubject: massive electric arc furnace as the dominant element, workers in heat-resistant suits and face shields operating equipment in the distance, strong scale contrast between human figures and giant machinery\nStyle/medium: industrial photography, slow shutter speed to capture motion blur of flowing molten steel\nComposition/framing: wide-angle low-angle perspective, dramatic upward view emphasizing the grandeur of industrial machinery\nLighting/mood: molten steel as the primary light source creating spectacular sparks, dramatic contrast between dark environment and glowing orange-red metal, atmospheric and powerful\nColor palette: deep gray, iron black contrasted with intense orange-red of molten steel, metallic dust tones\nMaterials/textures: realistic molten metal flow with motion blur, industrial steel surfaces, metal dust on floor, heat-resistant fabric textures\nConstraints: maintain the scale contrast between workers and machinery, capture the dynamic motion of pouring steel\nAvoid: oversaturated colors, cartoonish sparks, clean factory environment, plastic-looking materials, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/38a54a45-1c9b-40b1-a482-7fd8c8f859e2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: industrial documentary photography\\nPrimary request: wide-angle low-angle shot of a giant electric arc furnace during steel tapping, with molten steel pouring down like an orange-red waterfall\\nScene/backdrop: modern steel smelting plant interior, dimly lit industrial hall with steel framework ceiling visible through smoke and light\\nSubject: massive electric arc furnace as the dominant element, workers in heat-resistant suits and face shields operating equipment in the distance, strong scale contrast between human figures and giant machinery\\nStyle/medium: industrial photography, slow shutter speed to capture motion blur of flowing molten steel\\nComposition/framing: wide-angle low-angle perspective, dramatic upward view emphasizing the grandeur of industrial machinery\\nLighting/mood: molten steel as the primary light source creating spectacular sparks, dramatic contrast between dark environment and glowing orange-red metal, atmospheric and powerful\\nColor palette: deep gray, iron black contrasted with intense orange-red of molten steel, metallic dust tones\\nMaterials/textures: realistic molten metal flow with motion blur, industrial steel surfaces, metal dust on floor, heat-resistant fabric textures\\nConstraints: maintain the scale contrast between workers and machinery, capture the dynamic motion of pouring steel\\nAvoid: oversaturated colors, cartoonish sparks, clean factory environment, plastic-looking materials, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11085
+}

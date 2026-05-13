@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: fine-art portrait\nAsset type: museum-quality oil painting reproduction\nPrimary request: contemporary professional woman portrait rendered in Dutch Golden Age Rembrandt lighting technique\nScene/backdrop: deep dark brown chiaroscuro background with minimal detail, void-like atmosphere\nSubject: East Asian woman around 35 years old wearing dark business suit, wise and resolute expression, holding a thick heavy book in her hands with detailed knuckles and skin texture\nStyle/medium: classical oil painting, thick impasto brushwork, Rembrandt chiaroscuro technique\nComposition/framing: three-quarter portrait, face as focal point with Rembrandt triangle highlight on cheek\nLighting/mood: dramatic Rembrandt lighting with triangular highlight on one side of face, soft shadows on the other side, warm and solemn mood\nColor palette: brown umber, ochre, deep crimson, bright warm white only on facial highlights\nMaterials/textures: heavy oil paint texture with visible brushstrokes, realistic skin and fabric details\nConstraints: preserve Rembrandt lighting triangle on face, keep background dark and minimal, hands must show detailed anatomy and skin texture\nAvoid: modern lighting, bright background, flat lighting, digital smoothness, contemporary fashion photography look",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bdd3ae5e-f667-40a4-a05d-3c7ac2cde3f3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: fine-art portrait\\nAsset type: museum-quality oil painting reproduction\\nPrimary request: contemporary professional woman portrait rendered in Dutch Golden Age Rembrandt lighting technique\\nScene/backdrop: deep dark brown chiaroscuro background with minimal detail, void-like atmosphere\\nSubject: East Asian woman around 35 years old wearing dark business suit, wise and resolute expression, holding a thick heavy book in her hands with detailed knuckles and skin texture\\nStyle/medium: classical oil painting, thick impasto brushwork, Rembrandt chiaroscuro technique\\nComposition/framing: three-quarter portrait, face as focal point with Rembrandt triangle highlight on cheek\\nLighting/mood: dramatic Rembrandt lighting with triangular highlight on one side of face, soft shadows on the other side, warm and solemn mood\\nColor palette: brown umber, ochre, deep crimson, bright warm white only on facial highlights\\nMaterials/textures: heavy oil paint texture with visible brushstrokes, realistic skin and fabric details\\nConstraints: preserve Rembrandt lighting triangle on face, keep background dark and minimal, hands must show detailed anatomy and skin texture\\nAvoid: modern lighting, bright background, flat lighting, digital smoothness, contemporary fashion photography look\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11583
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: social media advertisement, square crop\nPrimary request: luxury skincare serum bottle with rose petals and water splash\nScene/backdrop: soft pink gradient background, minimal and elegant\nSubject: glass serum bottle with golden liquid visible through transparent glass, rose petals floating around, water droplets splashing\nStyle/medium: commercial product photography, high-end beauty editorial\nComposition/framing: centered product shot, 85mm lens, soft depth of field\nLighting/mood: soft natural light, diffused studio lighting, luxurious and refined atmosphere\nColor palette: soft pink gradient + golden liquid + rose petal pink + white water droplets\nMaterials/textures: smooth glass surface, liquid transparency, delicate rose petals, fresh water droplets\nConstraints: keep the bottle as the clear focal point, maintain luxury aesthetic suitable for social media\nAvoid: harsh shadows, cluttered background, plastic-looking materials, over-saturated colors, watermark",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d9063714-23e0-457a-b5f9-14605303fb16/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: social media advertisement, square crop\\nPrimary request: luxury skincare serum bottle with rose petals and water splash\\nScene/backdrop: soft pink gradient background, minimal and elegant\\nSubject: glass serum bottle with golden liquid visible through transparent glass, rose petals floating around, water droplets splashing\\nStyle/medium: commercial product photography, high-end beauty editorial\\nComposition/framing: centered product shot, 85mm lens, soft depth of field\\nLighting/mood: soft natural light, diffused studio lighting, luxurious and refined atmosphere\\nColor palette: soft pink gradient + golden liquid + rose petal pink + white water droplets\\nMaterials/textures: smooth glass surface, liquid transparency, delicate rose petals, fresh water droplets\\nConstraints: keep the bottle as the clear focal point, maintain luxury aesthetic suitable for social media\\nAvoid: harsh shadows, cluttered background, plastic-looking materials, over-saturated colors, watermark\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9385
+}

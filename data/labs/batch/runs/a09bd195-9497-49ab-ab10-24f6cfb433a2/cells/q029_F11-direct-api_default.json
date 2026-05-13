@@ -1,0 +1,20 @@
+{
+  "query_idx": 29,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "绘制一张梦幻童话风格的海底世界，美人鱼在珊瑚礁间游弋，发光的水母，沉船宝藏，光线从海面穿透下来，色彩斑斓如梦境",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3167dd39-dde7-4a07-9ada-369933277a2e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

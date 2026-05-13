@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a tri-fold travel brochure for a 4-day, 3-night 杭州 self-guided itinerary (all in-image text in Chinese).\n\nStyle/medium: needs a travel-attack-card aesthetic — exact stylistic execution is yours\nComposition: must be tri-fold layout with real 杭州 map as central spine, 4 day-panels divided clearly\nSubject: must include all 28 spots across 4 day-panels:\n  Day 1: 断桥残雪 / 白堤 / 孤山 / 曲院风荷 / 苏堤春晓 / 花港观鱼 / 雷峰塔 / 柳浪闻莺\n  Day 2: 灵隐寺 / 飞来峰 / 法喜寺 / 宋城\n  Day 3: 九溪十八涧 / 龙井村 / 十里琅珰 / 云栖竹径\n  Day 4: 拱宸桥 / 桥西历史街区 / 小河直街 / 大兜路 / 香积寺 / 西溪湿地 / 周家村 / 深潭口\nScene/backdrop: must be a real 杭州 map base with all routes connecting day-panels, landmarks floating on cardstock\nLighting/mood: \nColor palette: \nMaterials/textures: must include paper cardstock cutouts with floating shadow under each landmark\nText (verbatim): must include itinerary copy on each panel — 景点名 / 路线 / 餐厅 / 价格 / 交通 / 住宿 / 避坑指南 / 伴手礼推荐 / 住宿红黑榜 / 交通干货\nConstraints: must include all in-image text in Chinese by default; must preserve real geographic accuracy of 杭州, 4 day-panels visible, all 28 景点 preserved\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9c871a19-72fa-4874-87c8-447b5b36f01b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a tri-fold travel brochure for a 4-day, 3-night 杭州 self-guided itinerary (all in-image text in Chinese).\\n\\nStyle/medium: needs a travel-attack-card aesthetic — exact stylistic execution is yours\\nComposition: must be tri-fold layout with real 杭州 map as central spine, 4 day-panels divided clearly\\nSubject: must include all 28 spots across 4 day-panels:\\n  Day 1: 断桥残雪 / 白堤 / 孤山 / 曲院风荷 / 苏堤春晓 / 花港观鱼 / 雷峰塔 / 柳浪闻莺\\n  Day 2: 灵隐寺 / 飞来峰 / 法喜寺 / 宋城\\n  Day 3: 九溪十八涧 / 龙井村 / 十里琅珰 / 云栖竹径\\n  Day 4: 拱宸桥 / 桥西历史街区 / 小河直街 / 大兜路 / 香积寺 / 西溪湿地 / 周家村 / 深潭口\\nScene/backdrop: must be a real 杭州 map base with all routes connecting day-panels, landmarks floating on cardstock\\nLighting/mood: \\nColor palette: \\nMaterials/textures: must include paper cardstock cutouts with floating shadow under each landmark\\nText (verbatim): must include itinerary copy on each panel — 景点名 / 路线 / 餐厅 / 价格 / 交通 / 住宿 / 避坑指南 / 伴手礼推荐 / 住宿红黑榜 / 交通干货\\nConstraints: must include all in-image text in Chinese by default; must preserve real geographic accuracy of 杭州, 4 day-panels visible, all 28 景点 preserved\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 17139
+}

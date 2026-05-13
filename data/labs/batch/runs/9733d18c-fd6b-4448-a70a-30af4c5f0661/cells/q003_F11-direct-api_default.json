@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "专业美食摄影：一道精心摆盘的法式米其林三星级主菜——慢煮法式鸭胸配松露酱汁。鸭胸肉切片整齐排列，表皮呈现完美的金棕色焦脆质感，肉质粉嫩多汁。旁边点缀着微型蔬菜园艺装饰，包括迷你胡萝卜、紫色菊苣叶、食用花卉。松露酱汁以艺术性的方式涂抹在白色骨瓷盘边缘，几片新鲜黑松露薄片覆盖其上。背景是深色大理石台面，侧光打亮，营造出高级餐厅的奢华氛围。镜头使用微距特写，景深浅，焦点精准落在鸭胸肉的截面纹理上，色彩饱和度高，专业商业摄影级别。",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/131547bc-569f-4f84-926f-a111a7ba997c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

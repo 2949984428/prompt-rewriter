@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for the 绿联私有云 brand 618 anniversary celebration e-commerce announcement (all in-image text in Chinese).\n\nStyle/medium: needs a 618 e-commerce promotional aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include the 绿联私有云 brand context as the focal subject\nScene/backdrop: \nLighting/mood: needs a celebratory atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b2e59f84-d8fa-40dd-bb74-7caa6f76b4e0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for the 绿联私有云 brand 618 anniversary celebration e-commerce announcement (all in-image text in Chinese).\\n\\nStyle/medium: needs a 618 e-commerce promotional aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include the 绿联私有云 brand context as the focal subject\\nScene/backdrop: \\nLighting/mood: needs a celebratory atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7192
+}

@@ -128,21 +128,28 @@ export function parsePrefixed(prefixed: string): {
 //
 // 5min schema 缓存,首次 hit 后基本零成本;schema 拉不到 fallback "image_urls"
 // (因为 image-edit 类(多图)占主流,且单图也兼容 [URL] 数组语义)。
-type LovartImageField = "image_urls" | "image_url";
+// 2026-05-13:严格按 schema property 真名,4 种之一。schema 找不到字段 → 抛错,
+// 让调用方明确知道"model 不支持图生图,不能塞参考图",而不是 fallback 一个猜值最后 Lovart 静默忽略
+type LovartImageField = "image" | "image_url" | "image_urls" | "images";
 async function resolveLovartImageField(
   model: string,
 ): Promise<LovartImageField> {
   const schema = await getGeneratorsSchema();
   const key = resolveSchemaKey(model, schema);
-  if (!key) return "image_urls";
+  if (!key) {
+    throw new Error(
+      `Lovart Agent generator "${model}" 在 schema 中找不到对应 component`,
+    );
+  }
   const reqSchema = schema.components.schemas[key];
   const props = reqSchema?.properties ?? {};
-  // schema image_url 单数 → 网关同名
   if (props.image_url) return "image_url";
-  // schema image / images 数组 → 网关 alias 是 image_urls
-  if (props.image || props.images) return "image_urls";
-  // 没有任何 image* 字段,模型可能不支持参考图;塞 image_urls 网关层会忽略
-  return "image_urls";
+  if (props.image_urls) return "image_urls";
+  if (props.images) return "images";
+  if (props.image) return "image";
+  throw new Error(
+    `Lovart Agent generator "${model}" 的 schema 没声明 image* 字段,不支持参考图(image-edit)`,
+  );
 }
 
 // ─────────────────────── 创建 ───────────────────────
@@ -193,18 +200,15 @@ export async function createImageTaskRouted(
   const hasRef =
     Array.isArray(input.reference_images) && input.reference_images.length > 0;
 
-  // 按 schema 决定塞 image_urls(复数,NB2/NBP 等现代 image-edit)
-  // / image_url(单数,某些 image-modify)/ image(数组,极少数 IGW-style)。
-  // 历史:同时塞两个会让 NB2/NBP 直接 code 2010 reject(schema 严格)。
-  // schema 拉不到 → fallback 只塞 image_urls(覆盖绝大多数 image-edit / image-modify 模型)。
-  const refField = hasRef
-    ? await resolveLovartImageField(input.model).catch(() => "image_urls")
-    : null;
+  // 按 schema 真名塞字段,4 种之一:image / image_url / image_urls / images
+  // 单数(image_url)取数组第 1 个;数组型(其他三种)整组塞
+  // schema 找不到字段时 resolveLovartImageField 会抛错,直接传给上层(POST handler 返 502)
+  const refField = hasRef ? await resolveLovartImageField(input.model) : null;
   const refPatch: Record<string, unknown> = {};
   if (hasRef && refField === "image_url") {
     refPatch.image_url = input.reference_images![0];
-  } else if (hasRef) {
-    refPatch.image_urls = input.reference_images;
+  } else if (hasRef && refField) {
+    refPatch[refField] = input.reference_images;
   }
 
   const inputArgs: Record<string, unknown> = {
@@ -215,6 +219,12 @@ export async function createImageTaskRouted(
     ...(input.lovart_input_args ?? {}),
   };
 
+  // 诊断日志:有参考图时打 inputArgs body,排查"字段名不对导致 reference 被吞"问题
+  if (hasRef) {
+    console.log(
+      `[image-router] Lovart create task model=${input.model} refField=${refField} keys=${Object.keys(inputArgs).join(",")}`,
+    );
+  }
   const lv = await createLovartTask({
     generator_name: input.model,
     input_args: inputArgs,

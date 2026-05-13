@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: traditional-fine-art\nAsset type: Chinese festival illustration, panoramic scroll composition\nPrimary request: bustling Lantern Festival night scene in ancient Chinese street, Gongbi heavy-color painting style\nScene/backdrop: ancient Chinese commercial street at night, shops lining both sides, red lanterns glowing against dark sky, distant dragon dance and lion dance troupe, fireworks bursting overhead\nSubject: crowds in festive attire, children chasing with rabbit lanterns, vendors selling tangyuan, candied hawthorn, and flower lanterns, dragon and lion dance performers with drums\nStyle/medium: Gongbi heavy-color painting (工笔重彩), fine brushwork, narrative scroll composition inspired by \"Along the River During the Qingming Festival\"\nComposition/framing: wide panoramic view, densely populated scene, rich layered depth from foreground vendors to distant performers\nLighting/mood: warm lantern glow illuminating night sky, festive and joyous atmosphere\nColor palette: dominant red, gold, and orange tones, celebratory and warm\nMaterials/textures: delicate silk-like surface, precise ink lines, layered mineral pigments\nConstraints: maintain Gongbi painting technique with fine details, preserve narrative density of Qingming scroll composition\nAvoid: photorealistic rendering, Western perspective, modern elements, deformed figures, flat color blocks",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9042f7db-61cc-4f31-8e4d-92d1afce71bd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: traditional-fine-art\\nAsset type: Chinese festival illustration, panoramic scroll composition\\nPrimary request: bustling Lantern Festival night scene in ancient Chinese street, Gongbi heavy-color painting style\\nScene/backdrop: ancient Chinese commercial street at night, shops lining both sides, red lanterns glowing against dark sky, distant dragon dance and lion dance troupe, fireworks bursting overhead\\nSubject: crowds in festive attire, children chasing with rabbit lanterns, vendors selling tangyuan, candied hawthorn, and flower lanterns, dragon and lion dance performers with drums\\nStyle/medium: Gongbi heavy-color painting (工笔重彩), fine brushwork, narrative scroll composition inspired by \\\"Along the River During the Qingming Festival\\\"\\nComposition/framing: wide panoramic view, densely populated scene, rich layered depth from foreground vendors to distant performers\\nLighting/mood: warm lantern glow illuminating night sky, festive and joyous atmosphere\\nColor palette: dominant red, gold, and orange tones, celebratory and warm\\nMaterials/textures: delicate silk-like surface, precise ink lines, layered mineral pigments\\nConstraints: maintain Gongbi painting technique with fine details, preserve narrative density of Qingming scroll composition\\nAvoid: photorealistic rendering, Western perspective, modern elements, deformed figures, flat color blocks\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11159
+}

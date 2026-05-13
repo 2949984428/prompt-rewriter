@@ -1,0 +1,21 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: needs a clean, modern, globally neutral aesthetic — exact stylistic execution is yours\nComposition: must be a square avatar format with a clear focal center\nSubject: must include visual elements representing three content pillars: new energy vehicles, digital/tech products, and lifestyle goods — unified into a single cohesive icon or character\nScene/backdrop: needs a simple, uncluttered backdrop — exact treatment is yours\nLighting/mood: needs a friendly, approachable, energetic atmosphere — exact light treatment is yours\nColor palette: needs a vibrant yet universally appealing direction — exact palette and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must avoid any symbols, gestures, colors, or imagery that carry negative cultural connotations in any major region (China, Middle East, Western markets); must work visually at small avatar sizes (circle-cropped)\nAvoid: must avoid religious symbols, politically sensitive imagery, offensive hand gestures, culturally exclusive iconography, overly complex detail that degrades at small sizes",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A6ca37f15-9ef3-4c7f-8539-dc0238a0d712/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: needs a clean, modern, globally neutral aesthetic — exact stylistic execution is yours\\nComposition: must be a square avatar format with a clear focal center\\nSubject: must include visual elements representing three content pillars: new energy vehicles, digital/tech products, and lifestyle goods — unified into a single cohesive icon or character\\nScene/backdrop: needs a simple, uncluttered backdrop — exact treatment is yours\\nLighting/mood: needs a friendly, approachable, energetic atmosphere — exact light treatment is yours\\nColor palette: needs a vibrant yet universally appealing direction — exact palette and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must avoid any symbols, gestures, colors, or imagery that carry negative cultural connotations in any major region (China, Middle East, Western markets); must work visually at small avatar sizes (circle-cropped)\\nAvoid: must avoid religious symbols, politically sensitive imagery, offensive hand gestures, culturally exclusive iconography, overly complex detail that degrades at small sizes\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8892
+}

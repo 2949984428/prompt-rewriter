@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial sports photo, square crop\nPrimary request: a muscular athlete performing a deadlift in a professional gym, conveying raw power and masculine energy with visible sweat and defined muscle lines\nScene/backdrop: industrial-style gym interior, exposed concrete walls, metal racks, heavy iron plates, dim industrial ceiling lights\nSubject: male athlete with sharply defined muscle striations, veins visible on forearms and arms, gripping a loaded barbell mid-deadlift, sweat droplets on skin\nStyle/medium: photorealistic editorial sports photography\nComposition/framing: medium shot, slight low-angle, 50mm lens, shallow depth of field to isolate the athlete\nLighting/mood: cool-toned dramatic lighting, hard shadows, blue-grey industrial ambiance, intense and powerful mood\nColor palette: cool steel blue + dark charcoal grey + warm skin tone contrast + chrome barbell highlights\nMaterials/textures: rough knurled barbell steel, chalk dust on hands, glistening sweat on skin, concrete floor texture\nConstraints: keep athlete as sole focal point, no other people in frame, maintain cool color temperature throughout\nAvoid: cartoonish muscles, over-smoothed skin, warm golden tones, watermark, plastic sheen",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/949c8444-4447-4c93-ba6c-48307444c386/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial sports photo, square crop\\nPrimary request: a muscular athlete performing a deadlift in a professional gym, conveying raw power and masculine energy with visible sweat and defined muscle lines\\nScene/backdrop: industrial-style gym interior, exposed concrete walls, metal racks, heavy iron plates, dim industrial ceiling lights\\nSubject: male athlete with sharply defined muscle striations, veins visible on forearms and arms, gripping a loaded barbell mid-deadlift, sweat droplets on skin\\nStyle/medium: photorealistic editorial sports photography\\nComposition/framing: medium shot, slight low-angle, 50mm lens, shallow depth of field to isolate the athlete\\nLighting/mood: cool-toned dramatic lighting, hard shadows, blue-grey industrial ambiance, intense and powerful mood\\nColor palette: cool steel blue + dark charcoal grey + warm skin tone contrast + chrome barbell highlights\\nMaterials/textures: rough knurled barbell steel, chalk dust on hands, glistening sweat on skin, concrete floor texture\\nConstraints: keep athlete as sole focal point, no other people in frame, maintain cool color temperature throughout\\nAvoid: cartoonish muscles, over-smoothed skin, warm golden tones, watermark, plastic sheen\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8257
+}

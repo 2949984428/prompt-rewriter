@@ -1,0 +1,23 @@
+{
+  "query_idx": 198,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an Amazon product listing image (1:1 square) for a facial cleanser.\n\nStyle/medium: Clean commercial product photography, pure white background, bold graphic layout\nComposition:\n  Vertical composition\n  Tube of facial cleanser positioned prominently\n  Oversized fluffy foam bubbles filling upper portion of frame\n  \"STEP 01\" label/badge visible in layout\nSubject:\n  Tube facial cleanser (oil-control, deep-cleansing face wash)\n  Voluminous, dense, cloud-like foam bubbles\nScene/backdrop: Pure white background\nLighting/mood: Bright, clean, even lighting — fresh and hygienic feel\nColor palette: White dominant, with product packaging colors as accent\nMaterials/textures: Dense creamy foam texture, smooth tube packaging\nText (verbatim): STEP 01\nConstraints:\n  1:1 square format\n  English text only\n  Amazon listing image style\n  Foam must appear thick, rich, and voluminous to convey deep-cleansing efficacy\nAvoid: Dark backgrounds, lifestyle scenes, human models",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3252388f-2d46-47eb-a436-463241b897f4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an Amazon product listing image (1:1 square) for a facial cleanser.\\n\\nStyle/medium: Clean commercial product photography, pure white background, bold graphic layout\\nComposition:\\n  Vertical composition\\n  Tube of facial cleanser positioned prominently\\n  Oversized fluffy foam bubbles filling upper portion of frame\\n  \\\"STEP 01\\\" label/badge visible in layout\\nSubject:\\n  Tube facial cleanser (oil-control, deep-cleansing face wash)\\n  Voluminous, dense, cloud-like foam bubbles\\nScene/backdrop: Pure white background\\nLighting/mood: Bright, clean, even lighting — fresh and hygienic feel\\nColor palette: White dominant, with product packaging colors as accent\\nMaterials/textures: Dense creamy foam texture, smooth tube packaging\\nText (verbatim): STEP 01\\nConstraints:\\n  1:1 square format\\n  English text only\\n  Amazon listing image style\\n  Foam must appear thick, rich, and voluminous to convey deep-cleansing efficacy\\nAvoid: Dark backgrounds, lifestyle scenes, human models\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10696,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

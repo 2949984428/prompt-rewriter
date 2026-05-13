@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a pitch deck cover slide for a domestic China fundraising announcement for \"GPT-5.5\" launch.\n\nStyle/medium: needs a China VC roadshow aesthetic — exact stylistic execution is yours\nComposition: must be a presentation cover slide layout\nSubject: must include \"GPT-5.5\" as the product name, must include Sam Altman as the speaker/presenter\nScene/backdrop: needs a China domestic roadshow atmosphere — exact venue treatment is yours\nLighting/mood: needs a professional investor-pitch atmosphere — exact lighting treatment is yours\nColor palette: needs a GP (General Partner) fund aesthetic direction — exact color values are yours\nMaterials/textures: \nText (verbatim): must include \"GPT-5.5\" / must include speaker name \"奥特曼\" or \"Sam Altman\"\nConstraints: must preserve China domestic roadshow conventions, must fit GP fund tone\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2f127946-c6a0-4d83-8426-6a8eb6c6d61b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a pitch deck cover slide for a domestic China fundraising announcement for \\\"GPT-5.5\\\" launch.\\n\\nStyle/medium: needs a China VC roadshow aesthetic — exact stylistic execution is yours\\nComposition: must be a presentation cover slide layout\\nSubject: must include \\\"GPT-5.5\\\" as the product name, must include Sam Altman as the speaker/presenter\\nScene/backdrop: needs a China domestic roadshow atmosphere — exact venue treatment is yours\\nLighting/mood: needs a professional investor-pitch atmosphere — exact lighting treatment is yours\\nColor palette: needs a GP (General Partner) fund aesthetic direction — exact color values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT-5.5\\\" / must include speaker name \\\"奥特曼\\\" or \\\"Sam Altman\\\"\\nConstraints: must preserve China domestic roadshow conventions, must fit GP fund tone\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9213
+}

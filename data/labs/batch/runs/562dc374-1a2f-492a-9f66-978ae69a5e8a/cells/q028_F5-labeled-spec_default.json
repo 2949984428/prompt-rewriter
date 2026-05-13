@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial fitness photography\nPrimary request: muscular athlete performing deadlift with sweat and power aesthetics\nScene/backdrop: industrial-style gym interior with exposed brick walls, metal equipment, concrete floors\nSubject: muscular male athlete with defined muscle lines, intense focus, sweat droplets on skin, heavy barbell\nStyle/medium: fitness editorial photography, gritty industrial aesthetic\nComposition/framing: medium shot, eye-level angle, capturing full body tension during deadlift\nLighting/mood: cool-toned overhead lighting with dramatic shadows, masculine and powerful atmosphere\nColor palette: cool blues and grays + warm skin tones + metallic silver accents\nMaterials/textures: glistening sweat on skin, rough concrete, brushed steel equipment, worn leather lifting belt\nConstraints: keep the industrial gym setting with exposed structural elements, emphasize muscle definition and raw power\nAvoid: soft lighting, pastel colors, cartoonish proportions, clean studio backdrop, plastic skin texture",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/079ea020-f4ae-4a7d-b74e-a738da9cac53/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial fitness photography\\nPrimary request: muscular athlete performing deadlift with sweat and power aesthetics\\nScene/backdrop: industrial-style gym interior with exposed brick walls, metal equipment, concrete floors\\nSubject: muscular male athlete with defined muscle lines, intense focus, sweat droplets on skin, heavy barbell\\nStyle/medium: fitness editorial photography, gritty industrial aesthetic\\nComposition/framing: medium shot, eye-level angle, capturing full body tension during deadlift\\nLighting/mood: cool-toned overhead lighting with dramatic shadows, masculine and powerful atmosphere\\nColor palette: cool blues and grays + warm skin tones + metallic silver accents\\nMaterials/textures: glistening sweat on skin, rough concrete, brushed steel equipment, worn leather lifting belt\\nConstraints: keep the industrial gym setting with exposed structural elements, emphasize muscle definition and raw power\\nAvoid: soft lighting, pastel colors, cartoonish proportions, clean studio backdrop, plastic skin texture\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11131
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide for a product launch campaign featuring 长安起源Q06.\n\nStyle/medium: needs a cinematic, visually striking presentation-cover aesthetic — exact stylistic execution is yours\nComposition: must be wide-format cover layout with title and subtitle prominently placed over the background\nSubject: must include 长安起源Q06 as the hero subject\nScene/backdrop: needs a translucent, immersive, high-impact background — exact scene treatment is yours\nLighting/mood: needs a dramatic, awe-inspiring atmosphere — exact light source mix is yours\nColor palette: needs a direction aligned with 长安 brand identity — exact palette and ratios are yours\nMaterials/textures: needs a sense of depth and translucency in the background treatment — exact surface execution is yours\nText (verbatim): must include \"长安起源Q06\" (primary title, large), \"9月上市\" (subtitle, secondary)\nConstraints: must preserve PPT cover proportions (16:9 wide format); title and subtitle must be legible over background\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa065cbc6-0ec6-49bc-b9b8-f52860af86d4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide for a product launch campaign featuring 长安起源Q06.\\n\\nStyle/medium: needs a cinematic, visually striking presentation-cover aesthetic — exact stylistic execution is yours\\nComposition: must be wide-format cover layout with title and subtitle prominently placed over the background\\nSubject: must include 长安起源Q06 as the hero subject\\nScene/backdrop: needs a translucent, immersive, high-impact background — exact scene treatment is yours\\nLighting/mood: needs a dramatic, awe-inspiring atmosphere — exact light source mix is yours\\nColor palette: needs a direction aligned with 长安 brand identity — exact palette and ratios are yours\\nMaterials/textures: needs a sense of depth and translucency in the background treatment — exact surface execution is yours\\nText (verbatim): must include \\\"长安起源Q06\\\" (primary title, large), \\\"9月上市\\\" (subtitle, secondary)\\nConstraints: must preserve PPT cover proportions (16:9 wide format); title and subtitle must be legible over background\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7840
+}

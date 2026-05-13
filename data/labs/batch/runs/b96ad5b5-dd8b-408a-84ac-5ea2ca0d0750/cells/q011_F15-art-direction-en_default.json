@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing cover image for a Xiaohongshu (小红书) post about GPT-image-2 launching on the Lovart platform (all in-image text in Chinese).\n\nStyle/medium: needs a premium magazine editorial aesthetic — exact stylistic execution is yours\nComposition: must be diagonal composition\nSubject: must include \"GPT-image-2\" and \"Lovart\" as the focal subjects\nScene/backdrop: \nLighting/mood: \nColor palette: needs high-contrast accent color direction — exact color values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"GPT-image-2\", \"Lovart\"\nConstraints: must include all in-image text in Chinese by default; must use diagonal composition; must apply high-contrast accent colors\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e6fb713e-4c41-46f9-8e72-9428f3a26ad6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing cover image for a Xiaohongshu (小红书) post about GPT-image-2 launching on the Lovart platform (all in-image text in Chinese).\\n\\nStyle/medium: needs a premium magazine editorial aesthetic — exact stylistic execution is yours\\nComposition: must be diagonal composition\\nSubject: must include \\\"GPT-image-2\\\" and \\\"Lovart\\\" as the focal subjects\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs high-contrast accent color direction — exact color values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT-image-2\\\", \\\"Lovart\\\"\\nConstraints: must include all in-image text in Chinese by default; must use diagonal composition; must apply high-contrast accent colors\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7599
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 36,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一套品牌周边设计方案 —— 基于用户上传的 Lovart Logo（[@image:#1:Lovart_Logo]）。\n\n风格/媒介:\n  品牌周边视觉设计\n  风格与 Logo 保持一致\n构图:\n  展示多件周边产品的整体陈列效果\n主体:\n  品牌周边套装，包含常见周边品类（如马克杯、T恤、帆布袋、贴纸等）\n  每件周边均应用 Lovart Logo\n场景/背景:\n光线/氛围:\n色彩方案:\n  沿用 [@image:#1:Lovart_Logo] 中的品牌色\n材质/纹理:\n文字(原样):\n约束:\n  Logo 图形与文字须与 [@image:#1:Lovart_Logo] 保持一致，不得变形或改色\n避免:\n  改动 Logo 本身的造型、比例或颜色",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3f8889bc-e99c-4d38-a284-b8aed4eadecf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一套品牌周边设计方案 —— 基于用户上传的 Lovart Logo（[@image:#1:Lovart_Logo]）。\\n\\n风格/媒介:\\n  品牌周边视觉设计\\n  风格与 Logo 保持一致\\n构图:\\n  展示多件周边产品的整体陈列效果\\n主体:\\n  品牌周边套装，包含常见周边品类（如马克杯、T恤、帆布袋、贴纸等）\\n  每件周边均应用 Lovart Logo\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n  沿用 [@image:#1:Lovart_Logo] 中的品牌色\\n材质/纹理:\\n文字(原样):\\n约束:\\n  Logo 图形与文字须与 [@image:#1:Lovart_Logo] 保持一致，不得变形或改色\\n避免:\\n  改动 Logo 本身的造型、比例或颜色\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7652,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

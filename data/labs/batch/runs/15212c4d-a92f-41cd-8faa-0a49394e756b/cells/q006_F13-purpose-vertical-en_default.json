@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a movie poster for \"大话西游\" (A Chinese Odyssey), reimagined in 90s Hong Kong cinema style.\n\nStyle/medium: 90s Hong Kong cinema poster aesthetic, film grain texture\nComposition: central embrace with supporting figures in background, classic HK poster layout\nSubject: 至尊宝 and 紫霞 in an embrace on the city wall, 牛魔王 standing in the distance, 唐僧 standing nearby\nScene/backdrop: ancient city wall at dusk, distant silhouette of 牛魔王 and 唐僧 visible in the background\nLighting/mood: romantic golden hour with dramatic shadows, nostalgic 90s Hong Kong film atmosphere\nColor palette: warm golden tones with deep reds and muted earth tones, vintage film color grading\nMaterials/textures: 35mm film grain, slightly faded print texture, matte paper finish\nText (verbatim): 大话西游\nConstraints: must evoke 90s Hong Kong wuxia romance poster conventions, film grain must be visible\nAvoid: modern digital polish, overly saturated colors, contemporary minimalist design",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b0f6bcb8-839f-4991-9348-38ad7a48d4c7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a movie poster for \\\"大话西游\\\" (A Chinese Odyssey), reimagined in 90s Hong Kong cinema style.\\n\\nStyle/medium: 90s Hong Kong cinema poster aesthetic, film grain texture\\nComposition: central embrace with supporting figures in background, classic HK poster layout\\nSubject: 至尊宝 and 紫霞 in an embrace on the city wall, 牛魔王 standing in the distance, 唐僧 standing nearby\\nScene/backdrop: ancient city wall at dusk, distant silhouette of 牛魔王 and 唐僧 visible in the background\\nLighting/mood: romantic golden hour with dramatic shadows, nostalgic 90s Hong Kong film atmosphere\\nColor palette: warm golden tones with deep reds and muted earth tones, vintage film color grading\\nMaterials/textures: 35mm film grain, slightly faded print texture, matte paper finish\\nText (verbatim): 大话西游\\nConstraints: must evoke 90s Hong Kong wuxia romance poster conventions, film grain must be visible\\nAvoid: modern digital polish, overly saturated colors, contemporary minimalist design\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9436
+}

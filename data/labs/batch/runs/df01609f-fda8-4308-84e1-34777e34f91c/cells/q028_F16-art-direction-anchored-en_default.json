@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial sports photograph of a muscular athlete performing a deadlift in a professional gym (all in-image text in Chinese).\n\nStyle/medium: needs a \"阳刚之气\" aesthetic — references in the spirit of Gregory Heisler's athletic portraiture (1980s–2000s American sports photography), 1990s industrial fitness editorial print culture, Leni Riefenstahl's sculptural body-form visual language; exact stylistic execution is yours\nComposition: \nSubject: must include a muscular athlete with clearly defined muscle lines performing a deadlift, with visible sweat on skin\nScene/backdrop: must include a professional gym with industrial-style interior decor\nLighting/mood: needs a cold-toned, high-contrast atmosphere emphasizing raw power and physical beauty — exact light source mix is yours\nColor palette: needs a cool / cold direction — exact hex values and ratios are yours\nMaterials/textures: needs an industrial surface treatment (exposed metal, concrete, raw gym equipment) — exact grain / sheen / weight is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/81f14c0f-5310-4c77-b2ba-f7b163ca78d5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial sports photograph of a muscular athlete performing a deadlift in a professional gym (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"阳刚之气\\\" aesthetic — references in the spirit of Gregory Heisler's athletic portraiture (1980s–2000s American sports photography), 1990s industrial fitness editorial print culture, Leni Riefenstahl's sculptural body-form visual language; exact stylistic execution is yours\\nComposition: \\nSubject: must include a muscular athlete with clearly defined muscle lines performing a deadlift, with visible sweat on skin\\nScene/backdrop: must include a professional gym with industrial-style interior decor\\nLighting/mood: needs a cold-toned, high-contrast atmosphere emphasizing raw power and physical beauty — exact light source mix is yours\\nColor palette: needs a cool / cold direction — exact hex values and ratios are yours\\nMaterials/textures: needs an industrial surface treatment (exposed metal, concrete, raw gym equipment) — exact grain / sheen / weight is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10009
+}

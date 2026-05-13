@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a panoramic gongbi-style scroll painting of the Tang Dynasty Chang'an Lantern Festival.\n\nStyle/medium: must be gongbi-style painting with heavy color application (工笔重彩)\nComposition: must be panoramic long scroll format capturing the full breadth of Chang'an city\nSubject: must include thousands of lanterns (万盏花灯) illuminating the scene\nScene/backdrop: must include Tang Dynasty Chang'an cityscape during Lantern Festival night\nLighting/mood: needs a festive night atmosphere with lantern glow — exact light distribution is yours\nColor palette: needs a rich, saturated direction fitting gongbi heavy-color tradition — exact pigment choices are yours\nMaterials/textures: needs a traditional scroll painting surface treatment — exact paper texture and brushwork detail is yours\nText (verbatim): \nConstraints: must preserve the Tang Dynasty historical setting and Lantern Festival context\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/55562b47-559d-4e30-84fb-a14112b3f4bd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a panoramic gongbi-style scroll painting of the Tang Dynasty Chang'an Lantern Festival.\\n\\nStyle/medium: must be gongbi-style painting with heavy color application (工笔重彩)\\nComposition: must be panoramic long scroll format capturing the full breadth of Chang'an city\\nSubject: must include thousands of lanterns (万盏花灯) illuminating the scene\\nScene/backdrop: must include Tang Dynasty Chang'an cityscape during Lantern Festival night\\nLighting/mood: needs a festive night atmosphere with lantern glow — exact light distribution is yours\\nColor palette: needs a rich, saturated direction fitting gongbi heavy-color tradition — exact pigment choices are yours\\nMaterials/textures: needs a traditional scroll painting surface treatment — exact paper texture and brushwork detail is yours\\nText (verbatim): \\nConstraints: must preserve the Tang Dynasty historical setting and Lantern Festival context\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9700
+}

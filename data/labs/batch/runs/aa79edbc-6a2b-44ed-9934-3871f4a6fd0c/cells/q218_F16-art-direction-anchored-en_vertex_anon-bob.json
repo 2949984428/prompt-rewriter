@@ -1,0 +1,23 @@
+{
+  "query_idx": 218,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张抖音个人主页背景图。\n\n风格/媒介: 简约风格，平面设计\n构图: 横幅构图，画面简洁留白\n主体: 传达手机壳销售主题，不出现手机壳实物\n场景/背景: 简约背景\n光线/氛围: 干净清爽\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  中文\n  不出现手机壳实物\n  需通过视觉元素或文字隐性传达\"卖手机壳\"的主题\n避免: 手机壳实物图片",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A87d52130-aa13-4196-89c7-095e50464f97/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一张抖音个人主页背景图。\\n\\n风格/媒介: 简约风格，平面设计\\n构图: 横幅构图，画面简洁留白\\n主体: 传达手机壳销售主题，不出现手机壳实物\\n场景/背景: 简约背景\\n光线/氛围: 干净清爽\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  中文\\n  不出现手机壳实物\\n  需通过视觉元素或文字隐性传达\\\"卖手机壳\\\"的主题\\n避免: 手机壳实物图片\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7558,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

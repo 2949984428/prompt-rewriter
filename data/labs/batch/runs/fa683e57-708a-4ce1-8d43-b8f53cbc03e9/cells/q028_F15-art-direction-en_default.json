@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo of a professional gym scene with an athlete performing a deadlift (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs an industrial aesthetic — exact stylistic execution is yours\nComposition: must include the athlete performing a deadlift as the focal subject\nSubject: must include a muscular athlete with defined muscle lines performing a deadlift\nScene/backdrop: must include a professional gym with industrial-style decor\nLighting/mood: needs a cool-toned lighting atmosphere with masculine energy — exact light source mix is yours\nColor palette: needs a cool-toned direction — exact hex values and ratios are yours\nMaterials/textures: needs a sweat and power aesthetic — exact surface treatment is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9cd81533-5f89-454a-8e4e-f0a776b74409/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing editorial photo of a professional gym scene with an athlete performing a deadlift (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs an industrial aesthetic — exact stylistic execution is yours\\nComposition: must include the athlete performing a deadlift as the focal subject\\nSubject: must include a muscular athlete with defined muscle lines performing a deadlift\\nScene/backdrop: must include a professional gym with industrial-style decor\\nLighting/mood: needs a cool-toned lighting atmosphere with masculine energy — exact light source mix is yours\\nColor palette: needs a cool-toned direction — exact hex values and ratios are yours\\nMaterials/textures: needs a sweat and power aesthetic — exact surface treatment is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10850
+}

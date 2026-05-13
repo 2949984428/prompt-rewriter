@@ -1,0 +1,23 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing product shot for a skincare set e-commerce hero image.\n\nStyle/medium: commercial product photography, clean beauty aesthetic, photorealistic\nComposition: eye-level straight-on shot, products arranged in orderly alignment on surface, medium aperture for sharp product focus with soft background falloff\nSubject: skincare set (bottles, jars, tubes) with elegant minimalist packaging, clean lines, premium finishes\nScene/backdrop: frosted glass surface as base, soft-focus green foliage behind hazy morning mist, shallow depth of field\nLighting/mood: softbox diffused lighting from 45-degree angle, gentle highlights on product surfaces, no harsh shadows, calm and fresh morning atmosphere\nColor palette: muted greens from foliage, soft whites and creams from products, frosted glass translucency, natural earth tones\nMaterials/textures: frosted glass matte surface with subtle light diffusion, smooth skincare packaging, delicate mist particles, soft leaf textures in background\nAvoid: harsh shadows, over-saturated colors, cluttered composition, plastic-looking textures, watermark, 8K stuffer aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2357ae27-61d3-420b-a71d-26a31abc3c21/0.png"
+  ],
+  "scores": {
+    "overall": 4.5,
+    "intent": 4
+  },
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing product shot for a skincare set e-commerce hero image.\\n\\nStyle/medium: commercial product photography, clean beauty aesthetic, photorealistic\\nComposition: eye-level straight-on shot, products arranged in orderly alignment on surface, medium aperture for sharp product focus with soft background falloff\\nSubject: skincare set (bottles, jars, tubes) with elegant minimalist packaging, clean lines, premium finishes\\nScene/backdrop: frosted glass surface as base, soft-focus green foliage behind hazy morning mist, shallow depth of field\\nLighting/mood: softbox diffused lighting from 45-degree angle, gentle highlights on product surfaces, no harsh shadows, calm and fresh morning atmosphere\\nColor palette: muted greens from foliage, soft whites and creams from products, frosted glass translucency, natural earth tones\\nMaterials/textures: frosted glass matte surface with subtle light diffusion, smooth skincare packaging, delicate mist particles, soft leaf textures in background\\nAvoid: harsh shadows, over-saturated colors, cluttered composition, plastic-looking textures, watermark, 8K stuffer aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 23793
+}

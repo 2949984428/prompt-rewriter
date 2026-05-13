@@ -1,0 +1,21 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing illustration of a 抖音 live-stream screenshot featuring a young woman resembling a \"神仙姐姐\" (ethereally beautiful celebrity-style figure) holding up a sign during a live broadcast.\n\nStyle/medium: needs a realistic live-stream screenshot aesthetic — exact stylistic execution is yours\nComposition: must be 9:16 vertical, mimicking a 抖音 live-stream UI layout with on-screen overlays (viewer count, comments, like animations, username bar)\nSubject: must include a young woman (神仙姐姐 style — ethereal, elegant) holding a handwritten sign facing the camera\nScene/backdrop: must include a typical indoor live-stream room setting\nLighting/mood: needs a warm, bright live-stream studio atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign held by the subject\nConstraints: must preserve 抖音 live-stream UI visual conventions (top bar, bottom comment bar, floating hearts/likes)\nAvoid: must avoid any real celebrity likeness or identifiable real person",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A8743e540-e97b-472d-a39a-5002c81de486/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing illustration of a 抖音 live-stream screenshot featuring a young woman resembling a \\\"神仙姐姐\\\" (ethereally beautiful celebrity-style figure) holding up a sign during a live broadcast.\\n\\nStyle/medium: needs a realistic live-stream screenshot aesthetic — exact stylistic execution is yours\\nComposition: must be 9:16 vertical, mimicking a 抖音 live-stream UI layout with on-screen overlays (viewer count, comments, like animations, username bar)\\nSubject: must include a young woman (神仙姐姐 style — ethereal, elegant) holding a handwritten sign facing the camera\\nScene/backdrop: must include a typical indoor live-stream room setting\\nLighting/mood: needs a warm, bright live-stream studio atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign held by the subject\\nConstraints: must preserve 抖音 live-stream UI visual conventions (top bar, bottom comment bar, floating hearts/likes)\\nAvoid: must avoid any real celebrity likeness or identifiable real person\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9203
+}

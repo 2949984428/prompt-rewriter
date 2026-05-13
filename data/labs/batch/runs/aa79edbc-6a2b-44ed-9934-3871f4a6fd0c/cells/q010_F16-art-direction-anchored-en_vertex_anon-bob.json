@@ -1,0 +1,23 @@
+{
+  "query_idx": 10,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成文创产品样机图——基于上传的品牌 LOGO 与插画，展示组合或单品陈列。\n\n风格/媒介:专业产品摄影，photorealistic\n构图:\n  多件产品组合陈列或单品特写，可出多张方案\n  产品自然摆放，主次分明，画面整洁\n主体:\n  咖啡杯（印有品牌 LOGO / 插画）\n  笔记本（印有品牌 LOGO / 插画）\n  眼罩（印有品牌 LOGO / 插画）\n  毛绒围巾（印有品牌 LOGO / 插画）\n  可爱毛绒手提包（印有品牌 LOGO / 插画）\n  围裙（印有品牌 LOGO / 插画）\n  所有产品契合 IP 插画形象的文创定位\n场景/背景:米色背景\n光线/氛围:专业布光，柔和均匀，突出产品质感\n色彩方案:以米色为主调，产品配色与上传 LOGO 及插画保持一致\n材质/纹理:\n文字(原样):\n约束:\n  LOGO 图案、插画形象须与上传的参考图 #1 #2 #3 保持一致\n  产品印花/刺绣/图案直接沿用上传插画与 LOGO\n避免:与上传品牌视觉不符的图案或配色",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6bdb4adc-a41d-4ea3-9d12-277aaac96b09/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成文创产品样机图——基于上传的品牌 LOGO 与插画，展示组合或单品陈列。\\n\\n风格/媒介:专业产品摄影，photorealistic\\n构图:\\n  多件产品组合陈列或单品特写，可出多张方案\\n  产品自然摆放，主次分明，画面整洁\\n主体:\\n  咖啡杯（印有品牌 LOGO / 插画）\\n  笔记本（印有品牌 LOGO / 插画）\\n  眼罩（印有品牌 LOGO / 插画）\\n  毛绒围巾（印有品牌 LOGO / 插画）\\n  可爱毛绒手提包（印有品牌 LOGO / 插画）\\n  围裙（印有品牌 LOGO / 插画）\\n  所有产品契合 IP 插画形象的文创定位\\n场景/背景:米色背景\\n光线/氛围:专业布光，柔和均匀，突出产品质感\\n色彩方案:以米色为主调，产品配色与上传 LOGO 及插画保持一致\\n材质/纹理:\\n文字(原样):\\n约束:\\n  LOGO 图案、插画形象须与上传的参考图 #1 #2 #3 保持一致\\n  产品印花/刺绣/图案直接沿用上传插画与 LOGO\\n避免:与上传品牌视觉不符的图案或配色\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9439,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

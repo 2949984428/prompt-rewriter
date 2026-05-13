@@ -1,0 +1,23 @@
+{
+  "query_idx": 89,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "给我做一个LOGO，CAP TICK，宠物行业，宠物爱心收容收，要品牌简约的风格 要简约有创意有设计感，找一下参考生成10个版本",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 10,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6090fc64-dba0-4902-87c7-a6a976237be5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"给我做一个LOGO，CAP TICK，宠物行业，宠物爱心收容收，要品牌简约的风格 要简约有创意有设计感，找一下参考生成10个版本\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 10, \"output_format\": \"png\"}",
+  "ms": 2611,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

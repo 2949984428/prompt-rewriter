@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张侘寂风格的静物摄影，一个粗陶花瓶，插着枯枝，放在斑驳的木桌上，自然光从窗户斜射进来，强调不完美之美和时间的痕迹",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7d8534af-f36d-4a87-8619-dd04c338c6c5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张侘寂风格的静物摄影，一个粗陶花瓶，插着枯枝，放在斑驳的木桌上，自然光从窗户斜射进来，强调不完美之美和时间的痕迹\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3662
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 9,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "游戏概念原画风格，描绘一位来自沙漠文明的女性战士角色。她身着由黄铜片甲与金色丝绸混合制成的战甲，甲片边缘雕刻着古老的楔形文字符文，在阳光下熠熠生辉。腰间悬挂着一把弯月形宝刀，刀鞘镶嵌着绿松石与红玛瑙。她站在沙漠废墟的高台上，背后是残破的巨型石柱和半埋于沙中的古代神庙，远处沙尘暴正在逼近，天空呈现出诡异的橙黄色。人物面部轮廓立体，眼神坚毅，额头有部落纹身图案。整体风格参考《刺客信条：起源》的美术方向，细节极度丰富，光影戏剧化。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/111f95f2-3bc1-4975-817b-9f283ea83dee/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

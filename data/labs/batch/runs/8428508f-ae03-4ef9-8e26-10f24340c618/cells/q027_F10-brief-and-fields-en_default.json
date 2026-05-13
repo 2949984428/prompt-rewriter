@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial illustration of the Lantern Festival panorama in Tang Dynasty Chang'an city, for a traditional Chinese fine-art long scroll.\n\nStyle/medium: gongbi (工笔重彩) meticulous brushwork on silk, rich mineral pigments, Tang court painting tradition in the spirit of Yan Liben and Zhang Xuan\nComposition: wide horizontal panoramic scroll (long-scroll format), bird's-eye view sweeping across the full breadth of Chang'an's main boulevard, multiple vanishing points, dense crowd foreground tapering into luminous mid-ground and distant city silhouette\nSubject: ten thousand ornamental lanterns of every shape — palace lanterns, lotus lanterns, dragon lanterns, fish lanterns — suspended on poles, strung across archways, and carried by revelers in Tang-dynasty attire; festive crowds filling the imperial avenue\nScene/backdrop: Tang Dynasty Chang'an city at the height of the Lantern Festival night; grand city gates and vermilion palace walls receding into the distance; willow trees strung with silk lanterns; full moon above\nLighting/mood: ten thousand lanterns casting overlapping warm amber and gold pools of light against deep indigo night sky; celebratory, opulent, and awe-inspiring\nColor palette: deep lapis-lazuli indigo as the night sky anchor, warm gold and amber lantern glow as the dominant accent, vermilion palace walls as structural color, malachite green and azurite blue in garments and foliage\nMaterials/textures: fine silk ground with visible weave, layered mineral pigment with subtle granular texture, gold-leaf highlights on lantern frames and architectural eaves\nAvoid: watercolor wash looseness, ink-wash sumi-e style, Western perspective foreshortening, photorealistic rendering, modern crowds, neon colors, 8K stuffer aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/af049d2c-098a-45ec-a2d6-ad43398fce55/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing editorial illustration of the Lantern Festival panorama in Tang Dynasty Chang'an city, for a traditional Chinese fine-art long scroll.\\n\\nStyle/medium: gongbi (工笔重彩) meticulous brushwork on silk, rich mineral pigments, Tang court painting tradition in the spirit of Yan Liben and Zhang Xuan\\nComposition: wide horizontal panoramic scroll (long-scroll format), bird's-eye view sweeping across the full breadth of Chang'an's main boulevard, multiple vanishing points, dense crowd foreground tapering into luminous mid-ground and distant city silhouette\\nSubject: ten thousand ornamental lanterns of every shape — palace lanterns, lotus lanterns, dragon lanterns, fish lanterns — suspended on poles, strung across archways, and carried by revelers in Tang-dynasty attire; festive crowds filling the imperial avenue\\nScene/backdrop: Tang Dynasty Chang'an city at the height of the Lantern Festival night; grand city gates and vermilion palace walls receding into the distance; willow trees strung with silk lanterns; full moon above\\nLighting/mood: ten thousand lanterns casting overlapping warm amber and gold pools of light against deep indigo night sky; celebratory, opulent, and awe-inspiring\\nColor palette: deep lapis-lazuli indigo as the night sky anchor, warm gold and amber lantern glow as the dominant accent, vermilion palace walls as structural color, malachite green and azurite blue in garments and foliage\\nMaterials/textures: fine silk ground with visible weave, layered mineral pigment with subtle granular texture, gold-leaf highlights on lantern frames and architectural eaves\\nAvoid: watercolor wash looseness, ink-wash sumi-e style, Western perspective foreshortening, photorealistic rendering, modern crowds, neon colors, 8K stuffer aesthetic\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13473
+}

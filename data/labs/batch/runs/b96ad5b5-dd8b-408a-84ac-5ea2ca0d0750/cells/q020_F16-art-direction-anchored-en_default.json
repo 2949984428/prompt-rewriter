@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a full-screen brand splash ad for OPPO Find X9 Yta smartphone launch (all in-image text in Chinese).\n\nStyle/medium: needs a high-impact brand-exposure aesthetic — references in the spirit of Apple iPhone launch campaign photography, Samsung Galaxy flagship hero shots, contemporary Chinese tech brand visual language (Xiaomi/Huawei flagship style); exact stylistic execution is yours\nComposition: must be full-screen 9:16 vertical layout optimized for 1080×1920 display, visual impact prioritized\nSubject: must include the OPPO Find X9 Yta smartphone as the hero product\nScene/backdrop: \nLighting/mood: needs a premium tech-launch atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a sleek premium surface treatment — exact finish is yours\nText (verbatim): must include \"OPPO\" brand name, \"Find X9 Yta\" product name\nConstraints: must include all in-image text in Chinese by default; must preserve 1080×1920 aspect ratio intent, brand-exposure priority, full-screen composition\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e289dfa7-8a4d-4741-aa1c-5dc85a92356c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a full-screen brand splash ad for OPPO Find X9 Yta smartphone launch (all in-image text in Chinese).\\n\\nStyle/medium: needs a high-impact brand-exposure aesthetic — references in the spirit of Apple iPhone launch campaign photography, Samsung Galaxy flagship hero shots, contemporary Chinese tech brand visual language (Xiaomi/Huawei flagship style); exact stylistic execution is yours\\nComposition: must be full-screen 9:16 vertical layout optimized for 1080×1920 display, visual impact prioritized\\nSubject: must include the OPPO Find X9 Yta smartphone as the hero product\\nScene/backdrop: \\nLighting/mood: needs a premium tech-launch atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a sleek premium surface treatment — exact finish is yours\\nText (verbatim): must include \\\"OPPO\\\" brand name, \\\"Find X9 Yta\\\" product name\\nConstraints: must include all in-image text in Chinese by default; must preserve 1080×1920 aspect ratio intent, brand-exposure priority, full-screen composition\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10641
+}

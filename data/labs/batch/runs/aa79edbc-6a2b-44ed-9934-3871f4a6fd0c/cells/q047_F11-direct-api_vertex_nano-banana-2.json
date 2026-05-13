@@ -1,0 +1,21 @@
+{
+  "query_idx": 47,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "我想做一个名为re:sonate的黑胶唱片品牌，音乐行业。\n会有一些年轻人喜爱的周边，比如说帆布袋，徽章，杯子的设计。最好还有平面海报设计\n项目背景：\n年轻化的听音乐方式和社交属性的售卖黑胶唱片的商店。\nUsing Re and Sonate not only echoes the sound but also implies resonance. At the same time, the word 'resonate' itself is closely related to the physical characteristics of sound. 反标准化•实验精神•社交暗号\n1标志设计：扁平化设计，黑胶唱片符号。通过字母形式的结构将re：sonate 与抽象元素融合，重新根象这些字母\n2.颜色方案：大面积的复古颜色，对比鲜明但和谐的色彩组合\n3.核心周边产品：帆布袋，售卖黑胶唱片的包装盒，徽章等等\nLogo，折叠后仅掌心大小，配扣挂链。4枚一套徽章组：将re soante字母拆解并与黑胶唱片融合，组合后形成完整Logo，可拆卸拼玩",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:创建任务返回业务错: task rejected: 1200000200",
+  "raw": "{\"prompt\": \"我想做一个名为re:sonate的黑胶唱片品牌，音乐行业。\\n会有一些年轻人喜爱的周边，比如说帆布袋，徽章，杯子的设计。最好还有平面海报设计\\n项目背景：\\n年轻化的听音乐方式和社交属性的售卖黑胶唱片的商店。\\nUsing Re and Sonate not only echoes the sound but also implies resonance. At the same time, the word 'resonate' itself is closely related to the physical characteristics of sound. 反标准化•实验精神•社交暗号\\n1标志设计：扁平化设计，黑胶唱片符号。通过字母形式的结构将re：sonate 与抽象元素融合，重新根象这些字母\\n2.颜色方案：大面积的复古颜色，对比鲜明但和谐的色彩组合\\n3.核心周边产品：帆布袋，售卖黑胶唱片的包装盒，徽章等等\\nLogo，折叠后仅掌心大小，配扣挂链。4枚一套徽章组：将re soante字母拆解并与黑胶唱片融合，组合后形成完整Logo，可拆卸拼玩\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5749,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

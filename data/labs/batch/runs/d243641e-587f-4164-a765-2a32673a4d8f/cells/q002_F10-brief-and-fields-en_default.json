@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Xiaohongshu (小红书) style 9-grid book cover vertical image for a grassroots/amateur media creator account, featuring the DJI Pocket 4 as the featured product.\n\nStyle/medium: Xiaohongshu (小红书) \"素人\" amateur creator aesthetic — warm, casual, slightly over-exposed lifestyle flat-lay or handheld feel, soft grain, approachable and unpolished on purpose, reminiscent of popular 小红书 cover templates\nComposition: 9-grid (九宫格) layout structure implied in the cover design, vertical portrait orientation, central title text prominently placed in the middle zone, product DJI Pocket 4 naturally integrated into the visual\nSubject: DJI Pocket 4 camera as hero product, held or displayed casually by an amateur creator hand or resting on a lifestyle surface; overall vibe is \"real person, real review\"\nScene/backdrop: cozy lifestyle backdrop — soft neutral tones, pastel or warm white surface, minimal clutter, feels like a real person's desk or café table\nLighting/mood: soft diffused natural window light, warm and inviting, low contrast, approachable mood\nColor palette: warm neutrals (cream, warm white, soft beige) as base; one accent color (dusty rose or sage green) to differentiate; product's dark body as visual anchor\nText (verbatim): \"大强pocket4初体验\"\nConstraints: title text \"大强pocket4初体验\" must be centered, large, and rendered in a cute, playful, differentiated font style (rounded bubbly or hand-lettered feel, not generic system font); 9-grid cover proportion must be respected; text must be legible at thumbnail size\nAvoid: overly polished commercial advertising look; studio lighting; dark dramatic shadows; generic tech review aesthetic; stiff symmetry; watermark; stuffer quality words",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/80431dce-6277-48fc-89e2-fe37625df155/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing Xiaohongshu (小红书) style 9-grid book cover vertical image for a grassroots/amateur media creator account, featuring the DJI Pocket 4 as the featured product.\\n\\nStyle/medium: Xiaohongshu (小红书) \\\"素人\\\" amateur creator aesthetic — warm, casual, slightly over-exposed lifestyle flat-lay or handheld feel, soft grain, approachable and unpolished on purpose, reminiscent of popular 小红书 cover templates\\nComposition: 9-grid (九宫格) layout structure implied in the cover design, vertical portrait orientation, central title text prominently placed in the middle zone, product DJI Pocket 4 naturally integrated into the visual\\nSubject: DJI Pocket 4 camera as hero product, held or displayed casually by an amateur creator hand or resting on a lifestyle surface; overall vibe is \\\"real person, real review\\\"\\nScene/backdrop: cozy lifestyle backdrop — soft neutral tones, pastel or warm white surface, minimal clutter, feels like a real person's desk or café table\\nLighting/mood: soft diffused natural window light, warm and inviting, low contrast, approachable mood\\nColor palette: warm neutrals (cream, warm white, soft beige) as base; one accent color (dusty rose or sage green) to differentiate; product's dark body as visual anchor\\nText (verbatim): \\\"大强pocket4初体验\\\"\\nConstraints: title text \\\"大强pocket4初体验\\\" must be centered, large, and rendered in a cute, playful, differentiated font style (rounded bubbly or hand-lettered feel, not generic system font); 9-grid cover proportion must be respected; text must be legible at thumbnail size\\nAvoid: overly polished commercial advertising look; studio lighting; dark dramatic shadows; generic tech review aesthetic; stiff symmetry; watermark; stuffer quality words\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14464
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic for a Chinese ethnic minority costume, designed as a museum collection catalog plate.\n\nStyle/medium: museum exhibition panel, historical costume encyclopedia infographic, cultural heritage documentation style, archival paper texture with off-white/beige background, restrained and professional aesthetic\nComposition: top-down layout with clear grid structure, central full-body figure or exploded view of costume, left side structural breakdown with leader lines, right side material/texture and color/pattern panels, bottom process flow diagram\nSubject: a representative Chinese ethnic minority traditional costume (e.g., Miao, Tibetan, or Yi ethnic attire) with authentic structural details, layered garments, traditional headpiece, and accessories\nScene/backdrop: neutral archival paper background with subtle texture, no distracting elements, museum display aesthetic\nLighting/mood: even diffused museum lighting, clear visibility of all details, scholarly and dignified atmosphere\nColor palette: muted archival tones—warm beige paper base, authentic costume colors as accent, black/sepia for text and diagrams\nText (verbatim): \"中国少数民族服饰\"\nConstraints: all text must be simplified Chinese characters; clear and legible typography; accurate structural annotations; authentic material textures; cultural symbolism explanations; no garbled text or pinyin\nAvoid: poster aesthetics, studio photography style, e-commerce product page look, anime illustration style, cosplay aesthetic, incorrect labeling, blurred text, fake materials, excessive decoration, gradients, neon colors, watermarks",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/17bdc418-d39c-4951-88bc-10a113cd9865/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing infographic for a Chinese ethnic minority costume, designed as a museum collection catalog plate.\\n\\nStyle/medium: museum exhibition panel, historical costume encyclopedia infographic, cultural heritage documentation style, archival paper texture with off-white/beige background, restrained and professional aesthetic\\nComposition: top-down layout with clear grid structure, central full-body figure or exploded view of costume, left side structural breakdown with leader lines, right side material/texture and color/pattern panels, bottom process flow diagram\\nSubject: a representative Chinese ethnic minority traditional costume (e.g., Miao, Tibetan, or Yi ethnic attire) with authentic structural details, layered garments, traditional headpiece, and accessories\\nScene/backdrop: neutral archival paper background with subtle texture, no distracting elements, museum display aesthetic\\nLighting/mood: even diffused museum lighting, clear visibility of all details, scholarly and dignified atmosphere\\nColor palette: muted archival tones—warm beige paper base, authentic costume colors as accent, black/sepia for text and diagrams\\nText (verbatim): \\\"中国少数民族服饰\\\"\\nConstraints: all text must be simplified Chinese characters; clear and legible typography; accurate structural annotations; authentic material textures; cultural symbolism explanations; no garbled text or pinyin\\nAvoid: poster aesthetics, studio photography style, e-commerce product page look, anime illustration style, cosplay aesthetic, incorrect labeling, blurred text, fake materials, excessive decoration, gradients, neon colors, watermarks\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12971
+}

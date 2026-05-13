@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-healing\nAsset type: cozy lifestyle illustration, square crop\nPrimary request: an orange tabby cat lying on a windowsill basking in soft winter light, with a snowy street scene outside the window\nScene/backdrop: warm indoor windowsill, frost-edged glass, snowy quiet street outside with gently falling snowflakes, soft diffused daylight\nSubject: fluffy orange tabby cat sprawled lazily on the windowsill, eyes half-closed in contentment, thick plush fur with visible individual strands, paws tucked under body\nStyle/medium: healing-style illustration, soft digital painting, warm and gentle brushwork\nComposition/framing: medium close-up, slight side angle, cat centered on windowsill with window frame as natural border\nLighting/mood: warm golden indoor light contrasting with cool blue-white snowy exterior, cozy and tender mood, emotionally soothing\nColor palette: warm amber and cream indoors, cool pale blue and white outside, soft orange fur as focal warmth\nMaterials/textures: ultra-fluffy fur with layered soft strands, smooth wooden windowsill, frosted glass with condensation, delicate falling snowflakes\nAvoid: harsh outlines, cold or sterile atmosphere, flat textures, deformed cat anatomy",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1ad541c8-58e7-4e43-a216-7f10b6d14e20/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-healing\\nAsset type: cozy lifestyle illustration, square crop\\nPrimary request: an orange tabby cat lying on a windowsill basking in soft winter light, with a snowy street scene outside the window\\nScene/backdrop: warm indoor windowsill, frost-edged glass, snowy quiet street outside with gently falling snowflakes, soft diffused daylight\\nSubject: fluffy orange tabby cat sprawled lazily on the windowsill, eyes half-closed in contentment, thick plush fur with visible individual strands, paws tucked under body\\nStyle/medium: healing-style illustration, soft digital painting, warm and gentle brushwork\\nComposition/framing: medium close-up, slight side angle, cat centered on windowsill with window frame as natural border\\nLighting/mood: warm golden indoor light contrasting with cool blue-white snowy exterior, cozy and tender mood, emotionally soothing\\nColor palette: warm amber and cream indoors, cool pale blue and white outside, soft orange fur as focal warmth\\nMaterials/textures: ultra-fluffy fur with layered soft strands, smooth wooden windowsill, frosted glass with condensation, delicate falling snowflakes\\nAvoid: harsh outlines, cold or sterile atmosphere, flat textures, deformed cat anatomy\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10843
+}

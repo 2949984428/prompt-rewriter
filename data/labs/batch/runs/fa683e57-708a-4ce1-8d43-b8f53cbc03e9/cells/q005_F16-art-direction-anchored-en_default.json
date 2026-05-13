@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a sci-fi space scene with an astronaut floating in Earth orbit (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"科幻太空\" aesthetic — references in the spirit of 2001: A Space Odyssey cinematic palette, NASA Apollo mission photography, contemporary space-art concept illustration tradition; exact stylistic execution is yours\nComposition: framing is yours — must include the astronaut as focal subject, partial space station structure at frame edges\nSubject: must include an astronaut in detailed spacesuit (one), Earth orbit context\nScene/backdrop: must include Earth below, brilliant Milky Way and nebula in deep space background, partial space station structure at frame edges\nLighting/mood: needs a majestic, awe-inspiring atmosphere — light source must be Earth reflection illuminating the astronaut; exact light quality is yours\nColor palette: needs a cosmic direction — exact stellar color balance is yours\nMaterials/textures: must include detailed spacesuit surface treatment — exact material sheen is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/679e0ce6-7384-4e92-9037-7c9ecbc20dc1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a sci-fi space scene with an astronaut floating in Earth orbit (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"科幻太空\\\" aesthetic — references in the spirit of 2001: A Space Odyssey cinematic palette, NASA Apollo mission photography, contemporary space-art concept illustration tradition; exact stylistic execution is yours\\nComposition: framing is yours — must include the astronaut as focal subject, partial space station structure at frame edges\\nSubject: must include an astronaut in detailed spacesuit (one), Earth orbit context\\nScene/backdrop: must include Earth below, brilliant Milky Way and nebula in deep space background, partial space station structure at frame edges\\nLighting/mood: needs a majestic, awe-inspiring atmosphere — light source must be Earth reflection illuminating the astronaut; exact light quality is yours\\nColor palette: needs a cosmic direction — exact stellar color balance is yours\\nMaterials/textures: must include detailed spacesuit surface treatment — exact material sheen is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 17977
+}

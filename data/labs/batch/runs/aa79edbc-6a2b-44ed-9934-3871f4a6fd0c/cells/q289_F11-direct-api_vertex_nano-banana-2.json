@@ -1,0 +1,26 @@
+{
+  "query_idx": 289,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "create a series of instagram posts for Mothers Day featuring Binggrae Banana Milk [@image:#1:mmexport1776407655261], in 4:5 aspect ratio.",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A937b3f0b-589a-409d-b414-285738bd13db/0.png",
+    "/api/image-file/lovart%3A937b3f0b-589a-409d-b414-285738bd13db/1.png",
+    "/api/image-file/lovart%3A937b3f0b-589a-409d-b414-285738bd13db/2.png",
+    "/api/image-file/lovart%3A937b3f0b-589a-409d-b414-285738bd13db/3.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"create a series of instagram posts for Mothers Day featuring Binggrae Banana Milk [@image:#1:mmexport1776407655261], in 4:5 aspect ratio.\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2528,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

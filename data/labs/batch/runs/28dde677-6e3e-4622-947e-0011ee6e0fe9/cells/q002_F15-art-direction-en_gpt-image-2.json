@@ -1,0 +1,21 @@
+{
+  "query_idx": 2,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a documentary-style editorial photograph for a 微博 news/trending post banner.\n\nStyle/medium: needs a photojournalistic, high-end mobile-shot documentary aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 wide horizontal layout with generous negative space for text overlay; cityscape spread across full width\nSubject: must include a city skyline at dusk with neon lights beginning to glow, hurrying pedestrians, and distant skyscrapers reflecting the last sunlight\nScene/backdrop: must include an urban dusk scene — neon signs lighting up, golden sunset reflections on glass towers, street-level crowd in motion\nLighting/mood: needs a dramatic, high-contrast golden-hour-to-neon-transition atmosphere — exact light source mix is yours\nColor palette: needs a warm-to-cool dusk direction with neon accent pops — exact hues and ratios are yours\nMaterials/textures: needs a sharp, high-resolution 8K-texture photographic surface treatment — exact grain and sheen are yours\nText (verbatim): must include \"城市里的安静时刻\" (large, primary headline, bold modern typeface, prominent placement), \"黄昏，总能治愈一天的匆忙\" (secondary subtitle), \"@龙爪槐守望者real · 生活观察\" (small watermark, bottom-right corner)\nConstraints: must preserve strict 16:9 horizontal framing; text zones must remain uncluttered for overlay legibility; real-scene documentary feel throughout\nAvoid: overly stylized CGI look, flat lighting, cluttered composition that obscures text areas",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Abb14b94d-73c3-429d-acfb-cd38f390d77a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a documentary-style editorial photograph for a 微博 news/trending post banner.\\n\\nStyle/medium: needs a photojournalistic, high-end mobile-shot documentary aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 wide horizontal layout with generous negative space for text overlay; cityscape spread across full width\\nSubject: must include a city skyline at dusk with neon lights beginning to glow, hurrying pedestrians, and distant skyscrapers reflecting the last sunlight\\nScene/backdrop: must include an urban dusk scene — neon signs lighting up, golden sunset reflections on glass towers, street-level crowd in motion\\nLighting/mood: needs a dramatic, high-contrast golden-hour-to-neon-transition atmosphere — exact light source mix is yours\\nColor palette: needs a warm-to-cool dusk direction with neon accent pops — exact hues and ratios are yours\\nMaterials/textures: needs a sharp, high-resolution 8K-texture photographic surface treatment — exact grain and sheen are yours\\nText (verbatim): must include \\\"城市里的安静时刻\\\" (large, primary headline, bold modern typeface, prominent placement), \\\"黄昏，总能治愈一天的匆忙\\\" (secondary subtitle), \\\"@龙爪槐守望者real · 生活观察\\\" (small watermark, bottom-right corner)\\nConstraints: must preserve strict 16:9 horizontal framing; text zones must remain uncluttered for overlay legibility; real-scene documentary feel throughout\\nAvoid: overly stylized CGI look, flat lighting, cluttered composition that obscures text areas\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 11645
+}

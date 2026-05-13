@@ -1,0 +1,23 @@
+{
+  "query_idx": 40,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个广播电视台 logo，仿照参考图的构成形式，融入泉城济南与泉水元素。\n\n风格/媒介:logo 设计，参考图的构成形式\n构图:图形标志与文字竖向或横向组合排列，图文比例协调\n主体:以泉水、泉眼或泉城意象为核心图形元素的 logo\n场景/背景:纯净背景，适合 logo 呈现\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):第一行\"济南广播电视台\"，第二行\"社区广播运营中心\"\n约束:文字须清晰可读，图形与文字形成完整 logo 组合\n避免:写实照片风格，复杂背景，多余装饰元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5cf5bbc9-c210-473b-aec3-f124d4bf629a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个广播电视台 logo，仿照参考图的构成形式，融入泉城济南与泉水元素。\\n\\n风格/媒介:logo 设计，参考图的构成形式\\n构图:图形标志与文字竖向或横向组合排列，图文比例协调\\n主体:以泉水、泉眼或泉城意象为核心图形元素的 logo\\n场景/背景:纯净背景，适合 logo 呈现\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):第一行\\\"济南广播电视台\\\"，第二行\\\"社区广播运营中心\\\"\\n约束:文字须清晰可读，图形与文字形成完整 logo 组合\\n避免:写实照片风格，复杂背景，多余装饰元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7422,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a screenshot of a Douyin (TikTok) live stream featuring a female streamer called 神仙姐姐 holding a sign.\n\nStyle/medium: mobile UI screenshot, Douyin live stream interface, photorealistic portrait\nComposition: 9:16 vertical frame, selfie-style front camera angle, streamer centered in frame with live stream UI overlays (viewer count, comments, gift buttons)\nSubject: elegant female streamer 神仙姐姐 with graceful appearance, holding a rectangular sign with both hands at chest level, warm engaging expression\nScene/backdrop: cozy indoor streaming room with soft bokeh background, ring light visible\nLighting/mood: soft ring light from front, warm and inviting atmosphere typical of live streaming\nColor palette: warm skin tones, soft pinks and creams, Douyin brand accent colors (black/red UI elements)\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: must look like an authentic mobile screenshot with proper Douyin UI elements; text on sign must be clearly readable\nAvoid: distorted fingers, unnatural hand positioning, blurry text, watermark from other platforms, desktop interface elements",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/27ba3554-9bd8-4712-938c-2054981df245/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a screenshot of a Douyin (TikTok) live stream featuring a female streamer called 神仙姐姐 holding a sign.\\n\\nStyle/medium: mobile UI screenshot, Douyin live stream interface, photorealistic portrait\\nComposition: 9:16 vertical frame, selfie-style front camera angle, streamer centered in frame with live stream UI overlays (viewer count, comments, gift buttons)\\nSubject: elegant female streamer 神仙姐姐 with graceful appearance, holding a rectangular sign with both hands at chest level, warm engaging expression\\nScene/backdrop: cozy indoor streaming room with soft bokeh background, ring light visible\\nLighting/mood: soft ring light from front, warm and inviting atmosphere typical of live streaming\\nColor palette: warm skin tones, soft pinks and creams, Douyin brand accent colors (black/red UI elements)\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: must look like an authentic mobile screenshot with proper Douyin UI elements; text on sign must be clearly readable\\nAvoid: distorted fingers, unnatural hand positioning, blurry text, watermark from other platforms, desktop interface elements\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 16192
+}

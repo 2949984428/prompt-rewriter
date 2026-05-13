@@ -1,0 +1,23 @@
+{
+  "query_idx": 14,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成品牌视觉提案 —— 阿拉伯甜点品牌「سحر」的 moodboard、思维导图草图与多版 logo 方案。\n\n风格/媒介: 奢华极简主义，传统与现代融合，品牌视觉设计稿\n构图:\n  整体为一张完整的品牌提案展示板\n  包含 moodboard 色彩与氛围区块\n  包含思维导图 / 启发性草图区块（heuristique schémas）\n  包含至少三个 logo 草图方案并排展示\n主体:\n  Option 1：风格化糕点轮廓 + 阿拉伯几何纹样组合 logo\n  Option 2：「سحر」现代阿拉伯书法 logo，极简笔触\n  Option 3：蜂蜜滴落形状演变为东方几何纹样的符号 logo\n场景/背景: 品牌提案展板，米白 / 象牙色底\n光线/氛围: 高端精品感，静谧优雅\n色彩方案:\n  黑色（优雅）\n  金色（传统 + 奢华）\n  蜂蜜米色\n  开心果绿\n材质/纹理: 哑光纸质感，细腻几何纹饰点缀\n文字(原样): سحر\n约束:\n  logo 方案须清晰可辨，风格统一于奢华极简路线\n  传统阿拉伯图案元素须以现代简化方式呈现\n避免: 过度装饰、廉价感、卡通风格",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0680f1fe-de43-42a9-8988-e25f6d3c8871/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成品牌视觉提案 —— 阿拉伯甜点品牌「سحر」的 moodboard、思维导图草图与多版 logo 方案。\\n\\n风格/媒介: 奢华极简主义，传统与现代融合，品牌视觉设计稿\\n构图:\\n  整体为一张完整的品牌提案展示板\\n  包含 moodboard 色彩与氛围区块\\n  包含思维导图 / 启发性草图区块（heuristique schémas）\\n  包含至少三个 logo 草图方案并排展示\\n主体:\\n  Option 1：风格化糕点轮廓 + 阿拉伯几何纹样组合 logo\\n  Option 2：「سحر」现代阿拉伯书法 logo，极简笔触\\n  Option 3：蜂蜜滴落形状演变为东方几何纹样的符号 logo\\n场景/背景: 品牌提案展板，米白 / 象牙色底\\n光线/氛围: 高端精品感，静谧优雅\\n色彩方案:\\n  黑色（优雅）\\n  金色（传统 + 奢华）\\n  蜂蜜米色\\n  开心果绿\\n材质/纹理: 哑光纸质感，细腻几何纹饰点缀\\n文字(原样): سحر\\n约束:\\n  logo 方案须清晰可辨，风格统一于奢华极简路线\\n  传统阿拉伯图案元素须以现代简化方式呈现\\n避免: 过度装饰、廉价感、卡通风格\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13231,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

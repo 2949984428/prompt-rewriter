@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a PPT cover slide for a product launch announcement (all in-image text in Chinese).\n\nStyle/medium: needs an \"通透震撼\" (transparent and impactful) aesthetic — exact stylistic execution is yours\nComposition: must include a large background image as the visual anchor, with title and subtitle overlaid\nSubject: must include the product launch context for 长安起源Q06\nScene/backdrop: must include a transparent and impactful background image that fits the brand tone\nLighting/mood: needs an impactful atmosphere — exact light treatment is yours\nColor palette: needs a brand-aligned direction — exact color values are yours\nMaterials/textures: \nText (verbatim): must include \"长安起源Q06将于9月上市\" (split into main title and subtitle as appropriate)\nConstraints: must include all in-image text in Chinese by default; must preserve the product name 长安起源Q06 and the September launch timing\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ecaac169-2eab-4155-8a1e-c8ce180657b5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a PPT cover slide for a product launch announcement (all in-image text in Chinese).\\n\\nStyle/medium: needs an \\\"通透震撼\\\" (transparent and impactful) aesthetic — exact stylistic execution is yours\\nComposition: must include a large background image as the visual anchor, with title and subtitle overlaid\\nSubject: must include the product launch context for 长安起源Q06\\nScene/backdrop: must include a transparent and impactful background image that fits the brand tone\\nLighting/mood: needs an impactful atmosphere — exact light treatment is yours\\nColor palette: needs a brand-aligned direction — exact color values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"长安起源Q06将于9月上市\\\" (split into main title and subtitle as appropriate)\\nConstraints: must include all in-image text in Chinese by default; must preserve the product name 长安起源Q06 and the September launch timing\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 16891
+}

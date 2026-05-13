@@ -1,0 +1,23 @@
+{
+  "query_idx": 20,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个企业 logo —— 冬虫夏草批发业务。\n\n风格/媒介:logo 设计，简洁、辨识度高\n构图:\n主体:冬虫夏草相关图形元素与企业标志组合\n场景/背景:纯色或透明背景\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:适合企业商用 logo\n避免:",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5a94565e-bd8b-45d1-95ea-87ef0d8a33e8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个企业 logo —— 冬虫夏草批发业务。\\n\\n风格/媒介:logo 设计，简洁、辨识度高\\n构图:\\n主体:冬虫夏草相关图形元素与企业标志组合\\n场景/背景:纯色或透明背景\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:适合企业商用 logo\\n避免:\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 4822,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

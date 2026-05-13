@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for cross-border e-commerce promotion.\n\nStyle/medium: needs a promotional poster aesthetic with artistic typography — exact stylistic execution is yours\nComposition: must be 16:9 aspect ratio, with layered typography arrangement and a product/subject partially overlapping text\nSubject: must include a product or main subject that partially blocks some text elements\nScene/backdrop: \nLighting/mood: needs a promotional/energetic atmosphere — exact light source mix is yours\nColor palette: needs a direction that supports complex but not cluttered visual — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include artistic typography with stacked/layered text treatment\nConstraints: must preserve complex visual density without appearing cluttered, must include text overlapping effect\nAvoid: must avoid visual chaos despite complexity",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bfac751c-982c-4f28-a79e-20a8ed360516/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for cross-border e-commerce promotion.\\n\\nStyle/medium: needs a promotional poster aesthetic with artistic typography — exact stylistic execution is yours\\nComposition: must be 16:9 aspect ratio, with layered typography arrangement and a product/subject partially overlapping text\\nSubject: must include a product or main subject that partially blocks some text elements\\nScene/backdrop: \\nLighting/mood: needs a promotional/energetic atmosphere — exact light source mix is yours\\nColor palette: needs a direction that supports complex but not cluttered visual — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include artistic typography with stacked/layered text treatment\\nConstraints: must preserve complex visual density without appearing cluttered, must include text overlapping effect\\nAvoid: must avoid visual chaos despite complexity\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8712
+}

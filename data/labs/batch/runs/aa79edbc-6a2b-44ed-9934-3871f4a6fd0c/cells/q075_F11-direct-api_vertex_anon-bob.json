@@ -1,0 +1,23 @@
+{
+  "query_idx": 75,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image][@image:#2:image][@image:#3:image]参考图片风格样式，生成新的有关音乐的图标，要求有KTV麦克风，正负形图标，面性图标，设计感强，有几根弯曲的线代表五线谱，黑白，矢量，不出现文字。简约，有设计感，极简风格",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae2e72392-12e1-4ef0-ad07-2caf58fb8f4c/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image][@image:#2:image][@image:#3:image]参考图片风格样式，生成新的有关音乐的图标，要求有KTV麦克风，正负形图标，面性图标，设计感强，有几根弯曲的线代表五线谱，黑白，矢量，不出现文字。简约，有设计感，极简风格\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3487,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

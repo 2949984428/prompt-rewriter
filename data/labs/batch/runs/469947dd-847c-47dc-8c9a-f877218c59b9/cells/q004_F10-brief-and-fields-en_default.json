@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original marketing hero image for a gaming smartphone e-commerce campaign on JD.com digital channel.\n\nStyle/medium: photorealistic product photography with cyberpunk aesthetic, gaming hardware editorial in the spirit of Razer product launches\nComposition: 45-degree floating angle, dynamic three-quarter view showing front and side, wide-angle lens with slight perspective distortion for speed sensation\nSubject: gaming smartphone with aggressive angular design, visible RGB lighting strips along edges, reflective glass back panel, screen displaying game UI\nScene/backdrop: cyberpunk neon cityscape at night, blurred skyscrapers with holographic billboards, light trails suggesting motion, atmospheric haze\nLighting/mood: dramatic rim lighting from below with cyan and magenta neon glow, high contrast, futuristic and energetic mood\nColor palette: deep black base, electric cyan and hot magenta as primary accents, subtle purple gradients, white highlights\nMaterials/textures: brushed aluminum frame, glossy tempered glass, matte rubberized grip zones, visible heat dissipation vents\nAvoid: generic stock phone renders, washed-out colors, cluttered background, 8K stuffer text, plastic-looking materials, static flat presentation",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/48c7758a-4421-48b2-bb8b-35b55da29460/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original marketing hero image for a gaming smartphone e-commerce campaign on JD.com digital channel.\\n\\nStyle/medium: photorealistic product photography with cyberpunk aesthetic, gaming hardware editorial in the spirit of Razer product launches\\nComposition: 45-degree floating angle, dynamic three-quarter view showing front and side, wide-angle lens with slight perspective distortion for speed sensation\\nSubject: gaming smartphone with aggressive angular design, visible RGB lighting strips along edges, reflective glass back panel, screen displaying game UI\\nScene/backdrop: cyberpunk neon cityscape at night, blurred skyscrapers with holographic billboards, light trails suggesting motion, atmospheric haze\\nLighting/mood: dramatic rim lighting from below with cyan and magenta neon glow, high contrast, futuristic and energetic mood\\nColor palette: deep black base, electric cyan and hot magenta as primary accents, subtle purple gradients, white highlights\\nMaterials/textures: brushed aluminum frame, glossy tempered glass, matte rubberized grip zones, visible heat dissipation vents\\nAvoid: generic stock phone renders, washed-out colors, cluttered background, 8K stuffer text, plastic-looking materials, static flat presentation\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11406
+}

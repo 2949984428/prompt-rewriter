@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: abstract-expressionist-fine-art\nAsset type: gallery-ready painting, modern art exhibition\nPrimary request: abstract expressionist artwork with bold color collisions and fluid brushstrokes, conveying emotion and energy without recognizable forms\nScene/backdrop: gallery wall context, neutral exhibition space\nSubject: non-representational composition of dynamic gestural marks, drips, and color fields\nStyle/medium: abstract expressionism, acrylic on canvas, gestural painting\nComposition/framing: large-scale canvas format, all-over composition with no focal point, immersive field\nLighting/mood: dramatic gallery lighting emphasizing texture and pigment depth, energetic and visceral\nColor palette: bold clashing primaries, saturated oranges, deep blues, raw umbers, titanium white, carbon black\nMaterials/textures: thick impasto, visible brushstrokes, dripped and splattered paint, raw canvas texture\nConstraints: maintain non-representational abstraction, no figurative elements, gallery-appropriate scale\nAvoid: recognizable objects, geometric precision, digital smoothness, stock art aesthetic",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/659100f5-112c-40b6-9e5e-5c6495e0aae3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: abstract-expressionist-fine-art\\nAsset type: gallery-ready painting, modern art exhibition\\nPrimary request: abstract expressionist artwork with bold color collisions and fluid brushstrokes, conveying emotion and energy without recognizable forms\\nScene/backdrop: gallery wall context, neutral exhibition space\\nSubject: non-representational composition of dynamic gestural marks, drips, and color fields\\nStyle/medium: abstract expressionism, acrylic on canvas, gestural painting\\nComposition/framing: large-scale canvas format, all-over composition with no focal point, immersive field\\nLighting/mood: dramatic gallery lighting emphasizing texture and pigment depth, energetic and visceral\\nColor palette: bold clashing primaries, saturated oranges, deep blues, raw umbers, titanium white, carbon black\\nMaterials/textures: thick impasto, visible brushstrokes, dripped and splattered paint, raw canvas texture\\nConstraints: maintain non-representational abstraction, no figurative elements, gallery-appropriate scale\\nAvoid: recognizable objects, geometric precision, digital smoothness, stock art aesthetic\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9904
+}

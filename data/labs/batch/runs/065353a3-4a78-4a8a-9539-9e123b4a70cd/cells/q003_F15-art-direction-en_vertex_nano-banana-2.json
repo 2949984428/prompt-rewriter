@@ -1,0 +1,21 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: needs a modern, clean, universally approachable aesthetic — exact stylistic execution is yours\nComposition: must be centered, avatar-crop-friendly (square format, subject centered with clear focal point)\nSubject: must include a visual concept that communicates technology, new energy / EV, digital gadgets, and lifestyle — exact symbolic representation is yours\nScene/backdrop: needs a simple, uncluttered backdrop — exact treatment is yours\nLighting/mood: needs a fresh, positive, energetic atmosphere — exact light source mix is yours\nColor palette: needs a direction that reads as tech-forward yet warm and approachable — exact palette is yours\nMaterials/textures: \nText (verbatim): \nConstraints: must be culturally neutral and visually harmonious across both Chinese and international social platforms; must avoid any symbols, gestures, colors, or imagery that carry negative or taboo connotations in any major culture\nAvoid: political symbols, religious iconography, culturally sensitive color combinations, human faces or identifiable figures, aggressive or divisive imagery",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa2853b7a-f15f-4ecf-8442-e1fff8c8444c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing social media avatar for a content creator account focused on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: needs a modern, clean, universally approachable aesthetic — exact stylistic execution is yours\\nComposition: must be centered, avatar-crop-friendly (square format, subject centered with clear focal point)\\nSubject: must include a visual concept that communicates technology, new energy / EV, digital gadgets, and lifestyle — exact symbolic representation is yours\\nScene/backdrop: needs a simple, uncluttered backdrop — exact treatment is yours\\nLighting/mood: needs a fresh, positive, energetic atmosphere — exact light source mix is yours\\nColor palette: needs a direction that reads as tech-forward yet warm and approachable — exact palette is yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must be culturally neutral and visually harmonious across both Chinese and international social platforms; must avoid any symbols, gestures, colors, or imagery that carry negative or taboo connotations in any major culture\\nAvoid: political symbols, religious iconography, culturally sensitive color combinations, human faces or identifiable figures, aggressive or divisive imagery\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8484
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a promotional marketing poster for a 跨境电商 campaign with a visually complex but structured composition.\n\nStyle/medium: needs a bold, graphic-design-forward aesthetic with artistic typography and layered type stacking — exact stylistic execution is yours\nComposition: must be 16:9 horizontal layout; must include type-stacking layers with a product or hero subject physically overlapping and occluding portions of the background typography\nSubject: must include a product or hero subject as the focal element that partially covers the stacked letterforms\nScene/backdrop: \nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs a vibrant, attention-grabbing direction suited for 跨境电商 promotions — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include artistic display lettering (艺术字); must include stacked / layered typography treatment; composition must feel visually rich and complex but remain organized and non-chaotic; product/subject must overlap at least some letterforms to create depth\nAvoid: flat, sparse, or minimalist layouts; cluttered illegible chaos",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Aea0df806-7e5e-47b6-a32c-ec271ad7699f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a promotional marketing poster for a 跨境电商 campaign with a visually complex but structured composition.\\n\\nStyle/medium: needs a bold, graphic-design-forward aesthetic with artistic typography and layered type stacking — exact stylistic execution is yours\\nComposition: must be 16:9 horizontal layout; must include type-stacking layers with a product or hero subject physically overlapping and occluding portions of the background typography\\nSubject: must include a product or hero subject as the focal element that partially covers the stacked letterforms\\nScene/backdrop: \\nLighting/mood: needs a high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs a vibrant, attention-grabbing direction suited for 跨境电商 promotions — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include artistic display lettering (艺术字); must include stacked / layered typography treatment; composition must feel visually rich and complex but remain organized and non-chaotic; product/subject must overlap at least some letterforms to create depth\\nAvoid: flat, sparse, or minimalist layouts; cluttered illegible chaos\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9664
+}

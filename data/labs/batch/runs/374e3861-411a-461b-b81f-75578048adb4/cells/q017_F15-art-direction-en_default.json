@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original abstract expressionist artwork for a modern art gallery.\n\nStyle/medium: must be abstract expressionist — exact brushwork technique and paint handling are yours\nComposition: needs a dynamic, energetic arrangement — exact spatial distribution is yours\nSubject: must include no concrete/recognizable imagery (pure abstraction)\nScene/backdrop: \nLighting/mood: needs an emotionally charged, high-energy atmosphere — exact mood calibration is yours\nColor palette: must be bold color collision / clashing hues — exact pigment choices and ratios are yours\nMaterials/textures: needs flowing, gestural brushstrokes with visible paint texture — exact stroke weight and layering are yours\nText (verbatim): \nConstraints: \nAvoid: must avoid any recognizable figures, objects, or representational forms",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c976e2fb-546b-4150-bf5a-a59407c5d424/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original abstract expressionist artwork for a modern art gallery.\\n\\nStyle/medium: must be abstract expressionist — exact brushwork technique and paint handling are yours\\nComposition: needs a dynamic, energetic arrangement — exact spatial distribution is yours\\nSubject: must include no concrete/recognizable imagery (pure abstraction)\\nScene/backdrop: \\nLighting/mood: needs an emotionally charged, high-energy atmosphere — exact mood calibration is yours\\nColor palette: must be bold color collision / clashing hues — exact pigment choices and ratios are yours\\nMaterials/textures: needs flowing, gestural brushstrokes with visible paint texture — exact stroke weight and layering are yours\\nText (verbatim): \\nConstraints: \\nAvoid: must avoid any recognizable figures, objects, or representational forms\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7986
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing profile picture/avatar for a content creator brand.\n\nStyle/medium: needs a globally accessible, culturally neutral aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include visual elements representing new energy vehicles, digital tech products, and lifestyle goods as the thematic focus\nScene/backdrop: \nLighting/mood: needs a friendly, approachable atmosphere — exact light treatment is yours\nColor palette: needs a universally harmonious direction that works across Chinese and international social platforms — exact color choices are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must avoid symbols, colors, or imagery that could offend specific cultural or religious groups; must maintain visual harmony across both Eastern and Western social media contexts\nAvoid: must avoid culturally sensitive symbols, religious iconography, political imagery, and region-specific color taboos",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/22281b15-626a-4aa4-a260-5b1251691de8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing profile picture/avatar for a content creator brand.\\n\\nStyle/medium: needs a globally accessible, culturally neutral aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include visual elements representing new energy vehicles, digital tech products, and lifestyle goods as the thematic focus\\nScene/backdrop: \\nLighting/mood: needs a friendly, approachable atmosphere — exact light treatment is yours\\nColor palette: needs a universally harmonious direction that works across Chinese and international social platforms — exact color choices are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must avoid symbols, colors, or imagery that could offend specific cultural or religious groups; must maintain visual harmony across both Eastern and Western social media contexts\\nAvoid: must avoid culturally sensitive symbols, religious iconography, political imagery, and region-specific color taboos\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10766
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing panoramic illustration of a 元宵灯会 in 唐代长安城.\n\nStyle/medium: needs a 工笔重彩 long-scroll (长卷) aesthetic — exact stylistic execution is yours\nComposition: must be a wide panoramic horizontal scroll format\nSubject: must include thousands of 花灯 (万盏) illuminating the night sky and the festive crowd below\nScene/backdrop: must include 唐代长安城 at night during 元宵节\nLighting/mood: needs a warm, lantern-lit night atmosphere — exact light source mix is yours\nColor palette: needs a rich, luminous direction befitting 重彩 — exact hues and ratios are yours\nMaterials/textures: needs a 工笔 fine-line brushwork surface treatment — exact ink weight and pigment layering are yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac44d4383-7984-4255-9796-c132dafda921/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing panoramic illustration of a 元宵灯会 in 唐代长安城.\\n\\nStyle/medium: needs a 工笔重彩 long-scroll (长卷) aesthetic — exact stylistic execution is yours\\nComposition: must be a wide panoramic horizontal scroll format\\nSubject: must include thousands of 花灯 (万盏) illuminating the night sky and the festive crowd below\\nScene/backdrop: must include 唐代长安城 at night during 元宵节\\nLighting/mood: needs a warm, lantern-lit night atmosphere — exact light source mix is yours\\nColor palette: needs a rich, luminous direction befitting 重彩 — exact hues and ratios are yours\\nMaterials/textures: needs a 工笔 fine-line brushwork surface treatment — exact ink weight and pigment layering are yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9327
+}

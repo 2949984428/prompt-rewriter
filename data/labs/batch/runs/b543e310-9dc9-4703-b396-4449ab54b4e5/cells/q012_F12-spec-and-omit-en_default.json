@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing marketing poster for a WeChat article cover promoting the \"染秋\" fragrance new product launch.\n\nStyle/medium: premium aesthetic\nComposition: centered\nSubject: \"染秋\" fragrance product launch\nScene/backdrop: \nLighting/mood: \nColor palette: autumn tones\nMaterials/textures: \nText (verbatim): 染秋 - 秋意染染 时光留香\nConstraints: highlight the headline prominently\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3a3436c5-d9b2-49d8-ae8a-216e291242f4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing marketing poster for a WeChat article cover promoting the \\\"染秋\\\" fragrance new product launch.\\n\\nStyle/medium: premium aesthetic\\nComposition: centered\\nSubject: \\\"染秋\\\" fragrance product launch\\nScene/backdrop: \\nLighting/mood: \\nColor palette: autumn tones\\nMaterials/textures: \\nText (verbatim): 染秋 - 秋意染染 时光留香\\nConstraints: highlight the headline prominently\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5005
+}

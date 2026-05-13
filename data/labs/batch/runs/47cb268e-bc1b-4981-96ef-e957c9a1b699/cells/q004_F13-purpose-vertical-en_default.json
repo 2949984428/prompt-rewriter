@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide visual for the Changan Origin Q06 September launch announcement, intended as a presentation title slide with brand-aligned headline and subheadline.\n\nStyle/medium: automotive brand PPT cover, photorealistic CGI render with dramatic depth\nComposition: wide cinematic layout, vehicle or brand emblem as hero element centered or lower-third, headline and subheadline text overlaid in upper or center zone\nSubject: Changan Origin Q06 vehicle launch — headline and subheadline prominently displayed\nScene/backdrop: translucent, luminous deep-space or atmospheric backdrop — layered light rays, volumetric glow, sense of depth and grandeur; dark base with brilliant highlights to convey premium impact\nLighting/mood: dramatic, high-contrast volumetric lighting; awe-inspiring and forward-looking; conveys technological sophistication and brand confidence\nColor palette: deep midnight blue and black base with electric blue and silver accent light streaks; subtle warm gold highlight to signal premium positioning\nMaterials/textures: smooth metallic surfaces, glass-like translucent light layers, fine particle atmosphere\nText (verbatim): \"长安起源Q06\" as main headline; \"将于9月上市\" as subheadline\nConstraints: text must be legible against the backdrop; layout must work as a 16:9 slide cover; brand-premium aesthetic throughout\nAvoid: generic stock-photo backgrounds, cluttered composition, low-contrast text, cartoon or flat illustration style",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a7205fa4-d710-40a4-9836-4251971c3d44/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide visual for the Changan Origin Q06 September launch announcement, intended as a presentation title slide with brand-aligned headline and subheadline.\\n\\nStyle/medium: automotive brand PPT cover, photorealistic CGI render with dramatic depth\\nComposition: wide cinematic layout, vehicle or brand emblem as hero element centered or lower-third, headline and subheadline text overlaid in upper or center zone\\nSubject: Changan Origin Q06 vehicle launch — headline and subheadline prominently displayed\\nScene/backdrop: translucent, luminous deep-space or atmospheric backdrop — layered light rays, volumetric glow, sense of depth and grandeur; dark base with brilliant highlights to convey premium impact\\nLighting/mood: dramatic, high-contrast volumetric lighting; awe-inspiring and forward-looking; conveys technological sophistication and brand confidence\\nColor palette: deep midnight blue and black base with electric blue and silver accent light streaks; subtle warm gold highlight to signal premium positioning\\nMaterials/textures: smooth metallic surfaces, glass-like translucent light layers, fine particle atmosphere\\nText (verbatim): \\\"长安起源Q06\\\" as main headline; \\\"将于9月上市\\\" as subheadline\\nConstraints: text must be legible against the backdrop; layout must work as a 16:9 slide cover; brand-premium aesthetic throughout\\nAvoid: generic stock-photo backgrounds, cluttered composition, low-contrast text, cartoon or flat illustration style\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12641
+}

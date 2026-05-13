@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a photorealistic product shot of a corporate employee ID badge for 字节跳动 (ByteDance), showing both front and back sides.\n\nStyle/medium: photorealistic studio product photography, clean and corporate, sharp focus throughout\nComposition: two badges displayed side by side — front face on the left, back face on the right — slight 5-degree tilt on each, floating on a neutral surface, top-down with subtle perspective\nSubject: corporate lanyard ID badge; front side features the 字节跳动 logo at top, employee photo placeholder (portrait cutout area), employee name in Chinese and English, department, employee ID number, and a colored access-level stripe; back side features a magnetic stripe, barcode or QR code, company address in small print, and emergency contact line\nScene/backdrop: clean light-gray studio surface, very subtle soft shadow beneath each badge\nLighting/mood: soft diffused overhead studio light, slight specular highlight on the badge laminate surface to convey glossy plastic card texture, neutral and corporate mood\nColor palette: white card base, 字节跳动 brand red/orange as accent stripe, black text, subtle gray secondary elements\nMaterials/textures: glossy PVC card surface with visible laminate sheen, printed ink texture on card face, matte lanyard clip hardware in brushed silver\nText (verbatim): \"字节跳动\"\nConstraints: both badge faces must be fully legible and in frame; badge proportions must follow standard CR80 ID card ratio (85.6mm × 54mm); photorealistic rendering only\nAvoid: cartoon or flat illustration style, floating UI mockup aesthetic, illegible micro-text blobs, over-exposed blown-out highlights, generic stock-photo badge template look",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9b524b8e-aa63-4c44-b167-feae5379d38c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a photorealistic product shot of a corporate employee ID badge for 字节跳动 (ByteDance), showing both front and back sides.\\n\\nStyle/medium: photorealistic studio product photography, clean and corporate, sharp focus throughout\\nComposition: two badges displayed side by side — front face on the left, back face on the right — slight 5-degree tilt on each, floating on a neutral surface, top-down with subtle perspective\\nSubject: corporate lanyard ID badge; front side features the 字节跳动 logo at top, employee photo placeholder (portrait cutout area), employee name in Chinese and English, department, employee ID number, and a colored access-level stripe; back side features a magnetic stripe, barcode or QR code, company address in small print, and emergency contact line\\nScene/backdrop: clean light-gray studio surface, very subtle soft shadow beneath each badge\\nLighting/mood: soft diffused overhead studio light, slight specular highlight on the badge laminate surface to convey glossy plastic card texture, neutral and corporate mood\\nColor palette: white card base, 字节跳动 brand red/orange as accent stripe, black text, subtle gray secondary elements\\nMaterials/textures: glossy PVC card surface with visible laminate sheen, printed ink texture on card face, matte lanyard clip hardware in brushed silver\\nText (verbatim): \\\"字节跳动\\\"\\nConstraints: both badge faces must be fully legible and in frame; badge proportions must follow standard CR80 ID card ratio (85.6mm × 54mm); photorealistic rendering only\\nAvoid: cartoon or flat illustration style, floating UI mockup aesthetic, illegible micro-text blobs, over-exposed blown-out highlights, generic stock-photo badge template look\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 16643
+}

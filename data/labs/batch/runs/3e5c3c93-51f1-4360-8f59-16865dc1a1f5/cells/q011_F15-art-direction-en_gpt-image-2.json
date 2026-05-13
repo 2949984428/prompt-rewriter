@@ -1,0 +1,21 @@
+{
+  "query_idx": 11,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 小红书 cover image for a tech announcement about GPT-image-2 launching on Lovart.\n\nStyle/medium: needs a high-end editorial magazine aesthetic — exact stylistic execution is yours\nComposition: must use diagonal composition\nSubject: must include the launch announcement of GPT-image-2 on Lovart as the focal theme\nScene/backdrop: \nLighting/mood: needs a high-contrast, punchy atmosphere — exact light source mix is yours\nColor palette: needs a high-contrast with strong accent color direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"GPT-image-2\" and \"Lovart\"\nConstraints: must be formatted as a 小红书 cover (vertical)\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3Afde5535c-3e52-4764-8fd7-6cd7654d553f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a 小红书 cover image for a tech announcement about GPT-image-2 launching on Lovart.\\n\\nStyle/medium: needs a high-end editorial magazine aesthetic — exact stylistic execution is yours\\nComposition: must use diagonal composition\\nSubject: must include the launch announcement of GPT-image-2 on Lovart as the focal theme\\nScene/backdrop: \\nLighting/mood: needs a high-contrast, punchy atmosphere — exact light source mix is yours\\nColor palette: needs a high-contrast with strong accent color direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT-image-2\\\" and \\\"Lovart\\\"\\nConstraints: must be formatted as a 小红书 cover (vertical)\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5934
+}

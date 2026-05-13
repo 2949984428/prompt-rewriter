@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张硬核军事风格的战术装备展示，各种枪械、防弹背心、夜视仪整齐排列，深色背景，冷峻的光线，专业而威严的感觉",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b9241f80-bfe0-40f0-a5f8-88a134a3b77d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"设计一张硬核军事风格的战术装备展示，各种枪械、防弹背心、夜视仪整齐排列，深色背景，冷峻的光线，专业而威严的感觉\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5227
+}

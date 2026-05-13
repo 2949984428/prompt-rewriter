@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: fashion-illustration-photorealistic-composite\nAsset type: haute couture concept editorial, fashion week campaign visual\nPrimary request: conceptual fashion design rendering of a deep-sea-inspired haute couture gown series, blending fashion illustration and photographic composite style\nScene/backdrop: pure black studio background, professional multi-angle stage lighting\nSubject: a floor-length evening gown on a standing model — skirt constructed from multiple layers of semi-transparent organza printed with jellyfish tentacle motifs, emitting mysterious blue-violet bioluminescent glow under light; structured corset bodice featuring three-dimensional embroidery replicating coral reef texture, encrusted with Swarovski crystals in blue, green, and purple\nStyle/medium: fashion illustration merged with photographic composite, haute couture editorial\nComposition/framing: full-length frontal shot, model standing upright, centered, vertical portrait framing\nLighting/mood: dramatic multi-directional stage lighting that maximizes the translucency of organza layers and amplifies bioluminescent glow effects; luxurious and otherworldly atmosphere\nColor palette: deep ocean blue, fluorescent violet, coral orange, with iridescent crystal accents\nMaterials/textures: layered semi-transparent organza with jellyfish tentacle print, 3D coral-texture embroidery, faceted Swarovski crystal embellishments, soft luminous glow diffusion\nConstraints: preserve the bioluminescent glow effect on each organza layer; coral reef 3D embroidery on bodice must be clearly visible; crystal embellishments in blue, green, and purple must be distinct\nAvoid: flat or matte fabric rendering, overexposed background, loss of translucency in organza layers, generic evening gown silhouette without deep-sea detailing",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e1e63204-7c2e-46f9-aa6c-19b63c215df4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: fashion-illustration-photorealistic-composite\\nAsset type: haute couture concept editorial, fashion week campaign visual\\nPrimary request: conceptual fashion design rendering of a deep-sea-inspired haute couture gown series, blending fashion illustration and photographic composite style\\nScene/backdrop: pure black studio background, professional multi-angle stage lighting\\nSubject: a floor-length evening gown on a standing model — skirt constructed from multiple layers of semi-transparent organza printed with jellyfish tentacle motifs, emitting mysterious blue-violet bioluminescent glow under light; structured corset bodice featuring three-dimensional embroidery replicating coral reef texture, encrusted with Swarovski crystals in blue, green, and purple\\nStyle/medium: fashion illustration merged with photographic composite, haute couture editorial\\nComposition/framing: full-length frontal shot, model standing upright, centered, vertical portrait framing\\nLighting/mood: dramatic multi-directional stage lighting that maximizes the translucency of organza layers and amplifies bioluminescent glow effects; luxurious and otherworldly atmosphere\\nColor palette: deep ocean blue, fluorescent violet, coral orange, with iridescent crystal accents\\nMaterials/textures: layered semi-transparent organza with jellyfish tentacle print, 3D coral-texture embroidery, faceted Swarovski crystal embellishments, soft luminous glow diffusion\\nConstraints: preserve the bioluminescent glow effect on each organza layer; coral reef 3D embroidery on bodice must be clearly visible; crystal embellishments in blue, green, and purple must be distinct\\nAvoid: flat or matte fabric rendering, overexposed background, loss of translucency in organza layers, generic evening gown silhouette without deep-sea detailing\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12537
+}

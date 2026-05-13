@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing Xiaohongshu (小红书) style book/note cover in a 9-grid vertical format for an amateur media creator.\n\nStyle/medium: 小红书素人风格 (Xiaohongshu amateur/casual aesthetic), flat editorial cover design\nComposition: 9-grid layout (九宫格), vertical portrait orientation, product featured prominently, title text centered\nSubject: DJI Pocket 4 camera as the featured product, held or displayed by an amateur creator\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \"大疆Pocket4初体验\"\nConstraints: cute and differentiated font style for the title text \"大疆Pocket4初体验\"; overall tone must feel like authentic amateur/UGC content, not polished advertising\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/81ef058b-c93e-4870-8602-0797c0333703/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing Xiaohongshu (小红书) style book/note cover in a 9-grid vertical format for an amateur media creator.\\n\\nStyle/medium: 小红书素人风格 (Xiaohongshu amateur/casual aesthetic), flat editorial cover design\\nComposition: 9-grid layout (九宫格), vertical portrait orientation, product featured prominently, title text centered\\nSubject: DJI Pocket 4 camera as the featured product, held or displayed by an amateur creator\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\\"大疆Pocket4初体验\\\"\\nConstraints: cute and differentiated font style for the title text \\\"大疆Pocket4初体验\\\"; overall tone must feel like authentic amateur/UGC content, not polished advertising\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6414
+}

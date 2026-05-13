@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing presentation cover slide for a domestic China funding roadshow announcement of \"GPT-5.5 launch\", intended for VC/GP audience, featuring speaker Sam Altman.\n\nStyle/medium: PPT cover slide, China domestic roadshow aesthetic, institutional VC presentation\nComposition: centered title hierarchy with speaker attribution, clean corporate layout optimized for projection\nSubject: GPT-5.5 product launch announcement, speaker: Sam Altman (奥特曼)\nScene/backdrop: subtle tech gradient or abstract neural network pattern, professional dark background suitable for conference rooms\nLighting/mood: professional, authoritative, investment-grade seriousness\nColor palette: deep navy or charcoal base with gold or tech-blue accent (institutional VC palette)\nMaterials/textures: clean vector graphics, subtle tech texture overlay\nText (verbatim): \"GPT-5.5发布\" / \"GPT-5.5 Launch\" / \"奥特曼\" (Sam Altman)\nConstraints: must read clearly on large projection screen, speaker name prominent, product version clearly visible, China domestic roadshow conventions\nAvoid: Western startup pitch deck aesthetics (too colorful/casual), generic stock photos, cluttered layouts, playful gradients",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fba5209a-73e7-4f71-980e-6e478f014c9a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing presentation cover slide for a domestic China funding roadshow announcement of \\\"GPT-5.5 launch\\\", intended for VC/GP audience, featuring speaker Sam Altman.\\n\\nStyle/medium: PPT cover slide, China domestic roadshow aesthetic, institutional VC presentation\\nComposition: centered title hierarchy with speaker attribution, clean corporate layout optimized for projection\\nSubject: GPT-5.5 product launch announcement, speaker: Sam Altman (奥特曼)\\nScene/backdrop: subtle tech gradient or abstract neural network pattern, professional dark background suitable for conference rooms\\nLighting/mood: professional, authoritative, investment-grade seriousness\\nColor palette: deep navy or charcoal base with gold or tech-blue accent (institutional VC palette)\\nMaterials/textures: clean vector graphics, subtle tech texture overlay\\nText (verbatim): \\\"GPT-5.5发布\\\" / \\\"GPT-5.5 Launch\\\" / \\\"奥特曼\\\" (Sam Altman)\\nConstraints: must read clearly on large projection screen, speaker name prominent, product version clearly visible, China domestic roadshow conventions\\nAvoid: Western startup pitch deck aesthetics (too colorful/casual), generic stock photos, cluttered layouts, playful gradients\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11908
+}

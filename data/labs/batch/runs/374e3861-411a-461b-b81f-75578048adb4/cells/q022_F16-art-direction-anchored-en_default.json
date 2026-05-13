@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing interior scene of a French romantic bedroom.\n\nStyle/medium: needs a \"法式浪漫\" aesthetic — references in the spirit of 19th-century French Impressionist interior paintings, Parisian Haussmann apartment heritage, Sofia Coppola's Marie Antoinette production design; exact stylistic execution is yours\nComposition: \nSubject: must include a four-poster bed with gauze canopy, vintage vanity/dressing table, scattered rose petals\nScene/backdrop: must include a Paris street view visible through the window\nLighting/mood: needs a soft morning light atmosphere with elegant and languid mood — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ccfadcc6-b4a7-420b-9ee1-4801dde71727/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing interior scene of a French romantic bedroom.\\n\\nStyle/medium: needs a \\\"法式浪漫\\\" aesthetic — references in the spirit of 19th-century French Impressionist interior paintings, Parisian Haussmann apartment heritage, Sofia Coppola's Marie Antoinette production design; exact stylistic execution is yours\\nComposition: \\nSubject: must include a four-poster bed with gauze canopy, vintage vanity/dressing table, scattered rose petals\\nScene/backdrop: must include a Paris street view visible through the window\\nLighting/mood: needs a soft morning light atmosphere with elegant and languid mood — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8640
+}

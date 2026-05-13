@@ -1,0 +1,23 @@
+{
+  "query_idx": 51,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:56242181bf5fc416915aba4f4586a285] 模仿这个风格设计一个logo，logo英文名字为nook tea",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1e0f15fe-b1bc-4196-b8ed-5a2e1acf2c52/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:56242181bf5fc416915aba4f4586a285] 模仿这个风格设计一个logo，logo英文名字为nook tea\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3660,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

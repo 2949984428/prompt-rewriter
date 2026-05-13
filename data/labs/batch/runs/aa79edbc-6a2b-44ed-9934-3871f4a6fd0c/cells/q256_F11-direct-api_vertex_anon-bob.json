@@ -1,0 +1,23 @@
+{
+  "query_idx": 256,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:主视觉海报] 以图片为参考，设计一张海岛度假派对主题海报，标题为都市逃逸计划，大师作品，简约高级，层次丰富，尺寸9：16，高清4K发布于小红书",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A04487a3f-89a9-48b0-a0bd-189dc770359a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:主视觉海报] 以图片为参考，设计一张海岛度假派对主题海报，标题为都市逃逸计划，大师作品，简约高级，层次丰富，尺寸9：16，高清4K发布于小红书\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3474,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

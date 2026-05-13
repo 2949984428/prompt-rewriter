@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration\nAsset type: anime-style sports illustration\nPrimary request: basketball player mid-air performing a slam dunk with sweat flying, dynamic motion blur, full of tension and passion\nScene/backdrop: crowded basketball arena with cheering audience and camera flashes in the background\nSubject: athletic basketball player in team jersey, muscular build, intense determined expression, airborne with ball above rim\nStyle/medium: anime/manga illustration, shonen sports aesthetic, bold linework, cel-shaded with dynamic action lines\nComposition/framing: low-angle dramatic shot, wide angle emphasizing vertical leap, player dominates foreground\nLighting/mood: dramatic arena spotlights mixed with flash photography bursts, high energy and adrenaline\nColor palette: saturated team colors, warm court tones, cool shadow accents, bright flash highlights\nMaterials/textures: glossy sweat droplets, fabric jersey folds, polished wooden court, motion streak effects\nConstraints: maintain dynamic pose with clear silhouette, show sweat particles in motion\nAvoid: static pose, flat lighting, realistic proportions, photorealistic rendering, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "https://assets-persist.lovart.ai/agent_images/433689d1-4389-4bb6-8b3c-081a82f80078.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration\\nAsset type: anime-style sports illustration\\nPrimary request: basketball player mid-air performing a slam dunk with sweat flying, dynamic motion blur, full of tension and passion\\nScene/backdrop: crowded basketball arena with cheering audience and camera flashes in the background\\nSubject: athletic basketball player in team jersey, muscular build, intense determined expression, airborne with ball above rim\\nStyle/medium: anime/manga illustration, shonen sports aesthetic, bold linework, cel-shaded with dynamic action lines\\nComposition/framing: low-angle dramatic shot, wide angle emphasizing vertical leap, player dominates foreground\\nLighting/mood: dramatic arena spotlights mixed with flash photography bursts, high energy and adrenaline\\nColor palette: saturated team colors, warm court tones, cool shadow accents, bright flash highlights\\nMaterials/textures: glossy sweat droplets, fabric jersey folds, polished wooden court, motion streak effects\\nConstraints: maintain dynamic pose with clear silhouette, show sweat particles in motion\\nAvoid: static pose, flat lighting, realistic proportions, photorealistic rendering, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11471
+}

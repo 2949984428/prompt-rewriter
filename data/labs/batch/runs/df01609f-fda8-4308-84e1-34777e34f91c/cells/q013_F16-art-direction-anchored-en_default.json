@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original hotel poolside scene illustration with a tropical resort aesthetic (all in-image text in Chinese).\n\nStyle/medium: needs a \"热带度假风\" aesthetic — references in the spirit of 1980s Club Med resort photography, Slim Aarons poolside glamour (mid-century leisure photography), contemporary Maldives resort visual branding; exact stylistic execution is yours\nComposition: framing is yours\nSubject: must include an infinity pool overlooking the ocean, lounge chairs and beach umbrellas, coconut palm trees, blue sky with white clouds\nScene/backdrop: must include open ocean horizon visible beyond the infinity pool edge, tropical resort setting\nLighting/mood: needs a sun-drenched, vacation-escapism atmosphere — exact light source mix is yours\nColor palette: needs a high-saturation, vivid tropical direction — exact hues and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/10dca6ca-9dda-440f-853c-05486e1f1146/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original hotel poolside scene illustration with a tropical resort aesthetic (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"热带度假风\\\" aesthetic — references in the spirit of 1980s Club Med resort photography, Slim Aarons poolside glamour (mid-century leisure photography), contemporary Maldives resort visual branding; exact stylistic execution is yours\\nComposition: framing is yours\\nSubject: must include an infinity pool overlooking the ocean, lounge chairs and beach umbrellas, coconut palm trees, blue sky with white clouds\\nScene/backdrop: must include open ocean horizon visible beyond the infinity pool edge, tropical resort setting\\nLighting/mood: needs a sun-drenched, vacation-escapism atmosphere — exact light source mix is yours\\nColor palette: needs a high-saturation, vivid tropical direction — exact hues and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 14259
+}

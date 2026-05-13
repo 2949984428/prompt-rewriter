@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a cross-border e-commerce promotion campaign.\n\nStyle/medium: complex editorial poster with decorative art typography and layered font stacking\nComposition: 16:9 horizontal layout; product or hero subject overlapping and partially obscuring background typography layers\nSubject: promotional product(s) or hero subject blocking some of the stacked text\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): \nConstraints: visually complex but not chaotic; must include decorative art lettering, stacked/layered typography, and a product or subject that physically overlaps and covers portions of the text\nAvoid: clean minimal layout; sparse text; text fully visible without any overlap",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6ef10a34-1a9d-4a71-a2fe-94f7b05b8aef/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for a cross-border e-commerce promotion campaign.\\n\\nStyle/medium: complex editorial poster with decorative art typography and layered font stacking\\nComposition: 16:9 horizontal layout; product or hero subject overlapping and partially obscuring background typography layers\\nSubject: promotional product(s) or hero subject blocking some of the stacked text\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): \\nConstraints: visually complex but not chaotic; must include decorative art lettering, stacked/layered typography, and a product or subject that physically overlaps and covers portions of the text\\nAvoid: clean minimal layout; sparse text; text fully visible without any overlap\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5941
+}

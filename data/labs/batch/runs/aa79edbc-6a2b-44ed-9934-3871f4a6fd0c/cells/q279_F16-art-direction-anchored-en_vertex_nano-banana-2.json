@@ -1,0 +1,23 @@
+{
+  "query_idx": 279,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一張 YouTube Shorts 封面。\n\n風格/媒介：寫實攝影風格封面\n構圖：\n  9:16 豎向構圖，適合 YouTube Shorts\n  畫面主體置中，留出上下空間\n主體：\n  一個白人小嬰孩與一隻小狗一起拉扯一隻小熊玩偶\n  小嬰孩雙手抓住小熊玩偶的頭部位置，表情用力誇張\n  小狗咬住小熊玩偶的腳部位置\n  兩者形成拔河對拉的動態場景\n場景/背景：\n光線/氛圍：\n色彩方案：\n材質/紋理：\n文字(原樣)：\n約束：\n  參考上傳的圖片 #1 作為構圖與場景參考\n  畫面清晰，適合封面展示\n避免：",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acb99150c-92eb-4787-abce-d20ed6accc4c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一張 YouTube Shorts 封面。\\n\\n風格/媒介：寫實攝影風格封面\\n構圖：\\n  9:16 豎向構圖，適合 YouTube Shorts\\n  畫面主體置中，留出上下空間\\n主體：\\n  一個白人小嬰孩與一隻小狗一起拉扯一隻小熊玩偶\\n  小嬰孩雙手抓住小熊玩偶的頭部位置，表情用力誇張\\n  小狗咬住小熊玩偶的腳部位置\\n  兩者形成拔河對拉的動態場景\\n場景/背景：\\n光線/氛圍：\\n色彩方案：\\n材質/紋理：\\n文字(原樣)：\\n約束：\\n  參考上傳的圖片 #1 作為構圖與場景參考\\n  畫面清晰，適合封面展示\\n避免：\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 7501,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

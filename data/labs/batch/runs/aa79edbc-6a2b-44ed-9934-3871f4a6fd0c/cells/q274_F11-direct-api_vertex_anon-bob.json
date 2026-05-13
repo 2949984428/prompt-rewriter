@@ -1,0 +1,23 @@
+{
+  "query_idx": 274,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:白酒海报-源文件下载-志’设ˌ网][@image:#2:图层 9]把图1的产品替换成图2的产品，，图1背景上的其他文字去掉，发布在微信朋友圈。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A895fca54-4c56-4736-9888-12431bc965d6/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:白酒海报-源文件下载-志'设ˌ网][@image:#2:图层 9]把图1的产品替换成图2的产品，，图1背景上的其他文字去掉，发布在微信朋友圈。\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3561,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

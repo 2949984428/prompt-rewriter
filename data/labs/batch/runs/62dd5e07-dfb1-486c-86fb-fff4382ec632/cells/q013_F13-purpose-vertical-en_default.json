@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing short-video vertical cover for a gaming monitor product launch, targeting tech/esports audiences on short-video platforms.\n\nStyle/medium: minimalist premium product cover, sleek tech aesthetic\nComposition: rule-of-thirds layout; large bold headline text in upper or lower third, monitor hero shot in center third\nSubject: GGU esports gaming monitor, emphasizing cutting-edge panel technology\nScene/backdrop: dark, deep background with subtle tech-grid or light-streak accents to convey high performance\nLighting/mood: dramatic accent lighting on the monitor, cool-to-neutral tones with sharp contrast to highlight premium feel\nColor palette: deep black / dark navy base, with electric accent color (e.g., electric blue or white) for text and highlights\nMaterials/textures: smooth matte surfaces, subtle metallic sheen on monitor bezel\nText (verbatim): \"8k GGU 电竞显示器 1000hz\" as the dominant headline in oversized bold type; \"全球首发全新面板 低延迟 完美色彩\" as supporting subtitle\nConstraints: vertical 9:16 format; headline must be visually dominant and eye-catching; rule-of-thirds composition strictly applied\nAvoid: cluttered layout, generic gaming RGB rainbow aesthetic, small unreadable text, overly busy backgrounds",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9ecad0a7-c6a4-4d21-99e8-a303776ec817/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing short-video vertical cover for a gaming monitor product launch, targeting tech/esports audiences on short-video platforms.\\n\\nStyle/medium: minimalist premium product cover, sleek tech aesthetic\\nComposition: rule-of-thirds layout; large bold headline text in upper or lower third, monitor hero shot in center third\\nSubject: GGU esports gaming monitor, emphasizing cutting-edge panel technology\\nScene/backdrop: dark, deep background with subtle tech-grid or light-streak accents to convey high performance\\nLighting/mood: dramatic accent lighting on the monitor, cool-to-neutral tones with sharp contrast to highlight premium feel\\nColor palette: deep black / dark navy base, with electric accent color (e.g., electric blue or white) for text and highlights\\nMaterials/textures: smooth matte surfaces, subtle metallic sheen on monitor bezel\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\" as the dominant headline in oversized bold type; \\\"全球首发全新面板 低延迟 完美色彩\\\" as supporting subtitle\\nConstraints: vertical 9:16 format; headline must be visually dominant and eye-catching; rule-of-thirds composition strictly applied\\nAvoid: cluttered layout, generic gaming RGB rainbow aesthetic, small unreadable text, overly busy backgrounds\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10416
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster / PPT cover slide for a domestic China roadshow announcing the launch of GPT-5.5, presented by Sam Altman, styled to match Chinese GP (general partner / institutional investor) fundraising pitch deck aesthetics.\n\nStyle/medium: clean flat editorial illustration blended with sleek Chinese tech-finance presentation design, sharp typography, polished corporate pitch deck cover\nComposition: centered layout, bold headline at top third, speaker name and title at bottom, logo mark centered or upper-left, generous white space with structured grid\nSubject: GPT-5.5 launch announcement cover slide — headline text \"GPT-5.5 正式发布\", sub-headline \"开启新智能时代\", speaker credit \"演讲人：奥特曼 Sam Altman\"\nScene/backdrop: abstract deep navy or midnight blue gradient background with subtle glowing circuit or neural-network line art, evoking cutting-edge AI and institutional gravitas\nLighting/mood: cool blue and electric teal ambient glow, confident and forward-looking, premium institutional tone matching Chinese GP roadshow culture\nColor palette: deep navy as dominant base, electric teal and gold as accent colors, white for primary text — palette signals trust, innovation, and capital-market credibility\nText (verbatim): \"GPT-5.5 正式发布\" as main headline; \"演讲人：奥特曼\" as speaker line\nConstraints: layout must read as a Chinese domestic roadshow PPT cover (16:9 widescreen); typography hierarchy must be clear at projector scale; no cluttered decoration\nAvoid: Western startup minimalism, generic tech blue gradients without structure, cartoon illustration style, watermarks, lorem ipsum placeholder text, overly decorative motifs inconsistent with GP institutional tone",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2f7d1661-c9d9-4497-91a6-7045d163d122/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster / PPT cover slide for a domestic China roadshow announcing the launch of GPT-5.5, presented by Sam Altman, styled to match Chinese GP (general partner / institutional investor) fundraising pitch deck aesthetics.\\n\\nStyle/medium: clean flat editorial illustration blended with sleek Chinese tech-finance presentation design, sharp typography, polished corporate pitch deck cover\\nComposition: centered layout, bold headline at top third, speaker name and title at bottom, logo mark centered or upper-left, generous white space with structured grid\\nSubject: GPT-5.5 launch announcement cover slide — headline text \\\"GPT-5.5 正式发布\\\", sub-headline \\\"开启新智能时代\\\", speaker credit \\\"演讲人：奥特曼 Sam Altman\\\"\\nScene/backdrop: abstract deep navy or midnight blue gradient background with subtle glowing circuit or neural-network line art, evoking cutting-edge AI and institutional gravitas\\nLighting/mood: cool blue and electric teal ambient glow, confident and forward-looking, premium institutional tone matching Chinese GP roadshow culture\\nColor palette: deep navy as dominant base, electric teal and gold as accent colors, white for primary text — palette signals trust, innovation, and capital-market credibility\\nText (verbatim): \\\"GPT-5.5 正式发布\\\" as main headline; \\\"演讲人：奥特曼\\\" as speaker line\\nConstraints: layout must read as a Chinese domestic roadshow PPT cover (16:9 widescreen); typography hierarchy must be clear at projector scale; no cluttered decoration\\nAvoid: Western startup minimalism, generic tech blue gradients without structure, cartoon illustration style, watermarks, lorem ipsum placeholder text, overly decorative motifs inconsistent with GP institutional tone\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13620
+}

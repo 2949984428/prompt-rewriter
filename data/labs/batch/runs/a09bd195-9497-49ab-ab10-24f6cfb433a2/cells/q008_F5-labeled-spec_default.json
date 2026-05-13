@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: interior-design-visualization\nAsset type: commercial interior design concept, wide-angle architectural shot\nPrimary request: industrial-style café interior with exposed concrete walls, metal piping, vintage leather sofas, and black-and-white photography on walls\nScene/backdrop: spacious café interior with raw concrete walls, visible metal ductwork and pipes along ceiling, large floor-to-ceiling windows\nSubject: vintage brown leather Chesterfield sofas and armchairs, reclaimed wood tables, industrial pendant lights, curated black-and-white photography gallery wall\nStyle/medium: architectural interior photography, industrial loft aesthetic\nComposition/framing: wide-angle establishing shot, 24mm lens, capturing full seating area and window wall\nLighting/mood: abundant natural daylight streaming through large windows, soft shadows, warm and inviting yet rugged atmosphere\nColor palette: raw concrete gray + warm brown leather + matte black metal + warm wood tones + neutral cream accents\nMaterials/textures: rough exposed concrete, aged leather with patina, brushed steel pipes, reclaimed wood grain, matte black metal fixtures\nConstraints: maintain industrial rawness while preserving sophisticated ambiance, keep natural light as dominant light source\nAvoid: overly polished surfaces, colorful distractions, modern plastic furniture, cluttered composition, artificial lighting overpowering natural light",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a05747db-5766-44c7-8d29-99aa9392a1c9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: interior-design-visualization\\nAsset type: commercial interior design concept, wide-angle architectural shot\\nPrimary request: industrial-style café interior with exposed concrete walls, metal piping, vintage leather sofas, and black-and-white photography on walls\\nScene/backdrop: spacious café interior with raw concrete walls, visible metal ductwork and pipes along ceiling, large floor-to-ceiling windows\\nSubject: vintage brown leather Chesterfield sofas and armchairs, reclaimed wood tables, industrial pendant lights, curated black-and-white photography gallery wall\\nStyle/medium: architectural interior photography, industrial loft aesthetic\\nComposition/framing: wide-angle establishing shot, 24mm lens, capturing full seating area and window wall\\nLighting/mood: abundant natural daylight streaming through large windows, soft shadows, warm and inviting yet rugged atmosphere\\nColor palette: raw concrete gray + warm brown leather + matte black metal + warm wood tones + neutral cream accents\\nMaterials/textures: rough exposed concrete, aged leather with patina, brushed steel pipes, reclaimed wood grain, matte black metal fixtures\\nConstraints: maintain industrial rawness while preserving sophisticated ambiance, keep natural light as dominant light source\\nAvoid: overly polished surfaces, colorful distractions, modern plastic furniture, cluttered composition, artificial lighting overpowering natural light\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10876
+}

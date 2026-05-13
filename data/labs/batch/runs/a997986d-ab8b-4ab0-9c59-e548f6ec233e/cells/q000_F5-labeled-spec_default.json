@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial nature photography, landscape\nPrimary request: ancient primeval forest at dawn with sunbeams piercing through dense canopy, creating dramatic crepuscular rays\nScene/backdrop: deep virgin forest interior, moss-covered ancient boulders, distant mountain silhouettes, winding clear mountain stream\nSubject: towering redwood trunks reaching skyward, foreground ferns and wild mushrooms, lush green vegetation reflections in water\nStyle/medium: nature photography, wide-angle landscape\nComposition/framing: wide-angle shot with pronounced depth of field, foreground-to-background layering\nLighting/mood: early morning golden hour, volumetric god rays through canopy, soft mist floating between trees, mysterious and serene atmosphere\nColor palette: deep forest green + emerald green + golden sunlight + mossy earth tones\nMaterials/textures: velvety moss on weathered stone, delicate fern fronds, smooth water surface with reflections, rough bark texture\nConstraints: maintain layered depth from foreground mushrooms to background mountains, preserve the ethereal quality of morning light beams\nAvoid: oversaturated colors, artificial lighting, human elements, wildlife, plastic textures, deformed vegetation",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c36551fd-f475-4a5d-b6b1-16ded437d6db/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial nature photography, landscape\\nPrimary request: ancient primeval forest at dawn with sunbeams piercing through dense canopy, creating dramatic crepuscular rays\\nScene/backdrop: deep virgin forest interior, moss-covered ancient boulders, distant mountain silhouettes, winding clear mountain stream\\nSubject: towering redwood trunks reaching skyward, foreground ferns and wild mushrooms, lush green vegetation reflections in water\\nStyle/medium: nature photography, wide-angle landscape\\nComposition/framing: wide-angle shot with pronounced depth of field, foreground-to-background layering\\nLighting/mood: early morning golden hour, volumetric god rays through canopy, soft mist floating between trees, mysterious and serene atmosphere\\nColor palette: deep forest green + emerald green + golden sunlight + mossy earth tones\\nMaterials/textures: velvety moss on weathered stone, delicate fern fronds, smooth water surface with reflections, rough bark texture\\nConstraints: maintain layered depth from foreground mushrooms to background mountains, preserve the ethereal quality of morning light beams\\nAvoid: oversaturated colors, artificial lighting, human elements, wildlife, plastic textures, deformed vegetation\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10689
+}

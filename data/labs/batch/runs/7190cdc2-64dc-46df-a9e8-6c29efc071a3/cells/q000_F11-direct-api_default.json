@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "在一片广袤的北欧原始森林中，清晨第一缕阳光穿透浓密的云杉与白桦树冠，将金色光芒洒落在布满苔藓的岩石和蜿蜒的溪流上。溪水清澈见底，水底的鹅卵石隐约可见，水面泛起细碎的涟漪。远处山峦叠嶂，薄雾缭绕于山腰，营造出如梦似幻的仙境氛围。前景有几株野生蘑菇和蕨类植物，露珠挂在叶尖晶莹剔透。整体画面采用超写实摄影风格，广角构图，景深丰富，色调偏冷绿，充满大自然的静谧与生命力。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e31bed3e-f63a-4b3a-ac76-202899b12f75/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 92,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:IMG_5352]Please create a logo for my brand MUMU based strictly on the reference images I provide.\n\nImportant direction:\n- Use the reference images as the main visual guide\n- Keep the overall style, composition, and visual feeling aligned with the references\n- The logo should feel fashion-forward, feminine, confident, bold, and high-end\n- Brand identity: American style / Y2K / sexy / cool girl / confident / unique\n- The final result should feel suitable for a women’s fashion brand\n\nLogo text:\nMUMU\n\nDesign requirements:\n- Create a clean, strong, memorable logo\n- Make the typography stylish and recognizable\n- The logo should feel premium, edgy, and trendy\n- Keep it visually balanced and suitable for branding use\n- Avoid making it look childish or overly cartoonish\n- Make it feel like a real fashion label logo\n\nOutput request:\n- Provide multiple logo variations\n- Black logo on white background\n- White logo on black background\n- Clean background only\n- High resolution\n- Centered composition\n- No mockup unless requested\n- Focus on logo design only\n\nExtra note:\nPlease do not freely change the design direction. Follow the reference images closely, while refining the logo into a more polished and brand-ready version.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Acf6c3bce-13f0-42c9-ad8a-55dcb35b2423/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:IMG_5352]Please create a logo for my brand MUMU based strictly on the reference images I provide.\\n\\nImportant direction:\\n- Use the reference images as the main visual guide\\n- Keep the overall style, composition, and visual feeling aligned with the references\\n- The logo should feel fashion-forward, feminine, confident, bold, and high-end\\n- Brand identity: American style / Y2K / sexy / cool girl / confident / unique\\n- The final result should feel suitable for a women's fashion brand\\n\\nLogo text:\\nMUMU\\n\\nDesign requirements:\\n- Create a clean, strong, memorable logo\\n- Make the typography stylish and recognizable\\n- The logo should feel premium, edgy, and trendy\\n- Keep it visually balanced and suitable for branding use\\n- Avoid making it look childish or overly cartoonish\\n- Make it feel like a real fashion label logo\\n\\nOutput request:\\n- Provide multiple logo variations\\n- Black logo on white background\\n- White logo on black background\\n- Clean background only\\n- High resolution\\n- Centered composition\\n- No mockup unless requested\\n- Focus on logo design only\\n\\nExtra note:\\nPlease do not freely change the design direction. Follow the reference images closely, while refining the logo into a more polished and brand-ready version.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6988,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

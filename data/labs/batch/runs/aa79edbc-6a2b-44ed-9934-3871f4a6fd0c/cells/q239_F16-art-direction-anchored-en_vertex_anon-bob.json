@@ -1,0 +1,23 @@
+{
+  "query_idx": 239,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张公司组建旅行出游运营海报。\n\n风格/媒介: 大厂运营风格，互联网感强，视觉层次丰富\n构图: 海报竖版构图，主视觉突出，信息层级清晰\n主体: 公司组团旅行出游主题运营海报\n场景/背景: 与旅行出游相关的场景氛围\n光线/氛围: 活力感、轻松愉快的出游氛围\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n避免: 低端廉价感，杂乱无章的排版",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A824b6d3f-e994-4679-9f78-c3e0591e09b1/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张公司组建旅行出游运营海报。\\n\\n风格/媒介: 大厂运营风格，互联网感强，视觉层次丰富\\n构图: 海报竖版构图，主视觉突出，信息层级清晰\\n主体: 公司组团旅行出游主题运营海报\\n场景/背景: 与旅行出游相关的场景氛围\\n光线/氛围: 活力感、轻松愉快的出游氛围\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n避免: 低端廉价感，杂乱无章的排版\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5945,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

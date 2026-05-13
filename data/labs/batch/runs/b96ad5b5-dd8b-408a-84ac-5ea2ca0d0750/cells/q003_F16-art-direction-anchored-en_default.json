@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a social media profile avatar for a content creator focused on new energy vehicles, digital products, and lifestyle goods (all in-image text in Chinese).\n\nStyle/medium: needs a \"universally harmonious\" aesthetic — references in the spirit of Apple product photography (clean, global), MUJI brand identity heritage (neutral, culturally safe), Swiss International Typographic Style (universal, timeless); exact stylistic execution is yours\nComposition: must be centered, readable at small sizes (profile thumbnail scale)\nSubject: must include abstract or symbolic elements representing new energy vehicles, digital tech, and lifestyle — exact iconography is yours\nScene/backdrop: \nLighting/mood: needs a professional and approachable atmosphere — exact light treatment is yours\nColor palette: needs a globally neutral direction — exact color values are yours, avoid regionally sensitive color combinations\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must avoid culturally or politically sensitive symbols, religious imagery, hand gestures, animal motifs that carry negative connotations in specific regions, and color combinations with regional political associations\nAvoid: must avoid symbols, flags, religious icons, politically charged colors, hand gestures with negative meanings, and any imagery that could be interpreted as offensive in Chinese, Western, or Middle Eastern cultural contexts",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ee8d3d4f-39dc-4980-8e10-d16cbf0815a0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a social media profile avatar for a content creator focused on new energy vehicles, digital products, and lifestyle goods (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"universally harmonious\\\" aesthetic — references in the spirit of Apple product photography (clean, global), MUJI brand identity heritage (neutral, culturally safe), Swiss International Typographic Style (universal, timeless); exact stylistic execution is yours\\nComposition: must be centered, readable at small sizes (profile thumbnail scale)\\nSubject: must include abstract or symbolic elements representing new energy vehicles, digital tech, and lifestyle — exact iconography is yours\\nScene/backdrop: \\nLighting/mood: needs a professional and approachable atmosphere — exact light treatment is yours\\nColor palette: needs a globally neutral direction — exact color values are yours, avoid regionally sensitive color combinations\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must avoid culturally or politically sensitive symbols, religious imagery, hand gestures, animal motifs that carry negative connotations in specific regions, and color combinations with regional political associations\\nAvoid: must avoid symbols, flags, religious icons, politically charged colors, hand gestures with negative meanings, and any imagery that could be interpreted as offensive in Chinese, Western, or Middle Eastern cultural contexts\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14227
+}

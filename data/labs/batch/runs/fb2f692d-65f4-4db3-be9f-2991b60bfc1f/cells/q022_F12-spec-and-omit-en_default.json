@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of Korean cafe-style coffee and desserts, smartphone-shot aesthetic for Instagram, no people.\n\nStyle/medium: smartphone photography, Instagram story aesthetic, magazine rough-note style\nComposition: \nSubject: coffee and desserts, Korean cafe style\nScene/backdrop: Korean cafe interior\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 日语手写文字（平假名7成、简单汉字3成）\nConstraints: no people, add hand-drawn annotations with white thin sketch lines, one-stroke rough uneven style, outline contours around objects, arrows and dashed lines for visual guidance, short diary-like comments about taste/temperature/mood for drinks, texture/flavor for food, atmosphere for space, one-line summary for overall, decorative elements like steam/sparkles/hearts/emoji moderately with white space\nAvoid: excessive decoration, cluttered layout",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/04363c8c-ea16-4694-ab5a-5316d2d5e84d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of Korean cafe-style coffee and desserts, smartphone-shot aesthetic for Instagram, no people.\\n\\nStyle/medium: smartphone photography, Instagram story aesthetic, magazine rough-note style\\nComposition: \\nSubject: coffee and desserts, Korean cafe style\\nScene/backdrop: Korean cafe interior\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 日语手写文字（平假名7成、简单汉字3成）\\nConstraints: no people, add hand-drawn annotations with white thin sketch lines, one-stroke rough uneven style, outline contours around objects, arrows and dashed lines for visual guidance, short diary-like comments about taste/temperature/mood for drinks, texture/flavor for food, atmosphere for space, one-line summary for overall, decorative elements like steam/sparkles/hearts/emoji moderately with white space\\nAvoid: excessive decoration, cluttered layout\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8159
+}

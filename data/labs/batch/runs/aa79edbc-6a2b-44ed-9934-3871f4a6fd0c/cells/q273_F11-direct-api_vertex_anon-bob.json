@@ -1,0 +1,23 @@
+{
+  "query_idx": 273,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "can you create a similar image ,but using the water bottle I'll attach here,instagram post 4:5[@image:#1:Pattern on Water Bottle - No Logo]",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa71ac423-cdd9-465b-bd39-19e46d8d5698/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"can you create a similar image ,but using the water bottle I'll attach here,instagram post 4:5[@image:#1:Pattern on Water Bottle - No Logo]\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2636,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

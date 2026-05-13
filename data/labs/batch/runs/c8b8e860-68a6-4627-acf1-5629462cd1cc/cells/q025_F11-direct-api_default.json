@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "以小书素人媒体为主体，做一个九高格的小书封面直图，造素人\n风格。透出产品为大疆pocket4，中央标题文字：大强pocket4初体\n验。字体要可爱、差异化",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c6529097-e159-48b2-b58a-8c14f99e4182/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"以小书素人媒体为主体，做一个九高格的小书封面直图，造素人\\n风格。透出产品为大疆pocket4，中央标题文字：大强pocket4初体\\n验。字体要可爱、差异化\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 6950
+}

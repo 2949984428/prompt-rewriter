@@ -1,0 +1,23 @@
+{
+  "query_idx": 9,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design a square logo.\n\nStyle/medium: flat vector logo, geometric\nComposition:\n  square format\n  Flower of Life geometry in the background\n  letters \"C.U\" in the foreground, overlapping the geometry\nSubject: square logo with Flower of Life pattern behind and letters \"C.U\" in front\nScene/backdrop:\nLighting/mood:\nColor palette:\nMaterials/textures:\nText (verbatim): C.U\nConstraints: square composition; Flower of Life must be clearly inscribed within the square\nAvoid: photorealistic rendering, decorative non-geometric elements",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A747b802c-0279-42e6-9e3e-e5776dc58b97/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design a square logo.\\n\\nStyle/medium: flat vector logo, geometric\\nComposition:\\n  square format\\n  Flower of Life geometry in the background\\n  letters \\\"C.U\\\" in the foreground, overlapping the geometry\\nSubject: square logo with Flower of Life pattern behind and letters \\\"C.U\\\" in front\\nScene/backdrop:\\nLighting/mood:\\nColor palette:\\nMaterials/textures:\\nText (verbatim): C.U\\nConstraints: square composition; Flower of Life must be clearly inscribed within the square\\nAvoid: photorealistic rendering, decorative non-geometric elements\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7270,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

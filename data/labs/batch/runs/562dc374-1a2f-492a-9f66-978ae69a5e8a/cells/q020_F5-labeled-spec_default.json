@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial still life photography\nPrimary request: wabi-sabi style still life emphasizing the beauty of imperfection and traces of time\nScene/backdrop: weathered wooden table with visible grain and patina, soft window light\nSubject: coarse earthenware vase with uneven texture, dried bare branches arranged inside\nStyle/medium: fine art still life photography, wabi-sabi aesthetic\nComposition/framing: medium close-up, slightly off-center placement, shallow depth of field\nLighting/mood: natural daylight streaming diagonally from a window, soft diffused light with gentle shadows, contemplative and serene\nColor palette: muted earth tones, warm browns, off-whites, subtle grays, desaturated palette\nMaterials/textures: rough unglazed terracotta, cracked and weathered wood grain, brittle dried twigs, dust particles in light\nConstraints: preserve the asymmetry and imperfection central to wabi-sabi philosophy, emphasize texture over perfection\nAvoid: symmetrical composition, saturated colors, polished surfaces, plastic textures, harsh artificial lighting",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c5c8ebdb-3357-4d9d-8934-a756849e786f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial still life photography\\nPrimary request: wabi-sabi style still life emphasizing the beauty of imperfection and traces of time\\nScene/backdrop: weathered wooden table with visible grain and patina, soft window light\\nSubject: coarse earthenware vase with uneven texture, dried bare branches arranged inside\\nStyle/medium: fine art still life photography, wabi-sabi aesthetic\\nComposition/framing: medium close-up, slightly off-center placement, shallow depth of field\\nLighting/mood: natural daylight streaming diagonally from a window, soft diffused light with gentle shadows, contemplative and serene\\nColor palette: muted earth tones, warm browns, off-whites, subtle grays, desaturated palette\\nMaterials/textures: rough unglazed terracotta, cracked and weathered wood grain, brittle dried twigs, dust particles in light\\nConstraints: preserve the asymmetry and imperfection central to wabi-sabi philosophy, emphasize texture over perfection\\nAvoid: symmetrical composition, saturated colors, polished surfaces, plastic textures, harsh artificial lighting\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9711
+}

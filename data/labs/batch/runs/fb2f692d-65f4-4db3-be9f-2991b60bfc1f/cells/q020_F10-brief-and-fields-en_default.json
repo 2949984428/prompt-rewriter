@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a full-screen brand advertising image for OPPO Find X9 Ultra smartphone launch campaign.\n\nStyle/medium: high-impact commercial advertising visual, product hero shot with premium tech aesthetic\nComposition: full-screen vertical format 9:16 aspect ratio, centered product showcase with dynamic negative space\nSubject: OPPO Find X9 Ultra smartphone, sleek modern design, flagship device\nScene/backdrop: minimal studio environment or abstract gradient backdrop that emphasizes the product\nLighting/mood: dramatic studio lighting with strong highlights, premium luxury atmosphere, high contrast\nColor palette: OPPO brand colors (green/white) or premium dark tones with accent lighting\nText (verbatim): \"OPPO Find X9 Ultra\"\nConstraints: must be 1080×1920 pixels vertical format; brand exposure priority; maximum visual impact\nAvoid: cluttered backgrounds, generic stock photography, low contrast, busy patterns, watermark, UI chrome elements",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d03fb11d-a4eb-4f53-b3b2-ed7cf2e842fa/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a full-screen brand advertising image for OPPO Find X9 Ultra smartphone launch campaign.\\n\\nStyle/medium: high-impact commercial advertising visual, product hero shot with premium tech aesthetic\\nComposition: full-screen vertical format 9:16 aspect ratio, centered product showcase with dynamic negative space\\nSubject: OPPO Find X9 Ultra smartphone, sleek modern design, flagship device\\nScene/backdrop: minimal studio environment or abstract gradient backdrop that emphasizes the product\\nLighting/mood: dramatic studio lighting with strong highlights, premium luxury atmosphere, high contrast\\nColor palette: OPPO brand colors (green/white) or premium dark tones with accent lighting\\nText (verbatim): \\\"OPPO Find X9 Ultra\\\"\\nConstraints: must be 1080×1920 pixels vertical format; brand exposure priority; maximum visual impact\\nAvoid: cluttered backgrounds, generic stock photography, low contrast, busy patterns, watermark, UI chrome elements\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7101
+}

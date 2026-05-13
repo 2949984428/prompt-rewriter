@@ -1,0 +1,23 @@
+{
+  "query_idx": 65,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "工作室的名称叫做：SoooWhat Studio。主要从事的是平面设计；视觉设计；陈列设计；品牌设计等内容。颜色方面：建议使用黑绿或者蓝黄 对比度强的颜色来做",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ae0eda938-0544-4957-ba40-2de973beec53/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"工作室的名称叫做：SoooWhat Studio。主要从事的是平面设计；视觉设计；陈列设计；品牌设计等内容。颜色方面：建议使用黑绿或者蓝黄 对比度强的颜色来做\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3353,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

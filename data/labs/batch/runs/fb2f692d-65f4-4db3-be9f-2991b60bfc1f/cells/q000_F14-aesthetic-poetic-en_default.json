@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Xiaohongshu cover image for bubble tea, designed for种草 (product seeding) sharing, in the warm breath of summer sweetness and youthful reverie.\n\nStyle/medium: lifestyle product photography with the soft editorial glow of Japanese magazine still life, designed for social media discovery\nComposition: centered bubble tea cup as the gentle anchor, generous breathing room around the subject, slight overhead angle inviting the viewer to reach in\nSubject: bubble tea with visible tapioca pearls, condensation beads on the cup, perhaps a gentle hand or straw suggesting the act of drinking\nScene/backdrop: soft pink surface or gradient, hints of summer elements (ice, soft shadows, perhaps a window breeze)\nLighting/mood: the hazy warmth of a summer afternoon, soft diffused light like a gentle exhale, the quiet pleasure of a cooling drink\nColor palette: warm honey pink tones in conversation with cool cream white, the temperature tension between summer heat and icy refreshment\nMaterials/textures: glossy plastic cup with condensation droplets, chewy tapioca pearls visible through the liquid, soft matte paper or fabric backdrop\nText (verbatim): \nConstraints: clear bubble tea as hero product, pink dominant color story, summer atmosphere readable at thumbnail size\nAvoid: harsh studio lighting, cluttered composition, generic stock photo aesthetic, oversaturated candy colors",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/cd2c618d-f03c-42e8-8fa1-9c25d684e1ca/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a Xiaohongshu cover image for bubble tea, designed for种草 (product seeding) sharing, in the warm breath of summer sweetness and youthful reverie.\\n\\nStyle/medium: lifestyle product photography with the soft editorial glow of Japanese magazine still life, designed for social media discovery\\nComposition: centered bubble tea cup as the gentle anchor, generous breathing room around the subject, slight overhead angle inviting the viewer to reach in\\nSubject: bubble tea with visible tapioca pearls, condensation beads on the cup, perhaps a gentle hand or straw suggesting the act of drinking\\nScene/backdrop: soft pink surface or gradient, hints of summer elements (ice, soft shadows, perhaps a window breeze)\\nLighting/mood: the hazy warmth of a summer afternoon, soft diffused light like a gentle exhale, the quiet pleasure of a cooling drink\\nColor palette: warm honey pink tones in conversation with cool cream white, the temperature tension between summer heat and icy refreshment\\nMaterials/textures: glossy plastic cup with condensation droplets, chewy tapioca pearls visible through the liquid, soft matte paper or fabric backdrop\\nText (verbatim): \\nConstraints: clear bubble tea as hero product, pink dominant color story, summer atmosphere readable at thumbnail size\\nAvoid: harsh studio lighting, cluttered composition, generic stock photo aesthetic, oversaturated candy colors\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12358
+}

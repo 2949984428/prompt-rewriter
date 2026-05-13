@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing PPT cover slide for a domestic China fundraising roadshow, featuring the GPT-5.5 launch announcement with Sam Altman as the presenter.\n\nStyle/medium: needs a \"国内路演\" (China domestic roadshow) aesthetic with \"GP调性\" (general partner / institutional investor tone) — exact stylistic execution is yours\nComposition: must be a single landscape slide cover layout, presenter name and title prominently placed, headline centered\nSubject: must include GPT-5.5 launch as the central theme, Sam Altman as named presenter\nScene/backdrop: needs a high-tech, institutional-grade backdrop — exact visual treatment is yours\nLighting/mood: needs a confident, authoritative atmosphere suited to institutional fundraising — exact light source mix is yours\nColor palette: needs a direction that balances tech-forward with Chinese institutional investor sensibility — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"GPT-5.5\" (large, headline), \"奥特曼\" (presenter name, secondary), \"Sam Altman\" (English name, tertiary)\nConstraints: must preserve 16:9 slide format, must feel appropriate for a China domestic LP/GP fundraising roadshow context\nAvoid: must avoid overly Western Silicon Valley casual aesthetics; must avoid cluttered or consumer-facing design",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/61e1da18-ab62-4fea-85b6-4443fe84ce0e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing PPT cover slide for a domestic China fundraising roadshow, featuring the GPT-5.5 launch announcement with Sam Altman as the presenter.\\n\\nStyle/medium: needs a \\\"国内路演\\\" (China domestic roadshow) aesthetic with \\\"GP调性\\\" (general partner / institutional investor tone) — exact stylistic execution is yours\\nComposition: must be a single landscape slide cover layout, presenter name and title prominently placed, headline centered\\nSubject: must include GPT-5.5 launch as the central theme, Sam Altman as named presenter\\nScene/backdrop: needs a high-tech, institutional-grade backdrop — exact visual treatment is yours\\nLighting/mood: needs a confident, authoritative atmosphere suited to institutional fundraising — exact light source mix is yours\\nColor palette: needs a direction that balances tech-forward with Chinese institutional investor sensibility — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT-5.5\\\" (large, headline), \\\"奥特曼\\\" (presenter name, secondary), \\\"Sam Altman\\\" (English name, tertiary)\\nConstraints: must preserve 16:9 slide format, must feel appropriate for a China domestic LP/GP fundraising roadshow context\\nAvoid: must avoid overly Western Silicon Valley casual aesthetics; must avoid cluttered or consumer-facing design\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10021
+}

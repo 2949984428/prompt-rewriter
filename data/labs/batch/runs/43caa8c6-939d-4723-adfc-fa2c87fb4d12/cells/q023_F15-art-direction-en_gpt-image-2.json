@@ -1,0 +1,19 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing single large knowledge card illustration for children about the story of 赤壁之战 (Battle of Red Cliffs) from 三国.\n\nStyle/medium: needs a children's cartoon / illustrated storybook aesthetic — exact stylistic execution is yours\nComposition: must be a single large card layout with a clear title at top, key story bullet points listed with labels on the side, and a cartoon narrative scene as the main visual body\nSubject: must include the 赤壁之战 story from 三国, depicted through cartoon characters and scene\nScene/backdrop: must include the 赤壁 river battle setting rendered in cartoon style\nLighting/mood: needs a lively, engaging atmosphere suited for children — exact mood execution is yours\nColor palette: needs a bright, child-friendly direction — exact colors are yours\nMaterials/textures: \nText (verbatim): must include title \"赤壁之战\" (large, prominent, at top); must include key story bullet points listed with numbered or labeled markers on the side panel (content: story highlights of 赤壁之战 in child-friendly Chinese)\nConstraints: must preserve single-card format; title clearly visible; bullet-point key facts panel clearly separated from the main cartoon illustration\nAvoid: ",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Invalid size '1152x1536'. Supported sizes are 1024x1024, 1024x1536, 1536x1024, and auto.\",\"error_code\":\"API_PARAM_VALIDATION_FAILED\",\"provider_error_code\":\"invalid_value\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing single large knowledge card illustration for children about the story of 赤壁之战 (Battle of Red Cliffs) from 三国.\\n\\nStyle/medium: needs a children's cartoon / illustrated storybook aesthetic — exact stylistic execution is yours\\nComposition: must be a single large card layout with a clear title at top, key story bullet points listed with labels on the side, and a cartoon narrative scene as the main visual body\\nSubject: must include the 赤壁之战 story from 三国, depicted through cartoon characters and scene\\nScene/backdrop: must include the 赤壁 river battle setting rendered in cartoon style\\nLighting/mood: needs a lively, engaging atmosphere suited for children — exact mood execution is yours\\nColor palette: needs a bright, child-friendly direction — exact colors are yours\\nMaterials/textures: \\nText (verbatim): must include title \\\"赤壁之战\\\" (large, prominent, at top); must include key story bullet points listed with numbered or labeled markers on the side panel (content: story highlights of 赤壁之战 in child-friendly Chinese)\\nConstraints: must preserve single-card format; title clearly visible; bullet-point key facts panel clearly separated from the main cartoon illustration\\nAvoid: \", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8590
+}

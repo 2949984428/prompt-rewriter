@@ -1,0 +1,20 @@
+{
+  "query_idx": 32,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing surrealist dreamscape illustration with philosophical weight and visual impact.\n\nStyle/medium: needs a 超现实主义 surrealist aesthetic — exact stylistic execution is yours\nComposition: needs a grand, multi-layered vertical dreamscape composition — exact framing and spatial arrangement are yours\nSubject: must include all of the following surrealist elements:\n  - a colossal moon rising from the ocean surface\n  - whales flying through the sky\n  - melting clocks\n  - a staircase ascending into the clouds\nScene/backdrop: must include an ocean surface as the base plane, with sky and clouds extending upward\nLighting/mood: needs a philosophical, otherworldly dream atmosphere — exact light quality and mood treatment are yours\nColor palette: needs a direction evoking dreamlike depth and visual tension — exact hues and tonal ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e416a1d9-7d80-4c26-bd03-647e98c04fff/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing surrealist dreamscape illustration with philosophical weight and visual impact.\\n\\nStyle/medium: needs a 超现实主义 surrealist aesthetic — exact stylistic execution is yours\\nComposition: needs a grand, multi-layered vertical dreamscape composition — exact framing and spatial arrangement are yours\\nSubject: must include all of the following surrealist elements:\\n  - a colossal moon rising from the ocean surface\\n  - whales flying through the sky\\n  - melting clocks\\n  - a staircase ascending into the clouds\\nScene/backdrop: must include an ocean surface as the base plane, with sky and clouds extending upward\\nLighting/mood: needs a philosophical, otherworldly dream atmosphere — exact light quality and mood treatment are yours\\nColor palette: needs a direction evoking dreamlike depth and visual tension — exact hues and tonal ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8088
+}

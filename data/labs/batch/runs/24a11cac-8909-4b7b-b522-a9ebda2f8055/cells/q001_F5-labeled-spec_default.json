@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic concept art / editorial illustration, wide landscape\nPrimary request: cyberpunk futuristic cityscape at night with flying cars, acid rain, and neon-lit reflections on wet ground\nScene/backdrop: dense futuristic megacity at night, towering skyscrapers packed tightly, acid rain falling from a heavy overcast sky, puddles and flooded streets reflecting neon signs\nSubject: sprawling cyberpunk city — massive high-rise buildings covered in holographic billboards and neon signage, multiple flying cars streaking through the air between buildings, rain-soaked ground with vivid light reflections\nStyle/medium: digital concept art, photorealistic rendering, cyberpunk aesthetic\nComposition/framing: wide establishing shot, slight low-angle looking up into the city canyon, deep perspective drawing the eye into the glowing skyline\nLighting/mood: harsh neon glow from countless signs and advertisements, flickering blue and violet light, moody and decadent atmosphere, rain streaks catching light mid-air\nColor palette: dominant blue and purple tones, electric violet neon accents, deep indigo shadows, occasional magenta and cyan highlights\nMaterials/textures: wet reflective asphalt with mirror-like puddles, glass and steel skyscraper facades, glowing neon tubes, rain-streaked windows\nConstraints: maintain blue-purple dominant color grading throughout; flying cars must be clearly visible mid-air between buildings; acid rain and puddle reflections must be prominent\nAvoid: warm golden tones, daytime lighting, clean dry streets, retro-futurism without grit",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/768c4909-a1f3-4dc9-a2cf-35d254d4fcd0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic concept art / editorial illustration, wide landscape\\nPrimary request: cyberpunk futuristic cityscape at night with flying cars, acid rain, and neon-lit reflections on wet ground\\nScene/backdrop: dense futuristic megacity at night, towering skyscrapers packed tightly, acid rain falling from a heavy overcast sky, puddles and flooded streets reflecting neon signs\\nSubject: sprawling cyberpunk city — massive high-rise buildings covered in holographic billboards and neon signage, multiple flying cars streaking through the air between buildings, rain-soaked ground with vivid light reflections\\nStyle/medium: digital concept art, photorealistic rendering, cyberpunk aesthetic\\nComposition/framing: wide establishing shot, slight low-angle looking up into the city canyon, deep perspective drawing the eye into the glowing skyline\\nLighting/mood: harsh neon glow from countless signs and advertisements, flickering blue and violet light, moody and decadent atmosphere, rain streaks catching light mid-air\\nColor palette: dominant blue and purple tones, electric violet neon accents, deep indigo shadows, occasional magenta and cyan highlights\\nMaterials/textures: wet reflective asphalt with mirror-like puddles, glass and steel skyscraper facades, glowing neon tubes, rain-streaked windows\\nConstraints: maintain blue-purple dominant color grading throughout; flying cars must be clearly visible mid-air between buildings; acid rain and puddle reflections must be prominent\\nAvoid: warm golden tones, daytime lighting, clean dry streets, retro-futurism without grit\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11732
+}

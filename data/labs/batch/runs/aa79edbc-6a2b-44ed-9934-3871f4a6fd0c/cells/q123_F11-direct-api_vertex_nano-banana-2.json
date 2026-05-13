@@ -1,0 +1,23 @@
+{
+  "query_idx": 123,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:微信图片_20260330190424_10_3] 阿里巴巴国际站香水瓶套图，四张，注意瓶身材质保持不变",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A74cbaeeb-27fe-457d-9a64-38df8eb1d10a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:微信图片_20260330190424_10_3] 阿里巴巴国际站香水瓶套图，四张，注意瓶身材质保持不变\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2848,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

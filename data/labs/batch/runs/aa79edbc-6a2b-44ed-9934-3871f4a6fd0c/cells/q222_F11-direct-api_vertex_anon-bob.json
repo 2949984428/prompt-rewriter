@@ -1,0 +1,23 @@
+{
+  "query_idx": 222,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张instagram健身博主照片，身穿健身黑色短款上衣，和健身长裤，在家对镜自拍，健身身材，腰细腿长，训练痕迹明显，简约利落金色发型，家中背景极简有设计感。图片比例9:16竖图，iphone16promax拍摄。",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2445efa3-6eb3-428a-af52-7ff233d61f1b/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张instagram健身博主照片，身穿健身黑色短款上衣，和健身长裤，在家对镜自拍，健身身材，腰细腿长，训练痕迹明显，简约利落金色发型，家中背景极简有设计感。图片比例9:16竖图，iphone16promax拍摄。\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3328,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

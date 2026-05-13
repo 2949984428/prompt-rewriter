@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial street portrait photograph set in 1990s Hong Kong.\n\nStyle/medium: needs a \"复古胶片\" aesthetic — references in the spirit of 1990s Hong Kong cinema (Wong Kar-wai's Chungking Express), Japanese film photography (Nobuyoshi Araki's night street work), 35mm Kodak film palette; exact stylistic execution is yours\nComposition: must include a young woman leaning against a neon sign as the focal subject\nSubject: must include a young woman wearing a denim jacket\nScene/backdrop: must include 1990s Hong Kong street at night with neon signage\nLighting/mood: needs a hazy night atmosphere with nostalgic mood — exact light source mix is yours\nColor palette: needs a warm direction with film grain texture — exact hex values and ratios are yours\nMaterials/textures: needs a film grain surface treatment — exact grain level is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/32e1767d-b705-4405-84f8-214d2ad541bd/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial street portrait photograph set in 1990s Hong Kong.\\n\\nStyle/medium: needs a \\\"复古胶片\\\" aesthetic — references in the spirit of 1990s Hong Kong cinema (Wong Kar-wai's Chungking Express), Japanese film photography (Nobuyoshi Araki's night street work), 35mm Kodak film palette; exact stylistic execution is yours\\nComposition: must include a young woman leaning against a neon sign as the focal subject\\nSubject: must include a young woman wearing a denim jacket\\nScene/backdrop: must include 1990s Hong Kong street at night with neon signage\\nLighting/mood: needs a hazy night atmosphere with nostalgic mood — exact light source mix is yours\\nColor palette: needs a warm direction with film grain texture — exact hex values and ratios are yours\\nMaterials/textures: needs a film grain surface treatment — exact grain level is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9987
+}

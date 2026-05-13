@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing character illustration for a Chinese fantasy game, depicting a Hanfu-clad woman playing the guqin in a bamboo grove.\n\nStyle/medium: Chinese fantasy game character splash art, ethereal xianxia aesthetic with painterly brushwork reminiscent of ancient Chinese scroll painting\nSubject: elegant Hanfu-clad woman seated playing the guqin (Chinese zither), flowing wide sleeves caught mid-movement, serene expression, long flowing hair, graceful posture\nComposition: medium shot with slight low angle, figure centered with guqin on lap, dynamic diagonal flow of sleeves and hair\nScene/backdrop: dense bamboo grove at night, tall bamboo stalks creating vertical rhythm, dappled moonlight filtering through layered leaves\nLighting/mood: soft diffused moonlight from above creating dappled shadows on ground and figure, gentle ethereal glow, mysterious and transcendent atmosphere\nColor palette: cool jade greens and deep forest blues for bamboo, warm ivory and pale blue for Hanfu, silvery moonlight accents\nMaterials/textures: silk Hanfu fabric with subtle sheen, smooth bamboo surfaces, polished wooden guqin, delicate hair strands\nAvoid: modern clothing, anachronistic elements, harsh shadows, cluttered composition, generic anime style, photorealistic rendering",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/44374724-d2b1-4338-bf2a-26f44b07efd7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing character illustration for a Chinese fantasy game, depicting a Hanfu-clad woman playing the guqin in a bamboo grove.\\n\\nStyle/medium: Chinese fantasy game character splash art, ethereal xianxia aesthetic with painterly brushwork reminiscent of ancient Chinese scroll painting\\nSubject: elegant Hanfu-clad woman seated playing the guqin (Chinese zither), flowing wide sleeves caught mid-movement, serene expression, long flowing hair, graceful posture\\nComposition: medium shot with slight low angle, figure centered with guqin on lap, dynamic diagonal flow of sleeves and hair\\nScene/backdrop: dense bamboo grove at night, tall bamboo stalks creating vertical rhythm, dappled moonlight filtering through layered leaves\\nLighting/mood: soft diffused moonlight from above creating dappled shadows on ground and figure, gentle ethereal glow, mysterious and transcendent atmosphere\\nColor palette: cool jade greens and deep forest blues for bamboo, warm ivory and pale blue for Hanfu, silvery moonlight accents\\nMaterials/textures: silk Hanfu fabric with subtle sheen, smooth bamboo surfaces, polished wooden guqin, delicate hair strands\\nAvoid: modern clothing, anachronistic elements, harsh shadows, cluttered composition, generic anime style, photorealistic rendering\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10949
+}

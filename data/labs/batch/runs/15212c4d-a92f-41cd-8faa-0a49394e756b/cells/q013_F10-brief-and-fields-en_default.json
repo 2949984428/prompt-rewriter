@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a gaming monitor launch, designed for vertical short-video cover use.\n\nStyle/medium: minimalist high-end graphic design, Swiss-style typography, clean sans-serif aesthetic\nComposition: rule of thirds, large bold headline occupying upper two-thirds, product visual in lower third, centered alignment\nSubject: gaming monitor product hero shot with sleek bezel-less design, subtle RGB accent glow\nScene/backdrop: pure dark gradient background from charcoal to black, no distracting elements\nLighting/mood: soft studio lighting on product, subtle rim light, premium and sophisticated atmosphere\nColor palette: deep black background, electric blue or cyan accent, high-contrast white text\nText (verbatim): \"8k GGU 电竞显示器 1000hz\" as main headline, \"全球首发全新面板 低延迟 完美色彩\" as supporting tagline\nConstraints: vertical 9:16 aspect ratio optimized for mobile screens; headline must dominate visual hierarchy; maximum readability at thumbnail size\nAvoid: cluttered layouts, multiple font families, gradient text effects, stock photo aesthetics, decorative flourishes, generic gaming clichés like fire or lightning",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f30cc1e4-f1bd-4421-a6fb-50e06ff593c7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a gaming monitor launch, designed for vertical short-video cover use.\\n\\nStyle/medium: minimalist high-end graphic design, Swiss-style typography, clean sans-serif aesthetic\\nComposition: rule of thirds, large bold headline occupying upper two-thirds, product visual in lower third, centered alignment\\nSubject: gaming monitor product hero shot with sleek bezel-less design, subtle RGB accent glow\\nScene/backdrop: pure dark gradient background from charcoal to black, no distracting elements\\nLighting/mood: soft studio lighting on product, subtle rim light, premium and sophisticated atmosphere\\nColor palette: deep black background, electric blue or cyan accent, high-contrast white text\\nText (verbatim): \\\"8k GGU 电竞显示器 1000hz\\\" as main headline, \\\"全球首发全新面板 低延迟 完美色彩\\\" as supporting tagline\\nConstraints: vertical 9:16 aspect ratio optimized for mobile screens; headline must dominate visual hierarchy; maximum readability at thumbnail size\\nAvoid: cluttered layouts, multiple font families, gradient text effects, stock photo aesthetics, decorative flourishes, generic gaming clichés like fire or lightning\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10923
+}

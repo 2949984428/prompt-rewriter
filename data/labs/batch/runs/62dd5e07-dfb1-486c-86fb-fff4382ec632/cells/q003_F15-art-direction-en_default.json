@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing social media avatar for a content creator focused on new energy vehicles, consumer electronics, and lifestyle products.\n\nStyle/medium: needs a clean, modern, universally approachable avatar aesthetic — exact stylistic execution is yours\nComposition: must be a square avatar format with a clear focal center, legible at small sizes\nSubject: must include visual references to new energy vehicles, digital/tech products, and everyday lifestyle goods — all three themes represented in a balanced, harmonious way\nScene/backdrop: \nLighting/mood: needs a friendly, approachable atmosphere — exact mood execution is yours\nColor palette: needs a direction that feels globally neutral and culturally safe — exact palette is yours\nMaterials/textures: \nText (verbatim): \nConstraints: must be culturally neutral and inoffensive across both Chinese and international social platforms; must avoid any symbols, gestures, colors, or imagery that carry negative connotations in any major culture; must work visually at small avatar sizes\nAvoid: must avoid religious symbols, political imagery, human faces or figures that could be misread, and any culturally sensitive color combinations (e.g., pure white-only or pure black-only backgrounds with certain symbol pairings)",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/92ce5dbb-83e2-4dd4-88d5-798c6cc0eeeb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing social media avatar for a content creator focused on new energy vehicles, consumer electronics, and lifestyle products.\\n\\nStyle/medium: needs a clean, modern, universally approachable avatar aesthetic — exact stylistic execution is yours\\nComposition: must be a square avatar format with a clear focal center, legible at small sizes\\nSubject: must include visual references to new energy vehicles, digital/tech products, and everyday lifestyle goods — all three themes represented in a balanced, harmonious way\\nScene/backdrop: \\nLighting/mood: needs a friendly, approachable atmosphere — exact mood execution is yours\\nColor palette: needs a direction that feels globally neutral and culturally safe — exact palette is yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must be culturally neutral and inoffensive across both Chinese and international social platforms; must avoid any symbols, gestures, colors, or imagery that carry negative connotations in any major culture; must work visually at small avatar sizes\\nAvoid: must avoid religious symbols, political imagery, human faces or figures that could be misread, and any culturally sensitive color combinations (e.g., pure white-only or pure black-only backgrounds with certain symbol pairings)\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8874
+}

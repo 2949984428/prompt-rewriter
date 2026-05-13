@@ -1,0 +1,23 @@
+{
+  "query_idx": 296,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Facebook social media promotion post. Use this website as a reference [@image:#1:logo]https://khalilsamara.github.io/comfort-time-center/en/index.html",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9a455489-b43b-47e3-832d-4f4498eb6685/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a Facebook social media promotion post. Use this website as a reference [@image:#1:logo]https://khalilsamara.github.io/comfort-time-center/en/index.html\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3787,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

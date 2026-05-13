@@ -1,0 +1,20 @@
+{
+  "query_idx": 29,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original illustration of a dreamy fairy-tale underwater world featuring a mermaid gliding through coral reefs.\n\nStyle/medium: digital illustration, fairy-tale storybook style with painterly brushwork, soft dreamlike rendering reminiscent of Lorelay Bove concept art\nComposition: wide mid-depth underwater scene, gentle diagonal light rays descending from the surface, mermaid positioned center-left amid coral formations, sunken shipwreck treasure in the lower-right background\nSubject: graceful mermaid with flowing hair and iridescent tail weaving between vibrant coral reefs; glowing bioluminescent jellyfish drifting around her; scattered treasure chest and gold coins spilling from a mossy sunken shipwreck\nScene/backdrop: deep ocean interior, coral reef ecosystem with layered depth, distant dark blue abyss fading behind the scene\nLighting/mood: warm golden light shafts piercing down from the ocean surface, mixing with cool deep-sea blue; soft bioluminescent glow from jellyfish; magical, wonder-filled, dreamlike atmosphere\nColor palette: deep sapphire and teal as the dominant base, warm golden light shafts as contrast, vivid coral pinks and purples as mid-ground accents, soft aquamarine glow from jellyfish\nMaterials/textures: translucent jellyfish membranes with inner glow, iridescent fish-scale texture on mermaid tail, barnacle-encrusted ship timbers, soft coral polyp surfaces\nAvoid: photorealistic rendering, dark horror aesthetic, anatomically clinical depiction, watermark, generic anime flat style",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7261b5b0-c4ae-416b-bea3-0b90636ee26d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original illustration of a dreamy fairy-tale underwater world featuring a mermaid gliding through coral reefs.\\n\\nStyle/medium: digital illustration, fairy-tale storybook style with painterly brushwork, soft dreamlike rendering reminiscent of Lorelay Bove concept art\\nComposition: wide mid-depth underwater scene, gentle diagonal light rays descending from the surface, mermaid positioned center-left amid coral formations, sunken shipwreck treasure in the lower-right background\\nSubject: graceful mermaid with flowing hair and iridescent tail weaving between vibrant coral reefs; glowing bioluminescent jellyfish drifting around her; scattered treasure chest and gold coins spilling from a mossy sunken shipwreck\\nScene/backdrop: deep ocean interior, coral reef ecosystem with layered depth, distant dark blue abyss fading behind the scene\\nLighting/mood: warm golden light shafts piercing down from the ocean surface, mixing with cool deep-sea blue; soft bioluminescent glow from jellyfish; magical, wonder-filled, dreamlike atmosphere\\nColor palette: deep sapphire and teal as the dominant base, warm golden light shafts as contrast, vivid coral pinks and purples as mid-ground accents, soft aquamarine glow from jellyfish\\nMaterials/textures: translucent jellyfish membranes with inner glow, iridescent fish-scale texture on mermaid tail, barnacle-encrusted ship timbers, soft coral polyp surfaces\\nAvoid: photorealistic rendering, dark horror aesthetic, anatomically clinical depiction, watermark, generic anime flat style\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17482
+}

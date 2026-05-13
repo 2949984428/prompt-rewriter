@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: documentary street photography, landscape orientation\nPrimary request: Ganges River morning bathing ritual in Varanasi, India — devout pilgrims performing holy bath at dawn\nScene/backdrop: Varanasi ghats along the Ganges River at sunrise, morning mist hovering over the water, wooden boats silhouetted in the haze\nSubject: devout Hindu pilgrims wading into the sacred Ganges, draped in colorful wet saris and dhotis, hands clasped in prayer, faces expressing deep reverence and devotion\nStyle/medium: documentary photojournalism, 35mm film photography, photorealistic\nComposition/framing: wide establishing shot with layered depth — foreground pilgrims in water, midground boats in mist, background temple spires; slight low angle, 35mm lens\nLighting/mood: warm golden sunrise light breaking through soft morning fog, long raking shadows, spiritual and contemplative atmosphere, hazy diffused glow over the river\nColor palette: warm amber and gold sunlight, soft grey-blue morning mist, deep saffron and crimson of pilgrims' garments, muted earthy tones of the ghats\nMaterials/textures: wet stone steps of the ghats, rippling river surface reflecting golden light, worn wooden boats, wet draped fabric clinging to figures\nConstraints: preserve the authentic cultural atmosphere of Varanasi; no tourists or modern intrusions; boats must be traditional wooden rowboats in the mist\nAvoid: oversaturated HDR look, posed or staged appearance, plastic skin tones, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/8875259a-3f3a-45f2-b080-2b58221cc0ea/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: documentary street photography, landscape orientation\\nPrimary request: Ganges River morning bathing ritual in Varanasi, India — devout pilgrims performing holy bath at dawn\\nScene/backdrop: Varanasi ghats along the Ganges River at sunrise, morning mist hovering over the water, wooden boats silhouetted in the haze\\nSubject: devout Hindu pilgrims wading into the sacred Ganges, draped in colorful wet saris and dhotis, hands clasped in prayer, faces expressing deep reverence and devotion\\nStyle/medium: documentary photojournalism, 35mm film photography, photorealistic\\nComposition/framing: wide establishing shot with layered depth — foreground pilgrims in water, midground boats in mist, background temple spires; slight low angle, 35mm lens\\nLighting/mood: warm golden sunrise light breaking through soft morning fog, long raking shadows, spiritual and contemplative atmosphere, hazy diffused glow over the river\\nColor palette: warm amber and gold sunlight, soft grey-blue morning mist, deep saffron and crimson of pilgrims' garments, muted earthy tones of the ghats\\nMaterials/textures: wet stone steps of the ghats, rippling river surface reflecting golden light, worn wooden boats, wet draped fabric clinging to figures\\nConstraints: preserve the authentic cultural atmosphere of Varanasi; no tourists or modern intrusions; boats must be traditional wooden rowboats in the mist\\nAvoid: oversaturated HDR look, posed or staged appearance, plastic skin tones, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 12041
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 308,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑参考图 #1。\n\n风格/媒介:\n构图:\n主体:保持原图主体自然不变，保留所有原始细节与色彩\n场景/背景:\n光线/氛围:\n  柔和、均衡的光线\n  添加细腻优雅的阴影与轻微景深感\n色彩方案:保留原始色彩，调整亮度与对比度使画面干净清爽\n材质/纹理:提升清晰度与细节精细度\n文字(原样):\n约束:\n  Instagram 竖版比例（4:5）\n  主体与构图保持不变\n避免:改变主体外观、替换原始色彩、过度处理",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A96b00afb-57a3-4585-a6bd-03a9c5996462/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑参考图 #1。\\n\\n风格/媒介:\\n构图:\\n主体:保持原图主体自然不变，保留所有原始细节与色彩\\n场景/背景:\\n光线/氛围:\\n  柔和、均衡的光线\\n  添加细腻优雅的阴影与轻微景深感\\n色彩方案:保留原始色彩，调整亮度与对比度使画面干净清爽\\n材质/纹理:提升清晰度与细节精细度\\n文字(原样):\\n约束:\\n  Instagram 竖版比例（4:5）\\n  主体与构图保持不变\\n避免:改变主体外观、替换原始色彩、过度处理\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 32562,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

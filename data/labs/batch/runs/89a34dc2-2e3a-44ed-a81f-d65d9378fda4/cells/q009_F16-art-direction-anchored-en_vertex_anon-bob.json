@@ -1,0 +1,23 @@
+{
+  "query_idx": 9,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑图1的矢量 logo。\n\n风格/媒介:纯黑色矢量 logo\n构图:\n主体:\n  将图1 logo 中马和人物的动作，完全替换为图2的动作造型\n  马的四肢姿态与图2完全一致\n  马的尾巴姿态与图2完全一致\n  人物打球姿势与图2完全一致\n  球杆位置与图2完全一致\n  握紧球杆的手的姿态与图2完全一致\n场景/背景:\n光线/氛围:\n色彩方案:纯黑色\n材质/纹理:矢量风格，无渐变，无纹理\n文字(原样):\n约束:\n  以图1为编辑基础\n  以图2的动作造型为参考，动作还原无破绽\n  保持矢量 logo 整体风格不变\n避免:写实风格、渐变色、多余颜色、非矢量笔触",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A55203c5e-13b9-4748-818a-159f2df2b18c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑图1的矢量 logo。\\n\\n风格/媒介:纯黑色矢量 logo\\n构图:\\n主体:\\n  将图1 logo 中马和人物的动作，完全替换为图2的动作造型\\n  马的四肢姿态与图2完全一致\\n  马的尾巴姿态与图2完全一致\\n  人物打球姿势与图2完全一致\\n  球杆位置与图2完全一致\\n  握紧球杆的手的姿态与图2完全一致\\n场景/背景:\\n光线/氛围:\\n色彩方案:纯黑色\\n材质/纹理:矢量风格，无渐变，无纹理\\n文字(原样):\\n约束:\\n  以图1为编辑基础\\n  以图2的动作造型为参考，动作还原无破绽\\n  保持矢量 logo 整体风格不变\\n避免:写实风格、渐变色、多余颜色、非矢量笔触\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8508,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,24 @@
+{
+  "query_idx": 82,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "这是我们公司的 Logo [@image:#1:Vintage™][@image:#2:字母R]，基于这个 Logo 创建一套品牌的VI以及周边应用，包含ppt模版",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5d4584d2-5060-4a81-a111-ec2a18467f19/0.png",
+    "/api/image-file/lovart%3A5d4584d2-5060-4a81-a111-ec2a18467f19/1.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"这是我们公司的 Logo [@image:#1:Vintage™][@image:#2:字母R]，基于这个 Logo 创建一套品牌的VI以及周边应用，包含ppt模版\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3429,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: lifestyle product shot, placed on a TV console cabinet in a living room\nPrimary request: place the reference product on a cabinet beneath a home TV feature wall, with focus on the product, blending naturally into the scene without standing out awkwardly\nScene/backdrop: modern home living room, TV accent wall background, low TV console cabinet surface, softly blurred background\nSubject: the reference product sitting on the TV cabinet surface, centered and prominent\nStyle/medium: photorealistic lifestyle photography\nComposition/framing: eye-level medium close-up, shallow depth of field, product as focal point\nLighting/mood: warm ambient indoor lighting, soft and natural, calm domestic atmosphere\nColor palette: neutral warm tones — off-white, wood grain, muted greys consistent with a modern living room\nMaterials/textures: smooth cabinet surface, subtle wood grain texture, soft background bokeh\nConstraints: product must remain the clear focal point; background elements (TV wall, cabinet) serve only as context and must not compete visually; product placement must look natural and unforced\nAvoid: overly staged or artificial placement, harsh shadows, cluttered background, product looking \"pasted on\"",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/28481379-c239-4753-9c01-d038bb077822/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: lifestyle product shot, placed on a TV console cabinet in a living room\\nPrimary request: place the reference product on a cabinet beneath a home TV feature wall, with focus on the product, blending naturally into the scene without standing out awkwardly\\nScene/backdrop: modern home living room, TV accent wall background, low TV console cabinet surface, softly blurred background\\nSubject: the reference product sitting on the TV cabinet surface, centered and prominent\\nStyle/medium: photorealistic lifestyle photography\\nComposition/framing: eye-level medium close-up, shallow depth of field, product as focal point\\nLighting/mood: warm ambient indoor lighting, soft and natural, calm domestic atmosphere\\nColor palette: neutral warm tones — off-white, wood grain, muted greys consistent with a modern living room\\nMaterials/textures: smooth cabinet surface, subtle wood grain texture, soft background bokeh\\nConstraints: product must remain the clear focal point; background elements (TV wall, cabinet) serve only as context and must not compete visually; product placement must look natural and unforced\\nAvoid: overly staged or artificial placement, harsh shadows, cluttered background, product looking \\\"pasted on\\\"\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 25430
+}

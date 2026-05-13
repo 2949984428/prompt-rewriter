@@ -1,0 +1,23 @@
+{
+  "query_idx": 101,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image]参考画风，帮我设计一个游泳圈造型的logo",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1c9719c6-ccdd-4dfd-bd17-ccc17d632348/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:image]参考画风，帮我设计一个游泳圈造型的logo\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2833,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

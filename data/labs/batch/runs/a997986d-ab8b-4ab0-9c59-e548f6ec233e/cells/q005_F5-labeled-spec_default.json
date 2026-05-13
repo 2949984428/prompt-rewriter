@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: high-end fashion editorial, commercial photography\nPrimary request: minimalist fashion editorial of a model wearing a structured white gown in a seamless white studio\nScene/backdrop: seamless white cyclorama studio, pure white paper backdrop, no props or distractions\nSubject: elegant female model standing in 45-degree profile, chin slightly lifted, fierce confident gaze, wearing architectural white structural gown with exaggerated shoulder construction, cinched waist, A-line skirt\nStyle/medium: commercial fashion photography, Helmut Newton aesthetic reference, high contrast, sharp and crisp\nComposition/framing: medium shot, 45-degree angle pose, clean negative space around subject\nLighting/mood: butterfly lighting setup, key light from 45-degree overhead, strong highlight and shadow contrast, sculptural dimensionality\nColor palette: monochromatic black-white-gray, deep crimson red lips as sole accent\nMaterials/textures: crisp architectural fabric with structural folds, matte white surface, sharp tailoring\nConstraints: preserve the dramatic shoulder silhouette and A-line skirt structure, maintain Helmut Newton high-contrast aesthetic\nAvoid: soft lighting, pastel colors, cluttered background, warm tones, deformed hands, plastic skin texture",
+    "size": "1536x1152",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/32422bcf-c61d-4131-acc8-ec4546fa02b1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: high-end fashion editorial, commercial photography\\nPrimary request: minimalist fashion editorial of a model wearing a structured white gown in a seamless white studio\\nScene/backdrop: seamless white cyclorama studio, pure white paper backdrop, no props or distractions\\nSubject: elegant female model standing in 45-degree profile, chin slightly lifted, fierce confident gaze, wearing architectural white structural gown with exaggerated shoulder construction, cinched waist, A-line skirt\\nStyle/medium: commercial fashion photography, Helmut Newton aesthetic reference, high contrast, sharp and crisp\\nComposition/framing: medium shot, 45-degree angle pose, clean negative space around subject\\nLighting/mood: butterfly lighting setup, key light from 45-degree overhead, strong highlight and shadow contrast, sculptural dimensionality\\nColor palette: monochromatic black-white-gray, deep crimson red lips as sole accent\\nMaterials/textures: crisp architectural fabric with structural folds, matte white surface, sharp tailoring\\nConstraints: preserve the dramatic shoulder silhouette and A-line skirt structure, maintain Helmut Newton high-contrast aesthetic\\nAvoid: soft lighting, pastel colors, cluttered background, warm tones, deformed hands, plastic skin texture\", \"size\": \"1536x1152\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11957
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a comprehensive UI design system in a classic minimalist tech style, including web Dashboard, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\nComposition: must include web Dashboard, mobile interface, cards, buttons, and controls as system components\nSubject: must include the UI design system components (Dashboard, mobile screens, cards, buttons, controls)\nScene/backdrop: \nLighting/mood: needs a cool, futuristic tech atmosphere — exact light source mix is yours\nColor palette: needs a tech-forward direction — exact hex values and ratios are yours\nMaterials/textures: needs a layered, depth-rich surface treatment — exact material choices are yours\nText (verbatim): \nConstraints: must preserve visual hierarchy and component consistency across the system\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/53e085bc-f36a-4d67-b057-b8d076cc69c3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a comprehensive UI design system in a classic minimalist tech style, including web Dashboard, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: needs a classic minimalist tech aesthetic — exact stylistic execution is yours\\nComposition: must include web Dashboard, mobile interface, cards, buttons, and controls as system components\\nSubject: must include the UI design system components (Dashboard, mobile screens, cards, buttons, controls)\\nScene/backdrop: \\nLighting/mood: needs a cool, futuristic tech atmosphere — exact light source mix is yours\\nColor palette: needs a tech-forward direction — exact hex values and ratios are yours\\nMaterials/textures: needs a layered, depth-rich surface treatment — exact material choices are yours\\nText (verbatim): \\nConstraints: must preserve visual hierarchy and component consistency across the system\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15807
+}

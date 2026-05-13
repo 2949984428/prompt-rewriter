@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic movie poster for \"大话西游\" (A Chinese Odyssey).\n\nStyle/medium: 90s Hong Kong cinema style, film grain\nComposition: \nSubject: 至尊宝 and 紫霞 embracing and kissing on a city wall, 牛魔王 and 唐僧 standing in the distance\nScene/backdrop: ancient Chinese city wall\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 大话西游\nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/606e88bd-d688-4218-973c-013917801c94/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing cinematic movie poster for \\\"大话西游\\\" (A Chinese Odyssey).\\n\\nStyle/medium: 90s Hong Kong cinema style, film grain\\nComposition: \\nSubject: 至尊宝 and 紫霞 embracing and kissing on a city wall, 牛魔王 and 唐僧 standing in the distance\\nScene/backdrop: ancient Chinese city wall\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 大话西游\\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 5744
+}

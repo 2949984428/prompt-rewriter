@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Xiaohongshu cover image for bubble tea, targeting the platform's warm handbook tonality with aspirational lifestyle appeal.\n\nStyle/medium: lifestyle product photography with the soft-focus dreaminess of a summer daydream\nComposition: centered product shot with generous breathing room, bubble tea as the visual anchor\nSubject: pearl milk tea (bubble tea) in a clear cup, tapioca pearls visible, condensation droplets on the cup surface\nScene/backdrop: soft pink environment suggesting a sunlit afternoon, hints of summer elements like gentle breeze or dappled light\nLighting/mood: the warm honey glow of a lazy summer afternoon, soft diffused light that feels like a gentle exhale\nColor palette: warm pink and creamy white in conversation, the tender blush of a summer crush\nMaterials/textures: glossy plastic cup with condensation beads, silken milk tea gradient, chewy tapioca pearls catching light\nText (verbatim): \nConstraints: bubble tea clearly visible and appetizing, pink tones dominant, summer freshness conveyed through light and texture\nAvoid: harsh shadows, oversaturated neon pinks, cluttered composition, generic stock-photo aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/500a95f9-e9a4-433e-9e9b-966c1b862d6b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing Xiaohongshu cover image for bubble tea, targeting the platform's warm handbook tonality with aspirational lifestyle appeal.\\n\\nStyle/medium: lifestyle product photography with the soft-focus dreaminess of a summer daydream\\nComposition: centered product shot with generous breathing room, bubble tea as the visual anchor\\nSubject: pearl milk tea (bubble tea) in a clear cup, tapioca pearls visible, condensation droplets on the cup surface\\nScene/backdrop: soft pink environment suggesting a sunlit afternoon, hints of summer elements like gentle breeze or dappled light\\nLighting/mood: the warm honey glow of a lazy summer afternoon, soft diffused light that feels like a gentle exhale\\nColor palette: warm pink and creamy white in conversation, the tender blush of a summer crush\\nMaterials/textures: glossy plastic cup with condensation beads, silken milk tea gradient, chewy tapioca pearls catching light\\nText (verbatim): \\nConstraints: bubble tea clearly visible and appetizing, pink tones dominant, summer freshness conveyed through light and texture\\nAvoid: harsh shadows, oversaturated neon pinks, cluttered composition, generic stock-photo aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10691
+}

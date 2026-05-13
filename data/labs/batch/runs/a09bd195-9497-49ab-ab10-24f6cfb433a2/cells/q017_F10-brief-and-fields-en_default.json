@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original abstract expressionist artwork for contemporary gallery exhibition.\n\nStyle/medium: Abstract expressionism, bold gestural painting, inspired by Willem de Kooning and Joan Mitchell, energetic brushwork, non-representational\nComposition: dynamic asymmetrical balance, sweeping diagonal movements, layered overlapping forms, no focal point, all-over painting approach\nSubject: pure abstraction through color and gesture, emotional intensity conveyed through mark-making, no recognizable figures or objects\nScene/backdrop: raw canvas texture visible, paint drips and splatters integrated, immersive scale suggesting gallery wall presentation\nLighting/mood: dramatic contrast between saturated color fields and neutral ground, sense of spontaneous creative energy and raw emotion\nColor palette: bold clashing hues — cadmium red against ultramarine blue, hot orange with cool turquoise, yellow ochre accents, high chroma saturation\nMaterials/textures: thick impasto strokes, visible brush marks, drips and splatters, layered paint application, tactile surface quality\nConstraints: must remain entirely non-representational, no hidden figures or objects, suitable for white-cube gallery display\nAvoid: recognizable imagery, geometric precision, digital smoothness, stock art aesthetic, decorative patterns, pastel tones",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3e0a6ecd-8f7c-439a-b0d7-8e532b475a65/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original abstract expressionist artwork for contemporary gallery exhibition.\\n\\nStyle/medium: Abstract expressionism, bold gestural painting, inspired by Willem de Kooning and Joan Mitchell, energetic brushwork, non-representational\\nComposition: dynamic asymmetrical balance, sweeping diagonal movements, layered overlapping forms, no focal point, all-over painting approach\\nSubject: pure abstraction through color and gesture, emotional intensity conveyed through mark-making, no recognizable figures or objects\\nScene/backdrop: raw canvas texture visible, paint drips and splatters integrated, immersive scale suggesting gallery wall presentation\\nLighting/mood: dramatic contrast between saturated color fields and neutral ground, sense of spontaneous creative energy and raw emotion\\nColor palette: bold clashing hues — cadmium red against ultramarine blue, hot orange with cool turquoise, yellow ochre accents, high chroma saturation\\nMaterials/textures: thick impasto strokes, visible brush marks, drips and splatters, layered paint application, tactile surface quality\\nConstraints: must remain entirely non-representational, no hidden figures or objects, suitable for white-cube gallery display\\nAvoid: recognizable imagery, geometric precision, digital smoothness, stock art aesthetic, decorative patterns, pastel tones\"}",
+  "ms": 9913
+}

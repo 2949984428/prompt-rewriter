@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial cinematic still of a post-apocalyptic wasteland scene featuring a heavily modified armored vehicle in a desolate desert.\n\nStyle/medium: photorealistic wide-format cinematic still, gritty post-apocalyptic aesthetic in the spirit of Mad Max: Fury Road production design\nComposition: wide establishing shot, low horizon line, armored vehicle as mid-ground anchor, collapsed city ruins receding into the far background, slight low-angle to emphasize scale\nSubject: heavily modified armored vehicle with welded scrap-metal plating, makeshift spikes and reinforced bumpers, battle-worn surface with rust and dust coating\nScene/backdrop: vast barren desert floor cracked and dry, distant collapsed urban ruins — toppled skyscrapers and crumbling concrete silhouettes barely visible through haze\nLighting/mood: oppressive ochre-yellow sky, diffused harsh sunlight filtered through thick airborne sand and dust, tense survivalist atmosphere, no clean shadows — everything softened by particulate haze\nColor palette: dominant dirty amber and burnt sienna across sky and ground, desaturated rust-orange on the vehicle, pale grey ruins as receding value, no cool tones\nMaterials/textures: cracked desert hardpan with fine sand drifts, corroded welded metal with visible bolt heads and weld seams, dust-coated glass and rubber\nAvoid: clean or pristine vehicle surfaces, blue sky, green vegetation, soft romantic lighting, lens flare stuffer, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/71b9bbd3-f02a-4ad5-85bb-502f42d3f266/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial cinematic still of a post-apocalyptic wasteland scene featuring a heavily modified armored vehicle in a desolate desert.\\n\\nStyle/medium: photorealistic wide-format cinematic still, gritty post-apocalyptic aesthetic in the spirit of Mad Max: Fury Road production design\\nComposition: wide establishing shot, low horizon line, armored vehicle as mid-ground anchor, collapsed city ruins receding into the far background, slight low-angle to emphasize scale\\nSubject: heavily modified armored vehicle with welded scrap-metal plating, makeshift spikes and reinforced bumpers, battle-worn surface with rust and dust coating\\nScene/backdrop: vast barren desert floor cracked and dry, distant collapsed urban ruins — toppled skyscrapers and crumbling concrete silhouettes barely visible through haze\\nLighting/mood: oppressive ochre-yellow sky, diffused harsh sunlight filtered through thick airborne sand and dust, tense survivalist atmosphere, no clean shadows — everything softened by particulate haze\\nColor palette: dominant dirty amber and burnt sienna across sky and ground, desaturated rust-orange on the vehicle, pale grey ruins as receding value, no cool tones\\nMaterials/textures: cracked desert hardpan with fine sand drifts, corroded welded metal with visible bolt heads and weld seams, dust-coated glass and rubber\\nAvoid: clean or pristine vehicle surfaces, blue sky, green vegetation, soft romantic lighting, lens flare stuffer, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12292
+}

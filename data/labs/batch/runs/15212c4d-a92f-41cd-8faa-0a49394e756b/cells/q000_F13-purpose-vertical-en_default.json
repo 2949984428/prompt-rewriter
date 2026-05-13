@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Xiaohongshu cover image for bubble tea in pink girly summer style.\n\nStyle/medium: Xiaohongshu cover, pink girly aesthetic\nComposition: \nSubject: bubble tea (pearl milk tea)\nScene/backdrop: \nLighting/mood: cool summer freshness\nColor palette: pink\nMaterials/textures: \nText (verbatim): \nConstraints: designed for Xiaohongshu cover format\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/15820fd1-bb02-4290-95db-334a6ff5c946/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a Xiaohongshu cover image for bubble tea in pink girly summer style.\\n\\nStyle/medium: Xiaohongshu cover, pink girly aesthetic\\nComposition: \\nSubject: bubble tea (pearl milk tea)\\nScene/backdrop: \\nLighting/mood: cool summer freshness\\nColor palette: pink\\nMaterials/textures: \\nText (verbatim): \\nConstraints: designed for Xiaohongshu cover format\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 6072
+}

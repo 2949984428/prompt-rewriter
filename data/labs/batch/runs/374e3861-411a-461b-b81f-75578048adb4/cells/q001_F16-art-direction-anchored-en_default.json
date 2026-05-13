@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an illustration of a futuristic cyberpunk cityscape at night.\n\nStyle/medium: needs a \"赛博朋克\" aesthetic — references in the spirit of Blade Runner film cinematography, Akira anime neo-Tokyo cityscapes, Ghost in the Shell urban environments; exact stylistic execution is yours\nComposition: must include towering skyscrapers as vertical elements, flying vehicles in mid-air motion\nSubject: must include flying vehicles穿梭 among buildings, rain falling from sky, puddles on ground reflecting lights\nScene/backdrop: must include a dense futuristic city at night with towering high-rise buildings, neon lights闪烁 throughout\nLighting/mood: needs a neon-lit night atmosphere with a sense of technological advancement and urban decay — exact light source mix is yours\nColor palette: must be blue-purple dominant direction — exact hex values and ratios are yours\nMaterials/textures: needs a wet reflective surface treatment for ground puddles — exact sheen and water texture is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d14f2fa9-43b9-46c9-8008-e352e98ca292/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an illustration of a futuristic cyberpunk cityscape at night.\\n\\nStyle/medium: needs a \\\"赛博朋克\\\" aesthetic — references in the spirit of Blade Runner film cinematography, Akira anime neo-Tokyo cityscapes, Ghost in the Shell urban environments; exact stylistic execution is yours\\nComposition: must include towering skyscrapers as vertical elements, flying vehicles in mid-air motion\\nSubject: must include flying vehicles穿梭 among buildings, rain falling from sky, puddles on ground reflecting lights\\nScene/backdrop: must include a dense futuristic city at night with towering high-rise buildings, neon lights闪烁 throughout\\nLighting/mood: needs a neon-lit night atmosphere with a sense of technological advancement and urban decay — exact light source mix is yours\\nColor palette: must be blue-purple dominant direction — exact hex values and ratios are yours\\nMaterials/textures: needs a wet reflective surface treatment for ground puddles — exact sheen and water texture is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14709
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing infographic explaining the definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, and CLI.\n\nStyle/medium: hand-drawn infographic style, sketch-like illustrations with clean typography, educational diagram aesthetic, whiteboard marker look with light watercolor washes\nSubject: central diagram showing 7 tech concepts (AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, CLI) with connecting arrows and relationship labels, icons for each concept\nComposition: vertical flowchart layout, top-down hierarchy with AI at the top, clear visual grouping, generous whitespace between sections\nColor palette: warm accent colors for different concept groups (blues for AI/Agent, greens for MCP/OpenClaw, oranges for Skill/distillation), black ink lines on off-white background\nText (verbatim): \"AI\", \"MCP\", \"AI Agent\", \"OpenClaw\", \"AI Skill\", \"蒸馏\", \"CLI\"\nConstraints: must be readable at small sizes; simplified icons must convey meaning without text; relationship arrows must be unambiguous\nAvoid: photorealistic rendering; complex 3D elements; cluttered overlapping text; gradients that reduce clarity; generic stock illustration style",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dcc851f3-1c31-4106-b4bc-ea9a5acf946b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing infographic explaining the definitions and relationships between AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, and CLI.\\n\\nStyle/medium: hand-drawn infographic style, sketch-like illustrations with clean typography, educational diagram aesthetic, whiteboard marker look with light watercolor washes\\nSubject: central diagram showing 7 tech concepts (AI, MCP, AI Agent, OpenClaw, AI Skill, distillation, CLI) with connecting arrows and relationship labels, icons for each concept\\nComposition: vertical flowchart layout, top-down hierarchy with AI at the top, clear visual grouping, generous whitespace between sections\\nColor palette: warm accent colors for different concept groups (blues for AI/Agent, greens for MCP/OpenClaw, oranges for Skill/distillation), black ink lines on off-white background\\nText (verbatim): \\\"AI\\\", \\\"MCP\\\", \\\"AI Agent\\\", \\\"OpenClaw\\\", \\\"AI Skill\\\", \\\"蒸馏\\\", \\\"CLI\\\"\\nConstraints: must be readable at small sizes; simplified icons must convey meaning without text; relationship arrows must be unambiguous\\nAvoid: photorealistic rendering; complex 3D elements; cluttered overlapping text; gradients that reduce clarity; generic stock illustration style\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10446
+}

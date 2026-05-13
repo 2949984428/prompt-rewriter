@@ -1,0 +1,23 @@
+{
+  "query_idx": 1,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing product shot for a MacBook Pro e-commerce hero image.\n\nStyle/medium: photorealistic product photography, clean tech aesthetic, Apple-style product imagery\nComposition: eye-level product shot, centered MacBook Pro at slight angle, 50mm equivalent lens, shallow depth of field\nSubject: MacBook Pro with screen displaying creative software interface, wireless earbuds case and ceramic coffee cup placed beside\nScene/backdrop: minimal white marble desk surface, soft window light from left, clean uncluttered environment\nLighting/mood: natural daylight streaming from left window, soft diffused light, bright and airy atmosphere\nColor palette: neutral white and gray base, warm wood or metal accents from accessories, screen glow as subtle highlight\nMaterials/textures: smooth cold-pressed marble with subtle veining, brushed aluminum laptop finish, matte ceramic cup, soft fabric or plastic earbud case\nAvoid: cluttered background, harsh shadows, oversaturated colors, watermark, generic stock photo look, 8K stuffer words",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ecf2f970-fdf7-40b4-9297-0fefc4a70b72/0.png"
+  ],
+  "scores": {
+    "overall": 4.5,
+    "intent": 4.5
+  },
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing product shot for a MacBook Pro e-commerce hero image.\\n\\nStyle/medium: photorealistic product photography, clean tech aesthetic, Apple-style product imagery\\nComposition: eye-level product shot, centered MacBook Pro at slight angle, 50mm equivalent lens, shallow depth of field\\nSubject: MacBook Pro with screen displaying creative software interface, wireless earbuds case and ceramic coffee cup placed beside\\nScene/backdrop: minimal white marble desk surface, soft window light from left, clean uncluttered environment\\nLighting/mood: natural daylight streaming from left window, soft diffused light, bright and airy atmosphere\\nColor palette: neutral white and gray base, warm wood or metal accents from accessories, screen glow as subtle highlight\\nMaterials/textures: smooth cold-pressed marble with subtle veining, brushed aluminum laptop finish, matte ceramic cup, soft fabric or plastic earbud case\\nAvoid: cluttered background, harsh shadows, oversaturated colors, watermark, generic stock photo look, 8K stuffer words\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 22447
+}

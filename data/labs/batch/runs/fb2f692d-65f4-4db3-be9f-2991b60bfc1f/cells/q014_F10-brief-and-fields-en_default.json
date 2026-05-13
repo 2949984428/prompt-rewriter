@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing UI design system in a classic minimalist tech style, covering web Dashboard, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: clean flat UI design system, classic minimalist tech aesthetic, crisp vector graphics with subtle depth\nSubject: comprehensive UI component library including dashboard layout, mobile screens, data cards, primary/secondary buttons, form controls, navigation elements\nComposition: organized component grid layout, multiple viewport mockups side by side, generous white space, consistent 8px grid system\nColor palette: deep navy or charcoal as primary, electric blue or cyan as accent, clean white backgrounds, subtle gray hierarchy\nMaterials/textures: smooth matte surfaces, subtle drop shadows for elevation, glass-morphism accents on key elements\nConstraints: must maintain visual consistency across all components; scalable for both desktop and mobile; accessible contrast ratios\nAvoid: skeuomorphic textures; excessive gradients; decorative noise; cluttered layouts; generic corporate blue; drop shadows that imply depth where none exists",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5867821d-aaa0-41a4-9d56-0d3249c46867/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing UI design system in a classic minimalist tech style, covering web Dashboard, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: clean flat UI design system, classic minimalist tech aesthetic, crisp vector graphics with subtle depth\\nSubject: comprehensive UI component library including dashboard layout, mobile screens, data cards, primary/secondary buttons, form controls, navigation elements\\nComposition: organized component grid layout, multiple viewport mockups side by side, generous white space, consistent 8px grid system\\nColor palette: deep navy or charcoal as primary, electric blue or cyan as accent, clean white backgrounds, subtle gray hierarchy\\nMaterials/textures: smooth matte surfaces, subtle drop shadows for elevation, glass-morphism accents on key elements\\nConstraints: must maintain visual consistency across all components; scalable for both desktop and mobile; accessible contrast ratios\\nAvoid: skeuomorphic textures; excessive gradients; decorative noise; cluttered layouts; generic corporate blue; drop shadows that imply depth where none exists\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8806
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial panoramic illustration of the Lantern Festival in Tang Dynasty Chang'an, with thousands of lanterns illuminating the night sky.\n\nStyle/medium: Gongbi heavy-color painting, traditional Chinese scroll format, meticulous brushwork with layered mineral pigments\nComposition: sweeping panoramic bird's-eye view of the entire city, wide horizontal scroll format, multiple layers of depth from foreground streets to distant palace walls\nSubject: thousands of hanging lanterns in various shapes (round, hexagonal, palace-style), crowds in Tang dynasty attire, festival vendors, performers, architecture with upturned eaves\nScene/backdrop: Tang Dynasty Chang'an city at night, bustling West Market and East Market streets, palace complex in the distance, city walls and gates visible\nLighting/mood: warm golden lantern glow against deep indigo night sky, festive and celebratory atmosphere, soft ambient light from countless small sources\nColor palette: deep indigo and black night sky as base, warm amber and vermillion lantern light as anchor, touches of gold and jade green for architectural details\nMaterials/textures: silk scroll texture visible, delicate ink outlines, layered mineral pigment washes, subtle gold leaf accents on lantern frames\nAvoid: modern electric lighting, anachronistic elements, oversaturated colors, Western perspective distortion, photorealistic rendering",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/907e88d2-c6ec-456d-bcee-347f6fafe6e9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial panoramic illustration of the Lantern Festival in Tang Dynasty Chang'an, with thousands of lanterns illuminating the night sky.\\n\\nStyle/medium: Gongbi heavy-color painting, traditional Chinese scroll format, meticulous brushwork with layered mineral pigments\\nComposition: sweeping panoramic bird's-eye view of the entire city, wide horizontal scroll format, multiple layers of depth from foreground streets to distant palace walls\\nSubject: thousands of hanging lanterns in various shapes (round, hexagonal, palace-style), crowds in Tang dynasty attire, festival vendors, performers, architecture with upturned eaves\\nScene/backdrop: Tang Dynasty Chang'an city at night, bustling West Market and East Market streets, palace complex in the distance, city walls and gates visible\\nLighting/mood: warm golden lantern glow against deep indigo night sky, festive and celebratory atmosphere, soft ambient light from countless small sources\\nColor palette: deep indigo and black night sky as base, warm amber and vermillion lantern light as anchor, touches of gold and jade green for architectural details\\nMaterials/textures: silk scroll texture visible, delicate ink outlines, layered mineral pigment washes, subtle gold leaf accents on lantern frames\\nAvoid: modern electric lighting, anachronistic elements, oversaturated colors, Western perspective distortion, photorealistic rendering\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10702
+}

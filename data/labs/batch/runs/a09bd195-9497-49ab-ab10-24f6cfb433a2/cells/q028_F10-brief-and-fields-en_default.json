@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a muscular athlete performing a deadlift in a professional gym environment.\n\nStyle/medium: photorealistic fitness photography, raw documentary style with grit and texture\nComposition: medium shot from low side angle, 50mm lens, capturing the tension in the back and arms during peak lift\nSubject: muscular athlete with defined muscle striations, visible sweat droplets on skin, veins prominent on forearms, intense focused expression, chalk dust on hands\nScene/backdrop: industrial-style gym interior with exposed concrete walls, black iron racks, rubber flooring, minimal equipment visible\nLighting/mood: cool-toned overhead LED lighting with subtle rim light, high contrast shadows emphasizing muscle definition, raw masculine energy\nColor palette: cool steel blue and concrete gray as base, warm skin tones as anchor, desaturated industrial accents\nMaterials/textures: glistening sweat on skin, rough concrete texture, matte black metal, rubber mat grain\nAvoid: soft lighting, warm color grading, over-processed skin, plastic appearance, 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f8fb6510-0d13-4d69-922d-0530ed254be1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a muscular athlete performing a deadlift in a professional gym environment.\\n\\nStyle/medium: photorealistic fitness photography, raw documentary style with grit and texture\\nComposition: medium shot from low side angle, 50mm lens, capturing the tension in the back and arms during peak lift\\nSubject: muscular athlete with defined muscle striations, visible sweat droplets on skin, veins prominent on forearms, intense focused expression, chalk dust on hands\\nScene/backdrop: industrial-style gym interior with exposed concrete walls, black iron racks, rubber flooring, minimal equipment visible\\nLighting/mood: cool-toned overhead LED lighting with subtle rim light, high contrast shadows emphasizing muscle definition, raw masculine energy\\nColor palette: cool steel blue and concrete gray as base, warm skin tones as anchor, desaturated industrial accents\\nMaterials/textures: glistening sweat on skin, rough concrete texture, matte black metal, rubber mat grain\\nAvoid: soft lighting, warm color grading, over-processed skin, plastic appearance, 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9854
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing technical infographic of a Sony A7 camera, fully exploded-view diagram with all parts labeled.\n\nStyle/medium: clean technical illustration, exploded-view engineering diagram style, flat vector with fine linework\nComposition: centered exploded isometric or orthographic view, all components spread outward from the camera body with leader lines pointing to each part\nSubject: Sony A7 mirrorless camera fully disassembled into individual components — body shell, sensor unit, shutter mechanism, mount ring, battery compartment, viewfinder module, LCD screen, control dials, buttons, circuit boards, lens mount contacts, grip, card slot cover, ports panel\nScene/backdrop: plain white background with no distracting elements\nColor palette: neutral light gray for components, dark charcoal for label text and leader lines, subtle blue accent for electronic parts\nText (verbatim): \"Sony A7\"\nConstraints: every visible part must have a labeled name in English; leader lines must be clean and non-overlapping; diagram must remain legible at A3 print size\nAvoid: photorealistic rendering, lens included in disassembly, cluttered overlapping labels, decorative gradients, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/582b87f5-a2e9-4d14-b40f-e7d85f31b452/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing technical infographic of a Sony A7 camera, fully exploded-view diagram with all parts labeled.\\n\\nStyle/medium: clean technical illustration, exploded-view engineering diagram style, flat vector with fine linework\\nComposition: centered exploded isometric or orthographic view, all components spread outward from the camera body with leader lines pointing to each part\\nSubject: Sony A7 mirrorless camera fully disassembled into individual components — body shell, sensor unit, shutter mechanism, mount ring, battery compartment, viewfinder module, LCD screen, control dials, buttons, circuit boards, lens mount contacts, grip, card slot cover, ports panel\\nScene/backdrop: plain white background with no distracting elements\\nColor palette: neutral light gray for components, dark charcoal for label text and leader lines, subtle blue accent for electronic parts\\nText (verbatim): \\\"Sony A7\\\"\\nConstraints: every visible part must have a labeled name in English; leader lines must be clean and non-overlapping; diagram must remain legible at A3 print size\\nAvoid: photorealistic rendering, lens included in disassembly, cluttered overlapping labels, decorative gradients, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9626
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an interior design illustration of an industrial-style cafe.\n\nStyle/medium: needs an industrial aesthetic — exact stylistic execution is yours\nComposition: \nSubject: must include vintage leather sofas as focal seating\nScene/backdrop: must include exposed concrete walls, metal pipes, large windows with natural light, black-and-white photography on walls\nLighting/mood: must be natural light streaming through large windows — exact light quality is yours\nColor palette: needs a raw yet refined direction — exact tonal balance is yours\nMaterials/textures: needs a rugged-yet-sophisticated surface treatment — exact material finish is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2ab87411-e4f4-44f4-ab48-e571ac045b4c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an interior design illustration of an industrial-style cafe.\\n\\nStyle/medium: needs an industrial aesthetic — exact stylistic execution is yours\\nComposition: \\nSubject: must include vintage leather sofas as focal seating\\nScene/backdrop: must include exposed concrete walls, metal pipes, large windows with natural light, black-and-white photography on walls\\nLighting/mood: must be natural light streaming through large windows — exact light quality is yours\\nColor palette: needs a raw yet refined direction — exact tonal balance is yours\\nMaterials/textures: needs a rugged-yet-sophisticated surface treatment — exact material finish is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8082
+}

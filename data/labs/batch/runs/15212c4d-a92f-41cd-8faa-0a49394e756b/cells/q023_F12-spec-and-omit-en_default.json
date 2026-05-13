@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing educational infographic for children explaining the Battle of Chibi from the Three Kingdoms period.\n\nStyle/medium: cartoon illustration, educational infographic, single large knowledge card\nComposition: title at top, key points listed beside the illustration\nSubject: Battle of Chibi (赤壁之战) story\nScene/backdrop: cartoon story scene depicting the battle\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): 赤壁之战\nConstraints: designed for children, clear title, key points listed with punctuation\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ef20f08a-39db-4c64-a8dc-98628a72a7e7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing educational infographic for children explaining the Battle of Chibi from the Three Kingdoms period.\\n\\nStyle/medium: cartoon illustration, educational infographic, single large knowledge card\\nComposition: title at top, key points listed beside the illustration\\nSubject: Battle of Chibi (赤壁之战) story\\nScene/backdrop: cartoon story scene depicting the battle\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): 赤壁之战\\nConstraints: designed for children, clear title, key points listed with punctuation\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7266
+}

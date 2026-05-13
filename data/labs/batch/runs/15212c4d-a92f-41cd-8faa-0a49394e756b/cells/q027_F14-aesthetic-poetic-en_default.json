@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original panoramic illustration of Tang Dynasty Chang'an city during the Lantern Festival, with ten thousand lanterns illuminating the night sky, in the meticulous brushwork and heavy color tradition of Chinese gongbi painting.\n\nStyle/medium: gongbi-style long scroll painting, meticulous brushwork with mineral pigments and heavy color layering, the slow unfolding rhythm of traditional Chinese handscroll narrative\nComposition: horizontal long scroll format, panoramic bird's-eye view sweeping across the entire Chang'an cityscape, layered depth from foreground streets to distant palace towers\nSubject: Tang Dynasty Chang'an city alive with Lantern Festival celebration, countless lanterns hanging across streets and bridges, crowds in Tang-era robes, palace architecture with upturned eaves\nScene/backdrop: the vast Tang capital at night, city walls visible in the distance, pagodas and palace halls rising above the lantern-lit streets, the Milky Way faint above\nLighting/mood: the warm golden glow of ten thousand lanterns against the deep indigo night, a sacred stillness holding the joy of the festival\nColor palette: rich mineral reds and golds from the lanterns in conversation with deep indigo and azurite blues of the night sky, the temperature of celebration held in cool darkness\nMaterials/textures: silk scroll surface with the matte density of mineral pigments, fine brush lines defining architectural detail, the weight of layered color built through patient application\nText (verbatim): \nConstraints: horizontal long scroll format, Tang Dynasty architectural accuracy, ten thousand lanterns visible as points of warm light across the city\nAvoid: modern lighting effects, photographic realism, Western perspective distortion, empty stuffer language like \"8K\" or \"masterpiece\"",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9eb9ff8a-24ba-417f-b1f6-e1c2c7ab36d4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original panoramic illustration of Tang Dynasty Chang'an city during the Lantern Festival, with ten thousand lanterns illuminating the night sky, in the meticulous brushwork and heavy color tradition of Chinese gongbi painting.\\n\\nStyle/medium: gongbi-style long scroll painting, meticulous brushwork with mineral pigments and heavy color layering, the slow unfolding rhythm of traditional Chinese handscroll narrative\\nComposition: horizontal long scroll format, panoramic bird's-eye view sweeping across the entire Chang'an cityscape, layered depth from foreground streets to distant palace towers\\nSubject: Tang Dynasty Chang'an city alive with Lantern Festival celebration, countless lanterns hanging across streets and bridges, crowds in Tang-era robes, palace architecture with upturned eaves\\nScene/backdrop: the vast Tang capital at night, city walls visible in the distance, pagodas and palace halls rising above the lantern-lit streets, the Milky Way faint above\\nLighting/mood: the warm golden glow of ten thousand lanterns against the deep indigo night, a sacred stillness holding the joy of the festival\\nColor palette: rich mineral reds and golds from the lanterns in conversation with deep indigo and azurite blues of the night sky, the temperature of celebration held in cool darkness\\nMaterials/textures: silk scroll surface with the matte density of mineral pigments, fine brush lines defining architectural detail, the weight of layered color built through patient application\\nText (verbatim): \\nConstraints: horizontal long scroll format, Tang Dynasty architectural accuracy, ten thousand lanterns visible as points of warm light across the city\\nAvoid: modern lighting effects, photographic realism, Western perspective distortion, empty stuffer language like \\\"8K\\\" or \\\"masterpiece\\\"\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14833
+}

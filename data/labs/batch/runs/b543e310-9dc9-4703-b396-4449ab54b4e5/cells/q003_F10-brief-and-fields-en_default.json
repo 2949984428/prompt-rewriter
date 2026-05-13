@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing logo for a tech and lifestyle content creator focusing on new energy vehicles, digital products, and lifestyle goods.\n\nStyle/medium: clean flat vector logo, minimalist modern design, universal geometric language avoiding cultural symbols\nSubject: abstract mark suggesting energy/technology and lifestyle balance, simple geometric shapes with balanced negative space\nComposition: centered mark with generous padding, scalable for circular and square crop formats\nColor palette: neutral base (deep navy or charcoal) with one accent color (electric blue or teal), adaptable to monochrome\nConstraints: must work as 100x100 avatar on all platforms; monochrome version must remain legible; no text to avoid translation issues; avoid culturally sensitive symbols, religious imagery, hand gestures, animal motifs, or region-specific colors\nAvoid: national flags, religious symbols, hand gestures, culturally specific colors (red/white combinations, sacred geometry), complex illustrations, gradients, photorealistic elements, text in any language",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8de93cc9-eff6-4691-884f-34f1aa0c8636/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing logo for a tech and lifestyle content creator focusing on new energy vehicles, digital products, and lifestyle goods.\\n\\nStyle/medium: clean flat vector logo, minimalist modern design, universal geometric language avoiding cultural symbols\\nSubject: abstract mark suggesting energy/technology and lifestyle balance, simple geometric shapes with balanced negative space\\nComposition: centered mark with generous padding, scalable for circular and square crop formats\\nColor palette: neutral base (deep navy or charcoal) with one accent color (electric blue or teal), adaptable to monochrome\\nConstraints: must work as 100x100 avatar on all platforms; monochrome version must remain legible; no text to avoid translation issues; avoid culturally sensitive symbols, religious imagery, hand gestures, animal motifs, or region-specific colors\\nAvoid: national flags, religious symbols, hand gestures, culturally specific colors (red/white combinations, sacred geometry), complex illustrations, gradients, photorealistic elements, text in any language\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8273
+}

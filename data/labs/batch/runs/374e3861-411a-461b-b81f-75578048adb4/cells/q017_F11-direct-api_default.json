@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "创作一张抽象表现主义风格的艺术作品，大胆的色彩碰撞，流动的笔触，没有具体形象但充满情绪和能量，适合现代艺术画廊展示",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/83d16105-2da1-4cfc-bdab-d4eb0c8df5c1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"创作一张抽象表现主义风格的艺术作品，大胆的色彩碰撞，流动的笔触，没有具体形象但充满情绪和能量，适合现代艺术画廊展示\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 3360
+}

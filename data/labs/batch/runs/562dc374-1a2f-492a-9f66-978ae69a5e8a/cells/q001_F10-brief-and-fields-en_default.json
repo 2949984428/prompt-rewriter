@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic still of a cyberpunk future cityscape at night with towering skyscrapers, neon lights, and flying cars.\n\nStyle/medium: cinematic concept art, Blade Runner-inspired neo-noir aesthetic, photorealistic\nComposition: wide establishing shot from street level looking up, 24mm lens, deep depth of field\nSubject: dense cluster of futuristic megastructures with layered architecture, holographic billboards, flying vehicles weaving between towers\nScene/backdrop: rain-soaked urban canyon, wet streets with puddles reflecting neon glow, perpetual night, polluted atmosphere\nLighting/mood: harsh neon light from signage and windows, dramatic rim lighting, moody and dystopian\nColor palette: dominant electric blue and violet neon, warm orange and pink accent lights, deep shadows in black\nMaterials/textures: wet asphalt with mirror-like reflections, metal and concrete surfaces, rain droplets, glass facades\nAvoid: clean utopian aesthetic, daytime lighting, cheerful atmosphere, over-saturated colors, 8K stuffer aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c4a15ea8-6cb8-4e1f-a499-ef6caefeed43/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic still of a cyberpunk future cityscape at night with towering skyscrapers, neon lights, and flying cars.\\n\\nStyle/medium: cinematic concept art, Blade Runner-inspired neo-noir aesthetic, photorealistic\\nComposition: wide establishing shot from street level looking up, 24mm lens, deep depth of field\\nSubject: dense cluster of futuristic megastructures with layered architecture, holographic billboards, flying vehicles weaving between towers\\nScene/backdrop: rain-soaked urban canyon, wet streets with puddles reflecting neon glow, perpetual night, polluted atmosphere\\nLighting/mood: harsh neon light from signage and windows, dramatic rim lighting, moody and dystopian\\nColor palette: dominant electric blue and violet neon, warm orange and pink accent lights, deep shadows in black\\nMaterials/textures: wet asphalt with mirror-like reflections, metal and concrete surfaces, rain droplets, glass facades\\nAvoid: clean utopian aesthetic, daytime lighting, cheerful atmosphere, over-saturated colors, 8K stuffer aesthetic\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10527
+}

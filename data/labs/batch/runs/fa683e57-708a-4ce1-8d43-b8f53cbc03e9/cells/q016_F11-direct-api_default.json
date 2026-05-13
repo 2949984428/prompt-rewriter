@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "画一张温馨的家庭聚餐场景，中式圆桌，火锅冒着热气，一家人举杯欢笑，暖黄色灯光，背景是贴满照片的墙壁，充满烟火气和幸福感",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/eb3a1304-a44b-4da9-9599-cef85318ba81/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"画一张温馨的家庭聚餐场景，中式圆桌，火锅冒着热气，一家人举杯欢笑，暖黄色灯光，背景是贴满照片的墙壁，充满烟火气和幸福感\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 3990
+}

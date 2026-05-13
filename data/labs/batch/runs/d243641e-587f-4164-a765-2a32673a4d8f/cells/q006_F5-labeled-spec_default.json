@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-historical\nAsset type: long horizontal scroll painting (工笔重彩长卷), panoramic scene\nPrimary request: panoramic view of the Lantern Festival night in Tang Dynasty Chang'an city, ten thousand flower lanterns illuminating the night sky\nScene/backdrop: Tang Dynasty Chang'an city streets at night, grand city gates, traditional timber-frame architecture, bustling crowds celebrating the Lantern Festival\nSubject: thousands of ornate flower lanterns (花灯) in varied shapes — lotus, fish, dragon, phoenix — hanging from eaves, poles, and carried by revelers; dense festive crowd in Tang-dynasty attire filling the wide avenues\nStyle/medium: 工笔重彩 (gongbi meticulous brushwork with rich mineral pigments), traditional Chinese painting, horizontal hand-scroll format\nComposition/framing: wide panoramic horizontal composition, bird's-eye to eye-level sweep across the full cityscape, long-scroll layout\nLighting/mood: warm golden and amber glow from ten thousand lanterns, deep indigo night sky, festive and magnificent atmosphere\nColor palette: deep indigo and black night sky, warm gold and vermillion lantern light, malachite green and azurite blue architectural details, rich mineral pigment tones\nMaterials/textures: silk scroll texture, fine ink linework with layered mineral pigment washes, delicate brushstroke detail on costumes and lanterns\nConstraints: maintain 工笔重彩 meticulous line-and-fill style throughout; no Western perspective distortion; keep Tang architectural silhouettes accurate\nAvoid: modern elements, impressionistic blur, flat cartoon style, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dc039a23-8db8-4d27-a9aa-0ba664565b7f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-historical\\nAsset type: long horizontal scroll painting (工笔重彩长卷), panoramic scene\\nPrimary request: panoramic view of the Lantern Festival night in Tang Dynasty Chang'an city, ten thousand flower lanterns illuminating the night sky\\nScene/backdrop: Tang Dynasty Chang'an city streets at night, grand city gates, traditional timber-frame architecture, bustling crowds celebrating the Lantern Festival\\nSubject: thousands of ornate flower lanterns (花灯) in varied shapes — lotus, fish, dragon, phoenix — hanging from eaves, poles, and carried by revelers; dense festive crowd in Tang-dynasty attire filling the wide avenues\\nStyle/medium: 工笔重彩 (gongbi meticulous brushwork with rich mineral pigments), traditional Chinese painting, horizontal hand-scroll format\\nComposition/framing: wide panoramic horizontal composition, bird's-eye to eye-level sweep across the full cityscape, long-scroll layout\\nLighting/mood: warm golden and amber glow from ten thousand lanterns, deep indigo night sky, festive and magnificent atmosphere\\nColor palette: deep indigo and black night sky, warm gold and vermillion lantern light, malachite green and azurite blue architectural details, rich mineral pigment tones\\nMaterials/textures: silk scroll texture, fine ink linework with layered mineral pigment washes, delicate brushstroke detail on costumes and lanterns\\nConstraints: maintain 工笔重彩 meticulous line-and-fill style throughout; no Western perspective distortion; keep Tang architectural silhouettes accurate\\nAvoid: modern elements, impressionistic blur, flat cartoon style, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14259
+}

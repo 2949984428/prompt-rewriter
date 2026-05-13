@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for bubble tea in pink girly summer aesthetic for Xiaohongshu cover.\n\nStyle/medium: flat illustration with soft gradients, social media cover design, trending Xiaohongshu aesthetic\nComposition: centered vertical layout optimized for 3:4 mobile feed, bubble tea as hero element with breathing room\nSubject: pearl milk tea in clear cup, tapioca pearls visible at bottom, creamy milk tea layers, condensation droplets on cup\nScene/backdrop: minimal abstract pastel pink gradient background, subtle summer elements like soft bokeh light spots\nLighting/mood: bright daylight ambiance, fresh and refreshing summer vibe, playful and youthful energy\nColor palette: soft pink as dominant base, creamy beige for milk tea, dark brown pearls as contrast, white highlights\nMaterials/textures: glossy plastic cup surface, creamy liquid texture, chewy tapioca pearls, water droplets\nText (verbatim): \"小红书种草封面\"\nConstraints: must read clearly as mobile thumbnail at small size; vertical orientation optimized for Xiaohongshu feed\nAvoid: cluttered composition, dark moody tones, realistic photography style, generic stock photo look, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f3ac0e52-947e-4b4a-a40d-8cf00056997c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for bubble tea in pink girly summer aesthetic for Xiaohongshu cover.\\n\\nStyle/medium: flat illustration with soft gradients, social media cover design, trending Xiaohongshu aesthetic\\nComposition: centered vertical layout optimized for 3:4 mobile feed, bubble tea as hero element with breathing room\\nSubject: pearl milk tea in clear cup, tapioca pearls visible at bottom, creamy milk tea layers, condensation droplets on cup\\nScene/backdrop: minimal abstract pastel pink gradient background, subtle summer elements like soft bokeh light spots\\nLighting/mood: bright daylight ambiance, fresh and refreshing summer vibe, playful and youthful energy\\nColor palette: soft pink as dominant base, creamy beige for milk tea, dark brown pearls as contrast, white highlights\\nMaterials/textures: glossy plastic cup surface, creamy liquid texture, chewy tapioca pearls, water droplets\\nText (verbatim): \\\"小红书种草封面\\\"\\nConstraints: must read clearly as mobile thumbnail at small size; vertical orientation optimized for Xiaohongshu feed\\nAvoid: cluttered composition, dark moody tones, realistic photography style, generic stock photo look, watermark\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10108
+}

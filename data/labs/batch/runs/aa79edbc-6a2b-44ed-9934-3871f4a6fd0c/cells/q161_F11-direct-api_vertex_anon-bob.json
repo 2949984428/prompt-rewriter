@@ -1,0 +1,25 @@
+{
+  "query_idx": 161,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:51-3a6dFMGL][@image:#2:51QMlVrtqPL] 这是一套硅胶碗产品，一套共三个，三个颜色，应用于亚马逊墨西哥站销售，主要是用于适配5夸特kitchenaid厨师机的不锈钢碗，防止不锈钢碗被刮花。请你根据这个产品的产品属性，结合亚马逊买家的消费习惯，墨西哥本土消费者偏好视觉，出一套主图需给我",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0685a1bf-9de3-4f8a-9ff2-8de9b3a8ab92/0.jpg",
+    "/api/image-file/lovart%3A0685a1bf-9de3-4f8a-9ff2-8de9b3a8ab92/1.jpg",
+    "/api/image-file/lovart%3A0685a1bf-9de3-4f8a-9ff2-8de9b3a8ab92/2.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:51-3a6dFMGL][@image:#2:51QMlVrtqPL] 这是一套硅胶碗产品，一套共三个，三个颜色，应用于亚马逊墨西哥站销售，主要是用于适配5夸特kitchenaid厨师机的不锈钢碗，防止不锈钢碗被刮花。请你根据这个产品的产品属性，结合亚马逊买家的消费习惯，墨西哥本土消费者偏好视觉，出一套主图需给我\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3426,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

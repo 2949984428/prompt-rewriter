@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "唐代长安城元宵灯会全景，万盏花灯照亮夜空，\n工笔重彩长卷",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/14ae08f0-ee53-48e6-a798-614c7ea4db01/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"唐代长安城元宵灯会全景，万盏花灯照亮夜空，工笔重彩长卷\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 2868
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一张热带度假风格的酒店泳池场景，无边泳池 overlooking 大海，躺椅和遮阳伞，椰子树，蓝天白云，色彩饱和度高，让人想立刻去度假",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/128ff624-1674-4970-8421-a6a8b8bc9f07/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 24,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a technical instructional diagram illustrating how to deploy hermes inside a docker container and integrate glmcodingplan, with clearly numbered steps.\n\nStyle/medium: needs a clean technical-illustration aesthetic — exact stylistic execution is yours\nComposition: must be a vertical step-by-step layout with clearly labeled steps 1, 2, 3, 4\nSubject: must include the following 4 numbered steps:\n  Step 1: docker 环境准备 / 拉取 hermes 镜像\n  Step 2: 启动 docker 容器并配置 hermes\n  Step 3: 接入 glmcodingplan（配置连接参数）\n  Step 4: 验证部署成功 / 运行测试\nScene/backdrop: \nLighting/mood: \nColor palette: needs a developer-tool / dark-mode or clean-light technical direction — exact palette is yours\nMaterials/textures: \nText (verbatim): must include step labels \"1\" \"2\" \"3\" \"4\" and technical terms \"hermes\", \"docker\", \"glmcodingplan\" as in-diagram annotations\nConstraints: must preserve clear visual separation between each numbered step; each step must include a small illustrative sub-diagram or icon showing the action\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ac213223e-b95a-43a7-96ac-fe4a23bda8ce/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a technical instructional diagram illustrating how to deploy hermes inside a docker container and integrate glmcodingplan, with clearly numbered steps.\\n\\nStyle/medium: needs a clean technical-illustration aesthetic — exact stylistic execution is yours\\nComposition: must be a vertical step-by-step layout with clearly labeled steps 1, 2, 3, 4\\nSubject: must include the following 4 numbered steps:\\n  Step 1: docker 环境准备 / 拉取 hermes 镜像\\n  Step 2: 启动 docker 容器并配置 hermes\\n  Step 3: 接入 glmcodingplan（配置连接参数）\\n  Step 4: 验证部署成功 / 运行测试\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a developer-tool / dark-mode or clean-light technical direction — exact palette is yours\\nMaterials/textures: \\nText (verbatim): must include step labels \\\"1\\\" \\\"2\\\" \\\"3\\\" \\\"4\\\" and technical terms \\\"hermes\\\", \\\"docker\\\", \\\"glmcodingplan\\\" as in-diagram annotations\\nConstraints: must preserve clear visual separation between each numbered step; each step must include a small illustrative sub-diagram or icon showing the action\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9789
+}

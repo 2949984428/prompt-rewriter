@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\n\nStyle/medium: needs a technical exploded-view diagram aesthetic — exact illustration style and rendering technique are yours\nComposition: must be exploded/disassembled layout with all parts spread outward from the central body, clearly separated and connected by guide lines\nSubject: must include the Sony A7 camera fully disassembled, showing all major and minor components (body shell, sensor, shutter mechanism, mount, buttons, dials, battery compartment, card slot, viewfinder, LCD screen, circuit boards, lens mount ring, grip, ports, etc.)\nScene/backdrop: needs a clean, neutral backdrop — exact background treatment is yours\nLighting/mood: needs a clear, technical illustration atmosphere — exact lighting is yours\nColor palette: needs a clean, high-contrast direction to ensure part legibility — exact palette is yours\nMaterials/textures: \nText (verbatim): must include the name label for each individual part (in Spanish, matching the language of the query — e.g., \"Sensor\", \"Obturador\", \"Montura\", \"Pantalla LCD\", \"Visor\", \"Batería\", \"Ranura para tarjeta\", etc.)\nConstraints: must preserve accurate part count and spatial relationships; all labels must be legible and connected to their corresponding part via leader lines\nAvoid: must avoid decorative clutter, overlapping labels, missing part names",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/85592177-e327-4c9f-a877-552d1c80c576/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\\n\\nStyle/medium: needs a technical exploded-view diagram aesthetic — exact illustration style and rendering technique are yours\\nComposition: must be exploded/disassembled layout with all parts spread outward from the central body, clearly separated and connected by guide lines\\nSubject: must include the Sony A7 camera fully disassembled, showing all major and minor components (body shell, sensor, shutter mechanism, mount, buttons, dials, battery compartment, card slot, viewfinder, LCD screen, circuit boards, lens mount ring, grip, ports, etc.)\\nScene/backdrop: needs a clean, neutral backdrop — exact background treatment is yours\\nLighting/mood: needs a clear, technical illustration atmosphere — exact lighting is yours\\nColor palette: needs a clean, high-contrast direction to ensure part legibility — exact palette is yours\\nMaterials/textures: \\nText (verbatim): must include the name label for each individual part (in Spanish, matching the language of the query — e.g., \\\"Sensor\\\", \\\"Obturador\\\", \\\"Montura\\\", \\\"Pantalla LCD\\\", \\\"Visor\\\", \\\"Batería\\\", \\\"Ranura para tarjeta\\\", etc.)\\nConstraints: must preserve accurate part count and spatial relationships; all labels must be legible and connected to their corresponding part via leader lines\\nAvoid: must avoid decorative clutter, overlapping labels, missing part names\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 18327
+}

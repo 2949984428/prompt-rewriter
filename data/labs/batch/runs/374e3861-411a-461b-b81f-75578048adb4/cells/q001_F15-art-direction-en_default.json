@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing illustration of a cyberpunk future city nightscape.\n\nStyle/medium: needs a cyberpunk aesthetic — exact stylistic execution is yours\nComposition: must include towering skyscrapers, flying vehicles weaving through buildings, and reflective puddles on the ground\nSubject: must include flying cars traversing between buildings\nScene/backdrop: must include a dense futuristic cityscape at night with acid rain falling and water puddles reflecting neon lights\nLighting/mood: needs a neon-lit night atmosphere with a sense of technological wonder and urban decay — exact light source mix is yours\nColor palette: must be blue-purple dominant\nMaterials/textures: needs a wet, reflective surface treatment for ground puddles — exact sheen and water texture is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ea457ad6-c1c9-41d3-9899-bff5a29a32a7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing illustration of a cyberpunk future city nightscape.\\n\\nStyle/medium: needs a cyberpunk aesthetic — exact stylistic execution is yours\\nComposition: must include towering skyscrapers, flying vehicles weaving through buildings, and reflective puddles on the ground\\nSubject: must include flying cars traversing between buildings\\nScene/backdrop: must include a dense futuristic cityscape at night with acid rain falling and water puddles reflecting neon lights\\nLighting/mood: needs a neon-lit night atmosphere with a sense of technological wonder and urban decay — exact light source mix is yours\\nColor palette: must be blue-purple dominant\\nMaterials/textures: needs a wet, reflective surface treatment for ground puddles — exact sheen and water texture is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14243
+}

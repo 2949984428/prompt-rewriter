@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an original, non-infringing museum infographic for Chinese ethnic minority traditional costume.\n\nStyle/medium: museum exhibition panel, historical costume catalog, cultural heritage infographic, rice white and pale tea paper texture background\nComposition: fixed layout — top header with Chinese title/subtitle/intro, left structural breakdown with Chinese callout labels, upper-right material/texture samples, middle-right pattern/color symbolism section, bottom wearing sequence flowchart\nSubject: Chinese ethnic minority traditional costume (full-body figure or central object breakdown)\nScene/backdrop: museum archival paper background, neutral professional exhibition setting\nLighting/mood: soft even archival lighting, scholarly and restrained atmosphere\nColor palette: rice white, silk paper white, pale tea, muted earth tones, traditional ethnic colors\nMaterials/textures: silk, brocade, embroidery, silver ornaments, woven fabrics\nText (verbatim): 中国少数民族服饰\nConstraints: all text must be simplified Chinese, clear and readable, no garbled characters, no English or pinyin, realistic structure and material accuracy, collectible scholarly quality\nAvoid: poster aesthetic, studio photo feel, e-commerce style, anime illustration, cosplay vibe, messy labels, wrong structure, blurry text, fake materials, excessive decoration",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e9f55b82-7cae-414e-b971-d57916359560/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Generate an original, non-infringing museum infographic for Chinese ethnic minority traditional costume.\\n\\nStyle/medium: museum exhibition panel, historical costume catalog, cultural heritage infographic, rice white and pale tea paper texture background\\nComposition: fixed layout — top header with Chinese title/subtitle/intro, left structural breakdown with Chinese callout labels, upper-right material/texture samples, middle-right pattern/color symbolism section, bottom wearing sequence flowchart\\nSubject: Chinese ethnic minority traditional costume (full-body figure or central object breakdown)\\nScene/backdrop: museum archival paper background, neutral professional exhibition setting\\nLighting/mood: soft even archival lighting, scholarly and restrained atmosphere\\nColor palette: rice white, silk paper white, pale tea, muted earth tones, traditional ethnic colors\\nMaterials/textures: silk, brocade, embroidery, silver ornaments, woven fabrics\\nText (verbatim): 中国少数民族服饰\\nConstraints: all text must be simplified Chinese, clear and readable, no garbled characters, no English or pinyin, realistic structure and material accuracy, collectible scholarly quality\\nAvoid: poster aesthetic, studio photo feel, e-commerce style, anime illustration, cosplay vibe, messy labels, wrong structure, blurry text, fake materials, excessive decoration\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10952
+}

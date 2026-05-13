@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration\nAsset type: anime key visual, action scene\nPrimary request: basketball player mid-air performing a slam dunk with sweat flying, dynamic motion blur, intense energy\nScene/backdrop: packed basketball arena, cheering crowd in background with camera flashes\nSubject: athletic basketball player in mid-jump, muscular build, jersey visible, intense determined expression, sweat droplets frozen in motion\nStyle/medium: shonen anime illustration, dynamic action style, cel-shaded with motion lines\nComposition/framing: dynamic low-angle shot emphasizing height and power, diagonal composition\nLighting/mood: dramatic arena spotlights mixed with flash photography bursts, high energy and passionate\nColor palette: saturated warm tones, orange court, cool blue jersey contrast, bright white flash highlights\nMaterials/textures: smooth cel-shaded skin, fabric jersey folds, glossy sweat droplets, motion blur streaks\nConstraints: keep the player as central focal point, emphasize vertical jump height and athletic power\nAvoid: photorealistic rendering, static pose, muted colors, realistic proportions, watermark",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c24d7399-e0ed-4ffe-b783-61011cd85f39/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration\\nAsset type: anime key visual, action scene\\nPrimary request: basketball player mid-air performing a slam dunk with sweat flying, dynamic motion blur, intense energy\\nScene/backdrop: packed basketball arena, cheering crowd in background with camera flashes\\nSubject: athletic basketball player in mid-jump, muscular build, jersey visible, intense determined expression, sweat droplets frozen in motion\\nStyle/medium: shonen anime illustration, dynamic action style, cel-shaded with motion lines\\nComposition/framing: dynamic low-angle shot emphasizing height and power, diagonal composition\\nLighting/mood: dramatic arena spotlights mixed with flash photography bursts, high energy and passionate\\nColor palette: saturated warm tones, orange court, cool blue jersey contrast, bright white flash highlights\\nMaterials/textures: smooth cel-shaded skin, fabric jersey folds, glossy sweat droplets, motion blur streaks\\nConstraints: keep the player as central focal point, emphasize vertical jump height and athletic power\\nAvoid: photorealistic rendering, static pose, muted colors, realistic proportions, watermark\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9995
+}

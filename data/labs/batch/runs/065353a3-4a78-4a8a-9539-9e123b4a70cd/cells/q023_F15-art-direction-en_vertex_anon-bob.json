@@ -1,0 +1,21 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing single-panel educational knowledge card for children about the 赤壁之战 (Battle of Red Cliffs) from the 三国 era.\n\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\nComposition: must be a single large knowledge-card layout with a clear title at top, key bullet points listed and numbered along the side, and a cartoon story scene as the main visual body\nSubject: must include the 赤壁之战 story — key figures (曹操, 刘备, 孙权, 周瑜, 诸葛亮), the fire attack on the fleet, and the river battle setting\nScene/backdrop: must include the 长江 river with warships and fire, evoking the 赤壁 battle scene\nLighting/mood: needs a vivid, lively and child-friendly atmosphere — exact mood treatment is yours\nColor palette: needs a bright, engaging direction suitable for children — exact hues and ratios are yours\nMaterials/textures: needs a cartoon / illustrated card surface treatment — exact texture and finish are yours\nText (verbatim): must include \"赤壁之战\" (title, prominent); bullet-point labels for key story beats alongside the illustration\nConstraints: must preserve single-card format; bullet points must be visibly listed and marked with numbering or symbols beside the main illustration; content must be age-appropriate and easy to read for children\nAvoid: ",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1455237e-a5d4-47a8-8bfe-1e2fedf07e71/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing single-panel educational knowledge card for children about the 赤壁之战 (Battle of Red Cliffs) from the 三国 era.\\n\\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\\nComposition: must be a single large knowledge-card layout with a clear title at top, key bullet points listed and numbered along the side, and a cartoon story scene as the main visual body\\nSubject: must include the 赤壁之战 story — key figures (曹操, 刘备, 孙权, 周瑜, 诸葛亮), the fire attack on the fleet, and the river battle setting\\nScene/backdrop: must include the 长江 river with warships and fire, evoking the 赤壁 battle scene\\nLighting/mood: needs a vivid, lively and child-friendly atmosphere — exact mood treatment is yours\\nColor palette: needs a bright, engaging direction suitable for children — exact hues and ratios are yours\\nMaterials/textures: needs a cartoon / illustrated card surface treatment — exact texture and finish are yours\\nText (verbatim): must include \\\"赤壁之战\\\" (title, prominent); bullet-point labels for key story beats alongside the illustration\\nConstraints: must preserve single-card format; bullet points must be visibly listed and marked with numbering or symbols beside the main illustration; content must be age-appropriate and easy to read for children\\nAvoid: \", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9950
+}

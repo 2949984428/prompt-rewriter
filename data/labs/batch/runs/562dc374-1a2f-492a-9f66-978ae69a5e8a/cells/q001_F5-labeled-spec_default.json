@@ -1,0 +1,20 @@
+{
+  "query_idx": 1,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic concept art, wide landscape\nPrimary request: cyberpunk futuristic cityscape at night with neon-lit skyscrapers, flying vehicles, acid rain, and reflective wet streets\nScene/backdrop: dense megacity skyline with towering brutalist and glass skyscrapers, hovering vehicles between buildings, rain-soaked streets with puddles reflecting neon signs\nSubject: futuristic urban environment with layered architecture, holographic billboards, flying cars with light trails, rain droplets visible in air\nStyle/medium: cinematic digital art, Blade Runner aesthetic, photorealistic rendering\nComposition/framing: wide establishing shot, low horizon line emphasizing towering buildings, atmospheric depth with foreground puddles and mid-ground traffic\nLighting/mood: dramatic artificial lighting from neon signs and windows, volumetric fog and rain haze, moody and dystopian atmosphere\nColor palette: dominant deep blues and purples with magenta and cyan neon accents, warm orange highlights from vehicle lights, wet asphalt grays\nMaterials/textures: glossy wet concrete and metal surfaces, glass reflections, rain-slicked streets with mirror-like puddles, gritty urban decay\nConstraints: preserve the acid rain effect and reflective ground surfaces as key atmospheric elements\nAvoid: clean utopian look, bright daylight, cheerful mood, oversaturated colors, low-poly or game-like aesthetics",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9a201b6f-9b19-4a3b-824b-24b883fa1698/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic concept art, wide landscape\\nPrimary request: cyberpunk futuristic cityscape at night with neon-lit skyscrapers, flying vehicles, acid rain, and reflective wet streets\\nScene/backdrop: dense megacity skyline with towering brutalist and glass skyscrapers, hovering vehicles between buildings, rain-soaked streets with puddles reflecting neon signs\\nSubject: futuristic urban environment with layered architecture, holographic billboards, flying cars with light trails, rain droplets visible in air\\nStyle/medium: cinematic digital art, Blade Runner aesthetic, photorealistic rendering\\nComposition/framing: wide establishing shot, low horizon line emphasizing towering buildings, atmospheric depth with foreground puddles and mid-ground traffic\\nLighting/mood: dramatic artificial lighting from neon signs and windows, volumetric fog and rain haze, moody and dystopian atmosphere\\nColor palette: dominant deep blues and purples with magenta and cyan neon accents, warm orange highlights from vehicle lights, wet asphalt grays\\nMaterials/textures: glossy wet concrete and metal surfaces, glass reflections, rain-slicked streets with mirror-like puddles, gritty urban decay\\nConstraints: preserve the acid rain effect and reflective ground surfaces as key atmospheric elements\\nAvoid: clean utopian look, bright daylight, cheerful mood, oversaturated colors, low-poly or game-like aesthetics\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12380
+}

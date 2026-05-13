@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial portrait photo of a young woman on a 90s 香港 street at night (all in-image text in Chinese).\n\nStyle/medium: needs a 复古胶片 aesthetic with cinematic grain — exact film stock and grain level are yours\nComposition: must include the young woman leaning against a neon sign as the focal subject\nSubject: must include a young woman in a denim jacket, leaning against a neon sign\nScene/backdrop: must include a 90年代香港 street at night, neon-lit urban environment\nLighting/mood: needs a hazy, moody night atmosphere with nostalgic 怀旧 emotion — exact light source mix is yours\nColor palette: needs a warm direction — exact tones and ratios are yours\nMaterials/textures: needs cinematic film grain and a 胶片 surface treatment — exact grain weight is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/71279f3c-c06a-4fdf-b76e-3326d3f05181/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial portrait photo of a young woman on a 90s 香港 street at night (all in-image text in Chinese).\\n\\nStyle/medium: needs a 复古胶片 aesthetic with cinematic grain — exact film stock and grain level are yours\\nComposition: must include the young woman leaning against a neon sign as the focal subject\\nSubject: must include a young woman in a denim jacket, leaning against a neon sign\\nScene/backdrop: must include a 90年代香港 street at night, neon-lit urban environment\\nLighting/mood: needs a hazy, moody night atmosphere with nostalgic 怀旧 emotion — exact light source mix is yours\\nColor palette: needs a warm direction — exact tones and ratios are yours\\nMaterials/textures: needs cinematic film grain and a 胶片 surface treatment — exact grain weight is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9538
+}

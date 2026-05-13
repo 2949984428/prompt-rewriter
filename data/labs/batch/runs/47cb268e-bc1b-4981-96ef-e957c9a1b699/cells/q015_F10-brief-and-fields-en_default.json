@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a photorealistic editorial screenshot of a TikTok (抖音) live stream featuring the celebrity 神仙姐姐 (Liu Yifei), in a 9:16 vertical mobile format.\n\nStyle/medium: photorealistic mobile screenshot simulation, mimicking an authentic 抖音 live broadcast UI with on-screen overlays, viewer count, and live chat bubbles\nComposition: vertical 9:16 frame, medium close-up shot of the host from chest up, centered subject, front-facing camera angle\nSubject: 神仙姐姐 (Liu Yifei), elegant appearance, holding up a handwritten or printed sign with both hands at chest level; sign reads \"今晚直播，欢迎来参亦菲畅聊！\"\nScene/backdrop: softly lit indoor live-stream studio or bedroom setup, blurred background with warm ambient lighting\nLighting/mood: soft ring-light frontal illumination, warm and inviting tone, intimate live-stream atmosphere\nColor palette: warm skin tones as anchor, soft neutral background, 抖音 signature red/white UI elements as accent\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\" on the sign held by the subject; 抖音 live stream UI overlay elements (viewer count, hearts, chat messages) in the frame\nConstraints: must look like a genuine 抖音 live stream screenshot with authentic UI chrome (top bar showing \"直播中\", floating heart animations, scrolling comment bar at bottom); sign text must be clearly legible\nAvoid: blurry or illegible sign text, deformed hands, generic stock-photo look, missing UI overlay elements, over-smoothed skin",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d4003869-7614-44c3-9a6e-19c6c1d1e6ea/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a photorealistic editorial screenshot of a TikTok (抖音) live stream featuring the celebrity 神仙姐姐 (Liu Yifei), in a 9:16 vertical mobile format.\\n\\nStyle/medium: photorealistic mobile screenshot simulation, mimicking an authentic 抖音 live broadcast UI with on-screen overlays, viewer count, and live chat bubbles\\nComposition: vertical 9:16 frame, medium close-up shot of the host from chest up, centered subject, front-facing camera angle\\nSubject: 神仙姐姐 (Liu Yifei), elegant appearance, holding up a handwritten or printed sign with both hands at chest level; sign reads \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nScene/backdrop: softly lit indoor live-stream studio or bedroom setup, blurred background with warm ambient lighting\\nLighting/mood: soft ring-light frontal illumination, warm and inviting tone, intimate live-stream atmosphere\\nColor palette: warm skin tones as anchor, soft neutral background, 抖音 signature red/white UI elements as accent\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign held by the subject; 抖音 live stream UI overlay elements (viewer count, hearts, chat messages) in the frame\\nConstraints: must look like a genuine 抖音 live stream screenshot with authentic UI chrome (top bar showing \\\"直播中\\\", floating heart animations, scrolling comment bar at bottom); sign text must be clearly legible\\nAvoid: blurry or illegible sign text, deformed hands, generic stock-photo look, missing UI overlay elements, over-smoothed skin\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11255
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 275,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张艺术商店招募合作海报。\n\n风格/媒介:艺术感海报设计\n构图:\n  竖版构图\n  层次清晰，主标题突出\n  留出足够空间排布招募信息\n主体:\n  环岛艺术中心艺术商店招募海报\n  招募对象：艺术品周边设计师及原创商品创作者\n场景/背景:\n光线/氛围:艺术创意氛围\n色彩方案:\n材质/纹理:\n文字(原样):\n  环岛艺术中心\n  艺术商店\n  招募合作\n约束:\n  9:16 竖版海报比例\n避免:",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A83050ff8-f72a-4f7f-b024-203fd880c1fe/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张艺术商店招募合作海报。\\n\\n风格/媒介:艺术感海报设计\\n构图:\\n  竖版构图\\n  层次清晰，主标题突出\\n  留出足够空间排布招募信息\\n主体:\\n  环岛艺术中心艺术商店招募海报\\n  招募对象：艺术品周边设计师及原创商品创作者\\n场景/背景:\\n光线/氛围:艺术创意氛围\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n  环岛艺术中心\\n  艺术商店\\n  招募合作\\n约束:\\n  9:16 竖版海报比例\\n避免:\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6201,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

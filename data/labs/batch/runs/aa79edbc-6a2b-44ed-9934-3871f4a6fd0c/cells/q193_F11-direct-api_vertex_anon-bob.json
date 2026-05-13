@@ -1,0 +1,23 @@
+{
+  "query_idx": 193,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:场景合成图] 生成3张图，用于小红书商品主图，1:1，第一张：保持场景人物服装不变，主要用于展示包包[@image:#2:电商白底精修图]\n，第二张、第三张：变换各种景别以及构图，可不出现人物脸部，重点展示包包",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 3,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A374e909e-5a64-4817-b150-0ece63442da1/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:场景合成图] 生成3张图，用于小红书商品主图，1:1，第一张：保持场景人物服装不变，主要用于展示包包[@image:#2:电商白底精修图]\\n，第二张、第三张：变换各种景别以及构图，可不出现人物脸部，重点展示包包\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 3, \"output_format\": \"png\"}",
+  "ms": 3413,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

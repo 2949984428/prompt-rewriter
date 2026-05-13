@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a profile avatar for a content creator covering new energy vehicles, consumer electronics, and lifestyle products.\n\nStyle/medium: needs a globally-appealing minimalist aesthetic — references in the spirit of Dieter Rams functional design philosophy, Scandinavian design heritage, Muji visual identity; exact stylistic execution is yours\nComposition: must be centered and balanced for social media profile crop compatibility\nSubject: must include abstract or symbolic elements representing technology and lifestyle (no human figures)\nScene/backdrop: must be clean and neutral to work across Chinese and international social platforms\nLighting/mood: needs a calm, professional atmosphere — exact treatment is yours\nColor palette: must be culturally neutral, avoiding region-specific symbolic colors\nMaterials/textures: must avoid religious symbols, national flags, or culturally sensitive iconography\nText (verbatim): \nConstraints: must be universally acceptable across Chinese and international social media platforms; must avoid imagery that could offend specific cultural or religious groups\nAvoid: human faces, religious symbols, national flags, region-specific political references, culturally charged colors or shapes",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bc775588-6d28-4dfd-a0b8-637fad872462/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a profile avatar for a content creator covering new energy vehicles, consumer electronics, and lifestyle products.\\n\\nStyle/medium: needs a globally-appealing minimalist aesthetic — references in the spirit of Dieter Rams functional design philosophy, Scandinavian design heritage, Muji visual identity; exact stylistic execution is yours\\nComposition: must be centered and balanced for social media profile crop compatibility\\nSubject: must include abstract or symbolic elements representing technology and lifestyle (no human figures)\\nScene/backdrop: must be clean and neutral to work across Chinese and international social platforms\\nLighting/mood: needs a calm, professional atmosphere — exact treatment is yours\\nColor palette: must be culturally neutral, avoiding region-specific symbolic colors\\nMaterials/textures: must avoid religious symbols, national flags, or culturally sensitive iconography\\nText (verbatim): \\nConstraints: must be universally acceptable across Chinese and international social media platforms; must avoid imagery that could offend specific cultural or religious groups\\nAvoid: human faces, religious symbols, national flags, region-specific political references, culturally charged colors or shapes\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11269
+}

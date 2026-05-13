@@ -1,0 +1,23 @@
+{
+  "query_idx": 235,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张竖版海报，画板比例 1:2。\n\n风格/媒介：参考图二的画风风格\n构图：竖版构图，比例 1:2\n主体：根据图一中的海报要求内容生成对应主体\n场景/背景：参考图二画风\n光线/氛围：\n色彩方案：参考图二配色风格\n材质/纹理：\n文字(原样)：\n约束：\n  画板比例严格为 1:2 竖版\n  画风参考图二\n  内容符合图一所列要求\n避免：",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af57ed298-8a71-48ea-a5d8-978107e849a1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张竖版海报，画板比例 1:2。\\n\\n风格/媒介：参考图二的画风风格\\n构图：竖版构图，比例 1:2\\n主体：根据图一中的海报要求内容生成对应主体\\n场景/背景：参考图二画风\\n光线/氛围：\\n色彩方案：参考图二配色风格\\n材质/纹理：\\n文字(原样)：\\n约束：\\n  画板比例严格为 1:2 竖版\\n  画风参考图二\\n  内容符合图一所列要求\\n避免：\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11825,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

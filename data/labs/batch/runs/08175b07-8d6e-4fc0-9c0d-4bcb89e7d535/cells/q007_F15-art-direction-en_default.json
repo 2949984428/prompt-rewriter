@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a detailed exploded-view technical illustration of a Sony A7 camera.\n\nStyle/medium: needs a technical product illustration aesthetic — exact rendering technique is yours\nComposition: must be exploded-view layout with all components separated and labeled\nSubject: must include all internal and external components of a Sony A7 camera\nScene/backdrop: \nLighting/mood: needs a clean, technical diagram atmosphere — exact lighting setup is yours\nColor palette: \nMaterials/textures: needs a technical illustration surface treatment — exact material rendering is yours\nText (verbatim): must include component labels in Spanish with technical names for all parts\nConstraints: must preserve accurate Sony A7 camera anatomy, all components must be visible and labeled\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d07110dc-0322-4465-935c-c38edb90d1a9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a detailed exploded-view technical illustration of a Sony A7 camera.\\n\\nStyle/medium: needs a technical product illustration aesthetic — exact rendering technique is yours\\nComposition: must be exploded-view layout with all components separated and labeled\\nSubject: must include all internal and external components of a Sony A7 camera\\nScene/backdrop: \\nLighting/mood: needs a clean, technical diagram atmosphere — exact lighting setup is yours\\nColor palette: \\nMaterials/textures: needs a technical illustration surface treatment — exact material rendering is yours\\nText (verbatim): must include component labels in Spanish with technical names for all parts\\nConstraints: must preserve accurate Sony A7 camera anatomy, all components must be visible and labeled\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8081
+}

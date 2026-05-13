@@ -1,0 +1,23 @@
+{
+  "query_idx": 80,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计一个图形化 logo —— 以参考图中的白色卡通小鼠形象为主体。\n\n风格/媒介:图形化 logo，卡通风格，扁平或简洁矢量风\n构图:以卡通小鼠为核心图形，构图简洁集中\n主体:白色卡通小鼠形象，参考上传图片中的造型\n场景/背景:纯色或透明背景\n光线/氛围:可爱、友好\n色彩方案:以白色为主体色，配色保持清爽可爱\n材质/纹理:\n文字(原样):\n约束:\n  参考上传图片中的白色卡通小鼠造型\n  保持 logo 的图形识别性与可爱感\n避免:写实风格、复杂背景、多余装饰元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2b5533d0-635c-4bdd-b64f-2318845f7b9d/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计一个图形化 logo —— 以参考图中的白色卡通小鼠形象为主体。\\n\\n风格/媒介:图形化 logo，卡通风格，扁平或简洁矢量风\\n构图:以卡通小鼠为核心图形，构图简洁集中\\n主体:白色卡通小鼠形象，参考上传图片中的造型\\n场景/背景:纯色或透明背景\\n光线/氛围:可爱、友好\\n色彩方案:以白色为主体色，配色保持清爽可爱\\n材质/纹理:\\n文字(原样):\\n约束:\\n  参考上传图片中的白色卡通小鼠造型\\n  保持 logo 的图形识别性与可爱感\\n避免:写实风格、复杂背景、多余装饰元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7755,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

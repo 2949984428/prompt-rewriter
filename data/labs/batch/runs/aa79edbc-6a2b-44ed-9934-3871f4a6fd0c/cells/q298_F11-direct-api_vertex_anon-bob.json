@@ -1,0 +1,23 @@
+{
+  "query_idx": 298,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "我想制作直播间的现场场景，是财经直播间，有一些k线图的背景板，主播是一个反派形象，皮克斯3d风格，可以参考猎魔女团，16：9，2k",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A630bd0fc-52f8-42ee-8784-83f7709b2c41/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"我想制作直播间的现场场景，是财经直播间，有一些k线图的背景板，主播是一个反派形象，皮克斯3d风格，可以参考猎魔女团，16：9，2k\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4053,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

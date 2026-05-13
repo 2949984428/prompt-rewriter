@@ -1,0 +1,20 @@
+{
+  "query_idx": 10,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing brand identity showcase for \"染秋 (RAN QIU)\" autumn fragrance brand.\n\nStyle/medium: brand identity guideline poster\nComposition: \nSubject: primary color + secondary color + typography specifications for 染秋 fragrance brand\nScene/backdrop: \nLighting/mood: \nColor palette: autumn tones (inspired by osmanthus, persimmon, maple leaf, amber)\nMaterials/textures: \nText (verbatim): 染秋 (RAN QIU), 桂花乌龙, 琥珀枫叶, 柿霜暮色\nConstraints: must display primary color swatch, secondary color swatch, and typography specifications in one cohesive layout\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/df0545b3-c384-48df-850c-0404e77e4bd7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing brand identity showcase for \\\"染秋 (RAN QIU)\\\" autumn fragrance brand.\\n\\nStyle/medium: brand identity guideline poster\\nComposition: \\nSubject: primary color + secondary color + typography specifications for 染秋 fragrance brand\\nScene/backdrop: \\nLighting/mood: \\nColor palette: autumn tones (inspired by osmanthus, persimmon, maple leaf, amber)\\nMaterials/textures: \\nText (verbatim): 染秋 (RAN QIU), 桂花乌龙, 琥珀枫叶, 柿霜暮色\\nConstraints: must display primary color swatch, secondary color swatch, and typography specifications in one cohesive layout\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7769
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 51,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:56242181bf5fc416915aba4f4586a285] 模仿这个风格设计一个logo，logo英文名字为nook tea",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3698d8ee-6b71-4bfa-9654-25c588f47f73/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:56242181bf5fc416915aba4f4586a285] 模仿这个风格设计一个logo，logo英文名字为nook tea\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10888,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

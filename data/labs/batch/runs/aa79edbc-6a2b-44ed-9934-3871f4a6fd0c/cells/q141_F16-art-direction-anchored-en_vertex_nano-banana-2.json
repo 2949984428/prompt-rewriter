@@ -1,0 +1,23 @@
+{
+  "query_idx": 141,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张亚马逊电商产品详情页。\n\n风格/媒介: 电商产品摄影，低饱和莫兰迪色调\n构图:\n  左侧：2个不同角度的粉色脚蹬拉力器产品图\n  右侧：4个圆角方形场景图，从上到下依次为 Home / Gym / Office / Outdoor 场景，每个场景图下方有粉色底条和白色英文标签\n  顶部：粉色加粗标题文字\n主体: 粉色脚蹬拉力器，突出产品轻量化质感\n场景/背景: 浅粉色纯色背景\n光线/氛围: 低角度柔光拍摄\n色彩方案: 低饱和莫兰迪色调，以浅粉色为主\n材质/纹理:\n文字(原样): \"Lightweight&Portable\"\n约束:\n  无畸变\n  28mm 焦距感\n避免: 畸变，高饱和色彩",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aeadfe154-5d39-4f12-bb53-ef0e58805223/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张亚马逊电商产品详情页。\\n\\n风格/媒介: 电商产品摄影，低饱和莫兰迪色调\\n构图:\\n  左侧：2个不同角度的粉色脚蹬拉力器产品图\\n  右侧：4个圆角方形场景图，从上到下依次为 Home / Gym / Office / Outdoor 场景，每个场景图下方有粉色底条和白色英文标签\\n  顶部：粉色加粗标题文字\\n主体: 粉色脚蹬拉力器，突出产品轻量化质感\\n场景/背景: 浅粉色纯色背景\\n光线/氛围: 低角度柔光拍摄\\n色彩方案: 低饱和莫兰迪色调，以浅粉色为主\\n材质/纹理:\\n文字(原样): \\\"Lightweight&Portable\\\"\\n约束:\\n  无畸变\\n  28mm 焦距感\\n避免: 畸变，高饱和色彩\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 6465,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

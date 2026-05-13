@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for a pearl milk tea product targeting Xiaohongshu (Little Red Book) social media.\n\nStyle/medium: clean lifestyle product photography, soft editorial aesthetic with influencer-friendly composition\nComposition: flat-lay overhead shot, centered product placement with generous negative space, mobile-friendly vertical framing\nSubject: iced pearl milk tea in a clear cup with visible tapioca pearls, condensation droplets on cup surface, pastel pink straw\nScene/backdrop: minimalist marble or light wood surface, soft pink fabric accents, scattered ice cubes, subtle summer props\nLighting/mood: bright natural daylight from side window, soft shadows, airy and refreshing summer vibe\nColor palette: dominant soft pink as base, warm milk tea beige as anchor, white highlights, subtle cool blue from ice\nMaterials/textures: glossy plastic cup with condensation, chewy dark tapioca pearls, frothy milk tea surface, soft fabric drape\nAvoid: cluttered background, harsh artificial lighting, oversaturated colors, generic stock photo aesthetic, watermarks",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/02e9c461-19f3-4853-bb58-2aa25faaf6e6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for a pearl milk tea product targeting Xiaohongshu (Little Red Book) social media.\\n\\nStyle/medium: clean lifestyle product photography, soft editorial aesthetic with influencer-friendly composition\\nComposition: flat-lay overhead shot, centered product placement with generous negative space, mobile-friendly vertical framing\\nSubject: iced pearl milk tea in a clear cup with visible tapioca pearls, condensation droplets on cup surface, pastel pink straw\\nScene/backdrop: minimalist marble or light wood surface, soft pink fabric accents, scattered ice cubes, subtle summer props\\nLighting/mood: bright natural daylight from side window, soft shadows, airy and refreshing summer vibe\\nColor palette: dominant soft pink as base, warm milk tea beige as anchor, white highlights, subtle cool blue from ice\\nMaterials/textures: glossy plastic cup with condensation, chewy dark tapioca pearls, frothy milk tea surface, soft fabric drape\\nAvoid: cluttered background, harsh artificial lighting, oversaturated colors, generic stock photo aesthetic, watermarks\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 23834
+}

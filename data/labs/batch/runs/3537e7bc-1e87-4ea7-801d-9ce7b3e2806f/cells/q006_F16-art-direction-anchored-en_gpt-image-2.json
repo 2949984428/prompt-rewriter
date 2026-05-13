@@ -1,0 +1,19 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "gpt-image-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "电影海报, 90年代香港武侠片风格, 胶片颗粒感, 复古色调\n\n场景:\n- 主体: 至尊宝和紫霞在古城墙上拥吻\n- 远景: 牛魔王和唐僧站在远处观望\n- 氛围: 浪漫而略带悲壮的武侠意境\n\n风格:\n- 90年代港片复古海报美学\n- 胶片颗粒质感 (film grain texture)\n- 暖色调偏黄/橙的复古调色\n- 戏剧性光影对比\n- 经典武侠电影构图\n\n文字排版:\n- 顶部: \"大话西游\" 大字标题, 书法风格\n- 底部: 演员名单和制作信息, 竖排繁体中文\n\n负向: 现代数字质感, 过度清晰, 冷色调, 卡通风格",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your resource has been temporarily blocked because we detected behavior that may violate our content policy. For more details on Azure OpenAI service content policy, please visit https://aka.ms/aoaicodeofconduct\",\"error_code\":\"API_CALL_ERROR\",\"provider_error_code\":\"Forbidden\",\"http_status_code\":403,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"电影海报, 90年代香港武侠片风格, 胶片颗粒感, 复古色调\\n\\n场景:\\n- 主体: 至尊宝和紫霞在古城墙上拥吻\\n- 远景: 牛魔王和唐僧站在远处观望\\n- 氛围: 浪漫而略带悲壮的武侠意境\\n\\n风格:\\n- 90年代港片复古海报美学\\n- 胶片颗粒质感 (film grain texture)\\n- 暖色调偏黄/橙的复古调色\\n- 戏剧性光影对比\\n- 经典武侠电影构图\\n\\n文字排版:\\n- 顶部: \\\"大话西游\\\" 大字标题, 书法风格\\n- 底部: 演员名单和制作信息, 竖排繁体中文\\n\\n负向: 现代数字质感, 过度清晰, 冷色调, 卡通风格\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4906
+}

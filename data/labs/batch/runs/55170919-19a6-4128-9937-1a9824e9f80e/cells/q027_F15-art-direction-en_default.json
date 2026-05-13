@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a panoramic illustration of the Tang Dynasty Chang'an Lantern Festival night scene (all in-image text in Chinese).\n\nStyle/medium: must be 工笔重彩长卷 (meticulous brushwork, heavy color, handscroll format)\nComposition: must be panoramic wide-angle view capturing the entire cityscape of 长安城\nSubject: must include ten thousand lanterns (万盏花灯) illuminating the night sky as the focal spectacle\nScene/backdrop: must include Tang Dynasty 长安城 cityscape at night during the Lantern Festival\nLighting/mood: needs a festive night atmosphere with warm lantern glow — exact light distribution is yours\nColor palette: needs a rich, saturated direction — exact pigment choices are yours\nMaterials/textures: needs traditional Chinese painting surface treatment — exact paper texture and brushstroke weight are yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must preserve Tang Dynasty 长安城 architectural accuracy and Lantern Festival cultural context\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3a5bf59e-49e2-4938-a617-c83df10f69ac/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a panoramic illustration of the Tang Dynasty Chang'an Lantern Festival night scene (all in-image text in Chinese).\\n\\nStyle/medium: must be 工笔重彩长卷 (meticulous brushwork, heavy color, handscroll format)\\nComposition: must be panoramic wide-angle view capturing the entire cityscape of 长安城\\nSubject: must include ten thousand lanterns (万盏花灯) illuminating the night sky as the focal spectacle\\nScene/backdrop: must include Tang Dynasty 长安城 cityscape at night during the Lantern Festival\\nLighting/mood: needs a festive night atmosphere with warm lantern glow — exact light distribution is yours\\nColor palette: needs a rich, saturated direction — exact pigment choices are yours\\nMaterials/textures: needs traditional Chinese painting surface treatment — exact paper texture and brushstroke weight are yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must preserve Tang Dynasty 长安城 architectural accuracy and Lantern Festival cultural context\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 14328
+}

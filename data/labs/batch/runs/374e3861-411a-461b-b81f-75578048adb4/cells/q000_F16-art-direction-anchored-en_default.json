@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an advertising image for a premium beauty product.\n\nStyle/medium: needs a \"奢华精致\" (luxurious and refined) aesthetic — references in the spirit of Tom Ford Beauty campaign photography, La Mer product editorial style, 1990s Japanese cosmetics advertising (資生堂/資生堂); exact stylistic execution is yours\nComposition: \nSubject: must include a serum bottle with glass body showing pale gold liquid\nScene/backdrop: must include soft pink gradient background with rose petals and water droplets splashing around the product\nLighting/mood: needs soft, natural light atmosphere — exact light source mix is yours\nColor palette: needs a soft pink gradient direction with pale gold accents — exact hex values and ratios are yours\nMaterials/textures: needs a premium glass and liquid surface treatment — exact transparency and sheen is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6e8acab9-e93b-4197-9f13-99b6b4a7808c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an advertising image for a premium beauty product.\\n\\nStyle/medium: needs a \\\"奢华精致\\\" (luxurious and refined) aesthetic — references in the spirit of Tom Ford Beauty campaign photography, La Mer product editorial style, 1990s Japanese cosmetics advertising (資生堂/資生堂); exact stylistic execution is yours\\nComposition: \\nSubject: must include a serum bottle with glass body showing pale gold liquid\\nScene/backdrop: must include soft pink gradient background with rose petals and water droplets splashing around the product\\nLighting/mood: needs soft, natural light atmosphere — exact light source mix is yours\\nColor palette: needs a soft pink gradient direction with pale gold accents — exact hex values and ratios are yours\\nMaterials/textures: needs a premium glass and liquid surface treatment — exact transparency and sheen is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11207
+}

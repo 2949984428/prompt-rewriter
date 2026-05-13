@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: cinematic concept art, panoramic landscape\nPrimary request: panoramic view of a Mars colony in the year 2387\nScene/backdrop: vast red Martian desert surface, Olympus Mons visible in the far distance, orange-red Martian sky\nSubject: massive transparent dome city clusters standing on red desert, lush vegetation and high-rise buildings visible inside domes, giant solar collection arrays and atmosphere terraforming devices operating outside domes, team of explorers in advanced spacesuits conducting geological survey in foreground, multiple six-wheeled Mars rovers parked nearby\nStyle/medium: hard sci-fi aesthetic, photorealistic CGI rendering, cinematic concept art\nComposition/framing: wide panoramic shot, epic scale, establishing shot\nLighting/mood: realistic Martian sunlight simulation, dramatic atmospheric lighting, majestic and futuristic\nColor palette: ochre red, orange-yellow, silver-gray as dominant tones\nMaterials/textures: transparent dome glass with structural frames, metallic solar panels, rugged Martian regolith, advanced spacesuit materials\nConstraints: maintain hard sci-fi realism, accurate Mars lighting conditions, preserve epic scale and futuristic atmosphere\nAvoid: cartoonish styling, Earth-like blue sky, fantasy elements, low-poly rendering, oversaturated colors",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2a944528-62e7-400f-b207-a3b7c5730f6b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: cinematic concept art, panoramic landscape\\nPrimary request: panoramic view of a Mars colony in the year 2387\\nScene/backdrop: vast red Martian desert surface, Olympus Mons visible in the far distance, orange-red Martian sky\\nSubject: massive transparent dome city clusters standing on red desert, lush vegetation and high-rise buildings visible inside domes, giant solar collection arrays and atmosphere terraforming devices operating outside domes, team of explorers in advanced spacesuits conducting geological survey in foreground, multiple six-wheeled Mars rovers parked nearby\\nStyle/medium: hard sci-fi aesthetic, photorealistic CGI rendering, cinematic concept art\\nComposition/framing: wide panoramic shot, epic scale, establishing shot\\nLighting/mood: realistic Martian sunlight simulation, dramatic atmospheric lighting, majestic and futuristic\\nColor palette: ochre red, orange-yellow, silver-gray as dominant tones\\nMaterials/textures: transparent dome glass with structural frames, metallic solar panels, rugged Martian regolith, advanced spacesuit materials\\nConstraints: maintain hard sci-fi realism, accurate Mars lighting conditions, preserve epic scale and futuristic atmosphere\\nAvoid: cartoonish styling, Earth-like blue sky, fantasy elements, low-poly rendering, oversaturated colors\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11974
+}

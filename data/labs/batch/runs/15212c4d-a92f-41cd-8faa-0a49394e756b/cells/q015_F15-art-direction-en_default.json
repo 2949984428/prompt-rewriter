@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a screenshot of a Douyin livestream featuring a female host.\n\nStyle/medium: needs a livestream interface aesthetic — exact UI styling is yours\nComposition: must be 9:16 vertical format for mobile livestream, host centered in frame\nSubject: must include a female host (the \"神仙姐姐\" character) holding a sign\nScene/backdrop: needs a livestream room setting — exact background decor is yours\nLighting/mood: needs a flattering livestream lighting setup — exact light source placement is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign the host is holding\nConstraints: must preserve 9:16 aspect ratio, must appear as an authentic livestream screenshot interface\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/053556d7-7b8b-4420-be59-6600019ee4d3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a screenshot of a Douyin livestream featuring a female host.\\n\\nStyle/medium: needs a livestream interface aesthetic — exact UI styling is yours\\nComposition: must be 9:16 vertical format for mobile livestream, host centered in frame\\nSubject: must include a female host (the \\\"神仙姐姐\\\" character) holding a sign\\nScene/backdrop: needs a livestream room setting — exact background decor is yours\\nLighting/mood: needs a flattering livestream lighting setup — exact light source placement is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign the host is holding\\nConstraints: must preserve 9:16 aspect ratio, must appear as an authentic livestream screenshot interface\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8450
+}

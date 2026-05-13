@@ -1,0 +1,23 @@
+{
+  "query_idx": 253,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图。\n\n风格/媒介:\n构图:\n主体:\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:去掉图中所有与费用相关的内容（如价格、金额、收费、优惠等文字或元素）；其他内容保持不变\n避免:费用相关文字或视觉元素",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af5e90176-0535-4ec7-b224-4f9a5dc472a2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图。\\n\\n风格/媒介:\\n构图:\\n主体:\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:去掉图中所有与费用相关的内容（如价格、金额、收费、优惠等文字或元素）；其他内容保持不变\\n避免:费用相关文字或视觉元素\", \"size\": \"auto\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5716,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

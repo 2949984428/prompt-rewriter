@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original macro-photography illustration of a micro-world water droplet scene, suitable as a mobile phone wallpaper (all in-image text in Chinese).\n\nStyle/medium: needs a \"微观精致自然\" aesthetic — references in the spirit of Levon Biss macro insect photography (ultra-detail natural world), 1990s BBC Nature documentary still-frame tradition, contemporary botanical fine-art photography; exact stylistic execution is yours\nComposition: must be vertical close-up framing with the water droplet as the central focal point, bokeh circles filling the background\nSubject: must include a single large water droplet with a reflected inverted scene inside it, surrounding grass blades, and smaller dew drops on the grass\nScene/backdrop: must include lush green grass blades and multiple dew drops as surrounding elements, background fully defocused into circular bokeh light orbs\nLighting/mood: needs a soft natural dawn-light atmosphere — exact light source mix is yours\nColor palette: needs a fresh green and translucent cool-tone direction — exact hex values and ratios are yours\nMaterials/textures: needs a wet glass-like surface treatment on the droplet with fine grass texture detail — exact grain and sheen is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must be optimized for mobile wallpaper vertical format\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3c0cee88-673d-4a39-8714-6708581200fc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original macro-photography illustration of a micro-world water droplet scene, suitable as a mobile phone wallpaper (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"微观精致自然\\\" aesthetic — references in the spirit of Levon Biss macro insect photography (ultra-detail natural world), 1990s BBC Nature documentary still-frame tradition, contemporary botanical fine-art photography; exact stylistic execution is yours\\nComposition: must be vertical close-up framing with the water droplet as the central focal point, bokeh circles filling the background\\nSubject: must include a single large water droplet with a reflected inverted scene inside it, surrounding grass blades, and smaller dew drops on the grass\\nScene/backdrop: must include lush green grass blades and multiple dew drops as surrounding elements, background fully defocused into circular bokeh light orbs\\nLighting/mood: needs a soft natural dawn-light atmosphere — exact light source mix is yours\\nColor palette: needs a fresh green and translucent cool-tone direction — exact hex values and ratios are yours\\nMaterials/textures: needs a wet glass-like surface treatment on the droplet with fine grass texture detail — exact grain and sheen is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must be optimized for mobile wallpaper vertical format\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10789
+}

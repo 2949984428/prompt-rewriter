@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an editorial photo of Korean café-style fashionable coffee and desserts, shot in a smartphone aesthetic suitable for Instagram. No people.\n\nThen, observe every element that appears in the photo and add meaningful hand-drawn annotations to each one.\n\n【描写規則】\n・白いペンで描いたような細い手描き線\n・一筆書き風の荒さ、少し不均一\n・物体の外周をなぞるような輪郭線\n・矢印や点線で視線誘導を作る\n\n【テキストルール】\n・日本語手書き文字（ひらがな7割・簡単な漢字3割）\n・短く、独り言のようなコメント\n・「日記・一言・気持ち」のトーン\n\n【コメント生成ルール】\n・飲み物 → 味・温度・気持ち（例：さっぱり、やさしい甘さ）\n・食べ物 → 食感・おいしさ（例：しっとり、さいこう）\n・空間 → 雰囲気（例：まったり、いい時間）\n・全体 → 一言まとめ（例：しあわせすぎる～）\n\n【デコレーション】\n・湯気、キラキラ、ハート、小さな顔文字などを適度に\n・やりすぎず、「余白」を残す\n\n【完成スタイル】\n・Instagramストーリー風、雑誌のラフメモ風\n・おしゃれでゆるい雰囲気\n\nStyle/medium: smartphone photography, Instagram aesthetic, hand-drawn white-pen annotation overlay, rough one-stroke sketch style\nComposition: flat lay or slight overhead angle, Instagram Stories framing\nSubject: Korean café-style coffee and desserts, no people\nScene/backdrop: Korean café setting\nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): hand-written Japanese annotations in hiragana (70%) and simple kanji (30%), short diary-tone one-liners per element\nConstraints: no people; white hand-drawn outlines tracing object edges; arrows and dotted lines for visual flow; steam, sparkle, heart, small emoticon decorations used sparingly; preserve negative space\nAvoid: overcrowded annotations, English text labels, people",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7c089fdd-4994-42a1-970b-6a9b1f3b0ba2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an editorial photo of Korean café-style fashionable coffee and desserts, shot in a smartphone aesthetic suitable for Instagram. No people.\\n\\nThen, observe every element that appears in the photo and add meaningful hand-drawn annotations to each one.\\n\\n【描写規則】\\n・白いペンで描いたような細い手描き線\\n・一筆書き風の荒さ、少し不均一\\n・物体の外周をなぞるような輪郭線\\n・矢印や点線で視線誘導を作る\\n\\n【テキストルール】\\n・日本語手書き文字（ひらがな7割・簡単な漢字3割）\\n・短く、独り言のようなコメント\\n・「日記・一言・気持ち」のトーン\\n\\n【コメント生成ルール】\\n・飲み物 → 味・温度・気持ち（例：さっぱり、やさしい甘さ）\\n・食べ物 → 食感・おいしさ（例：しっとり、さいこう）\\n・空間 → 雰囲気（例：まったり、いい時間）\\n・全体 → 一言まとめ（例：しあわせすぎる～）\\n\\n【デコレーション】\\n・湯気、キラキラ、ハート、小さな顔文字などを適度に\\n・やりすぎず、「余白」を残す\\n\\n【完成スタイル】\\n・Instagramストーリー風、雑誌のラフメモ風\\n・おしゃれでゆるい雰囲気\\n\\nStyle/medium: smartphone photography, Instagram aesthetic, hand-drawn white-pen annotation overlay, rough one-stroke sketch style\\nComposition: flat lay or slight overhead angle, Instagram Stories framing\\nSubject: Korean café-style coffee and desserts, no people\\nScene/backdrop: Korean café setting\\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): hand-written Japanese annotations in hiragana (70%) and simple kanji (30%), short diary-tone one-liners per element\\nConstraints: no people; white hand-drawn outlines tracing object edges; arrows and dotted lines for visual flow; steam, sparkle, heart, small emoticon decorations used sparingly; preserve negative space\\nAvoid: overcrowded annotations, English text labels, people\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14096
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing e-commerce announcement poster for UGREEN NAS brand 618 anniversary celebration.\n\nStyle/medium: e-commerce announcement poster, commercial brand poster\nComposition: centered hero layout with brand messaging hierarchy, clear CTA zone\nSubject: UGREEN NAS (绿联私有云) 618 anniversary celebration promotion\nScene/backdrop: clean commercial backdrop suitable for e-commerce platform display\nLighting/mood: bright, aspirational, celebratory\nColor palette: brand-aligned with 618 shopping festival energy\nMaterials/textures: polished digital finish for web display\nText (verbatim): 绿联私有云 618周年庆\nConstraints: must read clearly as thumbnail and full view, brand-safe for e-commerce platforms\nAvoid: generic stock imagery, cluttered layout, conflicting promotional messaging",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b8590eec-452c-4e87-a280-b05ad68cb060/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Design an original, non-infringing e-commerce announcement poster for UGREEN NAS brand 618 anniversary celebration.\\n\\nStyle/medium: e-commerce announcement poster, commercial brand poster\\nComposition: centered hero layout with brand messaging hierarchy, clear CTA zone\\nSubject: UGREEN NAS (绿联私有云) 618 anniversary celebration promotion\\nScene/backdrop: clean commercial backdrop suitable for e-commerce platform display\\nLighting/mood: bright, aspirational, celebratory\\nColor palette: brand-aligned with 618 shopping festival energy\\nMaterials/textures: polished digital finish for web display\\nText (verbatim): 绿联私有云 618周年庆\\nConstraints: must read clearly as thumbnail and full view, brand-safe for e-commerce platforms\\nAvoid: generic stock imagery, cluttered layout, conflicting promotional messaging\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8638
+}

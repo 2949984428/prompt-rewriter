@@ -1,0 +1,23 @@
+{
+  "query_idx": 172,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "请按照亚马逊的标准把这些产品图片处理成正方形。白色的底，把盘子以外的其他的杂乱的背景都取舍掉。以盘子为主[@image:#1:IMG_0151][@image:#2:IMG_9898]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0182bccf-8ba5-4a15-a9c0-ed761d70a30a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"请按照亚马逊的标准把这些产品图片处理成正方形。白色的底，把盘子以外的其他的杂乱的背景都取舍掉。以盘子为主[@image:#1:IMG_0151][@image:#2:IMG_9898]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2733,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

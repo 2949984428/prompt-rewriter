@@ -1,0 +1,20 @@
+{
+  "query_idx": 29,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an illustration of a dreamy underwater world with a mermaid, glowing jellyfish, and sunken treasure (all in-image text in Chinese).\n\nStyle/medium: needs a \"梦幻童话风格\" aesthetic — references in the spirit of Studio Ghibli underwater fantasy illustration, 1990s Hans Christian Andersen fairy-tale picture-book art, Disney The Little Mermaid concept art era; exact stylistic execution is yours\nComposition: needs a layered depth composition with light rays descending from the surface — exact framing is yours\nSubject: must include:\n  - a mermaid swimming among coral reefs\n  - glowing jellyfish\n  - sunken ship with treasure\n  - coral reef environment\nScene/backdrop: must include an underwater world with light rays penetrating from the ocean surface above\nLighting/mood: needs a dreamlike, luminous atmosphere with light shafts from above — exact light source mix is yours\nColor palette: needs a kaleidoscopic, dream-like direction — exact hues and ratios are yours\nMaterials/textures: needs a painterly illustration surface treatment — exact grain / sheen / weight is yours\nText (verbatim): \nConstraints: must include all in-image text in Chinese by default\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f8906f94-904f-462e-ad43-0913dcc3db5c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an illustration of a dreamy underwater world with a mermaid, glowing jellyfish, and sunken treasure (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"梦幻童话风格\\\" aesthetic — references in the spirit of Studio Ghibli underwater fantasy illustration, 1990s Hans Christian Andersen fairy-tale picture-book art, Disney The Little Mermaid concept art era; exact stylistic execution is yours\\nComposition: needs a layered depth composition with light rays descending from the surface — exact framing is yours\\nSubject: must include:\\n  - a mermaid swimming among coral reefs\\n  - glowing jellyfish\\n  - sunken ship with treasure\\n  - coral reef environment\\nScene/backdrop: must include an underwater world with light rays penetrating from the ocean surface above\\nLighting/mood: needs a dreamlike, luminous atmosphere with light shafts from above — exact light source mix is yours\\nColor palette: needs a kaleidoscopic, dream-like direction — exact hues and ratios are yours\\nMaterials/textures: needs a painterly illustration surface treatment — exact grain / sheen / weight is yours\\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8051
+}

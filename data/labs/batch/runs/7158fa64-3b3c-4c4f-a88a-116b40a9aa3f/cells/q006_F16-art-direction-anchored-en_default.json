@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a movie poster for 大话西游.\n\nStyle/medium: needs a \"90年代港片\" aesthetic — references in the spirit of 1990s Hong Kong cinema poster tradition (王家卫 Wong Kar-wai film stills, 徐克 Tsui Hark wuxia visual language, 1990s 香港电影金像奖 campaign art); exact stylistic execution is yours\nComposition: must include foreground couple embrace, secondary figures positioned in background distance\nSubject: must include 至尊宝 and 紫霞 in an embrace on the city wall as focal subjects, 牛魔王 and 唐僧 standing in the distance\nScene/backdrop: must include the iconic city wall setting from 大话西游\nLighting/mood: \nColor palette: \nMaterials/textures: must include film grain texture\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d9667fc8-aa53-4795-9075-2567684977eb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a movie poster for 大话西游.\\n\\nStyle/medium: needs a \\\"90年代港片\\\" aesthetic — references in the spirit of 1990s Hong Kong cinema poster tradition (王家卫 Wong Kar-wai film stills, 徐克 Tsui Hark wuxia visual language, 1990s 香港电影金像奖 campaign art); exact stylistic execution is yours\\nComposition: must include foreground couple embrace, secondary figures positioned in background distance\\nSubject: must include 至尊宝 and 紫霞 in an embrace on the city wall as focal subjects, 牛魔王 and 唐僧 standing in the distance\\nScene/backdrop: must include the iconic city wall setting from 大话西游\\nLighting/mood: \\nColor palette: \\nMaterials/textures: must include film grain texture\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10313
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: editorial illustration, cinematic concept art\nAsset type: wide establishing shot for sci-fi film or game environment\nPrimary request: crowded neon-lit street in Neo-Tokyo 2077, deep depth of field from street vendor to distant skyscrapers\nScene/backdrop: narrow congested alleyway, dense multilingual neon signage (Japanese, Chinese, English), wet pavement with reflections, smog-obscured megatowers in distance, drones and floating holographic ads overhead\nSubject: diverse cyberpunk crowd including women in traditional kimono with high-tech prosthetics, augmented workers in worn industrial gear, holographic virtual idols performing mid-air\nStyle/medium: digital painting, Blade Runner 2049 aesthetic, dense detail, cinematic concept art\nComposition/framing: wide establishing shot, extreme depth of field, foreground street vendor to vanishing point skyscrapers\nLighting/mood: artificial neon glow (pink, cyan-blue, orange-yellow) illuminating night scene like daylight, wet surface reflections, atmospheric haze, futuristic yet dystopian mood\nColor palette: saturated pink + electric cyan-blue + warm orange-yellow + deep shadows + neon reflections on wet ground\nMaterials/textures: wet asphalt with mirror reflections, weathered metal surfaces, glowing neon tubes, holographic projections, synthetic fabrics, chrome prosthetics\nConstraints: preserve the deep depth of field from foreground to distant skyline, maintain the multicultural crowd diversity, keep the wet pavement mirror effect\nAvoid: clean utopian aesthetic, empty streets, flat lighting, deformed anatomy, low-detail background",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/469988b0-ba23-43c1-a9d5-b6be67ae4984/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: editorial illustration, cinematic concept art\\nAsset type: wide establishing shot for sci-fi film or game environment\\nPrimary request: crowded neon-lit street in Neo-Tokyo 2077, deep depth of field from street vendor to distant skyscrapers\\nScene/backdrop: narrow congested alleyway, dense multilingual neon signage (Japanese, Chinese, English), wet pavement with reflections, smog-obscured megatowers in distance, drones and floating holographic ads overhead\\nSubject: diverse cyberpunk crowd including women in traditional kimono with high-tech prosthetics, augmented workers in worn industrial gear, holographic virtual idols performing mid-air\\nStyle/medium: digital painting, Blade Runner 2049 aesthetic, dense detail, cinematic concept art\\nComposition/framing: wide establishing shot, extreme depth of field, foreground street vendor to vanishing point skyscrapers\\nLighting/mood: artificial neon glow (pink, cyan-blue, orange-yellow) illuminating night scene like daylight, wet surface reflections, atmospheric haze, futuristic yet dystopian mood\\nColor palette: saturated pink + electric cyan-blue + warm orange-yellow + deep shadows + neon reflections on wet ground\\nMaterials/textures: wet asphalt with mirror reflections, weathered metal surfaces, glowing neon tubes, holographic projections, synthetic fabrics, chrome prosthetics\\nConstraints: preserve the deep depth of field from foreground to distant skyline, maintain the multicultural crowd diversity, keep the wet pavement mirror effect\\nAvoid: clean utopian aesthetic, empty streets, flat lighting, deformed anatomy, low-detail background\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13373
+}

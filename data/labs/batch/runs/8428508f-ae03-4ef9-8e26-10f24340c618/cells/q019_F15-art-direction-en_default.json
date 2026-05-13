@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an e-commerce promotional poster for \"绿联私有云\" brand's \"618\" anniversary sale campaign.\n\nStyle/medium: needs a festive e-commerce campaign aesthetic — exact stylistic execution is yours\nComposition: must be vertical poster layout with hero visual at top and promotional text hierarchy below\nSubject: must include the \"绿联私有云\" brand and the \"618\" anniversary sale as the focal theme\nScene/backdrop: needs a celebratory sale event atmosphere — exact backdrop treatment is yours\nLighting/mood: needs a vibrant, high-energy promotional atmosphere — exact light source mix is yours\nColor palette: needs a bold, festive e-commerce direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): must include \"绿联私有云\" (brand name), \"618\" (large, primary), \"周年庆\" (secondary)\nConstraints: must preserve brand name and sale event identity as dominant visual anchors\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/76222114-3c1e-4136-87cc-a7d330360c37/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an e-commerce promotional poster for \\\"绿联私有云\\\" brand's \\\"618\\\" anniversary sale campaign.\\n\\nStyle/medium: needs a festive e-commerce campaign aesthetic — exact stylistic execution is yours\\nComposition: must be vertical poster layout with hero visual at top and promotional text hierarchy below\\nSubject: must include the \\\"绿联私有云\\\" brand and the \\\"618\\\" anniversary sale as the focal theme\\nScene/backdrop: needs a celebratory sale event atmosphere — exact backdrop treatment is yours\\nLighting/mood: needs a vibrant, high-energy promotional atmosphere — exact light source mix is yours\\nColor palette: needs a bold, festive e-commerce direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"绿联私有云\\\" (brand name), \\\"618\\\" (large, primary), \\\"周年庆\\\" (secondary)\\nConstraints: must preserve brand name and sale event identity as dominant visual anchors\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7726
+}

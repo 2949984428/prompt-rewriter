@@ -1,0 +1,23 @@
+{
+  "query_idx": 141,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:ScreenShot_2026-03-30_231316_508] 亚马逊电商产品详情页，左侧是2个不同角度的粉色脚蹬拉力器，浅粉色纯色背景，低角度柔光拍摄，突出产品轻量化质感；右侧是4个圆角方形场景图，从上到下依次是Home/Gym/Office/Outdoor场景，每个场景图下方有粉色底条和白色英文标签；顶部有粉色加粗标题\"Lightweight&Portable\"，整体低饱和莫兰迪色调，电商产品摄影，超高清，无畸变，28mm焦距",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa65360a1-4df4-4fc8-b4c9-c1e9c693c4e1/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"亚马逊电商产品详情页，左侧是2个不同角度的粉色脚蹬拉力器，浅粉色纯色背景，低角度柔光拍摄，突出产品轻量化质感；右侧是4个圆角方形场景图，从上到下依次是Home/Gym/Office/Outdoor场景，每个场景图下方有粉色底条和白色英文标签；顶部有粉色加粗标题\\\"Lightweight&Portable\\\"，整体低饱和莫兰迪色调，电商产品摄影，超高清，无畸变，28mm焦距\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4680,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

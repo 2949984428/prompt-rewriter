@@ -1,0 +1,23 @@
+{
+  "query_idx": 276,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:UNEE Mother's Day Ad] 把相框里面的图片换成这个，像素比1080*1350的发IG[@image:#2:温馨家庭场景-玩偶缩小 (1)]",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6c874478-7123-4bf5-9784-7f9635ca3cf7/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:UNEE Mother's Day Ad] 把相框里面的图片换成这个，像素比1080*1350的发IG[@image:#2:温馨家庭场景-玩偶缩小 (1)]\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13487,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

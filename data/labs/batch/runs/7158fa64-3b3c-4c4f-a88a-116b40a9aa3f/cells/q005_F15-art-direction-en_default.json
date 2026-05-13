@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic explaining technical concepts and their relationships.\n\nStyle/medium: needs a hand-drawn sketch aesthetic — exact line weight and texture are yours\nComposition: needs a clear visual hierarchy connecting multiple concepts — exact layout and flow are yours\nSubject: must include all 7 concepts with their definitions and relationships: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\nScene/backdrop: \nLighting/mood: \nColor palette: needs an accessible, easy-to-understand direction — exact color choices are yours\nMaterials/textures: needs a hand-drawn paper texture feel — exact grain and medium are yours\nText (verbatim): must include concept names and definitions for: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\nConstraints: must preserve all 7 concepts with their relationships clearly visualized, must be visually intuitive for beginners\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d8233751-c5b2-45e4-b314-0032147f9ce2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an infographic explaining technical concepts and their relationships.\\n\\nStyle/medium: needs a hand-drawn sketch aesthetic — exact line weight and texture are yours\\nComposition: needs a clear visual hierarchy connecting multiple concepts — exact layout and flow are yours\\nSubject: must include all 7 concepts with their definitions and relationships: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs an accessible, easy-to-understand direction — exact color choices are yours\\nMaterials/textures: needs a hand-drawn paper texture feel — exact grain and medium are yours\\nText (verbatim): must include concept names and definitions for: AI, MCP, AI Agent, OpenClaw, AI Skill, 蒸馏, CLI\\nConstraints: must preserve all 7 concepts with their relationships clearly visualized, must be visually intuitive for beginners\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14988
+}

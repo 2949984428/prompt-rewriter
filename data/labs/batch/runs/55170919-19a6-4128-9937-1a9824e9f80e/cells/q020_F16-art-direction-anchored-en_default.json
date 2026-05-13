@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a brand exposure advertisement for OPPO Find X9 Pro (all in-image text in Chinese).\n\nStyle/medium: needs a \"visual impact priority\" aesthetic — references in the spirit of OPPO Find series flagship launch campaigns, Apple iPhone product photography minimalism, Samsung Galaxy cinematic hero shots; exact stylistic execution is yours\nComposition: must be full-screen mobile format\nSubject: must include OPPO Find X9 Pro smartphone as the hero product\nScene/backdrop: \nLighting/mood: needs a premium flagship atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"OPPO\" brand, \"Find X9 Pro\" product name\nConstraints: must include all in-image text in Chinese by default; must be 1080×1920 portrait format; must prioritize visual impact for brand exposure\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/08281296-9279-43c9-af1e-513f766577ac/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a brand exposure advertisement for OPPO Find X9 Pro (all in-image text in Chinese).\\n\\nStyle/medium: needs a \\\"visual impact priority\\\" aesthetic — references in the spirit of OPPO Find series flagship launch campaigns, Apple iPhone product photography minimalism, Samsung Galaxy cinematic hero shots; exact stylistic execution is yours\\nComposition: must be full-screen mobile format\\nSubject: must include OPPO Find X9 Pro smartphone as the hero product\\nScene/backdrop: \\nLighting/mood: needs a premium flagship atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"OPPO\\\" brand, \\\"Find X9 Pro\\\" product name\\nConstraints: must include all in-image text in Chinese by default; must be 1080×1920 portrait format; must prioritize visual impact for brand exposure\\nAvoid: \",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9259
+}

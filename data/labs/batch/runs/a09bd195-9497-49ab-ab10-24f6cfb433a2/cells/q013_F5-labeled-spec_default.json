@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial travel photography, hero image for resort marketing\nPrimary request: tropical resort infinity pool overlooking the ocean with lounge chairs, umbrellas, and palm trees under blue sky\nScene/backdrop: luxury beachfront resort, infinity pool edge blending into ocean horizon, white sand beach visible below\nSubject: turquoise infinity pool with crystal clear water, white cushioned lounge chairs, large canvas beach umbrellas, tall coconut palm trees swaying gently\nStyle/medium: high-saturation travel photography, resort lifestyle editorial\nComposition/framing: wide panoramic view from poolside perspective, 24mm lens, leading lines from pool edge to horizon\nLighting/mood: bright midday tropical sun, vibrant and inviting vacation atmosphere\nColor palette: saturated turquoise water + deep ocean blue + crisp white + lush palm green + golden sand tones + bright sky blue\nMaterials/textures: glossy water surface with subtle ripples, woven rattan umbrella textures, smooth pool tiles, matte lounge cushions\nConstraints: maintain high color saturation throughout, keep ocean horizon visible beyond pool edge\nAvoid: muted colors, overcast sky, empty pool, cluttered composition, artificial lighting",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/291a88bf-ac0d-44d7-b8ff-4b23b0e68efe/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Use case: photorealistic-natural\\nAsset type: editorial travel photography, hero image for resort marketing\\nPrimary request: tropical resort infinity pool overlooking the ocean with lounge chairs, umbrellas, and palm trees under blue sky\\nScene/backdrop: luxury beachfront resort, infinity pool edge blending into ocean horizon, white sand beach visible below\\nSubject: turquoise infinity pool with crystal clear water, white cushioned lounge chairs, large canvas beach umbrellas, tall coconut palm trees swaying gently\\nStyle/medium: high-saturation travel photography, resort lifestyle editorial\\nComposition/framing: wide panoramic view from poolside perspective, 24mm lens, leading lines from pool edge to horizon\\nLighting/mood: bright midday tropical sun, vibrant and inviting vacation atmosphere\\nColor palette: saturated turquoise water + deep ocean blue + crisp white + lush palm green + golden sand tones + bright sky blue\\nMaterials/textures: glossy water surface with subtle ripples, woven rattan umbrella textures, smooth pool tiles, matte lounge cushions\\nConstraints: maintain high color saturation throughout, keep ocean horizon visible beyond pool edge\\nAvoid: muted colors, overcast sky, empty pool, cluttered composition, artificial lighting\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10170
+}

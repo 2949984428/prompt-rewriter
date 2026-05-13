@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: infographic-diagram\nAsset type: PPT cover slide, presentation deck cover for Chinese domestic roadshow / fundraising pitch\nPrimary request: A polished Chinese-style VC roadshow PPT cover slide announcing the launch of GPT-5.5, with speaker credit for Sam Altman\nScene/backdrop: Clean dark navy or deep ink-blue gradient background with subtle Chinese-style geometric or circuit-pattern texture, suggesting technology and prestige\nSubject: Bold headline announcement of \"GPT-5.5 发布\" as the central visual focus; speaker name \"奥特曼\" displayed prominently as presenter; OpenAI logo or GPT-5.5 wordmark as secondary element\nStyle/medium: Flat corporate slide design, Chinese domestic GP/VC pitch deck aesthetic — authoritative, data-forward, slightly patriotic-tech color palette, clean sans-serif typography\nComposition/framing: Landscape slide layout (16:9), title centered or left-aligned in upper half, speaker info in lower-left, decorative accent lines or light rays emanating from center\nLighting/mood: Sleek, confident, forward-looking; subtle glow or gradient highlight on the headline text; serious and institutional tone matching Chinese LP/GP expectations\nColor palette: Deep navy blue + electric blue accent + gold or champagne highlight + white text — classic Chinese roadshow prestige palette\nMaterials/textures: Smooth gradient background, thin geometric grid lines, subtle glowing circuit or data-flow motifs\nText (verbatim): \"GPT-5.5 发布\" \"奥特曼\" \"演讲人：奥特曼\"\nConstraints: Must feel like a genuine Chinese domestic VC/GP roadshow deck cover; layout must be 16:9 landscape; text must be legible and prominent\nAvoid: Cartoonish illustration style, overly Western minimalism, cluttered background, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/86b6bf8c-e383-4119-9863-a8afba2bbdb9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: infographic-diagram\\nAsset type: PPT cover slide, presentation deck cover for Chinese domestic roadshow / fundraising pitch\\nPrimary request: A polished Chinese-style VC roadshow PPT cover slide announcing the launch of GPT-5.5, with speaker credit for Sam Altman\\nScene/backdrop: Clean dark navy or deep ink-blue gradient background with subtle Chinese-style geometric or circuit-pattern texture, suggesting technology and prestige\\nSubject: Bold headline announcement of \\\"GPT-5.5 发布\\\" as the central visual focus; speaker name \\\"奥特曼\\\" displayed prominently as presenter; OpenAI logo or GPT-5.5 wordmark as secondary element\\nStyle/medium: Flat corporate slide design, Chinese domestic GP/VC pitch deck aesthetic — authoritative, data-forward, slightly patriotic-tech color palette, clean sans-serif typography\\nComposition/framing: Landscape slide layout (16:9), title centered or left-aligned in upper half, speaker info in lower-left, decorative accent lines or light rays emanating from center\\nLighting/mood: Sleek, confident, forward-looking; subtle glow or gradient highlight on the headline text; serious and institutional tone matching Chinese LP/GP expectations\\nColor palette: Deep navy blue + electric blue accent + gold or champagne highlight + white text — classic Chinese roadshow prestige palette\\nMaterials/textures: Smooth gradient background, thin geometric grid lines, subtle glowing circuit or data-flow motifs\\nText (verbatim): \\\"GPT-5.5 发布\\\" \\\"奥特曼\\\" \\\"演讲人：奥特曼\\\"\\nConstraints: Must feel like a genuine Chinese domestic VC/GP roadshow deck cover; layout must be 16:9 landscape; text must be legible and prominent\\nAvoid: Cartoonish illustration style, overly Western minimalism, cluttered background, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14368
+}

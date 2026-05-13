@@ -1,0 +1,20 @@
+{
+  "query_idx": 24,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an instructional diagram showing how to deploy Hermes in a Docker container and integrate it with GLMCodingPlan, presented as a clear 4-step visual guide.\n\nStyle/medium: needs a technical documentation aesthetic — references in the spirit of GitHub documentation illustrations, Docker official docs visual style, modern SaaS onboarding flows; exact stylistic execution is yours\nComposition: must be a 4-panel vertical or horizontal step-by-step layout, each panel numbered 1-2-3-4 clearly\nSubject: must include Docker container visualization, Hermes deployment elements, GLMCodingPlan integration connection\nScene/backdrop: needs a clean technical/workspace environment — exact setting is yours\nLighting/mood: needs a clear, professional instructional atmosphere — exact lighting is yours\nColor palette: needs a modern tech documentation direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): must include \"1\", \"2\", \"3\", \"4\" as clear step numbers; must include \"Docker\", \"Hermes\", \"GLMCodingPlan\" as labeled elements\nConstraints: must show 4 distinct sequential steps, must include visual connection between Hermes and GLMCodingPlan, must be readable as an instructional diagram\nAvoid: must avoid cluttered layouts that obscure the 4-step sequence, must avoid missing step numbers",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0672b7f0-7ef6-4955-83ba-4bcc4dca302f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an instructional diagram showing how to deploy Hermes in a Docker container and integrate it with GLMCodingPlan, presented as a clear 4-step visual guide.\\n\\nStyle/medium: needs a technical documentation aesthetic — references in the spirit of GitHub documentation illustrations, Docker official docs visual style, modern SaaS onboarding flows; exact stylistic execution is yours\\nComposition: must be a 4-panel vertical or horizontal step-by-step layout, each panel numbered 1-2-3-4 clearly\\nSubject: must include Docker container visualization, Hermes deployment elements, GLMCodingPlan integration connection\\nScene/backdrop: needs a clean technical/workspace environment — exact setting is yours\\nLighting/mood: needs a clear, professional instructional atmosphere — exact lighting is yours\\nColor palette: needs a modern tech documentation direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"1\\\", \\\"2\\\", \\\"3\\\", \\\"4\\\" as clear step numbers; must include \\\"Docker\\\", \\\"Hermes\\\", \\\"GLMCodingPlan\\\" as labeled elements\\nConstraints: must show 4 distinct sequential steps, must include visual connection between Hermes and GLMCodingPlan, must be readable as an instructional diagram\\nAvoid: must avoid cluttered layouts that obscure the 4-step sequence, must avoid missing step numbers\"}",
+  "ms": 11576
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 0,
+  "skill_id": "F2-cinematic",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Cinematic editorial dreamy shot of a latte art coffee cup on a vintage wooden table, warm amber bokeh background, shallow depth of field, Japanese minimal aesthetic, top third reserved for text, soft diffused light.",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/246cd3a5-c2bb-49f5-b9d1-596100e53208/0.png"
+  ],
+  "scores": {
+    "overall": 4,
+    "intent": 3.5
+  },
+  "note": "smoke-test",
+  "error": null,
+  "raw": "{\"prompt\": \"Cinematic editorial dreamy shot of a latte art coffee cup on a vintage wooden table, warm amber bokeh background, shallow depth of field, Japanese minimal aesthetic, top third reserved for text, soft diffused light.\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6824
+}

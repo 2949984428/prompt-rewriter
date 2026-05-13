@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing PPT cover slide for a domestic Chinese fundraising roadshow announcement.\n\nStyle/medium: needs a professional Chinese VC/GP roadshow aesthetic — exact stylistic execution is yours\nComposition: must be a cover slide layout with prominent headline placement and speaker attribution area\nSubject: must include the announcement context of \"GPT 5.5 release\" and the speaker \"奥特曼\" (Sam Altman)\nScene/backdrop: \nLighting/mood: needs a confident, high-stakes pitch atmosphere — exact light treatment is yours\nColor palette: needs a professional, trustworthy direction suitable for Chinese institutional investors — exact hex values are yours\nMaterials/textures: \nText (verbatim): must include \"GPT 5.5\" or \"GPT5.5\" and \"奥特曼\" prominently\nConstraints: must preserve Chinese domestic roadshow conventions and GP-tier professionalism\nAvoid: must avoid Western startup clichés, must avoid overly casual or consumer-facing aesthetics",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/62b67bc3-36e8-419f-ae1e-12e8b2402e67/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing PPT cover slide for a domestic Chinese fundraising roadshow announcement.\\n\\nStyle/medium: needs a professional Chinese VC/GP roadshow aesthetic — exact stylistic execution is yours\\nComposition: must be a cover slide layout with prominent headline placement and speaker attribution area\\nSubject: must include the announcement context of \\\"GPT 5.5 release\\\" and the speaker \\\"奥特曼\\\" (Sam Altman)\\nScene/backdrop: \\nLighting/mood: needs a confident, high-stakes pitch atmosphere — exact light treatment is yours\\nColor palette: needs a professional, trustworthy direction suitable for Chinese institutional investors — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): must include \\\"GPT 5.5\\\" or \\\"GPT5.5\\\" and \\\"奥特曼\\\" prominently\\nConstraints: must preserve Chinese domestic roadshow conventions and GP-tier professionalism\\nAvoid: must avoid Western startup clichés, must avoid overly casual or consumer-facing aesthetics\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9842
+}

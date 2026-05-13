@@ -1,0 +1,27 @@
+{
+  "query_idx": 181,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:image]为这款销售到美国亚马逊平台的遮阳帽，提供生成一套主图和亚马逊高级A+的提示词",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab7df75aa-9609-41ff-b400-ac8457a6a5f7/0.jpg",
+    "/api/image-file/lovart%3Ab7df75aa-9609-41ff-b400-ac8457a6a5f7/1.jpg",
+    "/api/image-file/lovart%3Ab7df75aa-9609-41ff-b400-ac8457a6a5f7/2.jpg",
+    "/api/image-file/lovart%3Ab7df75aa-9609-41ff-b400-ac8457a6a5f7/3.jpg",
+    "/api/image-file/lovart%3Ab7df75aa-9609-41ff-b400-ac8457a6a5f7/4.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Amazon main listing image, product-only shot of a sun hat / visor hat for the US Amazon marketplace. The hat is centered on a pure white background (#FFFFFF), occupying at least 85% of the frame. Shot from a front-facing 3/4 angle to show the brim shape, crown structure, and any band or strap detail. Clean, even studio lighting with soft shadows to reveal texture. No props, no model, no text overlays. Photorealistic product photography.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7367,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

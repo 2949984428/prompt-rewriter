@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a red convertible driving on Route 66 through the desert at golden hour.\n\nStyle/medium: vintage American road-trip photography, Kodachrome film aesthetic, 1960s travel magazine editorial\nComposition: wide-angle landscape shot, 24mm lens, car positioned on lower third following rule of thirds, leading road lines drawing eye to horizon\nSubject: classic red convertible with chrome details, top down, two passengers silhouettes visible, dust trailing behind\nScene/backdrop: endless stretch of Route 66 cutting through arid desert, scattered saguaro cacti on both sides, distant mesas on horizon\nLighting/mood: golden hour sunset, warm side-lighting casting long shadows, sky gradients from deep orange to dusty rose, sense of freedom and wanderlust\nColor palette: warm orange-red sunset sky as dominant, vibrant red car as focal anchor, muted sage desert greens, dusty beige earth tones\nMaterials/textures: visible film grain, slightly faded color saturation characteristic of vintage prints, chrome reflections, dust particles in air\nAvoid: oversaturated neon colors, modern cars, pristine asphalt, 8K hyper-realistic rendering, lens flares unless natural",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5217e668-4306-481a-9fd7-cab2cc4f1c56/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a red convertible driving on Route 66 through the desert at golden hour.\\n\\nStyle/medium: vintage American road-trip photography, Kodachrome film aesthetic, 1960s travel magazine editorial\\nComposition: wide-angle landscape shot, 24mm lens, car positioned on lower third following rule of thirds, leading road lines drawing eye to horizon\\nSubject: classic red convertible with chrome details, top down, two passengers silhouettes visible, dust trailing behind\\nScene/backdrop: endless stretch of Route 66 cutting through arid desert, scattered saguaro cacti on both sides, distant mesas on horizon\\nLighting/mood: golden hour sunset, warm side-lighting casting long shadows, sky gradients from deep orange to dusty rose, sense of freedom and wanderlust\\nColor palette: warm orange-red sunset sky as dominant, vibrant red car as focal anchor, muted sage desert greens, dusty beige earth tones\\nMaterials/textures: visible film grain, slightly faded color saturation characteristic of vintage prints, chrome reflections, dust particles in air\\nAvoid: oversaturated neon colors, modern cars, pristine asphalt, 8K hyper-realistic rendering, lens flares unless natural\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10756
+}

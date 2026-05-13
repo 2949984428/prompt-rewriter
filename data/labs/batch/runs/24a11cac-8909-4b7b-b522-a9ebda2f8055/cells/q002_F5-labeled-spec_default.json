@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-art\nAsset type: traditional Chinese ink wash painting (水墨画), landscape composition\nPrimary request: a serene shanshui (mountain-water) ink painting with distant mountains, drifting mist, pine trees, a thatched cottage, and an elderly figure fishing by a stream\nScene/backdrop: layered mountain landscape — distant peaks fading into mist, mid-ground pine forest and thatched cottage, foreground rocky stream bank\nSubject: elderly scholar-fisherman seated quietly by a winding stream, fishing rod in hand; ancient gnarled pine trees; humble thatched-roof cottage nestled among rocks; distant mountains dissolving into clouds\nStyle/medium: traditional Chinese ink wash (水墨), brush and ink on rice paper texture, xieyi (写意) expressive brushwork, Song-dynasty landscape painting aesthetic\nComposition/framing: wide horizontal scroll (横幅) composition, three-depth layering (近景/中景/远景), generous negative space (留白) in sky and water areas\nLighting/mood: soft diffused daylight filtered through mountain mist, tranquil and contemplative, ethereal and timeless — Eastern aesthetic (东方美学)\nColor palette: monochromatic ink gradients — deep ink black to pale wash grey, subtle warm rice-paper ivory ground, minimal muted moss green accent on pines\nMaterials/textures: rice paper grain visible, dry-brush (飞白) strokes on pine bark, wet ink bleed on misty mountain edges, ink pooling in rock crevices\nConstraints: preserve ample negative white space (留白) to convey emptiness and spiritual resonance; no photorealistic rendering; maintain calligraphic brush quality throughout\nAvoid: Western oil painting style, saturated colors, hard digital edges, overcrowded composition",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6220afee-dabe-471d-beed-a2229127bd60/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-art\\nAsset type: traditional Chinese ink wash painting (水墨画), landscape composition\\nPrimary request: a serene shanshui (mountain-water) ink painting with distant mountains, drifting mist, pine trees, a thatched cottage, and an elderly figure fishing by a stream\\nScene/backdrop: layered mountain landscape — distant peaks fading into mist, mid-ground pine forest and thatched cottage, foreground rocky stream bank\\nSubject: elderly scholar-fisherman seated quietly by a winding stream, fishing rod in hand; ancient gnarled pine trees; humble thatched-roof cottage nestled among rocks; distant mountains dissolving into clouds\\nStyle/medium: traditional Chinese ink wash (水墨), brush and ink on rice paper texture, xieyi (写意) expressive brushwork, Song-dynasty landscape painting aesthetic\\nComposition/framing: wide horizontal scroll (横幅) composition, three-depth layering (近景/中景/远景), generous negative space (留白) in sky and water areas\\nLighting/mood: soft diffused daylight filtered through mountain mist, tranquil and contemplative, ethereal and timeless — Eastern aesthetic (东方美学)\\nColor palette: monochromatic ink gradients — deep ink black to pale wash grey, subtle warm rice-paper ivory ground, minimal muted moss green accent on pines\\nMaterials/textures: rice paper grain visible, dry-brush (飞白) strokes on pine bark, wet ink bleed on misty mountain edges, ink pooling in rock crevices\\nConstraints: preserve ample negative white space (留白) to convey emptiness and spiritual resonance; no photorealistic rendering; maintain calligraphic brush quality throughout\\nAvoid: Western oil painting style, saturated colors, hard digital edges, overcrowded composition\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13026
+}

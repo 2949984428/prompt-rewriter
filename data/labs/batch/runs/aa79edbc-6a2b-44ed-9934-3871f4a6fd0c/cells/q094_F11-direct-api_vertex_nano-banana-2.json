@@ -1,0 +1,21 @@
+{
+  "query_idx": 94,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "[@image:#1:Screenshot 2026-04-21 at 11][@image:#2:Screenshot 2026-04-21 at 11] 请根据两个我提供的设计 提供我不同的logo 设计。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:生图失败",
+  "raw": "{\"prompt\": \"[@image:#1:Screenshot 2026-04-21 at 11][@image:#2:Screenshot 2026-04-21 at 11] 请根据两个我提供的设计 提供我不同的logo 设计。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3700,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

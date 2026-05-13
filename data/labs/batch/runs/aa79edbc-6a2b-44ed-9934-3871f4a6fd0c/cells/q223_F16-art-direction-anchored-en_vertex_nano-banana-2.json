@@ -1,0 +1,23 @@
+{
+  "query_idx": 223,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Éditer cette photo (image #1) en portrait professionnel pour carte d'identité.\n\n风格/媒介: portrait photo studio, rendu naturel sans filtre excessif\n构图: cadrage centré visage + épaules, format carré 1:1\n主体:\n  conserver exactement le visage original : traits, forme du visage, yeux, nez, bouche, couleur de peau, expression — aucune retouche morphologique\n  modifier uniquement la tenue : chemise blanche élégante avec cravate classique\n场景/背景: remplacer l'arrière-plan par un fond studio propre et neutre (blanc ou gris clair)\n光线/氛围: éclairage studio professionnel, bien équilibré\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  ne pas modifier le visage\n  supprimer le bruit, augmenter la netteté, améliorer la lumière et les détails\n  garder un rendu naturel\n避免: retouche morphologique du visage, filtre excessif",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af422b2de-ead2-4a2a-8311-d40219374fd6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Éditer cette photo (image #1) en portrait professionnel pour carte d'identité.\\n\\n风格/媒介: portrait photo studio, rendu naturel sans filtre excessif\\n构图: cadrage centré visage + épaules, format carré 1:1\\n主体:\\n  conserver exactement le visage original : traits, forme du visage, yeux, nez, bouche, couleur de peau, expression — aucune retouche morphologique\\n  modifier uniquement la tenue : chemise blanche élégante avec cravate classique\\n场景/背景: remplacer l'arrière-plan par un fond studio propre et neutre (blanc ou gris clair)\\n光线/氛围: éclairage studio professionnel, bien équilibré\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  ne pas modifier le visage\\n  supprimer le bruit, augmenter la netteté, améliorer la lumière et les détails\\n  garder un rendu naturel\\n避免: retouche morphologique du visage, filtre excessif\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13654,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for \"大话西游\" (A Chinese Odyssey).\n\nStyle/medium: needs a 90s Hong Kong cinema aesthetic — exact stylistic execution is yours\nComposition: must include the central couple embracing/kissing on the city wall, with two figures standing in the distance\nSubject: must include 至尊宝 and 紫霞 (central, embracing/kissing on the wall), 牛魔王 and 唐僧 (standing in the distance)\nScene/backdrop: must include the iconic city wall setting\nLighting/mood: needs a nostalgic romantic atmosphere — exact light source mix is yours\nColor palette: needs a 90s Hong Kong film direction — exact grading and saturation are yours\nMaterials/textures: must include film grain texture\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e7c3820a-b330-4f12-ab5a-dd2d270fffb0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster for \\\"大话西游\\\" (A Chinese Odyssey).\\n\\nStyle/medium: needs a 90s Hong Kong cinema aesthetic — exact stylistic execution is yours\\nComposition: must include the central couple embracing/kissing on the city wall, with two figures standing in the distance\\nSubject: must include 至尊宝 and 紫霞 (central, embracing/kissing on the wall), 牛魔王 and 唐僧 (standing in the distance)\\nScene/backdrop: must include the iconic city wall setting\\nLighting/mood: needs a nostalgic romantic atmosphere — exact light source mix is yours\\nColor palette: needs a 90s Hong Kong film direction — exact grading and saturation are yours\\nMaterials/textures: must include film grain texture\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 17021
+}

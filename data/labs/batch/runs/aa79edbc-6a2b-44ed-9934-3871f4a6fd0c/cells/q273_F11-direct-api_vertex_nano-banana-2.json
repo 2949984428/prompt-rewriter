@@ -1,0 +1,23 @@
+{
+  "query_idx": 273,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "can you create a similar image ,but using the water bottle I'll attach here,instagram post 4:5[@image:#1:Pattern on Water Bottle - No Logo]",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A48dec493-c0cd-4bb6-8e2c-16a2552b10a9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"can you create a similar image ,but using the water bottle I'll attach here,instagram post 4:5[@image:#1:Pattern on Water Bottle - No Logo]\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2597,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 305,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "结合这个标题【都用image2，为啥别人能接商单，你不行？你的AI设计不落地】给我生成2.35：1的微信公众号封面",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A17cbd55e-6125-4fca-a5b9-9536e0ba0321/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"结合这个标题【都用image2，为啥别人能接商单，你不行？你的AI设计不落地】给我生成2.35：1的微信公众号封面\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3924,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing panoramic gongbi heavy-color scroll painting of the Tang Dynasty Chang'an Lantern Festival.\n\nStyle/medium: gongbi heavy-color scroll painting (工笔重彩长卷)\nComposition: panoramic long scroll format, wide horizontal view capturing the full expanse of Chang'an city\nSubject: Tang Dynasty Chang'an city during Lantern Festival, thousands of lanterns illuminating the night\nScene/backdrop: ancient Chang'an cityscape with streets, architecture, crowds celebrating, countless lanterns hanging and glowing\nLighting/mood: night scene with warm lantern light spreading across the city, festive and majestic atmosphere\nColor palette: rich traditional Chinese pigments, warm golden lantern glow against deep night blues and reds\nMaterials/textures: silk scroll texture, fine gongbi brushwork with layered mineral pigments\nText (verbatim): \nConstraints: must maintain Tang Dynasty architectural accuracy, long scroll format\nAvoid: modern elements, anachronistic details, Western perspective distortion",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/23fe9526-6ae7-49ff-a41e-2710fd8e9f78/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing panoramic gongbi heavy-color scroll painting of the Tang Dynasty Chang'an Lantern Festival.\\n\\nStyle/medium: gongbi heavy-color scroll painting (工笔重彩长卷)\\nComposition: panoramic long scroll format, wide horizontal view capturing the full expanse of Chang'an city\\nSubject: Tang Dynasty Chang'an city during Lantern Festival, thousands of lanterns illuminating the night\\nScene/backdrop: ancient Chang'an cityscape with streets, architecture, crowds celebrating, countless lanterns hanging and glowing\\nLighting/mood: night scene with warm lantern light spreading across the city, festive and majestic atmosphere\\nColor palette: rich traditional Chinese pigments, warm golden lantern glow against deep night blues and reds\\nMaterials/textures: silk scroll texture, fine gongbi brushwork with layered mineral pigments\\nText (verbatim): \\nConstraints: must maintain Tang Dynasty architectural accuracy, long scroll format\\nAvoid: modern elements, anachronistic details, Western perspective distortion\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9761
+}

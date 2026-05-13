@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a steampunk mechanical device illustration featuring intricate gears, pipes, and gauges (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a steampunk aesthetic with Victorian-era decorative elements — exact stylistic execution is yours\nComposition: \nSubject: must include intricate gears, pipes, and gauges\nScene/backdrop: must include the mechanical device context\nLighting/mood: needs a precision-retro industrial atmosphere — exact light source mix is yours\nColor palette: needs a brass and copper dominant direction — exact metallic tones and ratios are yours\nMaterials/textures: must include brass and copper surface treatment — exact grain / patina / weight is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b50495b3-f3c6-40bc-b262-9bfac1cfce7e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a steampunk mechanical device illustration featuring intricate gears, pipes, and gauges (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a steampunk aesthetic with Victorian-era decorative elements — exact stylistic execution is yours\\nComposition: \\nSubject: must include intricate gears, pipes, and gauges\\nScene/backdrop: must include the mechanical device context\\nLighting/mood: needs a precision-retro industrial atmosphere — exact light source mix is yours\\nColor palette: needs a brass and copper dominant direction — exact metallic tones and ratios are yours\\nMaterials/textures: must include brass and copper surface treatment — exact grain / patina / weight is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9559
+}

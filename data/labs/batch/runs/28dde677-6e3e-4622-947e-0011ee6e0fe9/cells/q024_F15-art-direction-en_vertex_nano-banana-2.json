@@ -1,0 +1,21 @@
+{
+  "query_idx": 24,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a technical instructional illustration showing how to deploy hermes in a docker container and integrate glmcodingplan, with clearly labeled step-by-step panels.\n\nStyle/medium: needs a clean technical-diagram / infographic aesthetic — exact stylistic execution is yours\nComposition: must be a multi-panel layout with clearly numbered steps 1, 2, 3, 4 in sequence\nSubject: must include all 4 deployment steps:\n  Step 1: docker 环境准备 / 拉取 hermes 镜像\n  Step 2: 启动 docker 容器 / 配置参数\n  Step 3: 接入 glmcodingplan / 配置连接\n  Step 4: 验证部署 / 运行测试\nScene/backdrop: \nLighting/mood: \nColor palette: needs a technical / developer-tool direction — exact color scheme is yours\nMaterials/textures: \nText (verbatim): must include step labels \"1\" \"2\" \"3\" \"4\", component labels \"hermes\", \"docker\", \"glmcodingplan\"\nConstraints: must preserve clear visual separation between each numbered step; each panel must show relevant UI / terminal / diagram elements illustrating that step\nAvoid: must avoid decorative clutter that obscures the technical steps",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7cc54d98-8aae-4842-b5c9-b240589f2e3a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a technical instructional illustration showing how to deploy hermes in a docker container and integrate glmcodingplan, with clearly labeled step-by-step panels.\\n\\nStyle/medium: needs a clean technical-diagram / infographic aesthetic — exact stylistic execution is yours\\nComposition: must be a multi-panel layout with clearly numbered steps 1, 2, 3, 4 in sequence\\nSubject: must include all 4 deployment steps:\\n  Step 1: docker 环境准备 / 拉取 hermes 镜像\\n  Step 2: 启动 docker 容器 / 配置参数\\n  Step 3: 接入 glmcodingplan / 配置连接\\n  Step 4: 验证部署 / 运行测试\\nScene/backdrop: \\nLighting/mood: \\nColor palette: needs a technical / developer-tool direction — exact color scheme is yours\\nMaterials/textures: \\nText (verbatim): must include step labels \\\"1\\\" \\\"2\\\" \\\"3\\\" \\\"4\\\", component labels \\\"hermes\\\", \\\"docker\\\", \\\"glmcodingplan\\\"\\nConstraints: must preserve clear visual separation between each numbered step; each panel must show relevant UI / terminal / diagram elements illustrating that step\\nAvoid: must avoid decorative clutter that obscures the technical steps\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8727
+}

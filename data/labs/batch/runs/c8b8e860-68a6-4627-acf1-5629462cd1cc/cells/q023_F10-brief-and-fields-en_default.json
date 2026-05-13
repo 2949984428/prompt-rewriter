@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing educational infographic card for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era.\n\nStyle/medium: flat vector illustration, children's educational card style, playful cartoon storytelling aesthetic\nComposition: single large knowledge card layout, title at top, main story illustration occupying center, key bullet points listed neatly on the side\nSubject: the Battle of Red Cliffs (赤壁之战), featuring cartoon-style ancient Chinese warships, fire arrows, warriors in simplified armor, and strategic elements\nScene/backdrop: Yangtze River battle scene with warships, flames, and dramatic sky, presented in child-friendly simplified cartoon form\nText (verbatim): \"赤壁之战\"\nConstraints: must be readable for children aged 6-12; key points must be clearly separated with punctuation; single-card format without multiple pages\nAvoid: violent gore, overly complex historical details, realistic blood, scary faces, cluttered layout, adult-oriented war aesthetics",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2a086b76-ab85-48db-96cf-c06800c257de/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing educational infographic card for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms era.\\n\\nStyle/medium: flat vector illustration, children's educational card style, playful cartoon storytelling aesthetic\\nComposition: single large knowledge card layout, title at top, main story illustration occupying center, key bullet points listed neatly on the side\\nSubject: the Battle of Red Cliffs (赤壁之战), featuring cartoon-style ancient Chinese warships, fire arrows, warriors in simplified armor, and strategic elements\\nScene/backdrop: Yangtze River battle scene with warships, flames, and dramatic sky, presented in child-friendly simplified cartoon form\\nText (verbatim): \\\"赤壁之战\\\"\\nConstraints: must be readable for children aged 6-12; key points must be clearly separated with punctuation; single-card format without multiple pages\\nAvoid: violent gore, overly complex historical details, realistic blood, scary faces, cluttered layout, adult-oriented war aesthetics\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9532
+}

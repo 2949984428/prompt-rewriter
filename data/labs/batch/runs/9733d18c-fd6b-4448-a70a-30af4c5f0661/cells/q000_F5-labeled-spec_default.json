@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial landscape photography, fine art print\nPrimary request: pristine old-growth forest at dawn with volumetric light rays piercing through canopy\nScene/backdrop: ancient primeval forest interior, moss-covered boulders, winding mountain stream with crystal-clear water reflecting emerald vegetation, distant misty mountain silhouettes\nSubject: foreground ferns and wild mushrooms, midground towering redwood trunks reaching skyward, background layered mountain ridges fading into mist\nStyle/medium: landscape photography, wide-angle lens, pronounced depth of field\nComposition/framing: wide-angle establishing shot, foreground-to-background layering, strong depth of field with sharp focus throughout\nLighting/mood: early morning golden hour, dramatic crepuscular rays (Tyndall effect) streaming through dense canopy, soft atmospheric haze, mysterious and serene mood\nColor palette: deep forest green, vivid emerald, golden amber sunlight, cool misty blue-gray in background\nMaterials/textures: velvety moss on weathered stone, delicate fern fronds, smooth wet river stones, rough bark texture of redwoods\nConstraints: preserve the layered depth from foreground mushrooms to distant mountains, maintain the ethereal quality of light beams through mist\nAvoid: oversaturated colors, artificial sharpening halos, plastic-looking vegetation, lens flare artifacts, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e8b44640-eecf-48d9-8d87-4a94fd6c2e77/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial landscape photography, fine art print\\nPrimary request: pristine old-growth forest at dawn with volumetric light rays piercing through canopy\\nScene/backdrop: ancient primeval forest interior, moss-covered boulders, winding mountain stream with crystal-clear water reflecting emerald vegetation, distant misty mountain silhouettes\\nSubject: foreground ferns and wild mushrooms, midground towering redwood trunks reaching skyward, background layered mountain ridges fading into mist\\nStyle/medium: landscape photography, wide-angle lens, pronounced depth of field\\nComposition/framing: wide-angle establishing shot, foreground-to-background layering, strong depth of field with sharp focus throughout\\nLighting/mood: early morning golden hour, dramatic crepuscular rays (Tyndall effect) streaming through dense canopy, soft atmospheric haze, mysterious and serene mood\\nColor palette: deep forest green, vivid emerald, golden amber sunlight, cool misty blue-gray in background\\nMaterials/textures: velvety moss on weathered stone, delicate fern fronds, smooth wet river stones, rough bark texture of redwoods\\nConstraints: preserve the layered depth from foreground mushrooms to distant mountains, maintain the ethereal quality of light beams through mist\\nAvoid: oversaturated colors, artificial sharpening halos, plastic-looking vegetation, lens flare artifacts, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12340
+}

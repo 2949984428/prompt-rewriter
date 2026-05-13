@@ -1,0 +1,20 @@
+{
+  "query_idx": 14,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original UI design system showcase illustration featuring Dashboard, mobile interfaces, cards, buttons, and controls.\n\nStyle/medium: needs a \"经典简约科技风格\" aesthetic — references in the spirit of Apple Human Interface Guidelines minimalist system design, Bauhaus functional grid heritage, 2010s–2020s dark-mode SaaS dashboard visual language (Stripe / Linear / Vercel); exact stylistic execution is yours\nComposition: must include multi-panel layout showing all component types — Dashboard (web), mobile interface, cards, buttons, and controls — arranged in a layered, hierarchy-rich composition\nSubject: must include:\n  - Web Dashboard panel with data visualizations\n  - Mobile interface screen\n  - Card components (multiple variants)\n  - Button components (multiple states)\n  - UI controls (toggles, sliders, inputs, etc.)\nScene/backdrop: needs a deep dark or near-black tech backdrop — exact surface treatment is yours\nLighting/mood: needs a visually striking, high-tech atmosphere with strong depth and layer contrast — exact light treatment is yours\nColor palette: needs a cool-toned tech palette with vivid accent highlights (electric blue, cyan, or similar) against dark neutrals — exact hues are yours\nMaterials/textures: needs a sense of glass-morphism, subtle gradients, or layered translucency to reinforce depth — exact material execution is yours\nText (verbatim): \nConstraints: must show clear visual hierarchy across all component types; all components must read as a cohesive system\nAvoid: flat, low-contrast, or overly colorful toy-style UI; skeuomorphic heavy textures",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5e2f1f5d-a8e9-4f2d-845a-8975711c8fb7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original UI design system showcase illustration featuring Dashboard, mobile interfaces, cards, buttons, and controls.\\n\\nStyle/medium: needs a \\\"经典简约科技风格\\\" aesthetic — references in the spirit of Apple Human Interface Guidelines minimalist system design, Bauhaus functional grid heritage, 2010s–2020s dark-mode SaaS dashboard visual language (Stripe / Linear / Vercel); exact stylistic execution is yours\\nComposition: must include multi-panel layout showing all component types — Dashboard (web), mobile interface, cards, buttons, and controls — arranged in a layered, hierarchy-rich composition\\nSubject: must include:\\n  - Web Dashboard panel with data visualizations\\n  - Mobile interface screen\\n  - Card components (multiple variants)\\n  - Button components (multiple states)\\n  - UI controls (toggles, sliders, inputs, etc.)\\nScene/backdrop: needs a deep dark or near-black tech backdrop — exact surface treatment is yours\\nLighting/mood: needs a visually striking, high-tech atmosphere with strong depth and layer contrast — exact light treatment is yours\\nColor palette: needs a cool-toned tech palette with vivid accent highlights (electric blue, cyan, or similar) against dark neutrals — exact hues are yours\\nMaterials/textures: needs a sense of glass-morphism, subtle gradients, or layered translucency to reinforce depth — exact material execution is yours\\nText (verbatim): \\nConstraints: must show clear visual hierarchy across all component types; all components must read as a cohesive system\\nAvoid: flat, low-contrast, or overly colorful toy-style UI; skeuomorphic heavy textures\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12862
+}

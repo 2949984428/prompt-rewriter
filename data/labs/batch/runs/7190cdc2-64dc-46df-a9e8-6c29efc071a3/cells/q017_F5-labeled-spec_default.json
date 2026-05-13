@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-editorial\nAsset type: retro sci-fi magazine cover, 1960s space-age illustration\nPrimary request: imagined year-2000 lunar colony city life as envisioned in the 1960s\nScene/backdrop: lunar surface with gray barren terrain, a massive transparent geodesic dome enclosing a miniature city, black star-filled cosmos with Earth hanging in the distance\nSubject: domed lunar colony with skyscrapers, parks, monorail trains, flying cars inside; astronauts piloting circular flying saucers patrolling outside the dome; Earth visible as blue and white sphere against void\nStyle/medium: 1960s-70s sci-fi magazine cover illustration, retro-futurism, hard-edged linework, optimistic naive vision of the future\nComposition/framing: wide establishing shot, dome as central focal point, Earth positioned in upper background, flying saucers in mid-ground\nLighting/mood: dramatic contrast between artificial dome lighting and harsh lunar shadows, cosmic darkness, hopeful and aspirational mood\nColor palette: vibrant saturated hues with slight faded/washed quality, retro printing color separation, cyan-magenta-yellow registration feel\nMaterials/textures: halftone dot pattern texture, newsprint paper grain, vintage offset printing aesthetic, smooth illustration surfaces with hard edges\nConstraints: preserve 1960s retro-futuristic aesthetic, maintain naive optimistic tone of the era, keep halftone texture visible\nAvoid: photorealistic rendering, modern CGI smoothness, desaturated dystopian palette, contemporary minimalist design",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/fc04c523-3fa9-4144-8c98-7611b2ca786e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-editorial\\nAsset type: retro sci-fi magazine cover, 1960s space-age illustration\\nPrimary request: imagined year-2000 lunar colony city life as envisioned in the 1960s\\nScene/backdrop: lunar surface with gray barren terrain, a massive transparent geodesic dome enclosing a miniature city, black star-filled cosmos with Earth hanging in the distance\\nSubject: domed lunar colony with skyscrapers, parks, monorail trains, flying cars inside; astronauts piloting circular flying saucers patrolling outside the dome; Earth visible as blue and white sphere against void\\nStyle/medium: 1960s-70s sci-fi magazine cover illustration, retro-futurism, hard-edged linework, optimistic naive vision of the future\\nComposition/framing: wide establishing shot, dome as central focal point, Earth positioned in upper background, flying saucers in mid-ground\\nLighting/mood: dramatic contrast between artificial dome lighting and harsh lunar shadows, cosmic darkness, hopeful and aspirational mood\\nColor palette: vibrant saturated hues with slight faded/washed quality, retro printing color separation, cyan-magenta-yellow registration feel\\nMaterials/textures: halftone dot pattern texture, newsprint paper grain, vintage offset printing aesthetic, smooth illustration surfaces with hard edges\\nConstraints: preserve 1960s retro-futuristic aesthetic, maintain naive optimistic tone of the era, keep halftone texture visible\\nAvoid: photorealistic rendering, modern CGI smoothness, desaturated dystopian palette, contemporary minimalist design\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12860
+}

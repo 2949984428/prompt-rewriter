@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: corporate employee ID badge mockup, both front and back sides shown\nPrimary request: photorealistic design of a ByteDance (字节跳动) employee ID badge, displaying front and back faces side by side\nScene/backdrop: clean light gray studio surface, subtle soft shadow beneath each card\nSubject: two ID badge cards laid flat or slightly angled — front face showing company logo \"字节跳动 / ByteDance\", employee photo placeholder, name, department, employee ID number; back face showing barcode/QR code, company address, card policy text\nStyle/medium: photorealistic product photography\nComposition/framing: top-down or slight 15° overhead angle, both cards arranged side by side with small gap, centered composition\nLighting/mood: soft diffused studio light, clean and corporate, no harsh shadows\nColor palette: white card base, ByteDance signature orange-red accent (#FF4500 range), black text, subtle gray secondary text\nMaterials/textures: glossy PVC card surface with slight specular highlight, printed ink texture, lanyard hole at top\nText (verbatim): \"字节跳动\" \"ByteDance\"\nConstraints: both front and back must be fully visible; badge proportions must follow standard CR80 card ratio (85.6mm × 54mm); logo placement top-center on front\nAvoid: cartoon style, floating elements with no shadow, illegible micro-text rendered as noise",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5edbb8c4-68f1-47b2-bcc0-91b85c2fb417/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: corporate employee ID badge mockup, both front and back sides shown\\nPrimary request: photorealistic design of a ByteDance (字节跳动) employee ID badge, displaying front and back faces side by side\\nScene/backdrop: clean light gray studio surface, subtle soft shadow beneath each card\\nSubject: two ID badge cards laid flat or slightly angled — front face showing company logo \\\"字节跳动 / ByteDance\\\", employee photo placeholder, name, department, employee ID number; back face showing barcode/QR code, company address, card policy text\\nStyle/medium: photorealistic product photography\\nComposition/framing: top-down or slight 15° overhead angle, both cards arranged side by side with small gap, centered composition\\nLighting/mood: soft diffused studio light, clean and corporate, no harsh shadows\\nColor palette: white card base, ByteDance signature orange-red accent (#FF4500 range), black text, subtle gray secondary text\\nMaterials/textures: glossy PVC card surface with slight specular highlight, printed ink texture, lanyard hole at top\\nText (verbatim): \\\"字节跳动\\\" \\\"ByteDance\\\"\\nConstraints: both front and back must be fully visible; badge proportions must follow standard CR80 card ratio (85.6mm × 54mm); logo placement top-center on front\\nAvoid: cartoon style, floating elements with no shadow, illegible micro-text rendered as noise\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14430
+}

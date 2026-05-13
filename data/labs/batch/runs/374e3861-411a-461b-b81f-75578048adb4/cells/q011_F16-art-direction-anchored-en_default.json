@@ -1,0 +1,18 @@
+{
+  "query_idx": 11,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an illustration of a sakura-season school campus scene.\n\nStyle/medium: needs a \"清新日系\" aesthetic — references in the spirit of Makoto Shinkai film backgrounds, Studio Ghibli pastoral school scenes, 1980s Japanese city pop illustration; exact stylistic execution is yours\nComposition: \nSubject: must include a young woman in 水手服 standing in front of a school building\nScene/backdrop: must include a school campus during sakura season with falling pink cherry blossoms, 教学楼 visible\nLighting/mood: needs a bright sunny spring atmosphere with gentle breeze — exact light source mix is yours\nColor palette: needs a soft pink-forward spring direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID req_dead039dc53a4232afc7a090c5683881.\",\"error_code\":\"API_CONTENT_POLICY\",\"provider_error_code\":\"moderation_blocked\",\"http_status_code\":400,\"stage\":\"submit\"}",
+  "raw": "{\"prompt\":\"Create an illustration of a sakura-season school campus scene.\\n\\nStyle/medium: needs a \\\"清新日系\\\" aesthetic — references in the spirit of Makoto Shinkai film backgrounds, Studio Ghibli pastoral school scenes, 1980s Japanese city pop illustration; exact stylistic execution is yours\\nComposition: \\nSubject: must include a young woman in 水手服 standing in front of a school building\\nScene/backdrop: must include a school campus during sakura season with falling pink cherry blossoms, 教学楼 visible\\nLighting/mood: needs a bright sunny spring atmosphere with gentle breeze — exact light source mix is yours\\nColor palette: needs a soft pink-forward spring direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: \\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9201
+}

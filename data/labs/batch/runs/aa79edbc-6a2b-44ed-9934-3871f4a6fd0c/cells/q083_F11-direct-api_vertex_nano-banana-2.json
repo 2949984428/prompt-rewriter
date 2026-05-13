@@ -1,0 +1,23 @@
+{
+  "query_idx": 83,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "帮我设计一个清江悦足疗养生的品牌logo 主要养生和商务接待，店铺开在古城区，需要带有点江南文化气息，整体logo图案简洁大气，富有韵味",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3bf03081-1d39-43e1-8ffd-c834abf9cc6b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"帮我设计一个清江悦足疗养生的品牌logo 主要养生和商务接待，店铺开在古城区，需要带有点江南文化气息，整体logo图案简洁大气，富有韵味\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3100,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

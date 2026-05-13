@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: editorial photo\nAsset type: travel brochure hero shot\nPrimary request: tropical resort infinity pool overlooking the ocean with lounge chairs, umbrellas, and palm trees\nScene/backdrop: coastal infinity pool deck with panoramic ocean view, clear horizon line where pool meets sea\nSubject: sleek infinity pool with turquoise water, white lounge chairs with striped cushions, large canvas umbrellas, tall coconut palms\nStyle/medium: high-saturation travel photography, resort editorial\nComposition/framing: wide establishing shot, slightly elevated angle capturing pool-to-ocean continuity\nLighting/mood: bright midday sun, crisp shadows, vacation bliss atmosphere\nColor palette: vivid turquoise water + deep ocean blue + crisp white + lush palm green + sky blue with fluffy white clouds\nMaterials/textures: glossy pool tiles, smooth sun-bleached wood deck, woven rattan furniture, glossy palm fronds\nConstraints: maintain high color saturation throughout, keep pool edge aligned with ocean horizon\nAvoid: muted colors, overcast sky, cluttered composition, artificial-looking water",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/173e0b23-d287-4a21-a8ef-4ab8789f9dcb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: editorial photo\\nAsset type: travel brochure hero shot\\nPrimary request: tropical resort infinity pool overlooking the ocean with lounge chairs, umbrellas, and palm trees\\nScene/backdrop: coastal infinity pool deck with panoramic ocean view, clear horizon line where pool meets sea\\nSubject: sleek infinity pool with turquoise water, white lounge chairs with striped cushions, large canvas umbrellas, tall coconut palms\\nStyle/medium: high-saturation travel photography, resort editorial\\nComposition/framing: wide establishing shot, slightly elevated angle capturing pool-to-ocean continuity\\nLighting/mood: bright midday sun, crisp shadows, vacation bliss atmosphere\\nColor palette: vivid turquoise water + deep ocean blue + crisp white + lush palm green + sky blue with fluffy white clouds\\nMaterials/textures: glossy pool tiles, smooth sun-bleached wood deck, woven rattan furniture, glossy palm fronds\\nConstraints: maintain high color saturation throughout, keep pool edge aligned with ocean horizon\\nAvoid: muted colors, overcast sky, cluttered composition, artificial-looking water\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15641
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing interior design illustration of a castle (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a dark Gothic aesthetic — exact stylistic execution is yours\nComposition: must include tall vaulted arches as focal architectural element\nSubject: must include candelabras and iron chains as decorative elements\nScene/backdrop: must include a castle interior with tall vaulted ceilings and stained glass windows\nLighting/mood: must include blood-red light filtering through stained glass windows; needs a mysterious and oppressive atmosphere — exact light source mix is yours\nColor palette: needs a blood-red dominant direction — exact saturation and ratios are yours\nMaterials/textures: needs heavy shadow treatment — exact grain and contrast are yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7a847f67-bf26-408f-a293-89414af07890/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing interior design illustration of a castle (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a dark Gothic aesthetic — exact stylistic execution is yours\\nComposition: must include tall vaulted arches as focal architectural element\\nSubject: must include candelabras and iron chains as decorative elements\\nScene/backdrop: must include a castle interior with tall vaulted ceilings and stained glass windows\\nLighting/mood: must include blood-red light filtering through stained glass windows; needs a mysterious and oppressive atmosphere — exact light source mix is yours\\nColor palette: needs a blood-red dominant direction — exact saturation and ratios are yours\\nMaterials/textures: needs heavy shadow treatment — exact grain and contrast are yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13842
+}

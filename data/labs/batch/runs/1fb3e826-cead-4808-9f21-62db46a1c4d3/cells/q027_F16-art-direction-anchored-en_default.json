@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing panoramic long-scroll illustration of a 元宵灯会 in 唐代长安城.\n\nStyle/medium: needs a \"工笔重彩长卷\" aesthetic — references in the spirit of 唐代绢本重彩 court painting tradition (e.g. 《虢国夫人游春图》), 宋代《清明上河图》 panoramic handscroll composition, 敦煌壁画 decorative color heritage; exact stylistic execution is yours\nComposition: must be a wide horizontal long-scroll (长卷) panoramic layout\nSubject: must include 万盏花灯 illuminating the night sky, festival crowds, and 长安城 architectural context\nScene/backdrop: must include 唐代长安城 streetscape at night during 元宵节\nLighting/mood: needs a lantern-lit festive night atmosphere — exact light treatment is yours\nColor palette: needs a rich, luminous 重彩 palette — exact color selection is yours\nMaterials/textures: needs a 工笔 fine-line brushwork with layered mineral-pigment texture quality — exact surface treatment is yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9adbde0a-2ac7-417b-b9d0-e71bd6901b34/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing panoramic long-scroll illustration of a 元宵灯会 in 唐代长安城.\\n\\nStyle/medium: needs a \\\"工笔重彩长卷\\\" aesthetic — references in the spirit of 唐代绢本重彩 court painting tradition (e.g. 《虢国夫人游春图》), 宋代《清明上河图》 panoramic handscroll composition, 敦煌壁画 decorative color heritage; exact stylistic execution is yours\\nComposition: must be a wide horizontal long-scroll (长卷) panoramic layout\\nSubject: must include 万盏花灯 illuminating the night sky, festival crowds, and 长安城 architectural context\\nScene/backdrop: must include 唐代长安城 streetscape at night during 元宵节\\nLighting/mood: needs a lantern-lit festive night atmosphere — exact light treatment is yours\\nColor palette: needs a rich, luminous 重彩 palette — exact color selection is yours\\nMaterials/textures: needs a 工笔 fine-line brushwork with layered mineral-pigment texture quality — exact surface treatment is yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8336
+}

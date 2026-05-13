@@ -1,0 +1,23 @@
+{
+  "query_idx": 91,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a bold badge-style logo for an HVAC training brand called “Electro Rey LLC”.\n\nStyle: industrial badge, strong branding, uniform-ready, aggressive.\n\nStructure:\n\nThick bordered shield/badge shape\nCrown integrated into the top border\nCentral HVAC icon (bold, thick lines, easy to read at distance)\nLaurel branches embedded into side borders (not floating)\nStars small and aligned in upper section\n\nTypography:\n\nELECTRO REY in an arc or strong horizontal lockup\nLLC integrated cleanly under main name\n“Salmo 91” inside a small bottom ribbon or line\n\nColor palette:\n\nDeep navy: #0A1F3D\nIndustrial gold: #CFAF5A\nWhite: #FFFFFF\n\nExecution:\n\nOptimized for embroidery, uniforms, trucks\nNo thin lines\nNo gradients required\nStrong silhouette\n\nFeeling:\nbrandable, scalable, recognizable, built for real-world use\n\nINSTRUCCIONES CLAVE PARA LOVART (no las ignores)\n“avoid clutter, avoid over-decoration”\n“high contrast, readable at small sizes”\n“clean vector logo, professional industrial branding”\n“no religious styling dominance, keep ‘Salmo 91’ minimal”",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7585399f-de96-4589-b036-29ef7451b505/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a bold badge-style logo for an HVAC training brand called \\\"Electro Rey LLC\\\".\\n\\nStyle: industrial badge, strong branding, uniform-ready, aggressive.\\n\\nStructure:\\n\\nThick bordered shield/badge shape\\nCrown integrated into the top border\\nCentral HVAC icon (bold, thick lines, easy to read at distance)\\nLaurel branches embedded into side borders (not floating)\\nStars small and aligned in upper section\\n\\nTypography:\\n\\nELECTRO REY in an arc or strong horizontal lockup\\nLLC integrated cleanly under main name\\n\\\"Salmo 91\\\" inside a small bottom ribbon or line\\n\\nColor palette:\\n\\nDeep navy: #0A1F3D\\nIndustrial gold: #CFAF5A\\nWhite: #FFFFFF\\n\\nExecution:\\n\\nOptimized for embroidery, uniforms, trucks\\nNo thin lines\\nNo gradients required\\nStrong silhouette\\n\\nFeeling:\\nbrandable, scalable, recognizable, built for real-world use\\n\\nINSTRUCCIONES CLAVE PARA LOVART (no las ignores)\\n\\\"avoid clutter, avoid over-decoration\\\"\\n\\\"high contrast, readable at small sizes\\\"\\n\\\"clean vector logo, professional industrial branding\\\"\\n\\\"no religious styling dominance, keep 'Salmo 91' minimal\\\"\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5133,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a professional documentary-style banner image for Weibo news/hot topic coverage, 16:9 aspect ratio.\n\nStyle/medium: documentary street photography, high-end mobile phone capture aesthetic, sharp details with authentic on-site presence\nComposition: wide panoramic horizontal frame, generous negative space for text overlay, city skyline stretching across frame\nSubject: urban cityscape at dusk with silhouettes of hurried pedestrians, distant skyscrapers reflecting sunset glow\nScene/backdrop: city skyline at golden hour transitioning to night, neon lights beginning to illuminate, dramatic light and shadow contrast\nLighting/mood: sunset backlighting with warm golden hour glow on building facades, emerging neon accents, high contrast between warm sky and cool shadows\nColor palette: warm orange-gold sunset tones against deepening blue-purple twilight sky, punctuated by neon pink and cyan accents\nText (verbatim): \"城市里的安静时刻\", \"黄昏，总能治愈一天的匆忙\", \"@龙爪槐守望者real · 生活观察\"\nConstraints: horizontal banner format with ample留白 for text placement, professional editorial quality suitable for social media news coverage\nAvoid: 8K stuffer aesthetic, oversaturated HDR look, deformed architecture, plastic skin on pedestrians, watermark other than specified text, tilted horizon",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/250b5b63-545d-4ab3-98bb-59f043280710/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a professional documentary-style banner image for Weibo news/hot topic coverage, 16:9 aspect ratio.\\n\\nStyle/medium: documentary street photography, high-end mobile phone capture aesthetic, sharp details with authentic on-site presence\\nComposition: wide panoramic horizontal frame, generous negative space for text overlay, city skyline stretching across frame\\nSubject: urban cityscape at dusk with silhouettes of hurried pedestrians, distant skyscrapers reflecting sunset glow\\nScene/backdrop: city skyline at golden hour transitioning to night, neon lights beginning to illuminate, dramatic light and shadow contrast\\nLighting/mood: sunset backlighting with warm golden hour glow on building facades, emerging neon accents, high contrast between warm sky and cool shadows\\nColor palette: warm orange-gold sunset tones against deepening blue-purple twilight sky, punctuated by neon pink and cyan accents\\nText (verbatim): \\\"城市里的安静时刻\\\", \\\"黄昏，总能治愈一天的匆忙\\\", \\\"@龙爪槐守望者real · 生活观察\\\"\\nConstraints: horizontal banner format with ample留白 for text placement, professional editorial quality suitable for social media news coverage\\nAvoid: 8K stuffer aesthetic, oversaturated HDR look, deformed architecture, plastic skin on pedestrians, watermark other than specified text, tilted horizon\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8891
+}

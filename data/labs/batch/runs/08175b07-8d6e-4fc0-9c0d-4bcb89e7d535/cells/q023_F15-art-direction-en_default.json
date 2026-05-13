@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a single large educational knowledge card about the 三国赤壁之战 story for children.\n\nStyle/medium: needs a cartoon-story aesthetic suitable for children — exact illustrative execution is yours\nComposition: must be single knowledge card layout with clear title at top, key points listed alongside with punctuation\nSubject: must include the 赤壁之战 story from 三国\nScene/backdrop: needs a cartoon-story visual treatment — exact scene arrangement is yours\nLighting/mood: needs a child-friendly, engaging atmosphere — exact lighting approach is yours\nColor palette: needs a vibrant, appealing direction for children — exact color choices are yours\nMaterials/textures: \nText (verbatim): must include a clear title about 赤壁之战, key points listed with punctuation\nConstraints: must be single card format, must clearly explain the 赤壁之战 story for children\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/115c571b-cf16-457c-9fd2-1ff2df1d2706/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a single large educational knowledge card about the 三国赤壁之战 story for children.\\n\\nStyle/medium: needs a cartoon-story aesthetic suitable for children — exact illustrative execution is yours\\nComposition: must be single knowledge card layout with clear title at top, key points listed alongside with punctuation\\nSubject: must include the 赤壁之战 story from 三国\\nScene/backdrop: needs a cartoon-story visual treatment — exact scene arrangement is yours\\nLighting/mood: needs a child-friendly, engaging atmosphere — exact lighting approach is yours\\nColor palette: needs a vibrant, appealing direction for children — exact color choices are yours\\nMaterials/textures: \\nText (verbatim): must include a clear title about 赤壁之战, key points listed with punctuation\\nConstraints: must be single card format, must clearly explain the 赤壁之战 story for children\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 7594
+}

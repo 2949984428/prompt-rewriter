@@ -1,0 +1,23 @@
+{
+  "query_idx": 311,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Edit the attached image as a YouTube thumbnail background — 16:9.\n\nStyle/medium: photorealistic, dramatic, documentary-style\nComposition: keep the full frame intact, no cropping, no cutting from any edge\nSubject: the original scene as-is\nScene/backdrop: unchanged from source image\nLighting/mood: enhanced dramatic lighting, documentary mood\nColor palette: enhanced color grading toward dramatic, documentary tone\nMaterials/textures:\nText (verbatim):\nConstraints:\n  do not crop or cut any part of the image\n  preserve full original composition\n  output at 16:9 aspect ratio\nAvoid: artificial over-processing, fantasy or cinematic color shifts unrelated to documentary style",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A9a78c78e-8e13-4fbc-8c10-930b6f8f3266/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Edit the attached image as a YouTube thumbnail background — 16:9.\\n\\nStyle/medium: photorealistic, dramatic, documentary-style\\nComposition: keep the full frame intact, no cropping, no cutting from any edge\\nSubject: the original scene as-is\\nScene/backdrop: unchanged from source image\\nLighting/mood: enhanced dramatic lighting, documentary mood\\nColor palette: enhanced color grading toward dramatic, documentary tone\\nMaterials/textures:\\nText (verbatim):\\nConstraints:\\n  do not crop or cut any part of the image\\n  preserve full original composition\\n  output at 16:9 aspect ratio\\nAvoid: artificial over-processing, fantasy or cinematic color shifts unrelated to documentary style\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 7306,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

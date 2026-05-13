@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic still of an astronaut floating in Earth orbit with a space station at the frame edge.\n\nStyle/medium: photorealistic sci-fi cinematic still, NASA documentary meets Interstellar aesthetic\nComposition: medium shot of astronaut centered, partial space station structure at left or right edge, Earth curvature visible below, deep space above, 24mm wide-angle lens\nSubject: astronaut in detailed modern EVA suit with reflective visor, life support backpack, tether cable, floating in zero gravity\nScene/backdrop: low Earth orbit, planet Earth occupying lower third with visible continents and atmosphere glow, vibrant Milky Way and colorful nebula in deep background, scattered stars\nLighting/mood: soft blue-white Earthshine illuminating the astronaut from below, subtle rim light from sun just out of frame, dramatic contrast between lit suit and dark space void\nColor palette: deep space black as base, warm Earth blues and greens as anchor, magenta and cyan nebula hues as accent, silver-white suit highlights\nMaterials/textures: matte white fabric suit with metallic joints, scratched gold visor reflection, carbon fiber details, vacuum-smooth metal station panels\nAvoid: cartoon rendering, lens flare abuse, oversaturated colors, deformed proportions, 8K stuffer text",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4c42ba29-bddc-480d-b809-44cecb226999/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic still of an astronaut floating in Earth orbit with a space station at the frame edge.\\n\\nStyle/medium: photorealistic sci-fi cinematic still, NASA documentary meets Interstellar aesthetic\\nComposition: medium shot of astronaut centered, partial space station structure at left or right edge, Earth curvature visible below, deep space above, 24mm wide-angle lens\\nSubject: astronaut in detailed modern EVA suit with reflective visor, life support backpack, tether cable, floating in zero gravity\\nScene/backdrop: low Earth orbit, planet Earth occupying lower third with visible continents and atmosphere glow, vibrant Milky Way and colorful nebula in deep background, scattered stars\\nLighting/mood: soft blue-white Earthshine illuminating the astronaut from below, subtle rim light from sun just out of frame, dramatic contrast between lit suit and dark space void\\nColor palette: deep space black as base, warm Earth blues and greens as anchor, magenta and cyan nebula hues as accent, silver-white suit highlights\\nMaterials/textures: matte white fabric suit with metallic joints, scratched gold visor reflection, carbon fiber details, vacuum-smooth metal station panels\\nAvoid: cartoon rendering, lens flare abuse, oversaturated colors, deformed proportions, 8K stuffer text\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13100
+}

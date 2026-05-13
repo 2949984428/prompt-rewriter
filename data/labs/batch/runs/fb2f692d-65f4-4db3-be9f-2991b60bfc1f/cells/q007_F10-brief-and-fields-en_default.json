@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic showing a detailed exploded view of a Sony A7 camera with all parts labeled.\n\nStyle/medium: technical illustration infographic, clean vector diagram, exploded-view industrial design rendering\nSubject: Sony A7 camera decomposed into all internal and external components — body, sensor, shutter mechanism, lens mount, battery compartment, circuit boards, buttons, dials, viewfinder, LCD screen\nComposition: centered exploded view with parts radiating outward from the camera body, each component separated to show depth and assembly order\nScene/backdrop: clean white or light gray background, minimal distractions, focus on technical clarity\nLighting/mood: even studio lighting, no harsh shadows, professional technical documentation aesthetic\nColor palette: neutral grays for metallic parts, black for plastic components, subtle color coding for different part categories\nText (verbatim): \"Sony A7\" plus individual part names in Spanish\nConstraints: all parts must be clearly labeled with their names in Spanish; labels must be legible and connected with clean leader lines; exploded view must show logical assembly order\nAvoid: photorealistic rendering; cluttered layout; illegible tiny text; missing part labels; decorative flourishes; 8K stuffer words",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/d315b3a6-4add-48d7-82ce-260d3f089d4d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an infographic showing a detailed exploded view of a Sony A7 camera with all parts labeled.\\n\\nStyle/medium: technical illustration infographic, clean vector diagram, exploded-view industrial design rendering\\nSubject: Sony A7 camera decomposed into all internal and external components — body, sensor, shutter mechanism, lens mount, battery compartment, circuit boards, buttons, dials, viewfinder, LCD screen\\nComposition: centered exploded view with parts radiating outward from the camera body, each component separated to show depth and assembly order\\nScene/backdrop: clean white or light gray background, minimal distractions, focus on technical clarity\\nLighting/mood: even studio lighting, no harsh shadows, professional technical documentation aesthetic\\nColor palette: neutral grays for metallic parts, black for plastic components, subtle color coding for different part categories\\nText (verbatim): \\\"Sony A7\\\" plus individual part names in Spanish\\nConstraints: all parts must be clearly labeled with their names in Spanish; labels must be legible and connected with clean leader lines; exploded view must show logical assembly order\\nAvoid: photorealistic rendering; cluttered layout; illegible tiny text; missing part labels; decorative flourishes; 8K stuffer words\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9935
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic movie poster for the film \"大话西游\" (A Chinese Odyssey) in 1990s Hong Kong cinema style.\n\nStyle/medium: 35mm film photography with heavy film grain, 90s Hong Kong wuxia romance aesthetic, reminiscent of Wong Kar-wai and Ching Siu-tung's visual language\nComposition: wide establishing shot, medium distance, slightly elevated angle overlooking the ancient city wall, three-layer depth of field\nSubject: central focus on 至尊宝 (Zhi Zunbao) and 紫霞 (Zixia) in an emotional embrace and kiss on the ancient city wall, both in traditional wuxia costume\nScene/backdrop: ancient Chinese fortress wall at dusk, distant silhouette of 牛魔王 (Bull Demon King) and 唐僧 (Tang Seng) standing apart in the background, dramatic sky\nLighting/mood: golden hour transitioning to twilight, soft diffused backlight creating romantic silhouette effect, melancholic and epic atmosphere\nColor palette: warm amber and burnt orange dominant, muted teal shadows, subtle magenta accents from sunset\nMaterials/textures: visible 35mm film grain throughout, slightly soft focus on background figures, authentic period costume fabrics\nText (verbatim): \"大话西游\"\nConstraints: must evoke 1990s Hong Kong cinema poster design language, film grain must be organic not digital noise\nAvoid: modern digital clean look, oversaturated colors, anime style, deformed hands, plastic skin, watermark, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c1a838e1-8e1a-4365-9d7b-7cfa5dbf8d51/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a cinematic movie poster for the film \\\"大话西游\\\" (A Chinese Odyssey) in 1990s Hong Kong cinema style.\\n\\nStyle/medium: 35mm film photography with heavy film grain, 90s Hong Kong wuxia romance aesthetic, reminiscent of Wong Kar-wai and Ching Siu-tung's visual language\\nComposition: wide establishing shot, medium distance, slightly elevated angle overlooking the ancient city wall, three-layer depth of field\\nSubject: central focus on 至尊宝 (Zhi Zunbao) and 紫霞 (Zixia) in an emotional embrace and kiss on the ancient city wall, both in traditional wuxia costume\\nScene/backdrop: ancient Chinese fortress wall at dusk, distant silhouette of 牛魔王 (Bull Demon King) and 唐僧 (Tang Seng) standing apart in the background, dramatic sky\\nLighting/mood: golden hour transitioning to twilight, soft diffused backlight creating romantic silhouette effect, melancholic and epic atmosphere\\nColor palette: warm amber and burnt orange dominant, muted teal shadows, subtle magenta accents from sunset\\nMaterials/textures: visible 35mm film grain throughout, slightly soft focus on background figures, authentic period costume fabrics\\nText (verbatim): \\\"大话西游\\\"\\nConstraints: must evoke 1990s Hong Kong cinema poster design language, film grain must be organic not digital noise\\nAvoid: modern digital clean look, oversaturated colors, anime style, deformed hands, plastic skin, watermark, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13226
+}

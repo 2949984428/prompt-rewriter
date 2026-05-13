@@ -1,0 +1,20 @@
+{
+  "query_idx": 12,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster (WeChat Official Account article cover) for a fragrance new product launch campaign titled \"染秋 - 秋意染染 时光留香\".\n\nStyle/medium: high-end editorial flat design with refined texture, inspired by luxury fragrance brand visual identity — muted ink-wash tones with tactile paper grain overlay\nComposition: centered composition, title text as the dominant visual anchor, generous negative space framing the center, balanced symmetry\nSubject: the headline \"染秋 - 秋意染染 时光留香\" rendered in elegant serif or brush-calligraphy typeface, large and prominent; supported by a subtle fragrance bottle or autumnal botanical motif (dried leaves, osmanthus, reed) as secondary element\nScene/backdrop: abstract warm autumnal background — deep amber, burnt sienna, or muted gold wash suggesting autumn atmosphere\nLighting/mood: soft diffused warm light, no harsh shadows, gentle glow emanating from center, serene and luxurious mood\nColor palette: warm amber and burnt gold as dominant tones, off-white or cream for text contrast, one muted accent (dusty rose or sage) to add depth\nMaterials/textures: subtle paper grain texture, soft ink bleed effect on background, matte finish aesthetic\nText (verbatim): \"染秋 - 秋意染染 时光留香\"\nConstraints: title text must be the most visually dominant element; layout must read clearly as a 900×500 horizontal banner crop; no busy background patterns that compete with the headline\nAvoid: neon colors, overly busy illustration, drop shadows that cheapen the look, generic stock-photo autumn leaves, watermark, stuffer aesthetic",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/dcb0523e-4517-41e6-865c-30f6cd5f5c67/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a marketing poster (WeChat Official Account article cover) for a fragrance new product launch campaign titled \\\"染秋 - 秋意染染 时光留香\\\".\\n\\nStyle/medium: high-end editorial flat design with refined texture, inspired by luxury fragrance brand visual identity — muted ink-wash tones with tactile paper grain overlay\\nComposition: centered composition, title text as the dominant visual anchor, generous negative space framing the center, balanced symmetry\\nSubject: the headline \\\"染秋 - 秋意染染 时光留香\\\" rendered in elegant serif or brush-calligraphy typeface, large and prominent; supported by a subtle fragrance bottle or autumnal botanical motif (dried leaves, osmanthus, reed) as secondary element\\nScene/backdrop: abstract warm autumnal background — deep amber, burnt sienna, or muted gold wash suggesting autumn atmosphere\\nLighting/mood: soft diffused warm light, no harsh shadows, gentle glow emanating from center, serene and luxurious mood\\nColor palette: warm amber and burnt gold as dominant tones, off-white or cream for text contrast, one muted accent (dusty rose or sage) to add depth\\nMaterials/textures: subtle paper grain texture, soft ink bleed effect on background, matte finish aesthetic\\nText (verbatim): \\\"染秋 - 秋意染染 时光留香\\\"\\nConstraints: title text must be the most visually dominant element; layout must read clearly as a 900×500 horizontal banner crop; no busy background patterns that compete with the headline\\nAvoid: neon colors, overly busy illustration, drop shadows that cheapen the look, generic stock-photo autumn leaves, watermark, stuffer aesthetic\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12232
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing screenshot mockup for a Douyin livestream featuring a female host.\n\nStyle/medium: mobile UI screenshot mockup, Douyin livestream interface style, photorealistic\nComposition: 9:16 vertical frame, full-screen mobile interface, host centered in the live feed area\nSubject: elegant female host (inspired by \"神仙姐姐\" archetype), holding a sign with promotional text, warm and engaging expression\nScene/backdrop: typical livestream room interior with soft ambient lighting, blurred background to keep focus on host\nLighting/mood: warm ring-light illumination on face, soft and flattering, inviting atmosphere\nColor palette: warm skin tones, neutral room colors, Douyin interface blues and whites\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: must look like an authentic Douyin livestream screenshot with interface elements (viewer count, comments area, gift buttons)\nAvoid: watermark, distorted face, deformed hands, overly saturated colors, 8K stuffer aesthetic",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3eadc9b3-313e-448e-9021-c4f83ac95640/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing screenshot mockup for a Douyin livestream featuring a female host.\\n\\nStyle/medium: mobile UI screenshot mockup, Douyin livestream interface style, photorealistic\\nComposition: 9:16 vertical frame, full-screen mobile interface, host centered in the live feed area\\nSubject: elegant female host (inspired by \\\"神仙姐姐\\\" archetype), holding a sign with promotional text, warm and engaging expression\\nScene/backdrop: typical livestream room interior with soft ambient lighting, blurred background to keep focus on host\\nLighting/mood: warm ring-light illumination on face, soft and flattering, inviting atmosphere\\nColor palette: warm skin tones, neutral room colors, Douyin interface blues and whites\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: must look like an authentic Douyin livestream screenshot with interface elements (viewer count, comments area, gift buttons)\\nAvoid: watermark, distorted face, deformed hands, overly saturated colors, 8K stuffer aesthetic\",\"size\":\"1008x1792\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9656
+}

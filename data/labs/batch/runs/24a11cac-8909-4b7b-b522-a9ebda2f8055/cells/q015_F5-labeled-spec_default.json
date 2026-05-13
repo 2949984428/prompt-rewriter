@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: illustration-concept-art\nAsset type: detailed steampunk mechanical apparatus illustration, square format\nPrimary request: intricate steampunk mechanical device with complex gears, pipes, and gauges\nScene/backdrop: dark workshop interior with ambient steam and warm industrial glow\nSubject: elaborate mechanical apparatus featuring interlocking gears of varying sizes, copper and brass pipes, pressure gauges with analog dials, riveted metal panels, and ornate Victorian decorative flourishes\nStyle/medium: detailed concept art illustration, painterly with high mechanical precision\nComposition/framing: front-facing centered composition, full apparatus in frame, slight three-quarter angle to show depth\nLighting/mood: warm amber and golden light from internal glowing elements, dramatic side lighting casting deep shadows, nostalgic and grandiose industrial mood\nColor palette: warm brass gold, aged copper brown, verdigris green accents, deep mahogany, ivory gauge faces, soft amber glow highlights\nMaterials/textures: polished and patinated brass surfaces, hammered copper tubing, leather-wrapped handles, glass gauge covers, riveted iron plates, engraved Victorian ornamental borders\nConstraints: all mechanical elements must be coherent and physically plausible; Victorian decorative motifs (scrollwork, filigree, floral engravings) integrated into structural parts\nAvoid: modern plastic components, neon colors, digital sci-fi aesthetics, cartoonish proportions",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/0a10fc10-0efc-40b8-ae21-aeabd3c22c5c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: illustration-concept-art\\nAsset type: detailed steampunk mechanical apparatus illustration, square format\\nPrimary request: intricate steampunk mechanical device with complex gears, pipes, and gauges\\nScene/backdrop: dark workshop interior with ambient steam and warm industrial glow\\nSubject: elaborate mechanical apparatus featuring interlocking gears of varying sizes, copper and brass pipes, pressure gauges with analog dials, riveted metal panels, and ornate Victorian decorative flourishes\\nStyle/medium: detailed concept art illustration, painterly with high mechanical precision\\nComposition/framing: front-facing centered composition, full apparatus in frame, slight three-quarter angle to show depth\\nLighting/mood: warm amber and golden light from internal glowing elements, dramatic side lighting casting deep shadows, nostalgic and grandiose industrial mood\\nColor palette: warm brass gold, aged copper brown, verdigris green accents, deep mahogany, ivory gauge faces, soft amber glow highlights\\nMaterials/textures: polished and patinated brass surfaces, hammered copper tubing, leather-wrapped handles, glass gauge covers, riveted iron plates, engraved Victorian ornamental borders\\nConstraints: all mechanical elements must be coherent and physically plausible; Victorian decorative motifs (scrollwork, filigree, floral engravings) integrated into structural parts\\nAvoid: modern plastic components, neon colors, digital sci-fi aesthetics, cartoonish proportions\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12957
+}

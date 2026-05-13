@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a cinematic movie poster reimagining of 大话西游 (A Chinese Odyssey) in 1990s Hong Kong cinema style.\n\nStyle/medium: 35mm film photography aesthetic, 1990s Hong Kong cinema poster art in the spirit of Wong Kar-wai and Jeff Lau, heavy film grain, faded analog color grading, photorealistic\nComposition: wide cinematic frame, foreground couple centered and dominant, two distant figures silhouetted against the background, layered depth of field suggesting scale and separation\nSubject: 至尊宝 and 紫霞 locked in a passionate embrace and kiss against a crumbling ancient city wall in the foreground; 牛魔王 and 唐僧 standing apart from each other in the far background, small and solitary\nScene/backdrop: ancient stone city wall at dusk or golden hour, weathered brick texture, open sky behind the distant figures\nLighting/mood: warm amber and dusty rose tones for the foreground couple, hazy backlight creating a romantic yet melancholic glow, soft lens flare, bittersweet and nostalgic mood\nColor palette: warm golden amber as dominant tone, muted dusty rose and terracotta as secondary, desaturated cool teal in the far background to separate distance\nMaterials/textures: heavy visible film grain throughout, worn stone wall surface, slight color bleed and halation around highlights typical of 1990s Hong Kong film stock\nAvoid: digital sharpness, CGI gloss, modern poster typography, oversaturated colors, clean edges, contemporary compositing look",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/a05aacec-6924-424f-9a46-dc022eac30fb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a cinematic movie poster reimagining of 大话西游 (A Chinese Odyssey) in 1990s Hong Kong cinema style.\\n\\nStyle/medium: 35mm film photography aesthetic, 1990s Hong Kong cinema poster art in the spirit of Wong Kar-wai and Jeff Lau, heavy film grain, faded analog color grading, photorealistic\\nComposition: wide cinematic frame, foreground couple centered and dominant, two distant figures silhouetted against the background, layered depth of field suggesting scale and separation\\nSubject: 至尊宝 and 紫霞 locked in a passionate embrace and kiss against a crumbling ancient city wall in the foreground; 牛魔王 and 唐僧 standing apart from each other in the far background, small and solitary\\nScene/backdrop: ancient stone city wall at dusk or golden hour, weathered brick texture, open sky behind the distant figures\\nLighting/mood: warm amber and dusty rose tones for the foreground couple, hazy backlight creating a romantic yet melancholic glow, soft lens flare, bittersweet and nostalgic mood\\nColor palette: warm golden amber as dominant tone, muted dusty rose and terracotta as secondary, desaturated cool teal in the far background to separate distance\\nMaterials/textures: heavy visible film grain throughout, worn stone wall surface, slight color bleed and halation around highlights typical of 1990s Hong Kong film stock\\nAvoid: digital sharpness, CGI gloss, modern poster typography, oversaturated colors, clean edges, contemporary compositing look\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 10518
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 15,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a realistic screenshot of a 抖音 live stream featuring 神仙姐姐 as the host.\n\nStyle/medium: needs a realistic 抖音 live-stream UI screenshot aesthetic — exact stylistic execution is yours\nComposition: must be 9:16 vertical, with live-stream interface elements (viewer count, comment feed, gift animations, top bar) framing the subject\nSubject: must include 神仙姐姐 as the live-stream host, holding a handwritten sign in front of her\nScene/backdrop: needs a typical indoor live-stream room atmosphere — exact backdrop is yours\nLighting/mood: needs a warm, well-lit live-stream studio atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include \"今晚直播，欢迎来参亦菲畅聊！\" on the sign she is holding\nConstraints: must preserve 抖音 live-stream UI layout with overlay elements visible; sign must be clearly legible and held in her hands\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A1a90ab26-34e8-4c8a-9f0b-d8e5b057c07b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a realistic screenshot of a 抖音 live stream featuring 神仙姐姐 as the host.\\n\\nStyle/medium: needs a realistic 抖音 live-stream UI screenshot aesthetic — exact stylistic execution is yours\\nComposition: must be 9:16 vertical, with live-stream interface elements (viewer count, comment feed, gift animations, top bar) framing the subject\\nSubject: must include 神仙姐姐 as the live-stream host, holding a handwritten sign in front of her\\nScene/backdrop: needs a typical indoor live-stream room atmosphere — exact backdrop is yours\\nLighting/mood: needs a warm, well-lit live-stream studio atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include \\\"今晚直播，欢迎来参亦菲畅聊！\\\" on the sign she is holding\\nConstraints: must preserve 抖音 live-stream UI layout with overlay elements visible; sign must be clearly legible and held in her hands\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7889
+}

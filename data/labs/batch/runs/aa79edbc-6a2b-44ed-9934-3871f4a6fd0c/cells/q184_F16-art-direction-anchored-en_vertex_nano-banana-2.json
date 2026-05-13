@@ -1,0 +1,23 @@
+{
+  "query_idx": 184,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（#1:H23A7991｜天猫｜玻璃杯）。\n\n风格/媒介:精修产品图\n构图:\n主体:玻璃杯居中展示\n场景/背景:纯白背景\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:\n  产品细节不能发生任何变化\n  适用于淘宝平台白底主图规范\n避免:背景非纯白；产品细节改变",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A56e5d8ac-6cf1-48aa-9392-f8ffeaf82283/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（#1:H23A7991｜天猫｜玻璃杯）。\\n\\n风格/媒介:精修产品图\\n构图:\\n主体:玻璃杯居中展示\\n场景/背景:纯白背景\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:\\n  产品细节不能发生任何变化\\n  适用于淘宝平台白底主图规范\\n避免:背景非纯白；产品细节改变\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4837,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

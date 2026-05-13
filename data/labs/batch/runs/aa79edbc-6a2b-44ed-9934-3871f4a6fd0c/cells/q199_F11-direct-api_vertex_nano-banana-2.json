@@ -1,0 +1,23 @@
+{
+  "query_idx": 199,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1: Image 11][@image:#2:详情页]图一人物的夹耳式耳机换成图二的夹耳式耳机，保持亚马逊详情页内容不变，图片比例不变",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A2c07b7de-9e6d-4b9c-a0cd-ed98403426ea/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1: Image 11][@image:#2:详情页]图一人物的夹耳式耳机换成图二的夹耳式耳机，保持亚马逊详情页内容不变，图片比例不变\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3111,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

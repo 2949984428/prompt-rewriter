@@ -1,0 +1,20 @@
+{
+  "query_idx": 3,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a universal social media avatar for a content creator covering new energy vehicles, digital tech, and lifestyle products, designed to feel harmonious across Chinese and international platforms without cultural triggers.\n\nStyle/medium: clean modern logo mark with the geometric restraint of Paul Rand's corporate identity work, balanced between tech precision and approachable warmth\nComposition: centered circular or rounded-square avatar format, generous breathing room around the mark, scalable for small profile thumbnails\nSubject: abstract geometric symbol suggesting motion and connection — perhaps interlocking curves evoking both a road path and a circuit trace, or a simplified leaf-and-gear fusion\nScene/backdrop: solid neutral background or subtle gradient, no photographic elements\nLighting/mood: calm clarity, the quiet confidence of a well-made tool\nColor palette: neutral graphite and warm honey accent, or cool teal with soft cream — colors that translate well across cultural contexts without symbolic baggage\nMaterials/textures: flat vector precision with subtle depth, no photorealistic textures\nText (verbatim): \nConstraints: must read clearly at 100x100px thumbnail size, no culturally specific symbols (no flags, religious icons, hand gestures, animals with negative connotations), no text that requires translation\nAvoid: photographic portraits, region-specific color associations (red/green combinations that suggest stop/go in some contexts), overly complex detail, trendy gradients that will date quickly, any imagery that could be interpreted as political or religious",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ee108051-23a5-486d-bb7f-532f894ebbe2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a universal social media avatar for a content creator covering new energy vehicles, digital tech, and lifestyle products, designed to feel harmonious across Chinese and international platforms without cultural triggers.\\n\\nStyle/medium: clean modern logo mark with the geometric restraint of Paul Rand's corporate identity work, balanced between tech precision and approachable warmth\\nComposition: centered circular or rounded-square avatar format, generous breathing room around the mark, scalable for small profile thumbnails\\nSubject: abstract geometric symbol suggesting motion and connection — perhaps interlocking curves evoking both a road path and a circuit trace, or a simplified leaf-and-gear fusion\\nScene/backdrop: solid neutral background or subtle gradient, no photographic elements\\nLighting/mood: calm clarity, the quiet confidence of a well-made tool\\nColor palette: neutral graphite and warm honey accent, or cool teal with soft cream — colors that translate well across cultural contexts without symbolic baggage\\nMaterials/textures: flat vector precision with subtle depth, no photorealistic textures\\nText (verbatim): \\nConstraints: must read clearly at 100x100px thumbnail size, no culturally specific symbols (no flags, religious icons, hand gestures, animals with negative connotations), no text that requires translation\\nAvoid: photographic portraits, region-specific color associations (red/green combinations that suggest stop/go in some contexts), overly complex detail, trendy gradients that will date quickly, any imagery that could be interpreted as political or religious\",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12801
+}

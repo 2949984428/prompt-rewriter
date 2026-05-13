@@ -1,0 +1,21 @@
+{
+  "query_idx": 248,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "[@image:#1:Levi transparent] Create an epic YouTube thumbnail for Marvel’s Spider-Man 2 featuring this anime-inspired warrior character redesigned as Spider-Man. Keep his same muscular build, crossed-arm pose, floating seated position, sharp eyes, high brown ponytail, black outfit, and giant sword on his back, but transform the outfit into a sleek black-and-red Spider-Man symbiote-style suit with glowing white spider emblem across the chest. Add subtle web textures and futuristic armored details to the suit.\n\nPlace him in the center foreground with an intense, confident expression. In the background, show a dramatic night time New York City skyline with lightning, glowing neon lights, destroyed streets, and Spider-Man 2 action elements. Include faint images of Venom and another Spider-Man silhouette behind him for extra hype. Add motion blur, sparks, smoke, and blue/red lighting effects to make the thumbnail feel cinematic and high energy.\n\nUse bold, oversized text on one side that says: “PART 1”. Make the colors highly saturated with strong contrast, dramatic shadows, glowing highlights, and a polished AAA video game thumbnail style. Make it look like an official Marvel’s Spider-Man 2 YouTube thumbnail with maximum click-through appeal.",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "重试 10 次仍失败 · 最后:生图失败",
+  "raw": "{\"prompt\": \"[@image:#1:Levi transparent] Create an epic YouTube thumbnail for Marvel's Spider-Man 2 featuring this anime-inspired warrior character redesigned as Spider-Man. Keep his same muscular build, crossed-arm pose, floating seated position, sharp eyes, high brown ponytail, black outfit, and giant sword on his back, but transform the outfit into a sleek black-and-red Spider-Man symbiote-style suit with glowing white spider emblem across the chest. Add subtle web textures and futuristic armored details to the suit.\\n\\nPlace him in the center foreground with an intense, confident expression. In the background, show a dramatic night time New York City skyline with lightning, glowing neon lights, destroyed streets, and Spider-Man 2 action elements. Include faint images of Venom and another Spider-Man silhouette behind him for extra hype. Add motion blur, sparks, smoke, and blue/red lighting effects to make the thumbnail feel cinematic and high energy.\\n\\nUse bold, oversized text on one side that says: \\\"PART 1\\\". Make the colors highly saturated with strong contrast, dramatic shadows, glowing highlights, and a polished AAA video game thumbnail style. Make it look like an official Marvel's Spider-Man 2 YouTube thumbnail with maximum click-through appeal.\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14278,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

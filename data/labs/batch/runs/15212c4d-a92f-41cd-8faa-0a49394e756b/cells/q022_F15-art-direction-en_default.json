@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an Instagram-style photo of a Korean cafe scene with coffee and dessert, overlaid with hand-drawn annotations.\n\nStyle/medium: needs a smartphone-shot Instagram aesthetic with hand-drawn white ink overlay — exact line weight and roughness is yours\nComposition: needs a casual, social-media framing with intentional negative space for annotations — exact crop and angle is yours\nSubject: must include a stylish coffee drink and dessert as focal elements, no people\nScene/backdrop: must include a Korean cafe interior setting\nLighting/mood: needs a bright, airy daylight atmosphere — exact light source mix is yours\nColor palette: needs a warm, muted Korean cafe direction — exact tones are yours\nMaterials/textures: needs a clean but slightly textured surface treatment — exact finish is yours\nText (verbatim): must include handwritten Japanese annotations (70% hiragana, 30% simple kanji) with diary-style short comments for each element:\n  - Drink: taste, temperature, mood (e.g., さっぱり、やさしい甘み)\n  - Food: texture, deliciousness (e.g., しっとり、さいこう)\n  - Space: atmosphere (e.g., リラックス、いい時間)\n  - Overall: one-line summary (e.g., しあわせすぎる～)\n  Decorations: steam, sparkles, hearts, small emoticons — exact placement is yours\nConstraints: must preserve white sketch-style thin lines, one-stroke rough uneven quality, outline tracing around objects, arrows and dotted lines for visual guidance, must leave intentional blank space, must achieve Instagram story / magazine rough notes aesthetic, fashionable yet relaxed mood\nAvoid: must avoid overcrowding, must avoid excessive decorations",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/5411243d-7e5e-46f4-86d3-e80fc9db68d7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an Instagram-style photo of a Korean cafe scene with coffee and dessert, overlaid with hand-drawn annotations.\\n\\nStyle/medium: needs a smartphone-shot Instagram aesthetic with hand-drawn white ink overlay — exact line weight and roughness is yours\\nComposition: needs a casual, social-media framing with intentional negative space for annotations — exact crop and angle is yours\\nSubject: must include a stylish coffee drink and dessert as focal elements, no people\\nScene/backdrop: must include a Korean cafe interior setting\\nLighting/mood: needs a bright, airy daylight atmosphere — exact light source mix is yours\\nColor palette: needs a warm, muted Korean cafe direction — exact tones are yours\\nMaterials/textures: needs a clean but slightly textured surface treatment — exact finish is yours\\nText (verbatim): must include handwritten Japanese annotations (70% hiragana, 30% simple kanji) with diary-style short comments for each element:\\n  - Drink: taste, temperature, mood (e.g., さっぱり、やさしい甘み)\\n  - Food: texture, deliciousness (e.g., しっとり、さいこう)\\n  - Space: atmosphere (e.g., リラックス、いい時間)\\n  - Overall: one-line summary (e.g., しあわせすぎる～)\\n  Decorations: steam, sparkles, hearts, small emoticons — exact placement is yours\\nConstraints: must preserve white sketch-style thin lines, one-stroke rough uneven quality, outline tracing around objects, arrows and dotted lines for visual guidance, must leave intentional blank space, must achieve Instagram story / magazine rough notes aesthetic, fashionable yet relaxed mood\\nAvoid: must avoid overcrowding, must avoid excessive decorations\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 15312
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: e-commerce hero banner, luxury fragrance campaign\nPrimary request: premium perfume bottle on black velvet with dramatic spotlight and scattered gold glitter, creating mysterious luxurious night atmosphere\nScene/backdrop: deep black velvet fabric surface, minimalist dark void background\nSubject: elegant glass perfume bottle with refined silhouette, reflective surface catching light\nStyle/medium: high-end product photography, commercial beauty campaign\nComposition/framing: centered product shot, top-down spotlight angle, shallow depth of field\nLighting/mood: single focused spotlight from above creating dramatic chiaroscuro, deep shadows and bright highlights, mysterious and opulent\nColor palette: deep blacks, warm gold glitter accents, subtle reflections on glass\nMaterials/textures: soft black velvet pile, shimmering gold dust particles, smooth glass surface, liquid perfume inside\nConstraints: keep perfume bottle as hero element with velvet texture clearly visible\nAvoid: flat lighting, cluttered background, plastic-looking bottle, over-saturated colors, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2f540901-d21c-4653-b84d-2a7cde6241d6/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: e-commerce hero banner, luxury fragrance campaign\\nPrimary request: premium perfume bottle on black velvet with dramatic spotlight and scattered gold glitter, creating mysterious luxurious night atmosphere\\nScene/backdrop: deep black velvet fabric surface, minimalist dark void background\\nSubject: elegant glass perfume bottle with refined silhouette, reflective surface catching light\\nStyle/medium: high-end product photography, commercial beauty campaign\\nComposition/framing: centered product shot, top-down spotlight angle, shallow depth of field\\nLighting/mood: single focused spotlight from above creating dramatic chiaroscuro, deep shadows and bright highlights, mysterious and opulent\\nColor palette: deep blacks, warm gold glitter accents, subtle reflections on glass\\nMaterials/textures: soft black velvet pile, shimmering gold dust particles, smooth glass surface, liquid perfume inside\\nConstraints: keep perfume bottle as hero element with velvet texture clearly visible\\nAvoid: flat lighting, cluttered background, plastic-looking bottle, over-saturated colors, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12668
+}

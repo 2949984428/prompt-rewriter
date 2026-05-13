@@ -1,0 +1,23 @@
+{
+  "query_idx": 211,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张圣诞节祝福图，用于 Instagram 帖子和 YouTube 缩略图。\n\n风格/媒介: 参考 Ref_Image 的风格\n构图: 适配 Instagram 帖子与 YouTube 缩略图的横版构图，视觉重心突出\n主体: Merry Christmas 主题节日海报，品牌 logo 使用 Lovart_Logo\n场景/背景:\n光线/氛围: 节日氛围，喜庆\n色彩方案:\n材质/纹理:\n文字(原样): Merry Christmas\n约束:\n  logo 使用 Lovart_Logo（@image:#1）\n  风格参考 Ref_Image（@image:#2）\n避免:",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3a99c358-77a6-4081-bedd-f53fdee90922/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张圣诞节祝福图，用于 Instagram 帖子和 YouTube 缩略图。\\n\\n风格/媒介: 参考 Ref_Image 的风格\\n构图: 适配 Instagram 帖子与 YouTube 缩略图的横版构图，视觉重心突出\\n主体: Merry Christmas 主题节日海报，品牌 logo 使用 Lovart_Logo\\n场景/背景:\\n光线/氛围: 节日氛围，喜庆\\n色彩方案:\\n材质/纹理:\\n文字(原样): Merry Christmas\\n约束:\\n  logo 使用 Lovart_Logo（@image:#1）\\n  风格参考 Ref_Image（@image:#2）\\n避免:\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5962,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

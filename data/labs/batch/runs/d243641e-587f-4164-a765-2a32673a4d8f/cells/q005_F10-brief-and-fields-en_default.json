@@ -1,0 +1,20 @@
+{
+  "query_idx": 5,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a product shot of a decorative item placed on a cabinet beneath a home TV feature wall, with focus on the product.\n\nStyle/medium: photorealistic lifestyle product photography, clean and understated home décor editorial style\nComposition: close-up shot centered on the product, shallow depth of field to isolate subject, eye-level angle, moderate telephoto lens to compress background naturally\nSubject: the product sitting on a low cabinet surface, naturally integrated into the scene, visually prominent without being jarring\nScene/backdrop: home living room TV feature wall as soft background, cabinet surface in foreground, warm and tidy domestic interior\nLighting/mood: soft diffused ambient light, gentle and even, warm neutral color temperature, calm and inviting mood\nColor palette: neutral warm tones dominating — off-white, warm grey, light wood — product as the visual anchor\nMaterials/textures: smooth cabinet surface, subtle wall texture softly out of focus in background\nConstraints: product must be the clear focal point; background elements (TV wall, cabinet) serve as context only, not competing visually; no cluttered props\nAvoid: harsh shadows, over-styled staging, busy background details in sharp focus, floating or unnatural product placement, wide-angle distortion",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/57f0ae9e-9b80-4e31-8200-fba7bdf21a37/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a product shot of a decorative item placed on a cabinet beneath a home TV feature wall, with focus on the product.\\n\\nStyle/medium: photorealistic lifestyle product photography, clean and understated home décor editorial style\\nComposition: close-up shot centered on the product, shallow depth of field to isolate subject, eye-level angle, moderate telephoto lens to compress background naturally\\nSubject: the product sitting on a low cabinet surface, naturally integrated into the scene, visually prominent without being jarring\\nScene/backdrop: home living room TV feature wall as soft background, cabinet surface in foreground, warm and tidy domestic interior\\nLighting/mood: soft diffused ambient light, gentle and even, warm neutral color temperature, calm and inviting mood\\nColor palette: neutral warm tones dominating — off-white, warm grey, light wood — product as the visual anchor\\nMaterials/textures: smooth cabinet surface, subtle wall texture softly out of focus in background\\nConstraints: product must be the clear focal point; background elements (TV wall, cabinet) serve as context only, not competing visually; no cluttered props\\nAvoid: harsh shadows, over-styled staging, busy background details in sharp focus, floating or unnatural product placement, wide-angle distortion\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 11397
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 22,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:WhatsApp Image 2026-03-30 at 1] \nعاوز اعمل لوجو لشركة غزل اسمها Milano من الأشكال اللي فى الصورة دي - عاوز ادمج الترس مع حرف ال M مع شكل الغزل بشكل احترافي.",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Abb8b52e0-fb75-4a52-a95e-d058df9f66f2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:WhatsApp Image 2026-03-30 at 1] \\nعاوز اعمل لوجو لشركة غزل اسمها Milano من الأشكال اللي فى الصورة دي - عاوز ادمج الترس مع حرف ال M مع شكل الغزل بشكل احترافي.\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3877,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

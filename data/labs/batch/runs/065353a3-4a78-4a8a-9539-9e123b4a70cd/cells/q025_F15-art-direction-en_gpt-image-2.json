@@ -1,0 +1,21 @@
+{
+  "query_idx": 25,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing 小红书-style vertical cover image for a 素人 (everyday creator) media post about 大疆 Pocket 4.\n\nStyle/medium: needs a \"素人风格\" 小红书 aesthetic — exact stylistic execution is yours\nComposition: must be a 九宫格 (3×3 grid) layout in vertical portrait format\nSubject: must include the 大疆 Pocket 4 product as the featured item, presented in an authentic everyday-creator style\nScene/backdrop: needs a casual, relatable everyday setting — exact backdrop is yours\nLighting/mood: needs a bright, approachable atmosphere — exact light source mix is yours\nColor palette: needs a fresh, youthful direction consistent with 小红书 素人 content — exact palette is yours\nMaterials/textures: \nText (verbatim): must include \"大强pocket4初体验\" as the central title (large, primary, cute and differentiated font style)\nConstraints: must preserve 九宫格 grid structure visible across the cover; title text must be centered\nAvoid: overly polished or commercial-looking production; must avoid studio-perfect lighting or brand-ad aesthetics",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A0d0f28f7-eb9e-43ac-88aa-35645c92443f/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing 小红书-style vertical cover image for a 素人 (everyday creator) media post about 大疆 Pocket 4.\\n\\nStyle/medium: needs a \\\"素人风格\\\" 小红书 aesthetic — exact stylistic execution is yours\\nComposition: must be a 九宫格 (3×3 grid) layout in vertical portrait format\\nSubject: must include the 大疆 Pocket 4 product as the featured item, presented in an authentic everyday-creator style\\nScene/backdrop: needs a casual, relatable everyday setting — exact backdrop is yours\\nLighting/mood: needs a bright, approachable atmosphere — exact light source mix is yours\\nColor palette: needs a fresh, youthful direction consistent with 小红书 素人 content — exact palette is yours\\nMaterials/textures: \\nText (verbatim): must include \\\"大强pocket4初体验\\\" as the central title (large, primary, cute and differentiated font style)\\nConstraints: must preserve 九宫格 grid structure visible across the cover; title text must be centered\\nAvoid: overly polished or commercial-looking production; must avoid studio-perfect lighting or brand-ad aesthetics\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8843
+}

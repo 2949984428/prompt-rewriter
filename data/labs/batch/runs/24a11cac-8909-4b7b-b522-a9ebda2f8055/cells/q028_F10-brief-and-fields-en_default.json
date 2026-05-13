@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a muscular athlete performing a deadlift in a professional gym with industrial-style interior.\n\nStyle/medium: photorealistic editorial sports photography, gritty and raw aesthetic\nComposition: low-angle medium shot, slightly below waist height, 50mm prime lens, shallow depth of field isolating the athlete against the background\nSubject: heavily muscular athlete with sharply defined muscle striations, veins visible on forearms and biceps, sweat droplets on skin catching the light, powerful deadlift stance — bar loaded, back arched, full tension in the pull\nScene/backdrop: industrial-style gym interior — exposed concrete walls, raw steel racks, rubber floor mats, heavy iron plates stacked in background\nLighting/mood: cool-toned overhead industrial lighting with blue-white cast, hard directional shadows accentuating muscle definition, dramatic and intensely masculine atmosphere\nColor palette: desaturated cool base of steel grey and concrete white, deep shadow blacks, warm skin tone as the sole warm anchor against the cold environment\nMaterials/textures: glistening sweat on skin, knurled steel barbell texture, rough concrete wall surface, worn rubber flooring\nAvoid: soft flattering light, warm golden tones, clean modern gym aesthetic, plastic-looking skin, motion blur on the bar, watermark",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/56a5979a-65df-487f-96a5-cac7cdee5c8c/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial photo of a muscular athlete performing a deadlift in a professional gym with industrial-style interior.\\n\\nStyle/medium: photorealistic editorial sports photography, gritty and raw aesthetic\\nComposition: low-angle medium shot, slightly below waist height, 50mm prime lens, shallow depth of field isolating the athlete against the background\\nSubject: heavily muscular athlete with sharply defined muscle striations, veins visible on forearms and biceps, sweat droplets on skin catching the light, powerful deadlift stance — bar loaded, back arched, full tension in the pull\\nScene/backdrop: industrial-style gym interior — exposed concrete walls, raw steel racks, rubber floor mats, heavy iron plates stacked in background\\nLighting/mood: cool-toned overhead industrial lighting with blue-white cast, hard directional shadows accentuating muscle definition, dramatic and intensely masculine atmosphere\\nColor palette: desaturated cool base of steel grey and concrete white, deep shadow blacks, warm skin tone as the sole warm anchor against the cold environment\\nMaterials/textures: glistening sweat on skin, knurled steel barbell texture, rough concrete wall surface, worn rubber flooring\\nAvoid: soft flattering light, warm golden tones, clean modern gym aesthetic, plastic-looking skin, motion blur on the bar, watermark\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10390
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 31,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original interior design render of a Neo-Chinese style tea room for quiet contemplation and tea ceremony.\n\nStyle/medium: interior design visualization, Neo-Chinese aesthetic, photorealistic 3D render with subtle film grain\nComposition: eye-level medium shot from tea drinker's perspective, 35mm lens, balanced symmetrical layout\nSubject: solid wood tea table with natural grain texture, Yixing purple clay teapot and matching tea cups arranged in traditional gongfu tea setup\nScene/backdrop: calligraphy scroll mounted on wall, bonsai tree in ceramic pot, large window revealing swaying bamboo shadows outside\nLighting/mood: soft natural daylight filtering through bamboo, warm interior accent lighting, serene and meditative atmosphere\nColor palette: warm wood tones as base, earthy brown clay accents, muted ink black from calligraphy, fresh green from bamboo and bonsai\nMaterials/textures: natural wood grain, porous unglazed clay teaware, rice paper scroll texture, ceramic glaze on bonsai pot, bamboo leaf translucency\nAvoid: over-saturated colors, modern plastic materials, cluttered composition, generic stock photo aesthetic, 8K stuffer terms",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/86872c54-8cf8-4e9b-ae2b-8229fd0bcfe4/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original interior design render of a Neo-Chinese style tea room for quiet contemplation and tea ceremony.\\n\\nStyle/medium: interior design visualization, Neo-Chinese aesthetic, photorealistic 3D render with subtle film grain\\nComposition: eye-level medium shot from tea drinker's perspective, 35mm lens, balanced symmetrical layout\\nSubject: solid wood tea table with natural grain texture, Yixing purple clay teapot and matching tea cups arranged in traditional gongfu tea setup\\nScene/backdrop: calligraphy scroll mounted on wall, bonsai tree in ceramic pot, large window revealing swaying bamboo shadows outside\\nLighting/mood: soft natural daylight filtering through bamboo, warm interior accent lighting, serene and meditative atmosphere\\nColor palette: warm wood tones as base, earthy brown clay accents, muted ink black from calligraphy, fresh green from bamboo and bonsai\\nMaterials/textures: natural wood grain, porous unglazed clay teaware, rice paper scroll texture, ceramic glaze on bonsai pot, bamboo leaf translucency\\nAvoid: over-saturated colors, modern plastic materials, cluttered composition, generic stock photo aesthetic, 8K stuffer terms\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10226
+}

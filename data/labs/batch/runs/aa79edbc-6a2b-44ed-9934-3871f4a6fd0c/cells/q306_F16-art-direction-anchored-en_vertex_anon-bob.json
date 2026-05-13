@@ -1,0 +1,23 @@
+{
+  "query_idx": 306,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（YouTube Thumbnail WhatsApp Automation）。\n\n风格/媒介:\n构图:\n主体:把图中的人物角色替换为第二张图中的人物照片\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:除人物以外的所有元素保持不变，包括背景、文字、布局、色彩和构图\n避免:",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Afb8ec655-6f31-48a4-916a-e217f2103ade/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（YouTube Thumbnail WhatsApp Automation）。\\n\\n风格/媒介:\\n构图:\\n主体:把图中的人物角色替换为第二张图中的人物照片\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:除人物以外的所有元素保持不变，包括背景、文字、布局、色彩和构图\\n避免:\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 16938,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

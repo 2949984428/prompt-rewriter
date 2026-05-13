@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial photo of a Japanese schoolgirl in sailor uniform standing in front of a school building during cherry blossom season.\n\nStyle/medium: fresh Japanese aesthetic photography, soft editorial style reminiscent of Japanese youth magazines\nComposition: medium shot at eye level, natural framing with the school building as backdrop, cherry blossom trees framing the scene\nSubject: young Japanese schoolgirl in classic sailor uniform (seifuku), long hair gently lifted by breeze, serene expression, youthful energy\nScene/backdrop: Japanese school campus during sakura season, traditional school building facade, abundant pink cherry blossom trees in full bloom, petals falling\nLighting/mood: bright spring sunshine, soft diffused daylight, warm and uplifting atmosphere, gentle breeze effect\nColor palette: soft pink cherry blossoms as dominant accent, warm skin tones, crisp white and navy blue of the uniform, fresh spring greens\nMaterials/textures: delicate falling cherry blossom petals, soft fabric of the uniform, natural hair strands in motion\nAvoid: over-saturated colors, artificial filters, western school uniforms, winter or autumn mood, heavy makeup, posed studio look",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e18b1172-e260-4aaa-8917-ebbc9f2cdaf8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial photo of a Japanese schoolgirl in sailor uniform standing in front of a school building during cherry blossom season.\\n\\nStyle/medium: fresh Japanese aesthetic photography, soft editorial style reminiscent of Japanese youth magazines\\nComposition: medium shot at eye level, natural framing with the school building as backdrop, cherry blossom trees framing the scene\\nSubject: young Japanese schoolgirl in classic sailor uniform (seifuku), long hair gently lifted by breeze, serene expression, youthful energy\\nScene/backdrop: Japanese school campus during sakura season, traditional school building facade, abundant pink cherry blossom trees in full bloom, petals falling\\nLighting/mood: bright spring sunshine, soft diffused daylight, warm and uplifting atmosphere, gentle breeze effect\\nColor palette: soft pink cherry blossoms as dominant accent, warm skin tones, crisp white and navy blue of the uniform, fresh spring greens\\nMaterials/textures: delicate falling cherry blossom petals, soft fabric of the uniform, natural hair strands in motion\\nAvoid: over-saturated colors, artificial filters, western school uniforms, winter or autumn mood, heavy makeup, posed studio look\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10786
+}

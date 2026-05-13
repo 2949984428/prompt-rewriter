@@ -1,0 +1,21 @@
+{
+  "query_idx": 6,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster reimagining the aesthetic of 大话西游 in a 90s 港片 style.\n\nStyle/medium: needs a 90s 港片 film aesthetic with 胶片颗粒 — exact grain level and film stock treatment is yours\nComposition: must include a foreground couple embracing against a city wall, two figures standing in the distant background\nSubject: must include 至尊宝 and 紫霞 sharing a kiss against a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\nScene/backdrop: must include a dramatic city wall setting evoking the world of 大话西游\nLighting/mood: needs a cinematic, romantically charged atmosphere with period 港片 drama — exact light source mix is yours\nColor palette: needs a warm, faded 90s film direction — exact hues and saturation are yours\nMaterials/textures: needs a 胶片颗粒 surface treatment — exact grain weight and texture are yours\nText (verbatim): \nConstraints: \nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A50f2e166-e770-4cdf-b63f-a9dde0790993/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster reimagining the aesthetic of 大话西游 in a 90s 港片 style.\\n\\nStyle/medium: needs a 90s 港片 film aesthetic with 胶片颗粒 — exact grain level and film stock treatment is yours\\nComposition: must include a foreground couple embracing against a city wall, two figures standing in the distant background\\nSubject: must include 至尊宝 and 紫霞 sharing a kiss against a city wall (foreground), 牛魔王 and 唐僧 standing in the distance (background)\\nScene/backdrop: must include a dramatic city wall setting evoking the world of 大话西游\\nLighting/mood: needs a cinematic, romantically charged atmosphere with period 港片 drama — exact light source mix is yours\\nColor palette: needs a warm, faded 90s film direction — exact hues and saturation are yours\\nMaterials/textures: needs a 胶片颗粒 surface treatment — exact grain weight and texture are yours\\nText (verbatim): \\nConstraints: \\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8454
+}

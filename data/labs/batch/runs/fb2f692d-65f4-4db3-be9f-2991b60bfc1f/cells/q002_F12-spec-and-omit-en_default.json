@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial news photo for a Weibo hot-topic banner.\n\nStyle/medium: documentary photography, photojournalistic, smartphone-like capture\nComposition: 16:9 wide banner, horizontal orientation, generous negative space for text overlay\nSubject: city skyline at dusk, pedestrians in motion, distant skyscrapers reflecting sunset\nScene/backdrop: urban cityscape at twilight, neon lights beginning to glow, sunset reflections on high-rise buildings\nLighting/mood: dramatic light and shadow contrast, golden hour transitioning to night, neon glow\nColor palette: warm sunset tones, cool neon accents\nMaterials/textures: \nText (verbatim): \"城市里的安静时刻\", \"黄昏，总能治愈一天的匆忙\", \"@龙爪槐守望者real · 生活观察\"\nConstraints: photorealistic, authentic on-scene feel, sharp details\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8ffbd173-8599-45f0-aa4e-ea3993c42663/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial news photo for a Weibo hot-topic banner.\\n\\nStyle/medium: documentary photography, photojournalistic, smartphone-like capture\\nComposition: 16:9 wide banner, horizontal orientation, generous negative space for text overlay\\nSubject: city skyline at dusk, pedestrians in motion, distant skyscrapers reflecting sunset\\nScene/backdrop: urban cityscape at twilight, neon lights beginning to glow, sunset reflections on high-rise buildings\\nLighting/mood: dramatic light and shadow contrast, golden hour transitioning to night, neon glow\\nColor palette: warm sunset tones, cool neon accents\\nMaterials/textures: \\nText (verbatim): \\\"城市里的安静时刻\\\", \\\"黄昏，总能治愈一天的匆忙\\\", \\\"@龙爪槐守望者real · 生活观察\\\"\\nConstraints: photorealistic, authentic on-scene feel, sharp details\\nAvoid: \",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8433
+}

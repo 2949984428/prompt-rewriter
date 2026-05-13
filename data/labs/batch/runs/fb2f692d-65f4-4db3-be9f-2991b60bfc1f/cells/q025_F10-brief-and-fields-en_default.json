@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a 9-grid cover image set for Xiaohongshu (Little Red Book) social media, featuring a casual user-generated content style showcasing the DJI Pocket 4 camera.\n\nStyle/medium: casual user-generated content aesthetic, authentic smartphone photography style, playful and approachable visual design\nComposition: 9-square grid layout optimized for Xiaohongshu cover format, centered main title placement\nSubject: DJI Pocket 4 handheld camera as hero product, lifestyle context suggesting first-time user experience\nScene/backdrop: everyday lifestyle setting, clean and uncluttered background suitable for social media feed\nColor palette: warm and inviting tones with playful accent colors, Instagram-friendly aesthetic\nText (verbatim): \"大强pocket4初体验\"\nConstraints: font must be cute and differentiated from standard templates; maintain authentic \"素人\" (ordinary user) aesthetic; grid must be cohesive as a set\nAvoid: overly polished commercial photography; generic stock image look; aggressive sales language; complex decorative elements that compete with product",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/ebdabc75-e6bd-4468-a9e4-22ffee7dcdc9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a 9-grid cover image set for Xiaohongshu (Little Red Book) social media, featuring a casual user-generated content style showcasing the DJI Pocket 4 camera.\\n\\nStyle/medium: casual user-generated content aesthetic, authentic smartphone photography style, playful and approachable visual design\\nComposition: 9-square grid layout optimized for Xiaohongshu cover format, centered main title placement\\nSubject: DJI Pocket 4 handheld camera as hero product, lifestyle context suggesting first-time user experience\\nScene/backdrop: everyday lifestyle setting, clean and uncluttered background suitable for social media feed\\nColor palette: warm and inviting tones with playful accent colors, Instagram-friendly aesthetic\\nText (verbatim): \\\"大强pocket4初体验\\\"\\nConstraints: font must be cute and differentiated from standard templates; maintain authentic \\\"素人\\\" (ordinary user) aesthetic; grid must be cohesive as a set\\nAvoid: overly polished commercial photography; generic stock image look; aggressive sales language; complex decorative elements that compete with product\"}",
+  "ms": 7559
+}

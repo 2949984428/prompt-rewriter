@@ -1,0 +1,23 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计线下零食店 LOGO 与字体组合。\n\n风格/媒介: 零食品牌 LOGO 设计，参考几多全、金粒门、有点推荐、蒲妈妈的 LOGO 风格——亲切、活泼、接地气的商业零食品牌视觉\n构图: LOGO 图形与品牌字体组合排版，图文搭配\n主体: 线下零食店品牌标志\n场景/背景: 纯净背景，便于识别\n光线/氛围: 明快、亲切、有食欲感\n色彩方案:\n材质/纹理:\n文字(原样): 海地亚  haidear\n约束:\n  中文品牌名\"海地亚\"与英文品牌名\"haidear\"均须清晰呈现\n  字体设计需具备零食品牌辨识度\n避免: 高端奢侈感、冷峻极简风格",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A43b3beb2-4037-4ef2-b4b3-a8e0c95dec79/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计线下零食店 LOGO 与字体组合。\\n\\n风格/媒介: 零食品牌 LOGO 设计，参考几多全、金粒门、有点推荐、蒲妈妈的 LOGO 风格——亲切、活泼、接地气的商业零食品牌视觉\\n构图: LOGO 图形与品牌字体组合排版，图文搭配\\n主体: 线下零食店品牌标志\\n场景/背景: 纯净背景，便于识别\\n光线/氛围: 明快、亲切、有食欲感\\n色彩方案:\\n材质/纹理:\\n文字(原样): 海地亚  haidear\\n约束:\\n  中文品牌名\\\"海地亚\\\"与英文品牌名\\\"haidear\\\"均须清晰呈现\\n  字体设计需具备零食品牌辨识度\\n避免: 高端奢侈感、冷峻极简风格\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8037,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 253,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图（#1:Mark Generation）。\n\n风格/媒介:\n构图:\n主体:移除图中所有与费用相关的文字或元素\n场景/背景:\n光线/氛围:\n色彩方案:\n材质/纹理:\n文字(原样):\n约束:其他内容保持不变\n避免:任何涉及价格、收费、费用的文字或数字",
+    "size": "auto",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4a93afae-5192-45d2-b2b6-4a5df6012bcc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图（#1:Mark Generation）。\\n\\n风格/媒介:\\n构图:\\n主体:移除图中所有与费用相关的文字或元素\\n场景/背景:\\n光线/氛围:\\n色彩方案:\\n材质/纹理:\\n文字(原样):\\n约束:其他内容保持不变\\n避免:任何涉及价格、收费、费用的文字或数字\", \"size\": \"auto\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 5843,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

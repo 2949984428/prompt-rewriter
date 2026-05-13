@@ -1,0 +1,20 @@
+{
+  "query_idx": 27,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing character illustration for an ancient Chinese-style game splash art.\n\nStyle/medium: needs a \"mysterious Oriental\" (古风) aesthetic with ethereal immortal-fairy quality — exact stylistic execution is yours\nComposition: must include flowing drapery and dynamic movement in the figure\nSubject: must include a woman wearing 汉服 playing a guqin (古琴)\nScene/backdrop: must include a bamboo forest with moonlight filtering through leaves\nLighting/mood: needs moonlit dappled light atmosphere with ethereal, transcendent (仙气) feeling — exact light source mix is yours\nColor palette: needs an ancient Chinese direction — exact hex values and ratios are yours\nMaterials/textures: needs flowing fabric treatment — exact sheen and weight is yours\nText (verbatim): \nConstraints: must preserve the bamboo forest setting and moonlight dappled shadows\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8fed7dee-cef6-46d4-ac12-dd758597c3ff/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing character illustration for an ancient Chinese-style game splash art.\\n\\nStyle/medium: needs a \\\"mysterious Oriental\\\" (古风) aesthetic with ethereal immortal-fairy quality — exact stylistic execution is yours\\nComposition: must include flowing drapery and dynamic movement in the figure\\nSubject: must include a woman wearing 汉服 playing a guqin (古琴)\\nScene/backdrop: must include a bamboo forest with moonlight filtering through leaves\\nLighting/mood: needs moonlit dappled light atmosphere with ethereal, transcendent (仙气) feeling — exact light source mix is yours\\nColor palette: needs an ancient Chinese direction — exact hex values and ratios are yours\\nMaterials/textures: needs flowing fabric treatment — exact sheen and weight is yours\\nText (verbatim): \\nConstraints: must preserve the bamboo forest setting and moonlight dappled shadows\\nAvoid: \",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 9127
+}

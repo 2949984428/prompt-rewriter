@@ -1,0 +1,23 @@
+{
+  "query_idx": 162,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑第一张图，生成电商白底主图。\n\n风格/媒介：电商白底主图，符合亚马逊主图规范\n构图：1:1 正方形构图，主体居中\n主体：原图主体，去掉白色绳子\n场景/背景：纯白色背景，RGB(255,255,255)\n光线/氛围：\n色彩方案：背景纯白 RGB(255,255,255)\n材质/纹理：\n文字(原样)：\n约束：\n  无阴影\n  背景纯白，无渐变、无投影\n  符合亚马逊主图规范\n避免：白色绳子，阴影，非白色背景元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A1834c4ab-7b81-4ffa-9de5-1836184d30e9/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑第一张图，生成电商白底主图。\\n\\n风格/媒介：电商白底主图，符合亚马逊主图规范\\n构图：1:1 正方形构图，主体居中\\n主体：原图主体，去掉白色绳子\\n场景/背景：纯白色背景，RGB(255,255,255)\\n光线/氛围：\\n色彩方案：背景纯白 RGB(255,255,255)\\n材质/纹理：\\n文字(原样)：\\n约束：\\n  无阴影\\n  背景纯白，无渐变、无投影\\n  符合亚马逊主图规范\\n避免：白色绳子，阴影，非白色背景元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6569,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 31,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "画一张新中式风格的茶室空间，原木茶台，紫砂壶和茶杯，背景是书法卷轴和盆景，窗外竹影婆娑，禅意盎然，适合品茗静思",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2cbf115f-0a98-4b8c-a0a7-23e1070e522e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"画一张新中式风格的茶室空间，原木茶台，紫砂壶和茶杯，背景是书法卷轴和盆景，窗外竹影婆娑，禅意盎然，适合品茗静思\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 4250
+}

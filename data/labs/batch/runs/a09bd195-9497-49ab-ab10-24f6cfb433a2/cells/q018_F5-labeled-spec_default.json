@@ -1,0 +1,20 @@
+{
+  "query_idx": 18,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: product-mockup\nAsset type: product photography, commercial shot\nPrimary request: professional product photography of a smartwatch on marble surface with coffee cup and notebook\nScene/backdrop: minimalist workspace desk, clean marble countertop texture\nSubject: smartwatch with sleek metallic finish, digital display visible, positioned beside a ceramic coffee cup and leather-bound notebook\nStyle/medium: commercial product photography, minimalist business aesthetic\nComposition/framing: medium close-up, slightly angled top-down view, shallow depth of field\nLighting/mood: soft natural side light from window, gentle shadows, clean and sophisticated mood\nColor palette: neutral tones - white marble, warm brown leather, silver/space gray smartwatch, cream ceramic\nMaterials/textures: polished marble veining, brushed metal watch case, smooth ceramic glaze, grained leather cover\nConstraints: smartwatch must be the focal point with clear product details visible, no distracting elements\nAvoid: cluttered background, harsh artificial lighting, plastic-looking materials, oversaturated colors",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/13691f50-6308-48b9-8e10-ce7b1a445749/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: product-mockup\\nAsset type: product photography, commercial shot\\nPrimary request: professional product photography of a smartwatch on marble surface with coffee cup and notebook\\nScene/backdrop: minimalist workspace desk, clean marble countertop texture\\nSubject: smartwatch with sleek metallic finish, digital display visible, positioned beside a ceramic coffee cup and leather-bound notebook\\nStyle/medium: commercial product photography, minimalist business aesthetic\\nComposition/framing: medium close-up, slightly angled top-down view, shallow depth of field\\nLighting/mood: soft natural side light from window, gentle shadows, clean and sophisticated mood\\nColor palette: neutral tones - white marble, warm brown leather, silver/space gray smartwatch, cream ceramic\\nMaterials/textures: polished marble veining, brushed metal watch case, smooth ceramic glaze, grained leather cover\\nConstraints: smartwatch must be the focal point with clear product details visible, no distracting elements\\nAvoid: cluttered background, harsh artificial lighting, plastic-looking materials, oversaturated colors\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8932
+}

@@ -1,0 +1,21 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "gpt-image-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\n\nStyle/medium: needs a precise technical exploded-diagram aesthetic — exact stylistic execution is yours\nComposition: must be an exploded-view layout with all parts spread out and connected by guide lines to their labels\nSubject: must include the Sony A7 camera fully disassembled into all its major and minor components, each labeled with its part name\nScene/backdrop: \nLighting/mood: \nColor palette: \nMaterials/textures: \nText (verbatim): must include part name labels for all visible components (e.g. sensor, shutter, lens mount, body shell, grip, viewfinder, battery compartment, control dials, buttons, circuit board, mirror box area, card slot, ports, etc.)\nConstraints: must preserve the Sony A7 body form and all component labels clearly legible\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/igw%3A8f6bd996-0e05-4cd0-a0a2-898d202e1fd8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing detailed exploded-view technical illustration of a Sony A7 camera showing all its components.\\n\\nStyle/medium: needs a precise technical exploded-diagram aesthetic — exact stylistic execution is yours\\nComposition: must be an exploded-view layout with all parts spread out and connected by guide lines to their labels\\nSubject: must include the Sony A7 camera fully disassembled into all its major and minor components, each labeled with its part name\\nScene/backdrop: \\nLighting/mood: \\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include part name labels for all visible components (e.g. sensor, shutter, lens mount, body shell, grip, viewfinder, battery compartment, control dials, buttons, circuit board, mirror box area, card slot, ports, etc.)\\nConstraints: must preserve the Sony A7 body form and all component labels clearly legible\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8177
+}

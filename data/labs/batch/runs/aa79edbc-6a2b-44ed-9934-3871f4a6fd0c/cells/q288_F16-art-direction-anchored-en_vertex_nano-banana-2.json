@@ -1,0 +1,23 @@
+{
+  "query_idx": 288,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "编辑图片（参考 #1 魔方字母颜色一致生成_202604230001，编辑对象为 #2 Image）。\n\n风格/媒介:\n构图:\n主体:字母 S\n场景/背景:\n光线/氛围:\n色彩方案:将字母 S 的整体颜色从粉色改为橙色\n材质/纹理:\n文字(原样):S\n约束:\n  仅修改字母 S 的颜色\n  其他所有内容保持不变\n避免:改动字母 S 以外的任何元素",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A3b3fefd5-3c9f-492a-8c98-6a4266c4497e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"编辑图片（参考 #1 魔方字母颜色一致生成_202604230001，编辑对象为 #2 Image）。\\n\\n风格/媒介:\\n构图:\\n主体:字母 S\\n场景/背景:\\n光线/氛围:\\n色彩方案:将字母 S 的整体颜色从粉色改为橙色\\n材质/纹理:\\n文字(原样):S\\n约束:\\n  仅修改字母 S 的颜色\\n  其他所有内容保持不变\\n避免:改动字母 S 以外的任何元素\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 5684,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,23 @@
+{
+  "query_idx": 200,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:专业鱼叉主图_水下狩猎场景]请你将图1中的产品替换成图的产品，作为亚马逊的详情页图，保持其他内容不变[@image:#2:鱼叉产品_纯白背景]",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A93251d18-2182-499f-b2bb-1f258582f96c/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:专业鱼叉主图_水下狩猎场景]请你将图1中的产品替换成图的产品，作为亚马逊的详情页图，保持其他内容不变[@image:#2:鱼叉产品_纯白背景]\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3170,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

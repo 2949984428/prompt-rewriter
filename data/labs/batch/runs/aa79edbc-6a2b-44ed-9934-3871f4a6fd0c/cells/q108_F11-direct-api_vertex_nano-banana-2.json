@@ -1,0 +1,28 @@
+{
+  "query_idx": 108,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:耳夹白底图]根据图1生成3张场景图，3:4比例，背面金属有根金属条，参考[@image:#2:耳夹暗调场景图6]，保持产品细节不变，发布在淘宝平台上",
+    "size": "1152x1536",
+    "quality": "medium",
+    "n": 3,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Af6e9a681-cc90-4999-bfb4-2b7d5bd82214/0.png",
+    "/api/image-file/lovart%3Af6e9a681-cc90-4999-bfb4-2b7d5bd82214/1.png",
+    "/api/image-file/lovart%3Af6e9a681-cc90-4999-bfb4-2b7d5bd82214/2.png",
+    "/api/image-file/lovart%3Af6e9a681-cc90-4999-bfb4-2b7d5bd82214/3.png",
+    "/api/image-file/lovart%3Af6e9a681-cc90-4999-bfb4-2b7d5bd82214/4.png",
+    "/api/image-file/lovart%3Af6e9a681-cc90-4999-bfb4-2b7d5bd82214/5.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:耳夹白底图]根据图1生成3张场景图，3:4比例，背面金属有根金属条，参考[@image:#2:耳夹暗调场景图6]，保持产品细节不变，发布在淘宝平台上\", \"size\": \"1152x1536\", \"quality\": \"medium\", \"n\": 3, \"output_format\": \"png\"}",
+  "ms": 5160,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

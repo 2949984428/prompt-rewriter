@@ -1,0 +1,20 @@
+{
+  "query_idx": 21,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing cinematic still of an anime-style basketball slam-dunk scene.\n\nStyle/medium: anime cel-shaded illustration with dynamic action lines, sports manga aesthetic in the spirit of Slam Dunk or Kuroko's Basketball\nComposition: low-angle hero shot from below the rim, 24mm wide-angle lens, player mid-air at peak dunk height, motion blur on limbs and ball\nSubject: athletic basketball player in mid-air slam dunk pose, intense facial expression, sweat droplets flying off body, muscles tensed, jersey and shorts flowing with movement\nScene/backdrop: indoor basketball court arena, blurred cheering crowd in stands, camera flashes popping in background, scoreboard visible but out of focus\nLighting/mood: dramatic arena spotlights from above, rim lights creating silhouette edges, high contrast shadows, energetic and intense atmosphere\nColor palette: warm court wood tones as base, cool blue/purple arena shadows, bright white flash accents, player's jersey as saturated focal point\nMaterials/textures: clean cel-shaded skin with minimal gradients, crisp line art, motion blur streaks on extremities, glossy sweat beads\nAvoid: photorealistic rendering, 3D CGI look, deformed anatomy, muddy colors, generic stock photo aesthetic, 8K stuffer words",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b3b88933-016b-464f-9ad4-3c6d6a1d36ca/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing cinematic still of an anime-style basketball slam-dunk scene.\\n\\nStyle/medium: anime cel-shaded illustration with dynamic action lines, sports manga aesthetic in the spirit of Slam Dunk or Kuroko's Basketball\\nComposition: low-angle hero shot from below the rim, 24mm wide-angle lens, player mid-air at peak dunk height, motion blur on limbs and ball\\nSubject: athletic basketball player in mid-air slam dunk pose, intense facial expression, sweat droplets flying off body, muscles tensed, jersey and shorts flowing with movement\\nScene/backdrop: indoor basketball court arena, blurred cheering crowd in stands, camera flashes popping in background, scoreboard visible but out of focus\\nLighting/mood: dramatic arena spotlights from above, rim lights creating silhouette edges, high contrast shadows, energetic and intense atmosphere\\nColor palette: warm court wood tones as base, cool blue/purple arena shadows, bright white flash accents, player's jersey as saturated focal point\\nMaterials/textures: clean cel-shaded skin with minimal gradients, crisp line art, motion blur streaks on extremities, glossy sweat beads\\nAvoid: photorealistic rendering, 3D CGI look, deformed anatomy, muddy colors, generic stock photo aesthetic, 8K stuffer words\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10669
+}

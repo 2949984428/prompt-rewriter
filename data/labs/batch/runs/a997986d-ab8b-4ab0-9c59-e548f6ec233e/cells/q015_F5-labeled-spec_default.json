@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: professional sports photography, editorial photo\nPrimary request: NBA Finals highlight moment of a superstar wearing jersey number 23 completing a powerful dunk while double-teamed by two defenders\nScene/backdrop: packed NBA arena with tens of thousands of standing cheering fans, star-like flashes from cameras, polished hardwood court with visible court lines and brand logos\nSubject: basketball player in number 23 jersey mid-air with perfect athletic arc, muscular definition visible under arena lights, explosive and focused facial expression, two defenders attempting to block\nStyle/medium: professional sports photography, ultra-high-speed action shot\nComposition/framing: low-angle upward shot emphasizing height and explosive power, dramatic bokeh of crowd in background, 1/2000s shutter speed frozen motion\nLighting/mood: multi-point high-brightness professional sports arena lighting, unified color temperature, dramatic and intense atmosphere\nColor palette: warm court wood tones + cool arena lighting + vibrant jersey colors + scattered white camera flashes\nMaterials/textures: glossy hardwood floor reflections, realistic sweat on skin, fabric texture of jerseys, polished court surface\nConstraints: keep jersey number 23 clearly visible, maintain frozen motion with zero blur, preserve court markings and logos\nAvoid: motion blur, plastic skin texture, deformed hands or limbs, watermark, oversaturated colors",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/b721f764-acb8-44bc-aedc-c3bb12afa9f7/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: professional sports photography, editorial photo\\nPrimary request: NBA Finals highlight moment of a superstar wearing jersey number 23 completing a powerful dunk while double-teamed by two defenders\\nScene/backdrop: packed NBA arena with tens of thousands of standing cheering fans, star-like flashes from cameras, polished hardwood court with visible court lines and brand logos\\nSubject: basketball player in number 23 jersey mid-air with perfect athletic arc, muscular definition visible under arena lights, explosive and focused facial expression, two defenders attempting to block\\nStyle/medium: professional sports photography, ultra-high-speed action shot\\nComposition/framing: low-angle upward shot emphasizing height and explosive power, dramatic bokeh of crowd in background, 1/2000s shutter speed frozen motion\\nLighting/mood: multi-point high-brightness professional sports arena lighting, unified color temperature, dramatic and intense atmosphere\\nColor palette: warm court wood tones + cool arena lighting + vibrant jersey colors + scattered white camera flashes\\nMaterials/textures: glossy hardwood floor reflections, realistic sweat on skin, fabric texture of jerseys, polished court surface\\nConstraints: keep jersey number 23 clearly visible, maintain frozen motion with zero blur, preserve court markings and logos\\nAvoid: motion blur, plastic skin texture, deformed hands or limbs, watermark, oversaturated colors\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11706
+}

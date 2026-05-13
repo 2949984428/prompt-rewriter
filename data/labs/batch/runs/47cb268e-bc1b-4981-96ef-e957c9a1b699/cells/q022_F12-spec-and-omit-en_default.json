@@ -1,0 +1,20 @@
+{
+  "query_idx": 22,
+  "skill_id": "F12-spec-and-omit-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate an editorial photo of Korean café-style fashionable coffee and desserts, shot in a smartphone aesthetic suitable for Instagram. No people. Then, observe every element that appears in the photo and add meaningful hand-drawn annotations to each one.\n\nStyle/medium: smartphone photography, Korean café aesthetic, Instagram-ready; overlaid hand-drawn white-pen annotations — thin lines, single-stroke style, slightly rough and uneven; outline traces around object edges; arrows and dashed lines for visual flow; Instagram Stories × rough magazine notebook style\nComposition: flat lay or slight overhead angle, fashionable and relaxed framing with intentional negative space\nSubject: coffee drink and desserts/sweets, no people\nScene/backdrop: Korean café setting\nLighting/mood: soft, bright, airy — café natural light\nColor palette: \nMaterials/textures: \nText (verbatim): hand-written Japanese annotations (70% hiragana, 30% simple kanji); short diary-like one-liners in a monologue tone — drink → taste/temperature/mood (e.g., さっぱり、やさしい甘さ); food → texture/deliciousness (e.g., しっとり、さいこう); space → atmosphere (e.g., まったり、いい時間); overall → one-line summary (e.g., しあわせすぎた～); decorative elements: steam wisps, sparkles ✨, small hearts ♡, tiny emoticons — used sparingly, preserving white space\nConstraints: white-pen style hand-drawn lines only for annotations; annotations must feel like a personal diary entry, not a label; keep negative space — do not over-decorate\nAvoid: people or human figures; heavy or overly polished illustration style; cluttered annotation layout",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/126152df-62c4-4ad3-9d1c-bcc749e73531/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate an editorial photo of Korean café-style fashionable coffee and desserts, shot in a smartphone aesthetic suitable for Instagram. No people. Then, observe every element that appears in the photo and add meaningful hand-drawn annotations to each one.\\n\\nStyle/medium: smartphone photography, Korean café aesthetic, Instagram-ready; overlaid hand-drawn white-pen annotations — thin lines, single-stroke style, slightly rough and uneven; outline traces around object edges; arrows and dashed lines for visual flow; Instagram Stories × rough magazine notebook style\\nComposition: flat lay or slight overhead angle, fashionable and relaxed framing with intentional negative space\\nSubject: coffee drink and desserts/sweets, no people\\nScene/backdrop: Korean café setting\\nLighting/mood: soft, bright, airy — café natural light\\nColor palette: \\nMaterials/textures: \\nText (verbatim): hand-written Japanese annotations (70% hiragana, 30% simple kanji); short diary-like one-liners in a monologue tone — drink → taste/temperature/mood (e.g., さっぱり、やさしい甘さ); food → texture/deliciousness (e.g., しっとり、さいこう); space → atmosphere (e.g., まったり、いい時間); overall → one-line summary (e.g., しあわせすぎた～); decorative elements: steam wisps, sparkles ✨, small hearts ♡, tiny emoticons — used sparingly, preserving white space\\nConstraints: white-pen style hand-drawn lines only for annotations; annotations must feel like a personal diary entry, not a label; keep negative space — do not over-decorate\\nAvoid: people or human figures; heavy or overly polished illustration style; cluttered annotation layout\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"jpeg\"}",
+  "ms": 13481
+}

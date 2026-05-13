@@ -1,0 +1,21 @@
+{
+  "query_idx": 2,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a documentary-style editorial photograph for a 微博 news/trending post banner.\n\nStyle/medium: needs a photojournalistic, high-end mobile-shot documentary aesthetic — exact stylistic execution is yours\nComposition: must be 16:9 wide horizontal layout with generous negative space for text overlay; city skyline as dominant horizontal sweep\nSubject: must include a city dusk skyline with gradually brightening neon lights, hurrying pedestrians in the foreground, and distant skyscrapers reflecting the last sunlight\nScene/backdrop: must include an urban dusk environment — neon signs beginning to glow, golden sunset reflected on glass towers, real street-level presence\nLighting/mood: needs a dramatic high-contrast golden-hour-to-dusk atmosphere — exact light source mix and shadow depth are yours\nColor palette: needs a warm-to-cool dusk direction with neon accent pops — exact hues and ratios are yours\nMaterials/textures: needs a sharp, high-resolution 8K-texture photographic surface treatment — exact grain and sheen are yours\nText (verbatim): must include \"城市里的安静时刻\" (large, primary, bold modern typeface, prominent position); \"黄昏，总能治愈一天的匆忙\" (medium, secondary, subtitle); \"@龙爪槐守望者real · 生活观察\" (small, watermark, bottom-right or bottom area)\nConstraints: must preserve strict 16:9 horizontal ratio; must leave sufficient clear zones for text overlay; all three text elements must be legible against the background\nAvoid: overly staged or studio-lit look; flat or low-contrast lighting; cluttered composition that leaves no room for text",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A346333df-d862-4995-9e3f-8c16f1626835/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a documentary-style editorial photograph for a 微博 news/trending post banner.\\n\\nStyle/medium: needs a photojournalistic, high-end mobile-shot documentary aesthetic — exact stylistic execution is yours\\nComposition: must be 16:9 wide horizontal layout with generous negative space for text overlay; city skyline as dominant horizontal sweep\\nSubject: must include a city dusk skyline with gradually brightening neon lights, hurrying pedestrians in the foreground, and distant skyscrapers reflecting the last sunlight\\nScene/backdrop: must include an urban dusk environment — neon signs beginning to glow, golden sunset reflected on glass towers, real street-level presence\\nLighting/mood: needs a dramatic high-contrast golden-hour-to-dusk atmosphere — exact light source mix and shadow depth are yours\\nColor palette: needs a warm-to-cool dusk direction with neon accent pops — exact hues and ratios are yours\\nMaterials/textures: needs a sharp, high-resolution 8K-texture photographic surface treatment — exact grain and sheen are yours\\nText (verbatim): must include \\\"城市里的安静时刻\\\" (large, primary, bold modern typeface, prominent position); \\\"黄昏，总能治愈一天的匆忙\\\" (medium, secondary, subtitle); \\\"@龙爪槐守望者real · 生活观察\\\" (small, watermark, bottom-right or bottom area)\\nConstraints: must preserve strict 16:9 horizontal ratio; must leave sufficient clear zones for text overlay; all three text elements must be legible against the background\\nAvoid: overly staged or studio-lit look; flat or low-contrast lighting; cluttered composition that leaves no room for text\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11833
+}

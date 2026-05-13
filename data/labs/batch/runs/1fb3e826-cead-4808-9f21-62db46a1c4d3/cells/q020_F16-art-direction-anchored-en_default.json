@@ -1,0 +1,18 @@
+{
+  "query_idx": 20,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "failed",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing full-screen brand advertisement banner for a flagship smartphone launch, sized for mobile display.\n\nStyle/medium: needs a \"品牌曝光型视觉冲击\" aesthetic — references in the spirit of Samsung Galaxy S-series launch campaign visuals, Apple iPhone cinematic product reveal aesthetics, 2020s premium tech brand full-bleed digital OOH; exact stylistic execution is yours\nComposition: must be full-screen vertical layout with maximum visual impact hierarchy — hero product centered, brand elements commanding attention\nSubject: must include a premium flagship smartphone as the hero product, front-facing full-screen display prominent\nScene/backdrop: needs a dramatic, high-impact backdrop — exact environment is yours\nLighting/mood: needs a high-impact, cinematic product-reveal atmosphere — exact lighting is yours\nColor palette: needs a premium tech brand palette with strong visual punch — exact color choices are yours\nMaterials/textures: needs a sleek, glass-and-metal premium device material feel — exact surface treatment is yours\nText (verbatim): \nConstraints: must be portrait orientation optimized for mobile full-screen display (1080×1920 ratio)\nAvoid: competitor brand logos, cluttered layout, low-contrast compositions",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": null,
+  "scores": {},
+  "note": "",
+  "error": "{\"source\":\"provider\",\"message\":\"execute request: Post \\\"https://lovart-04-img2-poland.openai.azure.com/openai/v1/images/generations\\\": context deadline exceeded\",\"error_code\":\"API_CALL_ERROR\",\"stage\":\"submit\"}",
+  "raw": "{\"prompt\": \"Create an original, non-infringing full-screen brand advertisement banner for a flagship smartphone launch, sized for mobile display.\\n\\nStyle/medium: needs a \\\"品牌曝光型视觉冲击\\\" aesthetic — references in the spirit of Samsung Galaxy S-series launch campaign visuals, Apple iPhone cinematic product reveal aesthetics, 2020s premium tech brand full-bleed digital OOH; exact stylistic execution is yours\\nComposition: must be full-screen vertical layout with maximum visual impact hierarchy — hero product centered, brand elements commanding attention\\nSubject: must include a premium flagship smartphone as the hero product, front-facing full-screen display prominent\\nScene/backdrop: needs a dramatic, high-impact backdrop — exact environment is yours\\nLighting/mood: needs a high-impact, cinematic product-reveal atmosphere — exact lighting is yours\\nColor palette: needs a premium tech brand palette with strong visual punch — exact color choices are yours\\nMaterials/textures: needs a sleek, glass-and-metal premium device material feel — exact surface treatment is yours\\nText (verbatim): \\nConstraints: must be portrait orientation optimized for mobile full-screen display (1080×1920 ratio)\\nAvoid: competitor brand logos, cluttered layout, low-contrast compositions\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 21035
+}

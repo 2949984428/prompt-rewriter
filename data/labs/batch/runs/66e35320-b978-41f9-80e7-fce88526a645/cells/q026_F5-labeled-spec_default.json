@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: presentation-cover\nAsset type: pitch deck cover slide, horizontal layout\nPrimary request: title slide for GPT-5.5 domestic financing announcement, speaker Sam Altman\nScene/backdrop: minimalist tech conference stage backdrop with subtle Chinese design elements, gradient overlay\nSubject: bold headline \"GPT 5.5 正式发布\" with speaker name \"Sam Altman\" and \"OpenAI CEO\" subtitle\nStyle/medium: corporate tech presentation design, modern Chinese startup aesthetic\nComposition/framing: centered layout, title at upper half, speaker info at lower third, generous whitespace\nLighting/mood: clean professional lighting, confident and forward-looking atmosphere\nColor palette: deep navy blue + gold accents + white text, Chinese tech startup color scheme\nMaterials/textures: smooth matte surface, subtle metallic gold highlights\nText (verbatim): \"GPT 5.5 正式发布\"\nConstraints: must reflect Chinese domestic roadshow style, GP/funding presentation tone, bilingual elements acceptable\nAvoid: cluttered layout, cartoonish graphics, Western-centric design language, excessive decorative patterns",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6adea523-1459-4ecd-a984-db963ca027b3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: presentation-cover\\nAsset type: pitch deck cover slide, horizontal layout\\nPrimary request: title slide for GPT-5.5 domestic financing announcement, speaker Sam Altman\\nScene/backdrop: minimalist tech conference stage backdrop with subtle Chinese design elements, gradient overlay\\nSubject: bold headline \\\"GPT 5.5 正式发布\\\" with speaker name \\\"Sam Altman\\\" and \\\"OpenAI CEO\\\" subtitle\\nStyle/medium: corporate tech presentation design, modern Chinese startup aesthetic\\nComposition/framing: centered layout, title at upper half, speaker info at lower third, generous whitespace\\nLighting/mood: clean professional lighting, confident and forward-looking atmosphere\\nColor palette: deep navy blue + gold accents + white text, Chinese tech startup color scheme\\nMaterials/textures: smooth matte surface, subtle metallic gold highlights\\nText (verbatim): \\\"GPT 5.5 正式发布\\\"\\nConstraints: must reflect Chinese domestic roadshow style, GP/funding presentation tone, bilingual elements acceptable\\nAvoid: cluttered layout, cartoonish graphics, Western-centric design language, excessive decorative patterns\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9816
+}

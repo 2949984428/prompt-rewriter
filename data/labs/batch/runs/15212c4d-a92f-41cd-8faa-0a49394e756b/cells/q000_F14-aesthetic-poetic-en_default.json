@@ -1,0 +1,20 @@
+{
+  "query_idx": 0,
+  "skill_id": "F14-aesthetic-poetic-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing Xiaohongshu cover image for bubble tea promotion, in the soft reverence of pink summer freshness.\n\nStyle/medium: lifestyle editorial photography with the matte softness of Japanese summer beverage campaigns, designed for Xiaohongshu discovery feed\nComposition: centered hero product with generous breathing room, vertical portrait orientation optimized for mobile scroll\nSubject: bubble tea (珍珠奶茶) in a clear cup with visible tapioca pearls, condensation droplets catching light\nScene/backdrop: soft pink gradient or minimal pastel surface, hints of summer elements like ice cubes or tropical leaves in soft focus\nLighting/mood: the gentle warmth of a summer afternoon softened by cool refreshment, a breath of relief from heat\nColor palette: warm pink and soft coral in conversation with cool milk-white and pearl-ivory, the temperature of a summer crush\nMaterials/textures: frosted glass condensation, silky milk tea gradient, chewy tapioca pearls, the matte softness of a summer dream\nText (verbatim): \nConstraints: vertical format for Xiaohongshu cover, clear product visibility, pink dominant tone\nAvoid: harsh commercial lighting, cluttered backgrounds, generic stock-photo beverage aesthetic, oversaturated neon colors",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2bc2297d-f4b1-4c65-85de-4984367d0c12/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing Xiaohongshu cover image for bubble tea promotion, in the soft reverence of pink summer freshness.\\n\\nStyle/medium: lifestyle editorial photography with the matte softness of Japanese summer beverage campaigns, designed for Xiaohongshu discovery feed\\nComposition: centered hero product with generous breathing room, vertical portrait orientation optimized for mobile scroll\\nSubject: bubble tea (珍珠奶茶) in a clear cup with visible tapioca pearls, condensation droplets catching light\\nScene/backdrop: soft pink gradient or minimal pastel surface, hints of summer elements like ice cubes or tropical leaves in soft focus\\nLighting/mood: the gentle warmth of a summer afternoon softened by cool refreshment, a breath of relief from heat\\nColor palette: warm pink and soft coral in conversation with cool milk-white and pearl-ivory, the temperature of a summer crush\\nMaterials/textures: frosted glass condensation, silky milk tea gradient, chewy tapioca pearls, the matte softness of a summer dream\\nText (verbatim): \\nConstraints: vertical format for Xiaohongshu cover, clear product visibility, pink dominant tone\\nAvoid: harsh commercial lighting, cluttered backgrounds, generic stock-photo beverage aesthetic, oversaturated neon colors\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12264
+}

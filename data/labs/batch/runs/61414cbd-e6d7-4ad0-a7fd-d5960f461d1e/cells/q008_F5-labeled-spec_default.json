@@ -1,0 +1,20 @@
+{
+  "query_idx": 8,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: character-expression-grid\nAsset type: 3x3 expression sheet, character design reference\nPrimary request: 3x3 grid of 9 panels showing Zhao Ling'er (赵灵儿) from Chinese Paladin (仙剑奇侠传) peeking through torn holes in white paper, each panel with distinct expression and outfit\nScene/backdrop: uniform white paper background with torn circular holes, clean grid layout with subtle separators\nSubject: young woman with long flowing black hair in traditional Chinese style, delicate features, inspired by Zhao Ling'er character design, appearing in 9 variations\nStyle/medium: 3D animation, Pixar-style rendering, soft subsurface skin, stylized cartoon proportions\nComposition/framing: 3x3 grid layout, each panel medium close-up framing head and shoulders through torn paper hole\nLighting/mood: soft diffused studio lighting, warm and friendly atmosphere, consistent across all panels\nColor palette: vibrant clothing colors (green, red, yellow, black/white, orange, blue, purple, pink, teal) against clean white paper background\nMaterials/textures: smooth 3D rendered skin, fabric textures for various outfits, torn paper edges with fiber detail\nText (verbatim): \"赵灵儿\"\nConstraints: maintain consistent character likeness across all 9 panels, preserve traditional Chinese beauty aesthetic, keep torn paper framing device uniform\nAvoid: realistic photography, anime 2D style, inconsistent character appearance between panels, cluttered backgrounds, deformed facial features",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/90234abc-ea69-46c2-820b-4d7833711c06/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: character-expression-grid\\nAsset type: 3x3 expression sheet, character design reference\\nPrimary request: 3x3 grid of 9 panels showing Zhao Ling'er (赵灵儿) from Chinese Paladin (仙剑奇侠传) peeking through torn holes in white paper, each panel with distinct expression and outfit\\nScene/backdrop: uniform white paper background with torn circular holes, clean grid layout with subtle separators\\nSubject: young woman with long flowing black hair in traditional Chinese style, delicate features, inspired by Zhao Ling'er character design, appearing in 9 variations\\nStyle/medium: 3D animation, Pixar-style rendering, soft subsurface skin, stylized cartoon proportions\\nComposition/framing: 3x3 grid layout, each panel medium close-up framing head and shoulders through torn paper hole\\nLighting/mood: soft diffused studio lighting, warm and friendly atmosphere, consistent across all panels\\nColor palette: vibrant clothing colors (green, red, yellow, black/white, orange, blue, purple, pink, teal) against clean white paper background\\nMaterials/textures: smooth 3D rendered skin, fabric textures for various outfits, torn paper edges with fiber detail\\nText (verbatim): \\\"赵灵儿\\\"\\nConstraints: maintain consistent character likeness across all 9 panels, preserve traditional Chinese beauty aesthetic, keep torn paper framing device uniform\\nAvoid: realistic photography, anime 2D style, inconsistent character appearance between panels, cluttered backgrounds, deformed facial features\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 14424
+}

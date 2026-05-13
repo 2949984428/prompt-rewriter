@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a marketing poster for UGREEN NAS brand 618 anniversary celebration e-commerce announcement.\n\nStyle/medium: commercial e-commerce poster, modern tech aesthetic, clean and professional\nComposition: centered layout optimized for e-commerce platforms, clear visual hierarchy with product focus\nSubject: UGREEN NAS (network attached storage) product hero shot, sleek hardware design\nScene/backdrop: abstract gradient or tech-inspired environment suggesting data/cloud storage, minimal to avoid distraction\nLighting/mood: soft studio lighting with subtle rim light on product, confident and trustworthy mood\nColor palette: UGREEN brand green as primary accent, neutral dark background, white and silver highlights\nText (verbatim): \"绿联私有云品牌618周年庆活动电商宣布海报\"\nConstraints: must be readable as thumbnail on mobile e-commerce apps; text must remain legible at small sizes\nAvoid: cluttered composition, generic stock photo feel, watermarks, overly complex backgrounds, 8K stuffer words",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/77b4edc9-7bfc-476a-9910-b3392ee9bd30/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a marketing poster for UGREEN NAS brand 618 anniversary celebration e-commerce announcement.\\n\\nStyle/medium: commercial e-commerce poster, modern tech aesthetic, clean and professional\\nComposition: centered layout optimized for e-commerce platforms, clear visual hierarchy with product focus\\nSubject: UGREEN NAS (network attached storage) product hero shot, sleek hardware design\\nScene/backdrop: abstract gradient or tech-inspired environment suggesting data/cloud storage, minimal to avoid distraction\\nLighting/mood: soft studio lighting with subtle rim light on product, confident and trustworthy mood\\nColor palette: UGREEN brand green as primary accent, neutral dark background, white and silver highlights\\nText (verbatim): \\\"绿联私有云品牌618周年庆活动电商宣布海报\\\"\\nConstraints: must be readable as thumbnail on mobile e-commerce apps; text must remain legible at small sizes\\nAvoid: cluttered composition, generic stock photo feel, watermarks, overly complex backgrounds, 8K stuffer words\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 8995
+}

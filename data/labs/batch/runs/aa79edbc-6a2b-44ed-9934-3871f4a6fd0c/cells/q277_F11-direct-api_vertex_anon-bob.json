@@ -1,0 +1,23 @@
+{
+  "query_idx": 277,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:校园插画_画板 1]帮我用这个插画生成几张海报，发布在学校公众号上",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 3,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A92ef66b1-831f-4ca5-8fab-43889eb9b7ae/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:校园插画_画板 1]帮我用这个插画生成几张海报，发布在学校公众号上\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 3, \"output_format\": \"png\"}",
+  "ms": 3330,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

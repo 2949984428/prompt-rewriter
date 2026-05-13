@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an infographic-style technical diagram of a Sony A7 camera showing all its components with labels.\n\nStyle/medium: clean technical illustration, exploded view diagram, infographic aesthetic with clear labeling system\nComposition: exploded view showing camera body separated into layers, components arranged radially around central body, clear visual hierarchy\nSubject: Sony A7 camera body with all internal and external parts separated and labeled — sensor, shutter mechanism, mirrorless mount, LCD screen, EVF, battery compartment, dials, buttons, ports, processor board\nScene/backdrop: neutral white or light gray gradient background, no distractions, focus entirely on technical diagram\nLighting/mood: even studio lighting, soft shadows to show depth and separation between parts, clinical and educational tone\nColor palette: Sony black and silver body tones, subtle blue accents for technical elements, high contrast black text labels\nMaterials/textures: matte metal finish on body, glass reflections on LCD and EVF, visible circuit board patterns, rubber grip texture\nText (verbatim): \"Sony\" \"A7\"\nConstraints: all component names must be clearly labeled with leader lines; diagram must be readable at standard print sizes; technical accuracy prioritized over artistic flair\nAvoid: photorealistic renderings without labels; cluttered overlapping parts; missing component names; generic camera shapes without Sony A7 specific details",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/8582afd6-85e9-4a13-bef0-68d1fc99992e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an infographic-style technical diagram of a Sony A7 camera showing all its components with labels.\\n\\nStyle/medium: clean technical illustration, exploded view diagram, infographic aesthetic with clear labeling system\\nComposition: exploded view showing camera body separated into layers, components arranged radially around central body, clear visual hierarchy\\nSubject: Sony A7 camera body with all internal and external parts separated and labeled — sensor, shutter mechanism, mirrorless mount, LCD screen, EVF, battery compartment, dials, buttons, ports, processor board\\nScene/backdrop: neutral white or light gray gradient background, no distractions, focus entirely on technical diagram\\nLighting/mood: even studio lighting, soft shadows to show depth and separation between parts, clinical and educational tone\\nColor palette: Sony black and silver body tones, subtle blue accents for technical elements, high contrast black text labels\\nMaterials/textures: matte metal finish on body, glass reflections on LCD and EVF, visible circuit board patterns, rubber grip texture\\nText (verbatim): \\\"Sony\\\" \\\"A7\\\"\\nConstraints: all component names must be clearly labeled with leader lines; diagram must be readable at standard print sizes; technical accuracy prioritized over artistic flair\\nAvoid: photorealistic renderings without labels; cluttered overlapping parts; missing component names; generic camera shapes without Sony A7 specific details\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13133
+}

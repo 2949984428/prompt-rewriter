@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial street portrait photograph in 90s Hong Kong (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"复古胶片\" aesthetic — references in the spirit of 1990s Hong Kong cinema (Wong Kar-wai), 90s Japanese film photography, Kodak Gold 200 era color science; exact film stock and grain treatment is yours\nComposition: framing is yours\nSubject: must include a young woman in a denim jacket leaning against a neon sign as the focal subject\nScene/backdrop: must include 90s Hong Kong street at night with neon signage\nLighting/mood: needs a hazy night atmosphere with nostalgic mood — exact light source mix is yours\nColor palette: needs warm tones — exact hue balance is yours\nMaterials/textures: needs film grain texture — exact grain intensity is yours\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/03bd9ed1-0938-4d52-bd21-80b9c481f216/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an editorial street portrait photograph in 90s Hong Kong (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"复古胶片\\\" aesthetic — references in the spirit of 1990s Hong Kong cinema (Wong Kar-wai), 90s Japanese film photography, Kodak Gold 200 era color science; exact film stock and grain treatment is yours\\nComposition: framing is yours\\nSubject: must include a young woman in a denim jacket leaning against a neon sign as the focal subject\\nScene/backdrop: must include 90s Hong Kong street at night with neon signage\\nLighting/mood: needs a hazy night atmosphere with nostalgic mood — exact light source mix is yours\\nColor palette: needs warm tones — exact hue balance is yours\\nMaterials/textures: needs film grain texture — exact grain intensity is yours\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13582
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 13,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "电影海报设计：一部关于人工智能觉醒的科幻惊悚电影的主视觉海报。画面主体是一个半人半机械的面孔，左半边是精致的人类女性面孔，右半边是暴露出精密电路板和金属骨架的机械结构，两者在中线处完美融合过渡。背景是一个巨大的数字矩阵空间，无数绿色代码从天而降。整体色调以冷蓝色和绿色为主，带有强烈的赛博朋克视觉风格。标题文字区域预留在画面下方三分之一处。人物眼神直视观众，一只眼睛是人类的棕色眼睛，另一只是发光的蓝色机械眼。整体构图垂直居中，视觉冲击力强，充满悬疑与科技感，专业电影海报级别的合成与渲染质量。",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c83e1acb-757d-4925-ba16-f75f82167fdb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call, size inferred locally)",
+  "ms": 0
+}

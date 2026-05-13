@@ -1,0 +1,21 @@
+{
+  "query_idx": 4,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing PPT cover slide for a product launch campaign centered on 长安起源Q06.\n\nStyle/medium: needs a cinematic, high-impact presentation cover aesthetic — exact stylistic execution is yours\nComposition: must include a dominant hero background image with title and subtitle overlaid in a brand-aligned layout\nSubject: must include 长安起源Q06 as the hero subject\nScene/backdrop: needs a translucent, immersive, visually striking atmosphere — exact environmental treatment is yours\nLighting/mood: needs a dramatic, awe-inspiring atmosphere — exact light source mix is yours\nColor palette: needs a direction aligned with automotive brand prestige — exact hex values and ratios are yours\nMaterials/textures: needs a sense of depth and translucency in the background — exact surface treatment is yours\nText (verbatim): must include \"长安起源Q06\" (primary title), \"9月上市\" (subtitle)\nConstraints: must preserve brand-aligned hierarchy: hero background → primary title → subtitle\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A841bf8d5-7fa7-435c-99d2-892cb31bd2c5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing PPT cover slide for a product launch campaign centered on 长安起源Q06.\\n\\nStyle/medium: needs a cinematic, high-impact presentation cover aesthetic — exact stylistic execution is yours\\nComposition: must include a dominant hero background image with title and subtitle overlaid in a brand-aligned layout\\nSubject: must include 长安起源Q06 as the hero subject\\nScene/backdrop: needs a translucent, immersive, visually striking atmosphere — exact environmental treatment is yours\\nLighting/mood: needs a dramatic, awe-inspiring atmosphere — exact light source mix is yours\\nColor palette: needs a direction aligned with automotive brand prestige — exact hex values and ratios are yours\\nMaterials/textures: needs a sense of depth and translucency in the background — exact surface treatment is yours\\nText (verbatim): must include \\\"长安起源Q06\\\" (primary title), \\\"9月上市\\\" (subtitle)\\nConstraints: must preserve brand-aligned hierarchy: hero background → primary title → subtitle\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9838
+}

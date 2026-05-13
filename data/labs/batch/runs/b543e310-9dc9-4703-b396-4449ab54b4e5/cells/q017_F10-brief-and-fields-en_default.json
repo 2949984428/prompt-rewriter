@@ -1,0 +1,20 @@
+{
+  "query_idx": 17,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing travel brochure design for Hangzhou 4-day 3-night itinerary, featuring a tri-fold format with real map background.\n\nStyle/medium: photorealistic product mockup of a tri-fold travel brochure, floating on textured kraft paper, editorial tourism graphic design\nComposition: top-down flat lay, tri-fold brochure spread open showing all three panels, slight shadow casting on background\nSubject: tri-fold travel brochure with authentic Hangzhou city map as background thread, famous landmarks rendered as illustrated icons (西湖 West Lake, 断桥 Broken Bridge, 雷峰塔 Leifeng Pagoda, 灵隐寺 Lingyin Temple, 龙井村 Longjing Village, 拱宸桥 Gongchen Bridge) with distinctive landmark features, icons appear to float above the map surface\nScene/backdrop: textured kraft paper or linen background, soft natural studio lighting\nLighting/mood: soft diffused overhead light, clean minimal shadows, professional product photography mood\nColor palette: Hangzhou map in muted greens and blues, landmark icons in warm terracotta and gold accents, kraft paper in natural beige\nMaterials/textures: matte paper texture for brochure, subtle embossing on landmark icons, visible paper grain on kraft background\nText (verbatim): \"第一天：西湖经典游，打卡教科书里的江南\", \"断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺\", \"第二天：禅意杭州，穿越千年宋韵\", \"灵隐寺→飞来峰造像→法喜寺→宋城\", \"第三天：九溪烟树徒步，做一日茶山散人\", \"九溪十八涧→龙井村→十里琅珰→云栖竹径\", \"第四天：文艺收官，解锁杭州AB面\"\nConstraints: tri-fold format must be visually clear with three distinct panels; landmark icons must be recognizable and stylistically consistent; map must be authentic Hangzhou geography\nAvoid: generic stock map, cluttered layout, unreadable small text, cartoonish landmark illustrations, plastic glossy finish",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/e0fa6e41-7558-411a-9a2c-4cb93a175bc8/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing travel brochure design for Hangzhou 4-day 3-night itinerary, featuring a tri-fold format with real map background.\\n\\nStyle/medium: photorealistic product mockup of a tri-fold travel brochure, floating on textured kraft paper, editorial tourism graphic design\\nComposition: top-down flat lay, tri-fold brochure spread open showing all three panels, slight shadow casting on background\\nSubject: tri-fold travel brochure with authentic Hangzhou city map as background thread, famous landmarks rendered as illustrated icons (西湖 West Lake, 断桥 Broken Bridge, 雷峰塔 Leifeng Pagoda, 灵隐寺 Lingyin Temple, 龙井村 Longjing Village, 拱宸桥 Gongchen Bridge) with distinctive landmark features, icons appear to float above the map surface\\nScene/backdrop: textured kraft paper or linen background, soft natural studio lighting\\nLighting/mood: soft diffused overhead light, clean minimal shadows, professional product photography mood\\nColor palette: Hangzhou map in muted greens and blues, landmark icons in warm terracotta and gold accents, kraft paper in natural beige\\nMaterials/textures: matte paper texture for brochure, subtle embossing on landmark icons, visible paper grain on kraft background\\nText (verbatim): \\\"第一天：西湖经典游，打卡教科书里的江南\\\", \\\"断桥残雪→白堤→孤山→曲院风荷→苏堤春晓→花港观鱼→雷峰塔→柳浪闻莺\\\", \\\"第二天：禅意杭州，穿越千年宋韵\\\", \\\"灵隐寺→飞来峰造像→法喜寺→宋城\\\", \\\"第三天：九溪烟树徒步，做一日茶山散人\\\", \\\"九溪十八涧→龙井村→十里琅珰→云栖竹径\\\", \\\"第四天：文艺收官，解锁杭州AB面\\\"\\nConstraints: tri-fold format must be visually clear with three distinct panels; landmark icons must be recognizable and stylistically consistent; map must be authentic Hangzhou geography\\nAvoid: generic stock map, cluttered layout, unreadable small text, cartoonish landmark illustrations, plastic glossy finish\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13041
+}

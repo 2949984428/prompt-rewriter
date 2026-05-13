@@ -1,0 +1,23 @@
+{
+  "query_idx": 254,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张小红书封面图。\n\n风格/媒介: 摄影风，阳光明媚\n构图: 竖版封面构图；奶牛主体居中站立；画面底部叠加文字\n主体: 一头棕白相间的奶牛，站在阳光照耀的草地上\n场景/背景: 绿色草地，背景为虚化的树木\n光线/氛围: 阳光充足，明亮自然光\n色彩方案: 自然草地绿与棕白奶牛色调为主；文字区域蓝白配色\n材质/纹理:\n文字(原样): Don't look, you're the cow\n约束:\n  文字位于画面底部\n  文字颜色为蓝色与白色\n  \"Don't look, you're the cow\" 使用粗体手写艺术字风格，蓝色文字，视觉突出\n避免: 文字模糊；文字位置偏移至非底部区域",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aa62f6ba2-409d-49b2-a7b3-43758fcbca12/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张小红书封面图。\\n\\n风格/媒介: 摄影风，阳光明媚\\n构图: 竖版封面构图；奶牛主体居中站立；画面底部叠加文字\\n主体: 一头棕白相间的奶牛，站在阳光照耀的草地上\\n场景/背景: 绿色草地，背景为虚化的树木\\n光线/氛围: 阳光充足，明亮自然光\\n色彩方案: 自然草地绿与棕白奶牛色调为主；文字区域蓝白配色\\n材质/纹理:\\n文字(原样): Don't look, you're the cow\\n约束:\\n  文字位于画面底部\\n  文字颜色为蓝色与白色\\n  \\\"Don't look, you're the cow\\\" 使用粗体手写艺术字风格，蓝色文字，视觉突出\\n避免: 文字模糊；文字位置偏移至非底部区域\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 8098,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

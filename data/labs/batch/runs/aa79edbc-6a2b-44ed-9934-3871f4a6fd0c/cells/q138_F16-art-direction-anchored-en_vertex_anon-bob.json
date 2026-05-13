@@ -1,0 +1,23 @@
+{
+  "query_idx": 138,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张产品介绍图，风格参考相盒保护膜介绍图。\n\n风格/媒介:产品介绍图，电商风格，参考上传的相盒保护膜介绍图风格\n构图:与参考图类似的构图布局\n主体:滴胶保护膜产品，膜片要薄\n场景/背景:参考图同类背景风格\n光线/氛围:\n色彩方案:\n材质/纹理:薄片质感，光泽感\n文字(原样):防刮防水，并且让你的薄片保持光泽不褪色\n约束:发布唯品会平台，风格与参考图相近\n避免:",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4af4cc1e-da91-4bc6-adb1-1d8c6003efc3/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张产品介绍图，风格参考相盒保护膜介绍图。\\n\\n风格/媒介:产品介绍图，电商风格，参考上传的相盒保护膜介绍图风格\\n构图:与参考图类似的构图布局\\n主体:滴胶保护膜产品，膜片要薄\\n场景/背景:参考图同类背景风格\\n光线/氛围:\\n色彩方案:\\n材质/纹理:薄片质感，光泽感\\n文字(原样):防刮防水，并且让你的薄片保持光泽不褪色\\n约束:发布唯品会平台，风格与参考图相近\\n避免:\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 13866,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

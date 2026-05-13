@@ -1,0 +1,20 @@
+{
+  "query_idx": 19,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing editorial photo of Chinese Jiangnan water town during rapeseed flower season.\n\nStyle/medium: documentary landscape photography blending drone aerial view with ground telephoto, inspired by traditional Chinese pastoral painting aesthetics\nComposition: elevated wide-angle establishing shot transitioning to medium ground details, drone perspective showing layered landscape depth with foreground river, midground village, and background hills\nSubject: vast golden rapeseed flower fields stretching to horizon, scattered traditional white-wall black-tile houses nestled among blooms, ancient stone arch bridge crossing clear river, weeping willows with tender green branches swaying at riverbank\nScene/backdrop: ancient village in Zhejiang province, terraced tea plantations on distant hills showing orderly green textures, clear blue sky with scattered white clouds, morning pastoral atmosphere\nLighting/mood: natural daylight at 10 AM, soft directional sunlight with gentle shadows, poetic and vibrant rural life mood\nColor palette: dominant golden yellow from rapeseed flowers as warm anchor, crisp blue sky as cool base, emerald green tea terraces and willow branches as complementary accent, white walls and dark roof tiles providing neutral contrast\nMaterials/textures: velvety flower field texture, weathered stone bridge surface, smooth river water reflection, traditional fabric textures of villagers' clothing\nAvoid: oversaturated neon colors, artificial lighting, modern buildings, distorted perspective, watermark, 8K stuffer aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1a691e09-145c-4d82-8d25-b0bcd73c3e19/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing editorial photo of Chinese Jiangnan water town during rapeseed flower season.\\n\\nStyle/medium: documentary landscape photography blending drone aerial view with ground telephoto, inspired by traditional Chinese pastoral painting aesthetics\\nComposition: elevated wide-angle establishing shot transitioning to medium ground details, drone perspective showing layered landscape depth with foreground river, midground village, and background hills\\nSubject: vast golden rapeseed flower fields stretching to horizon, scattered traditional white-wall black-tile houses nestled among blooms, ancient stone arch bridge crossing clear river, weeping willows with tender green branches swaying at riverbank\\nScene/backdrop: ancient village in Zhejiang province, terraced tea plantations on distant hills showing orderly green textures, clear blue sky with scattered white clouds, morning pastoral atmosphere\\nLighting/mood: natural daylight at 10 AM, soft directional sunlight with gentle shadows, poetic and vibrant rural life mood\\nColor palette: dominant golden yellow from rapeseed flowers as warm anchor, crisp blue sky as cool base, emerald green tea terraces and willow branches as complementary accent, white walls and dark roof tiles providing neutral contrast\\nMaterials/textures: velvety flower field texture, weathered stone bridge surface, smooth river water reflection, traditional fabric textures of villagers' clothing\\nAvoid: oversaturated neon colors, artificial lighting, modern buildings, distorted perspective, watermark, 8K stuffer aesthetic\",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 11801
+}

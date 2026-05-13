@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing technical infographic of a Sony A7 camera, fully exploded-view with all parts labeled.\n\nStyle/medium: clean technical illustration, exploded-view engineering diagram in the style of iFixit teardown guides or Haynes manual cutaway art\nComposition: centered exploded axonometric view, all components spread outward from the camera body along diagonal axes, generous white margins for label legibility\nSubject: Sony A7 mirrorless camera fully disassembled — body shell (front and rear), sensor unit, shutter mechanism, mirror box area, mount ring, battery compartment, card slot tray, main PCB, flex cables, buttons and dials, viewfinder module, LCD screen assembly, grip rubber, tripod socket\nScene/backdrop: clean white or very light gray background, no environment\nLighting/mood: flat even studio lighting, no shadows, technical clarity over mood\nColor palette: neutral gray and black for mechanical parts, accent color (electric blue or orange) for callout lines and label text, white background as base\nText (verbatim): \"Sony A7\"\nConstraints: every visible component must have a callout line leading to a clearly readable English label; labels must not overlap each other or the parts; layout must remain legible at A4 print size\nAvoid: photorealistic lens flare, decorative backgrounds, artistic bokeh, missing labels, overlapping callout lines, generic \"exploded product\" stock-photo aesthetic",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/2de6e9c7-1d4a-4cc9-8d32-307a3a8c06bf/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing technical infographic of a Sony A7 camera, fully exploded-view with all parts labeled.\\n\\nStyle/medium: clean technical illustration, exploded-view engineering diagram in the style of iFixit teardown guides or Haynes manual cutaway art\\nComposition: centered exploded axonometric view, all components spread outward from the camera body along diagonal axes, generous white margins for label legibility\\nSubject: Sony A7 mirrorless camera fully disassembled — body shell (front and rear), sensor unit, shutter mechanism, mirror box area, mount ring, battery compartment, card slot tray, main PCB, flex cables, buttons and dials, viewfinder module, LCD screen assembly, grip rubber, tripod socket\\nScene/backdrop: clean white or very light gray background, no environment\\nLighting/mood: flat even studio lighting, no shadows, technical clarity over mood\\nColor palette: neutral gray and black for mechanical parts, accent color (electric blue or orange) for callout lines and label text, white background as base\\nText (verbatim): \\\"Sony A7\\\"\\nConstraints: every visible component must have a callout line leading to a clearly readable English label; labels must not overlap each other or the parts; layout must remain legible at A4 print size\\nAvoid: photorealistic lens flare, decorative backgrounds, artistic bokeh, missing labels, overlapping callout lines, generic \\\"exploded product\\\" stock-photo aesthetic\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 11026
+}

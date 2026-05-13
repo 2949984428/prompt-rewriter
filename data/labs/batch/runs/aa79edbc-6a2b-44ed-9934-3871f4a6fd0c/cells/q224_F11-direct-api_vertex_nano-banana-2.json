@@ -1,0 +1,23 @@
+{
+  "query_idx": 224,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Static Facebook native ad. Top headline bold italic: \"Tu te grattes en cachette depuis des années ?\" Subheadline smaller: \"Les crèmes soulagent 3 jours. Puis ça recommence.\" Center: two DermaVe green soap bars product photo side by side. Large price display: strikethrough \"59,80€\" in red, bold \"17€ / savon\" in dark. Badge bottom-right: \"Économisé 35€ !!!\" in orange rounded pill. Bottom CTA bar green: \"1 ACHETÉ = 1 OFFERT\". White background, green (#6aaa64) and orange (#f0a500) accents, flat urgency style [@image:#1:Capture d’écran 2026-03-27 150251] ecriture de l'aimage a la main",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aba058668-095f-4b89-aef7-aceda85a9008/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Static Facebook native ad. Top headline bold italic: \\\"Tu te grattes en cachette depuis des années ?\\\" Subheadline smaller: \\\"Les crèmes soulagent 3 jours. Puis ça recommence.\\\" Center: two DermaVe green soap bars product photo side by side. Large price display: strikethrough \\\"59,80€\\\" in red, bold \\\"17€ / savon\\\" in dark. Badge bottom-right: \\\"Économisé 35€ !!!\\\" in orange rounded pill. Bottom CTA bar green: \\\"1 ACHETÉ = 1 OFFERT\\\". White background, green (#6aaa64) and orange (#f0a500) accents, flat urgency style [@image:#1:Capture d'écran 2026-03-27 150251] ecriture de l'aimage a la main\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8132,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

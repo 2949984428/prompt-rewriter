@@ -1,0 +1,23 @@
+{
+  "query_idx": 311,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Edit the attached image as a YouTube thumbnail background — 16:9.\n\nStyle/medium: photorealistic, dramatic, documentary-style\nComposition:\n  No cropping or cutting from any part of the image\n  Full frame preserved as-is\nSubject: the original image subject, fully intact\nScene/backdrop: as in the original image, no changes to content\nLighting/mood:\n  Enhanced dramatic lighting\n  Documentary-style mood\nColor palette: color grading adjusted for dramatic, documentary look\nMaterials/textures:\nText (verbatim):\nConstraints:\n  Do not crop, cut, or reframe any part of the original image\n  Keep 16:9 aspect ratio\n  Optimize for YouTube thumbnail use\nAvoid: any cropping, any content removal, any composition changes",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "jpeg"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A5c39d1c0-3a46-4eaa-9781-a62142433d8d/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Edit the attached image as a YouTube thumbnail background — 16:9.\\n\\nStyle/medium: photorealistic, dramatic, documentary-style\\nComposition:\\n  No cropping or cutting from any part of the image\\n  Full frame preserved as-is\\nSubject: the original image subject, fully intact\\nScene/backdrop: as in the original image, no changes to content\\nLighting/mood:\\n  Enhanced dramatic lighting\\n  Documentary-style mood\\nColor palette: color grading adjusted for dramatic, documentary look\\nMaterials/textures:\\nText (verbatim):\\nConstraints:\\n  Do not crop, cut, or reframe any part of the original image\\n  Keep 16:9 aspect ratio\\n  Optimize for YouTube thumbnail use\\nAvoid: any cropping, any content removal, any composition changes\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"output_format\": \"jpeg\"}",
+  "ms": 24252,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

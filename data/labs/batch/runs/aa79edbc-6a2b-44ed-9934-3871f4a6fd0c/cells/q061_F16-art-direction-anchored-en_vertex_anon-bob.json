@@ -1,0 +1,23 @@
+{
+  "query_idx": 61,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Generate a monochrome logo design.\n\nStyle/medium: flat vector, purely flat, clean crisp edges\nComposition:\n  five abstracted sweeping forms (dynamic arrows or chevrons) in synchronized motion\n  overlapping intersections create a complex kinetic geometric pattern\n  all forms converge at a single point\nSubject: abstract logo mark symbolizing unified purpose and forward momentum\nScene/backdrop:\nLighting/mood:\nColor palette: solid black and white only\nMaterials/textures:\nText (verbatim): no text\nConstraints: no gradients, no shading, no text\nAvoid: literal arrows or simple lines; decorative fills; grey tones",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A633166ac-e86f-4606-988f-55ef6211fa4a/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Generate a monochrome logo design.\\n\\nStyle/medium: flat vector, purely flat, clean crisp edges\\nComposition:\\n  five abstracted sweeping forms (dynamic arrows or chevrons) in synchronized motion\\n  overlapping intersections create a complex kinetic geometric pattern\\n  all forms converge at a single point\\nSubject: abstract logo mark symbolizing unified purpose and forward momentum\\nScene/backdrop:\\nLighting/mood:\\nColor palette: solid black and white only\\nMaterials/textures:\\nText (verbatim): no text\\nConstraints: no gradients, no shading, no text\\nAvoid: literal arrows or simple lines; decorative fills; grey tones\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 7319,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

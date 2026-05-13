@@ -1,0 +1,23 @@
+{
+  "query_idx": 296,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "生成一张 Facebook 社交媒体推广帖图。\n\n风格/媒介: 社交媒体推广图（Facebook post）\n构图: 适合 Facebook 帖子的横版构图，视觉层次清晰\n主体: Comfort Time Center 品牌推广内容，参考网站 https://khalilsamara.github.io/comfort-time-center/en/index.html 的视觉风格与品牌识别\n场景/背景:\n光线/氛围: 舒适、温馨的品牌氛围\n色彩方案: 参考网站品牌配色\n材质/纹理:\n文字(原样):\n约束: 参考提供的 logo 图片及网站视觉风格，保留品牌识别元素\n避免:",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7a5b3ffe-34ea-4367-bb82-4ec2096979ec/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"生成一张 Facebook 社交媒体推广帖图。\\n\\n风格/媒介: 社交媒体推广图（Facebook post）\\n构图: 适合 Facebook 帖子的横版构图，视觉层次清晰\\n主体: Comfort Time Center 品牌推广内容，参考网站 https://khalilsamara.github.io/comfort-time-center/en/index.html 的视觉风格与品牌识别\\n场景/背景:\\n光线/氛围: 舒适、温馨的品牌氛围\\n色彩方案: 参考网站品牌配色\\n材质/纹理:\\n文字(原样):\\n约束: 参考提供的 logo 图片及网站视觉风格，保留品牌识别元素\\n避免:\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"output_format\": \"png\"}",
+  "ms": 6263,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,24 @@
+{
+  "query_idx": 7,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "先做logo 做一个宠物用品品牌 然后再做周边",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A4eba6fd2-a247-41c7-88d4-6f1c4b62a848/0.jpg",
+    "/api/image-file/lovart%3A4eba6fd2-a247-41c7-88d4-6f1c4b62a848/1.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"先做logo 做一个宠物用品品牌 然后再做周边\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 35120,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

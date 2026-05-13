@@ -1,0 +1,20 @@
+{
+  "query_idx": 6,
+  "skill_id": "F13-purpose-vertical-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing movie poster for \"大话西游\" reimagined in 1990s Hong Kong cinema style, featuring Zhizunbao and Zixia embracing on a city wall.\n\nStyle/medium: 1990s Hong Kong film poster, film grain texture, analog photographic aesthetic\nComposition: foreground couple embracing on ancient city wall parapet, two distant figures standing apart in the background, vertical poster layout\nSubject: Zhizunbao (至尊宝) and Zixia (紫霞) locked in a kiss/embrace on the city wall in the foreground; Niu Mojing (牛魔王) and Tang Seng (唐僧) standing silhouetted in the far background\nScene/backdrop: ancient Chinese city wall at dusk or night, atmospheric haze\nLighting/mood: moody, melancholic, romantic — warm amber and cool shadow contrast typical of 90s HK cinema\nColor palette: faded warm amber, dusty rose, deep shadow blacks, slightly desaturated as if color-graded on 35mm film\nMaterials/textures: heavy film grain overlay, slight halation around light sources, worn poster print texture\nText (verbatim): 大话西游\nConstraints: vertical poster orientation, film grain must be visible, 90s HK movie poster typography and layout conventions\nAvoid: modern CGI look, clean digital sharpness, contemporary color grading, generic fantasy poster aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/c3434054-01ab-453b-bdd3-5173a8b19ed5/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing movie poster for \\\"大话西游\\\" reimagined in 1990s Hong Kong cinema style, featuring Zhizunbao and Zixia embracing on a city wall.\\n\\nStyle/medium: 1990s Hong Kong film poster, film grain texture, analog photographic aesthetic\\nComposition: foreground couple embracing on ancient city wall parapet, two distant figures standing apart in the background, vertical poster layout\\nSubject: Zhizunbao (至尊宝) and Zixia (紫霞) locked in a kiss/embrace on the city wall in the foreground; Niu Mojing (牛魔王) and Tang Seng (唐僧) standing silhouetted in the far background\\nScene/backdrop: ancient Chinese city wall at dusk or night, atmospheric haze\\nLighting/mood: moody, melancholic, romantic — warm amber and cool shadow contrast typical of 90s HK cinema\\nColor palette: faded warm amber, dusty rose, deep shadow blacks, slightly desaturated as if color-graded on 35mm film\\nMaterials/textures: heavy film grain overlay, slight halation around light sources, worn poster print texture\\nText (verbatim): 大话西游\\nConstraints: vertical poster orientation, film grain must be visible, 90s HK movie poster typography and layout conventions\\nAvoid: modern CGI look, clean digital sharpness, contemporary color grading, generic fantasy poster aesthetic\", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10645
+}

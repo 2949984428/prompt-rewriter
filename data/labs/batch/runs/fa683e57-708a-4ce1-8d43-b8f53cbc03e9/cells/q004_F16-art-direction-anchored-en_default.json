@@ -1,0 +1,20 @@
+{
+  "query_idx": 4,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a close-up food photography shot of a Japanese ramen bowl (any in-image text in Chinese, if rendered).\n\nStyle/medium: needs a \"美食摄影\" aesthetic — references in the spirit of Japanese 食べログ food photography tradition, Kinfolk magazine food editorial style, 深夜食堂 cinematic food close-ups; exact stylistic execution is yours\nComposition: must be close-up shot with chopsticks lifting noodles as focal point\nSubject: must include 日式拉面 bowl with 豚骨汤底, 叉烧, 溏心蛋, 海苔, 葱花\nScene/backdrop: must be blurred background (bokeh) to emphasize the bowl\nLighting/mood: needs a \"食欲感\" appetite-triggering atmosphere — exact light source mix is yours\nColor palette: needs a rich, warm direction — exact saturation and tones are yours\nMaterials/textures: must include visible steam rising from the hot broth\nText (verbatim): \nConstraints: if any in-image text is rendered, default to Chinese\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/48be7e63-5acc-48f6-a521-3f0dbb6012ed/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a close-up food photography shot of a Japanese ramen bowl (any in-image text in Chinese, if rendered).\\n\\nStyle/medium: needs a \\\"美食摄影\\\" aesthetic — references in the spirit of Japanese 食べログ food photography tradition, Kinfolk magazine food editorial style, 深夜食堂 cinematic food close-ups; exact stylistic execution is yours\\nComposition: must be close-up shot with chopsticks lifting noodles as focal point\\nSubject: must include 日式拉面 bowl with 豚骨汤底, 叉烧, 溏心蛋, 海苔, 葱花\\nScene/backdrop: must be blurred background (bokeh) to emphasize the bowl\\nLighting/mood: needs a \\\"食欲感\\\" appetite-triggering atmosphere — exact light source mix is yours\\nColor palette: needs a rich, warm direction — exact saturation and tones are yours\\nMaterials/textures: must include visible steam rising from the hot broth\\nText (verbatim): \\nConstraints: if any in-image text is rendered, default to Chinese\\nAvoid: \",\"size\":\"1024x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 17506
+}

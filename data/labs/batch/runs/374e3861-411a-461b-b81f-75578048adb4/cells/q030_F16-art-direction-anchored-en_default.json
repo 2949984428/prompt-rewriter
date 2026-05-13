@@ -1,0 +1,20 @@
+{
+  "query_idx": 30,
+  "skill_id": "F16-art-direction-anchored-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a documentary-style street photography image of a Varanasi morning scene on the Ganges.\n\nStyle/medium: needs a \"纪实摄影\" documentary aesthetic — references in the spirit of Henri Cartier-Bresson decisive-moment street photography, Steve McCurry color documentary tradition, Raghu Rai Indian photojournalism heritage; exact stylistic execution is yours\nComposition: \nSubject: must include 虔诚的信徒 as focal subjects, 晨雾中的船只 as secondary elements\nScene/backdrop: must include 恒河晨浴 setting at 瓦拉纳西\nLighting/mood: needs a warm morning light atmosphere — exact light source mix is yours\nColor palette: needs a warm direction — exact hex values are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must preserve the 异域文化气息 cultural authenticity of the Indian setting\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/f55236e5-f3ad-4603-9461-feebad91d936/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a documentary-style street photography image of a Varanasi morning scene on the Ganges.\\n\\nStyle/medium: needs a \\\"纪实摄影\\\" documentary aesthetic — references in the spirit of Henri Cartier-Bresson decisive-moment street photography, Steve McCurry color documentary tradition, Raghu Rai Indian photojournalism heritage; exact stylistic execution is yours\\nComposition: \\nSubject: must include 虔诚的信徒 as focal subjects, 晨雾中的船只 as secondary elements\\nScene/backdrop: must include 恒河晨浴 setting at 瓦拉纳西\\nLighting/mood: needs a warm morning light atmosphere — exact light source mix is yours\\nColor palette: needs a warm direction — exact hex values are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must preserve the 异域文化气息 cultural authenticity of the Indian setting\\nAvoid: \",\"size\":\"1536x1024\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12552
+}

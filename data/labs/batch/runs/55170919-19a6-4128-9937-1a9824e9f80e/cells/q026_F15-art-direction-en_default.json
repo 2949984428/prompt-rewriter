@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a presentation cover slide for a domestic financing announcement about \"gpt5.5发布\" (all in-image text in Chinese).\n\nStyle/medium: needs a professional domestic Chinese VC roadshow aesthetic — exact stylistic execution is yours\nComposition: must be a PPT cover slide layout, title area at top, speaker name at bottom\nSubject: must include \"gpt5.5发布\" as the main headline\nScene/backdrop: needs a GP/VC investment pitch atmosphere — exact backdrop treatment is yours\nLighting/mood: needs a professional, high-stakes roadshow atmosphere — exact mood is yours\nColor palette: needs a GP-appropriate professional direction — exact color scheme is yours\nMaterials/textures: \nText (verbatim): must include \"gpt5.5发布\" (main title), \"奥特曼\" (speaker name)\nConstraints: must include all in-image text in Chinese by default; must preserve domestic Chinese roadshow conventions and GP tone\nAvoid: must avoid Western tech conference cliches, must avoid generic startup pitch aesthetics",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/9823b8d9-5007-404f-b7a5-e30b6c4b8d78/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create a presentation cover slide for a domestic financing announcement about \\\"gpt5.5发布\\\" (all in-image text in Chinese).\\n\\nStyle/medium: needs a professional domestic Chinese VC roadshow aesthetic — exact stylistic execution is yours\\nComposition: must be a PPT cover slide layout, title area at top, speaker name at bottom\\nSubject: must include \\\"gpt5.5发布\\\" as the main headline\\nScene/backdrop: needs a GP/VC investment pitch atmosphere — exact backdrop treatment is yours\\nLighting/mood: needs a professional, high-stakes roadshow atmosphere — exact mood is yours\\nColor palette: needs a GP-appropriate professional direction — exact color scheme is yours\\nMaterials/textures: \\nText (verbatim): must include \\\"gpt5.5发布\\\" (main title), \\\"奥特曼\\\" (speaker name)\\nConstraints: must include all in-image text in Chinese by default; must preserve domestic Chinese roadshow conventions and GP tone\\nAvoid: must avoid Western tech conference cliches, must avoid generic startup pitch aesthetics\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 10197
+}

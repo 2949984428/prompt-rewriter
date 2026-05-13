@@ -1,0 +1,23 @@
+{
+  "query_idx": 94,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Screenshot 2026-04-21 at 11][@image:#2:Screenshot 2026-04-21 at 11] 请根据两个我提供的设计 提供我不同的logo 设计。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A7c5bf2cf-c82b-4d6d-9ec8-659947ce96cc/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Screenshot 2026-04-21 at 11][@image:#2:Screenshot 2026-04-21 at 11] 请根据两个我提供的设计 提供我不同的logo 设计。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2815,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

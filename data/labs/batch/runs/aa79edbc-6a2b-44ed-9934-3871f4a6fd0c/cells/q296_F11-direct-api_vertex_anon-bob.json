@@ -1,0 +1,23 @@
+{
+  "query_idx": 296,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a Facebook social media promotion post. Use this website as a reference [@image:#1:logo]https://khalilsamara.github.io/comfort-time-center/en/index.html",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ab2506ddb-c08a-47ee-bf52-a10816bffd38/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a Facebook social media promotion post. Use this website as a reference [@image:#1:logo]https://khalilsamara.github.io/comfort-time-center/en/index.html\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2534,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

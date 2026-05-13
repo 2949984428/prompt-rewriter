@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original illustration of a warm family reunion dinner scene (all in-image text in Chinese).\n\nStyle/medium: needs a cozy, 烟火气 everyday-life aesthetic — exact stylistic execution is yours\nComposition: must be centered around a round Chinese dining table with family members gathered, glasses raised in a toast\nSubject: must include a Chinese round table (圆桌), a steaming hot pot (火锅) as centerpiece, a full family group laughing and toasting together\nScene/backdrop: must include a wall covered with family photos in the background\nLighting/mood: needs a warm, intimate 幸福感 atmosphere — exact light source mix is yours\nColor palette: needs a warm-yellow dominant direction — exact hex values and ratios are yours\nMaterials/textures: \nText (verbatim): \nConstraints: must include all in-image text in Chinese by default; must preserve the steaming hot pot as a prominent focal element; must convey 烟火气 and 幸福感 throughout the scene\nAvoid: ",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/bb443da6-9216-45ad-ba9f-54983df1dfab/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original illustration of a warm family reunion dinner scene (all in-image text in Chinese).\\n\\nStyle/medium: needs a cozy, 烟火气 everyday-life aesthetic — exact stylistic execution is yours\\nComposition: must be centered around a round Chinese dining table with family members gathered, glasses raised in a toast\\nSubject: must include a Chinese round table (圆桌), a steaming hot pot (火锅) as centerpiece, a full family group laughing and toasting together\\nScene/backdrop: must include a wall covered with family photos in the background\\nLighting/mood: needs a warm, intimate 幸福感 atmosphere — exact light source mix is yours\\nColor palette: needs a warm-yellow dominant direction — exact hex values and ratios are yours\\nMaterials/textures: \\nText (verbatim): \\nConstraints: must include all in-image text in Chinese by default; must preserve the steaming hot pot as a prominent focal element; must convey 烟火气 and 幸福感 throughout the scene\\nAvoid: \", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8655
+}

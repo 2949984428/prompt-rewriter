@@ -1,0 +1,20 @@
+{
+  "query_idx": 15,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: social-media-screenshot\nAsset type: Douyin live stream screenshot, 9:16 vertical mobile frame\nPrimary request: screenshot of a live streaming session featuring a female host\nScene/backdrop: Douyin live stream interface with comments scrolling on the left, gift buttons on the right, viewer count at top\nSubject: elegant female host (resembling \"神仙姐姐\"), holding a sign in her hands\nStyle/medium: mobile UI screenshot, photorealistic live stream capture\nComposition/framing: vertical 9:16 frame, host centered, UI elements framing the scene\nLighting/mood: soft ring light on host, warm and inviting live stream atmosphere\nColor palette: Douyin brand pink/white UI elements, warm skin tones, neutral background\nText (verbatim): \"今晚直播，欢迎来参亦菲畅聊！\"\nConstraints: sign text must be clearly readable in Chinese, host must be holding the sign prominently, live stream UI must look authentic\nAvoid: blurry text, distorted facial features, missing UI elements, watermark from other platforms",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6baff1e6-847e-4667-9657-3cf86c593e1e/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: social-media-screenshot\\nAsset type: Douyin live stream screenshot, 9:16 vertical mobile frame\\nPrimary request: screenshot of a live streaming session featuring a female host\\nScene/backdrop: Douyin live stream interface with comments scrolling on the left, gift buttons on the right, viewer count at top\\nSubject: elegant female host (resembling \\\"神仙姐姐\\\"), holding a sign in her hands\\nStyle/medium: mobile UI screenshot, photorealistic live stream capture\\nComposition/framing: vertical 9:16 frame, host centered, UI elements framing the scene\\nLighting/mood: soft ring light on host, warm and inviting live stream atmosphere\\nColor palette: Douyin brand pink/white UI elements, warm skin tones, neutral background\\nText (verbatim): \\\"今晚直播，欢迎来参亦菲畅聊！\\\"\\nConstraints: sign text must be clearly readable in Chinese, host must be holding the sign prominently, live stream UI must look authentic\\nAvoid: blurry text, distorted facial features, missing UI elements, watermark from other platforms\", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9800
+}

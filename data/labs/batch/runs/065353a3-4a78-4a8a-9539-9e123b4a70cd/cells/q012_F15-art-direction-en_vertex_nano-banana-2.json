@@ -1,0 +1,21 @@
+{
+  "query_idx": 12,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing WeChat official account article cover image for a fragrance new product launch campaign titled \"染秋\".\n\nStyle/medium: needs a high-end, luxurious quality aesthetic — exact stylistic execution is yours\nComposition: must be center composition with the title as the focal point\nSubject: must include the 染秋 fragrance new product as the hero subject, with the title prominently featured\nScene/backdrop: needs an autumnal atmosphere fitting the 染秋 theme — exact scene treatment is yours\nLighting/mood: needs a refined, premium mood — exact light source mix is yours\nColor palette: needs a warm autumnal direction — exact hex values and ratios are yours\nMaterials/textures: needs a high-quality, tactile surface treatment — exact grain / sheen / weight is yours\nText (verbatim): must include \"染秋\" (large, primary headline), \"秋意染染 时光留香\" (secondary headline)\nConstraints: must preserve title prominence; cover dimensions are 900×500 (horizontal)\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A215b88eb-5276-47f0-ad6a-e5cb890bddf0/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing WeChat official account article cover image for a fragrance new product launch campaign titled \\\"染秋\\\".\\n\\nStyle/medium: needs a high-end, luxurious quality aesthetic — exact stylistic execution is yours\\nComposition: must be center composition with the title as the focal point\\nSubject: must include the 染秋 fragrance new product as the hero subject, with the title prominently featured\\nScene/backdrop: needs an autumnal atmosphere fitting the 染秋 theme — exact scene treatment is yours\\nLighting/mood: needs a refined, premium mood — exact light source mix is yours\\nColor palette: needs a warm autumnal direction — exact hex values and ratios are yours\\nMaterials/textures: needs a high-quality, tactile surface treatment — exact grain / sheen / weight is yours\\nText (verbatim): must include \\\"染秋\\\" (large, primary headline), \\\"秋意染染 时光留香\\\" (secondary headline)\\nConstraints: must preserve title prominence; cover dimensions are 900×500 (horizontal)\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 7286
+}

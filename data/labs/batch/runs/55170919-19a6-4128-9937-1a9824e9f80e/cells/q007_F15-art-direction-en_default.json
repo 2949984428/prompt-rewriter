@@ -1,0 +1,20 @@
+{
+  "query_idx": 7,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a technical infographic showing an exploded-view breakdown of a Sony A7 camera with all components labeled (all in-image text in Spanish).\n\nStyle/medium: needs a technical diagram / exploded-view aesthetic — exact line weight and illustration style is yours\nComposition: must be exploded-view layout with all camera components separated and clearly labeled\nSubject: must include all Sony A7 camera components with their technical names\nScene/backdrop: \nLighting/mood: needs a clean, technical documentation atmosphere — exact lighting treatment is yours\nColor palette: \nMaterials/textures: \nText (verbatim): must include all component labels in Spanish (sensor, mirrorless mount, EVF, LCD screen, battery, SD card slot, shutter mechanism, IBIS unit, processor board, grip, dials, buttons, ports, etc.)\nConstraints: must include all in-image text in Spanish by default; must preserve accurate Sony A7 camera anatomy with all major components visible and labeled\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/3386cc23-f5be-49ff-bb4f-2dd12142ce9b/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a technical infographic showing an exploded-view breakdown of a Sony A7 camera with all components labeled (all in-image text in Spanish).\\n\\nStyle/medium: needs a technical diagram / exploded-view aesthetic — exact line weight and illustration style is yours\\nComposition: must be exploded-view layout with all camera components separated and clearly labeled\\nSubject: must include all Sony A7 camera components with their technical names\\nScene/backdrop: \\nLighting/mood: needs a clean, technical documentation atmosphere — exact lighting treatment is yours\\nColor palette: \\nMaterials/textures: \\nText (verbatim): must include all component labels in Spanish (sensor, mirrorless mount, EVF, LCD screen, battery, SD card slot, shutter mechanism, IBIS unit, processor board, grip, dials, buttons, ports, etc.)\\nConstraints: must include all in-image text in Spanish by default; must preserve accurate Sony A7 camera anatomy with all major components visible and labeled\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 13237
+}

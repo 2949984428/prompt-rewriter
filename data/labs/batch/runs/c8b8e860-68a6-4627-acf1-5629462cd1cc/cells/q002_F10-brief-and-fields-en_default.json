@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial banner photo for a Weibo news/hot-topic post, featuring an urban dusk cityscape.\n\nStyle/medium: documentary photojournalism, shot-on-smphone aesthetic with professional polish, sharp detail, photorealistic\nComposition: wide panoramic 16:9 aspect ratio, horizontal sweep, generous negative space for text overlay, eye-level street perspective\nSubject: silhouetted commuters in motion blur, foreground to midground depth, anonymous urban figures\nScene/backdrop: metropolitan skyline at golden hour transitioning to blue hour, distant skyscrapers reflecting amber sunset glow, neon signs beginning to illuminate storefronts\nLighting/mood: dramatic chiaroscuro, warm sunset backlighting against cool emerging neon, high contrast between natural and artificial light, authentic on-site atmosphere\nColor palette: amber gold and burnt orange from sunset as base, electric blue and magenta neon as accent, deep shadow blacks\nMaterials/textures: wet pavement reflections, glass facade glints, motion blur on moving figures, crisp architectural edges\nText (verbatim): \"城市里的安静时刻\", \"黄昏，总能治愈一天的匆忙\", \"@龙爪槐守望者real · 生活观察\"\nConstraints: must maintain 16:9 strict aspect ratio, ample horizontal breathing room for text overlay, professional news-grade composition\nAvoid: oversaturated HDR, fake 8K stuffer aesthetic, watermarked stock photo look, plastic skin, deformed architecture, excessive sharpening",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/90e8a265-4eb8-4173-bcdf-64d4f0def7c2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial banner photo for a Weibo news/hot-topic post, featuring an urban dusk cityscape.\\n\\nStyle/medium: documentary photojournalism, shot-on-smphone aesthetic with professional polish, sharp detail, photorealistic\\nComposition: wide panoramic 16:9 aspect ratio, horizontal sweep, generous negative space for text overlay, eye-level street perspective\\nSubject: silhouetted commuters in motion blur, foreground to midground depth, anonymous urban figures\\nScene/backdrop: metropolitan skyline at golden hour transitioning to blue hour, distant skyscrapers reflecting amber sunset glow, neon signs beginning to illuminate storefronts\\nLighting/mood: dramatic chiaroscuro, warm sunset backlighting against cool emerging neon, high contrast between natural and artificial light, authentic on-site atmosphere\\nColor palette: amber gold and burnt orange from sunset as base, electric blue and magenta neon as accent, deep shadow blacks\\nMaterials/textures: wet pavement reflections, glass facade glints, motion blur on moving figures, crisp architectural edges\\nText (verbatim): \\\"城市里的安静时刻\\\", \\\"黄昏，总能治愈一天的匆忙\\\", \\\"@龙爪槐守望者real · 生活观察\\\"\\nConstraints: must maintain 16:9 strict aspect ratio, ample horizontal breathing room for text overlay, professional news-grade composition\\nAvoid: oversaturated HDR, fake 8K stuffer aesthetic, watermarked stock photo look, plastic skin, deformed architecture, excessive sharpening\",\"size\":\"1792x1008\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 27017
+}

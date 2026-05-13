@@ -1,0 +1,23 @@
+{
+  "query_idx": 130,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "将[@image:#1:上衣]转换为一张精修的电商平铺白底图，注意款式、版型、细节和颜色，适用于淘宝。",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A511300f1-9b21-46bf-9a39-c767dbc819cc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"将[@image:#1:上衣]转换为一张精修的电商平铺白底图，注意款式、版型、细节和颜色，适用于淘宝。\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2886,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

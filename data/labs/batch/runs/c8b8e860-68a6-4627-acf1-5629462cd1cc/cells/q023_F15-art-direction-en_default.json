@@ -1,0 +1,20 @@
+{
+  "query_idx": 23,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a single large educational knowledge card for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms period.\n\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\nComposition: must be a single large knowledge card layout with clear title area and bullet points alongside the story illustration\nSubject: must include the Battle of Red Cliffs (赤壁之战) story depicted in cartoon illustration form\nScene/backdrop: needs a Three Kingdoms period setting — exact environmental details are yours\nLighting/mood: needs a child-friendly, engaging atmosphere — exact tone balance is yours\nColor palette: needs a vibrant, appealing direction for children — exact color choices are yours\nMaterials/textures: \nText (verbatim): must include a clear title (title text is yours), bullet points with punctuation listing key story points\nConstraints: must preserve all key story elements of the Battle of Red Cliffs, must be suitable for children, single card format\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/204c8d42-cf7e-41da-937c-827edb3b0fcc/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a single large educational knowledge card for children explaining the Battle of Red Cliffs (赤壁之战) from the Three Kingdoms period.\\n\\nStyle/medium: needs a children's cartoon illustration aesthetic — exact stylistic execution is yours\\nComposition: must be a single large knowledge card layout with clear title area and bullet points alongside the story illustration\\nSubject: must include the Battle of Red Cliffs (赤壁之战) story depicted in cartoon illustration form\\nScene/backdrop: needs a Three Kingdoms period setting — exact environmental details are yours\\nLighting/mood: needs a child-friendly, engaging atmosphere — exact tone balance is yours\\nColor palette: needs a vibrant, appealing direction for children — exact color choices are yours\\nMaterials/textures: \\nText (verbatim): must include a clear title (title text is yours), bullet points with punctuation listing key story points\\nConstraints: must preserve all key story elements of the Battle of Red Cliffs, must be suitable for children, single card format\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9956
+}

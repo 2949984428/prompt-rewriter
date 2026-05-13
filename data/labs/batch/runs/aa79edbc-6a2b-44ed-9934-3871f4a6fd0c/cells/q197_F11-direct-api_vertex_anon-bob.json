@@ -1,0 +1,23 @@
+{
+  "query_idx": 197,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "[@image:#1:Image][@image:#2:Image][@image:#3:吸顶灯] 图1的灯替换成图2灯，其他保持不变，图片按照淘宝1:1比例",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A6e933d07-99ed-4d9f-ad8a-699839df7474/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"[@image:#1:Image][@image:#2:Image][@image:#3:吸顶灯] 图1的灯替换成图2灯，其他保持不变，图片按照淘宝1:1比例\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 2871,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Design an original, non-infringing employee ID badge for \"ByteDance\" (字节跳动), showing both front and back sides.\n\nStyle/medium: needs a realistic corporate ID badge aesthetic — exact stylistic execution is yours\nComposition: must show both front and back sides of the badge\nSubject: must include the \"ByteDance\" / \"字节跳动\" brand identity\nScene/backdrop: \nLighting/mood: needs a realistic lighting direction — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a realistic ID badge surface treatment — exact plastic/laminate finish is yours\nText (verbatim): must include \"ByteDance\" and \"字节跳动\"\nConstraints: must preserve the real-world appearance of corporate employee badges, both sides visible\nAvoid: ",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/4cebb00b-2c8c-4ac9-98b5-0b5d75fb79ee/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Design an original, non-infringing employee ID badge for \\\"ByteDance\\\" (字节跳动), showing both front and back sides.\\n\\nStyle/medium: needs a realistic corporate ID badge aesthetic — exact stylistic execution is yours\\nComposition: must show both front and back sides of the badge\\nSubject: must include the \\\"ByteDance\\\" / \\\"字节跳动\\\" brand identity\\nScene/backdrop: \\nLighting/mood: needs a realistic lighting direction — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a realistic ID badge surface treatment — exact plastic/laminate finish is yours\\nText (verbatim): must include \\\"ByteDance\\\" and \\\"字节跳动\\\"\\nConstraints: must preserve the real-world appearance of corporate employee badges, both sides visible\\nAvoid: \", \"size\": \"1024x1536\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9669
+}

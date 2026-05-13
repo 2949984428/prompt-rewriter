@@ -1,0 +1,20 @@
+{
+  "query_idx": 26,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial photo, wide cinematic landscape\nPrimary request: vintage American road trip scene with a red convertible driving on Route 66 through desert at sunset\nScene/backdrop: Route 66 desert highway stretching to the horizon, flanked by arid scrubland, saguaro cacti, and distant mesa formations\nSubject: classic red convertible car (1950s–1960s American style), top down, driving away from camera along a straight two-lane blacktop road\nStyle/medium: photorealistic, vintage Americana aesthetic, warm film photography feel\nComposition/framing: wide establishing shot, low horizon line, road centered leading the eye to vanishing point, 35mm lens\nLighting/mood: golden hour sunset, sky blazing in deep orange, amber, and crimson; long warm shadows stretching across the asphalt; free-spirited, nostalgic, open-road energy\nColor palette: burnt orange and crimson sky, warm golden light on red car, dusty tan desert floor, muted sage green cacti\nMaterials/textures: weathered asphalt with faded yellow center line, dusty desert sand, glossy car paint catching sunset glow, rough cactus skin\nConstraints: keep Route 66 road sign visible or implied; no modern vehicles or billboards; preserve the open, boundless desert atmosphere\nAvoid: oversaturated neon tones, cluttered background, modern highway infrastructure, watermark",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/1382b172-76fd-415e-8c32-0b724a514497/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial photo, wide cinematic landscape\\nPrimary request: vintage American road trip scene with a red convertible driving on Route 66 through desert at sunset\\nScene/backdrop: Route 66 desert highway stretching to the horizon, flanked by arid scrubland, saguaro cacti, and distant mesa formations\\nSubject: classic red convertible car (1950s–1960s American style), top down, driving away from camera along a straight two-lane blacktop road\\nStyle/medium: photorealistic, vintage Americana aesthetic, warm film photography feel\\nComposition/framing: wide establishing shot, low horizon line, road centered leading the eye to vanishing point, 35mm lens\\nLighting/mood: golden hour sunset, sky blazing in deep orange, amber, and crimson; long warm shadows stretching across the asphalt; free-spirited, nostalgic, open-road energy\\nColor palette: burnt orange and crimson sky, warm golden light on red car, dusty tan desert floor, muted sage green cacti\\nMaterials/textures: weathered asphalt with faded yellow center line, dusty desert sand, glossy car paint catching sunset glow, rough cactus skin\\nConstraints: keep Route 66 road sign visible or implied; no modern vehicles or billboards; preserve the open, boundless desert atmosphere\\nAvoid: oversaturated neon tones, cluttered background, modern highway infrastructure, watermark\", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 10489
+}

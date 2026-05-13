@@ -1,0 +1,20 @@
+{
+  "query_idx": 2,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create a wide banner editorial photo for a Weibo news/hot-topic post.\n\nStyle/medium: needs a documentary photojournalism aesthetic — exact stylistic execution is yours\nComposition: must be wide 16:9 horizontal banner with ample negative space for text overlay\nSubject: must include city skyline at dusk, neon lights beginning to glow, pedestrians in motion blur, distant skyscrapers reflecting sunset light\nScene/backdrop: must include urban dusk cityscape with dramatic light and shadow contrast, strong sense of on-site realism\nLighting/mood: needs a dusk atmosphere with neon glow and dramatic chiaroscuro — exact light source mix is yours\nColor palette: needs a dusk-to-night transition direction — exact color grading is yours\nMaterials/textures: needs sharp detail and high-resolution texture — exact grain and finish are yours\nText (verbatim): must include \"城市里的安静时刻\" (large, prominent, bold or modern typeface), \"黄昏，总能治愈一天的匆忙\" (secondary, smaller), \"@龙爪槐守望者real · 生活观察\" (watermark, bottom or bottom-right)\nConstraints: must preserve 16:9 aspect ratio, horizontal orientation, ample negative space for text placement, professional premium feel like real Weibo trending post imagery\nAvoid: ",
+    "size": "1792x1008",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "https://assets-persist.lovart.ai/agent_images/b6c239c8-b95c-437b-9f17-9b5d608ef282.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create a wide banner editorial photo for a Weibo news/hot-topic post.\\n\\nStyle/medium: needs a documentary photojournalism aesthetic — exact stylistic execution is yours\\nComposition: must be wide 16:9 horizontal banner with ample negative space for text overlay\\nSubject: must include city skyline at dusk, neon lights beginning to glow, pedestrians in motion blur, distant skyscrapers reflecting sunset light\\nScene/backdrop: must include urban dusk cityscape with dramatic light and shadow contrast, strong sense of on-site realism\\nLighting/mood: needs a dusk atmosphere with neon glow and dramatic chiaroscuro — exact light source mix is yours\\nColor palette: needs a dusk-to-night transition direction — exact color grading is yours\\nMaterials/textures: needs sharp detail and high-resolution texture — exact grain and finish are yours\\nText (verbatim): must include \\\"城市里的安静时刻\\\" (large, prominent, bold or modern typeface), \\\"黄昏，总能治愈一天的匆忙\\\" (secondary, smaller), \\\"@龙爪槐守望者real · 生活观察\\\" (watermark, bottom or bottom-right)\\nConstraints: must preserve 16:9 aspect ratio, horizontal orientation, ample negative space for text placement, professional premium feel like real Weibo trending post imagery\\nAvoid: \", \"size\": \"1792x1008\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 12122
+}

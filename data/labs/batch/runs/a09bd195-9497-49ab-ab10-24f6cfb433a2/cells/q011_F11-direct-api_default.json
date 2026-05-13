@@ -1,0 +1,20 @@
+{
+  "query_idx": 11,
+  "skill_id": "F11-direct-api",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "画一张清新日系风格的樱花季校园场景，粉色樱花飘落，女生穿着水手服站在教学楼前，微风拂动发丝，阳光明媚，青春气息扑面而来",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/178eadd7-660e-4766-8192-1f43dd6155a2/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "(F11 direct passthrough — no LLM call)",
+  "ms": 0
+}

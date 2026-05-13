@@ -1,0 +1,21 @@
+{
+  "query_idx": 20,
+  "skill_id": "F15-art-direction-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing full-screen mobile advertisement banner for a flagship smartphone launch campaign.\n\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\nComposition: must be full-screen vertical layout optimized for mobile display\nSubject: must include a flagship smartphone as the hero product, centered and prominent\nScene/backdrop: needs a dramatic, immersive backdrop — exact environment is yours\nLighting/mood: needs a visually striking, high-contrast atmosphere — exact light source mix is yours\nColor palette: needs a bold, premium brand-exposure direction — exact hex values and ratios are yours\nMaterials/textures: needs a sleek, high-end surface treatment — exact finish and sheen are yours\nText (verbatim): \nConstraints: must be formatted as a full-screen smartphone screenshot / in-app ad at 1080×1920 resolution ratio (9:16)\nAvoid: ",
+    "size": "1008x1792",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3A0ae9d09d-1295-47c8-9b6c-3890d74b3f51/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing full-screen mobile advertisement banner for a flagship smartphone launch campaign.\\n\\nStyle/medium: needs a high-impact brand-reveal aesthetic — exact stylistic execution is yours\\nComposition: must be full-screen vertical layout optimized for mobile display\\nSubject: must include a flagship smartphone as the hero product, centered and prominent\\nScene/backdrop: needs a dramatic, immersive backdrop — exact environment is yours\\nLighting/mood: needs a visually striking, high-contrast atmosphere — exact light source mix is yours\\nColor palette: needs a bold, premium brand-exposure direction — exact hex values and ratios are yours\\nMaterials/textures: needs a sleek, high-end surface treatment — exact finish and sheen are yours\\nText (verbatim): \\nConstraints: must be formatted as a full-screen smartphone screenshot / in-app ad at 1080×1920 resolution ratio (9:16)\\nAvoid: \", \"size\": \"1008x1792\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8456
+}

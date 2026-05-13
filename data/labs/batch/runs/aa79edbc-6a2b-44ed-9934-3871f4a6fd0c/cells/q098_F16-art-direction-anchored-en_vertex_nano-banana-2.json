@@ -1,0 +1,23 @@
+{
+  "query_idx": 98,
+  "skill_id": "F16-art-direction-anchored-en",
+  "image_model": "vertex/nano-banana-2",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "设计 FreshBite 品牌 Logo —— 健康食品品牌视觉标识。\n\n风格/媒介: 明亮鲜活的品牌 Logo 设计，干净简洁\n构图: 简洁布局，留白充足，标志与字体组合清晰\n主体: FreshBite 品牌 Logo，体现健康、天然食品定位\n场景/背景: 纯净背景，突出 Logo 本体\n光线/氛围: 清新、充满活力\n色彩方案: 明亮鲜艳色彩，传达新鲜感与能量感\n材质/纹理:\n文字(原样): FreshBite\n约束: 简洁字体，图形与文字组合协调，适合品牌识别使用\n避免: 复杂装饰、暗沉色调、杂乱排版",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Ade926899-5ab8-423f-8ec1-5f141d99bbdb/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"设计 FreshBite 品牌 Logo —— 健康食品品牌视觉标识。\\n\\n风格/媒介: 明亮鲜活的品牌 Logo 设计，干净简洁\\n构图: 简洁布局，留白充足，标志与字体组合清晰\\n主体: FreshBite 品牌 Logo，体现健康、天然食品定位\\n场景/背景: 纯净背景，突出 Logo 本体\\n光线/氛围: 清新、充满活力\\n色彩方案: 明亮鲜艳色彩，传达新鲜感与能量感\\n材质/纹理:\\n文字(原样): FreshBite\\n约束: 简洁字体，图形与文字组合协调，适合品牌识别使用\\n避免: 复杂装饰、暗沉色调、杂乱排版\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 6934,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

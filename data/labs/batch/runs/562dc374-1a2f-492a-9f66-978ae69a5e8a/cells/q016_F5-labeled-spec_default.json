@@ -1,0 +1,20 @@
+{
+  "query_idx": 16,
+  "skill_id": "F5-labeled-spec",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Use case: photorealistic-natural\nAsset type: editorial photo, lifestyle family portrait\nPrimary request: warm family reunion dinner scene with hotpot, family members toasting and laughing together\nScene/backdrop: cozy Chinese dining room with round table, walls covered with family photos and memories\nSubject: multi-generational Chinese family gathered around a hotpot, smiling faces, raised glasses in celebration\nStyle/medium: documentary-style photography, warm lifestyle editorial\nComposition/framing: medium-wide shot capturing the full round table and family members, eye-level perspective\nLighting/mood: warm yellow ambient lighting from overhead lamp, steam rising from hotpot creating soft atmosphere, cozy and joyful mood\nColor palette: warm yellow and amber tones, rich browns of wooden furniture, vibrant reds and greens from hotpot ingredients\nMaterials/textures: glossy ceramic hotpot, wooden round table surface, soft fabric clothing, steam wisps, matte photo prints on wall\nConstraints: keep the authentic Chinese family atmosphere, ensure hotpot steam is visible, family photos on wall should be recognizable as prints\nAvoid: cold sterile lighting, plastic-looking food, overly posed expressions, watermark, deformed hands",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/6cb15eaf-9185-457b-bee0-1c91ed973a36/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Use case: photorealistic-natural\\nAsset type: editorial photo, lifestyle family portrait\\nPrimary request: warm family reunion dinner scene with hotpot, family members toasting and laughing together\\nScene/backdrop: cozy Chinese dining room with round table, walls covered with family photos and memories\\nSubject: multi-generational Chinese family gathered around a hotpot, smiling faces, raised glasses in celebration\\nStyle/medium: documentary-style photography, warm lifestyle editorial\\nComposition/framing: medium-wide shot capturing the full round table and family members, eye-level perspective\\nLighting/mood: warm yellow ambient lighting from overhead lamp, steam rising from hotpot creating soft atmosphere, cozy and joyful mood\\nColor palette: warm yellow and amber tones, rich browns of wooden furniture, vibrant reds and greens from hotpot ingredients\\nMaterials/textures: glossy ceramic hotpot, wooden round table surface, soft fabric clothing, steam wisps, matte photo prints on wall\\nConstraints: keep the authentic Chinese family atmosphere, ensure hotpot steam is visible, family photos on wall should be recognizable as prints\\nAvoid: cold sterile lighting, plastic-looking food, overly posed expressions, watermark, deformed hands\", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 9803
+}

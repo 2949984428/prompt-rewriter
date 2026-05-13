@@ -1,0 +1,20 @@
+{
+  "query_idx": 25,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing social media cover image for a Xiaohongshu (Little Red Book) personal creator account.\n\nStyle/medium: playful, approachable personal creator aesthetic, cute hand-drawn illustration mixed with lifestyle photography, soft organic shapes\nComposition: centered product hero shot within a 9-grid layout frame, vertical format optimized for mobile feed\nSubject: DJI Pocket 4 handheld gimbal camera as the hero product, slightly angled to show the screen and lens\nScene/backdrop: clean minimal background with subtle lifestyle elements suggesting travel or vlogging, soft blur\nLighting/mood: bright natural daylight, soft and inviting, friendly approachable mood\nColor palette: warm pastel tones as base, clean white/silver from product as anchor, soft accent colors for visual interest\nText (verbatim): \"大强pocket4初体验\"\nConstraints: text must be cute and differentiated from standard fonts, hand-drawn or rounded bubbly letterforms preferred, must read clearly at thumbnail size\nAvoid: corporate sterile look, generic stock photo aesthetic, overly polished commercial photography, harsh shadows, cluttered background, standard system fonts",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/19cc6ad0-06e4-4f7f-b584-53aa5cb31415/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an original, non-infringing social media cover image for a Xiaohongshu (Little Red Book) personal creator account.\\n\\nStyle/medium: playful, approachable personal creator aesthetic, cute hand-drawn illustration mixed with lifestyle photography, soft organic shapes\\nComposition: centered product hero shot within a 9-grid layout frame, vertical format optimized for mobile feed\\nSubject: DJI Pocket 4 handheld gimbal camera as the hero product, slightly angled to show the screen and lens\\nScene/backdrop: clean minimal background with subtle lifestyle elements suggesting travel or vlogging, soft blur\\nLighting/mood: bright natural daylight, soft and inviting, friendly approachable mood\\nColor palette: warm pastel tones as base, clean white/silver from product as anchor, soft accent colors for visual interest\\nText (verbatim): \\\"大强pocket4初体验\\\"\\nConstraints: text must be cute and differentiated from standard fonts, hand-drawn or rounded bubbly letterforms preferred, must read clearly at thumbnail size\\nAvoid: corporate sterile look, generic stock photo aesthetic, overly polished commercial photography, harsh shadows, cluttered background, standard system fonts\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 13039
+}

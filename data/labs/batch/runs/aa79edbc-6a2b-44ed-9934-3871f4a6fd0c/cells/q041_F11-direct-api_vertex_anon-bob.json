@@ -1,0 +1,23 @@
+{
+  "query_idx": 41,
+  "skill_id": "F11-direct-api",
+  "image_model": "vertex/anon-bob",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "I need a sophisticated, unmistakably strong visual identity for my public insurance adjusting firm, Frontline Adjusters. The primary mark should present the full name spelled out with a confident, authoritative look, while a secondary mark should distill the brand into the two-letter monogram “FA” that can live on a hat or other small-format merchandise. The style must feel bold and strong—nothing delicate or overly ornamental—and the palette is fixed at green and gold. Think premium, trustworthy, and battle-ready, reflecting the way I fight to secure maximum settlements for homeowners after fire, water, or storm damage. Subtle nods to protection or restoration are welcome as long as they stay within the overall sophisticated tone. Please supply multiple concept directions, refine toward a final selection, and hand over production-ready assets: • Color, black, white, and reversible variants suitable for print, apparel embroidery, and digital use • A simple style sheet noting fonts and color codes for brand consistency",
+    "size": "1024x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/lovart%3Aaa9dbc14-3230-467b-a788-23264dc231c3/0.jpg"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"I need a sophisticated, unmistakably strong visual identity for my public insurance adjusting firm, Frontline Adjusters. The primary mark should present the full name spelled out with a confident, authoritative look, while a secondary mark should distill the brand into the two-letter monogram \\\"FA\\\" that can live on a hat or other small-format merchandise. The style must feel bold and strong—nothing delicate or overly ornamental—and the palette is fixed at green and gold. Think premium, trustworthy, and battle-ready, reflecting the way I fight to secure maximum settlements for homeowners after fire, water, or storm damage. Subtle nods to protection or restoration are welcome as long as they stay within the overall sophisticated tone. Please supply multiple concept directions, refine toward a final selection, and hand over production-ready assets: • Color, black, white, and reversible variants suitable for print, apparel embroidery, and digital use • A simple style sheet noting fonts and color codes for brand consistency\", \"size\": \"1024x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 3751,
+  "pipeline_id": "",
+  "pipeline_outputs": null
+}

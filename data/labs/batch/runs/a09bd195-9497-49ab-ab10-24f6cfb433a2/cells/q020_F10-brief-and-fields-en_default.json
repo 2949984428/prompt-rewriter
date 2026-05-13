@@ -1,0 +1,20 @@
+{
+  "query_idx": 20,
+  "skill_id": "F10-brief-and-fields-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an editorial still-life photograph in wabi-sabi aesthetic featuring a rustic ceramic vase with dried branches.\n\nStyle/medium: wabi-sabi still-life photography, muted editorial aesthetic, Japanese imperfection philosophy\nComposition: eye-level medium shot, soft natural framing, shallow depth of field isolating the vase\nSubject: coarse unglazed ceramic vase with visible firing imperfections, dried bare branches with delicate twigs\nScene/backdrop: weathered wooden table with natural grain and patina, simple interior wall\nLighting/mood: soft natural window light from the side, gentle shadows, quiet contemplative atmosphere\nColor palette: warm earthy browns and grays as base, muted ochre ceramic, desaturated neutral tones\nMaterials/textures: rough unglazed clay surface, cracked and worn wood grain, brittle dried twigs, dust particles in light\nAvoid: perfect symmetry, glossy surfaces, saturated colors, studio flash lighting, over-sharpening, 8K stuffer aesthetic",
+    "size": "1024x1536",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/93817b97-3f43-44ba-bc0a-9d7fc039fd8a/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\":\"Create an editorial still-life photograph in wabi-sabi aesthetic featuring a rustic ceramic vase with dried branches.\\n\\nStyle/medium: wabi-sabi still-life photography, muted editorial aesthetic, Japanese imperfection philosophy\\nComposition: eye-level medium shot, soft natural framing, shallow depth of field isolating the vase\\nSubject: coarse unglazed ceramic vase with visible firing imperfections, dried bare branches with delicate twigs\\nScene/backdrop: weathered wooden table with natural grain and patina, simple interior wall\\nLighting/mood: soft natural window light from the side, gentle shadows, quiet contemplative atmosphere\\nColor palette: warm earthy browns and grays as base, muted ochre ceramic, desaturated neutral tones\\nMaterials/textures: rough unglazed clay surface, cracked and worn wood grain, brittle dried twigs, dust particles in light\\nAvoid: perfect symmetry, glossy surfaces, saturated colors, studio flash lighting, over-sharpening, 8K stuffer aesthetic\",\"size\":\"1024x1536\",\"quality\":\"medium\",\"n\":1,\"output_format\":\"png\"}",
+  "ms": 12167
+}

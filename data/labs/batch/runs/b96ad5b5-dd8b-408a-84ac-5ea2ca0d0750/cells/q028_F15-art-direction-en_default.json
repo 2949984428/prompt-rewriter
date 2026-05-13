@@ -1,0 +1,20 @@
+{
+  "query_idx": 28,
+  "skill_id": "F15-art-direction-en",
+  "status": "done",
+  "final_prompt": {
+    "prompt": "Create an original, non-infringing employee ID card design for \"字节跳动\" (ByteDance), showing both front and back sides in one image (all in-image text in Chinese).\n\nStyle/medium: needs a realistic, authentic employee ID aesthetic — exact stylistic execution is yours\nComposition: must show both front and back sides of the ID card in one image\nSubject: must include employee ID card for \"字节跳动\" (ByteDance)\nScene/backdrop: \nLighting/mood: needs a realistic lighting atmosphere — exact light source mix is yours\nColor palette: \nMaterials/textures: needs a realistic ID card material treatment — exact finish and sheen are yours\nText (verbatim): must include \"字节跳动\" as the company name\nConstraints: must include all in-image text in Chinese by default; must show both front and back sides of the card\nAvoid: ",
+    "size": "1536x1024",
+    "quality": "medium",
+    "n": 1,
+    "output_format": "png"
+  },
+  "image_urls": [
+    "/api/image-file/7c739ae6-4643-4a29-a09e-7bdec9e72264/0.png"
+  ],
+  "scores": {},
+  "note": "",
+  "error": null,
+  "raw": "{\"prompt\": \"Create an original, non-infringing employee ID card design for \\\"字节跳动\\\" (ByteDance), showing both front and back sides in one image (all in-image text in Chinese).\\n\\nStyle/medium: needs a realistic, authentic employee ID aesthetic — exact stylistic execution is yours\\nComposition: must show both front and back sides of the ID card in one image\\nSubject: must include employee ID card for \\\"字节跳动\\\" (ByteDance)\\nScene/backdrop: \\nLighting/mood: needs a realistic lighting atmosphere — exact light source mix is yours\\nColor palette: \\nMaterials/textures: needs a realistic ID card material treatment — exact finish and sheen are yours\\nText (verbatim): must include \\\"字节跳动\\\" as the company name\\nConstraints: must include all in-image text in Chinese by default; must show both front and back sides of the card\\nAvoid: \", \"size\": \"1536x1024\", \"quality\": \"medium\", \"n\": 1, \"output_format\": \"png\"}",
+  "ms": 8858
+}
