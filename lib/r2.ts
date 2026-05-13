@@ -136,6 +136,23 @@ export async function uploadDataUrlToR2(
   const hash = crypto.createHash("sha1").update(body).digest("hex");
   const ext = contentType.split("/")[1]?.split("+")[0] ?? "bin"; // image/png → png
   const key = `${prefix}/${hash}.${ext}`;
-  const { url } = await r2EnsureUploaded(key, body, contentType);
-  return url;
+  // 内部 retry 3 次 —— R2 TLS 偶发(SSL handshake 失败 / bad record mac)实测 1-2 次内部
+  // 重试可恢复,无需把错误暴露给上层。R2 PUT 幂等(同 sha1 key + 同 body 等价),
+  // 这里**跳过 HEAD 预检**直接 PUT —— 节省一次 RTT(HEAD 404 + PUT 是常态),
+  // 真重复 PUT 也无副作用
+  let lastErr: unknown = null;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      await r2PutObject(key, body, contentType);
+      return r2PublicUrl(key);
+    } catch (e) {
+      lastErr = e;
+      if (attempt < 3) {
+        await new Promise((r) => setTimeout(r, attempt * 500));
+      }
+    }
+  }
+  throw new Error(
+    `R2 上传失败(3 次重试用完):${lastErr instanceof Error ? lastErr.message : String(lastErr)}`
+  );
 }

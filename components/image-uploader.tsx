@@ -12,7 +12,7 @@
 
 "use client";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useAtomValue } from "jotai";
 import { Upload, X, Image as ImageIcon, Loader2 } from "lucide-react";
 import {
@@ -35,6 +35,15 @@ interface ImageUploaderProps {
   className?: string;
   label?: string;
   hint?: string;
+  // 2026-05-13:跳过 server 压缩端点,客户端拿到 base64 直接 push 进 value。
+  // Pipeline lab 用这个 — 它后端会把 base64 上传到 R2 拿 URL,压缩对它无意义
+  skipCompression?: boolean;
+  // 2026-05-13:启用后,客户端读到 base64 立即调 /api/upload-r2 拿 R2 公网 URL,
+  // value 里存的是 https://... 而非 base64。失败立即弹错;成功跑批时 POST 直接
+  // 传 URL,server 端 uploadDataUrlToR2 看非 data: 开头会 pass-through
+  useR2Upload?: boolean;
+  // busy 状态透传给父组件,父级可以根据这个 disable 跑批按钮
+  onBusyChange?: (busy: boolean) => void;
 }
 
 function formatBytes(b: number): string {
@@ -54,10 +63,18 @@ export function ImageUploader({
   className = "",
   label = "参考图（图生图）",
   hint,
+  skipCompression = false,
+  useR2Upload = false,
+  onBusyChange,
 }: ImageUploaderProps) {
   const inputRef = useRef<HTMLInputElement>(null);
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
+  // busy 状态透传给父组件(可选)。useEffect 而非 setState callback 触发,避免在
+  // render 阶段调用 setState 引发警告
+  useEffect(() => {
+    onBusyChange?.(busy);
+  }, [busy, onBusyChange]);
   const [notices, setNotices] = useState<CompressNotice[]>([]);
   const c = useAtomValue(currentImageConstraintsAtom);
   const model = useAtomValue(imageModelAtom);
@@ -81,52 +98,98 @@ export function ImageUploader({
     const next: string[] = [...value];
     const newNotices: CompressNotice[] = [];
     try {
-      for (const f of Array.from(files)) {
-        if (next.length >= effMax) {
+      // R2 路径:文件预处理后并发上传(N 张同时 PUT R2,而不是串行)。多图场景显著加速
+      const arr = Array.from(files);
+      const eligible: { f: File; dataUrl: string }[] = [];
+      for (const f of arr) {
+        if (next.length + eligible.length >= effMax) {
           setError(`最多 ${effMax} 张`);
           break;
         }
         if (!effFormats.includes(f.type)) {
           setError(
-            `仅支持 ${effFormats.map((t) => t.replace("image/", "").toUpperCase()).join("/")}（${f.name} 是 ${f.type || "未知"}）`
+            `仅支持 ${effFormats.map((t) => t.replace("image/", "").toUpperCase()).join("/")}（${f.name} 是 ${f.type || "未知"}）`,
           );
           continue;
         }
         if (f.size > HARD_MAX_BYTES) {
           setError(
-            `单张 ≤ ${formatBytes(HARD_MAX_BYTES)}（${f.name} 是 ${formatBytes(f.size)}）`
+            `单张 ≤ ${formatBytes(HARD_MAX_BYTES)}（${f.name} 是 ${formatBytes(f.size)}）`,
           );
           continue;
         }
-        let dataUrl: string;
         try {
-          dataUrl = await readAsDataUrl(f);
+          const dataUrl = await readAsDataUrl(f);
+          eligible.push({ f, dataUrl });
         } catch {
           setError(`读取失败：${f.name}`);
-          continue;
         }
-        // 走 server 端压缩(超目标才会真压;原图已小于 target 直接 pass-through)
-        try {
-          const resp = await fetch("/api/compress-reference-image", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ dataUrl, model: model || undefined }),
-          });
-          const j = await resp.json();
-          if (!resp.ok || !j.ok) {
-            setError(j.error ?? `压缩失败 HTTP ${resp.status}`);
-            continue;
-          }
-          next.push(j.dataUrl);
-          if (j.compressed) {
-            newNotices.push({
-              name: f.name,
-              from: j.originalBytes,
-              to: j.finalBytes,
+      }
+
+      if (useR2Upload) {
+        // 并发上传(同时跑 N 个 R2 PUT)
+        const results = await Promise.all(
+          eligible.map(async ({ f, dataUrl }) => {
+            try {
+              const resp = await fetch("/api/upload-r2", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ dataUrl, prefix: "pipeline-ref" }),
+              });
+              const j = await resp.json();
+              if (!resp.ok || !j.ok) {
+                return {
+                  ok: false as const,
+                  error: j.error ?? `R2 上传失败 HTTP ${resp.status}`,
+                  name: f.name,
+                };
+              }
+              return { ok: true as const, url: j.url as string };
+            } catch (e) {
+              return { ok: false as const, error: String(e), name: f.name };
+            }
+          }),
+        );
+        for (const r of results) {
+          if (r.ok) next.push(r.url);
+          else setError(`${r.name}: ${r.error}`);
+        }
+        // 其他分支不走,直接落到 onChange
+        onChange(next);
+        setNotices(newNotices);
+        return;
+      }
+
+      // 非 R2 路径:维持原串行逻辑(其他 lab 行为不变)
+      for (const { f, dataUrl } of eligible) {
+        if (skipCompression) {
+          // Pipeline lab 等场景:后端会把 base64 上传 R2 拿 URL,server 压缩端点跳过,
+          // 客户端 base64 直接 push 进 value(节省一次 server round-trip)
+          next.push(dataUrl);
+        } else {
+          // 走 server 端压缩(超目标才会真压;原图已小于 target 直接 pass-through)
+          try {
+            const resp = await fetch("/api/compress-reference-image", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ dataUrl, model: model || undefined }),
             });
+            const j = await resp.json();
+            if (!resp.ok || !j.ok) {
+              setError(j.error ?? `压缩失败 HTTP ${resp.status}`);
+              continue;
+            }
+            next.push(j.dataUrl);
+            if (j.compressed) {
+              newNotices.push({
+                name: f.name,
+                from: j.originalBytes,
+                to: j.finalBytes,
+              });
+            }
+          } catch (e) {
+            setError(`压缩请求失败：${String(e)}`);
           }
-        } catch (e) {
-          setError(`压缩请求失败：${String(e)}`);
         }
       }
       onChange(next);
@@ -190,7 +253,7 @@ export function ImageUploader({
             {busy ? (
               <>
                 <Loader2 size={14} className="animate-spin" />
-                <span className="font-mono text-[10px]">压缩中</span>
+                <span className="font-mono text-[10px]">处理中</span>
               </>
             ) : (
               <>

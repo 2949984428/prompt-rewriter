@@ -81,24 +81,28 @@ export async function POST(req: NextRequest) {
   const startTotal = Date.now();
 
   // 2026-05-13:参考图统一上传到 R2 拿公网 URL 再透传给 image gateway。
-  // 原因:image gateway image-edit endpoint 对 base64 字符串长度有限制 +
-  // 部分 Lovart generator 只接 URL,base64 直接塞 body 容易 fail。
-  // 上传失败不阻塞:fallback 原 data URL,跟历史 batch lab 行为一致。
-  const referenceImages: string[] = [];
-  for (const ref of body.uploaded_image_urls ?? []) {
-    if (!ref.startsWith("data:")) {
-      referenceImages.push(ref);
-      continue;
-    }
-    try {
-      referenceImages.push(await uploadDataUrlToR2(ref, "pipeline-ref"));
-    } catch (e) {
-      console.warn(
-        "[pipeline route] R2 上传失败,fallback base64 透传:",
-        e instanceof Error ? e.message : String(e),
-      );
-      referenceImages.push(ref);
-    }
+  // image gateway image-edit endpoint 对 base64 字符串长度有限制 + 部分 Lovart
+  // generator 只接 URL,base64 直接塞 body 容易 fail。
+  // uploadDataUrlToR2 内部已有 3 次 retry;真用完仍失败直接 400 抛回前端,**不再
+  // fallback base64**(老逻辑会让 image gateway 收到 base64 再失败一次,真实根因
+  // 被 image-edit 错误盖住,排查困难)
+  let referenceImages: string[];
+  try {
+    referenceImages = await Promise.all(
+      (body.uploaded_image_urls ?? []).map((ref) =>
+        ref.startsWith("data:")
+          ? uploadDataUrlToR2(ref, "pipeline-ref")
+          : Promise.resolve(ref),
+      ),
+    );
+  } catch (e) {
+    return Response.json(
+      {
+        error: "参考图上传 R2 失败",
+        detail: e instanceof Error ? e.message : String(e),
+      },
+      { status: 502 },
+    );
   }
 
   const initialCtx: PipelineCtx = {

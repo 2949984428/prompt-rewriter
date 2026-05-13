@@ -123,7 +123,10 @@ export function PipelineLab() {
   // 2026-05-13:勾选后跑批同时跑一份直出(planner 原始 prompt 跳过 SP2),DirectCompareCard 显示对比
   const [compareDirect, setCompareDirect] = useState(false);
   // 2026-05-13:上传参考图(图生图模式)。空数组 = 文生图,非空 = 透传给 step3 各生图请求
+  // useR2Upload 模式下,value 里存 R2 公网 URL 而非 base64
   const [referenceImages, setReferenceImages] = useState<string[]>([]);
+  // 上传中(R2 put):跑批按钮置灰,避免用户在图还没传完就触发 POST
+  const [refUploading, setRefUploading] = useState(false);
   const [running, setRunning] = useState(false);
   const [result, setResult] = useState<Partial<PipelineResponse> | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -438,7 +441,9 @@ export function PipelineLab() {
           value={referenceImages}
           onChange={setReferenceImages}
           label="参考图(可选,图生图)"
-          hint="上传后跑批时透传给 Step 4 各生图请求,跑图生图链路。不传则走文生图。"
+          hint="上传到 Cloudflare R2 拿公网 URL,跑批时直接传给生图 gateway。上传失败会立即提示。"
+          useR2Upload
+          onBusyChange={setRefUploading}
         />
         <div className="flex flex-wrap items-center justify-between gap-4">
           <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-[12px] text-stone-gray">
@@ -499,10 +504,21 @@ export function PipelineLab() {
           </div>
           <button
             onClick={runPipeline}
-            disabled={running || !query.trim()}
+            disabled={running || refUploading || !query.trim()}
+            title={
+              refUploading
+                ? "参考图上传中,等上传完成再跑批"
+                : !query.trim()
+                  ? "先输入 query"
+                  : "跑完整 Pipeline"
+            }
             className="rounded-md bg-terracotta px-6 py-2.5 text-[14px] font-medium text-white shadow-ring transition hover:bg-terracotta/90 disabled:cursor-not-allowed disabled:opacity-50"
           >
-            {running ? "Pipeline 跑批中..." : "跑 Pipeline"}
+            {running
+              ? "Pipeline 跑批中..."
+              : refUploading
+                ? "参考图上传中..."
+                : "跑 Pipeline"}
           </button>
         </div>
         {error && (

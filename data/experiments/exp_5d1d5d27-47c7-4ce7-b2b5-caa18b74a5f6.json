@@ -1,0 +1,29 @@
+{
+  "id": "exp_5d1d5d27-47c7-4ce7-b2b5-caa18b74a5f6",
+  "ts": 1778672405036,
+  "pipeline_id": "vertical_prompt_rewrite_v1",
+  "source": {
+    "kind": "pipeline_lab",
+    "run_id": ""
+  },
+  "inputs": {
+    "query": "为这款领带夹麦克风制作一套抖音商城产品图，包含三张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。\n卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "function_call_count": 1
+  },
+  "config_snapshot": {
+    "strategy_versions": {},
+    "models": {
+      "search": "gemini/gemini-3-flash-preview",
+      "review": "doubao/seed-2-0-pro-260215",
+      "image": "gpt-image-2"
+    }
+  },
+  "output": {},
+  "trace": [],
+  "tags": [],
+  "metadata": {
+    "author": "",
+    "note": ""
+  },
+  "status": "running"
+}

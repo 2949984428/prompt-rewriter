@@ -37,22 +37,24 @@ export async function POST(req: NextRequest) {
   }
 
   const imageModel = body.image_model || "gpt-image-2";
-  // 跟主 POST 路由同款:base64 data URL 先转 R2 公网 URL 再透传
-  const refs: string[] = [];
-  for (const r of body.reference_images ?? []) {
-    if (!r.startsWith("data:")) {
-      refs.push(r);
-      continue;
-    }
-    try {
-      refs.push(await uploadDataUrlToR2(r, "pipeline-ref"));
-    } catch (e) {
-      console.warn(
-        "[retry-image route] R2 上传失败,fallback base64 透传:",
-        e instanceof Error ? e.message : String(e),
-      );
-      refs.push(r);
-    }
+  // 跟主 POST 路由同款:base64 data URL 先转 R2 公网 URL,失败 502 抛回(不 fallback base64)
+  let refs: string[];
+  try {
+    refs = await Promise.all(
+      (body.reference_images ?? []).map((r) =>
+        r.startsWith("data:")
+          ? uploadDataUrlToR2(r, "pipeline-ref")
+          : Promise.resolve(r),
+      ),
+    );
+  } catch (e) {
+    return Response.json(
+      {
+        error: "参考图上传 R2 失败",
+        detail: e instanceof Error ? e.message : String(e),
+      },
+      { status: 502 },
+    );
   }
   const size = body.size || "1024x1024";
 
