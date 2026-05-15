@@ -16,6 +16,7 @@ import { parse as besteffortParse } from "best-effort-json-parser";
 import { z } from "zod";
 import { resolve as resolveStrategy } from "@/lib/strategies/registry";
 import type { PipelineCtx } from "./types";
+import { buildRefImagesMapping } from "./types";
 
 // LLM 输出 schema(server 端补 id,LLM 不必生成)
 const PlannerLLMOutputSchema = z.object({
@@ -48,15 +49,29 @@ export const stepCreationPlanner = defineStep<PipelineCtx>({
         `Search Intent (上游分类输出): ${JSON.stringify(ctx.step1.intent)}`,
       );
     }
+    if (ctx.referenceImages.length > 0) {
+      userParts.push(buildRefImagesMapping(ctx.referenceImages));
+    }
     userParts.push("请输出 function_calls JSON。");
-    const user = userParts.join("\n\n");
+    const userText = userParts.join("\n\n");
+
+    const userMsg =
+      ctx.referenceImages.length > 0
+        ? {
+            role: "user" as const,
+            content: [
+              { type: "text" as const, text: userText },
+              ...ctx.referenceImages.map((url) => ({
+                type: "image_url" as const,
+                image_url: { url, detail: "auto" as const },
+              })),
+            ],
+          }
+        : { role: "user" as const, content: userText };
 
     // LLM 网络异常不 catch,让 runner retry
     const raw = await callLLM(
-      [
-        { role: "system", content: sys },
-        { role: "user", content: user },
-      ],
+      [{ role: "system", content: sys }, userMsg],
       ctx.searchModel, // 复用 SP1 model(Gemini 3 Flash)
     );
 

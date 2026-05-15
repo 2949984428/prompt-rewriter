@@ -441,10 +441,11 @@ export function PipelineLab() {
           value={referenceImages}
           onChange={setReferenceImages}
           label="参考图(可选,图生图)"
-          hint="上传文件 → R2 拿公网 URL;或直接粘贴外部图片 URL(http/https)。跑批时按所选 model 的 schema 真实字段名透传给 image gateway。"
+          hint="上传文件 / Cmd+V 粘贴图片 → R2 拿公网 URL;或直接粘贴外部图片 URL(http/https)。"
           useR2Upload
           onBusyChange={setRefUploading}
           enableUrlInput
+          enablePaste
         />
         <div className="flex flex-wrap items-center justify-between gap-4">
           <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-[12px] text-stone-gray">

@@ -1,5 +1,773 @@
 [
   {
+    "id": "exp_9782c38d-bcea-4641-8f61-9bbd220f8ada",
+    "ts": 1778835846683,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图 [@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@image:#3:衣架]图中产品",
+    "summary": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图 [@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@imag…",
+    "status": "completed",
+    "ref": "data/experiments/exp_9782c38d-bcea-4641-8f61-9bbd220f8ada.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_5e244a04-310c-41eb-b19c-6debe9259747",
+    "ts": 1778834461039,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图 [@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@image:#3:衣架]图中产品",
+    "summary": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图 [@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@imag…",
+    "status": "completed",
+    "ref": "data/experiments/exp_5e244a04-310c-41eb-b19c-6debe9259747.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_a465071a-5753-47d2-809d-d402081b0594",
+    "ts": 1778833425978,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图 [@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@image:#3:衣架]图中产品",
+    "summary": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图 [@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@imag…",
+    "status": "completed",
+    "ref": "data/experiments/exp_a465071a-5753-47d2-809d-d402081b0594.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_88122c33-8bcb-4e73-8335-589df2486638",
+    "ts": 1778833205190,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图 [@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@image:#3:衣架]图中产品",
+    "summary": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图 [@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@imag…",
+    "status": "completed",
+    "ref": "data/experiments/exp_88122c33-8bcb-4e73-8335-589df2486638.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_ff617332-b004-4d0e-95bf-9b7b1105787d",
+    "ts": 1778832959448,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "核心图片是[@image:#1:无刷电机素材 (4)]把[@image:#2:无刷电机素材 (2)]和[@image:#3:电池续航素材 (2)]的元素融合后重新生成一个完成的产品爆炸图，每一个部分用引线引出特写图以及对应的英文名称。尺寸1:1，科技感，生成5张。8K 超高清，超高细节，高锐度，真实材质质感，精准还原机身哑光塑料纹理、金属刀头冷冽光泽、泥土真实肌理、人物皮肤与衣物的自然质感，画面干净通透，完全符合亚马逊电商产品场景图规范",
+    "summary": "核心图片是[@image:#1:无刷电机素材 (4)]把[@image:#2:无刷电机素材 (2)]和[@image:#3:电池续航素材 (2)]的元素融合后重…",
+    "status": "completed",
+    "ref": "data/experiments/exp_ff617332-b004-4d0e-95bf-9b7b1105787d.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_6f00d8e1-d3b2-4ae6-bec0-a747f0dedff9",
+    "ts": 1778832345074,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1:20260303-150051] 为耳钉产品页面设计淘宝平台视觉素材，场景图1张，包含产品特写和突显性能与材质，有欧美模特佩戴照",
+    "summary": "[@image:#1:20260303-150051] 为耳钉产品页面设计淘宝平台视觉素材，场景图1张，包含产品特写和突显性能与材质，有欧美模特佩戴照",
+    "status": "completed",
+    "ref": "data/experiments/exp_6f00d8e1-d3b2-4ae6-bec0-a747f0dedff9.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_1da82ab1-30b7-4379-98bd-fcb6148fb007",
+    "ts": 1778769083707,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "这是我的产品 [@image:#1:%E6%A1%A8%E6%9D%BF%E6%A3%9A%E6%8B%8D%E7%99%BD%E5%BA%95%E5%9B%BE]，生成淘宝场景图，阳光明亮的高山溪流户外场景，画面背景是辽阔的山谷、起伏的灰绿色山体、成片松林、清澈浅溪与散落巨石，天空晴朗湛蓝，整体呈现自然探险，户外休闲探险风，三位年轻男女在林间露营交流，一名男子站立手扶桨板，另一名背着登山包的男子站在一旁微笑交谈，一名女子半蹲坐在桨板边整理装备，周围摆放红色露营折叠椅、露营灯、背包、桨叶、收纳装备，树木之间悬挂蓝绿色吊床，画面自然抓拍感，人物互动轻松真实，构图丰富，户外生活方式大片，旅行与露营结合水上运动元素，高清摄影，真实光影，细节清晰，氛围温暖治愈，品牌感强，商业广告风",
+    "summary": "这是我的产品 [@image:#1:%E6%A1%A8%E6%9D%BF%E6%A3%9A%E6%8B%8D%E7%99%BD%E5%BA%95%E5%9B%B…",
+    "status": "completed",
+    "ref": "data/experiments/exp_1da82ab1-30b7-4379-98bd-fcb6148fb007.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_f1caa0c5-943d-4178-9e6b-8a7ca4b6f514",
+    "ts": 1778768775844,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1:image]生成1张泰国电商风格驱壁虎凝胶主图，比例1:1，整体风格贴合泰国Shopee爆款视觉。保持产品包装上的原有文字不变，主体突出产品本身。画面中要突出使用场景，营造真实生活氛围。重点表现壁虎害怕产品气味，出现明显“逃跑、远离”的动态效果，壁虎使用卡通风格表现，更夸张、更有视觉冲击力。整体构图要突出“痛点+效果”，画面干净但具有冲击力。字体要大、清晰，文案简短有力，只使用肯定句，不要过多文字。主图文案必须为泰语，颜色可以适当丰富，提高吸引力，符合电商高转化设计，可以夸张一点（类似Shopee热卖风格）。",
+    "summary": "[@image:#1:image]生成1张泰国电商风格驱壁虎凝胶主图，比例1:1，整体风格贴合泰国Shopee爆款视觉。保持产品包装上的原有文字不变，主体突出产…",
+    "status": "completed",
+    "ref": "data/experiments/exp_f1caa0c5-943d-4178-9e6b-8a7ca4b6f514.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_7941a197-3be4-4977-866e-462a2e8d7b07",
+    "ts": 1778768512745,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1:image]生成1张泰国电商风格驱壁虎凝胶主图，比例1:1，整体风格贴合泰国Shopee爆款视觉。保持产品包装上的原有文字不变，主体突出产品本身。画面中要突出使用场景，营造真实生活氛围。重点表现壁虎害怕产品气味，出现明显“逃跑、远离”的动态效果，壁虎使用卡通风格表现，更夸张、更有视觉冲击力。整体构图要突出“痛点+效果”，画面干净但具有冲击力。字体要大、清晰，文案简短有力，只使用肯定句，不要过多文字。主图文案必须为泰语，颜色可以适当丰富，提高吸引力，符合电商高转化设计，可以夸张一点（类似Shopee热卖风格）。",
+    "summary": "[@image:#1:image]生成1张泰国电商风格驱壁虎凝胶主图，比例1:1，整体风格贴合泰国Shopee爆款视觉。保持产品包装上的原有文字不变，主体突出产…",
+    "status": "completed",
+    "ref": "data/experiments/exp_7941a197-3be4-4977-866e-462a2e8d7b07.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_72142a26-e2a1-4e16-87e8-d36029a8e747",
+    "ts": 1778768363643,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作1张淘宝主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作1张淘宝主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克…",
+    "status": "completed",
+    "ref": "data/experiments/exp_72142a26-e2a1-4e16-87e8-d36029a8e747.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_f6b3d7cd-ff04-4f61-8711-b994e2ec2679",
+    "ts": 1778767867059,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作1张淘宝主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作1张淘宝主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克…",
+    "status": "completed",
+    "ref": "data/experiments/exp_f6b3d7cd-ff04-4f61-8711-b994e2ec2679.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_721ccbfe-1745-4cae-af10-262729a89eb0",
+    "ts": 1778767675516,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作1张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作1张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，…",
+    "status": "completed",
+    "ref": "data/experiments/exp_721ccbfe-1745-4cae-af10-262729a89eb0.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_ce746d3c-e872-4c9c-9b6c-c2e902fcb671",
+    "ts": 1778767315274,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1: Image] 根据这个喜字窗花图案，帮我生成1张淘宝主图，要求图案结构、颜色不变，不要带文字标题，窗景是实景现代小区落地窗。",
+    "summary": "[@image:#1: Image] 根据这个喜字窗花图案，帮我生成1张淘宝主图，要求图案结构、颜色不变，不要带文字标题，窗景是实景现代小区落地窗。",
+    "status": "completed",
+    "ref": "data/experiments/exp_ce746d3c-e872-4c9c-9b6c-c2e902fcb671.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_8d416269-ac9f-4a23-a5fc-cdae633920b8",
+    "ts": 1778767028556,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1: Image] 根据这个喜字窗花图案，帮我生成2张淘宝主图，要求图案结构、颜色不变，不要带文字标题，窗景是实景现代小区落地窗。",
+    "summary": "[@image:#1: Image] 根据这个喜字窗花图案，帮我生成2张淘宝主图，要求图案结构、颜色不变，不要带文字标题，窗景是实景现代小区落地窗。",
+    "status": "completed",
+    "ref": "data/experiments/exp_8d416269-ac9f-4a23-a5fc-cdae633920b8.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_9af033d6-4f07-499b-8de2-d1ee75c000ab",
+    "ts": 1778766531376,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1:第一张 灰色30004] 换个背景，电商主图，ULOP宝宝餐椅双模式展示，保持产品配色、造型、结构、细节、角度不变，左侧餐椅为躺卧模式，一位德国宝宝安静安睡，右侧餐椅为就餐模式，一位德国小女孩乖巧就坐，极简北欧风客厅背景，柔和自然光，高清商业摄影，8K质感，构图稳定，突出产品坐躺两用、多功能的核心卖点，画面温馨治愈，适合淘宝京东电商主图",
+    "summary": "[@image:#1:第一张 灰色30004] 换个背景，电商主图，ULOP宝宝餐椅双模式展示，保持产品配色、造型、结构、细节、角度不变，左侧餐椅为躺卧模式，一…",
+    "status": "completed",
+    "ref": "data/experiments/exp_9af033d6-4f07-499b-8de2-d1ee75c000ab.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_1acecab0-44f9-4465-bda2-a245b724a82c",
+    "ts": 1778765254221,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，做一张拼多多女包直播间风格商品图，突出包包五金和质感，背景偏高级商场街拍风，整体显贵一点 ,看起来像品牌专柜款",
+    "summary": "基于这张图，做一张拼多多女包直播间风格商品图，突出包包五金和质感，背景偏高级商场街拍风，整体显贵一点 ,看起来像品牌专柜款",
+    "status": "completed",
+    "ref": "data/experiments/exp_1acecab0-44f9-4465-bda2-a245b724a82c.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_374124de-d4f2-4ab6-85de-0750f4cda2e8",
+    "ts": 1778765079013,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，做一张拼多多女包直播间风格商品图，突出包包五金和质感，背景偏高级商场街拍风，整体显贵一点 ,看起来像品牌专柜款",
+    "summary": "基于这张图，做一张拼多多女包直播间风格商品图，突出包包五金和质感，背景偏高级商场街拍风，整体显贵一点 ,看起来像品牌专柜款",
+    "status": "completed",
+    "ref": "data/experiments/exp_374124de-d4f2-4ab6-85de-0750f4cda2e8.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_cb6a948b-28c9-4de1-970b-846569ab3094",
+    "ts": 1778764762307,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，做一张拼多多女包直播间风格商品图，突出包包五金和质感，背景偏高级商场街拍风，整体显贵一点\n\n核心卖点：\n- 显贵高级感\n- 金属五金质感\n- 商场街拍风\n- 直播间视觉吸睛\n- 适合送礼\n- 看起来像品牌专柜款",
+    "summary": "基于这张图，做一张拼多多女包直播间风格商品图，突出包包五金和质感，背景偏高级商场街拍风，整体显贵一点\n\n核心卖点：\n- 显贵高级感\n- 金属五金质感\n- 商场街…",
+    "status": "completed",
+    "ref": "data/experiments/exp_cb6a948b-28c9-4de1-970b-846569ab3094.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_7379c0a4-9184-45e6-b6dc-8cdcbcf08da8",
+    "ts": 1778763899706,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，改一个拼多多会卖爆的小众女包，颜色高级一点，适合年轻女生拍照穿搭，增加一点韩系感觉\n\n核心卖点：\n- 韩系轻奢风\n- 小众设计感\n- 拍照出片\n- 适合学生和白领\n- 网红同款感觉\n- 适合短视频种草",
+    "summary": "基于这张图，改一个拼多多会卖爆的小众女包，颜色高级一点，适合年轻女生拍照穿搭，增加一点韩系感觉\n\n核心卖点：\n- 韩系轻奢风\n- 小众设计感\n- 拍照出片\n- …",
+    "status": "completed",
+    "ref": "data/experiments/exp_7379c0a4-9184-45e6-b6dc-8cdcbcf08da8.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_98a2c1c1-1cfb-4ed3-8cdb-cf0cdf3316a0",
+    "ts": 1778763383231,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，帮我设计一个拼多多爆款保温杯，风格年轻一点，可爱一点，适合学生和女生，颜色干净一点，杯子上的图案丰富一点，看起来像潮流文创款\n\n核心卖点：\n- 高颜值少女风\n- 拼多多爆款视觉\n- 适合学生党\n- 拍照好看\n- 看起来像品牌联名\n- 低价但不廉价",
+    "summary": "基于这张图，帮我设计一个拼多多爆款保温杯，风格年轻一点，可爱一点，适合学生和女生，颜色干净一点，杯子上的图案丰富一点，看起来像潮流文创款\n\n核心卖点：\n- 高颜…",
+    "status": "completed",
+    "ref": "data/experiments/exp_98a2c1c1-1cfb-4ed3-8cdb-cf0cdf3316a0.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_6b2849b0-1b89-4a6a-8908-ff7791d1deb7",
+    "ts": 1778762854781,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，帮我设计一个拼多多爆款保温杯，风格年轻一点，可爱一点，适合学生和女生，颜色干净一点，杯子上的图案丰富一点，看起来像潮流文创款\n\n核心卖点：\n- 高颜值少女风\n- 拼多多爆款视觉\n- 适合学生党\n- 拍照好看\n- 看起来像品牌联名\n- 低价但不廉价",
+    "summary": "基于这张图，帮我设计一个拼多多爆款保温杯，风格年轻一点，可爱一点，适合学生和女生，颜色干净一点，杯子上的图案丰富一点，看起来像潮流文创款\n\n核心卖点：\n- 高颜…",
+    "status": "completed",
+    "ref": "data/experiments/exp_6b2849b0-1b89-4a6a-8908-ff7791d1deb7.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_db9ec14a-09a7-4110-b81f-b94802a1e813",
+    "ts": 1778761601855,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "比例1:1,2K，学习一下[@image:#1:电商详情促销海报]\n风格和排版，用[@image:#2: Image]重新帮我生成一张相似的全新图发布在拼多多",
+    "summary": "比例1:1,2K，学习一下[@image:#1:电商详情促销海报]\n风格和排版，用[@image:#2: Image]重新帮我生成一张相似的全新图发布在拼多多",
+    "status": "completed",
+    "ref": "data/experiments/exp_db9ec14a-09a7-4110-b81f-b94802a1e813.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_4fd44b18-12c3-4066-a400-e63740b8acbf",
+    "ts": 1778761174594,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，改一个便宜点但看着不廉价的月饼礼盒，适合拼多多走量，包装丰富一点，送长辈有面子\n\n核心卖点：\n- 低成本量产感\n- 看起来划算\n- 送礼体面\n- 国风节日氛围\n- 包装元素丰富\n- 适合下沉市场用户审美",
+    "summary": "基于这张图，改一个便宜点但看着不廉价的月饼礼盒，适合拼多多走量，包装丰富一点，送长辈有面子\n\n核心卖点：\n- 低成本量产感\n- 看起来划算\n- 送礼体面\n- 国…",
+    "status": "completed",
+    "ref": "data/experiments/exp_4fd44b18-12c3-4066-a400-e63740b8acbf.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_b0e87da2-60a2-47b9-8ad3-8d462d465067",
+    "ts": 1778760755626,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，改一个便宜点但看着不廉价的月饼礼盒，适合拼多多走量，包装丰富一点，送长辈有面子\n\n核心卖点：\n- 低成本量产感\n- 看起来划算\n- 送礼体面\n- 国风节日氛围\n- 包装元素丰富\n- 适合下沉市场用户审美",
+    "summary": "基于这张图，改一个便宜点但看着不廉价的月饼礼盒，适合拼多多走量，包装丰富一点，送长辈有面子\n\n核心卖点：\n- 低成本量产感\n- 看起来划算\n- 送礼体面\n- 国…",
+    "status": "completed",
+    "ref": "data/experiments/exp_b0e87da2-60a2-47b9-8ad3-8d462d465067.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_213bf662-a07b-4a21-8484-e2faf49be07d",
+    "ts": 1778760226460,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，设计一个年轻化的新中式月饼礼盒，不要太传统，偏新消费品牌风格，适合年轻人送朋友，包装精致一点，适合拍照分享\n\n核心卖点：\n- 年轻化国风设计\n- 新中式高级感\n- 适合女生和年轻用户\n- 有社交传播感\n- 适合小红书风格拍照\n- 看起来像品牌联名款",
+    "summary": "基于这张图，设计一个年轻化的新中式月饼礼盒，不要太传统，偏新消费品牌风格，适合年轻人送朋友，包装精致一点，适合拍照分享\n\n核心卖点：\n- 年轻化国风设计\n- 新…",
+    "status": "completed",
+    "ref": "data/experiments/exp_213bf662-a07b-4a21-8484-e2faf49be07d.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_61c06847-a386-4f70-b369-93b8bf2597fc",
+    "ts": 1778760033090,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，帮我设计一个中秋月饼礼盒，国风一点，高级一点，适合送礼，包装看起来有档次，但不要太贵气，适合拼多多卖货\n\n核心卖点：\n- 高端送礼感\n- 中国风文化氛围\n- 长辈会喜欢\n- 电商主图吸睛\n- 看起来高级但价格不能显得太贵\n- 适合中秋节团圆送礼场景",
+    "summary": "基于这张图，帮我设计一个中秋月饼礼盒，国风一点，高级一点，适合送礼，包装看起来有档次，但不要太贵气，适合拼多多卖货\n\n核心卖点：\n- 高端送礼感\n- 中国风文化…",
+    "status": "completed",
+    "ref": "data/experiments/exp_61c06847-a386-4f70-b369-93b8bf2597fc.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_a19d1782-bb7a-452a-9fb4-53c0d1a2df28",
+    "ts": 1778753136508,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，帮我设计一个中秋月饼礼盒，国风一点，高级一点，适合送礼，包装看起来有档次，但不要太贵气，适合拼多多卖货\n\n核心卖点：\n- 高端送礼感\n- 中国风文化氛围\n- 长辈会喜欢\n- 电商主图吸睛\n- 看起来高级但价格不能显得太贵\n- 适合中秋节团圆送礼场景",
+    "summary": "基于这张图，帮我设计一个中秋月饼礼盒，国风一点，高级一点，适合送礼，包装看起来有档次，但不要太贵气，适合拼多多卖货\n\n核心卖点：\n- 高端送礼感\n- 中国风文化…",
+    "status": "completed",
+    "ref": "data/experiments/exp_a19d1782-bb7a-452a-9fb4-53c0d1a2df28.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_b3b09a30-bcdc-4137-9aad-efaac7b5b9f1",
+    "ts": 1778750134762,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "基于这张图，帮我设计一个中秋月饼礼盒，国风一点，高级一点，适合送礼，包装看起来有档次，但不要太贵气，适合拼多多卖货\n\n核心卖点：\n- 高端送礼感\n- 中国风文化氛围\n- 长辈会喜欢\n- 电商主图吸睛\n- 看起来高级但价格不能显得太贵\n- 适合中秋节团圆送礼场景",
+    "summary": "基于这张图，帮我设计一个中秋月饼礼盒，国风一点，高级一点，适合送礼，包装看起来有档次，但不要太贵气，适合拼多多卖货\n\n核心卖点：\n- 高端送礼感\n- 中国风文化…",
+    "status": "completed",
+    "ref": "data/experiments/exp_b3b09a30-bcdc-4137-9aad-efaac7b5b9f1.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_8061eeff-e449-41aa-a6e8-e08774fff8a9",
+    "ts": 1778749231170,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1:938a05a4a9582e3e75c84ee40feace78][@image:#2:f6b7a4399f86c6cdc1bbd38804b45e12] 帮我给图一的产品换成图二的效果图，生成一张纯色补的场景图，有茶元素发布于拼多多。",
+    "summary": "[@image:#1:938a05a4a9582e3e75c84ee40feace78][@image:#2:f6b7a4399f86c6cdc1bbd3880…",
+    "status": "completed",
+    "ref": "data/experiments/exp_8061eeff-e449-41aa-a6e8-e08774fff8a9.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_72679a08-c0e3-4c25-87f1-80756374b427",
+    "ts": 1778745748848,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1:938a05a4a9582e3e75c84ee40feace78][@image:#2:f6b7a4399f86c6cdc1bbd38804b45e12] 帮我给图一的产品换成图二的效果图，生成一张纯色补的场景图，有茶元素发布于拼多多。",
+    "summary": "[@image:#1:938a05a4a9582e3e75c84ee40feace78][@image:#2:f6b7a4399f86c6cdc1bbd3880…",
+    "status": "completed",
+    "ref": "data/experiments/exp_72679a08-c0e3-4c25-87f1-80756374b427.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_a22dde79-67b1-4420-8043-313a7ab390da",
+    "ts": 1778679357126,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图\n[@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@image:#3:衣架]图中产品",
+    "summary": "用这个[@image:#1:衣架]生成一张淘宝场景图，可以参考这张图\n[@image:#2:裙子]场景的形式，场景需要有差异化，但是产品一定要是这个[@imag…",
+    "status": "completed",
+    "ref": "data/experiments/exp_a22dde79-67b1-4420-8043-313a7ab390da.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_11f95df3-befb-490a-8281-f7c65f0b0b78",
+    "ts": 1778679257664,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "[@image:#1:第一张 灰色30004] 换个背景，电商主图，ULOP宝宝餐椅双模式展示，保持产品配色、造型、结构、细节、角度不变，左侧餐椅为躺卧模式，一位德国宝宝安静安睡，右侧餐椅为就餐模式，一位德国小女孩乖巧就坐，极简北欧风客厅背景，柔和自然光，高清商业摄影，8K质感，构图稳定，突出产品坐躺两用、多功能的核心卖点，画面温馨治愈，适合淘宝京东电商主图",
+    "summary": "[@image:#1:第一张 灰色30004] 换个背景，电商主图，ULOP宝宝餐椅双模式展示，保持产品配色、造型、结构、细节、角度不变，左侧餐椅为躺卧模式，一…",
+    "status": "completed",
+    "ref": "data/experiments/exp_11f95df3-befb-490a-8281-f7c65f0b0b78.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "openai/gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
     "id": "exp_1837abfc-ec4d-460c-b1f3-64faf780c95c",
     "ts": 1778678230872,
     "lab_id": "labs.pipeline.experiment",

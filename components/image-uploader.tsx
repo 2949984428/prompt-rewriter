@@ -46,6 +46,8 @@ interface ImageUploaderProps {
   onBusyChange?: (busy: boolean) => void;
   // 2026-05-13:启用后多一行 URL 输入条,粘贴 http(s):// URL 直接入 value 不上传
   enableUrlInput?: boolean;
+  // 2026-05-15:启用后监听 document paste,Cmd+V 粘贴图片直接入 value(走 onPick 全套链路)
+  enablePaste?: boolean;
 }
 
 function formatBytes(b: number): string {
@@ -69,6 +71,7 @@ export function ImageUploader({
   useR2Upload = false,
   onBusyChange,
   enableUrlInput = false,
+  enablePaste = false,
 }: ImageUploaderProps) {
   const inputRef = useRef<HTMLInputElement>(null);
   const [error, setError] = useState<string | null>(null);
@@ -206,6 +209,37 @@ export function ImageUploader({
   const onRemove = (i: number) => {
     onChange(value.filter((_, idx) => idx !== i));
   };
+
+  // 2026-05-15:document-level 粘贴监听(Cmd+V 直接粘贴图片到 uploader)
+  // 仅在 enablePaste=true 时挂;同页面多个启用 paste 的 uploader 时只第一个生效
+  // (paste 触发 capture phase,先 listen 的先消费)。Pipeline lab 只有一个,不冲突
+  useEffect(() => {
+    if (!enablePaste) return;
+    const handler = (e: ClipboardEvent) => {
+      // 用户在 textarea / input 里粘贴文本不抢:只处理 clipboardData.items 含 image 时
+      const items = e.clipboardData?.items;
+      if (!items) return;
+      const files: File[] = [];
+      for (let i = 0; i < items.length; i++) {
+        const it = items[i];
+        if (it.kind !== "file") continue;
+        if (!it.type.startsWith("image/")) continue;
+        const f = it.getAsFile();
+        if (f) files.push(f);
+      }
+      if (files.length === 0) return;
+      e.preventDefault();
+      // 构造 FileList(DataTransfer 是唯一合法构造方式)
+      const dt = new DataTransfer();
+      for (const f of files) dt.items.add(f);
+      void onPick(dt.files);
+    };
+    document.addEventListener("paste", handler);
+    return () => {
+      document.removeEventListener("paste", handler);
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [enablePaste, value.length, effMax]);
 
   // URL 输入(enableUrlInput 模式):粘贴 http(s):// URL,直接入 value(不走 R2)
   const [urlInput, setUrlInput] = useState("");

@@ -1,5 +1,5 @@
 {
-  "active": "v2",
+  "active": "v3",
   "versions": [
     {
       "id": "v1",
@@ -13,6 +13,13 @@
       "label": "Self-Check 加 actions/spatial/camera 字段落地校验",
       "notes": "vertical-standard v2 引入 prompt 响应完整度规则,SP2 self-check 段同步加 1 条 bullet:用户提的动作/空间位置/镜头描述必须落到对应字段,不能 silently drop。",
       "createdAt": "2026-05-12T21:50:00.000Z",
+      "author": "巧克力"
+    },
+    {
+      "id": "v3",
+      "label": "v3 · Internalization rules + Platform-driven sequence override + 主体内部 8 处规则打架修复(Default + Vertical/Platform Override 双层优先级模型) + Sequence position identification per item(单 prompt 序列位置识别)",
+      "notes": "7 处通用纪律升级(基于 v2):① Brief 句加平台名锚定;② Concrete Fact 加翻译颗粒度约束;③ Field mapping 细分元指令负向 vs 视觉负向;④ How to use 加 Internalization rules 5 条硬规则;⑤ Multi-Output 加 Platform-driven sequence override;⑥ Procedure Step 7 inject → internalize+translate;⑦ Self-Check 加规则原文残留检查。Example 5 修订(去规则原文)。**架构原则**:sp-rewrite 只含通用纪律,平台特有示例移到 platform-tone 拼多多段。2026-05-14 加 3 处主体内部规则打架修复(冲突 A/B/C):Fix 1 Field Guidance 段开头加 Global Note(default 可被 Vertical/Platform 扩展);Fix 2 Concrete Fact 加 Vertical/Platform bullets 作 evidence;Fix 3 How to use 'Do not introduce' 句加 extension rule exception。",
+      "createdAt": "2026-05-14T00:00:00.000Z",
       "author": "巧克力"
     }
   ]

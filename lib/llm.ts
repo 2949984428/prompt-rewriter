@@ -2,7 +2,15 @@
 import OpenAI from "openai";
 import type { ChatTool } from "./tool-schema";
 
-type ChatMsg = { role: "system" | "user"; content: string };
+// 2026-05-15:支持多模态消息(OpenAI vision content parts 格式)
+// user 消息可以是 string 或 content parts 数组;system 仍是纯 string(OpenAI 限制)
+type ContentPart =
+  | { type: "text"; text: string }
+  | { type: "image_url"; image_url: { url: string; detail?: "auto" | "low" | "high" } };
+type ChatMsg =
+  | { role: "system"; content: string }
+  | { role: "user"; content: string | ContentPart[] };
+export type LLMContentPart = ContentPart;
 
 export class LLMError extends Error {
   constructor(message: string, public raw?: string) {

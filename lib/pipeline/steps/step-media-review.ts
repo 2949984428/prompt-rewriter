@@ -13,6 +13,7 @@ import { parse as besteffortParse } from "best-effort-json-parser";
 import { MediaPromptReviewSchema } from "@/lib/pipeline/schema-shared";
 import { resolve as resolveStrategy } from "@/lib/strategies/registry";
 import type { PipelineCtx } from "./types";
+import { buildRefImagesMapping } from "./types";
 
 export const stepMediaReview = defineStep<PipelineCtx>({
   id: "media_review",
@@ -84,14 +85,28 @@ export const stepMediaReview = defineStep<PipelineCtx>({
         )}`,
       );
     }
-    const user = userParts.join("\n\n");
+    if (ctx.referenceImages.length > 0) {
+      userParts.push(buildRefImagesMapping(ctx.referenceImages));
+    }
+    const userText = userParts.join("\n\n");
+
+    const userMsg =
+      ctx.referenceImages.length > 0
+        ? {
+            role: "user" as const,
+            content: [
+              { type: "text" as const, text: userText },
+              ...ctx.referenceImages.map((url) => ({
+                type: "image_url" as const,
+                image_url: { url, detail: "auto" as const },
+              })),
+            ],
+          }
+        : { role: "user" as const, content: userText };
 
     // LLM 调用本身不 catch,让 runner 按 retry 重试
     const raw = await callLLM(
-      [
-        { role: "system", content: sys },
-        { role: "user", content: user },
-      ],
+      [{ role: "system", content: sys }, userMsg],
       ctx.reviewModel,
     );
 

@@ -14,6 +14,7 @@ import { parse as besteffortParse } from "best-effort-json-parser";
 import { SearchIntentSchema } from "@/lib/pipeline/schema-shared";
 import { resolve as resolveStrategy } from "@/lib/strategies/registry";
 import type { PipelineCtx } from "./types";
+import { buildRefImagesMapping } from "./types";
 
 export const stepSearchIntent = defineStep<PipelineCtx>({
   id: "search_intent",
@@ -24,14 +25,29 @@ export const stepSearchIntent = defineStep<PipelineCtx>({
     // Phase 2 · 走 Registry 拿 active 版本(每次跑批 readFile,改完立刻生效)
     const sp1 = await resolveStrategy("sp-classification");
     const sys = sp1.content;
-    const user = `用户 query: ${ctx.query}\n\n请输出 SearchIntentResult JSON。`;
+    const refMapping = buildRefImagesMapping(ctx.referenceImages);
+    const userText = ctx.referenceImages.length > 0
+      ? `用户 query: ${ctx.query}\n\n${refMapping}\n\n请输出 SearchIntentResult JSON。`
+      : `用户 query: ${ctx.query}\n\n请输出 SearchIntentResult JSON。`;
+
+    // 多模态 content:有参考图时 text + image_url 混排;无图时纯文本(老链路)
+    const userMsg =
+      ctx.referenceImages.length > 0
+        ? {
+            role: "user" as const,
+            content: [
+              { type: "text" as const, text: userText },
+              ...ctx.referenceImages.map((url) => ({
+                type: "image_url" as const,
+                image_url: { url, detail: "auto" as const },
+              })),
+            ],
+          }
+        : { role: "user" as const, content: userText };
 
     // LLM 调用本身的异常(network/timeout)不 catch,让 runner 按 retry 重试
     const raw = await callLLM(
-      [
-        { role: "system", content: sys },
-        { role: "user", content: user },
-      ],
+      [{ role: "system", content: sys }, userMsg],
       ctx.searchModel,
     );
 

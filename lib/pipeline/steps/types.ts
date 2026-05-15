@@ -45,3 +45,20 @@ export interface PipelineCtx {
   // 字段名跟现网代码字段保持一致(vertical / platform 而非 plan 的 L1 / L2)
   strategyVersions?: Record<string, string>;
 }
+
+// 共用:有参考图时给 LLM 的 user text 加一段映射说明,
+// 让 query 里的 `[@image:#N:label]` 占位符跟下方 image_url[] 顺序一一对应
+export function buildRefImagesMapping(refs: string[]): string {
+  if (refs.length === 0) return "";
+  const lines = refs.map(
+    (_, i) =>
+      `- 第 ${i + 1} 张参考图 = query 文本里的 [@image:#${i + 1}:...] 占位符`,
+  );
+  return [
+    `## 参考图 (${refs.length} 张,按顺序附在本消息后)`,
+    "",
+    ...lines,
+    "",
+    "请基于图内容理解用户意图(细节描述以图为准,不要凭空发明)。",
+  ].join("\n");
+}

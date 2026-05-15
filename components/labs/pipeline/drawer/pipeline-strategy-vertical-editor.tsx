@@ -13,6 +13,7 @@
 
 import { useMemo, useState } from "react";
 import { MdPreview, MdViewSwitcher } from "@/components/drawer/md-preview";
+import { WysiwygBulletEditor } from "./wysiwyg-bullet-editor";
 import { InfoIcon } from "@/components/labs/pipeline/info-icon";
 import {
   verticalIndexAtom,
@@ -259,9 +260,11 @@ export function PipelineStrategyVerticalEditor() {
                 className="w-full resize-y rounded-md border border-border-cream bg-ivory px-3 py-2.5 font-mono text-[12.5px] leading-[1.7] text-near-black focus:border-terracotta focus:outline-none"
               />
             ) : (
-              <div className="rounded-md border border-border-cream bg-parchment/40 px-4 py-3">
-                <MdPreview source={textToBullets(currentStandardsText)} />
-              </div>
+              <WysiwygBulletEditor
+                value={currentStandardsText}
+                onChange={setStandardsText}
+                placeholder="双击进入编辑,失焦自动保存"
+              />
             )}
           </div>
         )}
@@ -364,11 +367,11 @@ export function PipelineStrategyVerticalEditor() {
                               className="w-full resize-y rounded-md border border-border-cream bg-ivory px-3 py-2.5 font-mono text-[12.5px] leading-[1.7] text-near-black focus:border-terracotta focus:outline-none"
                             />
                           ) : (
-                            <div className="rounded-md border border-border-cream bg-parchment/40 px-4 py-3">
-                              <MdPreview
-                                source={textToBullets(tone.join("\n"))}
-                              />
-                            </div>
+                            <WysiwygBulletEditor
+                              value={tone.join("\n")}
+                              onChange={(text) => setToneText(key, text)}
+                              placeholder="双击进入编辑,失焦自动保存"
+                            />
                           )}
                         </div>
                       )}
