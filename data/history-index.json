@@ -1,5 +1,125 @@
 [
   {
+    "id": "exp_1873d946-4940-44b3-a8c6-5b6111445919",
+    "ts": 1778839647013,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "这是我的产品 [@image:#1:%E6%A1%A8%E6%9D%BF%E6%A3%9A%E6%8B%8D%E7%99%BD%E5%BA%95%E5%9B%BE]，生成淘宝场景图，阳光明亮的高山溪流户外场景，画面背景是辽阔的山谷、起伏的灰绿色山体、成片松林、清澈浅溪与散落巨石，天空晴朗湛蓝，整体呈现自然探险，户外休闲探险风，三位年轻男女在林间露营交流，一名男子站立手扶桨板，另一名背着登山包的男子站在一旁微笑交谈，一名女子半蹲坐在桨板边整理装备，周围摆放红色露营折叠椅、露营灯、背包、桨叶、收纳装备，树木之间悬挂蓝绿色吊床，画面自然抓拍感，人物互动轻松真实，构图丰富，户外生活方式大片，旅行与露营结合水上运动元素，高清摄影，真实光影，细节清晰，氛围温暖治愈，品牌感强，商业广告风",
+    "summary": "这是我的产品 [@image:#1:%E6%A1%A8%E6%9D%BF%E6%A3%9A%E6%8B%8D%E7%99%BD%E5%BA%95%E5%9B%B…",
+    "status": "completed",
+    "ref": "data/experiments/exp_1873d946-4940-44b3-a8c6-5b6111445919.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_f2356cce-c61a-49a4-ba80-4920855fefba",
+    "ts": 1778839103891,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "这是我的产品 [@image:#1:%E6%A1%A8%E6%9D%BF%E6%A3%9A%E6%8B%8D%E7%99%BD%E5%BA%95%E5%9B%BE]，生成淘宝场景图，阳光明亮的高山溪流户外场景，画面背景是辽阔的山谷、起伏的灰绿色山体、成片松林、清澈浅溪与散落巨石，天空晴朗湛蓝，整体呈现自然探险，户外休闲探险风，三位年轻男女在林间露营交流，一名男子站立手扶桨板，另一名背着登山包的男子站在一旁微笑交谈，一名女子半蹲坐在桨板边整理装备，周围摆放红色露营折叠椅、露营灯、背包、桨叶、收纳装备，树木之间悬挂蓝绿色吊床，画面自然抓拍感，人物互动轻松真实，构图丰富，户外生活方式大片，旅行与露营结合水上运动元素，高清摄影，真实光影，细节清晰，氛围温暖治愈，品牌感强，商业广告风",
+    "summary": "这是我的产品 [@image:#1:%E6%A1%A8%E6%9D%BF%E6%A3%9A%E6%8B%8D%E7%99%BD%E5%BA%95%E5%9B%B…",
+    "status": "completed",
+    "ref": "data/experiments/exp_f2356cce-c61a-49a4-ba80-4920855fefba.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_85d1d52e-a94c-45e6-887c-a7c8326949c6",
+    "ts": 1778838652181,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作1张淘宝主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作1张淘宝主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克…",
+    "status": "completed",
+    "ref": "data/experiments/exp_85d1d52e-a94c-45e6-887c-a7c8326949c6.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_ae427975-c7d7-498b-87f8-8230bb09b3e3",
+    "ts": 1778837936405,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作1张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作1张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，…",
+    "status": "completed",
+    "ref": "data/experiments/exp_ae427975-c7d7-498b-87f8-8230bb09b3e3.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
+    "id": "exp_09b0938c-6416-4625-a80e-b066af1d5557",
+    "ts": 1778837575927,
+    "lab_id": "labs.pipeline.experiment",
+    "query": "为这款领带夹麦克风制作1张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，清晰音质：体验先进的无线麦克风专业技术带来的录音棚级音质。2、这款适用于 iPhone 的麦克风可提供丰富、无损的音频，是录音和直播的理想之选。3、三种音调模式，满足各种场景需求，让您的声音更加个性化。防风海绵罩可最大限度地降低背景噪音，确保人声清晰。3、小巧轻便的无线设计，使其成为 iPhone 的最佳麦克风之选。通用兼容性，一体化设计：告别杂乱的适配器和线缆！这款 iPhone 麦克风配备多功能三合一接收器，即插即用，兼容 iPhone、安卓手机、笔记本电脑和相机。",
+    "summary": "为这款领带夹麦克风制作1张主图，尺寸800*800px，一张详情页，尺寸：750×1000px（3:4 [@image:#1:1]。 卖点：1、专业无线麦克风，…",
+    "status": "completed",
+    "ref": "data/experiments/exp_09b0938c-6416-4625-a80e-b066af1d5557.json",
+    "pm_score_avg": null,
+    "pm_score_count": 0,
+    "metadata": {
+      "pipeline_id": "vertical_prompt_rewrite_v1",
+      "strategy_versions": {},
+      "models": {
+        "search": "gemini/gemini-3-flash-preview",
+        "review": "doubao/seed-2-0-pro-260215",
+        "image": "gpt-image-2"
+      },
+      "tags": [],
+      "author": "",
+      "note": "",
+      "source_kind": "pipeline_lab"
+    }
+  },
+  {
     "id": "exp_9782c38d-bcea-4641-8f61-9bbd220f8ada",
     "ts": 1778835846683,
     "lab_id": "labs.pipeline.experiment",

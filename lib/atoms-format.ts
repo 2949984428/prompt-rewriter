@@ -48,6 +48,7 @@ export type LabId =
   | "pipeline-mgmt"   // "Pipeline 管理"(2026-05-13 新增,列表页)
   | "experiments"
   | "langfuse"
+  | "chat"            // 2026-05-15:LLM 多模态对话 lab(参考 Claude UX)
   // 题目分组(顶级 sidebar 可见,subTab 切换)
   | "questions"
   // ─── 隐藏 / 兼容用 LabId(不在 sidebar 显示,代码仍 live)───

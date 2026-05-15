@@ -22,6 +22,7 @@ import { LangfuseLab } from "@/components/labs/langfuse/lab";
 import { QuestionsLab } from "@/components/labs/questions/lab";
 import { PipelineMgmtLab } from "@/components/labs/pipeline-mgmt/lab";
 import { PipelineTestLab } from "@/components/labs/pipeline-test/lab";
+import { ChatLab } from "@/components/labs/chat/lab";
 import { DrawerShell } from "@/components/drawer/drawer-shell";
 import { FormatDrawerShell } from "@/components/labs/format/drawer/format-drawer-shell";
 import { PipelineDrawer } from "@/components/labs/pipeline/drawer/pipeline-drawer";
@@ -49,6 +50,8 @@ export default function Page() {
             <PipelineLab />
           ) : lab === "experiments" ? (
             <ExperimentsLab />
+          ) : lab === "chat" ? (
+            <ChatLab />
           ) : lab === "langfuse" ? (
             <LangfuseLab />
           ) : lab === "questions" ? (

@@ -39,6 +39,7 @@ const GROUPS: { title: string; tabs: Tab[] }[] = [
     tabs: [
       { id: "pipeline-mgmt", label: "Pipeline 管理" },
       { id: "experiments", label: "Experiments" },
+      { id: "chat", label: "对话" },
       { id: "langfuse", label: "Langfuse 查看" },
     ],
   },
